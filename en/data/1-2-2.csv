@@ -1,7 +1,1837 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Gebietseinheit,Kategorie,GeoCode,Value
+2011,Niedersachsen,Gebäude,K030,2152080.0
+2012,Niedersachsen,Gebäude,K030,2164783.0
+2013,Niedersachsen,Gebäude,K030,2178181.0
+2014,Niedersachsen,Gebäude,K030,2192538.0
+2015,Niedersachsen,Gebäude,K030,2206422.0
+2016,Niedersachsen,Gebäude,K030,2222120.0
+2017,Niedersachsen,Gebäude,K030,2236433.0
+2018,Niedersachsen,Gebäude,K030,2250210.0
+2019,Niedersachsen,Gebäude,K030,2264496.0
+2011,Braunschweig,Gebäude,K031,400642.0
+2012,Braunschweig,Gebäude,K031,402195.0
+2013,Braunschweig,Gebäude,K031,403776.0
+2014,Braunschweig,Gebäude,K031,405515.0
+2015,Braunschweig,Gebäude,K031,407261.0
+2016,Braunschweig,Gebäude,K031,409394.0
+2017,Braunschweig,Gebäude,K031,411460.0
+2018,Braunschweig,Gebäude,K031,413273.0
+2019,Braunschweig,Gebäude,K031,415284.0
+2011,Braunschweig Stadt,Gebäude,K03101,41057.0
+2012,Braunschweig Stadt,Gebäude,K03101,41277.0
+2013,Braunschweig Stadt,Gebäude,K03101,41430.0
+2014,Braunschweig Stadt,Gebäude,K03101,41569.0
+2015,Braunschweig Stadt,Gebäude,K03101,41714.0
+2016,Braunschweig Stadt,Gebäude,K03101,41848.0
+2017,Braunschweig Stadt,Gebäude,K03101,41913.0
+2018,Braunschweig Stadt,Gebäude,K03101,42041.0
+2019,Braunschweig Stadt,Gebäude,K03101,42196.0
+2011,Salzgitter.Stadt,Gebäude,K03102,22855.0
+2012,Salzgitter.Stadt,Gebäude,K03102,22915.0
+2013,Salzgitter.Stadt,Gebäude,K03102,22992.0
+2014,Salzgitter.Stadt,Gebäude,K03102,23039.0
+2015,Salzgitter.Stadt,Gebäude,K03102,23082.0
+2016,Salzgitter.Stadt,Gebäude,K03102,23143.0
+2017,Salzgitter.Stadt,Gebäude,K03102,23219.0
+2018,Salzgitter.Stadt,Gebäude,K03102,23267.0
+2019,Salzgitter.Stadt,Gebäude,K03102,23323.0
+2011,Wolfsburg.Stadt,Gebäude,K03103,25930.0
+2012,Wolfsburg.Stadt,Gebäude,K03103,26146.0
+2013,Wolfsburg.Stadt,Gebäude,K03103,26254.0
+2014,Wolfsburg.Stadt,Gebäude,K03103,26395.0
+2015,Wolfsburg.Stadt,Gebäude,K03103,26505.0
+2016,Wolfsburg.Stadt,Gebäude,K03103,26754.0
+2017,Wolfsburg.Stadt,Gebäude,K03103,26923.0
+2018,Wolfsburg.Stadt,Gebäude,K03103,26999.0
+2019,Wolfsburg.Stadt,Gebäude,K03103,27053.0
+2011,Gifhorn,Gebäude,K03151,52601.0
+2012,Gifhorn,Gebäude,K03151,52930.0
+2013,Gifhorn,Gebäude,K03151,53386.0
+2014,Gifhorn,Gebäude,K03151,53876.0
+2015,Gifhorn,Gebäude,K03151,54349.0
+2016,Gifhorn,Gebäude,K03151,54853.0
+2017,Gifhorn,Gebäude,K03151,55475.0
+2018,Gifhorn,Gebäude,K03151,55961.0
+2019,Gifhorn,Gebäude,K03151,56460.0
+2011,Goslar,Gebäude,K03153,37985.0
+2012,Goslar,Gebäude,K03153,38014.0
+2013,Goslar,Gebäude,K03153,38059.0
+2014,Goslar,Gebäude,K03153,38121.0
+2015,Goslar,Gebäude,K03153,38162.0
+2016,Goslar,Gebäude,K03153,38221.0
+2017,Goslar,Gebäude,K03153,38281.0
+2018,Goslar,Gebäude,K03153,38320.0
+2019,Goslar,Gebäude,K03153,38416.0
+2011,Helmstedt,Gebäude,K03154,28075.0
+2012,Helmstedt,Gebäude,K03154,28120.0
+2013,Helmstedt,Gebäude,K03154,28200.0
+2014,Helmstedt,Gebäude,K03154,28351.0
+2015,Helmstedt,Gebäude,K03154,28469.0
+2016,Helmstedt,Gebäude,K03154,28674.0
+2017,Helmstedt,Gebäude,K03154,28859.0
+2018,Helmstedt,Gebäude,K03154,29071.0
+2019,Helmstedt,Gebäude,K03154,29245.0
+2011,Northeim,Gebäude,K03155,39174.0
+2012,Northeim,Gebäude,K03155,39246.0
+2013,Northeim,Gebäude,K03155,39295.0
+2014,Northeim,Gebäude,K03155,39364.0
+2015,Northeim,Gebäude,K03155,39428.0
+2016,Northeim,Gebäude,K03155,39533.0
+2017,Northeim,Gebäude,K03155,39636.0
+2018,Northeim,Gebäude,K03155,39777.0
+2019,Northeim,Gebäude,K03155,39880.0
+2011,Peine,Gebäude,K03157,39008.0
+2012,Peine,Gebäude,K03157,39213.0
+2013,Peine,Gebäude,K03157,39432.0
+2014,Peine,Gebäude,K03157,39679.0
+2015,Peine,Gebäude,K03157,40014.0
+2016,Peine,Gebäude,K03157,40380.0
+2017,Peine,Gebäude,K03157,40745.0
+2018,Peine,Gebäude,K03157,41060.0
+2019,Peine,Gebäude,K03157,41513.0
+2011,Wolfenbüttel,Gebäude,K03158,34277.0
+2012,Wolfenbüttel,Gebäude,K03158,34429.0
+2013,Wolfenbüttel,Gebäude,K03158,34563.0
+2014,Wolfenbüttel,Gebäude,K03158,34728.0
+2015,Wolfenbüttel,Gebäude,K03158,34940.0
+2016,Wolfenbüttel,Gebäude,K03158,35090.0
+2017,Wolfenbüttel,Gebäude,K03158,35258.0
+2018,Wolfenbüttel,Gebäude,K03158,35386.0
+2019,Wolfenbüttel,Gebäude,K03158,35537.0
+2011,Göttingen,Gebäude,K03159,79680.0
+2012,Göttingen,Gebäude,K03159,79905.0
+2013,Göttingen,Gebäude,K03159,80165.0
+2014,Göttingen,Gebäude,K03159,80393.0
+2015,Göttingen,Gebäude,K03159,80598.0
+2016,Göttingen,Gebäude,K03159,80898.0
+2017,Göttingen,Gebäude,K03159,81151.0
+2018,Göttingen,Gebäude,K03159,81391.0
+2019,Göttingen,Gebäude,K03159,81661.0
+2011,Hannover,Gebäude,K032,500637.0
+2012,Hannover,Gebäude,K032,502995.0
+2013,Hannover,Gebäude,K032,505143.0
+2014,Hannover,Gebäude,K032,507381.0
+2015,Hannover,Gebäude,K032,509944.0
+2016,Hannover,Gebäude,K032,512428.0
+2017,Hannover,Gebäude,K032,514777.0
+2018,Hannover,Gebäude,K032,517239.0
+2019,Hannover,Gebäude,K032,519660.0
+2011,Hannover Region,Gebäude,K03241,220685.0
+2012,Hannover Region,Gebäude,K03241,222108.0
+2013,Hannover Region,Gebäude,K03241,223246.0
+2014,Hannover Region,Gebäude,K03241,224459.0
+2015,Hannover Region,Gebäude,K03241,225828.0
+2016,Hannover Region,Gebäude,K03241,227033.0
+2017,Hannover Region,Gebäude,K03241,228209.0
+2018,Hannover Region,Gebäude,K03241,229279.0
+2019,Hannover Region,Gebäude,K03241,230412.0
+2011,Hannover Landeshauptstadt,Gebäude,K03241001,65835.0
+2012,Hannover Landeshauptstadt,Gebäude,K03241001,66234.0
+2013,Hannover Landeshauptstadt,Gebäude,K03241001,66465.0
+2014,Hannover Landeshauptstadt,Gebäude,K03241001,66747.0
+2015,Hannover Landeshauptstadt,Gebäude,K03241001,67159.0
+2016,Hannover Landeshauptstadt,Gebäude,K03241001,67378.0
+2017,Hannover Landeshauptstadt,Gebäude,K03241001,67623.0
+2018,Hannover Landeshauptstadt,Gebäude,K03241001,67805.0
+2019,Hannover Landeshauptstadt,Gebäude,K03241001,67995.0
+2011,Diepholz,Gebäude,K03251,65429.0
+2012,Diepholz,Gebäude,K03251,65758.0
+2013,Diepholz,Gebäude,K03251,66150.0
+2014,Diepholz,Gebäude,K03251,66542.0
+2015,Diepholz,Gebäude,K03251,66980.0
+2016,Diepholz,Gebäude,K03251,67419.0
+2017,Diepholz,Gebäude,K03251,67821.0
+2018,Diepholz,Gebäude,K03251,68241.0
+2019,Diepholz,Gebäude,K03251,68609.0
+2011,Hameln-Pyrmont,Gebäude,K03252,40902.0
+2012,Hameln-Pyrmont,Gebäude,K03252,40992.0
+2013,Hameln-Pyrmont,Gebäude,K03252,41090.0
+2014,Hameln-Pyrmont,Gebäude,K03252,41160.0
+2015,Hameln-Pyrmont,Gebäude,K03252,41234.0
+2016,Hameln-Pyrmont,Gebäude,K03252,41325.0
+2017,Hameln-Pyrmont,Gebäude,K03252,41422.0
+2018,Hameln-Pyrmont,Gebäude,K03252,41521.0
+2019,Hameln-Pyrmont,Gebäude,K03252,41621.0
+2011,Hildesheim,Gebäude,K03254,71851.0
+2012,Hildesheim,Gebäude,K03254,72035.0
+2013,Hildesheim,Gebäude,K03254,72273.0
+2014,Hildesheim,Gebäude,K03254,72486.0
+2015,Hildesheim,Gebäude,K03254,72750.0
+2016,Hildesheim,Gebäude,K03254,73041.0
+2017,Hildesheim,Gebäude,K03254,73287.0
+2018,Hildesheim,Gebäude,K03254,73579.0
+2019,Hildesheim,Gebäude,K03254,73900.0
+2011,Holzminden,Gebäude,K03255,22130.0
+2012,Holzminden,Gebäude,K03255,22171.0
+2013,Holzminden,Gebäude,K03255,22181.0
+2014,Holzminden,Gebäude,K03255,22199.0
+2015,Holzminden,Gebäude,K03255,22257.0
+2016,Holzminden,Gebäude,K03255,22293.0
+2017,Holzminden,Gebäude,K03255,22315.0
+2018,Holzminden,Gebäude,K03255,22360.0
+2019,Holzminden,Gebäude,K03255,22399.0
+2011,Nienburg (Weser),Gebäude,K03256,36093.0
+2012,Nienburg (Weser),Gebäude,K03256,36231.0
+2013,Nienburg (Weser),Gebäude,K03256,36360.0
+2014,Nienburg (Weser),Gebäude,K03256,36531.0
+2015,Nienburg (Weser),Gebäude,K03256,36702.0
+2016,Nienburg (Weser),Gebäude,K03256,36964.0
+2017,Nienburg (Weser),Gebäude,K03256,37139.0
+2018,Nienburg (Weser),Gebäude,K03256,37396.0
+2019,Nienburg (Weser),Gebäude,K03256,37613.0
+2011,Schaumburg,Gebäude,K03257,43547.0
+2012,Schaumburg,Gebäude,K03257,43700.0
+2013,Schaumburg,Gebäude,K03257,43843.0
+2014,Schaumburg,Gebäude,K03257,44004.0
+2015,Schaumburg,Gebäude,K03257,44193.0
+2016,Schaumburg,Gebäude,K03257,44353.0
+2017,Schaumburg,Gebäude,K03257,44584.0
+2018,Schaumburg,Gebäude,K03257,44863.0
+2019,Schaumburg,Gebäude,K03257,45106.0
+2011,Lüneburg,Gebäude,K033,520558.0
+2012,Lüneburg,Gebäude,K033,523661.0
+2013,Lüneburg,Gebäude,K033,527090.0
+2014,Lüneburg,Gebäude,K033,530715.0
+2015,Lüneburg,Gebäude,K033,534050.0
+2016,Lüneburg,Gebäude,K033,538444.0
+2017,Lüneburg,Gebäude,K033,542099.0
+2018,Lüneburg,Gebäude,K033,545520.0
+2019,Lüneburg,Gebäude,K033,549148.0
+2011,Celle,Gebäude,K03351,55580.0
+2012,Celle,Gebäude,K03351,55778.0
+2013,Celle,Gebäude,K03351,55982.0
+2014,Celle,Gebäude,K03351,56267.0
+2015,Celle,Gebäude,K03351,56513.0
+2016,Celle,Gebäude,K03351,56906.0
+2017,Celle,Gebäude,K03351,57156.0
+2018,Celle,Gebäude,K03351,57515.0
+2019,Celle,Gebäude,K03351,57882.0
+2011,Cuxhaven,Gebäude,K03352,64887.0
+2012,Cuxhaven,Gebäude,K03352,65216.0
+2013,Cuxhaven,Gebäude,K03352,65602.0
+2014,Cuxhaven,Gebäude,K03352,65971.0
+2015,Cuxhaven,Gebäude,K03352,66305.0
+2016,Cuxhaven,Gebäude,K03352,66746.0
+2017,Cuxhaven,Gebäude,K03352,67153.0
+2018,Cuxhaven,Gebäude,K03352,67517.0
+2019,Cuxhaven,Gebäude,K03352,68033.0
+2011,Harburg,Gebäude,K03353,75373.0
+2012,Harburg,Gebäude,K03353,76062.0
+2013,Harburg,Gebäude,K03353,76819.0
+2014,Harburg,Gebäude,K03353,77530.0
+2015,Harburg,Gebäude,K03353,78138.0
+2016,Harburg,Gebäude,K03353,78998.0
+2017,Harburg,Gebäude,K03353,79649.0
+2018,Harburg,Gebäude,K03353,80131.0
+2019,Harburg,Gebäude,K03353,80729.0
+2011,Lüchow-Dannenberg,Gebäude,K03354,17894.0
+2012,Lüchow-Dannenberg,Gebäude,K03354,17927.0
+2013,Lüchow-Dannenberg,Gebäude,K03354,17968.0
+2014,Lüchow-Dannenberg,Gebäude,K03354,18027.0
+2015,Lüchow-Dannenberg,Gebäude,K03354,18074.0
+2016,Lüchow-Dannenberg,Gebäude,K03354,18171.0
+2017,Lüchow-Dannenberg,Gebäude,K03354,18200.0
+2018,Lüchow-Dannenberg,Gebäude,K03354,18256.0
+2019,Lüchow-Dannenberg,Gebäude,K03354,18328.0
+2011,Lüneburg,Gebäude,K03355,47970.0
+2012,Lüneburg,Gebäude,K03355,48366.0
+2013,Lüneburg,Gebäude,K03355,48810.0
+2014,Lüneburg,Gebäude,K03355,49146.0
+2015,Lüneburg,Gebäude,K03355,49447.0
+2016,Lüneburg,Gebäude,K03355,49883.0
+2017,Lüneburg,Gebäude,K03355,50264.0
+2018,Lüneburg,Gebäude,K03355,50535.0
+2019,Lüneburg,Gebäude,K03355,50566.0
+2011,Osterholz,Gebäude,K03356,35927.0
+2012,Osterholz,Gebäude,K03356,36179.0
+2013,Osterholz,Gebäude,K03356,36357.0
+2014,Osterholz,Gebäude,K03356,36614.0
+2015,Osterholz,Gebäude,K03356,36856.0
+2016,Osterholz,Gebäude,K03356,37082.0
+2017,Osterholz,Gebäude,K03356,37364.0
+2018,Osterholz,Gebäude,K03356,37642.0
+2019,Osterholz,Gebäude,K03356,37996.0
+2011,Rotenburg (Wümme),Gebäude,K03357,52191.0
+2012,Rotenburg (Wümme),Gebäude,K03357,52455.0
+2013,Rotenburg (Wümme),Gebäude,K03357,52696.0
+2014,Rotenburg (Wümme),Gebäude,K03357,53069.0
+2015,Rotenburg (Wümme),Gebäude,K03357,53402.0
+2016,Rotenburg (Wümme),Gebäude,K03357,53855.0
+2017,Rotenburg (Wümme),Gebäude,K03357,54293.0
+2018,Rotenburg (Wümme),Gebäude,K03357,54706.0
+2019,Rotenburg (Wümme),Gebäude,K03357,55137.0
+2011,Heidekreis,Gebäude,K03358,41845.0
+2012,Heidekreis,Gebäude,K03358,41977.0
+2013,Heidekreis,Gebäude,K03358,42125.0
+2014,Heidekreis,Gebäude,K03358,42333.0
+2015,Heidekreis,Gebäude,K03358,42500.0
+2016,Heidekreis,Gebäude,K03358,42802.0
+2017,Heidekreis,Gebäude,K03358,43016.0
+2018,Heidekreis,Gebäude,K03358,43240.0
+2019,Heidekreis,Gebäude,K03358,43437.0
+2011,Stade,Gebäude,K03359,59228.0
+2012,Stade,Gebäude,K03359,59698.0
+2013,Stade,Gebäude,K03359,60288.0
+2014,Stade,Gebäude,K03359,60892.0
+2015,Stade,Gebäude,K03359,61490.0
+2016,Stade,Gebäude,K03359,62166.0
+2017,Stade,Gebäude,K03359,62733.0
+2018,Stade,Gebäude,K03359,63387.0
+2019,Stade,Gebäude,K03359,63967.0
+2011,Uelzen,Gebäude,K03360,29475.0
+2012,Uelzen,Gebäude,K03360,29550.0
+2013,Uelzen,Gebäude,K03360,29615.0
+2014,Uelzen,Gebäude,K03360,29723.0
+2015,Uelzen,Gebäude,K03360,29800.0
+2016,Uelzen,Gebäude,K03360,29939.0
+2017,Uelzen,Gebäude,K03360,30041.0
+2018,Uelzen,Gebäude,K03360,30125.0
+2019,Uelzen,Gebäude,K03360,30256.0
+2011,Verden,Gebäude,K03361,40188.0
+2012,Verden,Gebäude,K03361,40453.0
+2013,Verden,Gebäude,K03361,40828.0
+2014,Verden,Gebäude,K03361,41143.0
+2015,Verden,Gebäude,K03361,41525.0
+2016,Verden,Gebäude,K03361,41896.0
+2017,Verden,Gebäude,K03361,42230.0
+2018,Verden,Gebäude,K03361,42466.0
+2019,Verden,Gebäude,K03361,42817.0
+2011,Weser-Ems,Gebäude,K034,730243.0
+2012,Weser-Ems,Gebäude,K034,735932.0
+2013,Weser-Ems,Gebäude,K034,742172.0
+2014,Weser-Ems,Gebäude,K034,748927.0
+2015,Weser-Ems,Gebäude,K034,755167.0
+2016,Weser-Ems,Gebäude,K034,761854.0
+2017,Weser-Ems,Gebäude,K034,768097.0
+2018,Weser-Ems,Gebäude,K034,774178.0
+2019,Weser-Ems,Gebäude,K034,780404.0
+2011,Delmenhorst.Stadt,Gebäude,K03401,20801.0
+2012,Delmenhorst.Stadt,Gebäude,K03401,20921.0
+2013,Delmenhorst.Stadt,Gebäude,K03401,21008.0
+2014,Delmenhorst.Stadt,Gebäude,K03401,21107.0
+2015,Delmenhorst.Stadt,Gebäude,K03401,21179.0
+2016,Delmenhorst.Stadt,Gebäude,K03401,21252.0
+2017,Delmenhorst.Stadt,Gebäude,K03401,21315.0
+2018,Delmenhorst.Stadt,Gebäude,K03401,21390.0
+2019,Delmenhorst.Stadt,Gebäude,K03401,21457.0
+2011,Emden Stadt,Gebäude,K03402,14583.0
+2012,Emden Stadt,Gebäude,K03402,14663.0
+2013,Emden Stadt,Gebäude,K03402,14725.0
+2014,Emden Stadt,Gebäude,K03402,14826.0
+2015,Emden Stadt,Gebäude,K03402,14862.0
+2016,Emden Stadt,Gebäude,K03402,14899.0
+2017,Emden Stadt,Gebäude,K03402,14947.0
+2018,Emden Stadt,Gebäude,K03402,14986.0
+2019,Emden Stadt,Gebäude,K03402,14991.0
+2011,Oldenburg (Oldb) Stadt,Gebäude,K03403,42029.0
+2012,Oldenburg (Oldb) Stadt,Gebäude,K03403,42505.0
+2013,Oldenburg (Oldb) Stadt,Gebäude,K03403,42901.0
+2014,Oldenburg (Oldb) Stadt,Gebäude,K03403,43163.0
+2015,Oldenburg (Oldb) Stadt,Gebäude,K03403,43487.0
+2016,Oldenburg (Oldb) Stadt,Gebäude,K03403,43813.0
+2017,Oldenburg (Oldb) Stadt,Gebäude,K03403,44071.0
+2018,Oldenburg (Oldb) Stadt,Gebäude,K03403,44383.0
+2019,Oldenburg (Oldb) Stadt,Gebäude,K03403,44727.0
+2011,Osnabrück Stadt,Gebäude,K03404,30776.0
+2012,Osnabrück Stadt,Gebäude,K03404,30963.0
+2013,Osnabrück Stadt,Gebäude,K03404,31188.0
+2014,Osnabrück Stadt,Gebäude,K03404,31376.0
+2015,Osnabrück Stadt,Gebäude,K03404,31563.0
+2016,Osnabrück Stadt,Gebäude,K03404,31740.0
+2017,Osnabrück Stadt,Gebäude,K03404,31868.0
+2018,Osnabrück Stadt,Gebäude,K03404,31979.0
+2019,Osnabrück Stadt,Gebäude,K03404,32028.0
+2011,Wilhelmshaven Stadt,Gebäude,K03405,17072.0
+2012,Wilhelmshaven Stadt,Gebäude,K03405,17106.0
+2013,Wilhelmshaven Stadt,Gebäude,K03405,17127.0
+2014,Wilhelmshaven Stadt,Gebäude,K03405,17190.0
+2015,Wilhelmshaven Stadt,Gebäude,K03405,17225.0
+2016,Wilhelmshaven Stadt,Gebäude,K03405,17290.0
+2017,Wilhelmshaven Stadt,Gebäude,K03405,17348.0
+2018,Wilhelmshaven Stadt,Gebäude,K03405,17398.0
+2019,Wilhelmshaven Stadt,Gebäude,K03405,17430.0
+2011,Ammerland,Gebäude,K03451,39648.0
+2012,Ammerland,Gebäude,K03451,40073.0
+2013,Ammerland,Gebäude,K03451,40573.0
+2014,Ammerland,Gebäude,K03451,41020.0
+2015,Ammerland,Gebäude,K03451,41369.0
+2016,Ammerland,Gebäude,K03451,41760.0
+2017,Ammerland,Gebäude,K03451,42111.0
+2018,Ammerland,Gebäude,K03451,42476.0
+2019,Ammerland,Gebäude,K03451,42950.0
+2011,Aurich,Gebäude,K03452,71223.0
+2012,Aurich,Gebäude,K03452,71664.0
+2013,Aurich,Gebäude,K03452,72190.0
+2014,Aurich,Gebäude,K03452,72710.0
+2015,Aurich,Gebäude,K03452,73182.0
+2016,Aurich,Gebäude,K03452,73659.0
+2017,Aurich,Gebäude,K03452,74153.0
+2018,Aurich,Gebäude,K03452,74468.0
+2019,Aurich,Gebäude,K03452,74942.0
+2011,Cloppenburg,Gebäude,K03453,44727.0
+2012,Cloppenburg,Gebäude,K03453,45239.0
+2013,Cloppenburg,Gebäude,K03453,45822.0
+2014,Cloppenburg,Gebäude,K03453,46514.0
+2015,Cloppenburg,Gebäude,K03453,47102.0
+2016,Cloppenburg,Gebäude,K03453,47813.0
+2017,Cloppenburg,Gebäude,K03453,48536.0
+2018,Cloppenburg,Gebäude,K03453,49252.0
+2019,Cloppenburg,Gebäude,K03453,49922.0
+2011,Emsland,Gebäude,K03454,93058.0
+2012,Emsland,Gebäude,K03454,94128.0
+2013,Emsland,Gebäude,K03454,95304.0
+2014,Emsland,Gebäude,K03454,96613.0
+2015,Emsland,Gebäude,K03454,97770.0
+2016,Emsland,Gebäude,K03454,98927.0
+2017,Emsland,Gebäude,K03454,100074.0
+2018,Emsland,Gebäude,K03454,101137.0
+2019,Emsland,Gebäude,K03454,102305.0
+2011,Friesland,Gebäude,K03455,36013.0
+2012,Friesland,Gebäude,K03455,36183.0
+2013,Friesland,Gebäude,K03455,36360.0
+2014,Friesland,Gebäude,K03455,36652.0
+2015,Friesland,Gebäude,K03455,36888.0
+2016,Friesland,Gebäude,K03455,37215.0
+2017,Friesland,Gebäude,K03455,37504.0
+2018,Friesland,Gebäude,K03455,37812.0
+2019,Friesland,Gebäude,K03455,38050.0
+2011,Grafschaft Bentheim,Gebäude,K03456,41830.0
+2012,Grafschaft Bentheim,Gebäude,K03456,42090.0
+2013,Grafschaft Bentheim,Gebäude,K03456,42475.0
+2014,Grafschaft Bentheim,Gebäude,K03456,42914.0
+2015,Grafschaft Bentheim,Gebäude,K03456,43330.0
+2016,Grafschaft Bentheim,Gebäude,K03456,43667.0
+2017,Grafschaft Bentheim,Gebäude,K03456,44079.0
+2018,Grafschaft Bentheim,Gebäude,K03456,44400.0
+2019,Grafschaft Bentheim,Gebäude,K03456,44721.0
+2011,Leer,Gebäude,K03457,58191.0
+2012,Leer,Gebäude,K03457,58589.0
+2013,Leer,Gebäude,K03457,59201.0
+2014,Leer,Gebäude,K03457,59741.0
+2015,Leer,Gebäude,K03457,60328.0
+2016,Leer,Gebäude,K03457,60942.0
+2017,Leer,Gebäude,K03457,61503.0
+2018,Leer,Gebäude,K03457,61948.0
+2019,Leer,Gebäude,K03457,62390.0
+2011,Oldenburg,Gebäude,K03458,40624.0
+2012,Oldenburg,Gebäude,K03458,40816.0
+2013,Oldenburg,Gebäude,K03458,40997.0
+2014,Oldenburg,Gebäude,K03458,41216.0
+2015,Oldenburg,Gebäude,K03458,41567.0
+2016,Oldenburg,Gebäude,K03458,41880.0
+2017,Oldenburg,Gebäude,K03458,42162.0
+2018,Oldenburg,Gebäude,K03458,42488.0
+2019,Oldenburg,Gebäude,K03458,42814.0
+2011,Osnabrück,Gebäude,K03459,91150.0
+2012,Osnabrück,Gebäude,K03459,91775.0
+2013,Osnabrück,Gebäude,K03459,92328.0
+2014,Osnabrück,Gebäude,K03459,93100.0
+2015,Osnabrück,Gebäude,K03459,93858.0
+2016,Osnabrück,Gebäude,K03459,94581.0
+2017,Osnabrück,Gebäude,K03459,95249.0
+2018,Osnabrück,Gebäude,K03459,95970.0
+2019,Osnabrück,Gebäude,K03459,96701.0
+2011,Vechta,Gebäude,K03460,37464.0
+2012,Vechta,Gebäude,K03460,37958.0
+2013,Vechta,Gebäude,K03460,38491.0
+2014,Vechta,Gebäude,K03460,39021.0
+2015,Vechta,Gebäude,K03460,39438.0
+2016,Vechta,Gebäude,K03460,40008.0
+2017,Vechta,Gebäude,K03460,40491.0
+2018,Vechta,Gebäude,K03460,41098.0
+2019,Vechta,Gebäude,K03460,41652.0
+2011,Wesermarsch,Gebäude,K03461,30034.0
+2012,Wesermarsch,Gebäude,K03461,30114.0
+2013,Wesermarsch,Gebäude,K03461,30213.0
+2014,Wesermarsch,Gebäude,K03461,30311.0
+2015,Wesermarsch,Gebäude,K03461,30392.0
+2016,Wesermarsch,Gebäude,K03461,30540.0
+2017,Wesermarsch,Gebäude,K03461,30652.0
+2018,Wesermarsch,Gebäude,K03461,30806.0
+2019,Wesermarsch,Gebäude,K03461,30959.0
+2011,Wittmund,Gebäude,K03462,21020.0
+2012,Wittmund,Gebäude,K03462,21145.0
+2013,Wittmund,Gebäude,K03462,21269.0
+2014,Wittmund,Gebäude,K03462,21453.0
+2015,Wittmund,Gebäude,K03462,21627.0
+2016,Wittmund,Gebäude,K03462,21868.0
+2017,Wittmund,Gebäude,K03462,22034.0
+2018,Wittmund,Gebäude,K03462,22187.0
+2019,Wittmund,Gebäude,K03462,22365.0
+2011,Niedersachsen,Wohnungen,K030,3684409.0
+2012,Niedersachsen,Wohnungen,K030,3703947.0
+2013,Niedersachsen,Wohnungen,K030,3726268.0
+2014,Niedersachsen,Wohnungen,K030,3751245.0
+2015,Niedersachsen,Wohnungen,K030,3776334.0
+2016,Niedersachsen,Wohnungen,K030,3805307.0
+2017,Niedersachsen,Wohnungen,K030,3833544.0
+2018,Niedersachsen,Wohnungen,K030,3860422.0
+2019,Niedersachsen,Wohnungen,K030,3888405.0
+2011,Braunschweig,Wohnungen,K031,794405.0
+2012,Braunschweig,Wohnungen,K031,796193.0
+2013,Braunschweig,Wohnungen,K031,798560.0
+2014,Braunschweig,Wohnungen,K031,801435.0
+2015,Braunschweig,Wohnungen,K031,804461.0
+2016,Braunschweig,Wohnungen,K031,808305.0
+2017,Braunschweig,Wohnungen,K031,812317.0
+2018,Braunschweig,Wohnungen,K031,815899.0
+2019,Braunschweig,Wohnungen,K031,819908.0
+2011,Braunschweig Stadt,Wohnungen,K03101,132222.0
+2012,Braunschweig Stadt,Wohnungen,K03101,132708.0
+2013,Braunschweig Stadt,Wohnungen,K03101,133043.0
+2014,Braunschweig Stadt,Wohnungen,K03101,133382.0
+2015,Braunschweig Stadt,Wohnungen,K03101,133786.0
+2016,Braunschweig Stadt,Wohnungen,K03101,134205.0
+2017,Braunschweig Stadt,Wohnungen,K03101,134505.0
+2018,Braunschweig Stadt,Wohnungen,K03101,135134.0
+2019,Braunschweig Stadt,Wohnungen,K03101,135613.0
+2011,Salzgitter.Stadt,Wohnungen,K03102,53868.0
+2012,Salzgitter.Stadt,Wohnungen,K03102,53928.0
+2013,Salzgitter.Stadt,Wohnungen,K03102,54036.0
+2014,Salzgitter.Stadt,Wohnungen,K03102,54092.0
+2015,Salzgitter.Stadt,Wohnungen,K03102,54149.0
+2016,Salzgitter.Stadt,Wohnungen,K03102,54228.0
+2017,Salzgitter.Stadt,Wohnungen,K03102,54346.0
+2018,Salzgitter.Stadt,Wohnungen,K03102,54426.0
+2019,Salzgitter.Stadt,Wohnungen,K03102,54536.0
+2011,Wolfsburg.Stadt,Wohnungen,K03103,62551.0
+2012,Wolfsburg.Stadt,Wohnungen,K03103,62511.0
+2013,Wolfsburg.Stadt,Wohnungen,K03103,62702.0
+2014,Wolfsburg.Stadt,Wohnungen,K03103,63088.0
+2015,Wolfsburg.Stadt,Wohnungen,K03103,63304.0
+2016,Wolfsburg.Stadt,Wohnungen,K03103,63955.0
+2017,Wolfsburg.Stadt,Wohnungen,K03103,64394.0
+2018,Wolfsburg.Stadt,Wohnungen,K03103,64617.0
+2019,Wolfsburg.Stadt,Wohnungen,K03103,65002.0
+2011,Gifhorn,Wohnungen,K03151,73640.0
+2012,Gifhorn,Wohnungen,K03151,74044.0
+2013,Gifhorn,Wohnungen,K03151,74651.0
+2014,Gifhorn,Wohnungen,K03151,75375.0
+2015,Gifhorn,Wohnungen,K03151,76064.0
+2016,Gifhorn,Wohnungen,K03151,76790.0
+2017,Gifhorn,Wohnungen,K03151,77806.0
+2018,Gifhorn,Wohnungen,K03151,78622.0
+2019,Gifhorn,Wohnungen,K03151,79446.0
+2011,Goslar,Wohnungen,K03153,76802.0
+2012,Goslar,Wohnungen,K03153,76828.0
+2013,Goslar,Wohnungen,K03153,76897.0
+2014,Goslar,Wohnungen,K03153,76986.0
+2015,Goslar,Wohnungen,K03153,77059.0
+2016,Goslar,Wohnungen,K03153,77179.0
+2017,Goslar,Wohnungen,K03153,77324.0
+2018,Goslar,Wohnungen,K03153,77388.0
+2019,Goslar,Wohnungen,K03153,77554.0
+2011,Helmstedt,Wohnungen,K03154,45668.0
+2012,Helmstedt,Wohnungen,K03154,45715.0
+2013,Helmstedt,Wohnungen,K03154,45815.0
+2014,Helmstedt,Wohnungen,K03154,45997.0
+2015,Helmstedt,Wohnungen,K03154,46130.0
+2016,Helmstedt,Wohnungen,K03154,46367.0
+2017,Helmstedt,Wohnungen,K03154,46617.0
+2018,Helmstedt,Wohnungen,K03154,46904.0
+2019,Helmstedt,Wohnungen,K03154,47171.0
+2011,Northeim,Wohnungen,K03155,65955.0
+2012,Northeim,Wohnungen,K03155,66040.0
+2013,Northeim,Wohnungen,K03155,66106.0
+2014,Northeim,Wohnungen,K03155,66198.0
+2015,Northeim,Wohnungen,K03155,66295.0
+2016,Northeim,Wohnungen,K03155,66413.0
+2017,Northeim,Wohnungen,K03155,66636.0
+2018,Northeim,Wohnungen,K03155,66837.0
+2019,Northeim,Wohnungen,K03155,67052.0
+2011,Peine,Wohnungen,K03157,59279.0
+2012,Peine,Wohnungen,K03157,59544.0
+2013,Peine,Wohnungen,K03157,59844.0
+2014,Peine,Wohnungen,K03157,60136.0
+2015,Peine,Wohnungen,K03157,60677.0
+2016,Peine,Wohnungen,K03157,61146.0
+2017,Peine,Wohnungen,K03157,61831.0
+2018,Peine,Wohnungen,K03157,62351.0
+2019,Peine,Wohnungen,K03157,63019.0
+2011,Wolfenbüttel,Wohnungen,K03158,58216.0
+2012,Wolfenbüttel,Wohnungen,K03158,58381.0
+2013,Wolfenbüttel,Wohnungen,K03158,58551.0
+2014,Wolfenbüttel,Wohnungen,K03158,58767.0
+2015,Wolfenbüttel,Wohnungen,K03158,59076.0
+2016,Wolfenbüttel,Wohnungen,K03158,59451.0
+2017,Wolfenbüttel,Wohnungen,K03158,59646.0
+2018,Wolfenbüttel,Wohnungen,K03158,59903.0
+2019,Wolfenbüttel,Wohnungen,K03158,60222.0
+2011,Göttingen,Wohnungen,K03159,166204.0
+2012,Göttingen,Wohnungen,K03159,166494.0
+2013,Göttingen,Wohnungen,K03159,166915.0
+2014,Göttingen,Wohnungen,K03159,167414.0
+2015,Göttingen,Wohnungen,K03159,167921.0
+2016,Göttingen,Wohnungen,K03159,168571.0
+2017,Göttingen,Wohnungen,K03159,169212.0
+2018,Göttingen,Wohnungen,K03159,169717.0
+2019,Göttingen,Wohnungen,K03159,170293.0
+2011,Hannover,Wohnungen,K032,1034559.0
+2012,Hannover,Wohnungen,K032,1038699.0
+2013,Hannover,Wohnungen,K032,1042426.0
+2014,Hannover,Wohnungen,K032,1046610.0
+2015,Hannover,Wohnungen,K032,1051405.0
+2016,Hannover,Wohnungen,K032,1056102.0
+2017,Hannover,Wohnungen,K032,1061060.0
+2018,Hannover,Wohnungen,K032,1066464.0
+2019,Hannover,Wohnungen,K032,1072081.0
+2011,Hannover Region,Wohnungen,K03241,566100.0
+2012,Hannover Region,Wohnungen,K03241,568584.0
+2013,Hannover Region,Wohnungen,K03241,570555.0
+2014,Hannover Region,Wohnungen,K03241,573056.0
+2015,Hannover Region,Wohnungen,K03241,575781.0
+2016,Hannover Region,Wohnungen,K03241,578422.0
+2017,Hannover Region,Wohnungen,K03241,581503.0
+2018,Hannover Region,Wohnungen,K03241,584663.0
+2019,Hannover Region,Wohnungen,K03241,587932.0
+2011,Hannover Landeshauptstadt,Wohnungen,K03241001,282221.0
+2012,Hannover Landeshauptstadt,Wohnungen,K03241001,283225.0
+2013,Hannover Landeshauptstadt,Wohnungen,K03241001,283889.0
+2014,Hannover Landeshauptstadt,Wohnungen,K03241001,284938.0
+2015,Hannover Landeshauptstadt,Wohnungen,K03241001,286164.0
+2016,Hannover Landeshauptstadt,Wohnungen,K03241001,287064.0
+2017,Hannover Landeshauptstadt,Wohnungen,K03241001,288157.0
+2018,Hannover Landeshauptstadt,Wohnungen,K03241001,289674.0
+2019,Hannover Landeshauptstadt,Wohnungen,K03241001,290960.0
+2011,Diepholz,Wohnungen,K03251,91984.0
+2012,Diepholz,Wohnungen,K03251,92770.0
+2013,Diepholz,Wohnungen,K03251,93429.0
+2014,Diepholz,Wohnungen,K03251,94107.0
+2015,Diepholz,Wohnungen,K03251,94853.0
+2016,Diepholz,Wohnungen,K03251,95627.0
+2017,Diepholz,Wohnungen,K03251,96336.0
+2018,Diepholz,Wohnungen,K03251,97107.0
+2019,Diepholz,Wohnungen,K03251,97919.0
+2011,Hameln-Pyrmont,Wohnungen,K03252,76612.0
+2012,Hameln-Pyrmont,Wohnungen,K03252,76712.0
+2013,Hameln-Pyrmont,Wohnungen,K03252,76934.0
+2014,Hameln-Pyrmont,Wohnungen,K03252,77112.0
+2015,Hameln-Pyrmont,Wohnungen,K03252,77261.0
+2016,Hameln-Pyrmont,Wohnungen,K03252,77355.0
+2017,Hameln-Pyrmont,Wohnungen,K03252,77494.0
+2018,Hameln-Pyrmont,Wohnungen,K03252,77601.0
+2019,Hameln-Pyrmont,Wohnungen,K03252,77764.0
+2011,Hildesheim,Wohnungen,K03254,134758.0
+2012,Hildesheim,Wohnungen,K03254,135009.0
+2013,Hildesheim,Wohnungen,K03254,135399.0
+2014,Hildesheim,Wohnungen,K03254,135800.0
+2015,Hildesheim,Wohnungen,K03254,136271.0
+2016,Hildesheim,Wohnungen,K03254,136750.0
+2017,Hildesheim,Wohnungen,K03254,137198.0
+2018,Hildesheim,Wohnungen,K03254,137742.0
+2019,Hildesheim,Wohnungen,K03254,138277.0
+2011,Holzminden,Wohnungen,K03255,36640.0
+2012,Holzminden,Wohnungen,K03255,36682.0
+2013,Holzminden,Wohnungen,K03255,36692.0
+2014,Holzminden,Wohnungen,K03255,36708.0
+2015,Holzminden,Wohnungen,K03255,36782.0
+2016,Holzminden,Wohnungen,K03255,36841.0
+2017,Holzminden,Wohnungen,K03255,36866.0
+2018,Holzminden,Wohnungen,K03255,36933.0
+2019,Holzminden,Wohnungen,K03255,36985.0
+2011,Nienburg (Weser),Wohnungen,K03256,53304.0
+2012,Nienburg (Weser),Wohnungen,K03256,53531.0
+2013,Nienburg (Weser),Wohnungen,K03256,53777.0
+2014,Nienburg (Weser),Wohnungen,K03256,53990.0
+2015,Nienburg (Weser),Wohnungen,K03256,54285.0
+2016,Nienburg (Weser),Wohnungen,K03256,54674.0
+2017,Nienburg (Weser),Wohnungen,K03256,54927.0
+2018,Nienburg (Weser),Wohnungen,K03256,55280.0
+2019,Nienburg (Weser),Wohnungen,K03256,55663.0
+2011,Schaumburg,Wohnungen,K03257,75161.0
+2012,Schaumburg,Wohnungen,K03257,75411.0
+2013,Schaumburg,Wohnungen,K03257,75640.0
+2014,Schaumburg,Wohnungen,K03257,75837.0
+2015,Schaumburg,Wohnungen,K03257,76172.0
+2016,Schaumburg,Wohnungen,K03257,76433.0
+2017,Schaumburg,Wohnungen,K03257,76736.0
+2018,Schaumburg,Wohnungen,K03257,77138.0
+2019,Schaumburg,Wohnungen,K03257,77541.0
+2011,Lüneburg,Wohnungen,K033,772446.0
+2012,Lüneburg,Wohnungen,K033,776699.0
+2013,Lüneburg,Wohnungen,K033,781844.0
+2014,Lüneburg,Wohnungen,K033,787680.0
+2015,Lüneburg,Wohnungen,K033,793856.0
+2016,Lüneburg,Wohnungen,K033,801486.0
+2017,Lüneburg,Wohnungen,K033,808406.0
+2018,Lüneburg,Wohnungen,K033,814374.0
+2019,Lüneburg,Wohnungen,K033,821002.0
+2011,Celle,Wohnungen,K03351,84377.0
+2012,Celle,Wohnungen,K03351,84510.0
+2013,Celle,Wohnungen,K03351,84839.0
+2014,Celle,Wohnungen,K03351,85204.0
+2015,Celle,Wohnungen,K03351,85593.0
+2016,Celle,Wohnungen,K03351,86112.0
+2017,Celle,Wohnungen,K03351,86458.0
+2018,Celle,Wohnungen,K03351,87018.0
+2019,Celle,Wohnungen,K03351,87567.0
+2011,Cuxhaven,Wohnungen,K03352,95806.0
+2012,Cuxhaven,Wohnungen,K03352,96422.0
+2013,Cuxhaven,Wohnungen,K03352,97042.0
+2014,Cuxhaven,Wohnungen,K03352,97872.0
+2015,Cuxhaven,Wohnungen,K03352,98466.0
+2016,Cuxhaven,Wohnungen,K03352,99342.0
+2017,Cuxhaven,Wohnungen,K03352,100077.0
+2018,Cuxhaven,Wohnungen,K03352,100648.0
+2019,Cuxhaven,Wohnungen,K03352,101458.0
+2011,Harburg,Wohnungen,K03353,110407.0
+2012,Harburg,Wohnungen,K03353,111391.0
+2013,Harburg,Wohnungen,K03353,112494.0
+2014,Harburg,Wohnungen,K03353,113629.0
+2015,Harburg,Wohnungen,K03353,114697.0
+2016,Harburg,Wohnungen,K03353,116227.0
+2017,Harburg,Wohnungen,K03353,117295.0
+2018,Harburg,Wohnungen,K03353,118144.0
+2019,Harburg,Wohnungen,K03353,119447.0
+2011,Lüchow-Dannenberg,Wohnungen,K03354,24715.0
+2012,Lüchow-Dannenberg,Wohnungen,K03354,24752.0
+2013,Lüchow-Dannenberg,Wohnungen,K03354,24803.0
+2014,Lüchow-Dannenberg,Wohnungen,K03354,24910.0
+2015,Lüchow-Dannenberg,Wohnungen,K03354,24979.0
+2016,Lüchow-Dannenberg,Wohnungen,K03354,25146.0
+2017,Lüchow-Dannenberg,Wohnungen,K03354,25190.0
+2018,Lüchow-Dannenberg,Wohnungen,K03354,25286.0
+2019,Lüchow-Dannenberg,Wohnungen,K03354,25411.0
+2011,Lüneburg,Wohnungen,K03355,82211.0
+2012,Lüneburg,Wohnungen,K03355,82850.0
+2013,Lüneburg,Wohnungen,K03355,83537.0
+2014,Lüneburg,Wohnungen,K03355,84043.0
+2015,Lüneburg,Wohnungen,K03355,84819.0
+2016,Lüneburg,Wohnungen,K03355,85616.0
+2017,Lüneburg,Wohnungen,K03355,86959.0
+2018,Lüneburg,Wohnungen,K03355,87570.0
+2019,Lüneburg,Wohnungen,K03355,87730.0
+2011,Osterholz,Wohnungen,K03356,48479.0
+2012,Osterholz,Wohnungen,K03356,48794.0
+2013,Osterholz,Wohnungen,K03356,49030.0
+2014,Osterholz,Wohnungen,K03356,49388.0
+2015,Osterholz,Wohnungen,K03356,49728.0
+2016,Osterholz,Wohnungen,K03356,50076.0
+2017,Osterholz,Wohnungen,K03356,50469.0
+2018,Osterholz,Wohnungen,K03356,50840.0
+2019,Osterholz,Wohnungen,K03356,51400.0
+2011,Rotenburg (Wümme),Wohnungen,K03357,69772.0
+2012,Rotenburg (Wümme),Wohnungen,K03357,70203.0
+2013,Rotenburg (Wümme),Wohnungen,K03357,70597.0
+2014,Rotenburg (Wümme),Wohnungen,K03357,71221.0
+2015,Rotenburg (Wümme),Wohnungen,K03357,71759.0
+2016,Rotenburg (Wümme),Wohnungen,K03357,72471.0
+2017,Rotenburg (Wümme),Wohnungen,K03357,73202.0
+2018,Rotenburg (Wümme),Wohnungen,K03357,73832.0
+2019,Rotenburg (Wümme),Wohnungen,K03357,74552.0
+2011,Heidekreis,Wohnungen,K03358,63678.0
+2012,Heidekreis,Wohnungen,K03358,63828.0
+2013,Heidekreis,Wohnungen,K03358,64044.0
+2014,Heidekreis,Wohnungen,K03358,64312.0
+2015,Heidekreis,Wohnungen,K03358,64561.0
+2016,Heidekreis,Wohnungen,K03358,65032.0
+2017,Heidekreis,Wohnungen,K03358,65319.0
+2018,Heidekreis,Wohnungen,K03358,65664.0
+2019,Heidekreis,Wohnungen,K03358,66021.0
+2011,Stade,Wohnungen,K03359,88804.0
+2012,Stade,Wohnungen,K03359,89585.0
+2013,Stade,Wohnungen,K03359,90411.0
+2014,Stade,Wohnungen,K03359,91416.0
+2015,Stade,Wohnungen,K03359,92786.0
+2016,Stade,Wohnungen,K03359,93993.0
+2017,Stade,Wohnungen,K03359,95320.0
+2018,Stade,Wohnungen,K03359,96651.0
+2019,Stade,Wohnungen,K03359,97721.0
+2011,Uelzen,Wohnungen,K03360,45308.0
+2012,Uelzen,Wohnungen,K03360,45423.0
+2013,Uelzen,Wohnungen,K03360,45571.0
+2014,Uelzen,Wohnungen,K03360,45767.0
+2015,Uelzen,Wohnungen,K03360,45875.0
+2016,Uelzen,Wohnungen,K03360,46290.0
+2017,Uelzen,Wohnungen,K03360,46411.0
+2018,Uelzen,Wohnungen,K03360,46590.0
+2019,Uelzen,Wohnungen,K03360,46853.0
+2011,Verden,Wohnungen,K03361,58889.0
+2012,Verden,Wohnungen,K03361,58941.0
+2013,Verden,Wohnungen,K03361,59476.0
+2014,Verden,Wohnungen,K03361,59918.0
+2015,Verden,Wohnungen,K03361,60593.0
+2016,Verden,Wohnungen,K03361,61181.0
+2017,Verden,Wohnungen,K03361,61706.0
+2018,Verden,Wohnungen,K03361,62131.0
+2019,Verden,Wohnungen,K03361,62842.0
+2011,Weser-Ems,Wohnungen,K034,1082999.0
+2012,Weser-Ems,Wohnungen,K034,1092356.0
+2013,Weser-Ems,Wohnungen,K034,1103438.0
+2014,Weser-Ems,Wohnungen,K034,1115520.0
+2015,Weser-Ems,Wohnungen,K034,1126612.0
+2016,Weser-Ems,Wohnungen,K034,1139414.0
+2017,Weser-Ems,Wohnungen,K034,1151761.0
+2018,Weser-Ems,Wohnungen,K034,1163685.0
+2019,Weser-Ems,Wohnungen,K034,1175414.0
+2011,Delmenhorst.Stadt,Wohnungen,K03401,36339.0
+2012,Delmenhorst.Stadt,Wohnungen,K03401,36523.0
+2013,Delmenhorst.Stadt,Wohnungen,K03401,36660.0
+2014,Delmenhorst.Stadt,Wohnungen,K03401,36886.0
+2015,Delmenhorst.Stadt,Wohnungen,K03401,37032.0
+2016,Delmenhorst.Stadt,Wohnungen,K03401,37222.0
+2017,Delmenhorst.Stadt,Wohnungen,K03401,37432.0
+2018,Delmenhorst.Stadt,Wohnungen,K03401,37652.0
+2019,Delmenhorst.Stadt,Wohnungen,K03401,37863.0
+2011,Emden Stadt,Wohnungen,K03402,24420.0
+2012,Emden Stadt,Wohnungen,K03402,24521.0
+2013,Emden Stadt,Wohnungen,K03402,24619.0
+2014,Emden Stadt,Wohnungen,K03402,24915.0
+2015,Emden Stadt,Wohnungen,K03402,24987.0
+2016,Emden Stadt,Wohnungen,K03402,25115.0
+2017,Emden Stadt,Wohnungen,K03402,25338.0
+2018,Emden Stadt,Wohnungen,K03402,25404.0
+2019,Emden Stadt,Wohnungen,K03402,25428.0
+2011,Oldenburg (Oldb) Stadt,Wohnungen,K03403,82769.0
+2012,Oldenburg (Oldb) Stadt,Wohnungen,K03403,83810.0
+2013,Oldenburg (Oldb) Stadt,Wohnungen,K03403,84918.0
+2014,Oldenburg (Oldb) Stadt,Wohnungen,K03403,85646.0
+2015,Oldenburg (Oldb) Stadt,Wohnungen,K03403,86710.0
+2016,Oldenburg (Oldb) Stadt,Wohnungen,K03403,88040.0
+2017,Oldenburg (Oldb) Stadt,Wohnungen,K03403,89325.0
+2018,Oldenburg (Oldb) Stadt,Wohnungen,K03403,90505.0
+2019,Oldenburg (Oldb) Stadt,Wohnungen,K03403,91386.0
+2011,Osnabrück Stadt,Wohnungen,K03404,81143.0
+2012,Osnabrück Stadt,Wohnungen,K03404,81456.0
+2013,Osnabrück Stadt,Wohnungen,K03404,81857.0
+2014,Osnabrück Stadt,Wohnungen,K03404,82222.0
+2015,Osnabrück Stadt,Wohnungen,K03404,82730.0
+2016,Osnabrück Stadt,Wohnungen,K03404,83417.0
+2017,Osnabrück Stadt,Wohnungen,K03404,83839.0
+2018,Osnabrück Stadt,Wohnungen,K03404,84414.0
+2019,Osnabrück Stadt,Wohnungen,K03404,84594.0
+2011,Wilhelmshaven Stadt,Wohnungen,K03405,43630.0
+2012,Wilhelmshaven Stadt,Wohnungen,K03405,43694.0
+2013,Wilhelmshaven Stadt,Wohnungen,K03405,43722.0
+2014,Wilhelmshaven Stadt,Wohnungen,K03405,43846.0
+2015,Wilhelmshaven Stadt,Wohnungen,K03405,43902.0
+2016,Wilhelmshaven Stadt,Wohnungen,K03405,43988.0
+2017,Wilhelmshaven Stadt,Wohnungen,K03405,44059.0
+2018,Wilhelmshaven Stadt,Wohnungen,K03405,44154.0
+2019,Wilhelmshaven Stadt,Wohnungen,K03405,44240.0
+2011,Ammerland,Wohnungen,K03451,52282.0
+2012,Ammerland,Wohnungen,K03451,52953.0
+2013,Ammerland,Wohnungen,K03451,53842.0
+2014,Ammerland,Wohnungen,K03451,54530.0
+2015,Ammerland,Wohnungen,K03451,55073.0
+2016,Ammerland,Wohnungen,K03451,55839.0
+2017,Ammerland,Wohnungen,K03451,56451.0
+2018,Ammerland,Wohnungen,K03451,57244.0
+2019,Ammerland,Wohnungen,K03451,58334.0
+2011,Aurich,Wohnungen,K03452,88857.0
+2012,Aurich,Wohnungen,K03452,89512.0
+2013,Aurich,Wohnungen,K03452,90460.0
+2014,Aurich,Wohnungen,K03452,91255.0
+2015,Aurich,Wohnungen,K03452,92058.0
+2016,Aurich,Wohnungen,K03452,92849.0
+2017,Aurich,Wohnungen,K03452,93616.0
+2018,Aurich,Wohnungen,K03452,94189.0
+2019,Aurich,Wohnungen,K03452,94911.0
+2011,Cloppenburg,Wohnungen,K03453,58224.0
+2012,Cloppenburg,Wohnungen,K03453,59094.0
+2013,Cloppenburg,Wohnungen,K03453,60114.0
+2014,Cloppenburg,Wohnungen,K03453,61313.0
+2015,Cloppenburg,Wohnungen,K03453,62203.0
+2016,Cloppenburg,Wohnungen,K03453,63520.0
+2017,Cloppenburg,Wohnungen,K03453,64800.0
+2018,Cloppenburg,Wohnungen,K03453,66095.0
+2019,Cloppenburg,Wohnungen,K03453,67228.0
+2011,Emsland,Wohnungen,K03454,121302.0
+2012,Emsland,Wohnungen,K03454,123048.0
+2013,Emsland,Wohnungen,K03454,124957.0
+2014,Emsland,Wohnungen,K03454,127358.0
+2015,Emsland,Wohnungen,K03454,129302.0
+2016,Emsland,Wohnungen,K03454,131403.0
+2017,Emsland,Wohnungen,K03454,133618.0
+2018,Emsland,Wohnungen,K03454,135390.0
+2019,Emsland,Wohnungen,K03454,137434.0
+2011,Friesland,Wohnungen,K03455,47429.0
+2012,Friesland,Wohnungen,K03455,47705.0
+2013,Friesland,Wohnungen,K03455,48049.0
+2014,Friesland,Wohnungen,K03455,48570.0
+2015,Friesland,Wohnungen,K03455,48959.0
+2016,Friesland,Wohnungen,K03455,49490.0
+2017,Friesland,Wohnungen,K03455,49970.0
+2018,Friesland,Wohnungen,K03455,50546.0
+2019,Friesland,Wohnungen,K03455,51013.0
+2011,Grafschaft Bentheim,Wohnungen,K03456,54852.0
+2012,Grafschaft Bentheim,Wohnungen,K03456,55321.0
+2013,Grafschaft Bentheim,Wohnungen,K03456,55993.0
+2014,Grafschaft Bentheim,Wohnungen,K03456,56797.0
+2015,Grafschaft Bentheim,Wohnungen,K03456,57561.0
+2016,Grafschaft Bentheim,Wohnungen,K03456,58120.0
+2017,Grafschaft Bentheim,Wohnungen,K03456,58925.0
+2018,Grafschaft Bentheim,Wohnungen,K03456,59457.0
+2019,Grafschaft Bentheim,Wohnungen,K03456,60004.0
+2011,Leer,Wohnungen,K03457,73217.0
+2012,Leer,Wohnungen,K03457,73852.0
+2013,Leer,Wohnungen,K03457,74681.0
+2014,Leer,Wohnungen,K03457,75465.0
+2015,Leer,Wohnungen,K03457,76368.0
+2016,Leer,Wohnungen,K03457,77223.0
+2017,Leer,Wohnungen,K03457,78129.0
+2018,Leer,Wohnungen,K03457,78811.0
+2019,Leer,Wohnungen,K03457,79560.0
+2011,Oldenburg,Wohnungen,K03458,52887.0
+2012,Oldenburg,Wohnungen,K03458,53173.0
+2013,Oldenburg,Wohnungen,K03458,53465.0
+2014,Oldenburg,Wohnungen,K03458,53809.0
+2015,Oldenburg,Wohnungen,K03458,54331.0
+2016,Oldenburg,Wohnungen,K03458,54801.0
+2017,Oldenburg,Wohnungen,K03458,55223.0
+2018,Oldenburg,Wohnungen,K03458,55841.0
+2019,Oldenburg,Wohnungen,K03458,56385.0
+2011,Osnabrück,Wohnungen,K03459,144985.0
+2012,Osnabrück,Wohnungen,K03459,145956.0
+2013,Osnabrück,Wohnungen,K03459,146901.0
+2014,Osnabrück,Wohnungen,K03459,148219.0
+2015,Osnabrück,Wohnungen,K03459,149453.0
+2016,Osnabrück,Wohnungen,K03459,150731.0
+2017,Osnabrück,Wohnungen,K03459,152011.0
+2018,Osnabrück,Wohnungen,K03459,153387.0
+2019,Osnabrück,Wohnungen,K03459,154799.0
+2011,Vechta,Wohnungen,K03460,50125.0
+2012,Vechta,Wohnungen,K03460,50890.0
+2013,Vechta,Wohnungen,K03460,51957.0
+2014,Vechta,Wohnungen,K03460,53024.0
+2015,Vechta,Wohnungen,K03460,53806.0
+2016,Vechta,Wohnungen,K03460,54984.0
+2017,Vechta,Wohnungen,K03460,55904.0
+2018,Vechta,Wohnungen,K03460,56971.0
+2019,Vechta,Wohnungen,K03460,58069.0
+2011,Wesermarsch,Wohnungen,K03461,43171.0
+2012,Wesermarsch,Wohnungen,K03461,43287.0
+2013,Wesermarsch,Wohnungen,K03461,43455.0
+2014,Wesermarsch,Wohnungen,K03461,43595.0
+2015,Wesermarsch,Wohnungen,K03461,43717.0
+2016,Wesermarsch,Wohnungen,K03461,43901.0
+2017,Wesermarsch,Wohnungen,K03461,44059.0
+2018,Wesermarsch,Wohnungen,K03461,44316.0
+2019,Wesermarsch,Wohnungen,K03461,44515.0
+2011,Wittmund,Wohnungen,K03462,27367.0
+2012,Wittmund,Wohnungen,K03462,27561.0
+2013,Wittmund,Wohnungen,K03462,27788.0
+2014,Wittmund,Wohnungen,K03462,28070.0
+2015,Wittmund,Wohnungen,K03462,28420.0
+2016,Wittmund,Wohnungen,K03462,28771.0
+2017,Wittmund,Wohnungen,K03462,29062.0
+2018,Wittmund,Wohnungen,K03462,29309.0
+2019,Wittmund,Wohnungen,K03462,29651.0
+2011,Niedersachsen,Fläche in 100 qm,K030,3753096.0
+2012,Niedersachsen,Fläche in 100 qm,K030,3777669.0
+2013,Niedersachsen,Fläche in 100 qm,K030,3804485.0
+2014,Niedersachsen,Fläche in 100 qm,K030,3833755.0
+2015,Niedersachsen,Fläche in 100 qm,K030,3863345.0
+2016,Niedersachsen,Fläche in 100 qm,K030,3897007.0
+2017,Niedersachsen,Fläche in 100 qm,K030,3928305.0
+2018,Niedersachsen,Fläche in 100 qm,K030,3958600.0
+2019,Niedersachsen,Fläche in 100 qm,K030,3990262.0
+2011,Braunschweig,Fläche in 100 qm,K031,757036.0
+2012,Braunschweig,Fläche in 100 qm,K031,759978.0
+2013,Braunschweig,Fläche in 100 qm,K031,763206.0
+2014,Braunschweig,Fläche in 100 qm,K031,766689.0
+2015,Braunschweig,Fläche in 100 qm,K031,770493.0
+2016,Braunschweig,Fläche in 100 qm,K031,775265.0
+2017,Braunschweig,Fläche in 100 qm,K031,779976.0
+2018,Braunschweig,Fläche in 100 qm,K031,784306.0
+2019,Braunschweig,Fläche in 100 qm,K031,789034.0
+2011,Braunschweig Stadt,Fläche in 100 qm,K03101,107288.0
+2012,Braunschweig Stadt,Fläche in 100 qm,K03101,107961.0
+2013,Braunschweig Stadt,Fläche in 100 qm,K03101,108407.0
+2014,Braunschweig Stadt,Fläche in 100 qm,K03101,108815.0
+2015,Braunschweig Stadt,Fläche in 100 qm,K03101,109297.0
+2016,Braunschweig Stadt,Fläche in 100 qm,K03101,109801.0
+2017,Braunschweig Stadt,Fläche in 100 qm,K03101,110075.0
+2018,Braunschweig Stadt,Fläche in 100 qm,K03101,110689.0
+2019,Braunschweig Stadt,Fläche in 100 qm,K03101,111225.0
+2011,Salzgitter.Stadt,Fläche in 100 qm,K03102,45212.0
+2012,Salzgitter.Stadt,Fläche in 100 qm,K03102,45307.0
+2013,Salzgitter.Stadt,Fläche in 100 qm,K03102,45447.0
+2014,Salzgitter.Stadt,Fläche in 100 qm,K03102,45533.0
+2015,Salzgitter.Stadt,Fläche in 100 qm,K03102,45618.0
+2016,Salzgitter.Stadt,Fläche in 100 qm,K03102,45727.0
+2017,Salzgitter.Stadt,Fläche in 100 qm,K03102,45886.0
+2018,Salzgitter.Stadt,Fläche in 100 qm,K03102,45998.0
+2019,Salzgitter.Stadt,Fläche in 100 qm,K03102,46123.0
+2011,Wolfsburg.Stadt,Fläche in 100 qm,K03103,54677.0
+2012,Wolfsburg.Stadt,Fläche in 100 qm,K03103,54868.0
+2013,Wolfsburg.Stadt,Fläche in 100 qm,K03103,55156.0
+2014,Wolfsburg.Stadt,Fläche in 100 qm,K03103,55518.0
+2015,Wolfsburg.Stadt,Fläche in 100 qm,K03103,55827.0
+2016,Wolfsburg.Stadt,Fläche in 100 qm,K03103,56638.0
+2017,Wolfsburg.Stadt,Fläche in 100 qm,K03103,57165.0
+2018,Wolfsburg.Stadt,Fläche in 100 qm,K03103,57425.0
+2019,Wolfsburg.Stadt,Fläche in 100 qm,K03103,57766.0
+2011,Gifhorn,Fläche in 100 qm,K03151,85789.0
+2012,Gifhorn,Fläche in 100 qm,K03151,86374.0
+2013,Gifhorn,Fläche in 100 qm,K03151,87208.0
+2014,Gifhorn,Fläche in 100 qm,K03151,88162.0
+2015,Gifhorn,Fläche in 100 qm,K03151,89102.0
+2016,Gifhorn,Fläche in 100 qm,K03151,90076.0
+2017,Gifhorn,Fläche in 100 qm,K03151,91340.0
+2018,Gifhorn,Fläche in 100 qm,K03151,92359.0
+2019,Gifhorn,Fläche in 100 qm,K03151,93380.0
+2011,Goslar,Fläche in 100 qm,K03153,69982.0
+2012,Goslar,Fläche in 100 qm,K03153,70035.0
+2013,Goslar,Fläche in 100 qm,K03153,70128.0
+2014,Goslar,Fläche in 100 qm,K03153,70221.0
+2015,Goslar,Fläche in 100 qm,K03153,70312.0
+2016,Goslar,Fläche in 100 qm,K03153,70459.0
+2017,Goslar,Fläche in 100 qm,K03153,70592.0
+2018,Goslar,Fläche in 100 qm,K03153,70682.0
+2019,Goslar,Fläche in 100 qm,K03153,70878.0
+2011,Helmstedt,Fläche in 100 qm,K03154,46196.0
+2012,Helmstedt,Fläche in 100 qm,K03154,46266.0
+2013,Helmstedt,Fläche in 100 qm,K03154,46389.0
+2014,Helmstedt,Fläche in 100 qm,K03154,46647.0
+2015,Helmstedt,Fläche in 100 qm,K03154,46843.0
+2016,Helmstedt,Fläche in 100 qm,K03154,47182.0
+2017,Helmstedt,Fläche in 100 qm,K03154,47501.0
+2018,Helmstedt,Fläche in 100 qm,K03154,47901.0
+2019,Helmstedt,Fläche in 100 qm,K03154,48251.0
+2011,Northeim,Fläche in 100 qm,K03155,69312.0
+2012,Northeim,Fläche in 100 qm,K03155,69439.0
+2013,Northeim,Fläche in 100 qm,K03155,69539.0
+2014,Northeim,Fläche in 100 qm,K03155,69661.0
+2015,Northeim,Fläche in 100 qm,K03155,69792.0
+2016,Northeim,Fläche in 100 qm,K03155,69973.0
+2017,Northeim,Fläche in 100 qm,K03155,70238.0
+2018,Northeim,Fläche in 100 qm,K03155,70512.0
+2019,Northeim,Fläche in 100 qm,K03155,70767.0
+2011,Peine,Fläche in 100 qm,K03157,64176.0
+2012,Peine,Fläche in 100 qm,K03157,64560.0
+2013,Peine,Fläche in 100 qm,K03157,64963.0
+2014,Peine,Fläche in 100 qm,K03157,65377.0
+2015,Peine,Fläche in 100 qm,K03157,65991.0
+2016,Peine,Fläche in 100 qm,K03157,66635.0
+2017,Peine,Fläche in 100 qm,K03157,67457.0
+2018,Peine,Fläche in 100 qm,K03157,68092.0
+2019,Peine,Fläche in 100 qm,K03157,68980.0
+2011,Wolfenbüttel,Fläche in 100 qm,K03158,60672.0
+2012,Wolfenbüttel,Fläche in 100 qm,K03158,60920.0
+2013,Wolfenbüttel,Fläche in 100 qm,K03158,61161.0
+2014,Wolfenbüttel,Fläche in 100 qm,K03158,61429.0
+2015,Wolfenbüttel,Fläche in 100 qm,K03158,61842.0
+2016,Wolfenbüttel,Fläche in 100 qm,K03158,62163.0
+2017,Wolfenbüttel,Fläche in 100 qm,K03158,62440.0
+2018,Wolfenbüttel,Fläche in 100 qm,K03158,62741.0
+2019,Wolfenbüttel,Fläche in 100 qm,K03158,63108.0
+2011,Göttingen,Fläche in 100 qm,K03159,153731.0
+2012,Göttingen,Fläche in 100 qm,K03159,154247.0
+2013,Göttingen,Fläche in 100 qm,K03159,154808.0
+2014,Göttingen,Fläche in 100 qm,K03159,155325.0
+2015,Göttingen,Fläche in 100 qm,K03159,155869.0
+2016,Göttingen,Fläche in 100 qm,K03159,156611.0
+2017,Göttingen,Fläche in 100 qm,K03159,157284.0
+2018,Göttingen,Fläche in 100 qm,K03159,157907.0
+2019,Göttingen,Fläche in 100 qm,K03159,158557.0
+2011,Hannover,Fläche in 100 qm,K032,994682.0
+2012,Hannover,Fläche in 100 qm,K032,999847.0
+2013,Hannover,Fläche in 100 qm,K032,1004418.0
+2014,Hannover,Fläche in 100 qm,K032,1009354.0
+2015,Hannover,Fläche in 100 qm,K032,1015140.0
+2016,Hannover,Fläche in 100 qm,K032,1020780.0
+2017,Hannover,Fläche in 100 qm,K032,1026458.0
+2018,Hannover,Fläche in 100 qm,K032,1032248.0
+2019,Hannover,Fläche in 100 qm,K032,1038320.0
+2011,Hannover Region,Fläche in 100 qm,K03241,501734.0
+2012,Hannover Region,Fläche in 100 qm,K03241,504926.0
+2013,Hannover Region,Fläche in 100 qm,K03241,507362.0
+2014,Hannover Region,Fläche in 100 qm,K03241,510257.0
+2015,Hannover Region,Fläche in 100 qm,K03241,513556.0
+2016,Hannover Region,Fläche in 100 qm,K03241,516634.0
+2017,Hannover Region,Fläche in 100 qm,K03241,519932.0
+2018,Hannover Region,Fläche in 100 qm,K03241,523016.0
+2019,Hannover Region,Fläche in 100 qm,K03241,526319.0
+2011,Hannover Landeshauptstadt,Fläche in 100 qm,K03241001,215860.0
+2012,Hannover Landeshauptstadt,Fläche in 100 qm,K03241001,217159.0
+2013,Hannover Landeshauptstadt,Fläche in 100 qm,K03241001,217958.0
+2014,Hannover Landeshauptstadt,Fläche in 100 qm,K03241001,218960.0
+2015,Hannover Landeshauptstadt,Fläche in 100 qm,K03241001,220349.0
+2016,Hannover Landeshauptstadt,Fläche in 100 qm,K03241001,221312.0
+2017,Hannover Landeshauptstadt,Fläche in 100 qm,K03241001,222347.0
+2018,Hannover Landeshauptstadt,Fläche in 100 qm,K03241001,223418.0
+2019,Hannover Landeshauptstadt,Fläche in 100 qm,K03241001,224565.0
+2011,Diepholz,Fläche in 100 qm,K03251,106420.0
+2012,Diepholz,Fläche in 100 qm,K03251,107251.0
+2013,Diepholz,Fläche in 100 qm,K03251,108062.0
+2014,Diepholz,Fläche in 100 qm,K03251,108895.0
+2015,Diepholz,Fläche in 100 qm,K03251,109788.0
+2016,Diepholz,Fläche in 100 qm,K03251,110712.0
+2017,Diepholz,Fläche in 100 qm,K03251,111555.0
+2018,Diepholz,Fläche in 100 qm,K03251,112440.0
+2019,Diepholz,Fläche in 100 qm,K03251,113316.0
+2011,Hameln-Pyrmont,Fläche in 100 qm,K03252,76070.0
+2012,Hameln-Pyrmont,Fläche in 100 qm,K03252,76218.0
+2013,Hameln-Pyrmont,Fläche in 100 qm,K03252,76470.0
+2014,Hameln-Pyrmont,Fläche in 100 qm,K03252,76648.0
+2015,Hameln-Pyrmont,Fläche in 100 qm,K03252,76805.0
+2016,Hameln-Pyrmont,Fläche in 100 qm,K03252,76951.0
+2017,Hameln-Pyrmont,Fläche in 100 qm,K03252,77147.0
+2018,Hameln-Pyrmont,Fläche in 100 qm,K03252,77307.0
+2019,Hameln-Pyrmont,Fläche in 100 qm,K03252,77524.0
+2011,Hildesheim,Fläche in 100 qm,K03254,132736.0
+2012,Hildesheim,Fläche in 100 qm,K03254,133072.0
+2013,Hildesheim,Fläche in 100 qm,K03254,133574.0
+2014,Hildesheim,Fläche in 100 qm,K03254,134039.0
+2015,Hildesheim,Fläche in 100 qm,K03254,134608.0
+2016,Hildesheim,Fläche in 100 qm,K03254,135213.0
+2017,Hildesheim,Fläche in 100 qm,K03254,135749.0
+2018,Hildesheim,Fläche in 100 qm,K03254,136338.0
+2019,Hildesheim,Fläche in 100 qm,K03254,136981.0
+2011,Holzminden,Fläche in 100 qm,K03255,37984.0
+2012,Holzminden,Fläche in 100 qm,K03255,38061.0
+2013,Holzminden,Fläche in 100 qm,K03255,38081.0
+2014,Holzminden,Fläche in 100 qm,K03255,38107.0
+2015,Holzminden,Fläche in 100 qm,K03255,38231.0
+2016,Holzminden,Fläche in 100 qm,K03255,38308.0
+2017,Holzminden,Fläche in 100 qm,K03255,38353.0
+2018,Holzminden,Fläche in 100 qm,K03255,38454.0
+2019,Holzminden,Fläche in 100 qm,K03255,38534.0
+2011,Nienburg (Weser),Fläche in 100 qm,K03256,60607.0
+2012,Nienburg (Weser),Fläche in 100 qm,K03256,60872.0
+2013,Nienburg (Weser),Fläche in 100 qm,K03256,61156.0
+2014,Nienburg (Weser),Fläche in 100 qm,K03256,61423.0
+2015,Nienburg (Weser),Fläche in 100 qm,K03256,61777.0
+2016,Nienburg (Weser),Fläche in 100 qm,K03256,62261.0
+2017,Nienburg (Weser),Fläche in 100 qm,K03256,62591.0
+2018,Nienburg (Weser),Fläche in 100 qm,K03256,63036.0
+2019,Nienburg (Weser),Fläche in 100 qm,K03256,63499.0
+2011,Schaumburg,Fläche in 100 qm,K03257,79132.0
+2012,Schaumburg,Fläche in 100 qm,K03257,79446.0
+2013,Schaumburg,Fläche in 100 qm,K03257,79713.0
+2014,Schaumburg,Fläche in 100 qm,K03257,79985.0
+2015,Schaumburg,Fläche in 100 qm,K03257,80375.0
+2016,Schaumburg,Fläche in 100 qm,K03257,80701.0
+2017,Schaumburg,Fläche in 100 qm,K03257,81132.0
+2018,Schaumburg,Fläche in 100 qm,K03257,81658.0
+2019,Schaumburg,Fläche in 100 qm,K03257,82147.0
+2011,Lüneburg,Fläche in 100 qm,K033,825943.0
+2012,Lüneburg,Fläche in 100 qm,K033,831299.0
+2013,Lüneburg,Fläche in 100 qm,K033,837627.0
+2014,Lüneburg,Fläche in 100 qm,K033,844652.0
+2015,Lüneburg,Fläche in 100 qm,K033,851834.0
+2016,Lüneburg,Fläche in 100 qm,K033,860723.0
+2017,Lüneburg,Fläche in 100 qm,K033,868211.0
+2018,Lüneburg,Fläche in 100 qm,K033,875216.0
+2019,Lüneburg,Fläche in 100 qm,K033,882799.0
+2011,Celle,Fläche in 100 qm,K03351,88721.0
+2012,Celle,Fläche in 100 qm,K03351,88709.0
+2013,Celle,Fläche in 100 qm,K03351,89099.0
+2014,Celle,Fläche in 100 qm,K03351,89606.0
+2015,Celle,Fläche in 100 qm,K03351,90046.0
+2016,Celle,Fläche in 100 qm,K03351,90736.0
+2017,Celle,Fläche in 100 qm,K03351,91182.0
+2018,Celle,Fläche in 100 qm,K03351,91864.0
+2019,Celle,Fläche in 100 qm,K03351,92520.0
+2011,Cuxhaven,Fläche in 100 qm,K03352,99733.0
+2012,Cuxhaven,Fläche in 100 qm,K03352,100415.0
+2013,Cuxhaven,Fläche in 100 qm,K03352,101153.0
+2014,Cuxhaven,Fläche in 100 qm,K03352,102076.0
+2015,Cuxhaven,Fläche in 100 qm,K03352,102782.0
+2016,Cuxhaven,Fläche in 100 qm,K03352,103761.0
+2017,Cuxhaven,Fläche in 100 qm,K03352,104646.0
+2018,Cuxhaven,Fläche in 100 qm,K03352,105368.0
+2019,Cuxhaven,Fläche in 100 qm,K03352,106405.0
+2011,Harburg,Fläche in 100 qm,K03353,118780.0
+2012,Harburg,Fläche in 100 qm,K03353,120051.0
+2013,Harburg,Fläche in 100 qm,K03353,121419.0
+2014,Harburg,Fläche in 100 qm,K03353,122797.0
+2015,Harburg,Fläche in 100 qm,K03353,124121.0
+2016,Harburg,Fläche in 100 qm,K03353,125933.0
+2017,Harburg,Fläche in 100 qm,K03353,127225.0
+2018,Harburg,Fläche in 100 qm,K03353,128220.0
+2019,Harburg,Fläche in 100 qm,K03353,129647.0
+2011,Lüchow-Dannenberg,Fläche in 100 qm,K03354,27149.0
+2012,Lüchow-Dannenberg,Fläche in 100 qm,K03354,27209.0
+2013,Lüchow-Dannenberg,Fläche in 100 qm,K03354,27284.0
+2014,Lüchow-Dannenberg,Fläche in 100 qm,K03354,27402.0
+2015,Lüchow-Dannenberg,Fläche in 100 qm,K03354,27499.0
+2016,Lüchow-Dannenberg,Fläche in 100 qm,K03354,27699.0
+2017,Lüchow-Dannenberg,Fläche in 100 qm,K03354,27748.0
+2018,Lüchow-Dannenberg,Fläche in 100 qm,K03354,27846.0
+2019,Lüchow-Dannenberg,Fläche in 100 qm,K03354,27982.0
+2011,Lüneburg,Fläche in 100 qm,K03355,81191.0
+2012,Lüneburg,Fläche in 100 qm,K03355,81985.0
+2013,Lüneburg,Fläche in 100 qm,K03355,82822.0
+2014,Lüneburg,Fläche in 100 qm,K03355,83451.0
+2015,Lüneburg,Fläche in 100 qm,K03355,84288.0
+2016,Lüneburg,Fläche in 100 qm,K03355,85227.0
+2017,Lüneburg,Fläche in 100 qm,K03355,86288.0
+2018,Lüneburg,Fläche in 100 qm,K03355,86989.0
+2019,Lüneburg,Fläche in 100 qm,K03355,87134.0
+2011,Osterholz,Fläche in 100 qm,K03356,54699.0
+2012,Osterholz,Fläche in 100 qm,K03356,55134.0
+2013,Osterholz,Fläche in 100 qm,K03356,55439.0
+2014,Osterholz,Fläche in 100 qm,K03356,55895.0
+2015,Osterholz,Fläche in 100 qm,K03356,56360.0
+2016,Osterholz,Fläche in 100 qm,K03356,56789.0
+2017,Osterholz,Fläche in 100 qm,K03356,57308.0
+2018,Osterholz,Fläche in 100 qm,K03356,57786.0
+2019,Osterholz,Fläche in 100 qm,K03356,58458.0
+2011,Rotenburg (Wümme),Fläche in 100 qm,K03357,81596.0
+2012,Rotenburg (Wümme),Fläche in 100 qm,K03357,82118.0
+2013,Rotenburg (Wümme),Fläche in 100 qm,K03357,82602.0
+2014,Rotenburg (Wümme),Fläche in 100 qm,K03357,83344.0
+2015,Rotenburg (Wümme),Fläche in 100 qm,K03357,84013.0
+2016,Rotenburg (Wümme),Fläche in 100 qm,K03357,84880.0
+2017,Rotenburg (Wümme),Fläche in 100 qm,K03357,85742.0
+2018,Rotenburg (Wümme),Fläche in 100 qm,K03357,86534.0
+2019,Rotenburg (Wümme),Fläche in 100 qm,K03357,87397.0
+2011,Heidekreis,Fläche in 100 qm,K03358,67829.0
+2012,Heidekreis,Fläche in 100 qm,K03358,68037.0
+2013,Heidekreis,Fläche in 100 qm,K03358,68307.0
+2014,Heidekreis,Fläche in 100 qm,K03358,68669.0
+2015,Heidekreis,Fläche in 100 qm,K03358,68960.0
+2016,Heidekreis,Fläche in 100 qm,K03358,69510.0
+2017,Heidekreis,Fläche in 100 qm,K03358,69871.0
+2018,Heidekreis,Fläche in 100 qm,K03358,70285.0
+2019,Heidekreis,Fläche in 100 qm,K03358,70682.0
+2011,Stade,Fläche in 100 qm,K03359,91999.0
+2012,Stade,Fläche in 100 qm,K03359,92900.0
+2013,Stade,Fläche in 100 qm,K03359,93926.0
+2014,Stade,Fläche in 100 qm,K03359,95038.0
+2015,Stade,Fläche in 100 qm,K03359,96442.0
+2016,Stade,Fläche in 100 qm,K03359,97763.0
+2017,Stade,Fläche in 100 qm,K03359,98957.0
+2018,Stade,Fläche in 100 qm,K03359,100382.0
+2019,Stade,Fläche in 100 qm,K03359,101551.0
+2011,Uelzen,Fläche in 100 qm,K03360,48319.0
+2012,Uelzen,Fläche in 100 qm,K03360,48467.0
+2013,Uelzen,Fläche in 100 qm,K03360,48607.0
+2014,Uelzen,Fläche in 100 qm,K03360,48827.0
+2015,Uelzen,Fläche in 100 qm,K03360,48962.0
+2016,Uelzen,Fläche in 100 qm,K03360,49319.0
+2017,Uelzen,Fläche in 100 qm,K03360,49480.0
+2018,Uelzen,Fläche in 100 qm,K03360,49686.0
+2019,Uelzen,Fläche in 100 qm,K03360,49973.0
+2011,Verden,Fläche in 100 qm,K03361,65927.0
+2012,Verden,Fläche in 100 qm,K03361,66274.0
+2013,Verden,Fläche in 100 qm,K03361,66969.0
+2014,Verden,Fläche in 100 qm,K03361,67547.0
+2015,Verden,Fläche in 100 qm,K03361,68362.0
+2016,Verden,Fläche in 100 qm,K03361,69107.0
+2017,Verden,Fläche in 100 qm,K03361,69764.0
+2018,Verden,Fläche in 100 qm,K03361,70257.0
+2019,Verden,Fläche in 100 qm,K03361,71051.0
+2011,Weser-Ems,Fläche in 100 qm,K034,1175435.0
+2012,Weser-Ems,Fläche in 100 qm,K034,1186546.0
+2013,Weser-Ems,Fläche in 100 qm,K034,1199234.0
+2014,Weser-Ems,Fläche in 100 qm,K034,1213061.0
+2015,Weser-Ems,Fläche in 100 qm,K034,1225878.0
+2016,Weser-Ems,Fläche in 100 qm,K034,1240239.0
+2017,Weser-Ems,Fläche in 100 qm,K034,1253661.0
+2018,Weser-Ems,Fläche in 100 qm,K034,1266830.0
+2019,Weser-Ems,Fläche in 100 qm,K034,1280110.0
+2011,Delmenhorst.Stadt,Fläche in 100 qm,K03401,33435.0
+2012,Delmenhorst.Stadt,Fläche in 100 qm,K03401,33651.0
+2013,Delmenhorst.Stadt,Fläche in 100 qm,K03401,33809.0
+2014,Delmenhorst.Stadt,Fläche in 100 qm,K03401,34031.0
+2015,Delmenhorst.Stadt,Fläche in 100 qm,K03401,34194.0
+2016,Delmenhorst.Stadt,Fläche in 100 qm,K03401,34394.0
+2017,Delmenhorst.Stadt,Fläche in 100 qm,K03401,34568.0
+2018,Delmenhorst.Stadt,Fläche in 100 qm,K03401,34797.0
+2019,Delmenhorst.Stadt,Fläche in 100 qm,K03401,34994.0
+2011,Emden Stadt,Fläche in 100 qm,K03402,21962.0
+2012,Emden Stadt,Fläche in 100 qm,K03402,22087.0
+2013,Emden Stadt,Fläche in 100 qm,K03402,22215.0
+2014,Emden Stadt,Fläche in 100 qm,K03402,22520.0
+2015,Emden Stadt,Fläche in 100 qm,K03402,22597.0
+2016,Emden Stadt,Fläche in 100 qm,K03402,22722.0
+2017,Emden Stadt,Fläche in 100 qm,K03402,22903.0
+2018,Emden Stadt,Fläche in 100 qm,K03402,22984.0
+2019,Emden Stadt,Fläche in 100 qm,K03402,23008.0
+2011,Oldenburg (Oldb) Stadt,Fläche in 100 qm,K03403,74297.0
+2012,Oldenburg (Oldb) Stadt,Fläche in 100 qm,K03403,75348.0
+2013,Oldenburg (Oldb) Stadt,Fläche in 100 qm,K03403,76381.0
+2014,Oldenburg (Oldb) Stadt,Fläche in 100 qm,K03403,77048.0
+2015,Oldenburg (Oldb) Stadt,Fläche in 100 qm,K03403,78018.0
+2016,Oldenburg (Oldb) Stadt,Fläche in 100 qm,K03403,79074.0
+2017,Oldenburg (Oldb) Stadt,Fläche in 100 qm,K03403,80005.0
+2018,Oldenburg (Oldb) Stadt,Fläche in 100 qm,K03403,80929.0
+2019,Oldenburg (Oldb) Stadt,Fläche in 100 qm,K03403,81747.0
+2011,Osnabrück Stadt,Fläche in 100 qm,K03404,69514.0
+2012,Osnabrück Stadt,Fläche in 100 qm,K03404,69925.0
+2013,Osnabrück Stadt,Fläche in 100 qm,K03404,70411.0
+2014,Osnabrück Stadt,Fläche in 100 qm,K03404,70849.0
+2015,Osnabrück Stadt,Fläche in 100 qm,K03404,71388.0
+2016,Osnabrück Stadt,Fläche in 100 qm,K03404,72042.0
+2017,Osnabrück Stadt,Fläche in 100 qm,K03404,72469.0
+2018,Osnabrück Stadt,Fläche in 100 qm,K03404,72905.0
+2019,Osnabrück Stadt,Fläche in 100 qm,K03404,73083.0
+2011,Wilhelmshaven Stadt,Fläche in 100 qm,K03405,35974.0
+2012,Wilhelmshaven Stadt,Fläche in 100 qm,K03405,36067.0
+2013,Wilhelmshaven Stadt,Fläche in 100 qm,K03405,36116.0
+2014,Wilhelmshaven Stadt,Fläche in 100 qm,K03405,36261.0
+2015,Wilhelmshaven Stadt,Fläche in 100 qm,K03405,36328.0
+2016,Wilhelmshaven Stadt,Fläche in 100 qm,K03405,36443.0
+2017,Wilhelmshaven Stadt,Fläche in 100 qm,K03405,36553.0
+2018,Wilhelmshaven Stadt,Fläche in 100 qm,K03405,36674.0
+2019,Wilhelmshaven Stadt,Fläche in 100 qm,K03405,36750.0
+2011,Ammerland,Fläche in 100 qm,K03451,59939.0
+2012,Ammerland,Fläche in 100 qm,K03451,60749.0
+2013,Ammerland,Fläche in 100 qm,K03451,61757.0
+2014,Ammerland,Fläche in 100 qm,K03451,62581.0
+2015,Ammerland,Fläche in 100 qm,K03451,63250.0
+2016,Ammerland,Fläche in 100 qm,K03451,64062.0
+2017,Ammerland,Fläche in 100 qm,K03451,64759.0
+2018,Ammerland,Fläche in 100 qm,K03451,65589.0
+2019,Ammerland,Fläche in 100 qm,K03451,66684.0
+2011,Aurich,Fläche in 100 qm,K03452,94997.0
+2012,Aurich,Fläche in 100 qm,K03452,95702.0
+2013,Aurich,Fläche in 100 qm,K03452,96671.0
+2014,Aurich,Fläche in 100 qm,K03452,97555.0
+2015,Aurich,Fläche in 100 qm,K03452,98414.0
+2016,Aurich,Fläche in 100 qm,K03452,99268.0
+2017,Aurich,Fläche in 100 qm,K03452,100128.0
+2018,Aurich,Fläche in 100 qm,K03452,100747.0
+2019,Aurich,Fläche in 100 qm,K03452,101563.0
+2011,Cloppenburg,Fläche in 100 qm,K03453,74614.0
+2012,Cloppenburg,Fläche in 100 qm,K03453,75653.0
+2013,Cloppenburg,Fläche in 100 qm,K03453,76840.0
+2014,Cloppenburg,Fläche in 100 qm,K03453,78225.0
+2015,Cloppenburg,Fläche in 100 qm,K03453,79336.0
+2016,Cloppenburg,Fläche in 100 qm,K03453,80882.0
+2017,Cloppenburg,Fläche in 100 qm,K03453,82379.0
+2018,Cloppenburg,Fläche in 100 qm,K03453,83863.0
+2019,Cloppenburg,Fläche in 100 qm,K03453,85230.0
+2011,Emsland,Fläche in 100 qm,K03454,151722.0
+2012,Emsland,Fläche in 100 qm,K03454,153853.0
+2013,Emsland,Fläche in 100 qm,K03454,156228.0
+2014,Emsland,Fläche in 100 qm,K03454,158995.0
+2015,Emsland,Fläche in 100 qm,K03454,161353.0
+2016,Emsland,Fläche in 100 qm,K03454,163852.0
+2017,Emsland,Fläche in 100 qm,K03454,166328.0
+2018,Emsland,Fläche in 100 qm,K03454,168465.0
+2019,Emsland,Fläche in 100 qm,K03454,170946.0
+2011,Friesland,Fläche in 100 qm,K03455,50447.0
+2012,Friesland,Fläche in 100 qm,K03455,50762.0
+2013,Friesland,Fläche in 100 qm,K03455,51105.0
+2014,Friesland,Fläche in 100 qm,K03455,51664.0
+2015,Friesland,Fläche in 100 qm,K03455,52100.0
+2016,Friesland,Fläche in 100 qm,K03455,52709.0
+2017,Friesland,Fläche in 100 qm,K03455,53258.0
+2018,Friesland,Fläche in 100 qm,K03455,53858.0
+2019,Friesland,Fläche in 100 qm,K03455,54328.0
+2011,Grafschaft Bentheim,Fläche in 100 qm,K03456,64171.0
+2012,Grafschaft Bentheim,Fläche in 100 qm,K03456,64749.0
+2013,Grafschaft Bentheim,Fläche in 100 qm,K03456,65590.0
+2014,Grafschaft Bentheim,Fläche in 100 qm,K03456,66540.0
+2015,Grafschaft Bentheim,Fläche in 100 qm,K03456,67427.0
+2016,Grafschaft Bentheim,Fläche in 100 qm,K03456,68104.0
+2017,Grafschaft Bentheim,Fläche in 100 qm,K03456,68966.0
+2018,Grafschaft Bentheim,Fläche in 100 qm,K03456,69600.0
+2019,Grafschaft Bentheim,Fläche in 100 qm,K03456,70251.0
+2011,Leer,Fläche in 100 qm,K03457,81385.0
+2012,Leer,Fläche in 100 qm,K03457,82089.0
+2013,Leer,Fläche in 100 qm,K03457,83070.0
+2014,Leer,Fläche in 100 qm,K03457,84014.0
+2015,Leer,Fläche in 100 qm,K03457,85094.0
+2016,Leer,Fläche in 100 qm,K03457,86129.0
+2017,Leer,Fläche in 100 qm,K03457,87139.0
+2018,Leer,Fläche in 100 qm,K03457,87930.0
+2019,Leer,Fläche in 100 qm,K03457,88771.0
+2011,Oldenburg,Fläche in 100 qm,K03458,62373.0
+2012,Oldenburg,Fläche in 100 qm,K03458,62739.0
+2013,Oldenburg,Fläche in 100 qm,K03458,63102.0
+2014,Oldenburg,Fläche in 100 qm,K03458,63519.0
+2015,Oldenburg,Fläche in 100 qm,K03458,64152.0
+2016,Oldenburg,Fläche in 100 qm,K03458,64732.0
+2017,Oldenburg,Fläche in 100 qm,K03458,65268.0
+2018,Oldenburg,Fläche in 100 qm,K03458,65967.0
+2019,Oldenburg,Fläche in 100 qm,K03458,66616.0
+2011,Osnabrück,Fläche in 100 qm,K03459,163970.0
+2012,Osnabrück,Fläche in 100 qm,K03459,165201.0
+2013,Osnabrück,Fläche in 100 qm,K03459,166366.0
+2014,Osnabrück,Fläche in 100 qm,K03459,167975.0
+2015,Osnabrück,Fläche in 100 qm,K03459,169551.0
+2016,Osnabrück,Fläche in 100 qm,K03459,171167.0
+2017,Osnabrück,Fläche in 100 qm,K03459,172686.0
+2018,Osnabrück,Fläche in 100 qm,K03459,174369.0
+2019,Osnabrück,Fläche in 100 qm,K03459,176096.0
+2011,Vechta,Fläche in 100 qm,K03460,64111.0
+2012,Vechta,Fläche in 100 qm,K03460,65098.0
+2013,Vechta,Fläche in 100 qm,K03460,66269.0
+2014,Vechta,Fläche in 100 qm,K03460,67498.0
+2015,Vechta,Fläche in 100 qm,K03460,68397.0
+2016,Vechta,Fläche in 100 qm,K03460,69738.0
+2017,Vechta,Fläche in 100 qm,K03460,70820.0
+2018,Vechta,Fläche in 100 qm,K03460,72160.0
+2019,Vechta,Fläche in 100 qm,K03460,73430.0
+2011,Wesermarsch,Fläche in 100 qm,K03461,43872.0
+2012,Wesermarsch,Fläche in 100 qm,K03461,44026.0
+2013,Wesermarsch,Fläche in 100 qm,K03461,44222.0
+2014,Wesermarsch,Fläche in 100 qm,K03461,44397.0
+2015,Wesermarsch,Fläche in 100 qm,K03461,44549.0
+2016,Wesermarsch,Fläche in 100 qm,K03461,44774.0
+2017,Wesermarsch,Fläche in 100 qm,K03461,44971.0
+2018,Wesermarsch,Fläche in 100 qm,K03461,45255.0
+2019,Wesermarsch,Fläche in 100 qm,K03461,45511.0
+2011,Wittmund,Fläche in 100 qm,K03462,28650.0
+2012,Wittmund,Fläche in 100 qm,K03462,28847.0
+2013,Wittmund,Fläche in 100 qm,K03462,29082.0
+2014,Wittmund,Fläche in 100 qm,K03462,29391.0
+2015,Wittmund,Fläche in 100 qm,K03462,29730.0
+2016,Wittmund,Fläche in 100 qm,K03462,30147.0
+2017,Wittmund,Fläche in 100 qm,K03462,30462.0
+2018,Wittmund,Fläche in 100 qm,K03462,30738.0
+2019,Wittmund,Fläche in 100 qm,K03462,31103.0
+2011,Niedersachsen,Durchschnittliche Fläche je Wohnung,K030,101.9
+2012,Niedersachsen,Durchschnittliche Fläche je Wohnung,K030,102.0
+2013,Niedersachsen,Durchschnittliche Fläche je Wohnung,K030,102.1
+2014,Niedersachsen,Durchschnittliche Fläche je Wohnung,K030,102.2
+2015,Niedersachsen,Durchschnittliche Fläche je Wohnung,K030,102.3
+2016,Niedersachsen,Durchschnittliche Fläche je Wohnung,K030,102.4
+2017,Niedersachsen,Durchschnittliche Fläche je Wohnung,K030,102.5
+2018,Niedersachsen,Durchschnittliche Fläche je Wohnung,K030,102.5
+2019,Niedersachsen,Durchschnittliche Fläche je Wohnung,K030,102.6
+2011,Braunschweig,Durchschnittliche Fläche je Wohnung,K031,95.3
+2012,Braunschweig,Durchschnittliche Fläche je Wohnung,K031,95.5
+2013,Braunschweig,Durchschnittliche Fläche je Wohnung,K031,95.6
+2014,Braunschweig,Durchschnittliche Fläche je Wohnung,K031,95.7
+2015,Braunschweig,Durchschnittliche Fläche je Wohnung,K031,95.8
+2016,Braunschweig,Durchschnittliche Fläche je Wohnung,K031,95.9
+2017,Braunschweig,Durchschnittliche Fläche je Wohnung,K031,96.0
+2018,Braunschweig,Durchschnittliche Fläche je Wohnung,K031,96.1
+2019,Braunschweig,Durchschnittliche Fläche je Wohnung,K031,96.2
+2011,Braunschweig Stadt,Durchschnittliche Fläche je Wohnung,K03101,81.1
+2012,Braunschweig Stadt,Durchschnittliche Fläche je Wohnung,K03101,81.4
+2013,Braunschweig Stadt,Durchschnittliche Fläche je Wohnung,K03101,81.5
+2014,Braunschweig Stadt,Durchschnittliche Fläche je Wohnung,K03101,81.6
+2015,Braunschweig Stadt,Durchschnittliche Fläche je Wohnung,K03101,81.7
+2016,Braunschweig Stadt,Durchschnittliche Fläche je Wohnung,K03101,81.8
+2017,Braunschweig Stadt,Durchschnittliche Fläche je Wohnung,K03101,81.8
+2018,Braunschweig Stadt,Durchschnittliche Fläche je Wohnung,K03101,81.9
+2019,Braunschweig Stadt,Durchschnittliche Fläche je Wohnung,K03101,82.0
+2011,Salzgitter.Stadt,Durchschnittliche Fläche je Wohnung,K03102,83.9
+2012,Salzgitter.Stadt,Durchschnittliche Fläche je Wohnung,K03102,84.0
+2013,Salzgitter.Stadt,Durchschnittliche Fläche je Wohnung,K03102,84.1
+2014,Salzgitter.Stadt,Durchschnittliche Fläche je Wohnung,K03102,84.2
+2015,Salzgitter.Stadt,Durchschnittliche Fläche je Wohnung,K03102,84.2
+2016,Salzgitter.Stadt,Durchschnittliche Fläche je Wohnung,K03102,84.3
+2017,Salzgitter.Stadt,Durchschnittliche Fläche je Wohnung,K03102,84.4
+2018,Salzgitter.Stadt,Durchschnittliche Fläche je Wohnung,K03102,84.5
+2019,Salzgitter.Stadt,Durchschnittliche Fläche je Wohnung,K03102,84.6
+2011,Wolfsburg.Stadt,Durchschnittliche Fläche je Wohnung,K03103,87.4
+2012,Wolfsburg.Stadt,Durchschnittliche Fläche je Wohnung,K03103,87.8
+2013,Wolfsburg.Stadt,Durchschnittliche Fläche je Wohnung,K03103,88.0
+2014,Wolfsburg.Stadt,Durchschnittliche Fläche je Wohnung,K03103,88.0
+2015,Wolfsburg.Stadt,Durchschnittliche Fläche je Wohnung,K03103,88.2
+2016,Wolfsburg.Stadt,Durchschnittliche Fläche je Wohnung,K03103,88.6
+2017,Wolfsburg.Stadt,Durchschnittliche Fläche je Wohnung,K03103,88.8
+2018,Wolfsburg.Stadt,Durchschnittliche Fläche je Wohnung,K03103,88.9
+2019,Wolfsburg.Stadt,Durchschnittliche Fläche je Wohnung,K03103,88.9
+2011,Gifhorn,Durchschnittliche Fläche je Wohnung,K03151,116.5
+2012,Gifhorn,Durchschnittliche Fläche je Wohnung,K03151,116.7
+2013,Gifhorn,Durchschnittliche Fläche je Wohnung,K03151,116.8
+2014,Gifhorn,Durchschnittliche Fläche je Wohnung,K03151,117.0
+2015,Gifhorn,Durchschnittliche Fläche je Wohnung,K03151,117.1
+2016,Gifhorn,Durchschnittliche Fläche je Wohnung,K03151,117.3
+2017,Gifhorn,Durchschnittliche Fläche je Wohnung,K03151,117.4
+2018,Gifhorn,Durchschnittliche Fläche je Wohnung,K03151,117.5
+2019,Gifhorn,Durchschnittliche Fläche je Wohnung,K03151,117.5
+2011,Goslar,Durchschnittliche Fläche je Wohnung,K03153,91.1
+2012,Goslar,Durchschnittliche Fläche je Wohnung,K03153,91.2
+2013,Goslar,Durchschnittliche Fläche je Wohnung,K03153,91.2
+2014,Goslar,Durchschnittliche Fläche je Wohnung,K03153,91.2
+2015,Goslar,Durchschnittliche Fläche je Wohnung,K03153,91.2
+2016,Goslar,Durchschnittliche Fläche je Wohnung,K03153,91.3
+2017,Goslar,Durchschnittliche Fläche je Wohnung,K03153,91.3
+2018,Goslar,Durchschnittliche Fläche je Wohnung,K03153,91.3
+2019,Goslar,Durchschnittliche Fläche je Wohnung,K03153,91.4
+2011,Helmstedt,Durchschnittliche Fläche je Wohnung,K03154,101.2
+2012,Helmstedt,Durchschnittliche Fläche je Wohnung,K03154,101.2
+2013,Helmstedt,Durchschnittliche Fläche je Wohnung,K03154,101.3
+2014,Helmstedt,Durchschnittliche Fläche je Wohnung,K03154,101.4
+2015,Helmstedt,Durchschnittliche Fläche je Wohnung,K03154,101.5
+2016,Helmstedt,Durchschnittliche Fläche je Wohnung,K03154,101.8
+2017,Helmstedt,Durchschnittliche Fläche je Wohnung,K03154,101.9
+2018,Helmstedt,Durchschnittliche Fläche je Wohnung,K03154,102.1
+2019,Helmstedt,Durchschnittliche Fläche je Wohnung,K03154,102.3
+2011,Northeim,Durchschnittliche Fläche je Wohnung,K03155,105.1
+2012,Northeim,Durchschnittliche Fläche je Wohnung,K03155,105.1
+2013,Northeim,Durchschnittliche Fläche je Wohnung,K03155,105.2
+2014,Northeim,Durchschnittliche Fläche je Wohnung,K03155,105.2
+2015,Northeim,Durchschnittliche Fläche je Wohnung,K03155,105.3
+2016,Northeim,Durchschnittliche Fläche je Wohnung,K03155,105.4
+2017,Northeim,Durchschnittliche Fläche je Wohnung,K03155,105.4
+2018,Northeim,Durchschnittliche Fläche je Wohnung,K03155,105.5
+2019,Northeim,Durchschnittliche Fläche je Wohnung,K03155,105.5
+2011,Peine,Durchschnittliche Fläche je Wohnung,K03157,108.3
+2012,Peine,Durchschnittliche Fläche je Wohnung,K03157,108.4
+2013,Peine,Durchschnittliche Fläche je Wohnung,K03157,108.6
+2014,Peine,Durchschnittliche Fläche je Wohnung,K03157,108.7
+2015,Peine,Durchschnittliche Fläche je Wohnung,K03157,108.8
+2016,Peine,Durchschnittliche Fläche je Wohnung,K03157,109.0
+2017,Peine,Durchschnittliche Fläche je Wohnung,K03157,109.1
+2018,Peine,Durchschnittliche Fläche je Wohnung,K03157,109.2
+2019,Peine,Durchschnittliche Fläche je Wohnung,K03157,109.5
+2011,Wolfenbüttel,Durchschnittliche Fläche je Wohnung,K03158,104.2
+2012,Wolfenbüttel,Durchschnittliche Fläche je Wohnung,K03158,104.3
+2013,Wolfenbüttel,Durchschnittliche Fläche je Wohnung,K03158,104.5
+2014,Wolfenbüttel,Durchschnittliche Fläche je Wohnung,K03158,104.5
+2015,Wolfenbüttel,Durchschnittliche Fläche je Wohnung,K03158,104.7
+2016,Wolfenbüttel,Durchschnittliche Fläche je Wohnung,K03158,104.6
+2017,Wolfenbüttel,Durchschnittliche Fläche je Wohnung,K03158,104.7
+2018,Wolfenbüttel,Durchschnittliche Fläche je Wohnung,K03158,104.7
+2019,Wolfenbüttel,Durchschnittliche Fläche je Wohnung,K03158,104.8
+2011,Göttingen,Durchschnittliche Fläche je Wohnung,K03159,92.5
+2012,Göttingen,Durchschnittliche Fläche je Wohnung,K03159,92.6
+2013,Göttingen,Durchschnittliche Fläche je Wohnung,K03159,92.7
+2014,Göttingen,Durchschnittliche Fläche je Wohnung,K03159,92.8
+2015,Göttingen,Durchschnittliche Fläche je Wohnung,K03159,92.8
+2016,Göttingen,Durchschnittliche Fläche je Wohnung,K03159,92.9
+2017,Göttingen,Durchschnittliche Fläche je Wohnung,K03159,93.0
+2018,Göttingen,Durchschnittliche Fläche je Wohnung,K03159,93.0
+2019,Göttingen,Durchschnittliche Fläche je Wohnung,K03159,93.1
+2011,Hannover,Durchschnittliche Fläche je Wohnung,K032,96.1
+2012,Hannover,Durchschnittliche Fläche je Wohnung,K032,96.3
+2013,Hannover,Durchschnittliche Fläche je Wohnung,K032,96.4
+2014,Hannover,Durchschnittliche Fläche je Wohnung,K032,96.4
+2015,Hannover,Durchschnittliche Fläche je Wohnung,K032,96.6
+2016,Hannover,Durchschnittliche Fläche je Wohnung,K032,96.7
+2017,Hannover,Durchschnittliche Fläche je Wohnung,K032,96.7
+2018,Hannover,Durchschnittliche Fläche je Wohnung,K032,96.8
+2019,Hannover,Durchschnittliche Fläche je Wohnung,K032,96.9
+2011,Hannover Region,Durchschnittliche Fläche je Wohnung,K03241,88.6
+2012,Hannover Region,Durchschnittliche Fläche je Wohnung,K03241,88.8
+2013,Hannover Region,Durchschnittliche Fläche je Wohnung,K03241,88.9
+2014,Hannover Region,Durchschnittliche Fläche je Wohnung,K03241,89.0
+2015,Hannover Region,Durchschnittliche Fläche je Wohnung,K03241,89.2
+2016,Hannover Region,Durchschnittliche Fläche je Wohnung,K03241,89.3
+2017,Hannover Region,Durchschnittliche Fläche je Wohnung,K03241,89.4
+2018,Hannover Region,Durchschnittliche Fläche je Wohnung,K03241,89.5
+2019,Hannover Region,Durchschnittliche Fläche je Wohnung,K03241,89.5
+2011,Hannover Landeshauptstadt,Durchschnittliche Fläche je Wohnung,K03241001,76.5
+2012,Hannover Landeshauptstadt,Durchschnittliche Fläche je Wohnung,K03241001,76.7
+2013,Hannover Landeshauptstadt,Durchschnittliche Fläche je Wohnung,K03241001,76.8
+2014,Hannover Landeshauptstadt,Durchschnittliche Fläche je Wohnung,K03241001,76.8
+2015,Hannover Landeshauptstadt,Durchschnittliche Fläche je Wohnung,K03241001,77.0
+2016,Hannover Landeshauptstadt,Durchschnittliche Fläche je Wohnung,K03241001,77.1
+2017,Hannover Landeshauptstadt,Durchschnittliche Fläche je Wohnung,K03241001,77.2
+2018,Hannover Landeshauptstadt,Durchschnittliche Fläche je Wohnung,K03241001,77.1
+2019,Hannover Landeshauptstadt,Durchschnittliche Fläche je Wohnung,K03241001,77.2
+2011,Diepholz,Durchschnittliche Fläche je Wohnung,K03251,115.7
+2012,Diepholz,Durchschnittliche Fläche je Wohnung,K03251,115.6
+2013,Diepholz,Durchschnittliche Fläche je Wohnung,K03251,115.7
+2014,Diepholz,Durchschnittliche Fläche je Wohnung,K03251,115.7
+2015,Diepholz,Durchschnittliche Fläche je Wohnung,K03251,115.7
+2016,Diepholz,Durchschnittliche Fläche je Wohnung,K03251,115.8
+2017,Diepholz,Durchschnittliche Fläche je Wohnung,K03251,115.8
+2018,Diepholz,Durchschnittliche Fläche je Wohnung,K03251,115.8
+2019,Diepholz,Durchschnittliche Fläche je Wohnung,K03251,115.7
+2011,Hameln-Pyrmont,Durchschnittliche Fläche je Wohnung,K03252,99.3
+2012,Hameln-Pyrmont,Durchschnittliche Fläche je Wohnung,K03252,99.4
+2013,Hameln-Pyrmont,Durchschnittliche Fläche je Wohnung,K03252,99.4
+2014,Hameln-Pyrmont,Durchschnittliche Fläche je Wohnung,K03252,99.4
+2015,Hameln-Pyrmont,Durchschnittliche Fläche je Wohnung,K03252,99.4
+2016,Hameln-Pyrmont,Durchschnittliche Fläche je Wohnung,K03252,99.5
+2017,Hameln-Pyrmont,Durchschnittliche Fläche je Wohnung,K03252,99.6
+2018,Hameln-Pyrmont,Durchschnittliche Fläche je Wohnung,K03252,99.6
+2019,Hameln-Pyrmont,Durchschnittliche Fläche je Wohnung,K03252,99.7
+2011,Hildesheim,Durchschnittliche Fläche je Wohnung,K03254,98.5
+2012,Hildesheim,Durchschnittliche Fläche je Wohnung,K03254,98.6
+2013,Hildesheim,Durchschnittliche Fläche je Wohnung,K03254,98.7
+2014,Hildesheim,Durchschnittliche Fläche je Wohnung,K03254,98.7
+2015,Hildesheim,Durchschnittliche Fläche je Wohnung,K03254,98.8
+2016,Hildesheim,Durchschnittliche Fläche je Wohnung,K03254,98.9
+2017,Hildesheim,Durchschnittliche Fläche je Wohnung,K03254,98.9
+2018,Hildesheim,Durchschnittliche Fläche je Wohnung,K03254,99.0
+2019,Hildesheim,Durchschnittliche Fläche je Wohnung,K03254,99.1
+2011,Holzminden,Durchschnittliche Fläche je Wohnung,K03255,103.7
+2012,Holzminden,Durchschnittliche Fläche je Wohnung,K03255,103.8
+2013,Holzminden,Durchschnittliche Fläche je Wohnung,K03255,103.8
+2014,Holzminden,Durchschnittliche Fläche je Wohnung,K03255,103.8
+2015,Holzminden,Durchschnittliche Fläche je Wohnung,K03255,103.9
+2016,Holzminden,Durchschnittliche Fläche je Wohnung,K03255,104.0
+2017,Holzminden,Durchschnittliche Fläche je Wohnung,K03255,104.0
+2018,Holzminden,Durchschnittliche Fläche je Wohnung,K03255,104.1
+2019,Holzminden,Durchschnittliche Fläche je Wohnung,K03255,104.2
+2011,Nienburg (Weser),Durchschnittliche Fläche je Wohnung,K03256,113.7
+2012,Nienburg (Weser),Durchschnittliche Fläche je Wohnung,K03256,113.7
+2013,Nienburg (Weser),Durchschnittliche Fläche je Wohnung,K03256,113.7
+2014,Nienburg (Weser),Durchschnittliche Fläche je Wohnung,K03256,113.8
+2015,Nienburg (Weser),Durchschnittliche Fläche je Wohnung,K03256,113.8
+2016,Nienburg (Weser),Durchschnittliche Fläche je Wohnung,K03256,113.9
+2017,Nienburg (Weser),Durchschnittliche Fläche je Wohnung,K03256,114.0
+2018,Nienburg (Weser),Durchschnittliche Fläche je Wohnung,K03256,114.0
+2019,Nienburg (Weser),Durchschnittliche Fläche je Wohnung,K03256,114.1
+2011,Schaumburg,Durchschnittliche Fläche je Wohnung,K03257,105.3
+2012,Schaumburg,Durchschnittliche Fläche je Wohnung,K03257,105.4
+2013,Schaumburg,Durchschnittliche Fläche je Wohnung,K03257,105.4
+2014,Schaumburg,Durchschnittliche Fläche je Wohnung,K03257,105.5
+2015,Schaumburg,Durchschnittliche Fläche je Wohnung,K03257,105.5
+2016,Schaumburg,Durchschnittliche Fläche je Wohnung,K03257,105.6
+2017,Schaumburg,Durchschnittliche Fläche je Wohnung,K03257,105.7
+2018,Schaumburg,Durchschnittliche Fläche je Wohnung,K03257,105.9
+2019,Schaumburg,Durchschnittliche Fläche je Wohnung,K03257,105.9
+2011,Lüneburg,Durchschnittliche Fläche je Wohnung,K033,106.9
+2012,Lüneburg,Durchschnittliche Fläche je Wohnung,K033,107.0
+2013,Lüneburg,Durchschnittliche Fläche je Wohnung,K033,107.1
+2014,Lüneburg,Durchschnittliche Fläche je Wohnung,K033,107.2
+2015,Lüneburg,Durchschnittliche Fläche je Wohnung,K033,107.3
+2016,Lüneburg,Durchschnittliche Fläche je Wohnung,K033,107.4
+2017,Lüneburg,Durchschnittliche Fläche je Wohnung,K033,107.4
+2018,Lüneburg,Durchschnittliche Fläche je Wohnung,K033,107.5
+2019,Lüneburg,Durchschnittliche Fläche je Wohnung,K033,107.5
+2011,Celle,Durchschnittliche Fläche je Wohnung,K03351,105.1
+2012,Celle,Durchschnittliche Fläche je Wohnung,K03351,105.0
+2013,Celle,Durchschnittliche Fläche je Wohnung,K03351,105.0
+2014,Celle,Durchschnittliche Fläche je Wohnung,K03351,105.2
+2015,Celle,Durchschnittliche Fläche je Wohnung,K03351,105.2
+2016,Celle,Durchschnittliche Fläche je Wohnung,K03351,105.4
+2017,Celle,Durchschnittliche Fläche je Wohnung,K03351,105.5
+2018,Celle,Durchschnittliche Fläche je Wohnung,K03351,105.6
+2019,Celle,Durchschnittliche Fläche je Wohnung,K03351,105.7
+2011,Cuxhaven,Durchschnittliche Fläche je Wohnung,K03352,104.1
+2012,Cuxhaven,Durchschnittliche Fläche je Wohnung,K03352,104.1
+2013,Cuxhaven,Durchschnittliche Fläche je Wohnung,K03352,104.2
+2014,Cuxhaven,Durchschnittliche Fläche je Wohnung,K03352,104.3
+2015,Cuxhaven,Durchschnittliche Fläche je Wohnung,K03352,104.4
+2016,Cuxhaven,Durchschnittliche Fläche je Wohnung,K03352,104.4
+2017,Cuxhaven,Durchschnittliche Fläche je Wohnung,K03352,104.6
+2018,Cuxhaven,Durchschnittliche Fläche je Wohnung,K03352,104.7
+2019,Cuxhaven,Durchschnittliche Fläche je Wohnung,K03352,104.9
+2011,Harburg,Durchschnittliche Fläche je Wohnung,K03353,107.6
+2012,Harburg,Durchschnittliche Fläche je Wohnung,K03353,107.8
+2013,Harburg,Durchschnittliche Fläche je Wohnung,K03353,107.9
+2014,Harburg,Durchschnittliche Fläche je Wohnung,K03353,108.1
+2015,Harburg,Durchschnittliche Fläche je Wohnung,K03353,108.2
+2016,Harburg,Durchschnittliche Fläche je Wohnung,K03353,108.4
+2017,Harburg,Durchschnittliche Fläche je Wohnung,K03353,108.5
+2018,Harburg,Durchschnittliche Fläche je Wohnung,K03353,108.5
+2019,Harburg,Durchschnittliche Fläche je Wohnung,K03353,108.5
+2011,Lüchow-Dannenberg,Durchschnittliche Fläche je Wohnung,K03354,109.8
+2012,Lüchow-Dannenberg,Durchschnittliche Fläche je Wohnung,K03354,109.9
+2013,Lüchow-Dannenberg,Durchschnittliche Fläche je Wohnung,K03354,110.0
+2014,Lüchow-Dannenberg,Durchschnittliche Fläche je Wohnung,K03354,110.0
+2015,Lüchow-Dannenberg,Durchschnittliche Fläche je Wohnung,K03354,110.1
+2016,Lüchow-Dannenberg,Durchschnittliche Fläche je Wohnung,K03354,110.2
+2017,Lüchow-Dannenberg,Durchschnittliche Fläche je Wohnung,K03354,110.2
+2018,Lüchow-Dannenberg,Durchschnittliche Fläche je Wohnung,K03354,110.1
+2019,Lüchow-Dannenberg,Durchschnittliche Fläche je Wohnung,K03354,110.1
+2011,Lüneburg,Durchschnittliche Fläche je Wohnung,K03355,98.8
+2012,Lüneburg,Durchschnittliche Fläche je Wohnung,K03355,99.0
+2013,Lüneburg,Durchschnittliche Fläche je Wohnung,K03355,99.1
+2014,Lüneburg,Durchschnittliche Fläche je Wohnung,K03355,99.3
+2015,Lüneburg,Durchschnittliche Fläche je Wohnung,K03355,99.4
+2016,Lüneburg,Durchschnittliche Fläche je Wohnung,K03355,99.5
+2017,Lüneburg,Durchschnittliche Fläche je Wohnung,K03355,99.2
+2018,Lüneburg,Durchschnittliche Fläche je Wohnung,K03355,99.3
+2019,Lüneburg,Durchschnittliche Fläche je Wohnung,K03355,99.3
+2011,Osterholz,Durchschnittliche Fläche je Wohnung,K03356,112.8
+2012,Osterholz,Durchschnittliche Fläche je Wohnung,K03356,113.0
+2013,Osterholz,Durchschnittliche Fläche je Wohnung,K03356,113.1
+2014,Osterholz,Durchschnittliche Fläche je Wohnung,K03356,113.2
+2015,Osterholz,Durchschnittliche Fläche je Wohnung,K03356,113.3
+2016,Osterholz,Durchschnittliche Fläche je Wohnung,K03356,113.4
+2017,Osterholz,Durchschnittliche Fläche je Wohnung,K03356,113.6
+2018,Osterholz,Durchschnittliche Fläche je Wohnung,K03356,113.7
+2019,Osterholz,Durchschnittliche Fläche je Wohnung,K03356,113.7
+2011,Rotenburg (Wümme),Durchschnittliche Fläche je Wohnung,K03357,116.9
+2012,Rotenburg (Wümme),Durchschnittliche Fläche je Wohnung,K03357,117.0
+2013,Rotenburg (Wümme),Durchschnittliche Fläche je Wohnung,K03357,117.0
+2014,Rotenburg (Wümme),Durchschnittliche Fläche je Wohnung,K03357,117.0
+2015,Rotenburg (Wümme),Durchschnittliche Fläche je Wohnung,K03357,117.1
+2016,Rotenburg (Wümme),Durchschnittliche Fläche je Wohnung,K03357,117.1
+2017,Rotenburg (Wümme),Durchschnittliche Fläche je Wohnung,K03357,117.1
+2018,Rotenburg (Wümme),Durchschnittliche Fläche je Wohnung,K03357,117.2
+2019,Rotenburg (Wümme),Durchschnittliche Fläche je Wohnung,K03357,117.2
+2011,Heidekreis,Durchschnittliche Fläche je Wohnung,K03358,106.5
+2012,Heidekreis,Durchschnittliche Fläche je Wohnung,K03358,106.6
+2013,Heidekreis,Durchschnittliche Fläche je Wohnung,K03358,106.7
+2014,Heidekreis,Durchschnittliche Fläche je Wohnung,K03358,106.8
+2015,Heidekreis,Durchschnittliche Fläche je Wohnung,K03358,106.8
+2016,Heidekreis,Durchschnittliche Fläche je Wohnung,K03358,106.9
+2017,Heidekreis,Durchschnittliche Fläche je Wohnung,K03358,107.0
+2018,Heidekreis,Durchschnittliche Fläche je Wohnung,K03358,107.0
+2019,Heidekreis,Durchschnittliche Fläche je Wohnung,K03358,107.1
+2011,Stade,Durchschnittliche Fläche je Wohnung,K03359,103.6
+2012,Stade,Durchschnittliche Fläche je Wohnung,K03359,103.7
+2013,Stade,Durchschnittliche Fläche je Wohnung,K03359,103.9
+2014,Stade,Durchschnittliche Fläche je Wohnung,K03359,104.0
+2015,Stade,Durchschnittliche Fläche je Wohnung,K03359,103.9
+2016,Stade,Durchschnittliche Fläche je Wohnung,K03359,104.0
+2017,Stade,Durchschnittliche Fläche je Wohnung,K03359,103.8
+2018,Stade,Durchschnittliche Fläche je Wohnung,K03359,103.9
+2019,Stade,Durchschnittliche Fläche je Wohnung,K03359,103.9
+2011,Uelzen,Durchschnittliche Fläche je Wohnung,K03360,106.6
+2012,Uelzen,Durchschnittliche Fläche je Wohnung,K03360,106.7
+2013,Uelzen,Durchschnittliche Fläche je Wohnung,K03360,106.7
+2014,Uelzen,Durchschnittliche Fläche je Wohnung,K03360,106.7
+2015,Uelzen,Durchschnittliche Fläche je Wohnung,K03360,106.7
+2016,Uelzen,Durchschnittliche Fläche je Wohnung,K03360,106.5
+2017,Uelzen,Durchschnittliche Fläche je Wohnung,K03360,106.6
+2018,Uelzen,Durchschnittliche Fläche je Wohnung,K03360,106.6
+2019,Uelzen,Durchschnittliche Fläche je Wohnung,K03360,106.7
+2011,Verden,Durchschnittliche Fläche je Wohnung,K03361,112.0
+2012,Verden,Durchschnittliche Fläche je Wohnung,K03361,112.4
+2013,Verden,Durchschnittliche Fläche je Wohnung,K03361,112.6
+2014,Verden,Durchschnittliche Fläche je Wohnung,K03361,112.7
+2015,Verden,Durchschnittliche Fläche je Wohnung,K03361,112.8
+2016,Verden,Durchschnittliche Fläche je Wohnung,K03361,113.0
+2017,Verden,Durchschnittliche Fläche je Wohnung,K03361,113.1
+2018,Verden,Durchschnittliche Fläche je Wohnung,K03361,113.1
+2019,Verden,Durchschnittliche Fläche je Wohnung,K03361,113.1
+2011,Weser-Ems,Durchschnittliche Fläche je Wohnung,K034,108.5
+2012,Weser-Ems,Durchschnittliche Fläche je Wohnung,K034,108.6
+2013,Weser-Ems,Durchschnittliche Fläche je Wohnung,K034,108.7
+2014,Weser-Ems,Durchschnittliche Fläche je Wohnung,K034,108.7
+2015,Weser-Ems,Durchschnittliche Fläche je Wohnung,K034,108.8
+2016,Weser-Ems,Durchschnittliche Fläche je Wohnung,K034,108.8
+2017,Weser-Ems,Durchschnittliche Fläche je Wohnung,K034,108.8
+2018,Weser-Ems,Durchschnittliche Fläche je Wohnung,K034,108.9
+2019,Weser-Ems,Durchschnittliche Fläche je Wohnung,K034,108.9
+2011,Delmenhorst.Stadt,Durchschnittliche Fläche je Wohnung,K03401,92.0
+2012,Delmenhorst.Stadt,Durchschnittliche Fläche je Wohnung,K03401,92.1
+2013,Delmenhorst.Stadt,Durchschnittliche Fläche je Wohnung,K03401,92.2
+2014,Delmenhorst.Stadt,Durchschnittliche Fläche je Wohnung,K03401,92.3
+2015,Delmenhorst.Stadt,Durchschnittliche Fläche je Wohnung,K03401,92.3
+2016,Delmenhorst.Stadt,Durchschnittliche Fläche je Wohnung,K03401,92.4
+2017,Delmenhorst.Stadt,Durchschnittliche Fläche je Wohnung,K03401,92.3
+2018,Delmenhorst.Stadt,Durchschnittliche Fläche je Wohnung,K03401,92.4
+2019,Delmenhorst.Stadt,Durchschnittliche Fläche je Wohnung,K03401,92.4
+2011,Emden Stadt,Durchschnittliche Fläche je Wohnung,K03402,89.9
+2012,Emden Stadt,Durchschnittliche Fläche je Wohnung,K03402,90.1
+2013,Emden Stadt,Durchschnittliche Fläche je Wohnung,K03402,90.2
+2014,Emden Stadt,Durchschnittliche Fläche je Wohnung,K03402,90.4
+2015,Emden Stadt,Durchschnittliche Fläche je Wohnung,K03402,90.4
+2016,Emden Stadt,Durchschnittliche Fläche je Wohnung,K03402,90.5
+2017,Emden Stadt,Durchschnittliche Fläche je Wohnung,K03402,90.4
+2018,Emden Stadt,Durchschnittliche Fläche je Wohnung,K03402,90.5
+2019,Emden Stadt,Durchschnittliche Fläche je Wohnung,K03402,90.5
+2011,Oldenburg (Oldb) Stadt,Durchschnittliche Fläche je Wohnung,K03403,89.8
+2012,Oldenburg (Oldb) Stadt,Durchschnittliche Fläche je Wohnung,K03403,89.9
+2013,Oldenburg (Oldb) Stadt,Durchschnittliche Fläche je Wohnung,K03403,89.9
+2014,Oldenburg (Oldb) Stadt,Durchschnittliche Fläche je Wohnung,K03403,90.0
+2015,Oldenburg (Oldb) Stadt,Durchschnittliche Fläche je Wohnung,K03403,90.0
+2016,Oldenburg (Oldb) Stadt,Durchschnittliche Fläche je Wohnung,K03403,89.8
+2017,Oldenburg (Oldb) Stadt,Durchschnittliche Fläche je Wohnung,K03403,89.6
+2018,Oldenburg (Oldb) Stadt,Durchschnittliche Fläche je Wohnung,K03403,89.4
+2019,Oldenburg (Oldb) Stadt,Durchschnittliche Fläche je Wohnung,K03403,89.5
+2011,Osnabrück Stadt,Durchschnittliche Fläche je Wohnung,K03404,85.7
+2012,Osnabrück Stadt,Durchschnittliche Fläche je Wohnung,K03404,85.8
+2013,Osnabrück Stadt,Durchschnittliche Fläche je Wohnung,K03404,86.0
+2014,Osnabrück Stadt,Durchschnittliche Fläche je Wohnung,K03404,86.2
+2015,Osnabrück Stadt,Durchschnittliche Fläche je Wohnung,K03404,86.3
+2016,Osnabrück Stadt,Durchschnittliche Fläche je Wohnung,K03404,86.4
+2017,Osnabrück Stadt,Durchschnittliche Fläche je Wohnung,K03404,86.4
+2018,Osnabrück Stadt,Durchschnittliche Fläche je Wohnung,K03404,86.4
+2019,Osnabrück Stadt,Durchschnittliche Fläche je Wohnung,K03404,86.4
+2011,Wilhelmshaven Stadt,Durchschnittliche Fläche je Wohnung,K03405,82.5
+2012,Wilhelmshaven Stadt,Durchschnittliche Fläche je Wohnung,K03405,82.5
+2013,Wilhelmshaven Stadt,Durchschnittliche Fläche je Wohnung,K03405,82.6
+2014,Wilhelmshaven Stadt,Durchschnittliche Fläche je Wohnung,K03405,82.7
+2015,Wilhelmshaven Stadt,Durchschnittliche Fläche je Wohnung,K03405,82.7
+2016,Wilhelmshaven Stadt,Durchschnittliche Fläche je Wohnung,K03405,82.8
+2017,Wilhelmshaven Stadt,Durchschnittliche Fläche je Wohnung,K03405,83.0
+2018,Wilhelmshaven Stadt,Durchschnittliche Fläche je Wohnung,K03405,83.1
+2019,Wilhelmshaven Stadt,Durchschnittliche Fläche je Wohnung,K03405,83.1
+2011,Ammerland,Durchschnittliche Fläche je Wohnung,K03451,114.6
+2012,Ammerland,Durchschnittliche Fläche je Wohnung,K03451,114.7
+2013,Ammerland,Durchschnittliche Fläche je Wohnung,K03451,114.7
+2014,Ammerland,Durchschnittliche Fläche je Wohnung,K03451,114.8
+2015,Ammerland,Durchschnittliche Fläche je Wohnung,K03451,114.8
+2016,Ammerland,Durchschnittliche Fläche je Wohnung,K03451,114.7
+2017,Ammerland,Durchschnittliche Fläche je Wohnung,K03451,114.7
+2018,Ammerland,Durchschnittliche Fläche je Wohnung,K03451,114.6
+2019,Ammerland,Durchschnittliche Fläche je Wohnung,K03451,114.3
+2011,Aurich,Durchschnittliche Fläche je Wohnung,K03452,106.9
+2012,Aurich,Durchschnittliche Fläche je Wohnung,K03452,106.9
+2013,Aurich,Durchschnittliche Fläche je Wohnung,K03452,106.9
+2014,Aurich,Durchschnittliche Fläche je Wohnung,K03452,106.9
+2015,Aurich,Durchschnittliche Fläche je Wohnung,K03452,106.9
+2016,Aurich,Durchschnittliche Fläche je Wohnung,K03452,106.9
+2017,Aurich,Durchschnittliche Fläche je Wohnung,K03452,107.0
+2018,Aurich,Durchschnittliche Fläche je Wohnung,K03452,107.0
+2019,Aurich,Durchschnittliche Fläche je Wohnung,K03452,107.0
+2011,Cloppenburg,Durchschnittliche Fläche je Wohnung,K03453,128.2
+2012,Cloppenburg,Durchschnittliche Fläche je Wohnung,K03453,128.0
+2013,Cloppenburg,Durchschnittliche Fläche je Wohnung,K03453,127.8
+2014,Cloppenburg,Durchschnittliche Fläche je Wohnung,K03453,127.6
+2015,Cloppenburg,Durchschnittliche Fläche je Wohnung,K03453,127.5
+2016,Cloppenburg,Durchschnittliche Fläche je Wohnung,K03453,127.3
+2017,Cloppenburg,Durchschnittliche Fläche je Wohnung,K03453,127.1
+2018,Cloppenburg,Durchschnittliche Fläche je Wohnung,K03453,126.9
+2019,Cloppenburg,Durchschnittliche Fläche je Wohnung,K03453,126.8
+2011,Emsland,Durchschnittliche Fläche je Wohnung,K03454,125.1
+2012,Emsland,Durchschnittliche Fläche je Wohnung,K03454,125.0
+2013,Emsland,Durchschnittliche Fläche je Wohnung,K03454,125.0
+2014,Emsland,Durchschnittliche Fläche je Wohnung,K03454,124.8
+2015,Emsland,Durchschnittliche Fläche je Wohnung,K03454,124.8
+2016,Emsland,Durchschnittliche Fläche je Wohnung,K03454,124.7
+2017,Emsland,Durchschnittliche Fläche je Wohnung,K03454,124.5
+2018,Emsland,Durchschnittliche Fläche je Wohnung,K03454,124.4
+2019,Emsland,Durchschnittliche Fläche je Wohnung,K03454,124.4
+2011,Friesland,Durchschnittliche Fläche je Wohnung,K03455,106.4
+2012,Friesland,Durchschnittliche Fläche je Wohnung,K03455,106.4
+2013,Friesland,Durchschnittliche Fläche je Wohnung,K03455,106.4
+2014,Friesland,Durchschnittliche Fläche je Wohnung,K03455,106.4
+2015,Friesland,Durchschnittliche Fläche je Wohnung,K03455,106.4
+2016,Friesland,Durchschnittliche Fläche je Wohnung,K03455,106.5
+2017,Friesland,Durchschnittliche Fläche je Wohnung,K03455,106.6
+2018,Friesland,Durchschnittliche Fläche je Wohnung,K03455,106.6
+2019,Friesland,Durchschnittliche Fläche je Wohnung,K03455,106.5
+2011,Grafschaft Bentheim,Durchschnittliche Fläche je Wohnung,K03456,117.0
+2012,Grafschaft Bentheim,Durchschnittliche Fläche je Wohnung,K03456,117.0
+2013,Grafschaft Bentheim,Durchschnittliche Fläche je Wohnung,K03456,117.1
+2014,Grafschaft Bentheim,Durchschnittliche Fläche je Wohnung,K03456,117.2
+2015,Grafschaft Bentheim,Durchschnittliche Fläche je Wohnung,K03456,117.1
+2016,Grafschaft Bentheim,Durchschnittliche Fläche je Wohnung,K03456,117.2
+2017,Grafschaft Bentheim,Durchschnittliche Fläche je Wohnung,K03456,117.0
+2018,Grafschaft Bentheim,Durchschnittliche Fläche je Wohnung,K03456,117.1
+2019,Grafschaft Bentheim,Durchschnittliche Fläche je Wohnung,K03456,117.1
+2011,Leer,Durchschnittliche Fläche je Wohnung,K03457,111.2
+2012,Leer,Durchschnittliche Fläche je Wohnung,K03457,111.2
+2013,Leer,Durchschnittliche Fläche je Wohnung,K03457,111.2
+2014,Leer,Durchschnittliche Fläche je Wohnung,K03457,111.3
+2015,Leer,Durchschnittliche Fläche je Wohnung,K03457,111.4
+2016,Leer,Durchschnittliche Fläche je Wohnung,K03457,111.5
+2017,Leer,Durchschnittliche Fläche je Wohnung,K03457,111.5
+2018,Leer,Durchschnittliche Fläche je Wohnung,K03457,111.6
+2019,Leer,Durchschnittliche Fläche je Wohnung,K03457,111.6
+2011,Oldenburg,Durchschnittliche Fläche je Wohnung,K03458,117.9
+2012,Oldenburg,Durchschnittliche Fläche je Wohnung,K03458,118.0
+2013,Oldenburg,Durchschnittliche Fläche je Wohnung,K03458,118.0
+2014,Oldenburg,Durchschnittliche Fläche je Wohnung,K03458,118.0
+2015,Oldenburg,Durchschnittliche Fläche je Wohnung,K03458,118.1
+2016,Oldenburg,Durchschnittliche Fläche je Wohnung,K03458,118.1
+2017,Oldenburg,Durchschnittliche Fläche je Wohnung,K03458,118.2
+2018,Oldenburg,Durchschnittliche Fläche je Wohnung,K03458,118.1
+2019,Oldenburg,Durchschnittliche Fläche je Wohnung,K03458,118.1
+2011,Osnabrück,Durchschnittliche Fläche je Wohnung,K03459,113.1
+2012,Osnabrück,Durchschnittliche Fläche je Wohnung,K03459,113.2
+2013,Osnabrück,Durchschnittliche Fläche je Wohnung,K03459,113.3
+2014,Osnabrück,Durchschnittliche Fläche je Wohnung,K03459,113.3
+2015,Osnabrück,Durchschnittliche Fläche je Wohnung,K03459,113.4
+2016,Osnabrück,Durchschnittliche Fläche je Wohnung,K03459,113.6
+2017,Osnabrück,Durchschnittliche Fläche je Wohnung,K03459,113.6
+2018,Osnabrück,Durchschnittliche Fläche je Wohnung,K03459,113.7
+2019,Osnabrück,Durchschnittliche Fläche je Wohnung,K03459,113.8
+2011,Vechta,Durchschnittliche Fläche je Wohnung,K03460,127.9
+2012,Vechta,Durchschnittliche Fläche je Wohnung,K03460,127.9
+2013,Vechta,Durchschnittliche Fläche je Wohnung,K03460,127.5
+2014,Vechta,Durchschnittliche Fläche je Wohnung,K03460,127.3
+2015,Vechta,Durchschnittliche Fläche je Wohnung,K03460,127.1
+2016,Vechta,Durchschnittliche Fläche je Wohnung,K03460,126.8
+2017,Vechta,Durchschnittliche Fläche je Wohnung,K03460,126.7
+2018,Vechta,Durchschnittliche Fläche je Wohnung,K03460,126.7
+2019,Vechta,Durchschnittliche Fläche je Wohnung,K03460,126.5
+2011,Wesermarsch,Durchschnittliche Fläche je Wohnung,K03461,101.6
+2012,Wesermarsch,Durchschnittliche Fläche je Wohnung,K03461,101.7
+2013,Wesermarsch,Durchschnittliche Fläche je Wohnung,K03461,101.8
+2014,Wesermarsch,Durchschnittliche Fläche je Wohnung,K03461,101.8
+2015,Wesermarsch,Durchschnittliche Fläche je Wohnung,K03461,101.9
+2016,Wesermarsch,Durchschnittliche Fläche je Wohnung,K03461,102.0
+2017,Wesermarsch,Durchschnittliche Fläche je Wohnung,K03461,102.1
+2018,Wesermarsch,Durchschnittliche Fläche je Wohnung,K03461,102.1
+2019,Wesermarsch,Durchschnittliche Fläche je Wohnung,K03461,102.2
+2011,Wittmund,Durchschnittliche Fläche je Wohnung,K03462,104.7
+2012,Wittmund,Durchschnittliche Fläche je Wohnung,K03462,104.7
+2013,Wittmund,Durchschnittliche Fläche je Wohnung,K03462,104.7
+2014,Wittmund,Durchschnittliche Fläche je Wohnung,K03462,104.7
+2015,Wittmund,Durchschnittliche Fläche je Wohnung,K03462,104.6
+2016,Wittmund,Durchschnittliche Fläche je Wohnung,K03462,104.8
+2017,Wittmund,Durchschnittliche Fläche je Wohnung,K03462,104.8
+2018,Wittmund,Durchschnittliche Fläche je Wohnung,K03462,104.9
+2019,Wittmund,Durchschnittliche Fläche je Wohnung,K03462,104.9
