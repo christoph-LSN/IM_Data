@@ -1,7 +1,51 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Gebietseinheit,GeoCode,Value
+2018,Braunschweig-St,K03101,72.54
+2018,Salzgitter-Stad,K03102,13.32
+2018,Wolfsburg-Stadt,K03103,107.77
+2018,Gifhorn,K03151,-3.69
+2018,Goslar,K03153,17.87
+2018,Helmstedt,K03154,47.85
+2018,Northeim,K03155,22.60
+2018,Peine,K03157,31.72
+2018,Wolfenbüttel,K03158,49.86
+2018,Göttingen,K03159,-11.04
+2018,Hannover-Region,K03241,12.93
+2018,Diepholz,K03251,79.50
+2018,Hameln-Pyrmont,K03252,-8.64
+2018,Hildesheim,K03254,14.81
+2018,Holzminden,K03255,-16.78
+2018,Nienburg (Weser,K03256,165.87
+2018,Schaumburg,K03257,24.42
+2018,Celle,K03351,37.97
+2018,Cuxhaven,K03352,23.50
+2018,Harburg,K03353,56.13
+2018,Lüchow-Dannenbe,K03354,53.37
+2018,Lüneburg,K03355,27.18
+2018,Osterholz,K03356,39.94
+2018,Rotenburg (Wümm,K03357,18.40
+2018,Heidekreis,K03358,-6.14
+2018,Stade,K03359,50.94
+2018,Uelzen,K03360,102.31
+2018,Verden,K03361,13.60
+2018,Delmenhorst-Sta,K03401,69.73
+2018,Emden-Stadt,K03402,-48.92
+2018,Oldenburg(Oldb),K03403,153.91
+2018,Osnabrück-Stadt,K03404,24.73
+2018,Wilhelmshaven-S,K03405,59.43
+2018,Ammerland,K03451,-1.13
+2018,Aurich,K03452,67.52
+2018,Cloppenburg,K03453,91.81
+2018,Emsland,K03454,29.03
+2018,Friesland,K03455,-36.67
+2018,Grafschaft Bent,K03456,62.46
+2018,Leer,K03457,30.67
+2018,Oldenburg,K03458,24.39
+2018,Osnabrück,K03459,30.51
+2018,Vechta,K03460,103.67
+2018,Wesermarsch,K03461,67.93
+2018,Wittmund,K03462,19.35
+2018,Stat. Region Braunschweig,,21.88
+2018,Stat. Region Hannover,,30.42
+2018,Stat. Region Lüneburg,,17.95
+2018,Stat. Region Weser-Ems,,51.68
+2018,Niedersachsen,,33.25

@@ -1,7 +1,3214 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Gebietseinheit,Kategorie,Value,GeoCode
+2011,Niedersachsen,1_Zimmer,85123,K030
+2012,Niedersachsen,1_Zimmer,85778,K030
+2013,Niedersachsen,1_Zimmer,86855,K030
+2014,Niedersachsen,1_Zimmer,88518,K030
+2015,Niedersachsen,1_Zimmer,89345,K030
+2016,Niedersachsen,1_Zimmer,90610,K030
+2017,Niedersachsen,1_Zimmer,92556,K030
+2018,Niedersachsen,1_Zimmer,94128,K030
+2019,Niedersachsen,1_Zimmer,95179,K030
+2011,Braunschweig,1_Zimmer,25929,K031
+2012,Braunschweig,1_Zimmer,25854,K031
+2013,Braunschweig,1_Zimmer,25988,K031
+2014,Braunschweig,1_Zimmer,26482,K031
+2015,Braunschweig,1_Zimmer,26663,K031
+2016,Braunschweig,1_Zimmer,26947,K031
+2017,Braunschweig,1_Zimmer,27205,K031
+2018,Braunschweig,1_Zimmer,27396,K031
+2019,Braunschweig,1_Zimmer,27622,K031
+2011,Braunschweig Stadt,1_Zimmer,6141,K03101
+2012,Braunschweig Stadt,1_Zimmer,6174,K03101
+2013,Braunschweig Stadt,1_Zimmer,6187,K03101
+2014,Braunschweig Stadt,1_Zimmer,6341,K03101
+2015,Braunschweig Stadt,1_Zimmer,6358,K03101
+2016,Braunschweig Stadt,1_Zimmer,6380,K03101
+2017,Braunschweig Stadt,1_Zimmer,6394,K03101
+2018,Braunschweig Stadt,1_Zimmer,6468,K03101
+2019,Braunschweig Stadt,1_Zimmer,6467,K03101
+2011,Salzgitter.Stadt,1_Zimmer,1298,K03102
+2012,Salzgitter.Stadt,1_Zimmer,1299,K03102
+2013,Salzgitter.Stadt,1_Zimmer,1316,K03102
+2014,Salzgitter.Stadt,1_Zimmer,1319,K03102
+2015,Salzgitter.Stadt,1_Zimmer,1319,K03102
+2016,Salzgitter.Stadt,1_Zimmer,1319,K03102
+2017,Salzgitter.Stadt,1_Zimmer,1325,K03102
+2018,Salzgitter.Stadt,1_Zimmer,1331,K03102
+2019,Salzgitter.Stadt,1_Zimmer,1333,K03102
+2011,Wolfsburg.Stadt,1_Zimmer,1666,K03103
+2012,Wolfsburg.Stadt,1_Zimmer,1672,K03103
+2013,Wolfsburg.Stadt,1_Zimmer,1689,K03103
+2014,Wolfsburg.Stadt,1_Zimmer,1830,K03103
+2015,Wolfsburg.Stadt,1_Zimmer,1831,K03103
+2016,Wolfsburg.Stadt,1_Zimmer,1852,K03103
+2017,Wolfsburg.Stadt,1_Zimmer,1894,K03103
+2018,Wolfsburg.Stadt,1_Zimmer,1894,K03103
+2019,Wolfsburg.Stadt,1_Zimmer,1970,K03103
+2011,Gifhorn,1_Zimmer,721,K03151
+2012,Gifhorn,1_Zimmer,720,K03151
+2013,Gifhorn,1_Zimmer,751,K03151
+2014,Gifhorn,1_Zimmer,752,K03151
+2015,Gifhorn,1_Zimmer,758,K03151
+2016,Gifhorn,1_Zimmer,764,K03151
+2017,Gifhorn,1_Zimmer,782,K03151
+2018,Gifhorn,1_Zimmer,795,K03151
+2019,Gifhorn,1_Zimmer,845,K03151
+2011,Goslar,1_Zimmer,2673,K03153
+2012,Goslar,1_Zimmer,2665,K03153
+2013,Goslar,1_Zimmer,2665,K03153
+2014,Goslar,1_Zimmer,2682,K03153
+2015,Goslar,1_Zimmer,2682,K03153
+2016,Goslar,1_Zimmer,2682,K03153
+2017,Goslar,1_Zimmer,2736,K03153
+2018,Goslar,1_Zimmer,2740,K03153
+2019,Goslar,1_Zimmer,2751,K03153
+2011,Helmstedt,1_Zimmer,360,K03154
+2012,Helmstedt,1_Zimmer,360,K03154
+2013,Helmstedt,1_Zimmer,378,K03154
+2014,Helmstedt,1_Zimmer,377,K03154
+2015,Helmstedt,1_Zimmer,377,K03154
+2016,Helmstedt,1_Zimmer,394,K03154
+2017,Helmstedt,1_Zimmer,395,K03154
+2018,Helmstedt,1_Zimmer,396,K03154
+2019,Helmstedt,1_Zimmer,402,K03154
+2011,Northeim,1_Zimmer,696,K03155
+2012,Northeim,1_Zimmer,696,K03155
+2013,Northeim,1_Zimmer,698,K03155
+2014,Northeim,1_Zimmer,715,K03155
+2015,Northeim,1_Zimmer,718,K03155
+2016,Northeim,1_Zimmer,720,K03155
+2017,Northeim,1_Zimmer,726,K03155
+2018,Northeim,1_Zimmer,739,K03155
+2019,Northeim,1_Zimmer,748,K03155
+2011,Peine,1_Zimmer,734,K03157
+2012,Peine,1_Zimmer,736,K03157
+2013,Peine,1_Zimmer,739,K03157
+2014,Peine,1_Zimmer,742,K03157
+2015,Peine,1_Zimmer,835,K03157
+2016,Peine,1_Zimmer,835,K03157
+2017,Peine,1_Zimmer,861,K03157
+2018,Peine,1_Zimmer,868,K03157
+2019,Peine,1_Zimmer,874,K03157
+2011,Wolfenbüttel,1_Zimmer,935,K03158
+2012,Wolfenbüttel,1_Zimmer,935,K03158
+2013,Wolfenbüttel,1_Zimmer,936,K03158
+2014,Wolfenbüttel,1_Zimmer,936,K03158
+2015,Wolfenbüttel,1_Zimmer,939,K03158
+2016,Wolfenbüttel,1_Zimmer,1104,K03158
+2017,Wolfenbüttel,1_Zimmer,1104,K03158
+2018,Wolfenbüttel,1_Zimmer,1120,K03158
+2019,Wolfenbüttel,1_Zimmer,1121,K03158
+2011,Göttingen,1_Zimmer,10705,K03159
+2012,Göttingen,1_Zimmer,10597,K03159
+2013,Göttingen,1_Zimmer,10629,K03159
+2014,Göttingen,1_Zimmer,10788,K03159
+2015,Göttingen,1_Zimmer,10846,K03159
+2016,Göttingen,1_Zimmer,10897,K03159
+2017,Göttingen,1_Zimmer,10988,K03159
+2018,Göttingen,1_Zimmer,11045,K03159
+2019,Göttingen,1_Zimmer,11111,K03159
+2011,Hannover,1_Zimmer,30293,K032
+2012,Hannover,1_Zimmer,30458,K032
+2013,Hannover,1_Zimmer,30732,K032
+2014,Hannover,1_Zimmer,31165,K032
+2015,Hannover,1_Zimmer,31311,K032
+2016,Hannover,1_Zimmer,31452,K032
+2017,Hannover,1_Zimmer,31702,K032
+2018,Hannover,1_Zimmer,32301,K032
+2019,Hannover,1_Zimmer,32688,K032
+2011,Hannover Region,1_Zimmer,24495,K03241
+2012,Hannover Region,1_Zimmer,24516,K03241
+2013,Hannover Region,1_Zimmer,24641,K03241
+2014,Hannover Region,1_Zimmer,24990,K03241
+2015,Hannover Region,1_Zimmer,25053,K03241
+2016,Hannover Region,1_Zimmer,25142,K03241
+2017,Hannover Region,1_Zimmer,25349,K03241
+2018,Hannover Region,1_Zimmer,25831,K03241
+2019,Hannover Region,1_Zimmer,26191,K03241
+2011,Hannover Landeshauptstadt,1_Zimmer,17758,K03241001
+2012,Hannover Landeshauptstadt,1_Zimmer,17752,K03241001
+2013,Hannover Landeshauptstadt,1_Zimmer,17759,K03241001
+2014,Hannover Landeshauptstadt,1_Zimmer,18066,K03241001
+2015,Hannover Landeshauptstadt,1_Zimmer,18069,K03241001
+2016,Hannover Landeshauptstadt,1_Zimmer,18074,K03241001
+2017,Hannover Landeshauptstadt,1_Zimmer,18234,K03241001
+2018,Hannover Landeshauptstadt,1_Zimmer,18705,K03241001
+2019,Hannover Landeshauptstadt,1_Zimmer,18889,K03241001
+2011,Diepholz,1_Zimmer,792,K03251
+2012,Diepholz,1_Zimmer,914,K03251
+2013,Diepholz,1_Zimmer,942,K03251
+2014,Diepholz,1_Zimmer,944,K03251
+2015,Diepholz,1_Zimmer,953,K03251
+2016,Diepholz,1_Zimmer,961,K03251
+2017,Diepholz,1_Zimmer,963,K03251
+2018,Diepholz,1_Zimmer,982,K03251
+2019,Diepholz,1_Zimmer,986,K03251
+2011,Hameln-Pyrmont,1_Zimmer,1061,K03252
+2012,Hameln-Pyrmont,1_Zimmer,1060,K03252
+2013,Hameln-Pyrmont,1_Zimmer,1066,K03252
+2014,Hameln-Pyrmont,1_Zimmer,1130,K03252
+2015,Hameln-Pyrmont,1_Zimmer,1153,K03252
+2016,Hameln-Pyrmont,1_Zimmer,1156,K03252
+2017,Hameln-Pyrmont,1_Zimmer,1155,K03252
+2018,Hameln-Pyrmont,1_Zimmer,1155,K03252
+2019,Hameln-Pyrmont,1_Zimmer,1132,K03252
+2011,Hildesheim,1_Zimmer,2211,K03254
+2012,Hildesheim,1_Zimmer,2222,K03254
+2013,Hildesheim,1_Zimmer,2245,K03254
+2014,Hildesheim,1_Zimmer,2259,K03254
+2015,Hildesheim,1_Zimmer,2260,K03254
+2016,Hildesheim,1_Zimmer,2289,K03254
+2017,Hildesheim,1_Zimmer,2319,K03254
+2018,Hildesheim,1_Zimmer,2412,K03254
+2019,Hildesheim,1_Zimmer,2440,K03254
+2011,Holzminden,1_Zimmer,411,K03255
+2012,Holzminden,1_Zimmer,412,K03255
+2013,Holzminden,1_Zimmer,412,K03255
+2014,Holzminden,1_Zimmer,412,K03255
+2015,Holzminden,1_Zimmer,417,K03255
+2016,Holzminden,1_Zimmer,417,K03255
+2017,Holzminden,1_Zimmer,418,K03255
+2018,Holzminden,1_Zimmer,419,K03255
+2019,Holzminden,1_Zimmer,422,K03255
+2011,Nienburg (Weser),1_Zimmer,437,K03256
+2012,Nienburg (Weser),1_Zimmer,447,K03256
+2013,Nienburg (Weser),1_Zimmer,484,K03256
+2014,Nienburg (Weser),1_Zimmer,488,K03256
+2015,Nienburg (Weser),1_Zimmer,485,K03256
+2016,Nienburg (Weser),1_Zimmer,497,K03256
+2017,Nienburg (Weser),1_Zimmer,506,K03256
+2018,Nienburg (Weser),1_Zimmer,508,K03256
+2019,Nienburg (Weser),1_Zimmer,514,K03256
+2011,Schaumburg,1_Zimmer,886,K03257
+2012,Schaumburg,1_Zimmer,887,K03257
+2013,Schaumburg,1_Zimmer,942,K03257
+2014,Schaumburg,1_Zimmer,942,K03257
+2015,Schaumburg,1_Zimmer,990,K03257
+2016,Schaumburg,1_Zimmer,990,K03257
+2017,Schaumburg,1_Zimmer,992,K03257
+2018,Schaumburg,1_Zimmer,994,K03257
+2019,Schaumburg,1_Zimmer,1003,K03257
+2011,Lüneburg,1_Zimmer,12192,K033
+2012,Lüneburg,1_Zimmer,12345,K033
+2013,Lüneburg,1_Zimmer,12626,K033
+2014,Lüneburg,1_Zimmer,12834,K033
+2015,Lüneburg,1_Zimmer,13055,K033
+2016,Lüneburg,1_Zimmer,13421,K033
+2017,Lüneburg,1_Zimmer,14163,K033
+2018,Lüneburg,1_Zimmer,14305,K033
+2019,Lüneburg,1_Zimmer,14485,K033
+2011,Celle,1_Zimmer,1290,K03351
+2012,Celle,1_Zimmer,1289,K03351
+2013,Celle,1_Zimmer,1329,K03351
+2014,Celle,1_Zimmer,1331,K03351
+2015,Celle,1_Zimmer,1406,K03351
+2016,Celle,1_Zimmer,1413,K03351
+2017,Celle,1_Zimmer,1425,K03351
+2018,Celle,1_Zimmer,1425,K03351
+2019,Celle,1_Zimmer,1432,K03351
+2011,Cuxhaven,1_Zimmer,1021,K03352
+2012,Cuxhaven,1_Zimmer,1070,K03352
+2013,Cuxhaven,1_Zimmer,1109,K03352
+2014,Cuxhaven,1_Zimmer,1100,K03352
+2015,Cuxhaven,1_Zimmer,1102,K03352
+2016,Cuxhaven,1_Zimmer,1187,K03352
+2017,Cuxhaven,1_Zimmer,1185,K03352
+2018,Cuxhaven,1_Zimmer,1187,K03352
+2019,Cuxhaven,1_Zimmer,1202,K03352
+2011,Harburg,1_Zimmer,1622,K03353
+2012,Harburg,1_Zimmer,1622,K03353
+2013,Harburg,1_Zimmer,1632,K03353
+2014,Harburg,1_Zimmer,1669,K03353
+2015,Harburg,1_Zimmer,1682,K03353
+2016,Harburg,1_Zimmer,1709,K03353
+2017,Harburg,1_Zimmer,1721,K03353
+2018,Harburg,1_Zimmer,1768,K03353
+2019,Harburg,1_Zimmer,1785,K03353
+2011,Lüchow-Dannenberg,1_Zimmer,227,K03354
+2012,Lüchow-Dannenberg,1_Zimmer,230,K03354
+2013,Lüchow-Dannenberg,1_Zimmer,229,K03354
+2014,Lüchow-Dannenberg,1_Zimmer,269,K03354
+2015,Lüchow-Dannenberg,1_Zimmer,273,K03354
+2016,Lüchow-Dannenberg,1_Zimmer,283,K03354
+2017,Lüchow-Dannenberg,1_Zimmer,283,K03354
+2018,Lüchow-Dannenberg,1_Zimmer,285,K03354
+2019,Lüchow-Dannenberg,1_Zimmer,292,K03354
+2011,Lüneburg,1_Zimmer,2759,K03355
+2012,Lüneburg,1_Zimmer,2765,K03355
+2013,Lüneburg,1_Zimmer,2852,K03355
+2014,Lüneburg,1_Zimmer,2863,K03355
+2015,Lüneburg,1_Zimmer,2866,K03355
+2016,Lüneburg,1_Zimmer,2895,K03355
+2017,Lüneburg,1_Zimmer,3336,K03355
+2018,Lüneburg,1_Zimmer,3343,K03355
+2019,Lüneburg,1_Zimmer,3354,K03355
+2011,Osterholz,1_Zimmer,463,K03356
+2012,Osterholz,1_Zimmer,465,K03356
+2013,Osterholz,1_Zimmer,485,K03356
+2014,Osterholz,1_Zimmer,485,K03356
+2015,Osterholz,1_Zimmer,492,K03356
+2016,Osterholz,1_Zimmer,494,K03356
+2017,Osterholz,1_Zimmer,495,K03356
+2018,Osterholz,1_Zimmer,498,K03356
+2019,Osterholz,1_Zimmer,510,K03356
+2011,Rotenburg (Wümme),1_Zimmer,709,K03357
+2012,Rotenburg (Wümme),1_Zimmer,775,K03357
+2013,Rotenburg (Wümme),1_Zimmer,791,K03357
+2014,Rotenburg (Wümme),1_Zimmer,802,K03357
+2015,Rotenburg (Wümme),1_Zimmer,836,K03357
+2016,Rotenburg (Wümme),1_Zimmer,844,K03357
+2017,Rotenburg (Wümme),1_Zimmer,863,K03357
+2018,Rotenburg (Wümme),1_Zimmer,868,K03357
+2019,Rotenburg (Wümme),1_Zimmer,938,K03357
+2011,Heidekreis,1_Zimmer,989,K03358
+2012,Heidekreis,1_Zimmer,989,K03358
+2013,Heidekreis,1_Zimmer,999,K03358
+2014,Heidekreis,1_Zimmer,1009,K03358
+2015,Heidekreis,1_Zimmer,1024,K03358
+2016,Heidekreis,1_Zimmer,1057,K03358
+2017,Heidekreis,1_Zimmer,1067,K03358
+2018,Heidekreis,1_Zimmer,1072,K03358
+2019,Heidekreis,1_Zimmer,1076,K03358
+2011,Stade,1_Zimmer,1615,K03359
+2012,Stade,1_Zimmer,1635,K03359
+2013,Stade,1_Zimmer,1681,K03359
+2014,Stade,1_Zimmer,1778,K03359
+2015,Stade,1_Zimmer,1805,K03359
+2016,Stade,1_Zimmer,1843,K03359
+2017,Stade,1_Zimmer,2072,K03359
+2018,Stade,1_Zimmer,2147,K03359
+2019,Stade,1_Zimmer,2159,K03359
+2011,Uelzen,1_Zimmer,855,K03360
+2012,Uelzen,1_Zimmer,862,K03360
+2013,Uelzen,1_Zimmer,865,K03360
+2014,Uelzen,1_Zimmer,870,K03360
+2015,Uelzen,1_Zimmer,878,K03360
+2016,Uelzen,1_Zimmer,1003,K03360
+2017,Uelzen,1_Zimmer,1003,K03360
+2018,Uelzen,1_Zimmer,1003,K03360
+2019,Uelzen,1_Zimmer,1018,K03360
+2011,Verden,1_Zimmer,642,K03361
+2012,Verden,1_Zimmer,643,K03361
+2013,Verden,1_Zimmer,654,K03361
+2014,Verden,1_Zimmer,658,K03361
+2015,Verden,1_Zimmer,691,K03361
+2016,Verden,1_Zimmer,693,K03361
+2017,Verden,1_Zimmer,713,K03361
+2018,Verden,1_Zimmer,709,K03361
+2019,Verden,1_Zimmer,719,K03361
+2011,Weser-Ems,1_Zimmer,16709,K034
+2012,Weser-Ems,1_Zimmer,17121,K034
+2013,Weser-Ems,1_Zimmer,17509,K034
+2014,Weser-Ems,1_Zimmer,18037,K034
+2015,Weser-Ems,1_Zimmer,18316,K034
+2016,Weser-Ems,1_Zimmer,18790,K034
+2017,Weser-Ems,1_Zimmer,19486,K034
+2018,Weser-Ems,1_Zimmer,20126,K034
+2019,Weser-Ems,1_Zimmer,20384,K034
+2011,Delmenhorst.Stadt,1_Zimmer,824,K03401
+2012,Delmenhorst.Stadt,1_Zimmer,824,K03401
+2013,Delmenhorst.Stadt,1_Zimmer,824,K03401
+2014,Delmenhorst.Stadt,1_Zimmer,827,K03401
+2015,Delmenhorst.Stadt,1_Zimmer,828,K03401
+2016,Delmenhorst.Stadt,1_Zimmer,829,K03401
+2017,Delmenhorst.Stadt,1_Zimmer,883,K03401
+2018,Delmenhorst.Stadt,1_Zimmer,883,K03401
+2019,Delmenhorst.Stadt,1_Zimmer,883,K03401
+2011,Emden Stadt,1_Zimmer,652,K03402
+2012,Emden Stadt,1_Zimmer,656,K03402
+2013,Emden Stadt,1_Zimmer,656,K03402
+2014,Emden Stadt,1_Zimmer,657,K03402
+2015,Emden Stadt,1_Zimmer,657,K03402
+2016,Emden Stadt,1_Zimmer,654,K03402
+2017,Emden Stadt,1_Zimmer,681,K03402
+2018,Emden Stadt,1_Zimmer,684,K03402
+2019,Emden Stadt,1_Zimmer,685,K03402
+2011,Oldenburg (Oldb) Stadt,1_Zimmer,3747,K03403
+2012,Oldenburg (Oldb) Stadt,1_Zimmer,3785,K03403
+2013,Oldenburg (Oldb) Stadt,1_Zimmer,3794,K03403
+2014,Oldenburg (Oldb) Stadt,1_Zimmer,3817,K03403
+2015,Oldenburg (Oldb) Stadt,1_Zimmer,3865,K03403
+2016,Oldenburg (Oldb) Stadt,1_Zimmer,4000,K03403
+2017,Oldenburg (Oldb) Stadt,1_Zimmer,4225,K03403
+2018,Oldenburg (Oldb) Stadt,1_Zimmer,4394,K03403
+2019,Oldenburg (Oldb) Stadt,1_Zimmer,4443,K03403
+2011,Osnabrück Stadt,1_Zimmer,3751,K03404
+2012,Osnabrück Stadt,1_Zimmer,3756,K03404
+2013,Osnabrück Stadt,1_Zimmer,3774,K03404
+2014,Osnabrück Stadt,1_Zimmer,3786,K03404
+2015,Osnabrück Stadt,1_Zimmer,3847,K03404
+2016,Osnabrück Stadt,1_Zimmer,3899,K03404
+2017,Osnabrück Stadt,1_Zimmer,3957,K03404
+2018,Osnabrück Stadt,1_Zimmer,4159,K03404
+2019,Osnabrück Stadt,1_Zimmer,4168,K03404
+2011,Wilhelmshaven Stadt,1_Zimmer,844,K03405
+2012,Wilhelmshaven Stadt,1_Zimmer,846,K03405
+2013,Wilhelmshaven Stadt,1_Zimmer,846,K03405
+2014,Wilhelmshaven Stadt,1_Zimmer,857,K03405
+2015,Wilhelmshaven Stadt,1_Zimmer,857,K03405
+2016,Wilhelmshaven Stadt,1_Zimmer,861,K03405
+2017,Wilhelmshaven Stadt,1_Zimmer,861,K03405
+2018,Wilhelmshaven Stadt,1_Zimmer,863,K03405
+2019,Wilhelmshaven Stadt,1_Zimmer,879,K03405
+2011,Ammerland,1_Zimmer,493,K03451
+2012,Ammerland,1_Zimmer,559,K03451
+2013,Ammerland,1_Zimmer,620,K03451
+2014,Ammerland,1_Zimmer,636,K03451
+2015,Ammerland,1_Zimmer,637,K03451
+2016,Ammerland,1_Zimmer,738,K03451
+2017,Ammerland,1_Zimmer,738,K03451
+2018,Ammerland,1_Zimmer,833,K03451
+2019,Ammerland,1_Zimmer,932,K03451
+2011,Aurich,1_Zimmer,841,K03452
+2012,Aurich,1_Zimmer,844,K03452
+2013,Aurich,1_Zimmer,868,K03452
+2014,Aurich,1_Zimmer,870,K03452
+2015,Aurich,1_Zimmer,847,K03452
+2016,Aurich,1_Zimmer,867,K03452
+2017,Aurich,1_Zimmer,887,K03452
+2018,Aurich,1_Zimmer,885,K03452
+2019,Aurich,1_Zimmer,889,K03452
+2011,Cloppenburg,1_Zimmer,324,K03453
+2012,Cloppenburg,1_Zimmer,344,K03453
+2013,Cloppenburg,1_Zimmer,410,K03453
+2014,Cloppenburg,1_Zimmer,439,K03453
+2015,Cloppenburg,1_Zimmer,459,K03453
+2016,Cloppenburg,1_Zimmer,478,K03453
+2017,Cloppenburg,1_Zimmer,532,K03453
+2018,Cloppenburg,1_Zimmer,538,K03453
+2019,Cloppenburg,1_Zimmer,542,K03453
+2011,Emsland,1_Zimmer,798,K03454
+2012,Emsland,1_Zimmer,947,K03454
+2013,Emsland,1_Zimmer,966,K03454
+2014,Emsland,1_Zimmer,1116,K03454
+2015,Emsland,1_Zimmer,1182,K03454
+2016,Emsland,1_Zimmer,1286,K03454
+2017,Emsland,1_Zimmer,1423,K03454
+2018,Emsland,1_Zimmer,1510,K03454
+2019,Emsland,1_Zimmer,1539,K03454
+2011,Friesland,1_Zimmer,396,K03455
+2012,Friesland,1_Zimmer,427,K03455
+2013,Friesland,1_Zimmer,435,K03455
+2014,Friesland,1_Zimmer,446,K03455
+2015,Friesland,1_Zimmer,448,K03455
+2016,Friesland,1_Zimmer,447,K03455
+2017,Friesland,1_Zimmer,467,K03455
+2018,Friesland,1_Zimmer,479,K03455
+2019,Friesland,1_Zimmer,485,K03455
+2011,Grafschaft Bentheim,1_Zimmer,447,K03456
+2012,Grafschaft Bentheim,1_Zimmer,449,K03456
+2013,Grafschaft Bentheim,1_Zimmer,454,K03456
+2014,Grafschaft Bentheim,1_Zimmer,459,K03456
+2015,Grafschaft Bentheim,1_Zimmer,472,K03456
+2016,Grafschaft Bentheim,1_Zimmer,475,K03456
+2017,Grafschaft Bentheim,1_Zimmer,495,K03456
+2018,Grafschaft Bentheim,1_Zimmer,505,K03456
+2019,Grafschaft Bentheim,1_Zimmer,506,K03456
+2011,Leer,1_Zimmer,487,K03457
+2012,Leer,1_Zimmer,554,K03457
+2013,Leer,1_Zimmer,561,K03457
+2014,Leer,1_Zimmer,563,K03457
+2015,Leer,1_Zimmer,567,K03457
+2016,Leer,1_Zimmer,567,K03457
+2017,Leer,1_Zimmer,586,K03457
+2018,Leer,1_Zimmer,606,K03457
+2019,Leer,1_Zimmer,611,K03457
+2011,Oldenburg,1_Zimmer,298,K03458
+2012,Oldenburg,1_Zimmer,299,K03458
+2013,Oldenburg,1_Zimmer,300,K03458
+2014,Oldenburg,1_Zimmer,325,K03458
+2015,Oldenburg,1_Zimmer,349,K03458
+2016,Oldenburg,1_Zimmer,353,K03458
+2017,Oldenburg,1_Zimmer,356,K03458
+2018,Oldenburg,1_Zimmer,359,K03458
+2019,Oldenburg,1_Zimmer,361,K03458
+2011,Osnabrück,1_Zimmer,1398,K03459
+2012,Osnabrück,1_Zimmer,1420,K03459
+2013,Osnabrück,1_Zimmer,1501,K03459
+2014,Osnabrück,1_Zimmer,1636,K03459
+2015,Osnabrück,1_Zimmer,1649,K03459
+2016,Osnabrück,1_Zimmer,1664,K03459
+2017,Osnabrück,1_Zimmer,1693,K03459
+2018,Osnabrück,1_Zimmer,1706,K03459
+2019,Osnabrück,1_Zimmer,1727,K03459
+2011,Vechta,1_Zimmer,528,K03460
+2012,Vechta,1_Zimmer,527,K03460
+2013,Vechta,1_Zimmer,613,K03460
+2014,Vechta,1_Zimmer,696,K03460
+2015,Vechta,1_Zimmer,729,K03460
+2016,Vechta,1_Zimmer,743,K03460
+2017,Vechta,1_Zimmer,767,K03460
+2018,Vechta,1_Zimmer,789,K03460
+2019,Vechta,1_Zimmer,790,K03460
+2011,Wesermarsch,1_Zimmer,597,K03461
+2012,Wesermarsch,1_Zimmer,595,K03461
+2013,Wesermarsch,1_Zimmer,595,K03461
+2014,Wesermarsch,1_Zimmer,605,K03461
+2015,Wesermarsch,1_Zimmer,606,K03461
+2016,Wesermarsch,1_Zimmer,608,K03461
+2017,Wesermarsch,1_Zimmer,610,K03461
+2018,Wesermarsch,1_Zimmer,609,K03461
+2019,Wesermarsch,1_Zimmer,609,K03461
+2011,Wittmund,1_Zimmer,284,K03462
+2012,Wittmund,1_Zimmer,289,K03462
+2013,Wittmund,1_Zimmer,292,K03462
+2014,Wittmund,1_Zimmer,302,K03462
+2015,Wittmund,1_Zimmer,317,K03462
+2016,Wittmund,1_Zimmer,321,K03462
+2017,Wittmund,1_Zimmer,325,K03462
+2018,Wittmund,1_Zimmer,324,K03462
+2019,Wittmund,1_Zimmer,335,K03462
+2011,Niedersachsen,2_zimmer,199487,K030
+2012,Niedersachsen,2_zimmer,200998,K030
+2013,Niedersachsen,2_zimmer,202762,K030
+2014,Niedersachsen,2_zimmer,205122,K030
+2015,Niedersachsen,2_zimmer,207743,K030
+2016,Niedersachsen,2_zimmer,210956,K030
+2017,Niedersachsen,2_zimmer,214617,K030
+2018,Niedersachsen,2_zimmer,218416,K030
+2019,Niedersachsen,2_zimmer,222552,K030
+2011,Braunschweig,2_zimmer,46327,K031
+2012,Braunschweig,2_zimmer,46400,K031
+2013,Braunschweig,2_zimmer,46547,K031
+2014,Braunschweig,2_zimmer,46767,K031
+2015,Braunschweig,2_zimmer,46995,K031
+2016,Braunschweig,2_zimmer,47346,K031
+2017,Braunschweig,2_zimmer,47790,K031
+2018,Braunschweig,2_zimmer,48207,K031
+2019,Braunschweig,2_zimmer,48801,K031
+2011,Braunschweig Stadt,2_zimmer,10247,K03101
+2012,Braunschweig Stadt,2_zimmer,10278,K03101
+2013,Braunschweig Stadt,2_zimmer,10308,K03101
+2014,Braunschweig Stadt,2_zimmer,10329,K03101
+2015,Braunschweig Stadt,2_zimmer,10396,K03101
+2016,Braunschweig Stadt,2_zimmer,10432,K03101
+2017,Braunschweig Stadt,2_zimmer,10508,K03101
+2018,Braunschweig Stadt,2_zimmer,10603,K03101
+2019,Braunschweig Stadt,2_zimmer,10720,K03101
+2011,Salzgitter.Stadt,2_zimmer,2109,K03102
+2012,Salzgitter.Stadt,2_zimmer,2112,K03102
+2013,Salzgitter.Stadt,2_zimmer,2114,K03102
+2014,Salzgitter.Stadt,2_zimmer,2111,K03102
+2015,Salzgitter.Stadt,2_zimmer,2120,K03102
+2016,Salzgitter.Stadt,2_zimmer,2123,K03102
+2017,Salzgitter.Stadt,2_zimmer,2126,K03102
+2018,Salzgitter.Stadt,2_zimmer,2135,K03102
+2019,Salzgitter.Stadt,2_zimmer,2166,K03102
+2011,Wolfsburg.Stadt,2_zimmer,3664,K03103
+2012,Wolfsburg.Stadt,2_zimmer,3625,K03103
+2013,Wolfsburg.Stadt,2_zimmer,3655,K03103
+2014,Wolfsburg.Stadt,2_zimmer,3702,K03103
+2015,Wolfsburg.Stadt,2_zimmer,3708,K03103
+2016,Wolfsburg.Stadt,2_zimmer,3795,K03103
+2017,Wolfsburg.Stadt,2_zimmer,3821,K03103
+2018,Wolfsburg.Stadt,2_zimmer,3857,K03103
+2019,Wolfsburg.Stadt,2_zimmer,3935,K03103
+2011,Gifhorn,2_zimmer,3009,K03151
+2012,Gifhorn,2_zimmer,3016,K03151
+2013,Gifhorn,2_zimmer,3044,K03151
+2014,Gifhorn,2_zimmer,3107,K03151
+2015,Gifhorn,2_zimmer,3136,K03151
+2016,Gifhorn,2_zimmer,3186,K03151
+2017,Gifhorn,2_zimmer,3259,K03151
+2018,Gifhorn,2_zimmer,3332,K03151
+2019,Gifhorn,2_zimmer,3405,K03151
+2011,Goslar,2_zimmer,4966,K03153
+2012,Goslar,2_zimmer,4975,K03153
+2013,Goslar,2_zimmer,4982,K03153
+2014,Goslar,2_zimmer,4998,K03153
+2015,Goslar,2_zimmer,5001,K03153
+2016,Goslar,2_zimmer,5005,K03153
+2017,Goslar,2_zimmer,5029,K03153
+2018,Goslar,2_zimmer,5034,K03153
+2019,Goslar,2_zimmer,5062,K03153
+2011,Helmstedt,2_zimmer,1824,K03154
+2012,Helmstedt,2_zimmer,1825,K03154
+2013,Helmstedt,2_zimmer,1832,K03154
+2014,Helmstedt,2_zimmer,1836,K03154
+2015,Helmstedt,2_zimmer,1838,K03154
+2016,Helmstedt,2_zimmer,1844,K03154
+2017,Helmstedt,2_zimmer,1865,K03154
+2018,Helmstedt,2_zimmer,1883,K03154
+2019,Helmstedt,2_zimmer,1896,K03154
+2011,Northeim,2_zimmer,3587,K03155
+2012,Northeim,2_zimmer,3588,K03155
+2013,Northeim,2_zimmer,3590,K03155
+2014,Northeim,2_zimmer,3600,K03155
+2015,Northeim,2_zimmer,3604,K03155
+2016,Northeim,2_zimmer,3605,K03155
+2017,Northeim,2_zimmer,3646,K03155
+2018,Northeim,2_zimmer,3654,K03155
+2019,Northeim,2_zimmer,3738,K03155
+2011,Peine,2_zimmer,1885,K03157
+2012,Peine,2_zimmer,1892,K03157
+2013,Peine,2_zimmer,1912,K03157
+2014,Peine,2_zimmer,1925,K03157
+2015,Peine,2_zimmer,1960,K03157
+2016,Peine,2_zimmer,1985,K03157
+2017,Peine,2_zimmer,2043,K03157
+2018,Peine,2_zimmer,2133,K03157
+2019,Peine,2_zimmer,2167,K03157
+2011,Wolfenbüttel,2_zimmer,2782,K03158
+2012,Wolfenbüttel,2_zimmer,2783,K03158
+2013,Wolfenbüttel,2_zimmer,2791,K03158
+2014,Wolfenbüttel,2_zimmer,2823,K03158
+2015,Wolfenbüttel,2_zimmer,2831,K03158
+2016,Wolfenbüttel,2_zimmer,2841,K03158
+2017,Wolfenbüttel,2_zimmer,2851,K03158
+2018,Wolfenbüttel,2_zimmer,2888,K03158
+2019,Wolfenbüttel,2_zimmer,2963,K03158
+2011,Göttingen,2_zimmer,12254,K03159
+2012,Göttingen,2_zimmer,12306,K03159
+2013,Göttingen,2_zimmer,12319,K03159
+2014,Göttingen,2_zimmer,12336,K03159
+2015,Göttingen,2_zimmer,12401,K03159
+2016,Göttingen,2_zimmer,12530,K03159
+2017,Göttingen,2_zimmer,12642,K03159
+2018,Göttingen,2_zimmer,12688,K03159
+2019,Göttingen,2_zimmer,12749,K03159
+2011,Hannover,2_zimmer,60741,K032
+2012,Hannover,2_zimmer,61057,K032
+2013,Hannover,2_zimmer,61259,K032
+2014,Hannover,2_zimmer,61561,K032
+2015,Hannover,2_zimmer,62141,K032
+2016,Hannover,2_zimmer,62623,K032
+2017,Hannover,2_zimmer,63308,K032
+2018,Hannover,2_zimmer,64143,K032
+2019,Hannover,2_zimmer,64993,K032
+2011,Hannover Region,2_zimmer,38955,K03241
+2012,Hannover Region,2_zimmer,39128,K03241
+2013,Hannover Region,2_zimmer,39244,K03241
+2014,Hannover Region,2_zimmer,39416,K03241
+2015,Hannover Region,2_zimmer,39791,K03241
+2016,Hannover Region,2_zimmer,40122,K03241
+2017,Hannover Region,2_zimmer,40635,K03241
+2018,Hannover Region,2_zimmer,41248,K03241
+2019,Hannover Region,2_zimmer,41793,K03241
+2011,Hannover Landeshauptstadt,2_zimmer,24392,K03241001
+2012,Hannover Landeshauptstadt,2_zimmer,24525,K03241001
+2013,Hannover Landeshauptstadt,2_zimmer,24579,K03241001
+2014,Hannover Landeshauptstadt,2_zimmer,24685,K03241001
+2015,Hannover Landeshauptstadt,2_zimmer,24950,K03241001
+2016,Hannover Landeshauptstadt,2_zimmer,25124,K03241001
+2017,Hannover Landeshauptstadt,2_zimmer,25334,K03241001
+2018,Hannover Landeshauptstadt,2_zimmer,25716,K03241001
+2019,Hannover Landeshauptstadt,2_zimmer,25947,K03241001
+2011,Diepholz,2_zimmer,3556,K03251
+2012,Diepholz,2_zimmer,3622,K03251
+2013,Diepholz,2_zimmer,3653,K03251
+2014,Diepholz,2_zimmer,3686,K03251
+2015,Diepholz,2_zimmer,3726,K03251
+2016,Diepholz,2_zimmer,3791,K03251
+2017,Diepholz,2_zimmer,3838,K03251
+2018,Diepholz,2_zimmer,3909,K03251
+2019,Diepholz,2_zimmer,3999,K03251
+2011,Hameln-Pyrmont,2_zimmer,3785,K03252
+2012,Hameln-Pyrmont,2_zimmer,3787,K03252
+2013,Hameln-Pyrmont,2_zimmer,3802,K03252
+2014,Hameln-Pyrmont,2_zimmer,3806,K03252
+2015,Hameln-Pyrmont,2_zimmer,3848,K03252
+2016,Hameln-Pyrmont,2_zimmer,3853,K03252
+2017,Hameln-Pyrmont,2_zimmer,3857,K03252
+2018,Hameln-Pyrmont,2_zimmer,3857,K03252
+2019,Hameln-Pyrmont,2_zimmer,3893,K03252
+2011,Hildesheim,2_zimmer,6814,K03254
+2012,Hildesheim,2_zimmer,6817,K03254
+2013,Hildesheim,2_zimmer,6835,K03254
+2014,Hildesheim,2_zimmer,6909,K03254
+2015,Hildesheim,2_zimmer,6972,K03254
+2016,Hildesheim,2_zimmer,7012,K03254
+2017,Hildesheim,2_zimmer,7084,K03254
+2018,Hildesheim,2_zimmer,7153,K03254
+2019,Hildesheim,2_zimmer,7225,K03254
+2011,Holzminden,2_zimmer,2040,K03255
+2012,Holzminden,2_zimmer,2042,K03255
+2013,Holzminden,2_zimmer,2042,K03255
+2014,Holzminden,2_zimmer,2042,K03255
+2015,Holzminden,2_zimmer,2046,K03255
+2016,Holzminden,2_zimmer,2050,K03255
+2017,Holzminden,2_zimmer,2062,K03255
+2018,Holzminden,2_zimmer,2076,K03255
+2019,Holzminden,2_zimmer,2076,K03255
+2011,Nienburg (Weser),2_zimmer,2058,K03256
+2012,Nienburg (Weser),2_zimmer,2085,K03256
+2013,Nienburg (Weser),2_zimmer,2101,K03256
+2014,Nienburg (Weser),2_zimmer,2110,K03256
+2015,Nienburg (Weser),2_zimmer,2151,K03256
+2016,Nienburg (Weser),2_zimmer,2180,K03256
+2017,Nienburg (Weser),2_zimmer,2205,K03256
+2018,Nienburg (Weser),2_zimmer,2223,K03256
+2019,Nienburg (Weser),2_zimmer,2269,K03256
+2011,Schaumburg,2_zimmer,3533,K03257
+2012,Schaumburg,2_zimmer,3576,K03257
+2013,Schaumburg,2_zimmer,3582,K03257
+2014,Schaumburg,2_zimmer,3592,K03257
+2015,Schaumburg,2_zimmer,3607,K03257
+2016,Schaumburg,2_zimmer,3615,K03257
+2017,Schaumburg,2_zimmer,3627,K03257
+2018,Schaumburg,2_zimmer,3677,K03257
+2019,Schaumburg,2_zimmer,3738,K03257
+2011,Lüneburg,2_zimmer,41837,K033
+2012,Lüneburg,2_zimmer,42203,K033
+2013,Lüneburg,2_zimmer,42604,K033
+2014,Lüneburg,2_zimmer,43103,K033
+2015,Lüneburg,2_zimmer,43826,K033
+2016,Lüneburg,2_zimmer,44630,K033
+2017,Lüneburg,2_zimmer,45461,K033
+2018,Lüneburg,2_zimmer,46309,K033
+2019,Lüneburg,2_zimmer,47324,K033
+2011,Celle,2_zimmer,4394,K03351
+2012,Celle,2_zimmer,4436,K03351
+2013,Celle,2_zimmer,4462,K03351
+2014,Celle,2_zimmer,4475,K03351
+2015,Celle,2_zimmer,4493,K03351
+2016,Celle,2_zimmer,4508,K03351
+2017,Celle,2_zimmer,4523,K03351
+2018,Celle,2_zimmer,4579,K03351
+2019,Celle,2_zimmer,4607,K03351
+2011,Cuxhaven,2_zimmer,4976,K03352
+2012,Cuxhaven,2_zimmer,5065,K03352
+2013,Cuxhaven,2_zimmer,5127,K03352
+2014,Cuxhaven,2_zimmer,5189,K03352
+2015,Cuxhaven,2_zimmer,5229,K03352
+2016,Cuxhaven,2_zimmer,5369,K03352
+2017,Cuxhaven,2_zimmer,5464,K03352
+2018,Cuxhaven,2_zimmer,5525,K03352
+2019,Cuxhaven,2_zimmer,5601,K03352
+2011,Harburg,2_zimmer,6747,K03353
+2012,Harburg,2_zimmer,6791,K03353
+2013,Harburg,2_zimmer,6879,K03353
+2014,Harburg,2_zimmer,7003,K03353
+2015,Harburg,2_zimmer,7169,K03353
+2016,Harburg,2_zimmer,7365,K03353
+2017,Harburg,2_zimmer,7476,K03353
+2018,Harburg,2_zimmer,7605,K03353
+2019,Harburg,2_zimmer,7933,K03353
+2011,Lüchow-Dannenberg,2_zimmer,1318,K03354
+2012,Lüchow-Dannenberg,2_zimmer,1324,K03354
+2013,Lüchow-Dannenberg,2_zimmer,1329,K03354
+2014,Lüchow-Dannenberg,2_zimmer,1328,K03354
+2015,Lüchow-Dannenberg,2_zimmer,1330,K03354
+2016,Lüchow-Dannenberg,2_zimmer,1358,K03354
+2017,Lüchow-Dannenberg,2_zimmer,1359,K03354
+2018,Lüchow-Dannenberg,2_zimmer,1375,K03354
+2019,Lüchow-Dannenberg,2_zimmer,1385,K03354
+2011,Lüneburg,2_zimmer,5749,K03355
+2012,Lüneburg,2_zimmer,5799,K03355
+2013,Lüneburg,2_zimmer,5844,K03355
+2014,Lüneburg,2_zimmer,5899,K03355
+2015,Lüneburg,2_zimmer,6007,K03355
+2016,Lüneburg,2_zimmer,6070,K03355
+2017,Lüneburg,2_zimmer,6310,K03355
+2018,Lüneburg,2_zimmer,6395,K03355
+2019,Lüneburg,2_zimmer,6445,K03355
+2011,Osterholz,2_zimmer,1979,K03356
+2012,Osterholz,2_zimmer,1986,K03356
+2013,Osterholz,2_zimmer,1995,K03356
+2014,Osterholz,2_zimmer,2015,K03356
+2015,Osterholz,2_zimmer,2026,K03356
+2016,Osterholz,2_zimmer,2044,K03356
+2017,Osterholz,2_zimmer,2063,K03356
+2018,Osterholz,2_zimmer,2074,K03356
+2019,Osterholz,2_zimmer,2131,K03356
+2011,Rotenburg (Wümme),2_zimmer,3179,K03357
+2012,Rotenburg (Wümme),2_zimmer,3204,K03357
+2013,Rotenburg (Wümme),2_zimmer,3259,K03357
+2014,Rotenburg (Wümme),2_zimmer,3339,K03357
+2015,Rotenburg (Wümme),2_zimmer,3390,K03357
+2016,Rotenburg (Wümme),2_zimmer,3481,K03357
+2017,Rotenburg (Wümme),2_zimmer,3533,K03357
+2018,Rotenburg (Wümme),2_zimmer,3597,K03357
+2019,Rotenburg (Wümme),2_zimmer,3664,K03357
+2011,Heidekreis,2_zimmer,3503,K03358
+2012,Heidekreis,2_zimmer,3512,K03358
+2013,Heidekreis,2_zimmer,3530,K03358
+2014,Heidekreis,2_zimmer,3538,K03358
+2015,Heidekreis,2_zimmer,3557,K03358
+2016,Heidekreis,2_zimmer,3605,K03358
+2017,Heidekreis,2_zimmer,3628,K03358
+2018,Heidekreis,2_zimmer,3650,K03358
+2019,Heidekreis,2_zimmer,3729,K03358
+2011,Stade,2_zimmer,5156,K03359
+2012,Stade,2_zimmer,5241,K03359
+2013,Stade,2_zimmer,5292,K03359
+2014,Stade,2_zimmer,5403,K03359
+2015,Stade,2_zimmer,5642,K03359
+2016,Stade,2_zimmer,5796,K03359
+2017,Stade,2_zimmer,6031,K03359
+2018,Stade,2_zimmer,6328,K03359
+2019,Stade,2_zimmer,6524,K03359
+2011,Uelzen,2_zimmer,2318,K03360
+2012,Uelzen,2_zimmer,2317,K03360
+2013,Uelzen,2_zimmer,2353,K03360
+2014,Uelzen,2_zimmer,2363,K03360
+2015,Uelzen,2_zimmer,2367,K03360
+2016,Uelzen,2_zimmer,2385,K03360
+2017,Uelzen,2_zimmer,2389,K03360
+2018,Uelzen,2_zimmer,2434,K03360
+2019,Uelzen,2_zimmer,2466,K03360
+2011,Verden,2_zimmer,2518,K03361
+2012,Verden,2_zimmer,2528,K03361
+2013,Verden,2_zimmer,2534,K03361
+2014,Verden,2_zimmer,2551,K03361
+2015,Verden,2_zimmer,2616,K03361
+2016,Verden,2_zimmer,2649,K03361
+2017,Verden,2_zimmer,2685,K03361
+2018,Verden,2_zimmer,2747,K03361
+2019,Verden,2_zimmer,2839,K03361
+2011,Weser-Ems,2_zimmer,50582,K034
+2012,Weser-Ems,2_zimmer,51338,K034
+2013,Weser-Ems,2_zimmer,52352,K034
+2014,Weser-Ems,2_zimmer,53691,K034
+2015,Weser-Ems,2_zimmer,54781,K034
+2016,Weser-Ems,2_zimmer,56357,K034
+2017,Weser-Ems,2_zimmer,58058,K034
+2018,Weser-Ems,2_zimmer,59757,K034
+2019,Weser-Ems,2_zimmer,61434,K034
+2011,Delmenhorst.Stadt,2_zimmer,2091,K03401
+2012,Delmenhorst.Stadt,2_zimmer,2102,K03401
+2013,Delmenhorst.Stadt,2_zimmer,2107,K03401
+2014,Delmenhorst.Stadt,2_zimmer,2161,K03401
+2015,Delmenhorst.Stadt,2_zimmer,2168,K03401
+2016,Delmenhorst.Stadt,2_zimmer,2182,K03401
+2017,Delmenhorst.Stadt,2_zimmer,2221,K03401
+2018,Delmenhorst.Stadt,2_zimmer,2241,K03401
+2019,Delmenhorst.Stadt,2_zimmer,2301,K03401
+2011,Emden Stadt,2_zimmer,1505,K03402
+2012,Emden Stadt,2_zimmer,1507,K03402
+2013,Emden Stadt,2_zimmer,1509,K03402
+2014,Emden Stadt,2_zimmer,1617,K03402
+2015,Emden Stadt,2_zimmer,1628,K03402
+2016,Emden Stadt,2_zimmer,1662,K03402
+2017,Emden Stadt,2_zimmer,1708,K03402
+2018,Emden Stadt,2_zimmer,1722,K03402
+2019,Emden Stadt,2_zimmer,1726,K03402
+2011,Oldenburg (Oldb) Stadt,2_zimmer,5964,K03403
+2012,Oldenburg (Oldb) Stadt,2_zimmer,6117,K03403
+2013,Oldenburg (Oldb) Stadt,2_zimmer,6348,K03403
+2014,Oldenburg (Oldb) Stadt,2_zimmer,6570,K03403
+2015,Oldenburg (Oldb) Stadt,2_zimmer,6906,K03403
+2016,Oldenburg (Oldb) Stadt,2_zimmer,7361,K03403
+2017,Oldenburg (Oldb) Stadt,2_zimmer,7847,K03403
+2018,Oldenburg (Oldb) Stadt,2_zimmer,8217,K03403
+2019,Oldenburg (Oldb) Stadt,2_zimmer,8472,K03403
+2011,Osnabrück Stadt,2_zimmer,7467,K03404
+2012,Osnabrück Stadt,2_zimmer,7479,K03404
+2013,Osnabrück Stadt,2_zimmer,7527,K03404
+2014,Osnabrück Stadt,2_zimmer,7555,K03404
+2015,Osnabrück Stadt,2_zimmer,7579,K03404
+2016,Osnabrück Stadt,2_zimmer,7710,K03404
+2017,Osnabrück Stadt,2_zimmer,7765,K03404
+2018,Osnabrück Stadt,2_zimmer,7852,K03404
+2019,Osnabrück Stadt,2_zimmer,7890,K03404
+2011,Wilhelmshaven Stadt,2_zimmer,2639,K03405
+2012,Wilhelmshaven Stadt,2_zimmer,2645,K03405
+2013,Wilhelmshaven Stadt,2_zimmer,2646,K03405
+2014,Wilhelmshaven Stadt,2_zimmer,2653,K03405
+2015,Wilhelmshaven Stadt,2_zimmer,2655,K03405
+2016,Wilhelmshaven Stadt,2_zimmer,2662,K03405
+2017,Wilhelmshaven Stadt,2_zimmer,2656,K03405
+2018,Wilhelmshaven Stadt,2_zimmer,2684,K03405
+2019,Wilhelmshaven Stadt,2_zimmer,2704,K03405
+2011,Ammerland,2_zimmer,1932,K03451
+2012,Ammerland,2_zimmer,1959,K03451
+2013,Ammerland,2_zimmer,2016,K03451
+2014,Ammerland,2_zimmer,2043,K03451
+2015,Ammerland,2_zimmer,2084,K03451
+2016,Ammerland,2_zimmer,2156,K03451
+2017,Ammerland,2_zimmer,2229,K03451
+2018,Ammerland,2_zimmer,2357,K03451
+2019,Ammerland,2_zimmer,2536,K03451
+2011,Aurich,2_zimmer,4121,K03452
+2012,Aurich,2_zimmer,4220,K03452
+2013,Aurich,2_zimmer,4358,K03452
+2014,Aurich,2_zimmer,4457,K03452
+2015,Aurich,2_zimmer,4564,K03452
+2016,Aurich,2_zimmer,4678,K03452
+2017,Aurich,2_zimmer,4754,K03452
+2018,Aurich,2_zimmer,4834,K03452
+2019,Aurich,2_zimmer,4920,K03452
+2011,Cloppenburg,2_zimmer,1942,K03453
+2012,Cloppenburg,2_zimmer,2007,K03453
+2013,Cloppenburg,2_zimmer,2091,K03453
+2014,Cloppenburg,2_zimmer,2236,K03453
+2015,Cloppenburg,2_zimmer,2298,K03453
+2016,Cloppenburg,2_zimmer,2410,K03453
+2017,Cloppenburg,2_zimmer,2544,K03453
+2018,Cloppenburg,2_zimmer,2691,K03453
+2019,Cloppenburg,2_zimmer,2813,K03453
+2011,Emsland,2_zimmer,3884,K03454
+2012,Emsland,2_zimmer,3984,K03454
+2013,Emsland,2_zimmer,4132,K03454
+2014,Emsland,2_zimmer,4374,K03454
+2015,Emsland,2_zimmer,4506,K03454
+2016,Emsland,2_zimmer,4682,K03454
+2017,Emsland,2_zimmer,4931,K03454
+2018,Emsland,2_zimmer,5144,K03454
+2019,Emsland,2_zimmer,5428,K03454
+2011,Friesland,2_zimmer,1867,K03455
+2012,Friesland,2_zimmer,1889,K03455
+2013,Friesland,2_zimmer,1920,K03455
+2014,Friesland,2_zimmer,1969,K03455
+2015,Friesland,2_zimmer,2006,K03455
+2016,Friesland,2_zimmer,2057,K03455
+2017,Friesland,2_zimmer,2108,K03455
+2018,Friesland,2_zimmer,2237,K03455
+2019,Friesland,2_zimmer,2340,K03455
+2011,Grafschaft Bentheim,2_zimmer,2001,K03456
+2012,Grafschaft Bentheim,2_zimmer,2029,K03456
+2013,Grafschaft Bentheim,2_zimmer,2071,K03456
+2014,Grafschaft Bentheim,2_zimmer,2134,K03456
+2015,Grafschaft Bentheim,2_zimmer,2194,K03456
+2016,Grafschaft Bentheim,2_zimmer,2234,K03456
+2017,Grafschaft Bentheim,2_zimmer,2360,K03456
+2018,Grafschaft Bentheim,2_zimmer,2410,K03456
+2019,Grafschaft Bentheim,2_zimmer,2456,K03456
+2011,Leer,2_zimmer,2568,K03457
+2012,Leer,2_zimmer,2591,K03457
+2013,Leer,2_zimmer,2632,K03457
+2014,Leer,2_zimmer,2707,K03457
+2015,Leer,2_zimmer,2773,K03457
+2016,Leer,2_zimmer,2822,K03457
+2017,Leer,2_zimmer,2887,K03457
+2018,Leer,2_zimmer,2950,K03457
+2019,Leer,2_zimmer,3028,K03457
+2011,Oldenburg,2_zimmer,1762,K03458
+2012,Oldenburg,2_zimmer,1765,K03458
+2013,Oldenburg,2_zimmer,1771,K03458
+2014,Oldenburg,2_zimmer,1798,K03458
+2015,Oldenburg,2_zimmer,1813,K03458
+2016,Oldenburg,2_zimmer,1841,K03458
+2017,Oldenburg,2_zimmer,1897,K03458
+2018,Oldenburg,2_zimmer,1965,K03458
+2019,Oldenburg,2_zimmer,2018,K03458
+2011,Osnabrück,2_zimmer,5623,K03459
+2012,Osnabrück,2_zimmer,5713,K03459
+2013,Osnabrück,2_zimmer,5778,K03459
+2014,Osnabrück,2_zimmer,5878,K03459
+2015,Osnabrück,2_zimmer,5971,K03459
+2016,Osnabrück,2_zimmer,6100,K03459
+2017,Osnabrück,2_zimmer,6217,K03459
+2018,Osnabrück,2_zimmer,6357,K03459
+2019,Osnabrück,2_zimmer,6514,K03459
+2011,Vechta,2_zimmer,1831,K03460
+2012,Vechta,2_zimmer,1900,K03460
+2013,Vechta,2_zimmer,1986,K03460
+2014,Vechta,2_zimmer,2059,K03460
+2015,Vechta,2_zimmer,2109,K03460
+2016,Vechta,2_zimmer,2240,K03460
+2017,Vechta,2_zimmer,2331,K03460
+2018,Vechta,2_zimmer,2458,K03460
+2019,Vechta,2_zimmer,2594,K03460
+2011,Wesermarsch,2_zimmer,2021,K03461
+2012,Wesermarsch,2_zimmer,2033,K03461
+2013,Wesermarsch,2_zimmer,2042,K03461
+2014,Wesermarsch,2_zimmer,2049,K03461
+2015,Wesermarsch,2_zimmer,2063,K03461
+2016,Wesermarsch,2_zimmer,2074,K03461
+2017,Wesermarsch,2_zimmer,2091,K03461
+2018,Wesermarsch,2_zimmer,2098,K03461
+2019,Wesermarsch,2_zimmer,2110,K03461
+2011,Wittmund,2_zimmer,1364,K03462
+2012,Wittmund,2_zimmer,1398,K03462
+2013,Wittmund,2_zimmer,1418,K03462
+2014,Wittmund,2_zimmer,1431,K03462
+2015,Wittmund,2_zimmer,1464,K03462
+2016,Wittmund,2_zimmer,1486,K03462
+2017,Wittmund,2_zimmer,1512,K03462
+2018,Wittmund,2_zimmer,1540,K03462
+2019,Wittmund,2_zimmer,1584,K03462
+2011,Niedersachsen,3_Zimmer,625101,K030
+2012,Niedersachsen,3_Zimmer,627450,K030
+2013,Niedersachsen,3_Zimmer,630951,K030
+2014,Niedersachsen,3_Zimmer,635175,K030
+2015,Niedersachsen,3_Zimmer,639883,K030
+2016,Niedersachsen,3_Zimmer,645530,K030
+2017,Niedersachsen,3_Zimmer,651096,K030
+2018,Niedersachsen,3_Zimmer,656649,K030
+2019,Niedersachsen,3_Zimmer,662757,K030
+2011,Braunschweig,3_Zimmer,143041,K031
+2012,Braunschweig,3_Zimmer,143104,K031
+2013,Braunschweig,3_Zimmer,143322,K031
+2014,Braunschweig,3_Zimmer,143706,K031
+2015,Braunschweig,3_Zimmer,144137,K031
+2016,Braunschweig,3_Zimmer,144655,K031
+2017,Braunschweig,3_Zimmer,145347,K031
+2018,Braunschweig,3_Zimmer,145993,K031
+2019,Braunschweig,3_Zimmer,146767,K031
+2011,Braunschweig Stadt,3_Zimmer,33172,K03101
+2012,Braunschweig Stadt,3_Zimmer,33213,K03101
+2013,Braunschweig Stadt,3_Zimmer,33266,K03101
+2014,Braunschweig Stadt,3_Zimmer,33324,K03101
+2015,Braunschweig Stadt,3_Zimmer,33407,K03101
+2016,Braunschweig Stadt,3_Zimmer,33505,K03101
+2017,Braunschweig Stadt,3_Zimmer,33579,K03101
+2018,Braunschweig Stadt,3_Zimmer,33777,K03101
+2019,Braunschweig Stadt,3_Zimmer,33908,K03101
+2011,Salzgitter.Stadt,3_Zimmer,9254,K03102
+2012,Salzgitter.Stadt,3_Zimmer,9246,K03102
+2013,Salzgitter.Stadt,3_Zimmer,9241,K03102
+2014,Salzgitter.Stadt,3_Zimmer,9242,K03102
+2015,Salzgitter.Stadt,3_Zimmer,9232,K03102
+2016,Salzgitter.Stadt,3_Zimmer,9239,K03102
+2017,Salzgitter.Stadt,3_Zimmer,9251,K03102
+2018,Salzgitter.Stadt,3_Zimmer,9256,K03102
+2019,Salzgitter.Stadt,3_Zimmer,9274,K03102
+2011,Wolfsburg.Stadt,3_Zimmer,12388,K03103
+2012,Wolfsburg.Stadt,3_Zimmer,12272,K03103
+2013,Wolfsburg.Stadt,3_Zimmer,12264,K03103
+2014,Wolfsburg.Stadt,3_Zimmer,12308,K03103
+2015,Wolfsburg.Stadt,3_Zimmer,12343,K03103
+2016,Wolfsburg.Stadt,3_Zimmer,12504,K03103
+2017,Wolfsburg.Stadt,3_Zimmer,12602,K03103
+2018,Wolfsburg.Stadt,3_Zimmer,12628,K03103
+2019,Wolfsburg.Stadt,3_Zimmer,12737,K03103
+2011,Gifhorn,3_Zimmer,9876,K03151
+2012,Gifhorn,3_Zimmer,9916,K03151
+2013,Gifhorn,3_Zimmer,9973,K03151
+2014,Gifhorn,3_Zimmer,10065,K03151
+2015,Gifhorn,3_Zimmer,10161,K03151
+2016,Gifhorn,3_Zimmer,10258,K03151
+2017,Gifhorn,3_Zimmer,10485,K03151
+2018,Gifhorn,3_Zimmer,10632,K03151
+2019,Gifhorn,3_Zimmer,10757,K03151
+2011,Goslar,3_Zimmer,15341,K03153
+2012,Goslar,3_Zimmer,15339,K03153
+2013,Goslar,3_Zimmer,15340,K03153
+2014,Goslar,3_Zimmer,15371,K03153
+2015,Goslar,3_Zimmer,15395,K03153
+2016,Goslar,3_Zimmer,15411,K03153
+2017,Goslar,3_Zimmer,15421,K03153
+2018,Goslar,3_Zimmer,15421,K03153
+2019,Goslar,3_Zimmer,15444,K03153
+2011,Helmstedt,3_Zimmer,7717,K03154
+2012,Helmstedt,3_Zimmer,7720,K03154
+2013,Helmstedt,3_Zimmer,7737,K03154
+2014,Helmstedt,3_Zimmer,7761,K03154
+2015,Helmstedt,3_Zimmer,7766,K03154
+2016,Helmstedt,3_Zimmer,7768,K03154
+2017,Helmstedt,3_Zimmer,7800,K03154
+2018,Helmstedt,3_Zimmer,7839,K03154
+2019,Helmstedt,3_Zimmer,7898,K03154
+2011,Northeim,3_Zimmer,9366,K03155
+2012,Northeim,3_Zimmer,9380,K03155
+2013,Northeim,3_Zimmer,9389,K03155
+2014,Northeim,3_Zimmer,9388,K03155
+2015,Northeim,3_Zimmer,9402,K03155
+2016,Northeim,3_Zimmer,9406,K03155
+2017,Northeim,3_Zimmer,9458,K03155
+2018,Northeim,3_Zimmer,9491,K03155
+2019,Northeim,3_Zimmer,9524,K03155
+2011,Peine,3_Zimmer,8254,K03157
+2012,Peine,3_Zimmer,8280,K03157
+2013,Peine,3_Zimmer,8313,K03157
+2014,Peine,3_Zimmer,8343,K03157
+2015,Peine,3_Zimmer,8385,K03157
+2016,Peine,3_Zimmer,8428,K03157
+2017,Peine,3_Zimmer,8515,K03157
+2018,Peine,3_Zimmer,8573,K03157
+2019,Peine,3_Zimmer,8673,K03157
+2011,Wolfenbüttel,3_Zimmer,8274,K03158
+2012,Wolfenbüttel,3_Zimmer,8276,K03158
+2013,Wolfenbüttel,3_Zimmer,8285,K03158
+2014,Wolfenbüttel,3_Zimmer,8324,K03158
+2015,Wolfenbüttel,3_Zimmer,8381,K03158
+2016,Wolfenbüttel,3_Zimmer,8399,K03158
+2017,Wolfenbüttel,3_Zimmer,8405,K03158
+2018,Wolfenbüttel,3_Zimmer,8444,K03158
+2019,Wolfenbüttel,3_Zimmer,8516,K03158
+2011,Göttingen,3_Zimmer,29399,K03159
+2012,Göttingen,3_Zimmer,29462,K03159
+2013,Göttingen,3_Zimmer,29514,K03159
+2014,Göttingen,3_Zimmer,29580,K03159
+2015,Göttingen,3_Zimmer,29665,K03159
+2016,Göttingen,3_Zimmer,29737,K03159
+2017,Göttingen,3_Zimmer,29831,K03159
+2018,Göttingen,3_Zimmer,29932,K03159
+2019,Göttingen,3_Zimmer,30036,K03159
+2011,Hannover,3_Zimmer,206801,K032
+2012,Hannover,3_Zimmer,207410,K032
+2013,Hannover,3_Zimmer,207962,K032
+2014,Hannover,3_Zimmer,208557,K032
+2015,Hannover,3_Zimmer,209413,K032
+2016,Hannover,3_Zimmer,210397,K032
+2017,Hannover,3_Zimmer,211400,K032
+2018,Hannover,3_Zimmer,212406,K032
+2019,Hannover,3_Zimmer,213552,K032
+2011,Hannover Region,3_Zimmer,132106,K03241
+2012,Hannover Region,3_Zimmer,132475,K03241
+2013,Hannover Region,3_Zimmer,132744,K03241
+2014,Hannover Region,3_Zimmer,133045,K03241
+2015,Hannover Region,3_Zimmer,133543,K03241
+2016,Hannover Region,3_Zimmer,134159,K03241
+2017,Hannover Region,3_Zimmer,134887,K03241
+2018,Hannover Region,3_Zimmer,135535,K03241
+2019,Hannover Region,3_Zimmer,136227,K03241
+2011,Hannover Landeshauptstadt,3_Zimmer,83273,K03241001
+2012,Hannover Landeshauptstadt,3_Zimmer,83479,K03241001
+2013,Hannover Landeshauptstadt,3_Zimmer,83631,K03241001
+2014,Hannover Landeshauptstadt,3_Zimmer,83757,K03241001
+2015,Hannover Landeshauptstadt,3_Zimmer,84032,K03241001
+2016,Hannover Landeshauptstadt,3_Zimmer,84313,K03241001
+2017,Hannover Landeshauptstadt,3_Zimmer,84580,K03241001
+2018,Hannover Landeshauptstadt,3_Zimmer,84866,K03241001
+2019,Hannover Landeshauptstadt,3_Zimmer,85187,K03241001
+2011,Diepholz,3_Zimmer,10910,K03251
+2012,Diepholz,3_Zimmer,11009,K03251
+2013,Diepholz,3_Zimmer,11099,K03251
+2014,Diepholz,3_Zimmer,11244,K03251
+2015,Diepholz,3_Zimmer,11365,K03251
+2016,Diepholz,3_Zimmer,11548,K03251
+2017,Diepholz,3_Zimmer,11689,K03251
+2018,Diepholz,3_Zimmer,11851,K03251
+2019,Diepholz,3_Zimmer,12095,K03251
+2011,Hameln-Pyrmont,3_Zimmer,14236,K03252
+2012,Hameln-Pyrmont,3_Zimmer,14243,K03252
+2013,Hameln-Pyrmont,3_Zimmer,14319,K03252
+2014,Hameln-Pyrmont,3_Zimmer,14336,K03252
+2015,Hameln-Pyrmont,3_Zimmer,14342,K03252
+2016,Hameln-Pyrmont,3_Zimmer,14333,K03252
+2017,Hameln-Pyrmont,3_Zimmer,14346,K03252
+2018,Hameln-Pyrmont,3_Zimmer,14348,K03252
+2019,Hameln-Pyrmont,3_Zimmer,14390,K03252
+2011,Hildesheim,3_Zimmer,24906,K03254
+2012,Hildesheim,3_Zimmer,24954,K03254
+2013,Hildesheim,3_Zimmer,25017,K03254
+2014,Hildesheim,3_Zimmer,25094,K03254
+2015,Hildesheim,3_Zimmer,25192,K03254
+2016,Hildesheim,3_Zimmer,25248,K03254
+2017,Hildesheim,3_Zimmer,25307,K03254
+2018,Hildesheim,3_Zimmer,25381,K03254
+2019,Hildesheim,3_Zimmer,25433,K03254
+2011,Holzminden,3_Zimmer,5627,K03255
+2012,Holzminden,3_Zimmer,5628,K03255
+2013,Holzminden,3_Zimmer,5628,K03255
+2014,Holzminden,3_Zimmer,5627,K03255
+2015,Holzminden,3_Zimmer,5632,K03255
+2016,Holzminden,3_Zimmer,5635,K03255
+2017,Holzminden,3_Zimmer,5641,K03255
+2018,Holzminden,3_Zimmer,5643,K03255
+2019,Holzminden,3_Zimmer,5650,K03255
+2011,Nienburg (Weser),3_Zimmer,6746,K03256
+2012,Nienburg (Weser),3_Zimmer,6787,K03256
+2013,Nienburg (Weser),3_Zimmer,6834,K03256
+2014,Nienburg (Weser),3_Zimmer,6876,K03256
+2015,Nienburg (Weser),3_Zimmer,6949,K03256
+2016,Nienburg (Weser),3_Zimmer,7021,K03256
+2017,Nienburg (Weser),3_Zimmer,7047,K03256
+2018,Nienburg (Weser),3_Zimmer,7113,K03256
+2019,Nienburg (Weser),3_Zimmer,7180,K03256
+2011,Schaumburg,3_Zimmer,12270,K03257
+2012,Schaumburg,3_Zimmer,12314,K03257
+2013,Schaumburg,3_Zimmer,12321,K03257
+2014,Schaumburg,3_Zimmer,12335,K03257
+2015,Schaumburg,3_Zimmer,12390,K03257
+2016,Schaumburg,3_Zimmer,12453,K03257
+2017,Schaumburg,3_Zimmer,12483,K03257
+2018,Schaumburg,3_Zimmer,12535,K03257
+2019,Schaumburg,3_Zimmer,12577,K03257
+2011,Lüneburg,3_Zimmer,117512,K033
+2012,Lüneburg,3_Zimmer,117799,K033
+2013,Lüneburg,3_Zimmer,118446,K033
+2014,Lüneburg,3_Zimmer,119494,K033
+2015,Lüneburg,3_Zimmer,120726,K033
+2016,Lüneburg,3_Zimmer,122179,K033
+2017,Lüneburg,3_Zimmer,123530,K033
+2018,Lüneburg,3_Zimmer,124727,K033
+2019,Lüneburg,3_Zimmer,126193,K033
+2011,Celle,3_Zimmer,13079,K03351
+2012,Celle,3_Zimmer,13083,K03351
+2013,Celle,3_Zimmer,13114,K03351
+2014,Celle,3_Zimmer,13148,K03351
+2015,Celle,3_Zimmer,13169,K03351
+2016,Celle,3_Zimmer,13216,K03351
+2017,Celle,3_Zimmer,13254,K03351
+2018,Celle,3_Zimmer,13342,K03351
+2019,Celle,3_Zimmer,13397,K03351
+2011,Cuxhaven,3_Zimmer,14338,K03352
+2012,Cuxhaven,3_Zimmer,14448,K03352
+2013,Cuxhaven,3_Zimmer,14544,K03352
+2014,Cuxhaven,3_Zimmer,14734,K03352
+2015,Cuxhaven,3_Zimmer,14913,K03352
+2016,Cuxhaven,3_Zimmer,15040,K03352
+2017,Cuxhaven,3_Zimmer,15211,K03352
+2018,Cuxhaven,3_Zimmer,15301,K03352
+2019,Cuxhaven,3_Zimmer,15437,K03352
+2011,Harburg,3_Zimmer,17689,K03353
+2012,Harburg,3_Zimmer,17819,K03353
+2013,Harburg,3_Zimmer,17976,K03353
+2014,Harburg,3_Zimmer,18164,K03353
+2015,Harburg,3_Zimmer,18408,K03353
+2016,Harburg,3_Zimmer,18776,K03353
+2017,Harburg,3_Zimmer,19001,K03353
+2018,Harburg,3_Zimmer,19194,K03353
+2019,Harburg,3_Zimmer,19566,K03353
+2011,Lüchow-Dannenberg,3_Zimmer,4044,K03354
+2012,Lüchow-Dannenberg,3_Zimmer,4046,K03354
+2013,Lüchow-Dannenberg,3_Zimmer,4056,K03354
+2014,Lüchow-Dannenberg,3_Zimmer,4064,K03354
+2015,Lüchow-Dannenberg,3_Zimmer,4074,K03354
+2016,Lüchow-Dannenberg,3_Zimmer,4098,K03354
+2017,Lüchow-Dannenberg,3_Zimmer,4110,K03354
+2018,Lüchow-Dannenberg,3_Zimmer,4133,K03354
+2019,Lüchow-Dannenberg,3_Zimmer,4163,K03354
+2011,Lüneburg,3_Zimmer,15586,K03355
+2012,Lüneburg,3_Zimmer,15678,K03355
+2013,Lüneburg,3_Zimmer,15768,K03355
+2014,Lüneburg,3_Zimmer,15881,K03355
+2015,Lüneburg,3_Zimmer,16106,K03355
+2016,Lüneburg,3_Zimmer,16227,K03355
+2017,Lüneburg,3_Zimmer,16492,K03355
+2018,Lüneburg,3_Zimmer,16629,K03355
+2019,Lüneburg,3_Zimmer,16662,K03355
+2011,Osterholz,3_Zimmer,6080,K03356
+2012,Osterholz,3_Zimmer,6108,K03356
+2013,Osterholz,3_Zimmer,6122,K03356
+2014,Osterholz,3_Zimmer,6196,K03356
+2015,Osterholz,3_Zimmer,6239,K03356
+2016,Osterholz,3_Zimmer,6332,K03356
+2017,Osterholz,3_Zimmer,6386,K03356
+2018,Osterholz,3_Zimmer,6440,K03356
+2019,Osterholz,3_Zimmer,6523,K03356
+2011,Rotenburg (Wümme),3_Zimmer,8338,K03357
+2012,Rotenburg (Wümme),3_Zimmer,8375,K03357
+2013,Rotenburg (Wümme),3_Zimmer,8433,K03357
+2014,Rotenburg (Wümme),3_Zimmer,8529,K03357
+2015,Rotenburg (Wümme),3_Zimmer,8619,K03357
+2016,Rotenburg (Wümme),3_Zimmer,8784,K03357
+2017,Rotenburg (Wümme),3_Zimmer,8947,K03357
+2018,Rotenburg (Wümme),3_Zimmer,9068,K03357
+2019,Rotenburg (Wümme),3_Zimmer,9218,K03357
+2011,Heidekreis,3_Zimmer,9577,K03358
+2012,Heidekreis,3_Zimmer,9589,K03358
+2013,Heidekreis,3_Zimmer,9626,K03358
+2014,Heidekreis,3_Zimmer,9655,K03358
+2015,Heidekreis,3_Zimmer,9695,K03358
+2016,Heidekreis,3_Zimmer,9766,K03358
+2017,Heidekreis,3_Zimmer,9811,K03358
+2018,Heidekreis,3_Zimmer,9899,K03358
+2019,Heidekreis,3_Zimmer,9975,K03358
+2011,Stade,3_Zimmer,13409,K03359
+2012,Stade,3_Zimmer,13542,K03359
+2013,Stade,3_Zimmer,13627,K03359
+2014,Stade,3_Zimmer,13817,K03359
+2015,Stade,3_Zimmer,14085,K03359
+2016,Stade,3_Zimmer,14315,K03359
+2017,Stade,3_Zimmer,14566,K03359
+2018,Stade,3_Zimmer,14848,K03359
+2019,Stade,3_Zimmer,15096,K03359
+2011,Uelzen,3_Zimmer,7443,K03360
+2012,Uelzen,3_Zimmer,7460,K03360
+2013,Uelzen,3_Zimmer,7491,K03360
+2014,Uelzen,3_Zimmer,7537,K03360
+2015,Uelzen,3_Zimmer,7551,K03360
+2016,Uelzen,3_Zimmer,7650,K03360
+2017,Uelzen,3_Zimmer,7669,K03360
+2018,Uelzen,3_Zimmer,7709,K03360
+2019,Uelzen,3_Zimmer,7791,K03360
+2011,Verden,3_Zimmer,7929,K03361
+2012,Verden,3_Zimmer,7651,K03361
+2013,Verden,3_Zimmer,7689,K03361
+2014,Verden,3_Zimmer,7769,K03361
+2015,Verden,3_Zimmer,7867,K03361
+2016,Verden,3_Zimmer,7975,K03361
+2017,Verden,3_Zimmer,8083,K03361
+2018,Verden,3_Zimmer,8164,K03361
+2019,Verden,3_Zimmer,8365,K03361
+2011,Weser-Ems,3_Zimmer,157747,K034
+2012,Weser-Ems,3_Zimmer,159137,K034
+2013,Weser-Ems,3_Zimmer,161221,K034
+2014,Weser-Ems,3_Zimmer,163418,K034
+2015,Weser-Ems,3_Zimmer,165607,K034
+2016,Weser-Ems,3_Zimmer,168299,K034
+2017,Weser-Ems,3_Zimmer,170819,K034
+2018,Weser-Ems,3_Zimmer,173523,K034
+2019,Weser-Ems,3_Zimmer,176245,K034
+2011,Delmenhorst.Stadt,3_Zimmer,6688,K03401
+2012,Delmenhorst.Stadt,3_Zimmer,6718,K03401
+2013,Delmenhorst.Stadt,3_Zimmer,6755,K03401
+2014,Delmenhorst.Stadt,3_Zimmer,6791,K03401
+2015,Delmenhorst.Stadt,3_Zimmer,6826,K03401
+2016,Delmenhorst.Stadt,3_Zimmer,6893,K03401
+2017,Delmenhorst.Stadt,3_Zimmer,6938,K03401
+2018,Delmenhorst.Stadt,3_Zimmer,7016,K03401
+2019,Delmenhorst.Stadt,3_Zimmer,7085,K03401
+2011,Emden Stadt,3_Zimmer,4859,K03402
+2012,Emden Stadt,3_Zimmer,4864,K03402
+2013,Emden Stadt,3_Zimmer,4878,K03402
+2014,Emden Stadt,3_Zimmer,4956,K03402
+2015,Emden Stadt,3_Zimmer,4968,K03402
+2016,Emden Stadt,3_Zimmer,5002,K03402
+2017,Emden Stadt,3_Zimmer,5055,K03402
+2018,Emden Stadt,3_Zimmer,5065,K03402
+2019,Emden Stadt,3_Zimmer,5074,K03402
+2011,Oldenburg (Oldb) Stadt,3_Zimmer,17649,K03403
+2012,Oldenburg (Oldb) Stadt,3_Zimmer,17876,K03403
+2013,Oldenburg (Oldb) Stadt,3_Zimmer,18194,K03403
+2014,Oldenburg (Oldb) Stadt,3_Zimmer,18397,K03403
+2015,Oldenburg (Oldb) Stadt,3_Zimmer,18715,K03403
+2016,Oldenburg (Oldb) Stadt,3_Zimmer,19125,K03403
+2017,Oldenburg (Oldb) Stadt,3_Zimmer,19477,K03403
+2018,Oldenburg (Oldb) Stadt,3_Zimmer,19793,K03403
+2019,Oldenburg (Oldb) Stadt,3_Zimmer,19995,K03403
+2011,Osnabrück Stadt,3_Zimmer,19552,K03404
+2012,Osnabrück Stadt,3_Zimmer,19575,K03404
+2013,Osnabrück Stadt,3_Zimmer,19647,K03404
+2014,Osnabrück Stadt,3_Zimmer,19696,K03404
+2015,Osnabrück Stadt,3_Zimmer,19775,K03404
+2016,Osnabrück Stadt,3_Zimmer,19984,K03404
+2017,Osnabrück Stadt,3_Zimmer,20138,K03404
+2018,Osnabrück Stadt,3_Zimmer,20263,K03404
+2019,Osnabrück Stadt,3_Zimmer,20313,K03404
+2011,Wilhelmshaven Stadt,3_Zimmer,11826,K03405
+2012,Wilhelmshaven Stadt,3_Zimmer,11839,K03405
+2013,Wilhelmshaven Stadt,3_Zimmer,11842,K03405
+2014,Wilhelmshaven Stadt,3_Zimmer,11859,K03405
+2015,Wilhelmshaven Stadt,3_Zimmer,11880,K03405
+2016,Wilhelmshaven Stadt,3_Zimmer,11899,K03405
+2017,Wilhelmshaven Stadt,3_Zimmer,11899,K03405
+2018,Wilhelmshaven Stadt,3_Zimmer,11919,K03405
+2019,Wilhelmshaven Stadt,3_Zimmer,11942,K03405
+2011,Ammerland,3_Zimmer,6554,K03451
+2012,Ammerland,3_Zimmer,6635,K03451
+2013,Ammerland,3_Zimmer,6792,K03451
+2014,Ammerland,3_Zimmer,6889,K03451
+2015,Ammerland,3_Zimmer,6957,K03451
+2016,Ammerland,3_Zimmer,7087,K03451
+2017,Ammerland,3_Zimmer,7199,K03451
+2018,Ammerland,3_Zimmer,7314,K03451
+2019,Ammerland,3_Zimmer,7586,K03451
+2011,Aurich,3_Zimmer,12486,K03452
+2012,Aurich,3_Zimmer,12546,K03452
+2013,Aurich,3_Zimmer,12751,K03452
+2014,Aurich,3_Zimmer,12904,K03452
+2015,Aurich,3_Zimmer,13128,K03452
+2016,Aurich,3_Zimmer,13285,K03452
+2017,Aurich,3_Zimmer,13415,K03452
+2018,Aurich,3_Zimmer,13587,K03452
+2019,Aurich,3_Zimmer,13768,K03452
+2011,Cloppenburg,3_Zimmer,5241,K03453
+2012,Cloppenburg,3_Zimmer,5370,K03453
+2013,Cloppenburg,3_Zimmer,5551,K03453
+2014,Cloppenburg,3_Zimmer,5765,K03453
+2015,Cloppenburg,3_Zimmer,5915,K03453
+2016,Cloppenburg,3_Zimmer,6176,K03453
+2017,Cloppenburg,3_Zimmer,6411,K03453
+2018,Cloppenburg,3_Zimmer,6735,K03453
+2019,Cloppenburg,3_Zimmer,7015,K03453
+2011,Emsland,3_Zimmer,10812,K03454
+2012,Emsland,3_Zimmer,11095,K03454
+2013,Emsland,3_Zimmer,11451,K03454
+2014,Emsland,3_Zimmer,11923,K03454
+2015,Emsland,3_Zimmer,12283,K03454
+2016,Emsland,3_Zimmer,12691,K03454
+2017,Emsland,3_Zimmer,13156,K03454
+2018,Emsland,3_Zimmer,13574,K03454
+2019,Emsland,3_Zimmer,13992,K03454
+2011,Friesland,3_Zimmer,6183,K03455
+2012,Friesland,3_Zimmer,6242,K03455
+2013,Friesland,3_Zimmer,6330,K03455
+2014,Friesland,3_Zimmer,6440,K03455
+2015,Friesland,3_Zimmer,6534,K03455
+2016,Friesland,3_Zimmer,6688,K03455
+2017,Friesland,3_Zimmer,6773,K03455
+2018,Friesland,3_Zimmer,6860,K03455
+2019,Friesland,3_Zimmer,6965,K03455
+2011,Grafschaft Bentheim,3_Zimmer,5887,K03456
+2012,Grafschaft Bentheim,3_Zimmer,5986,K03456
+2013,Grafschaft Bentheim,3_Zimmer,6070,K03456
+2014,Grafschaft Bentheim,3_Zimmer,6235,K03456
+2015,Grafschaft Bentheim,3_Zimmer,6386,K03456
+2016,Grafschaft Bentheim,3_Zimmer,6468,K03456
+2017,Grafschaft Bentheim,3_Zimmer,6603,K03456
+2018,Grafschaft Bentheim,3_Zimmer,6690,K03456
+2019,Grafschaft Bentheim,3_Zimmer,6810,K03456
+2011,Leer,3_Zimmer,9358,K03457
+2012,Leer,3_Zimmer,9419,K03457
+2013,Leer,3_Zimmer,9539,K03457
+2014,Leer,3_Zimmer,9682,K03457
+2015,Leer,3_Zimmer,9841,K03457
+2016,Leer,3_Zimmer,10008,K03457
+2017,Leer,3_Zimmer,10249,K03457
+2018,Leer,3_Zimmer,10405,K03457
+2019,Leer,3_Zimmer,10669,K03457
+2011,Oldenburg,3_Zimmer,5481,K03458
+2012,Oldenburg,3_Zimmer,5535,K03458
+2013,Oldenburg,3_Zimmer,5608,K03458
+2014,Oldenburg,3_Zimmer,5647,K03458
+2015,Oldenburg,3_Zimmer,5736,K03458
+2016,Oldenburg,3_Zimmer,5823,K03458
+2017,Oldenburg,3_Zimmer,5891,K03458
+2018,Oldenburg,3_Zimmer,6088,K03458
+2019,Oldenburg,3_Zimmer,6231,K03458
+2011,Osnabrück,3_Zimmer,19039,K03459
+2012,Osnabrück,3_Zimmer,19139,K03459
+2013,Osnabrück,3_Zimmer,19255,K03459
+2014,Osnabrück,3_Zimmer,19402,K03459
+2015,Osnabrück,3_Zimmer,19581,K03459
+2016,Osnabrück,3_Zimmer,19792,K03459
+2017,Osnabrück,3_Zimmer,20000,K03459
+2018,Osnabrück,3_Zimmer,20319,K03459
+2019,Osnabrück,3_Zimmer,20592,K03459
+2011,Vechta,3_Zimmer,5028,K03460
+2012,Vechta,3_Zimmer,5136,K03460
+2013,Vechta,3_Zimmer,5306,K03460
+2014,Vechta,3_Zimmer,5485,K03460
+2015,Vechta,3_Zimmer,5628,K03460
+2016,Vechta,3_Zimmer,5828,K03460
+2017,Vechta,3_Zimmer,5978,K03460
+2018,Vechta,3_Zimmer,6150,K03460
+2019,Vechta,3_Zimmer,6364,K03460
+2011,Wesermarsch,3_Zimmer,6924,K03461
+2012,Wesermarsch,3_Zimmer,6940,K03461
+2013,Wesermarsch,3_Zimmer,6990,K03461
+2014,Wesermarsch,3_Zimmer,7014,K03461
+2015,Wesermarsch,3_Zimmer,7039,K03461
+2016,Wesermarsch,3_Zimmer,7066,K03461
+2017,Wesermarsch,3_Zimmer,7076,K03461
+2018,Wesermarsch,3_Zimmer,7145,K03461
+2019,Wesermarsch,3_Zimmer,7185,K03461
+2011,Wittmund,3_Zimmer,4180,K03462
+2012,Wittmund,3_Zimmer,4222,K03462
+2013,Wittmund,3_Zimmer,4262,K03462
+2014,Wittmund,3_Zimmer,4333,K03462
+2015,Wittmund,3_Zimmer,4415,K03462
+2016,Wittmund,3_Zimmer,4484,K03462
+2017,Wittmund,3_Zimmer,4561,K03462
+2018,Wittmund,3_Zimmer,4600,K03462
+2019,Wittmund,3_Zimmer,4659,K03462
+2011,Niedersachsen,4_Zimmer,935258,K030
+2012,Niedersachsen,4_Zimmer,938464,K030
+2013,Niedersachsen,4_Zimmer,942228,K030
+2014,Niedersachsen,4_Zimmer,946519,K030
+2015,Niedersachsen,4_Zimmer,951213,K030
+2016,Niedersachsen,4_Zimmer,956140,K030
+2017,Niedersachsen,4_Zimmer,961054,K030
+2018,Niedersachsen,4_Zimmer,965570,K030
+2019,Niedersachsen,4_Zimmer,969988,K030
+2011,Braunschweig,4_Zimmer,225086,K031
+2012,Braunschweig,4_Zimmer,225321,K031
+2013,Braunschweig,4_Zimmer,225631,K031
+2014,Braunschweig,4_Zimmer,226048,K031
+2015,Braunschweig,4_Zimmer,226569,K031
+2016,Braunschweig,4_Zimmer,227238,K031
+2017,Braunschweig,4_Zimmer,227974,K031
+2018,Braunschweig,4_Zimmer,228619,K031
+2019,Braunschweig,4_Zimmer,229251,K031
+2011,Braunschweig Stadt,4_Zimmer,43566,K03101
+2012,Braunschweig Stadt,4_Zimmer,43659,K03101
+2013,Braunschweig Stadt,4_Zimmer,43729,K03101
+2014,Braunschweig Stadt,4_Zimmer,43829,K03101
+2015,Braunschweig Stadt,4_Zimmer,43874,K03101
+2016,Braunschweig Stadt,4_Zimmer,43969,K03101
+2017,Braunschweig Stadt,4_Zimmer,44017,K03101
+2018,Braunschweig Stadt,4_Zimmer,44173,K03101
+2019,Braunschweig Stadt,4_Zimmer,44258,K03101
+2011,Salzgitter.Stadt,4_Zimmer,20607,K03102
+2012,Salzgitter.Stadt,4_Zimmer,20617,K03102
+2013,Salzgitter.Stadt,4_Zimmer,20633,K03102
+2014,Salzgitter.Stadt,4_Zimmer,20637,K03102
+2015,Salzgitter.Stadt,4_Zimmer,20648,K03102
+2016,Salzgitter.Stadt,4_Zimmer,20659,K03102
+2017,Salzgitter.Stadt,4_Zimmer,20671,K03102
+2018,Salzgitter.Stadt,4_Zimmer,20678,K03102
+2019,Salzgitter.Stadt,4_Zimmer,20688,K03102
+2011,Wolfsburg.Stadt,4_Zimmer,21733,K03103
+2012,Wolfsburg.Stadt,4_Zimmer,21715,K03103
+2013,Wolfsburg.Stadt,4_Zimmer,21744,K03103
+2014,Wolfsburg.Stadt,4_Zimmer,21773,K03103
+2015,Wolfsburg.Stadt,4_Zimmer,21834,K03103
+2016,Wolfsburg.Stadt,4_Zimmer,21976,K03103
+2017,Wolfsburg.Stadt,4_Zimmer,22100,K03103
+2018,Wolfsburg.Stadt,4_Zimmer,22173,K03103
+2019,Wolfsburg.Stadt,4_Zimmer,22228,K03103
+2011,Gifhorn,4_Zimmer,14808,K03151
+2012,Gifhorn,4_Zimmer,14870,K03151
+2013,Gifhorn,4_Zimmer,14957,K03151
+2014,Gifhorn,4_Zimmer,15099,K03151
+2015,Gifhorn,4_Zimmer,15252,K03151
+2016,Gifhorn,4_Zimmer,15415,K03151
+2017,Gifhorn,4_Zimmer,15598,K03151
+2018,Gifhorn,4_Zimmer,15746,K03151
+2019,Gifhorn,4_Zimmer,15900,K03151
+2011,Goslar,4_Zimmer,22115,K03153
+2012,Goslar,4_Zimmer,22117,K03153
+2013,Goslar,4_Zimmer,22122,K03153
+2014,Goslar,4_Zimmer,22129,K03153
+2015,Goslar,4_Zimmer,22142,K03153
+2016,Goslar,4_Zimmer,22154,K03153
+2017,Goslar,4_Zimmer,22157,K03153
+2018,Goslar,4_Zimmer,22173,K03153
+2019,Goslar,4_Zimmer,22197,K03153
+2011,Helmstedt,4_Zimmer,12080,K03154
+2012,Helmstedt,4_Zimmer,12082,K03154
+2013,Helmstedt,4_Zimmer,12088,K03154
+2014,Helmstedt,4_Zimmer,12110,K03154
+2015,Helmstedt,4_Zimmer,12133,K03154
+2016,Helmstedt,4_Zimmer,12147,K03154
+2017,Helmstedt,4_Zimmer,12178,K03154
+2018,Helmstedt,4_Zimmer,12220,K03154
+2019,Helmstedt,4_Zimmer,12262,K03154
+2011,Northeim,4_Zimmer,16665,K03155
+2012,Northeim,4_Zimmer,16663,K03155
+2013,Northeim,4_Zimmer,16662,K03155
+2014,Northeim,4_Zimmer,16663,K03155
+2015,Northeim,4_Zimmer,16676,K03155
+2016,Northeim,4_Zimmer,16689,K03155
+2017,Northeim,4_Zimmer,16722,K03155
+2018,Northeim,4_Zimmer,16745,K03155
+2019,Northeim,4_Zimmer,16775,K03155
+2011,Peine,4_Zimmer,14832,K03157
+2012,Peine,4_Zimmer,14854,K03157
+2013,Peine,4_Zimmer,14882,K03157
+2014,Peine,4_Zimmer,14904,K03157
+2015,Peine,4_Zimmer,14978,K03157
+2016,Peine,4_Zimmer,15045,K03157
+2017,Peine,4_Zimmer,15164,K03157
+2018,Peine,4_Zimmer,15240,K03157
+2019,Peine,4_Zimmer,15352,K03157
+2011,Wolfenbüttel,4_Zimmer,15138,K03158
+2012,Wolfenbüttel,4_Zimmer,15145,K03158
+2013,Wolfenbüttel,4_Zimmer,15157,K03158
+2014,Wolfenbüttel,4_Zimmer,15188,K03158
+2015,Wolfenbüttel,4_Zimmer,15234,K03158
+2016,Wolfenbüttel,4_Zimmer,15273,K03158
+2017,Wolfenbüttel,4_Zimmer,15305,K03158
+2018,Wolfenbüttel,4_Zimmer,15336,K03158
+2019,Wolfenbüttel,4_Zimmer,15375,K03158
+2011,Göttingen,4_Zimmer,43542,K03159
+2012,Göttingen,4_Zimmer,43599,K03159
+2013,Göttingen,4_Zimmer,43657,K03159
+2014,Göttingen,4_Zimmer,43716,K03159
+2015,Göttingen,4_Zimmer,43798,K03159
+2016,Göttingen,4_Zimmer,43911,K03159
+2017,Göttingen,4_Zimmer,44062,K03159
+2018,Göttingen,4_Zimmer,44135,K03159
+2019,Göttingen,4_Zimmer,44216,K03159
+2011,Hannover,4_Zimmer,297345,K032
+2012,Hannover,4_Zimmer,297936,K032
+2013,Hannover,4_Zimmer,298524,K032
+2014,Hannover,4_Zimmer,299192,K032
+2015,Hannover,4_Zimmer,300054,K032
+2016,Hannover,4_Zimmer,300830,K032
+2017,Hannover,4_Zimmer,301675,K032
+2018,Hannover,4_Zimmer,302504,K032
+2019,Hannover,4_Zimmer,303365,K032
+2011,Hannover Region,4_Zimmer,175631,K03241
+2012,Hannover Region,4_Zimmer,176004,K03241
+2013,Hannover Region,4_Zimmer,176310,K03241
+2014,Hannover Region,4_Zimmer,176685,K03241
+2015,Hannover Region,4_Zimmer,177136,K03241
+2016,Hannover Region,4_Zimmer,177557,K03241
+2017,Hannover Region,4_Zimmer,178114,K03241
+2018,Hannover Region,4_Zimmer,178572,K03241
+2019,Hannover Region,4_Zimmer,179025,K03241
+2011,Hannover Landeshauptstadt,4_Zimmer,93848,K03241001
+2012,Hannover Landeshauptstadt,4_Zimmer,93987,K03241001
+2013,Hannover Landeshauptstadt,4_Zimmer,94142,K03241001
+2014,Hannover Landeshauptstadt,4_Zimmer,94294,K03241001
+2015,Hannover Landeshauptstadt,4_Zimmer,94527,K03241001
+2016,Hannover Landeshauptstadt,4_Zimmer,94707,K03241001
+2017,Hannover Landeshauptstadt,4_Zimmer,94929,K03241001
+2018,Hannover Landeshauptstadt,4_Zimmer,95128,K03241001
+2019,Hannover Landeshauptstadt,4_Zimmer,95332,K03241001
+2011,Diepholz,4_Zimmer,19083,K03251
+2012,Diepholz,4_Zimmer,19226,K03251
+2013,Diepholz,4_Zimmer,19365,K03251
+2014,Diepholz,4_Zimmer,19506,K03251
+2015,Diepholz,4_Zimmer,19716,K03251
+2016,Diepholz,4_Zimmer,19868,K03251
+2017,Diepholz,4_Zimmer,19987,K03251
+2018,Diepholz,4_Zimmer,20158,K03251
+2019,Diepholz,4_Zimmer,20291,K03251
+2011,Hameln-Pyrmont,4_Zimmer,22158,K03252
+2012,Hameln-Pyrmont,4_Zimmer,22164,K03252
+2013,Hameln-Pyrmont,4_Zimmer,22199,K03252
+2014,Hameln-Pyrmont,4_Zimmer,22218,K03252
+2015,Hameln-Pyrmont,4_Zimmer,22226,K03252
+2016,Hameln-Pyrmont,4_Zimmer,22231,K03252
+2017,Hameln-Pyrmont,4_Zimmer,22252,K03252
+2018,Hameln-Pyrmont,4_Zimmer,22260,K03252
+2019,Hameln-Pyrmont,4_Zimmer,22287,K03252
+2011,Hildesheim,4_Zimmer,39162,K03254
+2012,Hildesheim,4_Zimmer,39165,K03254
+2013,Hildesheim,4_Zimmer,39217,K03254
+2014,Hildesheim,4_Zimmer,39270,K03254
+2015,Hildesheim,4_Zimmer,39337,K03254
+2016,Hildesheim,4_Zimmer,39412,K03254
+2017,Hildesheim,4_Zimmer,39467,K03254
+2018,Hildesheim,4_Zimmer,39544,K03254
+2019,Hildesheim,4_Zimmer,39616,K03254
+2011,Holzminden,4_Zimmer,9228,K03255
+2012,Holzminden,4_Zimmer,9231,K03255
+2013,Holzminden,4_Zimmer,9232,K03255
+2014,Holzminden,4_Zimmer,9231,K03255
+2015,Holzminden,4_Zimmer,9240,K03255
+2016,Holzminden,4_Zimmer,9246,K03255
+2017,Holzminden,4_Zimmer,9253,K03255
+2018,Holzminden,4_Zimmer,9253,K03255
+2019,Holzminden,4_Zimmer,9259,K03255
+2011,Nienburg (Weser),4_Zimmer,11932,K03256
+2012,Nienburg (Weser),4_Zimmer,11972,K03256
+2013,Nienburg (Weser),4_Zimmer,12004,K03256
+2014,Nienburg (Weser),4_Zimmer,12054,K03256
+2015,Nienburg (Weser),4_Zimmer,12107,K03256
+2016,Nienburg (Weser),4_Zimmer,12169,K03256
+2017,Nienburg (Weser),4_Zimmer,12211,K03256
+2018,Nienburg (Weser),4_Zimmer,12284,K03256
+2019,Nienburg (Weser),4_Zimmer,12378,K03256
+2011,Schaumburg,4_Zimmer,20151,K03257
+2012,Schaumburg,4_Zimmer,20174,K03257
+2013,Schaumburg,4_Zimmer,20197,K03257
+2014,Schaumburg,4_Zimmer,20228,K03257
+2015,Schaumburg,4_Zimmer,20292,K03257
+2016,Schaumburg,4_Zimmer,20347,K03257
+2017,Schaumburg,4_Zimmer,20391,K03257
+2018,Schaumburg,4_Zimmer,20433,K03257
+2019,Schaumburg,4_Zimmer,20509,K03257
+2011,Lüneburg,4_Zimmer,179171,K033
+2012,Lüneburg,4_Zimmer,179895,K033
+2013,Lüneburg,4_Zimmer,180732,K033
+2014,Lüneburg,4_Zimmer,181792,K033
+2015,Lüneburg,4_Zimmer,182873,K033
+2016,Lüneburg,4_Zimmer,184077,K033
+2017,Lüneburg,4_Zimmer,185287,K033
+2018,Lüneburg,4_Zimmer,186362,K033
+2019,Lüneburg,4_Zimmer,187447,K033
+2011,Celle,4_Zimmer,19623,K03351
+2012,Celle,4_Zimmer,19680,K03351
+2013,Celle,4_Zimmer,19723,K03351
+2014,Celle,4_Zimmer,19774,K03351
+2015,Celle,4_Zimmer,19817,K03351
+2016,Celle,4_Zimmer,19909,K03351
+2017,Celle,4_Zimmer,19999,K03351
+2018,Celle,4_Zimmer,20098,K03351
+2019,Celle,4_Zimmer,20170,K03351
+2011,Cuxhaven,4_Zimmer,23339,K03352
+2012,Cuxhaven,4_Zimmer,23413,K03352
+2013,Cuxhaven,4_Zimmer,23507,K03352
+2014,Cuxhaven,4_Zimmer,23660,K03352
+2015,Cuxhaven,4_Zimmer,23741,K03352
+2016,Cuxhaven,4_Zimmer,23861,K03352
+2017,Cuxhaven,4_Zimmer,23980,K03352
+2018,Cuxhaven,4_Zimmer,24077,K03352
+2019,Cuxhaven,4_Zimmer,24251,K03352
+2011,Harburg,4_Zimmer,26407,K03353
+2012,Harburg,4_Zimmer,26599,K03353
+2013,Harburg,4_Zimmer,26863,K03353
+2014,Harburg,4_Zimmer,27123,K03353
+2015,Harburg,4_Zimmer,27312,K03353
+2016,Harburg,4_Zimmer,27541,K03353
+2017,Harburg,4_Zimmer,27796,K03353
+2018,Harburg,4_Zimmer,27963,K03353
+2019,Harburg,4_Zimmer,28134,K03353
+2011,Lüchow-Dannenberg,4_Zimmer,5996,K03354
+2012,Lüchow-Dannenberg,4_Zimmer,5999,K03354
+2013,Lüchow-Dannenberg,4_Zimmer,6004,K03354
+2014,Lüchow-Dannenberg,4_Zimmer,6008,K03354
+2015,Lüchow-Dannenberg,4_Zimmer,6010,K03354
+2016,Lüchow-Dannenberg,4_Zimmer,6035,K03354
+2017,Lüchow-Dannenberg,4_Zimmer,6044,K03354
+2018,Lüchow-Dannenberg,4_Zimmer,6067,K03354
+2019,Lüchow-Dannenberg,4_Zimmer,6093,K03354
+2011,Lüneburg,4_Zimmer,19791,K03355
+2012,Lüneburg,4_Zimmer,19892,K03355
+2013,Lüneburg,4_Zimmer,20035,K03355
+2014,Lüneburg,4_Zimmer,20096,K03355
+2015,Lüneburg,4_Zimmer,20230,K03355
+2016,Lüneburg,4_Zimmer,20371,K03355
+2017,Lüneburg,4_Zimmer,20484,K03355
+2018,Lüneburg,4_Zimmer,20581,K03355
+2019,Lüneburg,4_Zimmer,20622,K03355
+2011,Osterholz,4_Zimmer,10411,K03356
+2012,Osterholz,4_Zimmer,10454,K03356
+2013,Osterholz,4_Zimmer,10491,K03356
+2014,Osterholz,4_Zimmer,10540,K03356
+2015,Osterholz,4_Zimmer,10589,K03356
+2016,Osterholz,4_Zimmer,10629,K03356
+2017,Osterholz,4_Zimmer,10683,K03356
+2018,Osterholz,4_Zimmer,10744,K03356
+2019,Osterholz,4_Zimmer,10837,K03356
+2011,Rotenburg (Wümme),4_Zimmer,13221,K03357
+2012,Rotenburg (Wümme),4_Zimmer,13275,K03357
+2013,Rotenburg (Wümme),4_Zimmer,13313,K03357
+2014,Rotenburg (Wümme),4_Zimmer,13419,K03357
+2015,Rotenburg (Wümme),4_Zimmer,13499,K03357
+2016,Rotenburg (Wümme),4_Zimmer,13589,K03357
+2017,Rotenburg (Wümme),4_Zimmer,13741,K03357
+2018,Rotenburg (Wümme),4_Zimmer,13852,K03357
+2019,Rotenburg (Wümme),4_Zimmer,13957,K03357
+2011,Heidekreis,4_Zimmer,15577,K03358
+2012,Heidekreis,4_Zimmer,15601,K03358
+2013,Heidekreis,4_Zimmer,15614,K03358
+2014,Heidekreis,4_Zimmer,15647,K03358
+2015,Heidekreis,4_Zimmer,15697,K03358
+2016,Heidekreis,4_Zimmer,15765,K03358
+2017,Heidekreis,4_Zimmer,15807,K03358
+2018,Heidekreis,4_Zimmer,15876,K03358
+2019,Heidekreis,4_Zimmer,15930,K03358
+2011,Stade,4_Zimmer,20692,K03359
+2012,Stade,4_Zimmer,20792,K03359
+2013,Stade,4_Zimmer,20887,K03359
+2014,Stade,4_Zimmer,21098,K03359
+2015,Stade,4_Zimmer,21383,K03359
+2016,Stade,4_Zimmer,21591,K03359
+2017,Stade,4_Zimmer,21832,K03359
+2018,Stade,4_Zimmer,22077,K03359
+2019,Stade,4_Zimmer,22275,K03359
+2011,Uelzen,4_Zimmer,11168,K03360
+2012,Uelzen,4_Zimmer,11172,K03360
+2013,Uelzen,4_Zimmer,11200,K03360
+2014,Uelzen,4_Zimmer,11257,K03360
+2015,Uelzen,4_Zimmer,11281,K03360
+2016,Uelzen,4_Zimmer,11345,K03360
+2017,Uelzen,4_Zimmer,11370,K03360
+2018,Uelzen,4_Zimmer,11389,K03360
+2019,Uelzen,4_Zimmer,11414,K03360
+2011,Verden,4_Zimmer,12946,K03361
+2012,Verden,4_Zimmer,13018,K03361
+2013,Verden,4_Zimmer,13095,K03361
+2014,Verden,4_Zimmer,13170,K03361
+2015,Verden,4_Zimmer,13314,K03361
+2016,Verden,4_Zimmer,13441,K03361
+2017,Verden,4_Zimmer,13551,K03361
+2018,Verden,4_Zimmer,13638,K03361
+2019,Verden,4_Zimmer,13764,K03361
+2011,Weser-Ems,4_Zimmer,233656,K034
+2012,Weser-Ems,4_Zimmer,235312,K034
+2013,Weser-Ems,4_Zimmer,237341,K034
+2014,Weser-Ems,4_Zimmer,239487,K034
+2015,Weser-Ems,4_Zimmer,241717,K034
+2016,Weser-Ems,4_Zimmer,243995,K034
+2017,Weser-Ems,4_Zimmer,246118,K034
+2018,Weser-Ems,4_Zimmer,248085,K034
+2019,Weser-Ems,4_Zimmer,249925,K034
+2011,Delmenhorst.Stadt,4_Zimmer,9820,K03401
+2012,Delmenhorst.Stadt,4_Zimmer,9863,K03401
+2013,Delmenhorst.Stadt,4_Zimmer,9907,K03401
+2014,Delmenhorst.Stadt,4_Zimmer,9950,K03401
+2015,Delmenhorst.Stadt,4_Zimmer,10000,K03401
+2016,Delmenhorst.Stadt,4_Zimmer,10066,K03401
+2017,Delmenhorst.Stadt,4_Zimmer,10104,K03401
+2018,Delmenhorst.Stadt,4_Zimmer,10162,K03401
+2019,Delmenhorst.Stadt,4_Zimmer,10202,K03401
+2011,Emden Stadt,4_Zimmer,6405,K03402
+2012,Emden Stadt,4_Zimmer,6431,K03402
+2013,Emden Stadt,4_Zimmer,6449,K03402
+2014,Emden Stadt,4_Zimmer,6474,K03402
+2015,Emden Stadt,4_Zimmer,6490,K03402
+2016,Emden Stadt,4_Zimmer,6505,K03402
+2017,Emden Stadt,4_Zimmer,6545,K03402
+2018,Emden Stadt,4_Zimmer,6551,K03402
+2019,Emden Stadt,4_Zimmer,6552,K03402
+2011,Oldenburg (Oldb) Stadt,4_Zimmer,21837,K03403
+2012,Oldenburg (Oldb) Stadt,4_Zimmer,22103,K03403
+2013,Oldenburg (Oldb) Stadt,4_Zimmer,22384,K03403
+2014,Oldenburg (Oldb) Stadt,4_Zimmer,22493,K03403
+2015,Oldenburg (Oldb) Stadt,4_Zimmer,22681,K03403
+2016,Oldenburg (Oldb) Stadt,4_Zimmer,22865,K03403
+2017,Oldenburg (Oldb) Stadt,4_Zimmer,23000,K03403
+2018,Oldenburg (Oldb) Stadt,4_Zimmer,23161,K03403
+2019,Oldenburg (Oldb) Stadt,4_Zimmer,23319,K03403
+2011,Osnabrück Stadt,4_Zimmer,24888,K03404
+2012,Osnabrück Stadt,4_Zimmer,24939,K03404
+2013,Osnabrück Stadt,4_Zimmer,24993,K03404
+2014,Osnabrück Stadt,4_Zimmer,25048,K03404
+2015,Osnabrück Stadt,4_Zimmer,25211,K03404
+2016,Osnabrück Stadt,4_Zimmer,25332,K03404
+2017,Osnabrück Stadt,4_Zimmer,25372,K03404
+2018,Osnabrück Stadt,4_Zimmer,25419,K03404
+2019,Osnabrück Stadt,4_Zimmer,25450,K03404
+2011,Wilhelmshaven Stadt,4_Zimmer,14847,K03405
+2012,Wilhelmshaven Stadt,4_Zimmer,14843,K03405
+2013,Wilhelmshaven Stadt,4_Zimmer,14842,K03405
+2014,Wilhelmshaven Stadt,4_Zimmer,14870,K03405
+2015,Wilhelmshaven Stadt,4_Zimmer,14881,K03405
+2016,Wilhelmshaven Stadt,4_Zimmer,14889,K03405
+2017,Wilhelmshaven Stadt,4_Zimmer,14913,K03405
+2018,Wilhelmshaven Stadt,4_Zimmer,14923,K03405
+2019,Wilhelmshaven Stadt,4_Zimmer,14933,K03405
+2011,Ammerland,4_Zimmer,10023,K03451
+2012,Ammerland,4_Zimmer,10126,K03451
+2013,Ammerland,4_Zimmer,10271,K03451
+2014,Ammerland,4_Zimmer,10414,K03451
+2015,Ammerland,4_Zimmer,10560,K03451
+2016,Ammerland,4_Zimmer,10718,K03451
+2017,Ammerland,4_Zimmer,10849,K03451
+2018,Ammerland,4_Zimmer,10999,K03451
+2019,Ammerland,4_Zimmer,11165,K03451
+2011,Aurich,4_Zimmer,17081,K03452
+2012,Aurich,4_Zimmer,17202,K03452
+2013,Aurich,4_Zimmer,17389,K03452
+2014,Aurich,4_Zimmer,17531,K03452
+2015,Aurich,4_Zimmer,17699,K03452
+2016,Aurich,4_Zimmer,17836,K03452
+2017,Aurich,4_Zimmer,18029,K03452
+2018,Aurich,4_Zimmer,18137,K03452
+2019,Aurich,4_Zimmer,18263,K03452
+2011,Cloppenburg,4_Zimmer,8739,K03453
+2012,Cloppenburg,4_Zimmer,8925,K03453
+2013,Cloppenburg,4_Zimmer,9109,K03453
+2014,Cloppenburg,4_Zimmer,9360,K03453
+2015,Cloppenburg,4_Zimmer,9538,K03453
+2016,Cloppenburg,4_Zimmer,9840,K03453
+2017,Cloppenburg,4_Zimmer,10041,K03453
+2018,Cloppenburg,4_Zimmer,10277,K03453
+2019,Cloppenburg,4_Zimmer,10449,K03453
+2011,Emsland,4_Zimmer,19444,K03454
+2012,Emsland,4_Zimmer,19699,K03454
+2013,Emsland,4_Zimmer,19983,K03454
+2014,Emsland,4_Zimmer,20375,K03454
+2015,Emsland,4_Zimmer,20717,K03454
+2016,Emsland,4_Zimmer,21051,K03454
+2017,Emsland,4_Zimmer,21377,K03454
+2018,Emsland,4_Zimmer,21645,K03454
+2019,Emsland,4_Zimmer,21915,K03454
+2011,Friesland,4_Zimmer,10428,K03455
+2012,Friesland,4_Zimmer,10491,K03455
+2013,Friesland,4_Zimmer,10568,K03455
+2014,Friesland,4_Zimmer,10689,K03455
+2015,Friesland,4_Zimmer,10755,K03455
+2016,Friesland,4_Zimmer,10835,K03455
+2017,Friesland,4_Zimmer,10915,K03455
+2018,Friesland,4_Zimmer,11005,K03455
+2019,Friesland,4_Zimmer,11073,K03455
+2011,Grafschaft Bentheim,4_Zimmer,9834,K03456
+2012,Grafschaft Bentheim,4_Zimmer,9891,K03456
+2013,Grafschaft Bentheim,4_Zimmer,10015,K03456
+2014,Grafschaft Bentheim,4_Zimmer,10144,K03456
+2015,Grafschaft Bentheim,4_Zimmer,10286,K03456
+2016,Grafschaft Bentheim,4_Zimmer,10396,K03456
+2017,Grafschaft Bentheim,4_Zimmer,10507,K03456
+2018,Grafschaft Bentheim,4_Zimmer,10580,K03456
+2019,Grafschaft Bentheim,4_Zimmer,10658,K03456
+2011,Leer,4_Zimmer,13650,K03457
+2012,Leer,4_Zimmer,13788,K03457
+2013,Leer,4_Zimmer,13996,K03457
+2014,Leer,4_Zimmer,14166,K03457
+2015,Leer,4_Zimmer,14336,K03457
+2016,Leer,4_Zimmer,14475,K03457
+2017,Leer,4_Zimmer,14674,K03457
+2018,Leer,4_Zimmer,14799,K03457
+2019,Leer,4_Zimmer,14891,K03457
+2011,Oldenburg,4_Zimmer,10488,K03458
+2012,Oldenburg,4_Zimmer,10535,K03458
+2013,Oldenburg,4_Zimmer,10571,K03458
+2014,Oldenburg,4_Zimmer,10631,K03458
+2015,Oldenburg,4_Zimmer,10721,K03458
+2016,Oldenburg,4_Zimmer,10806,K03458
+2017,Oldenburg,4_Zimmer,10879,K03458
+2018,Oldenburg,4_Zimmer,10971,K03458
+2019,Oldenburg,4_Zimmer,11062,K03458
+2011,Osnabrück,4_Zimmer,33059,K03459
+2012,Osnabrück,4_Zimmer,33173,K03459
+2013,Osnabrück,4_Zimmer,33318,K03459
+2014,Osnabrück,4_Zimmer,33490,K03459
+2015,Osnabrück,4_Zimmer,33732,K03459
+2016,Osnabrück,4_Zimmer,33940,K03459
+2017,Osnabrück,4_Zimmer,34201,K03459
+2018,Osnabrück,4_Zimmer,34419,K03459
+2019,Osnabrück,4_Zimmer,34646,K03459
+2011,Vechta,4_Zimmer,7344,K03460
+2012,Vechta,4_Zimmer,7475,K03460
+2013,Vechta,4_Zimmer,7660,K03460
+2014,Vechta,4_Zimmer,7878,K03460
+2015,Vechta,4_Zimmer,8020,K03460
+2016,Vechta,4_Zimmer,8245,K03460
+2017,Vechta,4_Zimmer,8414,K03460
+2018,Vechta,4_Zimmer,8599,K03460
+2019,Vechta,4_Zimmer,8815,K03460
+2011,Wesermarsch,4_Zimmer,10151,K03461
+2012,Wesermarsch,4_Zimmer,10167,K03461
+2013,Wesermarsch,4_Zimmer,10178,K03461
+2014,Wesermarsch,4_Zimmer,10204,K03461
+2015,Wesermarsch,4_Zimmer,10224,K03461
+2016,Wesermarsch,4_Zimmer,10276,K03461
+2017,Wesermarsch,4_Zimmer,10313,K03461
+2018,Wesermarsch,4_Zimmer,10394,K03461
+2019,Wesermarsch,4_Zimmer,10415,K03461
+2011,Wittmund,4_Zimmer,5618,K03462
+2012,Wittmund,4_Zimmer,5661,K03462
+2013,Wittmund,4_Zimmer,5708,K03462
+2014,Wittmund,4_Zimmer,5770,K03462
+2015,Wittmund,4_Zimmer,5866,K03462
+2016,Wittmund,4_Zimmer,5920,K03462
+2017,Wittmund,4_Zimmer,5985,K03462
+2018,Wittmund,4_Zimmer,6044,K03462
+2019,Wittmund,4_Zimmer,6117,K03462
+2011,Niedersachsen,5_Zimmer,753972,K030
+2012,Niedersachsen,5_Zimmer,758257,K030
+2013,Niedersachsen,5_Zimmer,762702,K030
+2014,Niedersachsen,5_Zimmer,767190,K030
+2015,Niedersachsen,5_Zimmer,771599,K030
+2016,Niedersachsen,5_Zimmer,776624,K030
+2017,Niedersachsen,5_Zimmer,781094,K030
+2018,Niedersachsen,5_Zimmer,785251,K030
+2019,Niedersachsen,5_Zimmer,789658,K030
+2011,Braunschweig,5_Zimmer,158769,K031
+2012,Braunschweig,5_Zimmer,159286,K031
+2013,Braunschweig,5_Zimmer,159865,K031
+2014,Braunschweig,5_Zimmer,160462,K031
+2015,Braunschweig,5_Zimmer,161124,K031
+2016,Braunschweig,5_Zimmer,161883,K031
+2017,Braunschweig,5_Zimmer,162612,K031
+2018,Braunschweig,5_Zimmer,163277,K031
+2019,Braunschweig,5_Zimmer,163885,K031
+2011,Braunschweig Stadt,5_Zimmer,22663,K03101
+2012,Braunschweig Stadt,5_Zimmer,22787,K03101
+2013,Braunschweig Stadt,5_Zimmer,22838,K03101
+2014,Braunschweig Stadt,5_Zimmer,22920,K03101
+2015,Braunschweig Stadt,5_Zimmer,23000,K03101
+2016,Braunschweig Stadt,5_Zimmer,23071,K03101
+2017,Braunschweig Stadt,5_Zimmer,23103,K03101
+2018,Braunschweig Stadt,5_Zimmer,23149,K03101
+2019,Braunschweig Stadt,5_Zimmer,23226,K03101
+2011,Salzgitter.Stadt,5_Zimmer,11739,K03102
+2012,Salzgitter.Stadt,5_Zimmer,11760,K03102
+2013,Salzgitter.Stadt,5_Zimmer,11798,K03102
+2014,Salzgitter.Stadt,5_Zimmer,11823,K03102
+2015,Salzgitter.Stadt,5_Zimmer,11840,K03102
+2016,Salzgitter.Stadt,5_Zimmer,11872,K03102
+2017,Salzgitter.Stadt,5_Zimmer,11897,K03102
+2018,Salzgitter.Stadt,5_Zimmer,11927,K03102
+2019,Salzgitter.Stadt,5_Zimmer,11944,K03102
+2011,Wolfsburg.Stadt,5_Zimmer,11800,K03103
+2012,Wolfsburg.Stadt,5_Zimmer,11791,K03103
+2013,Wolfsburg.Stadt,5_Zimmer,11854,K03103
+2014,Wolfsburg.Stadt,5_Zimmer,11923,K03103
+2015,Wolfsburg.Stadt,5_Zimmer,11974,K03103
+2016,Wolfsburg.Stadt,5_Zimmer,12054,K03103
+2017,Wolfsburg.Stadt,5_Zimmer,12111,K03103
+2018,Wolfsburg.Stadt,5_Zimmer,12148,K03103
+2019,Wolfsburg.Stadt,5_Zimmer,12180,K03103
+2011,Gifhorn,5_Zimmer,16236,K03151
+2012,Gifhorn,5_Zimmer,16346,K03151
+2013,Gifhorn,5_Zimmer,16472,K03151
+2014,Gifhorn,5_Zimmer,16630,K03151
+2015,Gifhorn,5_Zimmer,16812,K03151
+2016,Gifhorn,5_Zimmer,16977,K03151
+2017,Gifhorn,5_Zimmer,17186,K03151
+2018,Gifhorn,5_Zimmer,17374,K03151
+2019,Gifhorn,5_Zimmer,17512,K03151
+2011,Goslar,5_Zimmer,15652,K03153
+2012,Goslar,5_Zimmer,15667,K03153
+2013,Goslar,5_Zimmer,15688,K03153
+2014,Goslar,5_Zimmer,15698,K03153
+2015,Goslar,5_Zimmer,15700,K03153
+2016,Goslar,5_Zimmer,15747,K03153
+2017,Goslar,5_Zimmer,15762,K03153
+2018,Goslar,5_Zimmer,15781,K03153
+2019,Goslar,5_Zimmer,15803,K03153
+2011,Helmstedt,5_Zimmer,10295,K03154
+2012,Helmstedt,5_Zimmer,10307,K03154
+2013,Helmstedt,5_Zimmer,10335,K03154
+2014,Helmstedt,5_Zimmer,10385,K03154
+2015,Helmstedt,5_Zimmer,10426,K03154
+2016,Helmstedt,5_Zimmer,10507,K03154
+2017,Helmstedt,5_Zimmer,10585,K03154
+2018,Helmstedt,5_Zimmer,10632,K03154
+2019,Helmstedt,5_Zimmer,10683,K03154
+2011,Northeim,5_Zimmer,13515,K03155
+2012,Northeim,5_Zimmer,13534,K03155
+2013,Northeim,5_Zimmer,13552,K03155
+2014,Northeim,5_Zimmer,13577,K03155
+2015,Northeim,5_Zimmer,13590,K03155
+2016,Northeim,5_Zimmer,13625,K03155
+2017,Northeim,5_Zimmer,13655,K03155
+2018,Northeim,5_Zimmer,13689,K03155
+2019,Northeim,5_Zimmer,13706,K03155
+2011,Peine,5_Zimmer,13271,K03157
+2012,Peine,5_Zimmer,13347,K03157
+2013,Peine,5_Zimmer,13436,K03157
+2014,Peine,5_Zimmer,13515,K03157
+2015,Peine,5_Zimmer,13619,K03157
+2016,Peine,5_Zimmer,13736,K03157
+2017,Peine,5_Zimmer,13894,K03157
+2018,Peine,5_Zimmer,14021,K03157
+2019,Peine,5_Zimmer,14133,K03157
+2011,Wolfenbüttel,5_Zimmer,13382,K03158
+2012,Wolfenbüttel,5_Zimmer,13445,K03158
+2013,Wolfenbüttel,5_Zimmer,13500,K03158
+2014,Wolfenbüttel,5_Zimmer,13544,K03158
+2015,Wolfenbüttel,5_Zimmer,13615,K03158
+2016,Wolfenbüttel,5_Zimmer,13660,K03158
+2017,Wolfenbüttel,5_Zimmer,13712,K03158
+2018,Wolfenbüttel,5_Zimmer,13767,K03158
+2019,Wolfenbüttel,5_Zimmer,13809,K03158
+2011,Göttingen,5_Zimmer,30216,K03159
+2012,Göttingen,5_Zimmer,30302,K03159
+2013,Göttingen,5_Zimmer,30392,K03159
+2014,Göttingen,5_Zimmer,30447,K03159
+2015,Göttingen,5_Zimmer,30548,K03159
+2016,Göttingen,5_Zimmer,30634,K03159
+2017,Göttingen,5_Zimmer,30707,K03159
+2018,Göttingen,5_Zimmer,30789,K03159
+2019,Göttingen,5_Zimmer,30889,K03159
+2011,Hannover,5_Zimmer,197162,K032
+2012,Hannover,5_Zimmer,198094,K032
+2013,Hannover,5_Zimmer,198842,K032
+2014,Hannover,5_Zimmer,199550,K032
+2015,Hannover,5_Zimmer,200331,K032
+2016,Hannover,5_Zimmer,201139,K032
+2017,Hannover,5_Zimmer,201987,K032
+2018,Hannover,5_Zimmer,202743,K032
+2019,Hannover,5_Zimmer,203557,K032
+2011,Hannover Region,5_Zimmer,99113,K03241
+2012,Hannover Region,5_Zimmer,99741,K03241
+2013,Hannover Region,5_Zimmer,100159,K03241
+2014,Hannover Region,5_Zimmer,100559,K03241
+2015,Hannover Region,5_Zimmer,100991,K03241
+2016,Hannover Region,5_Zimmer,101397,K03241
+2017,Hannover Region,5_Zimmer,101813,K03241
+2018,Hannover Region,5_Zimmer,102167,K03241
+2019,Hannover Region,5_Zimmer,102606,K03241
+2011,Hannover Landeshauptstadt,5_Zimmer,39141,K03241001
+2012,Hannover Landeshauptstadt,5_Zimmer,39345,K03241001
+2013,Hannover Landeshauptstadt,5_Zimmer,39454,K03241001
+2014,Hannover Landeshauptstadt,5_Zimmer,39581,K03241001
+2015,Hannover Landeshauptstadt,5_Zimmer,39741,K03241001
+2016,Hannover Landeshauptstadt,5_Zimmer,39858,K03241001
+2017,Hannover Landeshauptstadt,5_Zimmer,39984,K03241001
+2018,Hannover Landeshauptstadt,5_Zimmer,40067,K03241001
+2019,Hannover Landeshauptstadt,5_Zimmer,40204,K03241001
+2011,Diepholz,5_Zimmer,21595,K03251
+2012,Diepholz,5_Zimmer,21712,K03251
+2013,Diepholz,5_Zimmer,21844,K03251
+2014,Diepholz,5_Zimmer,21985,K03251
+2015,Diepholz,5_Zimmer,22118,K03251
+2016,Diepholz,5_Zimmer,22234,K03251
+2017,Diepholz,5_Zimmer,22430,K03251
+2018,Diepholz,5_Zimmer,22553,K03251
+2019,Diepholz,5_Zimmer,22672,K03251
+2011,Hameln-Pyrmont,5_Zimmer,15267,K03252
+2012,Hameln-Pyrmont,5_Zimmer,15302,K03252
+2013,Hameln-Pyrmont,5_Zimmer,15330,K03252
+2014,Hameln-Pyrmont,5_Zimmer,15346,K03252
+2015,Hameln-Pyrmont,5_Zimmer,15363,K03252
+2016,Hameln-Pyrmont,5_Zimmer,15394,K03252
+2017,Hameln-Pyrmont,5_Zimmer,15419,K03252
+2018,Hameln-Pyrmont,5_Zimmer,15448,K03252
+2019,Hameln-Pyrmont,5_Zimmer,15474,K03252
+2011,Hildesheim,5_Zimmer,26179,K03254
+2012,Hildesheim,5_Zimmer,26245,K03254
+2013,Hildesheim,5_Zimmer,26315,K03254
+2014,Hildesheim,5_Zimmer,26375,K03254
+2015,Hildesheim,5_Zimmer,26448,K03254
+2016,Hildesheim,5_Zimmer,26537,K03254
+2017,Hildesheim,5_Zimmer,26607,K03254
+2018,Hildesheim,5_Zimmer,26685,K03254
+2019,Hildesheim,5_Zimmer,26780,K03254
+2011,Holzminden,5_Zimmer,7374,K03255
+2012,Holzminden,5_Zimmer,7380,K03255
+2013,Holzminden,5_Zimmer,7381,K03255
+2014,Holzminden,5_Zimmer,7387,K03255
+2015,Holzminden,5_Zimmer,7405,K03255
+2016,Holzminden,5_Zimmer,7425,K03255
+2017,Holzminden,5_Zimmer,7425,K03255
+2018,Holzminden,5_Zimmer,7427,K03255
+2019,Holzminden,5_Zimmer,7433,K03255
+2011,Nienburg (Weser),5_Zimmer,11705,K03256
+2012,Nienburg (Weser),5_Zimmer,11743,K03256
+2013,Nienburg (Weser),5_Zimmer,11794,K03256
+2014,Nienburg (Weser),5_Zimmer,11833,K03256
+2015,Nienburg (Weser),5_Zimmer,11888,K03256
+2016,Nienburg (Weser),5_Zimmer,11978,K03256
+2017,Nienburg (Weser),5_Zimmer,12038,K03256
+2018,Nienburg (Weser),5_Zimmer,12111,K03256
+2019,Nienburg (Weser),5_Zimmer,12167,K03256
+2011,Schaumburg,5_Zimmer,15929,K03257
+2012,Schaumburg,5_Zimmer,15971,K03257
+2013,Schaumburg,5_Zimmer,16019,K03257
+2014,Schaumburg,5_Zimmer,16065,K03257
+2015,Schaumburg,5_Zimmer,16118,K03257
+2016,Schaumburg,5_Zimmer,16174,K03257
+2017,Schaumburg,5_Zimmer,16255,K03257
+2018,Schaumburg,5_Zimmer,16352,K03257
+2019,Schaumburg,5_Zimmer,16425,K03257
+2011,Lüneburg,5_Zimmer,171907,K033
+2012,Lüneburg,5_Zimmer,173063,K033
+2013,Lüneburg,5_Zimmer,174299,K033
+2014,Lüneburg,5_Zimmer,175432,K033
+2015,Lüneburg,5_Zimmer,176596,K033
+2016,Lüneburg,5_Zimmer,178081,K033
+2017,Lüneburg,5_Zimmer,179254,K033
+2018,Lüneburg,5_Zimmer,180313,K033
+2019,Lüneburg,5_Zimmer,181458,K033
+2011,Celle,5_Zimmer,18203,K03351
+2012,Celle,5_Zimmer,18261,K03351
+2013,Celle,5_Zimmer,18335,K03351
+2014,Celle,5_Zimmer,18423,K03351
+2015,Celle,5_Zimmer,18509,K03351
+2016,Celle,5_Zimmer,18634,K03351
+2017,Celle,5_Zimmer,18702,K03351
+2018,Celle,5_Zimmer,18807,K03351
+2019,Celle,5_Zimmer,18919,K03351
+2011,Cuxhaven,5_Zimmer,22307,K03352
+2012,Cuxhaven,5_Zimmer,22413,K03352
+2013,Cuxhaven,5_Zimmer,22532,K03352
+2014,Cuxhaven,5_Zimmer,22645,K03352
+2015,Cuxhaven,5_Zimmer,22758,K03352
+2016,Cuxhaven,5_Zimmer,22900,K03352
+2017,Cuxhaven,5_Zimmer,23029,K03352
+2018,Cuxhaven,5_Zimmer,23157,K03352
+2019,Cuxhaven,5_Zimmer,23307,K03352
+2011,Harburg,5_Zimmer,26118,K03353
+2012,Harburg,5_Zimmer,26418,K03353
+2013,Harburg,5_Zimmer,26710,K03353
+2014,Harburg,5_Zimmer,26956,K03353
+2015,Harburg,5_Zimmer,27183,K03353
+2016,Harburg,5_Zimmer,27497,K03353
+2017,Harburg,5_Zimmer,27744,K03353
+2018,Harburg,5_Zimmer,27889,K03353
+2019,Harburg,5_Zimmer,28096,K03353
+2011,Lüchow-Dannenberg,5_Zimmer,4782,K03354
+2012,Lüchow-Dannenberg,5_Zimmer,4796,K03354
+2013,Lüchow-Dannenberg,5_Zimmer,4803,K03354
+2014,Lüchow-Dannenberg,5_Zimmer,4822,K03354
+2015,Lüchow-Dannenberg,5_Zimmer,4847,K03354
+2016,Lüchow-Dannenberg,5_Zimmer,4874,K03354
+2017,Lüchow-Dannenberg,5_Zimmer,4871,K03354
+2018,Lüchow-Dannenberg,5_Zimmer,4877,K03354
+2019,Lüchow-Dannenberg,5_Zimmer,4894,K03354
+2011,Lüneburg,5_Zimmer,16327,K03355
+2012,Lüneburg,5_Zimmer,16486,K03355
+2013,Lüneburg,5_Zimmer,16638,K03355
+2014,Lüneburg,5_Zimmer,16749,K03355
+2015,Lüneburg,5_Zimmer,16899,K03355
+2016,Lüneburg,5_Zimmer,17089,K03355
+2017,Lüneburg,5_Zimmer,17191,K03355
+2018,Lüneburg,5_Zimmer,17322,K03355
+2019,Lüneburg,5_Zimmer,17327,K03355
+2011,Osterholz,5_Zimmer,11997,K03356
+2012,Osterholz,5_Zimmer,12085,K03356
+2013,Osterholz,5_Zimmer,12142,K03356
+2014,Osterholz,5_Zimmer,12218,K03356
+2015,Osterholz,5_Zimmer,12285,K03356
+2016,Osterholz,5_Zimmer,12366,K03356
+2017,Osterholz,5_Zimmer,12469,K03356
+2018,Osterholz,5_Zimmer,12570,K03356
+2019,Osterholz,5_Zimmer,12688,K03356
+2011,Rotenburg (Wümme),5_Zimmer,15068,K03357
+2012,Rotenburg (Wümme),5_Zimmer,15160,K03357
+2013,Rotenburg (Wümme),5_Zimmer,15256,K03357
+2014,Rotenburg (Wümme),5_Zimmer,15370,K03357
+2015,Rotenburg (Wümme),5_Zimmer,15455,K03357
+2016,Rotenburg (Wümme),5_Zimmer,15574,K03357
+2017,Rotenburg (Wümme),5_Zimmer,15733,K03357
+2018,Rotenburg (Wümme),5_Zimmer,15834,K03357
+2019,Rotenburg (Wümme),5_Zimmer,16003,K03357
+2011,Heidekreis,5_Zimmer,13510,K03358
+2012,Heidekreis,5_Zimmer,13546,K03358
+2013,Heidekreis,5_Zimmer,13593,K03358
+2014,Heidekreis,5_Zimmer,13636,K03358
+2015,Heidekreis,5_Zimmer,13684,K03358
+2016,Heidekreis,5_Zimmer,13802,K03358
+2017,Heidekreis,5_Zimmer,13873,K03358
+2018,Heidekreis,5_Zimmer,13931,K03358
+2019,Heidekreis,5_Zimmer,13991,K03358
+2011,Stade,5_Zimmer,21288,K03359
+2012,Stade,5_Zimmer,21470,K03359
+2013,Stade,5_Zimmer,21682,K03359
+2014,Stade,5_Zimmer,21895,K03359
+2015,Stade,5_Zimmer,22114,K03359
+2016,Stade,5_Zimmer,22342,K03359
+2017,Stade,5_Zimmer,22504,K03359
+2018,Stade,5_Zimmer,22678,K03359
+2019,Stade,5_Zimmer,22817,K03359
+2011,Uelzen,5_Zimmer,8654,K03360
+2012,Uelzen,5_Zimmer,8684,K03360
+2013,Uelzen,5_Zimmer,8699,K03360
+2014,Uelzen,5_Zimmer,8725,K03360
+2015,Uelzen,5_Zimmer,8742,K03360
+2016,Uelzen,5_Zimmer,8773,K03360
+2017,Uelzen,5_Zimmer,8807,K03360
+2018,Uelzen,5_Zimmer,8842,K03360
+2019,Uelzen,5_Zimmer,8891,K03360
+2011,Verden,5_Zimmer,13653,K03361
+2012,Verden,5_Zimmer,13744,K03361
+2013,Verden,5_Zimmer,13909,K03361
+2014,Verden,5_Zimmer,13993,K03361
+2015,Verden,5_Zimmer,14120,K03361
+2016,Verden,5_Zimmer,14230,K03361
+2017,Verden,5_Zimmer,14331,K03361
+2018,Verden,5_Zimmer,14406,K03361
+2019,Verden,5_Zimmer,14525,K03361
+2011,Weser-Ems,5_Zimmer,226134,K034
+2012,Weser-Ems,5_Zimmer,227814,K034
+2013,Weser-Ems,5_Zimmer,229696,K034
+2014,Weser-Ems,5_Zimmer,231746,K034
+2015,Weser-Ems,5_Zimmer,233548,K034
+2016,Weser-Ems,5_Zimmer,235521,K034
+2017,Weser-Ems,5_Zimmer,237241,K034
+2018,Weser-Ems,5_Zimmer,238918,K034
+2019,Weser-Ems,5_Zimmer,240758,K034
+2011,Delmenhorst.Stadt,5_Zimmer,8545,K03401
+2012,Delmenhorst.Stadt,5_Zimmer,8587,K03401
+2013,Delmenhorst.Stadt,5_Zimmer,8616,K03401
+2014,Delmenhorst.Stadt,5_Zimmer,8660,K03401
+2015,Delmenhorst.Stadt,5_Zimmer,8677,K03401
+2016,Delmenhorst.Stadt,5_Zimmer,8692,K03401
+2017,Delmenhorst.Stadt,5_Zimmer,8698,K03401
+2018,Delmenhorst.Stadt,5_Zimmer,8724,K03401
+2019,Delmenhorst.Stadt,5_Zimmer,8747,K03401
+2011,Emden Stadt,5_Zimmer,5569,K03402
+2012,Emden Stadt,5_Zimmer,5595,K03402
+2013,Emden Stadt,5_Zimmer,5616,K03402
+2014,Emden Stadt,5_Zimmer,5678,K03402
+2015,Emden Stadt,5_Zimmer,5699,K03402
+2016,Emden Stadt,5_Zimmer,5714,K03402
+2017,Emden Stadt,5_Zimmer,5742,K03402
+2018,Emden Stadt,5_Zimmer,5747,K03402
+2019,Emden Stadt,5_Zimmer,5746,K03402
+2011,Oldenburg (Oldb) Stadt,5_Zimmer,15883,K03403
+2012,Oldenburg (Oldb) Stadt,5_Zimmer,16038,K03403
+2013,Oldenburg (Oldb) Stadt,5_Zimmer,16159,K03403
+2014,Oldenburg (Oldb) Stadt,5_Zimmer,16248,K03403
+2015,Oldenburg (Oldb) Stadt,5_Zimmer,16328,K03403
+2016,Oldenburg (Oldb) Stadt,5_Zimmer,16406,K03403
+2017,Oldenburg (Oldb) Stadt,5_Zimmer,16470,K03403
+2018,Oldenburg (Oldb) Stadt,5_Zimmer,16556,K03403
+2019,Oldenburg (Oldb) Stadt,5_Zimmer,16668,K03403
+2011,Osnabrück Stadt,5_Zimmer,14280,K03404
+2012,Osnabrück Stadt,5_Zimmer,14345,K03404
+2013,Osnabrück Stadt,5_Zimmer,14430,K03404
+2014,Osnabrück Stadt,5_Zimmer,14502,K03404
+2015,Osnabrück Stadt,5_Zimmer,14559,K03404
+2016,Osnabrück Stadt,5_Zimmer,14608,K03404
+2017,Osnabrück Stadt,5_Zimmer,14636,K03404
+2018,Osnabrück Stadt,5_Zimmer,14683,K03404
+2019,Osnabrück Stadt,5_Zimmer,14710,K03404
+2011,Wilhelmshaven Stadt,5_Zimmer,7398,K03405
+2012,Wilhelmshaven Stadt,5_Zimmer,7424,K03405
+2013,Wilhelmshaven Stadt,5_Zimmer,7432,K03405
+2014,Wilhelmshaven Stadt,5_Zimmer,7459,K03405
+2015,Wilhelmshaven Stadt,5_Zimmer,7461,K03405
+2016,Wilhelmshaven Stadt,5_Zimmer,7497,K03405
+2017,Wilhelmshaven Stadt,5_Zimmer,7521,K03405
+2018,Wilhelmshaven Stadt,5_Zimmer,7535,K03405
+2019,Wilhelmshaven Stadt,5_Zimmer,7539,K03405
+2011,Ammerland,5_Zimmer,11820,K03451
+2012,Ammerland,5_Zimmer,11945,K03451
+2013,Ammerland,5_Zimmer,12098,K03451
+2014,Ammerland,5_Zimmer,12243,K03451
+2015,Ammerland,5_Zimmer,12371,K03451
+2016,Ammerland,5_Zimmer,12474,K03451
+2017,Ammerland,5_Zimmer,12564,K03451
+2018,Ammerland,5_Zimmer,12698,K03451
+2019,Ammerland,5_Zimmer,12848,K03451
+2011,Aurich,5_Zimmer,18896,K03452
+2012,Aurich,5_Zimmer,19033,K03452
+2013,Aurich,5_Zimmer,19182,K03452
+2014,Aurich,5_Zimmer,19342,K03452
+2015,Aurich,5_Zimmer,19475,K03452
+2016,Aurich,5_Zimmer,19590,K03452
+2017,Aurich,5_Zimmer,19734,K03452
+2018,Aurich,5_Zimmer,19801,K03452
+2019,Aurich,5_Zimmer,19912,K03452
+2011,Cloppenburg,5_Zimmer,11058,K03453
+2012,Cloppenburg,5_Zimmer,11209,K03453
+2013,Cloppenburg,5_Zimmer,11372,K03453
+2014,Cloppenburg,5_Zimmer,11570,K03453
+2015,Cloppenburg,5_Zimmer,11751,K03453
+2016,Cloppenburg,5_Zimmer,11965,K03453
+2017,Cloppenburg,5_Zimmer,12190,K03453
+2018,Cloppenburg,5_Zimmer,12417,K03453
+2019,Cloppenburg,5_Zimmer,12619,K03453
+2011,Emsland,5_Zimmer,22331,K03454
+2012,Emsland,5_Zimmer,22615,K03454
+2013,Emsland,5_Zimmer,22922,K03454
+2014,Emsland,5_Zimmer,23314,K03454
+2015,Emsland,5_Zimmer,23621,K03454
+2016,Emsland,5_Zimmer,23929,K03454
+2017,Emsland,5_Zimmer,24209,K03454
+2018,Emsland,5_Zimmer,24461,K03454
+2019,Emsland,5_Zimmer,24730,K03454
+2011,Friesland,5_Zimmer,11284,K03455
+2012,Friesland,5_Zimmer,11330,K03455
+2013,Friesland,5_Zimmer,11378,K03455
+2014,Friesland,5_Zimmer,11474,K03455
+2015,Friesland,5_Zimmer,11529,K03455
+2016,Friesland,5_Zimmer,11630,K03455
+2017,Friesland,5_Zimmer,11720,K03455
+2018,Friesland,5_Zimmer,11807,K03455
+2019,Friesland,5_Zimmer,11874,K03455
+2011,Grafschaft Bentheim,5_Zimmer,11459,K03456
+2012,Grafschaft Bentheim,5_Zimmer,11543,K03456
+2013,Grafschaft Bentheim,5_Zimmer,11657,K03456
+2014,Grafschaft Bentheim,5_Zimmer,11798,K03456
+2015,Grafschaft Bentheim,5_Zimmer,11894,K03456
+2016,Grafschaft Bentheim,5_Zimmer,12006,K03456
+2017,Grafschaft Bentheim,5_Zimmer,12105,K03456
+2018,Grafschaft Bentheim,5_Zimmer,12169,K03456
+2019,Grafschaft Bentheim,5_Zimmer,12260,K03456
+2011,Leer,5_Zimmer,16197,K03457
+2012,Leer,5_Zimmer,16313,K03457
+2013,Leer,5_Zimmer,16458,K03457
+2014,Leer,5_Zimmer,16609,K03457
+2015,Leer,5_Zimmer,16769,K03457
+2016,Leer,5_Zimmer,16964,K03457
+2017,Leer,5_Zimmer,17093,K03457
+2018,Leer,5_Zimmer,17213,K03457
+2019,Leer,5_Zimmer,17331,K03457
+2011,Oldenburg,5_Zimmer,12762,K03458
+2012,Oldenburg,5_Zimmer,12824,K03458
+2013,Oldenburg,5_Zimmer,12881,K03458
+2014,Oldenburg,5_Zimmer,12947,K03458
+2015,Oldenburg,5_Zimmer,13068,K03458
+2016,Oldenburg,5_Zimmer,13175,K03458
+2017,Oldenburg,5_Zimmer,13263,K03458
+2018,Oldenburg,5_Zimmer,13350,K03458
+2019,Oldenburg,5_Zimmer,13436,K03458
+2011,Osnabrück,5_Zimmer,33951,K03459
+2012,Osnabrück,5_Zimmer,34122,K03459
+2013,Osnabrück,5_Zimmer,34305,K03459
+2014,Osnabrück,5_Zimmer,34513,K03459
+2015,Osnabrück,5_Zimmer,34702,K03459
+2016,Osnabrück,5_Zimmer,34919,K03459
+2017,Osnabrück,5_Zimmer,35144,K03459
+2018,Osnabrück,5_Zimmer,35345,K03459
+2019,Osnabrück,5_Zimmer,35590,K03459
+2011,Vechta,5_Zimmer,8967,K03460
+2012,Vechta,5_Zimmer,9106,K03460
+2013,Vechta,5_Zimmer,9287,K03460
+2014,Vechta,5_Zimmer,9421,K03460
+2015,Vechta,5_Zimmer,9590,K03460
+2016,Vechta,5_Zimmer,9809,K03460
+2017,Vechta,5_Zimmer,9959,K03460
+2018,Vechta,5_Zimmer,10130,K03460
+2019,Vechta,5_Zimmer,10343,K03460
+2011,Wesermarsch,5_Zimmer,10030,K03461
+2012,Wesermarsch,5_Zimmer,10052,K03461
+2013,Wesermarsch,5_Zimmer,10102,K03461
+2014,Wesermarsch,5_Zimmer,10127,K03461
+2015,Wesermarsch,5_Zimmer,10148,K03461
+2016,Wesermarsch,5_Zimmer,10170,K03461
+2017,Wesermarsch,5_Zimmer,10193,K03461
+2018,Wesermarsch,5_Zimmer,10234,K03461
+2019,Wesermarsch,5_Zimmer,10293,K03461
+2011,Wittmund,5_Zimmer,5704,K03462
+2012,Wittmund,5_Zimmer,5733,K03462
+2013,Wittmund,5_Zimmer,5801,K03462
+2014,Wittmund,5_Zimmer,5841,K03462
+2015,Wittmund,5_Zimmer,5906,K03462
+2016,Wittmund,5_Zimmer,5973,K03462
+2017,Wittmund,5_Zimmer,6000,K03462
+2018,Wittmund,5_Zimmer,6048,K03462
+2019,Wittmund,5_Zimmer,6112,K03462
+2011,Niedersachsen,6_Zimmer,523575,K030
+2012,Niedersachsen,6_Zimmer,527269,K030
+2013,Niedersachsen,6_Zimmer,531031,K030
+2014,Niedersachsen,6_Zimmer,535000,K030
+2015,Niedersachsen,6_Zimmer,538782,K030
+2016,Niedersachsen,6_Zimmer,543159,K030
+2017,Niedersachsen,6_Zimmer,547005,K030
+2018,Niedersachsen,6_Zimmer,550672,K030
+2019,Niedersachsen,6_Zimmer,554527,K030
+2011,Braunschweig,6_Zimmer,97551,K031
+2012,Braunschweig,6_Zimmer,98014,K031
+2013,Braunschweig,6_Zimmer,98507,K031
+2014,Braunschweig,6_Zimmer,99011,K031
+2015,Braunschweig,6_Zimmer,99554,K031
+2016,Braunschweig,6_Zimmer,100161,K031
+2017,Braunschweig,6_Zimmer,100778,K031
+2018,Braunschweig,6_Zimmer,101325,K031
+2019,Braunschweig,6_Zimmer,101984,K031
+2011,Braunschweig Stadt,6_Zimmer,10665,K03101
+2012,Braunschweig Stadt,6_Zimmer,10770,K03101
+2013,Braunschweig Stadt,6_Zimmer,10838,K03101
+2014,Braunschweig Stadt,6_Zimmer,10873,K03101
+2015,Braunschweig Stadt,6_Zimmer,10925,K03101
+2016,Braunschweig Stadt,6_Zimmer,10945,K03101
+2017,Braunschweig Stadt,6_Zimmer,10972,K03101
+2018,Braunschweig Stadt,6_Zimmer,11005,K03101
+2019,Braunschweig Stadt,6_Zimmer,11040,K03101
+2011,Salzgitter.Stadt,6_Zimmer,5038,K03102
+2012,Salzgitter.Stadt,6_Zimmer,5058,K03102
+2013,Salzgitter.Stadt,6_Zimmer,5084,K03102
+2014,Salzgitter.Stadt,6_Zimmer,5100,K03102
+2015,Salzgitter.Stadt,6_Zimmer,5116,K03102
+2016,Salzgitter.Stadt,6_Zimmer,5125,K03102
+2017,Salzgitter.Stadt,6_Zimmer,5148,K03102
+2018,Salzgitter.Stadt,6_Zimmer,5160,K03102
+2019,Salzgitter.Stadt,6_Zimmer,5177,K03102
+2011,Wolfsburg.Stadt,6_Zimmer,6244,K03103
+2012,Wolfsburg.Stadt,6_Zimmer,6327,K03103
+2013,Wolfsburg.Stadt,6_Zimmer,6351,K03103
+2014,Wolfsburg.Stadt,6_Zimmer,6387,K03103
+2015,Wolfsburg.Stadt,6_Zimmer,6417,K03103
+2016,Wolfsburg.Stadt,6_Zimmer,6504,K03103
+2017,Wolfsburg.Stadt,6_Zimmer,6548,K03103
+2018,Wolfsburg.Stadt,6_Zimmer,6571,K03103
+2019,Wolfsburg.Stadt,6_Zimmer,6587,K03103
+2011,Gifhorn,6_Zimmer,12917,K03151
+2012,Gifhorn,6_Zimmer,13005,K03151
+2013,Gifhorn,6_Zimmer,13169,K03151
+2014,Gifhorn,6_Zimmer,13311,K03151
+2015,Gifhorn,6_Zimmer,13434,K03151
+2016,Gifhorn,6_Zimmer,13562,K03151
+2017,Gifhorn,6_Zimmer,13733,K03151
+2018,Gifhorn,6_Zimmer,13879,K03151
+2019,Gifhorn,6_Zimmer,14041,K03151
+2011,Goslar,6_Zimmer,8449,K03153
+2012,Goslar,6_Zimmer,8450,K03153
+2013,Goslar,6_Zimmer,8466,K03153
+2014,Goslar,6_Zimmer,8472,K03153
+2015,Goslar,6_Zimmer,8488,K03153
+2016,Goslar,6_Zimmer,8501,K03153
+2017,Goslar,6_Zimmer,8516,K03153
+2018,Goslar,6_Zimmer,8528,K03153
+2019,Goslar,6_Zimmer,8556,K03153
+2011,Helmstedt,6_Zimmer,6742,K03154
+2012,Helmstedt,6_Zimmer,6750,K03154
+2013,Helmstedt,6_Zimmer,6769,K03154
+2014,Helmstedt,6_Zimmer,6812,K03154
+2015,Helmstedt,6_Zimmer,6851,K03154
+2016,Helmstedt,6_Zimmer,6927,K03154
+2017,Helmstedt,6_Zimmer,6989,K03154
+2018,Helmstedt,6_Zimmer,7070,K03154
+2019,Helmstedt,6_Zimmer,7130,K03154
+2011,Northeim,6_Zimmer,9749,K03155
+2012,Northeim,6_Zimmer,9762,K03155
+2013,Northeim,6_Zimmer,9770,K03155
+2014,Northeim,6_Zimmer,9779,K03155
+2015,Northeim,6_Zimmer,9803,K03155
+2016,Northeim,6_Zimmer,9827,K03155
+2017,Northeim,6_Zimmer,9848,K03155
+2018,Northeim,6_Zimmer,9887,K03155
+2019,Northeim,6_Zimmer,9922,K03155
+2011,Peine,6_Zimmer,9580,K03157
+2012,Peine,6_Zimmer,9637,K03157
+2013,Peine,6_Zimmer,9696,K03157
+2014,Peine,6_Zimmer,9772,K03157
+2015,Peine,6_Zimmer,9884,K03157
+2016,Peine,6_Zimmer,10012,K03157
+2017,Peine,6_Zimmer,10135,K03157
+2018,Peine,6_Zimmer,10225,K03157
+2019,Peine,6_Zimmer,10380,K03157
+2011,Wolfenbüttel,6_Zimmer,8485,K03158
+2012,Wolfenbüttel,6_Zimmer,8533,K03158
+2013,Wolfenbüttel,6_Zimmer,8571,K03158
+2014,Wolfenbüttel,6_Zimmer,8619,K03158
+2015,Wolfenbüttel,6_Zimmer,8694,K03158
+2016,Wolfenbüttel,6_Zimmer,8740,K03158
+2017,Wolfenbüttel,6_Zimmer,8787,K03158
+2018,Wolfenbüttel,6_Zimmer,8824,K03158
+2019,Wolfenbüttel,6_Zimmer,8880,K03158
+2011,Göttingen,6_Zimmer,19682,K03159
+2012,Göttingen,6_Zimmer,19722,K03159
+2013,Göttingen,6_Zimmer,19793,K03159
+2014,Göttingen,6_Zimmer,19886,K03159
+2015,Göttingen,6_Zimmer,19942,K03159
+2016,Göttingen,6_Zimmer,20018,K03159
+2017,Göttingen,6_Zimmer,20102,K03159
+2018,Göttingen,6_Zimmer,20176,K03159
+2019,Göttingen,6_Zimmer,20271,K03159
+2011,Hannover,6_Zimmer,124636,K032
+2012,Hannover,6_Zimmer,125425,K032
+2013,Hannover,6_Zimmer,126108,K032
+2014,Hannover,6_Zimmer,126878,K032
+2015,Hannover,6_Zimmer,127701,K032
+2016,Hannover,6_Zimmer,128520,K032
+2017,Hannover,6_Zimmer,129245,K032
+2018,Hannover,6_Zimmer,129975,K032
+2019,Hannover,6_Zimmer,130771,K032
+2011,Hannover Region,6_Zimmer,55269,K03241
+2012,Hannover Region,6_Zimmer,55758,K03241
+2013,Hannover Region,6_Zimmer,56145,K03241
+2014,Hannover Region,6_Zimmer,56648,K03241
+2015,Hannover Region,6_Zimmer,57160,K03241
+2016,Hannover Region,6_Zimmer,57590,K03241
+2017,Hannover Region,6_Zimmer,57976,K03241
+2018,Hannover Region,6_Zimmer,58296,K03241
+2019,Hannover Region,6_Zimmer,58672,K03241
+2011,Hannover Landeshauptstadt,6_Zimmer,17124,K03241001
+2012,Hannover Landeshauptstadt,6_Zimmer,17310,K03241001
+2013,Hannover Landeshauptstadt,6_Zimmer,17396,K03241001
+2014,Hannover Landeshauptstadt,6_Zimmer,17557,K03241001
+2015,Hannover Landeshauptstadt,6_Zimmer,17734,K03241001
+2016,Hannover Landeshauptstadt,6_Zimmer,17818,K03241001
+2017,Hannover Landeshauptstadt,6_Zimmer,17882,K03241001
+2018,Hannover Landeshauptstadt,6_Zimmer,17932,K03241001
+2019,Hannover Landeshauptstadt,6_Zimmer,17985,K03241001
+2011,Diepholz,6_Zimmer,16610,K03251
+2012,Diepholz,6_Zimmer,16737,K03251
+2013,Diepholz,6_Zimmer,16849,K03251
+2014,Diepholz,6_Zimmer,16935,K03251
+2015,Diepholz,6_Zimmer,17048,K03251
+2016,Diepholz,6_Zimmer,17179,K03251
+2017,Diepholz,6_Zimmer,17262,K03251
+2018,Diepholz,6_Zimmer,17383,K03251
+2019,Diepholz,6_Zimmer,17518,K03251
+2011,Hameln-Pyrmont,6_Zimmer,10048,K03252
+2012,Hameln-Pyrmont,6_Zimmer,10069,K03252
+2013,Hameln-Pyrmont,6_Zimmer,10103,K03252
+2014,Hameln-Pyrmont,6_Zimmer,10121,K03252
+2015,Hameln-Pyrmont,6_Zimmer,10151,K03252
+2016,Hameln-Pyrmont,6_Zimmer,10180,K03252
+2017,Hameln-Pyrmont,6_Zimmer,10225,K03252
+2018,Hameln-Pyrmont,6_Zimmer,10257,K03252
+2019,Hameln-Pyrmont,6_Zimmer,10282,K03252
+2011,Hildesheim,6_Zimmer,17828,K03254
+2012,Hildesheim,6_Zimmer,17888,K03254
+2013,Hildesheim,6_Zimmer,17963,K03254
+2014,Hildesheim,6_Zimmer,18031,K03254
+2015,Hildesheim,6_Zimmer,18115,K03254
+2016,Hildesheim,6_Zimmer,18213,K03254
+2017,Hildesheim,6_Zimmer,18303,K03254
+2018,Hildesheim,6_Zimmer,18385,K03254
+2019,Hildesheim,6_Zimmer,18510,K03254
+2011,Holzminden,6_Zimmer,5307,K03255
+2012,Holzminden,6_Zimmer,5313,K03255
+2013,Holzminden,6_Zimmer,5313,K03255
+2014,Holzminden,6_Zimmer,5320,K03255
+2015,Holzminden,6_Zimmer,5334,K03255
+2016,Holzminden,6_Zimmer,5341,K03255
+2017,Holzminden,6_Zimmer,5351,K03255
+2018,Holzminden,6_Zimmer,5373,K03255
+2019,Holzminden,6_Zimmer,5389,K03255
+2011,Nienburg (Weser),6_Zimmer,8771,K03256
+2012,Nienburg (Weser),6_Zimmer,8817,K03256
+2013,Nienburg (Weser),6_Zimmer,8850,K03256
+2014,Nienburg (Weser),6_Zimmer,8892,K03256
+2015,Nienburg (Weser),6_Zimmer,8930,K03256
+2016,Nienburg (Weser),6_Zimmer,9008,K03256
+2017,Nienburg (Weser),6_Zimmer,9056,K03256
+2018,Nienburg (Weser),6_Zimmer,9124,K03256
+2019,Nienburg (Weser),6_Zimmer,9183,K03256
+2011,Schaumburg,6_Zimmer,10803,K03257
+2012,Schaumburg,6_Zimmer,10843,K03257
+2013,Schaumburg,6_Zimmer,10885,K03257
+2014,Schaumburg,6_Zimmer,10931,K03257
+2015,Schaumburg,6_Zimmer,10963,K03257
+2016,Schaumburg,6_Zimmer,11009,K03257
+2017,Schaumburg,6_Zimmer,11072,K03257
+2018,Schaumburg,6_Zimmer,11157,K03257
+2019,Schaumburg,6_Zimmer,11217,K03257
+2011,Lüneburg,6_Zimmer,123484,K033
+2012,Lüneburg,6_Zimmer,124313,K033
+2013,Lüneburg,6_Zimmer,125176,K033
+2014,Lüneburg,6_Zimmer,126101,K033
+2015,Lüneburg,6_Zimmer,126872,K033
+2016,Lüneburg,6_Zimmer,128041,K033
+2017,Lüneburg,6_Zimmer,128803,K033
+2018,Lüneburg,6_Zimmer,129617,K033
+2019,Lüneburg,6_Zimmer,130455,K033
+2011,Celle,6_Zimmer,13347,K03351
+2012,Celle,6_Zimmer,13405,K03351
+2013,Celle,6_Zimmer,13458,K03351
+2014,Celle,6_Zimmer,13534,K03351
+2015,Celle,6_Zimmer,13598,K03351
+2016,Celle,6_Zimmer,13705,K03351
+2017,Celle,6_Zimmer,13746,K03351
+2018,Celle,6_Zimmer,13841,K03351
+2019,Celle,6_Zimmer,13939,K03351
+2011,Cuxhaven,6_Zimmer,15267,K03352
+2012,Cuxhaven,6_Zimmer,15351,K03352
+2013,Cuxhaven,6_Zimmer,15434,K03352
+2014,Cuxhaven,6_Zimmer,15576,K03352
+2015,Cuxhaven,6_Zimmer,15639,K03352
+2016,Cuxhaven,6_Zimmer,15749,K03352
+2017,Cuxhaven,6_Zimmer,15849,K03352
+2018,Cuxhaven,6_Zimmer,15934,K03352
+2019,Cuxhaven,6_Zimmer,16034,K03352
+2011,Harburg,6_Zimmer,17127,K03353
+2012,Harburg,6_Zimmer,17309,K03353
+2013,Harburg,6_Zimmer,17485,K03353
+2014,Harburg,6_Zimmer,17660,K03353
+2015,Harburg,6_Zimmer,17790,K03353
+2016,Harburg,6_Zimmer,18030,K03353
+2017,Harburg,6_Zimmer,18145,K03353
+2018,Harburg,6_Zimmer,18240,K03353
+2019,Harburg,6_Zimmer,18368,K03353
+2011,Lüchow-Dannenberg,6_Zimmer,3806,K03354
+2012,Lüchow-Dannenberg,6_Zimmer,3812,K03354
+2013,Lüchow-Dannenberg,6_Zimmer,3825,K03354
+2014,Lüchow-Dannenberg,6_Zimmer,3834,K03354
+2015,Lüchow-Dannenberg,6_Zimmer,3842,K03354
+2016,Lüchow-Dannenberg,6_Zimmer,3861,K03354
+2017,Lüchow-Dannenberg,6_Zimmer,3870,K03354
+2018,Lüchow-Dannenberg,6_Zimmer,3887,K03354
+2019,Lüchow-Dannenberg,6_Zimmer,3902,K03354
+2011,Lüneburg,6_Zimmer,11607,K03355
+2012,Lüneburg,6_Zimmer,11701,K03355
+2013,Lüneburg,6_Zimmer,11820,K03355
+2014,Lüneburg,6_Zimmer,11901,K03355
+2015,Lüneburg,6_Zimmer,11970,K03355
+2016,Lüneburg,6_Zimmer,12099,K03355
+2017,Lüneburg,6_Zimmer,12193,K03355
+2018,Lüneburg,6_Zimmer,12260,K03355
+2019,Lüneburg,6_Zimmer,12267,K03355
+2011,Osterholz,6_Zimmer,9019,K03356
+2012,Osterholz,6_Zimmer,9079,K03356
+2013,Osterholz,6_Zimmer,9105,K03356
+2014,Osterholz,6_Zimmer,9172,K03356
+2015,Osterholz,6_Zimmer,9247,K03356
+2016,Osterholz,6_Zimmer,9308,K03356
+2017,Osterholz,6_Zimmer,9389,K03356
+2018,Osterholz,6_Zimmer,9467,K03356
+2019,Osterholz,6_Zimmer,9585,K03356
+2011,Rotenburg (Wümme),6_Zimmer,12668,K03357
+2012,Rotenburg (Wümme),6_Zimmer,12752,K03357
+2013,Rotenburg (Wümme),6_Zimmer,12807,K03357
+2014,Rotenburg (Wümme),6_Zimmer,12895,K03357
+2015,Rotenburg (Wümme),6_Zimmer,12957,K03357
+2016,Rotenburg (Wümme),6_Zimmer,13074,K03357
+2017,Rotenburg (Wümme),6_Zimmer,13156,K03357
+2018,Rotenburg (Wümme),6_Zimmer,13261,K03357
+2019,Rotenburg (Wümme),6_Zimmer,13364,K03357
+2011,Heidekreis,6_Zimmer,9826,K03358
+2012,Heidekreis,6_Zimmer,9855,K03358
+2013,Heidekreis,6_Zimmer,9897,K03358
+2014,Heidekreis,6_Zimmer,9960,K03358
+2015,Heidekreis,6_Zimmer,9992,K03358
+2016,Heidekreis,6_Zimmer,10043,K03358
+2017,Heidekreis,6_Zimmer,10089,K03358
+2018,Heidekreis,6_Zimmer,10140,K03358
+2019,Heidekreis,6_Zimmer,10168,K03358
+2011,Stade,6_Zimmer,13873,K03359
+2012,Stade,6_Zimmer,14012,K03359
+2013,Stade,6_Zimmer,14197,K03359
+2014,Stade,6_Zimmer,14327,K03359
+2015,Stade,6_Zimmer,14492,K03359
+2016,Stade,6_Zimmer,14689,K03359
+2017,Stade,6_Zimmer,14783,K03359
+2018,Stade,6_Zimmer,14941,K03359
+2019,Stade,6_Zimmer,15081,K03359
+2011,Uelzen,6_Zimmer,6701,K03360
+2012,Uelzen,6_Zimmer,6722,K03360
+2013,Uelzen,6_Zimmer,6736,K03360
+2014,Uelzen,6_Zimmer,6754,K03360
+2015,Uelzen,6_Zimmer,6776,K03360
+2016,Uelzen,6_Zimmer,6814,K03360
+2017,Uelzen,6_Zimmer,6838,K03360
+2018,Uelzen,6_Zimmer,6852,K03360
+2019,Uelzen,6_Zimmer,6879,K03360
+2011,Verden,6_Zimmer,10243,K03361
+2012,Verden,6_Zimmer,10315,K03361
+2013,Verden,6_Zimmer,10412,K03361
+2014,Verden,6_Zimmer,10488,K03361
+2015,Verden,6_Zimmer,10569,K03361
+2016,Verden,6_Zimmer,10669,K03361
+2017,Verden,6_Zimmer,10745,K03361
+2018,Verden,6_Zimmer,10794,K03361
+2019,Verden,6_Zimmer,10868,K03361
+2011,Weser-Ems,6_Zimmer,177904,K034
+2012,Weser-Ems,6_Zimmer,179517,K034
+2013,Weser-Ems,6_Zimmer,181240,K034
+2014,Weser-Ems,6_Zimmer,183010,K034
+2015,Weser-Ems,6_Zimmer,184655,K034
+2016,Weser-Ems,6_Zimmer,186437,K034
+2017,Weser-Ems,6_Zimmer,188179,K034
+2018,Weser-Ems,6_Zimmer,189755,K034
+2019,Weser-Ems,6_Zimmer,191317,K034
+2011,Delmenhorst.Stadt,6_Zimmer,5041,K03401
+2012,Delmenhorst.Stadt,6_Zimmer,5074,K03401
+2013,Delmenhorst.Stadt,6_Zimmer,5096,K03401
+2014,Delmenhorst.Stadt,6_Zimmer,5117,K03401
+2015,Delmenhorst.Stadt,6_Zimmer,5142,K03401
+2016,Delmenhorst.Stadt,6_Zimmer,5158,K03401
+2017,Delmenhorst.Stadt,6_Zimmer,5173,K03401
+2018,Delmenhorst.Stadt,6_Zimmer,5192,K03401
+2019,Delmenhorst.Stadt,6_Zimmer,5193,K03401
+2011,Emden Stadt,6_Zimmer,3625,K03402
+2012,Emden Stadt,6_Zimmer,3654,K03402
+2013,Emden Stadt,6_Zimmer,3689,K03402
+2014,Emden Stadt,6_Zimmer,3707,K03402
+2015,Emden Stadt,6_Zimmer,3716,K03402
+2016,Emden Stadt,6_Zimmer,3737,K03402
+2017,Emden Stadt,6_Zimmer,3752,K03402
+2018,Emden Stadt,6_Zimmer,3763,K03402
+2019,Emden Stadt,6_Zimmer,3762,K03402
+2011,Oldenburg (Oldb) Stadt,6_Zimmer,10188,K03403
+2012,Oldenburg (Oldb) Stadt,6_Zimmer,10300,K03403
+2013,Oldenburg (Oldb) Stadt,6_Zimmer,10372,K03403
+2014,Oldenburg (Oldb) Stadt,6_Zimmer,10425,K03403
+2015,Oldenburg (Oldb) Stadt,6_Zimmer,10501,K03403
+2016,Oldenburg (Oldb) Stadt,6_Zimmer,10540,K03403
+2017,Oldenburg (Oldb) Stadt,6_Zimmer,10572,K03403
+2018,Oldenburg (Oldb) Stadt,6_Zimmer,10609,K03403
+2019,Oldenburg (Oldb) Stadt,6_Zimmer,10683,K03403
+2011,Osnabrück Stadt,6_Zimmer,7338,K03404
+2012,Osnabrück Stadt,6_Zimmer,7402,K03404
+2013,Osnabrück Stadt,6_Zimmer,7460,K03404
+2014,Osnabrück Stadt,6_Zimmer,7532,K03404
+2015,Osnabrück Stadt,6_Zimmer,7590,K03404
+2016,Osnabrück Stadt,6_Zimmer,7660,K03404
+2017,Osnabrück Stadt,6_Zimmer,7694,K03404
+2018,Osnabrück Stadt,6_Zimmer,7730,K03404
+2019,Osnabrück Stadt,6_Zimmer,7736,K03404
+2011,Wilhelmshaven Stadt,6_Zimmer,3847,K03405
+2012,Wilhelmshaven Stadt,6_Zimmer,3856,K03405
+2013,Wilhelmshaven Stadt,6_Zimmer,3851,K03405
+2014,Wilhelmshaven Stadt,6_Zimmer,3873,K03405
+2015,Wilhelmshaven Stadt,6_Zimmer,3879,K03405
+2016,Wilhelmshaven Stadt,6_Zimmer,3888,K03405
+2017,Wilhelmshaven Stadt,6_Zimmer,3904,K03405
+2018,Wilhelmshaven Stadt,6_Zimmer,3919,K03405
+2019,Wilhelmshaven Stadt,6_Zimmer,3923,K03405
+2011,Ammerland,6_Zimmer,9938,K03451
+2012,Ammerland,6_Zimmer,10077,K03451
+2013,Ammerland,6_Zimmer,10235,K03451
+2014,Ammerland,6_Zimmer,10359,K03451
+2015,Ammerland,6_Zimmer,10419,K03451
+2016,Ammerland,6_Zimmer,10523,K03451
+2017,Ammerland,6_Zimmer,10626,K03451
+2018,Ammerland,6_Zimmer,10719,K03451
+2019,Ammerland,6_Zimmer,10818,K03451
+2011,Aurich,6_Zimmer,17338,K03452
+2012,Aurich,6_Zimmer,17476,K03452
+2013,Aurich,6_Zimmer,17607,K03452
+2014,Aurich,6_Zimmer,17737,K03452
+2015,Aurich,6_Zimmer,17856,K03452
+2016,Aurich,6_Zimmer,17994,K03452
+2017,Aurich,6_Zimmer,18093,K03452
+2018,Aurich,6_Zimmer,18160,K03452
+2019,Aurich,6_Zimmer,18265,K03452
+2011,Cloppenburg,6_Zimmer,9939,K03453
+2012,Cloppenburg,6_Zimmer,10047,K03453
+2013,Cloppenburg,6_Zimmer,10206,K03453
+2014,Cloppenburg,6_Zimmer,10384,K03453
+2015,Cloppenburg,6_Zimmer,10538,K03453
+2016,Cloppenburg,6_Zimmer,10733,K03453
+2017,Cloppenburg,6_Zimmer,10945,K03453
+2018,Cloppenburg,6_Zimmer,11138,K03453
+2019,Cloppenburg,6_Zimmer,11322,K03453
+2011,Emsland,6_Zimmer,21951,K03454
+2012,Emsland,6_Zimmer,22246,K03454
+2013,Emsland,6_Zimmer,22583,K03454
+2014,Emsland,6_Zimmer,22911,K03454
+2015,Emsland,6_Zimmer,23199,K03454
+2016,Emsland,6_Zimmer,23498,K03454
+2017,Emsland,6_Zimmer,23828,K03454
+2018,Emsland,6_Zimmer,24094,K03454
+2019,Emsland,6_Zimmer,24414,K03454
+2011,Friesland,6_Zimmer,8878,K03455
+2012,Friesland,6_Zimmer,8915,K03455
+2013,Friesland,6_Zimmer,8962,K03455
+2014,Friesland,6_Zimmer,9026,K03455
+2015,Friesland,6_Zimmer,9085,K03455
+2016,Friesland,6_Zimmer,9155,K03455
+2017,Friesland,6_Zimmer,9229,K03455
+2018,Friesland,6_Zimmer,9331,K03455
+2019,Friesland,6_Zimmer,9394,K03455
+2011,Grafschaft Bentheim,6_Zimmer,10071,K03456
+2012,Grafschaft Bentheim,6_Zimmer,10180,K03456
+2013,Grafschaft Bentheim,6_Zimmer,10334,K03456
+2014,Grafschaft Bentheim,6_Zimmer,10491,K03456
+2015,Grafschaft Bentheim,6_Zimmer,10618,K03456
+2016,Grafschaft Bentheim,6_Zimmer,10733,K03456
+2017,Grafschaft Bentheim,6_Zimmer,10900,K03456
+2018,Grafschaft Bentheim,6_Zimmer,11019,K03456
+2019,Grafschaft Bentheim,6_Zimmer,11100,K03456
+2011,Leer,6_Zimmer,14564,K03457
+2012,Leer,6_Zimmer,14659,K03457
+2013,Leer,6_Zimmer,14820,K03457
+2014,Leer,6_Zimmer,14936,K03457
+2015,Leer,6_Zimmer,15109,K03457
+2016,Leer,6_Zimmer,15269,K03457
+2017,Leer,6_Zimmer,15404,K03457
+2018,Leer,6_Zimmer,15515,K03457
+2019,Leer,6_Zimmer,15610,K03457
+2011,Oldenburg,6_Zimmer,10087,K03458
+2012,Oldenburg,6_Zimmer,10127,K03458
+2013,Oldenburg,6_Zimmer,10180,K03458
+2014,Oldenburg,6_Zimmer,10225,K03458
+2015,Oldenburg,6_Zimmer,10324,K03458
+2016,Oldenburg,6_Zimmer,10398,K03458
+2017,Oldenburg,6_Zimmer,10455,K03458
+2018,Oldenburg,6_Zimmer,10538,K03458
+2019,Oldenburg,6_Zimmer,10620,K03458
+2011,Osnabrück,6_Zimmer,23645,K03459
+2012,Osnabrück,6_Zimmer,23855,K03459
+2013,Osnabrück,6_Zimmer,24012,K03459
+2014,Osnabrück,6_Zimmer,24243,K03459
+2015,Osnabrück,6_Zimmer,24492,K03459
+2016,Osnabrück,6_Zimmer,24706,K03459
+2017,Osnabrück,6_Zimmer,24907,K03459
+2018,Osnabrück,6_Zimmer,25098,K03459
+2019,Osnabrück,6_Zimmer,25321,K03459
+2011,Vechta,6_Zimmer,8993,K03460
+2012,Vechta,6_Zimmer,9141,K03460
+2013,Vechta,6_Zimmer,9285,K03460
+2014,Vechta,6_Zimmer,9432,K03460
+2015,Vechta,6_Zimmer,9527,K03460
+2016,Vechta,6_Zimmer,9688,K03460
+2017,Vechta,6_Zimmer,9840,K03460
+2018,Vechta,6_Zimmer,10006,K03460
+2019,Vechta,6_Zimmer,10136,K03460
+2011,Wesermarsch,6_Zimmer,7473,K03461
+2012,Wesermarsch,6_Zimmer,7499,K03461
+2013,Wesermarsch,6_Zimmer,7512,K03461
+2014,Wesermarsch,6_Zimmer,7529,K03461
+2015,Wesermarsch,6_Zimmer,7544,K03461
+2016,Wesermarsch,6_Zimmer,7574,K03461
+2017,Wesermarsch,6_Zimmer,7616,K03461
+2018,Wesermarsch,6_Zimmer,7649,K03461
+2019,Wesermarsch,6_Zimmer,7687,K03461
+2011,Wittmund,6_Zimmer,4988,K03462
+2012,Wittmund,6_Zimmer,5009,K03462
+2013,Wittmund,6_Zimmer,5036,K03462
+2014,Wittmund,6_Zimmer,5083,K03462
+2015,Wittmund,6_Zimmer,5116,K03462
+2016,Wittmund,6_Zimmer,5183,K03462
+2017,Wittmund,6_Zimmer,5241,K03462
+2018,Wittmund,6_Zimmer,5275,K03462
+2019,Wittmund,6_Zimmer,5333,K03462
+2011,Niedersachsen,7-und_mehr_Zimmer,698043,K030
+2012,Niedersachsen,7-und_mehr_Zimmer,702259,K030
+2013,Niedersachsen,7-und_mehr_Zimmer,706642,K030
+2014,Niedersachsen,7-und_mehr_Zimmer,711207,K030
+2015,Niedersachsen,7-und_mehr_Zimmer,715574,K030
+2016,Niedersachsen,7-und_mehr_Zimmer,720350,K030
+2017,Niedersachsen,7-und_mehr_Zimmer,724550,K030
+2018,Niedersachsen,7-und_mehr_Zimmer,728570,K030
+2019,Niedersachsen,7-und_mehr_Zimmer,732723,K030
+2011,Braunschweig,7-und_mehr_Zimmer,123663,K031
+2012,Braunschweig,7-und_mehr_Zimmer,124226,K031
+2013,Braunschweig,7-und_mehr_Zimmer,124755,K031
+2014,Braunschweig,7-und_mehr_Zimmer,125259,K031
+2015,Braunschweig,7-und_mehr_Zimmer,125756,K031
+2016,Braunschweig,7-und_mehr_Zimmer,126457,K031
+2017,Braunschweig,7-und_mehr_Zimmer,127055,K031
+2018,Braunschweig,7-und_mehr_Zimmer,127559,K031
+2019,Braunschweig,7-und_mehr_Zimmer,128122,K031
+2011,Braunschweig Stadt,7-und_mehr_Zimmer,9269,K03101
+2012,Braunschweig Stadt,7-und_mehr_Zimmer,9356,K03101
+2013,Braunschweig Stadt,7-und_mehr_Zimmer,9416,K03101
+2014,Braunschweig Stadt,7-und_mehr_Zimmer,9456,K03101
+2015,Braunschweig Stadt,7-und_mehr_Zimmer,9515,K03101
+2016,Braunschweig Stadt,7-und_mehr_Zimmer,9605,K03101
+2017,Braunschweig Stadt,7-und_mehr_Zimmer,9633,K03101
+2018,Braunschweig Stadt,7-und_mehr_Zimmer,9661,K03101
+2019,Braunschweig Stadt,7-und_mehr_Zimmer,9699,K03101
+2011,Salzgitter.Stadt,7-und_mehr_Zimmer,4921,K03102
+2012,Salzgitter.Stadt,7-und_mehr_Zimmer,4936,K03102
+2013,Salzgitter.Stadt,7-und_mehr_Zimmer,4950,K03102
+2014,Salzgitter.Stadt,7-und_mehr_Zimmer,4959,K03102
+2015,Salzgitter.Stadt,7-und_mehr_Zimmer,4974,K03102
+2016,Salzgitter.Stadt,7-und_mehr_Zimmer,4991,K03102
+2017,Salzgitter.Stadt,7-und_mehr_Zimmer,5017,K03102
+2018,Salzgitter.Stadt,7-und_mehr_Zimmer,5028,K03102
+2019,Salzgitter.Stadt,7-und_mehr_Zimmer,5042,K03102
+2011,Wolfsburg.Stadt,7-und_mehr_Zimmer,6417,K03103
+2012,Wolfsburg.Stadt,7-und_mehr_Zimmer,6473,K03103
+2013,Wolfsburg.Stadt,7-und_mehr_Zimmer,6511,K03103
+2014,Wolfsburg.Stadt,7-und_mehr_Zimmer,6549,K03103
+2015,Wolfsburg.Stadt,7-und_mehr_Zimmer,6584,K03103
+2016,Wolfsburg.Stadt,7-und_mehr_Zimmer,6661,K03103
+2017,Wolfsburg.Stadt,7-und_mehr_Zimmer,6719,K03103
+2018,Wolfsburg.Stadt,7-und_mehr_Zimmer,6744,K03103
+2019,Wolfsburg.Stadt,7-und_mehr_Zimmer,6763,K03103
+2011,Gifhorn,7-und_mehr_Zimmer,18365,K03151
+2012,Gifhorn,7-und_mehr_Zimmer,18468,K03151
+2013,Gifhorn,7-und_mehr_Zimmer,18587,K03151
+2014,Gifhorn,7-und_mehr_Zimmer,18712,K03151
+2015,Gifhorn,7-und_mehr_Zimmer,18816,K03151
+2016,Gifhorn,7-und_mehr_Zimmer,18939,K03151
+2017,Gifhorn,7-und_mehr_Zimmer,19086,K03151
+2018,Gifhorn,7-und_mehr_Zimmer,19202,K03151
+2019,Gifhorn,7-und_mehr_Zimmer,19327,K03151
+2011,Goslar,7-und_mehr_Zimmer,11037,K03153
+2012,Goslar,7-und_mehr_Zimmer,11052,K03153
+2013,Goslar,7-und_mehr_Zimmer,11072,K03153
+2014,Goslar,7-und_mehr_Zimmer,11094,K03153
+2015,Goslar,7-und_mehr_Zimmer,11109,K03153
+2016,Goslar,7-und_mehr_Zimmer,11138,K03153
+2017,Goslar,7-und_mehr_Zimmer,11162,K03153
+2018,Goslar,7-und_mehr_Zimmer,11173,K03153
+2019,Goslar,7-und_mehr_Zimmer,11202,K03153
+2011,Helmstedt,7-und_mehr_Zimmer,8187,K03154
+2012,Helmstedt,7-und_mehr_Zimmer,8210,K03154
+2013,Helmstedt,7-und_mehr_Zimmer,8237,K03154
+2014,Helmstedt,7-und_mehr_Zimmer,8277,K03154
+2015,Helmstedt,7-und_mehr_Zimmer,8300,K03154
+2016,Helmstedt,7-und_mehr_Zimmer,8344,K03154
+2017,Helmstedt,7-und_mehr_Zimmer,8371,K03154
+2018,Helmstedt,7-und_mehr_Zimmer,8430,K03154
+2019,Helmstedt,7-und_mehr_Zimmer,8466,K03154
+2011,Northeim,7-und_mehr_Zimmer,15280,K03155
+2012,Northeim,7-und_mehr_Zimmer,15315,K03155
+2013,Northeim,7-und_mehr_Zimmer,15343,K03155
+2014,Northeim,7-und_mehr_Zimmer,15374,K03155
+2015,Northeim,7-und_mehr_Zimmer,15399,K03155
+2016,Northeim,7-und_mehr_Zimmer,15443,K03155
+2017,Northeim,7-und_mehr_Zimmer,15480,K03155
+2018,Northeim,7-und_mehr_Zimmer,15534,K03155
+2019,Northeim,7-und_mehr_Zimmer,15568,K03155
+2011,Peine,7-und_mehr_Zimmer,12356,K03157
+2012,Peine,7-und_mehr_Zimmer,12428,K03157
+2013,Peine,7-und_mehr_Zimmer,12496,K03157
+2014,Peine,7-und_mehr_Zimmer,12567,K03157
+2015,Peine,7-und_mehr_Zimmer,12651,K03157
+2016,Peine,7-und_mehr_Zimmer,12747,K03157
+2017,Peine,7-und_mehr_Zimmer,12866,K03157
+2018,Peine,7-und_mehr_Zimmer,12943,K03157
+2019,Peine,7-und_mehr_Zimmer,13092,K03157
+2011,Wolfenbüttel,7-und_mehr_Zimmer,10850,K03158
+2012,Wolfenbüttel,7-und_mehr_Zimmer,10894,K03158
+2013,Wolfenbüttel,7-und_mehr_Zimmer,10939,K03158
+2014,Wolfenbüttel,7-und_mehr_Zimmer,10966,K03158
+2015,Wolfenbüttel,7-und_mehr_Zimmer,11018,K03158
+2016,Wolfenbüttel,7-und_mehr_Zimmer,11072,K03158
+2017,Wolfenbüttel,7-und_mehr_Zimmer,11123,K03158
+2018,Wolfenbüttel,7-und_mehr_Zimmer,11164,K03158
+2019,Wolfenbüttel,7-und_mehr_Zimmer,11199,K03158
+2011,Göttingen,7-und_mehr_Zimmer,26981,K03159
+2012,Göttingen,7-und_mehr_Zimmer,27094,K03159
+2013,Göttingen,7-und_mehr_Zimmer,27204,K03159
+2014,Göttingen,7-und_mehr_Zimmer,27305,K03159
+2015,Göttingen,7-und_mehr_Zimmer,27390,K03159
+2016,Göttingen,7-und_mehr_Zimmer,27517,K03159
+2017,Göttingen,7-und_mehr_Zimmer,27598,K03159
+2018,Göttingen,7-und_mehr_Zimmer,27680,K03159
+2019,Göttingen,7-und_mehr_Zimmer,27764,K03159
+2011,Hannover,7-und_mehr_Zimmer,151085,K032
+2012,Hannover,7-und_mehr_Zimmer,151852,K032
+2013,Hannover,7-und_mehr_Zimmer,152553,K032
+2014,Hannover,7-und_mehr_Zimmer,153284,K032
+2015,Hannover,7-und_mehr_Zimmer,154054,K032
+2016,Hannover,7-und_mehr_Zimmer,154752,K032
+2017,Hannover,7-und_mehr_Zimmer,155409,K032
+2018,Hannover,7-und_mehr_Zimmer,156103,K032
+2019,Hannover,7-und_mehr_Zimmer,156792,K032
+2011,Hannover Region,7-und_mehr_Zimmer,55439,K03241
+2012,Hannover Region,7-und_mehr_Zimmer,55892,K03241
+2013,Hannover Region,7-und_mehr_Zimmer,56249,K03241
+2014,Hannover Region,7-und_mehr_Zimmer,56648,K03241
+2015,Hannover Region,7-und_mehr_Zimmer,57048,K03241
+2016,Hannover Region,7-und_mehr_Zimmer,57408,K03241
+2017,Hannover Region,7-und_mehr_Zimmer,57714,K03241
+2018,Hannover Region,7-und_mehr_Zimmer,58024,K03241
+2019,Hannover Region,7-und_mehr_Zimmer,58341,K03241
+2011,Hannover Landeshauptstadt,7-und_mehr_Zimmer,13863,K03241001
+2012,Hannover Landeshauptstadt,7-und_mehr_Zimmer,14020,K03241001
+2013,Hannover Landeshauptstadt,7-und_mehr_Zimmer,14106,K03241001
+2014,Hannover Landeshauptstadt,7-und_mehr_Zimmer,14181,K03241001
+2015,Hannover Landeshauptstadt,7-und_mehr_Zimmer,14299,K03241001
+2016,Hannover Landeshauptstadt,7-und_mehr_Zimmer,14363,K03241001
+2017,Hannover Landeshauptstadt,7-und_mehr_Zimmer,14414,K03241001
+2018,Hannover Landeshauptstadt,7-und_mehr_Zimmer,14475,K03241001
+2019,Hannover Landeshauptstadt,7-und_mehr_Zimmer,14541,K03241001
+2011,Diepholz,7-und_mehr_Zimmer,23443,K03251
+2012,Diepholz,7-und_mehr_Zimmer,23558,K03251
+2013,Diepholz,7-und_mehr_Zimmer,23694,K03251
+2014,Diepholz,7-und_mehr_Zimmer,23843,K03251
+2015,Diepholz,7-und_mehr_Zimmer,23966,K03251
+2016,Diepholz,7-und_mehr_Zimmer,24080,K03251
+2017,Diepholz,7-und_mehr_Zimmer,24202,K03251
+2018,Diepholz,7-und_mehr_Zimmer,24312,K03251
+2019,Diepholz,7-und_mehr_Zimmer,24401,K03251
+2011,Hameln-Pyrmont,7-und_mehr_Zimmer,12846,K03252
+2012,Hameln-Pyrmont,7-und_mehr_Zimmer,12880,K03252
+2013,Hameln-Pyrmont,7-und_mehr_Zimmer,12912,K03252
+2014,Hameln-Pyrmont,7-und_mehr_Zimmer,12949,K03252
+2015,Hameln-Pyrmont,7-und_mehr_Zimmer,12970,K03252
+2016,Hameln-Pyrmont,7-und_mehr_Zimmer,12999,K03252
+2017,Hameln-Pyrmont,7-und_mehr_Zimmer,13034,K03252
+2018,Hameln-Pyrmont,7-und_mehr_Zimmer,13067,K03252
+2019,Hameln-Pyrmont,7-und_mehr_Zimmer,13100,K03252
+2011,Hildesheim,7-und_mehr_Zimmer,22430,K03254
+2012,Hildesheim,7-und_mehr_Zimmer,22482,K03254
+2013,Hildesheim,7-und_mehr_Zimmer,22570,K03254
+2014,Hildesheim,7-und_mehr_Zimmer,22628,K03254
+2015,Hildesheim,7-und_mehr_Zimmer,22717,K03254
+2016,Hildesheim,7-und_mehr_Zimmer,22810,K03254
+2017,Hildesheim,7-und_mehr_Zimmer,22884,K03254
+2018,Hildesheim,7-und_mehr_Zimmer,22970,K03254
+2019,Hildesheim,7-und_mehr_Zimmer,23063,K03254
+2011,Holzminden,7-und_mehr_Zimmer,8199,K03255
+2012,Holzminden,7-und_mehr_Zimmer,8228,K03255
+2013,Holzminden,7-und_mehr_Zimmer,8237,K03255
+2014,Holzminden,7-und_mehr_Zimmer,8241,K03255
+2015,Holzminden,7-und_mehr_Zimmer,8267,K03255
+2016,Holzminden,7-und_mehr_Zimmer,8285,K03255
+2017,Holzminden,7-und_mehr_Zimmer,8296,K03255
+2018,Holzminden,7-und_mehr_Zimmer,8324,K03255
+2019,Holzminden,7-und_mehr_Zimmer,8343,K03255
+2011,Nienburg (Weser),7-und_mehr_Zimmer,14057,K03256
+2012,Nienburg (Weser),7-und_mehr_Zimmer,14084,K03256
+2013,Nienburg (Weser),7-und_mehr_Zimmer,14114,K03256
+2014,Nienburg (Weser),7-und_mehr_Zimmer,14145,K03256
+2015,Nienburg (Weser),7-und_mehr_Zimmer,14185,K03256
+2016,Nienburg (Weser),7-und_mehr_Zimmer,14234,K03256
+2017,Nienburg (Weser),7-und_mehr_Zimmer,14276,K03256
+2018,Nienburg (Weser),7-und_mehr_Zimmer,14329,K03256
+2019,Nienburg (Weser),7-und_mehr_Zimmer,14384,K03256
+2011,Schaumburg,7-und_mehr_Zimmer,14671,K03257
+2012,Schaumburg,7-und_mehr_Zimmer,14728,K03257
+2013,Schaumburg,7-und_mehr_Zimmer,14777,K03257
+2014,Schaumburg,7-und_mehr_Zimmer,14830,K03257
+2015,Schaumburg,7-und_mehr_Zimmer,14901,K03257
+2016,Schaumburg,7-und_mehr_Zimmer,14936,K03257
+2017,Schaumburg,7-und_mehr_Zimmer,15003,K03257
+2018,Schaumburg,7-und_mehr_Zimmer,15077,K03257
+2019,Schaumburg,7-und_mehr_Zimmer,15160,K03257
+2011,Lüneburg,7-und_mehr_Zimmer,154691,K033
+2012,Lüneburg,7-und_mehr_Zimmer,155463,K033
+2013,Lüneburg,7-und_mehr_Zimmer,156484,K033
+2014,Lüneburg,7-und_mehr_Zimmer,157516,K033
+2015,Lüneburg,7-und_mehr_Zimmer,158539,K033
+2016,Lüneburg,7-und_mehr_Zimmer,159725,K033
+2017,Lüneburg,7-und_mehr_Zimmer,160659,K033
+2018,Lüneburg,7-und_mehr_Zimmer,161537,K033
+2019,Lüneburg,7-und_mehr_Zimmer,162455,K033
+2011,Celle,7-und_mehr_Zimmer,17177,K03351
+2012,Celle,7-und_mehr_Zimmer,17089,K03351
+2013,Celle,7-und_mehr_Zimmer,17155,K03351
+2014,Celle,7-und_mehr_Zimmer,17259,K03351
+2015,Celle,7-und_mehr_Zimmer,17341,K03351
+2016,Celle,7-und_mehr_Zimmer,17471,K03351
+2017,Celle,7-und_mehr_Zimmer,17552,K03351
+2018,Celle,7-und_mehr_Zimmer,17676,K03351
+2019,Celle,7-und_mehr_Zimmer,17791,K03351
+2011,Cuxhaven,7-und_mehr_Zimmer,18253,K03352
+2012,Cuxhaven,7-und_mehr_Zimmer,18359,K03352
+2013,Cuxhaven,7-und_mehr_Zimmer,18491,K03352
+2014,Cuxhaven,7-und_mehr_Zimmer,18626,K03352
+2015,Cuxhaven,7-und_mehr_Zimmer,18748,K03352
+2016,Cuxhaven,7-und_mehr_Zimmer,18899,K03352
+2017,Cuxhaven,7-und_mehr_Zimmer,19020,K03352
+2018,Cuxhaven,7-und_mehr_Zimmer,19127,K03352
+2019,Cuxhaven,7-und_mehr_Zimmer,19280,K03352
+2011,Harburg,7-und_mehr_Zimmer,17930,K03353
+2012,Harburg,7-und_mehr_Zimmer,18082,K03353
+2013,Harburg,7-und_mehr_Zimmer,18216,K03353
+2014,Harburg,7-und_mehr_Zimmer,18336,K03353
+2015,Harburg,7-und_mehr_Zimmer,18455,K03353
+2016,Harburg,7-und_mehr_Zimmer,18617,K03353
+2017,Harburg,7-und_mehr_Zimmer,18720,K03353
+2018,Harburg,7-und_mehr_Zimmer,18806,K03353
+2019,Harburg,7-und_mehr_Zimmer,18912,K03353
+2011,Lüchow-Dannenberg,7-und_mehr_Zimmer,5882,K03354
+2012,Lüchow-Dannenberg,7-und_mehr_Zimmer,5888,K03354
+2013,Lüchow-Dannenberg,7-und_mehr_Zimmer,5902,K03354
+2014,Lüchow-Dannenberg,7-und_mehr_Zimmer,5923,K03354
+2015,Lüchow-Dannenberg,7-und_mehr_Zimmer,5949,K03354
+2016,Lüchow-Dannenberg,7-und_mehr_Zimmer,5982,K03354
+2017,Lüchow-Dannenberg,7-und_mehr_Zimmer,5993,K03354
+2018,Lüchow-Dannenberg,7-und_mehr_Zimmer,6005,K03354
+2019,Lüchow-Dannenberg,7-und_mehr_Zimmer,6022,K03354
+2011,Lüneburg,7-und_mehr_Zimmer,13111,K03355
+2012,Lüneburg,7-und_mehr_Zimmer,13249,K03355
+2013,Lüneburg,7-und_mehr_Zimmer,13388,K03355
+2014,Lüneburg,7-und_mehr_Zimmer,13483,K03355
+2015,Lüneburg,7-und_mehr_Zimmer,13570,K03355
+2016,Lüneburg,7-und_mehr_Zimmer,13694,K03355
+2017,Lüneburg,7-und_mehr_Zimmer,13804,K03355
+2018,Lüneburg,7-und_mehr_Zimmer,13889,K03355
+2019,Lüneburg,7-und_mehr_Zimmer,13896,K03355
+2011,Osterholz,7-und_mehr_Zimmer,10433,K03356
+2012,Osterholz,7-und_mehr_Zimmer,10523,K03356
+2013,Osterholz,7-und_mehr_Zimmer,10595,K03356
+2014,Osterholz,7-und_mehr_Zimmer,10670,K03356
+2015,Osterholz,7-und_mehr_Zimmer,10757,K03356
+2016,Osterholz,7-und_mehr_Zimmer,10816,K03356
+2017,Osterholz,7-und_mehr_Zimmer,10897,K03356
+2018,Osterholz,7-und_mehr_Zimmer,10953,K03356
+2019,Osterholz,7-und_mehr_Zimmer,11042,K03356
+2011,Rotenburg (Wümme),7-und_mehr_Zimmer,19479,K03357
+2012,Rotenburg (Wümme),7-und_mehr_Zimmer,19555,K03357
+2013,Rotenburg (Wümme),7-und_mehr_Zimmer,19643,K03357
+2014,Rotenburg (Wümme),7-und_mehr_Zimmer,19769,K03357
+2015,Rotenburg (Wümme),7-und_mehr_Zimmer,19905,K03357
+2016,Rotenburg (Wümme),7-und_mehr_Zimmer,20037,K03357
+2017,Rotenburg (Wümme),7-und_mehr_Zimmer,20159,K03357
+2018,Rotenburg (Wümme),7-und_mehr_Zimmer,20280,K03357
+2019,Rotenburg (Wümme),7-und_mehr_Zimmer,20396,K03357
+2011,Heidekreis,7-und_mehr_Zimmer,13363,K03358
+2012,Heidekreis,7-und_mehr_Zimmer,13405,K03358
+2013,Heidekreis,7-und_mehr_Zimmer,13459,K03358
+2014,Heidekreis,7-und_mehr_Zimmer,13539,K03358
+2015,Heidekreis,7-und_mehr_Zimmer,13590,K03358
+2016,Heidekreis,7-und_mehr_Zimmer,13677,K03358
+2017,Heidekreis,7-und_mehr_Zimmer,13741,K03358
+2018,Heidekreis,7-und_mehr_Zimmer,13791,K03358
+2019,Heidekreis,7-und_mehr_Zimmer,13843,K03358
+2011,Stade,7-und_mehr_Zimmer,15763,K03359
+2012,Stade,7-und_mehr_Zimmer,15892,K03359
+2013,Stade,7-und_mehr_Zimmer,16062,K03359
+2014,Stade,7-und_mehr_Zimmer,16189,K03359
+2015,Stade,7-und_mehr_Zimmer,16349,K03359
+2016,Stade,7-und_mehr_Zimmer,16507,K03359
+2017,Stade,7-und_mehr_Zimmer,16636,K03359
+2018,Stade,7-und_mehr_Zimmer,16788,K03359
+2019,Stade,7-und_mehr_Zimmer,16927,K03359
+2011,Uelzen,7-und_mehr_Zimmer,10111,K03360
+2012,Uelzen,7-und_mehr_Zimmer,10140,K03360
+2013,Uelzen,7-und_mehr_Zimmer,10167,K03360
+2014,Uelzen,7-und_mehr_Zimmer,10204,K03360
+2015,Uelzen,7-und_mehr_Zimmer,10226,K03360
+2016,Uelzen,7-und_mehr_Zimmer,10264,K03360
+2017,Uelzen,7-und_mehr_Zimmer,10288,K03360
+2018,Uelzen,7-und_mehr_Zimmer,10314,K03360
+2019,Uelzen,7-und_mehr_Zimmer,10351,K03360
+2011,Verden,7-und_mehr_Zimmer,13189,K03361
+2012,Verden,7-und_mehr_Zimmer,13281,K03361
+2013,Verden,7-und_mehr_Zimmer,13406,K03361
+2014,Verden,7-und_mehr_Zimmer,13518,K03361
+2015,Verden,7-und_mehr_Zimmer,13649,K03361
+2016,Verden,7-und_mehr_Zimmer,13761,K03361
+2017,Verden,7-und_mehr_Zimmer,13849,K03361
+2018,Verden,7-und_mehr_Zimmer,13908,K03361
+2019,Verden,7-und_mehr_Zimmer,13995,K03361
+2011,Weser-Ems,7-und_mehr_Zimmer,268604,K034
+2012,Weser-Ems,7-und_mehr_Zimmer,270718,K034
+2013,Weser-Ems,7-und_mehr_Zimmer,272850,K034
+2014,Weser-Ems,7-und_mehr_Zimmer,275148,K034
+2015,Weser-Ems,7-und_mehr_Zimmer,277225,K034
+2016,Weser-Ems,7-und_mehr_Zimmer,279416,K034
+2017,Weser-Ems,7-und_mehr_Zimmer,281427,K034
+2018,Weser-Ems,7-und_mehr_Zimmer,283371,K034
+2019,Weser-Ems,7-und_mehr_Zimmer,285354,K034
+2011,Delmenhorst.Stadt,7-und_mehr_Zimmer,4534,K03401
+2012,Delmenhorst.Stadt,7-und_mehr_Zimmer,4561,K03401
+2013,Delmenhorst.Stadt,7-und_mehr_Zimmer,4581,K03401
+2014,Delmenhorst.Stadt,7-und_mehr_Zimmer,4606,K03401
+2015,Delmenhorst.Stadt,7-und_mehr_Zimmer,4619,K03401
+2016,Delmenhorst.Stadt,7-und_mehr_Zimmer,4635,K03401
+2017,Delmenhorst.Stadt,7-und_mehr_Zimmer,4648,K03401
+2018,Delmenhorst.Stadt,7-und_mehr_Zimmer,4666,K03401
+2019,Delmenhorst.Stadt,7-und_mehr_Zimmer,4685,K03401
+2011,Emden Stadt,7-und_mehr_Zimmer,2925,K03402
+2012,Emden Stadt,7-und_mehr_Zimmer,2934,K03402
+2013,Emden Stadt,7-und_mehr_Zimmer,2947,K03402
+2014,Emden Stadt,7-und_mehr_Zimmer,2957,K03402
+2015,Emden Stadt,7-und_mehr_Zimmer,2964,K03402
+2016,Emden Stadt,7-und_mehr_Zimmer,2978,K03402
+2017,Emden Stadt,7-und_mehr_Zimmer,2992,K03402
+2018,Emden Stadt,7-und_mehr_Zimmer,3009,K03402
+2019,Emden Stadt,7-und_mehr_Zimmer,3017,K03402
+2011,Oldenburg (Oldb) Stadt,7-und_mehr_Zimmer,10314,K03403
+2012,Oldenburg (Oldb) Stadt,7-und_mehr_Zimmer,10423,K03403
+2013,Oldenburg (Oldb) Stadt,7-und_mehr_Zimmer,10503,K03403
+2014,Oldenburg (Oldb) Stadt,7-und_mehr_Zimmer,10554,K03403
+2015,Oldenburg (Oldb) Stadt,7-und_mehr_Zimmer,10602,K03403
+2016,Oldenburg (Oldb) Stadt,7-und_mehr_Zimmer,10643,K03403
+2017,Oldenburg (Oldb) Stadt,7-und_mehr_Zimmer,10679,K03403
+2018,Oldenburg (Oldb) Stadt,7-und_mehr_Zimmer,10745,K03403
+2019,Oldenburg (Oldb) Stadt,7-und_mehr_Zimmer,10801,K03403
+2011,Osnabrück Stadt,7-und_mehr_Zimmer,7208,K03404
+2012,Osnabrück Stadt,7-und_mehr_Zimmer,7294,K03404
+2013,Osnabrück Stadt,7-und_mehr_Zimmer,7385,K03404
+2014,Osnabrück Stadt,7-und_mehr_Zimmer,7461,K03404
+2015,Osnabrück Stadt,7-und_mehr_Zimmer,7520,K03404
+2016,Osnabrück Stadt,7-und_mehr_Zimmer,7579,K03404
+2017,Osnabrück Stadt,7-und_mehr_Zimmer,7639,K03404
+2018,Osnabrück Stadt,7-und_mehr_Zimmer,7671,K03404
+2019,Osnabrück Stadt,7-und_mehr_Zimmer,7689,K03404
+2011,Wilhelmshaven Stadt,7-und_mehr_Zimmer,3723,K03405
+2012,Wilhelmshaven Stadt,7-und_mehr_Zimmer,3735,K03405
+2013,Wilhelmshaven Stadt,7-und_mehr_Zimmer,3746,K03405
+2014,Wilhelmshaven Stadt,7-und_mehr_Zimmer,3759,K03405
+2015,Wilhelmshaven Stadt,7-und_mehr_Zimmer,3771,K03405
+2016,Wilhelmshaven Stadt,7-und_mehr_Zimmer,3784,K03405
+2017,Wilhelmshaven Stadt,7-und_mehr_Zimmer,3797,K03405
+2018,Wilhelmshaven Stadt,7-und_mehr_Zimmer,3829,K03405
+2019,Wilhelmshaven Stadt,7-und_mehr_Zimmer,3839,K03405
+2011,Ammerland,7-und_mehr_Zimmer,13891,K03451
+2012,Ammerland,7-und_mehr_Zimmer,14033,K03451
+2013,Ammerland,7-und_mehr_Zimmer,14197,K03451
+2014,Ammerland,7-und_mehr_Zimmer,14335,K03451
+2015,Ammerland,7-und_mehr_Zimmer,14438,K03451
+2016,Ammerland,7-und_mehr_Zimmer,14560,K03451
+2017,Ammerland,7-und_mehr_Zimmer,14673,K03451
+2018,Ammerland,7-und_mehr_Zimmer,14763,K03451
+2019,Ammerland,7-und_mehr_Zimmer,14897,K03451
+2011,Aurich,7-und_mehr_Zimmer,22195,K03452
+2012,Aurich,7-und_mehr_Zimmer,22293,K03452
+2013,Aurich,7-und_mehr_Zimmer,22407,K03452
+2014,Aurich,7-und_mehr_Zimmer,22531,K03452
+2015,Aurich,7-und_mehr_Zimmer,22623,K03452
+2016,Aurich,7-und_mehr_Zimmer,22736,K03452
+2017,Aurich,7-und_mehr_Zimmer,22843,K03452
+2018,Aurich,7-und_mehr_Zimmer,22926,K03452
+2019,Aurich,7-und_mehr_Zimmer,23046,K03452
+2011,Cloppenburg,7-und_mehr_Zimmer,23772,K03453
+2012,Cloppenburg,7-und_mehr_Zimmer,23997,K03453
+2013,Cloppenburg,7-und_mehr_Zimmer,24210,K03453
+2014,Cloppenburg,7-und_mehr_Zimmer,24417,K03453
+2015,Cloppenburg,7-und_mehr_Zimmer,24597,K03453
+2016,Cloppenburg,7-und_mehr_Zimmer,24828,K03453
+2017,Cloppenburg,7-und_mehr_Zimmer,25057,K03453
+2018,Cloppenburg,7-und_mehr_Zimmer,25243,K03453
+2019,Cloppenburg,7-und_mehr_Zimmer,25443,K03453
+2011,Emsland,7-und_mehr_Zimmer,47659,K03454
+2012,Emsland,7-und_mehr_Zimmer,48133,K03454
+2013,Emsland,7-und_mehr_Zimmer,48629,K03454
+2014,Emsland,7-und_mehr_Zimmer,49116,K03454
+2015,Emsland,7-und_mehr_Zimmer,49604,K03454
+2016,Emsland,7-und_mehr_Zimmer,50114,K03454
+2017,Emsland,7-und_mehr_Zimmer,50561,K03454
+2018,Emsland,7-und_mehr_Zimmer,50958,K03454
+2019,Emsland,7-und_mehr_Zimmer,51452,K03454
+2011,Friesland,7-und_mehr_Zimmer,10492,K03455
+2012,Friesland,7-und_mehr_Zimmer,10542,K03455
+2013,Friesland,7-und_mehr_Zimmer,10591,K03455
+2014,Friesland,7-und_mehr_Zimmer,10677,K03455
+2015,Friesland,7-und_mehr_Zimmer,10753,K03455
+2016,Friesland,7-und_mehr_Zimmer,10837,K03455
+2017,Friesland,7-und_mehr_Zimmer,10918,K03455
+2018,Friesland,7-und_mehr_Zimmer,10987,K03455
+2019,Friesland,7-und_mehr_Zimmer,11042,K03455
+2011,Grafschaft Bentheim,7-und_mehr_Zimmer,17248,K03456
+2012,Grafschaft Bentheim,7-und_mehr_Zimmer,17347,K03456
+2013,Grafschaft Bentheim,7-und_mehr_Zimmer,17512,K03456
+2014,Grafschaft Bentheim,7-und_mehr_Zimmer,17702,K03456
+2015,Grafschaft Bentheim,7-und_mehr_Zimmer,17878,K03456
+2016,Grafschaft Bentheim,7-und_mehr_Zimmer,17996,K03456
+2017,Grafschaft Bentheim,7-und_mehr_Zimmer,18170,K03456
+2018,Grafschaft Bentheim,7-und_mehr_Zimmer,18299,K03456
+2019,Grafschaft Bentheim,7-und_mehr_Zimmer,18429,K03456
+2011,Leer,7-und_mehr_Zimmer,19919,K03457
+2012,Leer,7-und_mehr_Zimmer,20069,K03457
+2013,Leer,7-und_mehr_Zimmer,20223,K03457
+2014,Leer,7-und_mehr_Zimmer,20372,K03457
+2015,Leer,7-und_mehr_Zimmer,20571,K03457
+2016,Leer,7-und_mehr_Zimmer,20723,K03457
+2017,Leer,7-und_mehr_Zimmer,20848,K03457
+2018,Leer,7-und_mehr_Zimmer,20960,K03457
+2019,Leer,7-und_mehr_Zimmer,21083,K03457
+2011,Oldenburg,7-und_mehr_Zimmer,14322,K03458
+2012,Oldenburg,7-und_mehr_Zimmer,14402,K03458
+2013,Oldenburg,7-und_mehr_Zimmer,14469,K03458
+2014,Oldenburg,7-und_mehr_Zimmer,14552,K03458
+2015,Oldenburg,7-und_mehr_Zimmer,14649,K03458
+2016,Oldenburg,7-und_mehr_Zimmer,14741,K03458
+2017,Oldenburg,7-und_mehr_Zimmer,14832,K03458
+2018,Oldenburg,7-und_mehr_Zimmer,14926,K03458
+2019,Oldenburg,7-und_mehr_Zimmer,15013,K03458
+2011,Osnabrück,7-und_mehr_Zimmer,35497,K03459
+2012,Osnabrück,7-und_mehr_Zimmer,35781,K03459
+2013,Osnabrück,7-und_mehr_Zimmer,35990,K03459
+2014,Osnabrück,7-und_mehr_Zimmer,36325,K03459
+2015,Osnabrück,7-und_mehr_Zimmer,36603,K03459
+2016,Osnabrück,7-und_mehr_Zimmer,36889,K03459
+2017,Osnabrück,7-und_mehr_Zimmer,37149,K03459
+2018,Osnabrück,7-und_mehr_Zimmer,37458,K03459
+2019,Osnabrück,7-und_mehr_Zimmer,37726,K03459
+2011,Vechta,7-und_mehr_Zimmer,19679,K03460
+2012,Vechta,7-und_mehr_Zimmer,19884,K03460
+2013,Vechta,7-und_mehr_Zimmer,20105,K03460
+2014,Vechta,7-und_mehr_Zimmer,20354,K03460
+2015,Vechta,7-und_mehr_Zimmer,20540,K03460
+2016,Vechta,7-und_mehr_Zimmer,20774,K03460
+2017,Vechta,7-und_mehr_Zimmer,20962,K03460
+2018,Vechta,7-und_mehr_Zimmer,21212,K03460
+2019,Vechta,7-und_mehr_Zimmer,21409,K03460
+2011,Wesermarsch,7-und_mehr_Zimmer,8066,K03461
+2012,Wesermarsch,7-und_mehr_Zimmer,8100,K03461
+2013,Wesermarsch,7-und_mehr_Zimmer,8136,K03461
+2014,Wesermarsch,7-und_mehr_Zimmer,8167,K03461
+2015,Wesermarsch,7-und_mehr_Zimmer,8195,K03461
+2016,Wesermarsch,7-und_mehr_Zimmer,8234,K03461
+2017,Wesermarsch,7-und_mehr_Zimmer,8261,K03461
+2018,Wesermarsch,7-und_mehr_Zimmer,8289,K03461
+2019,Wesermarsch,7-und_mehr_Zimmer,8321,K03461
+2011,Wittmund,7-und_mehr_Zimmer,7160,K03462
+2012,Wittmund,7-und_mehr_Zimmer,7190,K03462
+2013,Wittmund,7-und_mehr_Zimmer,7219,K03462
+2014,Wittmund,7-und_mehr_Zimmer,7263,K03462
+2015,Wittmund,7-und_mehr_Zimmer,7298,K03462
+2016,Wittmund,7-und_mehr_Zimmer,7365,K03462
+2017,Wittmund,7-und_mehr_Zimmer,7398,K03462
+2018,Wittmund,7-und_mehr_Zimmer,7430,K03462
+2019,Wittmund,7-und_mehr_Zimmer,7462,K03462
