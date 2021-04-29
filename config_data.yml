@@ -9,7 +9,7 @@
 # languages. Each build is in its own subfolder - one for each language.
 languages:
   - de
-  - en
+
 
 # Destination directory
 # ---------------------
@@ -72,8 +72,8 @@ translations:
   # tag: 1.3.1
     tag: 1.4.0-dev
   # This pulls in translations from a local 'translations' folder.
-  - class: TranslationInputYaml
-    source: translations
+  #- class: TranslationInputYaml
+  #  source: translations
 
 # Reporting status extra fields
 # -----------------------------
