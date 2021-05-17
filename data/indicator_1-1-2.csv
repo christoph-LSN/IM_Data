@@ -1,358 +1,154 @@
-Year,Gebietseinheit,Kategorien,GeoCode,Value
-2012,Niedersachsen,Neubau,K030,19201
-2012,Braunschweig,Neubau,K031,2139
-2012,Braunschweig Stadt,Neubau,K03101,455
-2012,Salzgitter.Stadt,Neubau,K03102,65
-2012,Wolfsburg.Stadt,Neubau,K03103,278
-2012,Gifhorn,Neubau,K03151,383
-2012,Goslar,Neubau,K03153,30
-2012,Helmstedt,Neubau,K03154,47
-2012,Northeim,Neubau,K03155,74
-2012,Peine,Neubau,K03157,254
-2012,Wolfenbüttel,Neubau,K03158,172
-2012,Göttingen,Neubau,K03159,381
-2012,Hannover,Neubau,K032,3798
-2012,Hannover Region,Neubau,K03241,2247
-2012,Hannover Landeshauptstadt,Neubau,K03241001,879
-2012,Diepholz,Neubau,K03251,744
-2012,Hameln-Pyrmont,Neubau,K03252,88
-2012,Hildesheim,Neubau,K03254,248
-2012,Holzminden,Neubau,K03255,46
-2012,Nienburg (Weser),Neubau,K03256,207
-2012,Schaumburg,Neubau,K03257,218
-2012,Lüneburg,Neubau,K033,4462
-2012,Celle,Neubau,K03351,260
-2012,Cuxhaven,Neubau,K03352,591
-2012,Harburg,Neubau,K03353,942
-2012,Lüchow-Dannenberg,Neubau,K03354,31
-2012,Lüneburg,Neubau,K03355,620
-2012,Osterholz,Neubau,K03356,292
-2012,Rotenburg (Wümme),Neubau,K03357,396
-2012,Heidekreis,Neubau,K03358,138
-2012,Stade,Neubau,K03359,746
-2012,Uelzen,Neubau,K03360,92
-2012,Verden,Neubau,K03361,354
-2012,Weser-Ems,Neubau,K034,8802
-2012,Delmenhorst.Stadt,Neubau,K03401,184
-2012,Emden Stadt,Neubau,K03402,91
-2012,Oldenburg (Oldb) Stadt,Neubau,K03403,990
-2012,Osnabrück Stadt,Neubau,K03404,298
-2012,Wilhelmshaven Stadt,Neubau,K03405,51
-2012,Ammerland,Neubau,K03451,666
-2012,Aurich,Neubau,K03452,626
-2012,Cloppenburg,Neubau,K03453,826
-2012,Emsland,Neubau,K03454,1672
-2012,Friesland,Neubau,K03455,254
-2012,Grafschaft Bentheim,Neubau,K03456,435
-2012,Leer,Neubau,K03457,545
-2012,Oldenburg,Neubau,K03458,266
-2012,Osnabrück,Neubau,K03459,887
-2012,Vechta,Neubau,K03460,718
-2012,Wesermarsch,Neubau,K03461,122
-2012,Wittmund,Neubau,K03462,171
-2013,Niedersachsen,Neubau,K030,20921
-2013,Braunschweig,Neubau,K031,2094
-2013,Braunschweig Stadt,Neubau,K03101,227
-2013,Salzgitter.Stadt,Neubau,K03102,100
-2013,Wolfsburg.Stadt,Neubau,K03103,172
-2013,Gifhorn,Neubau,K03151,566
-2013,Goslar,Neubau,K03153,57
-2013,Helmstedt,Neubau,K03154,102
-2013,Northeim,Neubau,K03155,57
-2013,Peine,Neubau,K03157,280
-2013,Wolfenbüttel,Neubau,K03158,168
-2013,Göttingen,Neubau,K03159,365
-2013,Hannover,Neubau,K032,3434
-2013,Hannover Region,Neubau,K03241,1906
-2013,Hannover Landeshauptstadt,Neubau,K03241001,636
-2013,Diepholz,Neubau,K03251,598
-2013,Hameln-Pyrmont,Neubau,K03252,180
-2013,Hildesheim,Neubau,K03254,336
-2013,Holzminden,Neubau,K03255,8
-2013,Nienburg (Weser),Neubau,K03256,194
-2013,Schaumburg,Neubau,K03257,212
-2013,Lüneburg,Neubau,K033,4976
-2013,Celle,Neubau,K03351,319
-2013,Cuxhaven,Neubau,K03352,591
-2013,Harburg,Neubau,K03353,1054
-2013,Lüchow-Dannenberg,Neubau,K03354,44
-2013,Lüneburg,Neubau,K03355,741
-2013,Osterholz,Neubau,K03356,224
-2013,Rotenburg (Wümme),Neubau,K03357,373
-2013,Heidekreis,Neubau,K03358,207
-2013,Stade,Neubau,K03359,805
-2013,Uelzen,Neubau,K03360,125
-2013,Verden,Neubau,K03361,493
-2013,Weser-Ems,Neubau,K034,10417
-2013,Delmenhorst.Stadt,Neubau,K03401,133
-2013,Emden Stadt,Neubau,K03402,101
-2013,Oldenburg (Oldb) Stadt,Neubau,K03403,1080
-2013,Osnabrück Stadt,Neubau,K03404,405
-2013,Wilhelmshaven Stadt,Neubau,K03405,19
-2013,Ammerland,Neubau,K03451,858
-2013,Aurich,Neubau,K03452,915
-2013,Cloppenburg,Neubau,K03453,963
-2013,Emsland,Neubau,K03454,1827
-2013,Friesland,Neubau,K03455,324
-2013,Grafschaft Bentheim,Neubau,K03456,638
-2013,Leer,Neubau,K03457,808
-2013,Oldenburg,Neubau,K03458,276
-2013,Osnabrück,Neubau,K03459,865
-2013,Vechta,Neubau,K03460,847
-2013,Wesermarsch,Neubau,K03461,158
-2013,Wittmund,Neubau,K03462,200
-2014,Niedersachsen,Neubau,K030,23351
-2014,Braunschweig,Neubau,K031,2641
-2014,Braunschweig Stadt,Neubau,K03101,296
-2014,Salzgitter.Stadt,Neubau,K03102,55
-2014,Wolfsburg.Stadt,Neubau,K03103,384
-2014,Gifhorn,Neubau,K03151,691
-2014,Goslar,Neubau,K03153,60
-2014,Helmstedt,Neubau,K03154,178
-2014,Northeim,Neubau,K03155,79
-2014,Peine,Neubau,K03157,256
-2014,Wolfenbüttel,Neubau,K03158,206
-2014,Göttingen,Neubau,K03159,436
-2014,Hannover,Neubau,K032,3890
-2014,Hannover Region,Neubau,K03241,2355
-2014,Hannover Landeshauptstadt,Neubau,K03241001,976
-2014,Diepholz,Neubau,K03251,615
-2014,Hameln-Pyrmont,Neubau,K03252,162
-2014,Hildesheim,Neubau,K03254,369
-2014,Holzminden,Neubau,K03255,20
-2014,Nienburg (Weser),Neubau,K03256,186
-2014,Schaumburg,Neubau,K03257,183
-2014,Lüneburg,Neubau,K033,5539
-2014,Celle,Neubau,K03351,332
-2014,Cuxhaven,Neubau,K03352,789
-2014,Harburg,Neubau,K03353,1105
-2014,Lüchow-Dannenberg,Neubau,K03354,77
-2014,Lüneburg,Neubau,K03355,492
-2014,Osterholz,Neubau,K03356,333
-2014,Rotenburg (Wümme),Neubau,K03357,526
-2014,Heidekreis,Neubau,K03358,242
-2014,Stade,Neubau,K03359,1052
-2014,Uelzen,Neubau,K03360,173
-2014,Verden,Neubau,K03361,418
-2014,Weser-Ems,Neubau,K034,11281
-2014,Delmenhorst.Stadt,Neubau,K03401,229
-2014,Emden Stadt,Neubau,K03402,255
-2014,Oldenburg (Oldb) Stadt,Neubau,K03403,698
-2014,Osnabrück Stadt,Neubau,K03404,356
-2014,Wilhelmshaven Stadt,Neubau,K03405,103
-2014,Ammerland,Neubau,K03451,624
-2014,Aurich,Neubau,K03452,754
-2014,Cloppenburg,Neubau,K03453,1135
-2014,Emsland,Neubau,K03454,2272
-2014,Friesland,Neubau,K03455,492
-2014,Grafschaft Bentheim,Neubau,K03456,788
-2014,Leer,Neubau,K03457,757
-2014,Oldenburg,Neubau,K03458,328
-2014,Osnabrück,Neubau,K03459,1183
-2014,Vechta,Neubau,K03460,944
-2014,Wesermarsch,Neubau,K03461,133
-2014,Wittmund,Neubau,K03462,230
-2015,Niedersachsen,Neubau,K030,23169
-2015,Braunschweig,Neubau,K031,2746
-2015,Braunschweig Stadt,Neubau,K03101,348
-2015,Salzgitter.Stadt,Neubau,K03102,46
-2015,Wolfsburg.Stadt,Neubau,K03103,206
-2015,Gifhorn,Neubau,K03151,641
-2015,Goslar,Neubau,K03153,54
-2015,Helmstedt,Neubau,K03154,129
-2015,Northeim,Neubau,K03155,70
-2015,Peine,Neubau,K03157,505
-2015,Wolfenbüttel,Neubau,K03158,304
-2015,Göttingen,Neubau,K03159,443
-2015,Hannover,Neubau,K032,4386
-2015,Hannover Region,Neubau,K03241,2549
-2015,Hannover Landeshauptstadt,Neubau,K03241001,1116
-2015,Diepholz,Neubau,K03251,678
-2015,Hameln-Pyrmont,Neubau,K03252,83
-2015,Hildesheim,Neubau,K03254,424
-2015,Holzminden,Neubau,K03255,71
-2015,Nienburg (Weser),Neubau,K03256,255
-2015,Schaumburg,Neubau,K03257,326
-2015,Lüneburg,Neubau,K033,5682
-2015,Celle,Neubau,K03351,312
-2015,Cuxhaven,Neubau,K03352,574
-2015,Harburg,Neubau,K03353,1015
-2015,Lüchow-Dannenberg,Neubau,K03354,44
-2015,Lüneburg,Neubau,K03355,741
-2015,Osterholz,Neubau,K03356,304
-2015,Rotenburg (Wümme),Neubau,K03357,457
-2015,Heidekreis,Neubau,K03358,214
-2015,Stade,Neubau,K03359,1315
-2015,Uelzen,Neubau,K03360,95
-2015,Verden,Neubau,K03361,611
-2015,Weser-Ems,Neubau,K034,10355
-2015,Delmenhorst.Stadt,Neubau,K03401,141
-2015,Emden Stadt,Neubau,K03402,64
-2015,Oldenburg (Oldb) Stadt,Neubau,K03403,1072
-2015,Osnabrück Stadt,Neubau,K03404,450
-2015,Wilhelmshaven Stadt,Neubau,K03405,55
-2015,Ammerland,Neubau,K03451,529
-2015,Aurich,Neubau,K03452,760
-2015,Cloppenburg,Neubau,K03453,818
-2015,Emsland,Neubau,K03454,1800
-2015,Friesland,Neubau,K03455,359
-2015,Grafschaft Bentheim,Neubau,K03456,672
-2015,Leer,Neubau,K03457,876
-2015,Oldenburg,Neubau,K03458,498
-2015,Osnabrück,Neubau,K03459,1101
-2015,Vechta,Neubau,K03460,719
-2015,Wesermarsch,Neubau,K03461,118
-2015,Wittmund,Neubau,K03462,323
-2016,Niedersachsen,Neubau,K030,26777
-2016,Braunschweig,Neubau,K031,3444
-2016,Braunschweig Stadt,Neubau,K03101,357
-2016,Salzgitter.Stadt,Neubau,K03102,72
-2016,Wolfsburg.Stadt,Neubau,K03103,637
-2016,Gifhorn,Neubau,K03151,670
-2016,Goslar,Neubau,K03153,101
-2016,Helmstedt,Neubau,K03154,247
-2016,Northeim,Neubau,K03155,118
-2016,Peine,Neubau,K03157,440
-2016,Wolfenbüttel,Neubau,K03158,209
-2016,Göttingen,Neubau,K03159,593
-2016,Hannover,Neubau,K032,4335
-2016,Hannover Region,Neubau,K03241,2462
-2016,Hannover Landeshauptstadt,Neubau,K03241001,820
-2016,Diepholz,Neubau,K03251,695
-2016,Hameln-Pyrmont,Neubau,K03252,103
-2016,Hildesheim,Neubau,K03254,430
-2016,Holzminden,Neubau,K03255,54
-2016,Nienburg (Weser),Neubau,K03256,344
-2016,Schaumburg,Neubau,K03257,247
-2016,Lüneburg,Neubau,K033,6973
-2016,Celle,Neubau,K03351,468
-2016,Cuxhaven,Neubau,K03352,813
-2016,Harburg,Neubau,K03353,1465
-2016,Lüchow-Dannenberg,Neubau,K03354,83
-2016,Lüneburg,Neubau,K03355,690
-2016,Osterholz,Neubau,K03356,329
-2016,Rotenburg (Wümme),Neubau,K03357,673
-2016,Heidekreis,Neubau,K03358,430
-2016,Stade,Neubau,K03359,1113
-2016,Uelzen,Neubau,K03360,341
-2016,Verden,Neubau,K03361,568
-2016,Weser-Ems,Neubau,K034,12025
-2016,Delmenhorst.Stadt,Neubau,K03401,180
-2016,Emden Stadt,Neubau,K03402,111
-2016,Oldenburg (Oldb) Stadt,Neubau,K03403,1303
-2016,Osnabrück Stadt,Neubau,K03404,644
-2016,Wilhelmshaven Stadt,Neubau,K03405,79
-2016,Ammerland,Neubau,K03451,752
-2016,Aurich,Neubau,K03452,766
-2016,Cloppenburg,Neubau,K03453,1232
-2016,Emsland,Neubau,K03454,1954
-2016,Friesland,Neubau,K03455,509
-2016,Grafschaft Bentheim,Neubau,K03456,562
-2016,Leer,Neubau,K03457,812
-2016,Oldenburg,Neubau,K03458,435
-2016,Osnabrück,Neubau,K03459,1160
-2016,Vechta,Neubau,K03460,1036
-2016,Wesermarsch,Neubau,K03461,174
-2016,Wittmund,Neubau,K03462,316
-2017,Niedersachsen,Neubau,K030,25763
-2017,Braunschweig,Neubau,K031,3579
-2017,Braunschweig Stadt,Neubau,K03101,276
-2017,Salzgitter.Stadt,Neubau,K03102,119
-2017,Wolfsburg.Stadt,Neubau,K03103,382
-2017,Gifhorn,Neubau,K03151,921
-2017,Goslar,Neubau,K03153,60
-2017,Helmstedt,Neubau,K03154,235
-2017,Northeim,Neubau,K03155,199
-2017,Peine,Neubau,K03157,618
-2017,Wolfenbüttel,Neubau,K03158,181
-2017,Göttingen,Neubau,K03159,588
-2017,Hannover,Neubau,K032,4534
-2017,Hannover Region,Neubau,K03241,2836
-2017,Hannover Landeshauptstadt,Neubau,K03241001,936
-2017,Diepholz,Neubau,K03251,628
-2017,Hameln-Pyrmont,Neubau,K03252,129
-2017,Hildesheim,Neubau,K03254,389
-2017,Holzminden,Neubau,K03255,39
-2017,Nienburg (Weser),Neubau,K03256,217
-2017,Schaumburg,Neubau,K03257,296
-2017,Lüneburg,Neubau,K033,6469
-2017,Celle,Neubau,K03351,318
-2017,Cuxhaven,Neubau,K03352,683
-2017,Harburg,Neubau,K03353,1027
-2017,Lüchow-Dannenberg,Neubau,K03354,39
-2017,Lüneburg,Neubau,K03355,1294
-2017,Osterholz,Neubau,K03356,378
-2017,Rotenburg (Wümme),Neubau,K03357,674
-2017,Heidekreis,Neubau,K03358,282
-2017,Stade,Neubau,K03359,1184
-2017,Uelzen,Neubau,K03360,109
-2017,Verden,Neubau,K03361,481
-2017,Weser-Ems,Neubau,K034,11181
-2017,Delmenhorst.Stadt,Neubau,K03401,168
-2017,Emden Stadt,Neubau,K03402,115
-2017,Oldenburg (Oldb) Stadt,Neubau,K03403,1075
-2017,Osnabrück Stadt,Neubau,K03404,317
-2017,Wilhelmshaven Stadt,Neubau,K03405,76
-2017,Ammerland,Neubau,K03451,560
-2017,Aurich,Neubau,K03452,725
-2017,Cloppenburg,Neubau,K03453,1201
-2017,Emsland,Neubau,K03454,2038
-2017,Friesland,Neubau,K03455,461
-2017,Grafschaft Bentheim,Neubau,K03456,779
-2017,Leer,Neubau,K03457,840
-2017,Oldenburg,Neubau,K03458,407
-2017,Osnabrück,Neubau,K03459,1169
-2017,Vechta,Neubau,K03460,845
-2017,Wesermarsch,Neubau,K03461,147
-2017,Wittmund,Neubau,K03462,258
-2018,Niedersachsen,Neubau,K030,25131
-2018,Braunschweig,Neubau,K031,3302
-2018,Braunschweig Stadt,Neubau,K03101,570
-2018,Salzgitter.Stadt,Neubau,K03102,63
-2018,Wolfsburg.Stadt,Neubau,K03103,226
-2018,Gifhorn,Neubau,K03151,758
-2018,Goslar,Neubau,K03153,54
-2018,Helmstedt,Neubau,K03154,281
-2018,Northeim,Neubau,K03155,183
-2018,Peine,Neubau,K03157,478
-2018,Wolfenbüttel,Neubau,K03158,252
-2018,Göttingen,Neubau,K03159,437
-2018,Hannover,Neubau,K032,4948
-2018,Hannover Region,Neubau,K03241,2868
-2018,Hannover Landeshauptstadt,Neubau,K03241001,1325
-2018,Diepholz,Neubau,K03251,704
-2018,Hameln-Pyrmont,Neubau,K03252,100
-2018,Hildesheim,Neubau,K03254,524
-2018,Holzminden,Neubau,K03255,62
-2018,Nienburg (Weser),Neubau,K03256,315
-2018,Schaumburg,Neubau,K03257,375
-2018,Lüneburg,Neubau,K033,5663
-2018,Celle,Neubau,K03351,525
-2018,Cuxhaven,Neubau,K03352,545
-2018,Harburg,Neubau,K03353,802
-2018,Lüchow-Dannenberg,Neubau,K03354,71
-2018,Lüneburg,Neubau,K03355,550
-2018,Osterholz,Neubau,K03356,361
-2018,Rotenburg (Wümme),Neubau,K03357,608
-2018,Heidekreis,Neubau,K03358,320
-2018,Stade,Neubau,K03359,1313
-2018,Uelzen,Neubau,K03360,177
-2018,Verden,Neubau,K03361,391
-2018,Weser-Ems,Neubau,K034,11218
-2018,Delmenhorst.Stadt,Neubau,K03401,205
-2018,Emden Stadt,Neubau,K03402,55
-2018,Oldenburg (Oldb) Stadt,Neubau,K03403,1139
-2018,Osnabrück Stadt,Neubau,K03404,501
-2018,Wilhelmshaven Stadt,Neubau,K03405,82
-2018,Ammerland,Neubau,K03451,759
-2018,Aurich,Neubau,K03452,556
-2018,Cloppenburg,Neubau,K03453,1229
-2018,Emsland,Neubau,K03454,1759
-2018,Friesland,Neubau,K03455,528
-2018,Grafschaft Bentheim,Neubau,K03456,493
-2018,Leer,Neubau,K03457,664
-2018,Oldenburg,Neubau,K03458,589
-2018,Osnabrück,Neubau,K03459,1235
-2018,Vechta,Neubau,K03460,973
-2018,Wesermarsch,Neubau,K03461,228
-2018,Wittmund,Neubau,K03462,223
+Year,Gebietseinheit,GeoCode,Value
+2019/2005,Braunschweig Stadt,K03101,1.685061136
+2019/2005,Salzgitter Stadt,K03102,-3.188645267
+2019/2005,Wolfsburg Stadt,K03103,2.61718331
+2019/2005,Gifhorn,K03151,0.698810026
+2019/2005,Goslar,K03153,-10.00977207
+2019/2005,Helmstedt,K03154,-6.600579034
+2019/2005,Northeim,K03155,-9.820028632
+2019/2005,Peine,K03157,0.163470326
+2019/2005,Wolfenbüttel,K03158,-5.407243397
+2019/2005,Göttingen,K03159,-5.469332135
+2019/2005,Statistische Region Braunschweig,K031,-3.363113361
+2019/2005,Hannover Region,K03241,2.531759977
+2019/2005,Hannover Landeshauptstadt,K03241001,4.109910437
+2019/2005,Diepholz,K03251,0.714921966
+2019/2005,Hameln-Pyrmont,K03252,-7.063938939
+2019/2005,Hildesheim,K03254,-5.101103416
+2019/2005,Holzminden,K03255,-9.574167715
+2019/2005,Nienburg (Weser),K03256,-3.559227775
+2019/2005,Schaumburg,K03257,-4.673314931
+2019/2005,Statistische Region Hannover,K032,-0.724657439
+2019/2005,Celle,K03351,-1.881673281
+2019/2005,Cuxhaven,K03352,-3.525984528
+2019/2005,Harburg,K03353,5.21199039
+2019/2005,Lüchow-Dannenberg,K03354,-5.72519084
+2019/2005,Lüneburg,K03355,4.957792078
+2019/2005,Osterholz,K03356,1.05285566
+2019/2005,Rotenburg (W�mme),K03357,-0.662926459
+2019/2005,Heidekreis,K03358,-1.405262199
+2019/2005,Stade,K03359,4.090596768
+2019/2005,Uelzen,K03360,-4.694656489
+2019/2005,Verden,K03361,2.273947675
+2019/2005,Statistische Region Lüneburg,K033,0.722654863
+2019/2005,Delmenhorst.Stadt,K03401,2.164234154
+2019/2005,Emden Stadt,K03402,-3.443406264
+2019/2005,Oldenburg (Oldb) Stadt,K03403,6.629457951
+2019/2005,Osnabrück Stadt,K03404,0.877214402
+2019/2005,Wilhelmshaven Stadt,K03405,-8.932162007
+2019/2005,Ammerland,K03451,7.738305822
+2019/2005,Aurich,K03452,-0.228267273
+2019/2005,Cloppenburg,K03453,9.663201449
+2019/2005,Emsland,K03454,5.439101158
+2019/2005,Friesland,K03455,-2.670295429
+2019/2005,Grafschaft Bentheim,K03456,2.023177281
+2019/2005,Leer,K03457,3.453373401
+2019/2005,Oldenburg,K03458,4.10320446
+2019/2005,Osnabrück,K03459,-0.380860706
+2019/2005,Vechta,K03460,7.864744224
+2019/2005,Wesermarsch,K03461,-5.486263003
+2019/2005,Wittmund,K03462,-1.773820616
+2019/2005,Statistische Region Weser-Ems,K034,2.36457158
+2019/2005,Niedersachsen,K030,-0.0042282
+2019/2014,Braunschweig Stadt,K03101,0.363779768
+2019/2014,Salzgitter Stadt,K03102,5.380635774
+2019/2014,Wolfsburg Stadt,K03103,1.092443122
+2019/2014,Gifhorn,K03151,2.307857263
+2019/2014,Goslar,K03153,-0.702337238
+2019/2014,Helmstedt,K03154,0.427905135
+2019/2014,Northeim,K03155,-1.209812927
+2019/2014,Peine,K03157,3.215901869
+2019/2014,Wolfenbüttel,K03158,-0.344066314
+2019/2014,Göttingen,K03159,1.095163236
+2019/2014,Statistische Region Braunschweig,K031,0.960592599
+2019/2014,Hannover Region,K03241,2.577752325
+2019/2014,Hannover Landeshauptstadt,K03241001,2.536656723
+2019/2014,Diepholz,K03251,2.840454207
+2019/2014,Hameln-Pyrmont,K03252,0.497926434
+2019/2014,Hildesheim,K03254,0.460018794
+2019/2014,Holzminden,K03255,-1.37181892
+2019/2014,Nienburg (Weser),K03256,1.470354674
+2019/2014,Schaumburg,K03257,1.265985229
+2019/2014,Statistische Region Hannover,K032,1.888861433
+2019/2014,Celle,K03351,1.620145666
+2019/2014,Cuxhaven,K03352,0.635712725
+2019/2014,Harburg,K03353,3.765105078
+2019/2014,Lüchow-Dannenberg,K03354,-0.648497784
+2019/2014,Lüneburg,K03355,3.378021805
+2019/2014,Osterholz,K03356,2.192242833
+2019/2014,Rotenburg (Wümme),K03357,1.198699967
+2019/2014,Heidekreis,K03358,3.284140969
+2019/2014,Stade,K03359,3.577650825
+2019/2014,Uelzen,K03360,-0.155620157
+2019/2014,Verden,K03361,2.941110235
+2019/2014,Statistische Region Lüneburg,K033,2.308675788
+2019/2014,Delmenhorst.Stadt,K03401,3.682958131
+2019/2014,Emden Stadt,K03402,-0.205934101
+2019/2014,Oldenburg (Oldb) Stadt,K03403,5.077467108
+2019/2014,Osnabrück Stadt,K03404,5.32451226
+2019/2014,Wilhelmshaven Stadt,K03405,0.734768449
+2019/2014,Ammerland,K03451,4.121183819
+2019/2014,Aurich,K03452,0.902137257
+2019/2014,Cloppenburg,K03453,5.132121959
+2019/2014,Emsland,K03454,3.546081322
+2019/2014,Friesland,K03455,1.822833387
+2019/2014,Grafschaft Bentheim,K03456,2.109001035
+2019/2014,Leer,K03457,2.983553366
+2019/2014,Oldenburg,K03458,3.227180239
+2019/2014,Osnabrück,K03459,1.92533218
+2019/2014,Vechta,K03460,4.868413323
+2019/2014,Wesermarsch,K03461,-0.205035769
+2019/2014,Wittmund,K03462,0.684483277
+2019/2014,Statistische Region Weser-Ems,K034,2.971972772
+2019/2014,Niedersachsen,K030,2.132037366
+2019/2018,Braunschweig Stadt,K03101,0.448665281
+2019/2018,Salzgitter Stadt,K03102,-0.626024317
+2019/2018,Wolfsburg Stadt,K03103,0.177203567
+2019/2018,Gifhorn,K03151,0.342769441
+2019/2018,Goslar,K03153,-0.52695345
+2019/2018,Helmstedt,K03154,-0.010952063
+2019/2018,Northeim,K03155,-0.361541069
+2019/2018,Peine,K03157,0.624043593
+2019/2018,Wolfenbüttel,K03158,-0.281760587
+2019/2018,Göttingen,K03159,-0.44792799
+2019/2018,Statistische Region Braunschweig,K031,-0.091894492
+2019/2018,Hannover Region,K03241,-0.043969372
+2019/2018,Hannover Landeshauptstadt,K03241001,-0.212426682
+2019/2018,Diepholz,K03251,0.093597558
+2019/2018,Hameln-Pyrmont,K03252,-0.006731332
+2019/2018,Hildesheim,K03254,-0.280917157
+2019/2018,Holzminden,K03255,-0.728425502
+2019/2018,Nienburg (Weser),K03256,0.003295273
+2019/2018,Schaumburg,K03257,0.024717805
+2019/2018,Statistische Region Hannover,K032,-0.072890332
+2019/2018,Celle,K03351,0.041914428
+2019/2018,Cuxhaven,K03352,-0.088288861
+2019/2018,Harburg,K03353,0.654729879
+2019/2018,Lüchow-Dannenberg,K03354,-0.0247811
+2019/2018,Lüneburg,K03355,0.418275418
+2019/2018,Osterholz,K03356,0.362060308
+2019/2018,Rotenburg (Wümme),K03357,0.200055061
+2019/2018,Heidekreis,K03358,0.656863797
+2019/2018,Stade,K03359,0.694232455
+2019/2018,Uelzen,K03360,-0.197683965
+2019/2018,Verden,K03361,0.249283584
+2019/2018,Statistische Region Lüneburg,K033,0.323452845
+2019/2018,Delmenhorst.Stadt,K03401,-0.061850091
+2019/2018,Emden Stadt,K03402,-0.561808945
+2019/2018,Oldenburg (Oldb) Stadt,K03403,0.515427145
+2019/2018,Osnabrück Stadt,K03404,0.305314784
+2019/2018,Wilhelmshaven Stadt,K03405,-0.247777865
+2019/2018,Ammerland,K03451,0.635120213
+2019/2018,Aurich,K03452,-0.081117526
+2019/2018,Cloppenburg,K03453,0.787727047
+2019/2018,Emsland,K03454,0.398271801
+2019/2018,Friesland,K03455,0.247816372
+2019/2018,Grafschaft Bentheim,K03456,0.476884647
+2019/2018,Leer,K03457,0.557685399
+2019/2018,Oldenburg,K03458,0.573211212
+2019/2018,Osnabrück,K03459,0.206244421
+2019/2018,Vechta,K03460,0.858769192
+2019/2018,Wesermarsch,K03461,-0.046262863
+2019/2018,Wittmund,K03462,0.077353117
+2019/2018,Statistische Region Weser-Ems,K034,0.342925072
+2019/2018,Niedersachsen,K030,0.139806736
