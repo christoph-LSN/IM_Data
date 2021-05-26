@@ -56,9 +56,6 @@ inputs:
     git_data_dir: data
 
 
-#Data sorting
-datapackage:
-    sorting: default
 
 
 # Translations
