@@ -7,10 +7,10 @@
         "name_long": "Belize",
         "formal_en": "Belize",
         "iso_a3": "BLZ",
-        "iso_n3": "084",
         "continent": "North America",
         "region_wb": "Latin America & Caribbean",
-        "filename": "BLZ.geojson"
+        "filename": "BLZ.geojson",
+        "LAGS": "084"
       },
       "geometry": {
         "type": "Polygon",
@@ -106,10 +106,10 @@
         "name_long": "Bahamas",
         "formal_en": "Commonwealth of the Bahamas",
         "iso_a3": "BHS",
-        "iso_n3": "044",
         "continent": "North America",
         "region_wb": "Latin America & Caribbean",
-        "filename": "BHS.geojson"
+        "filename": "BHS.geojson",
+        "LAGS": "044"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -219,10 +219,10 @@
         "name_long": "Canada",
         "formal_en": "Canada",
         "iso_a3": "CAN",
-        "iso_n3": "124",
         "continent": "North America",
         "region_wb": "North America",
-        "filename": "CAN.geojson"
+        "filename": "CAN.geojson",
+        "LAGS": "124"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -3524,10 +3524,10 @@
         "name_long": "Cuba",
         "formal_en": "Republic of Cuba",
         "iso_a3": "CUB",
-        "iso_n3": "192",
         "continent": "North America",
         "region_wb": "Latin America & Caribbean",
-        "filename": "CUB.geojson"
+        "filename": "CUB.geojson",
+        "LAGS": "192"
       },
       "geometry": {
         "type": "Polygon",
@@ -3711,10 +3711,10 @@
         "name_long": "Dominican Republic",
         "formal_en": "Dominican Republic",
         "iso_a3": "DOM",
-        "iso_n3": "214",
         "continent": "North America",
         "region_wb": "Latin America & Caribbean",
-        "filename": "DOM.geojson"
+        "filename": "DOM.geojson",
+        "LAGS": "214"
       },
       "geometry": {
         "type": "Polygon",
@@ -3834,10 +3834,10 @@
         "name_long": "Costa Rica",
         "formal_en": "Republic of Costa Rica",
         "iso_a3": "CRI",
-        "iso_n3": "188",
         "continent": "North America",
         "region_wb": "Latin America & Caribbean",
-        "filename": "CRI.geojson"
+        "filename": "CRI.geojson",
+        "LAGS": "188"
       },
       "geometry": {
         "type": "Polygon",
@@ -3997,10 +3997,10 @@
         "name_long": "Guatemala",
         "formal_en": "Republic of Guatemala",
         "iso_a3": "GTM",
-        "iso_n3": "320",
         "continent": "North America",
         "region_wb": "Latin America & Caribbean",
-        "filename": "GTM.geojson"
+        "filename": "GTM.geojson",
+        "LAGS": "320"
       },
       "geometry": {
         "type": "Polygon",
@@ -4156,10 +4156,10 @@
         "name_long": "Greenland",
         "formal_en": "Greenland",
         "iso_a3": "GRL",
-        "iso_n3": "304",
         "continent": "North America",
         "region_wb": "Europe & Central Asia",
-        "filename": "GRL.geojson"
+        "filename": "GRL.geojson",
+        "LAGS": "304"
       },
       "geometry": {
         "type": "Polygon",
@@ -4703,10 +4703,10 @@
         "name_long": "Haiti",
         "formal_en": "Republic of Haiti",
         "iso_a3": "HTI",
-        "iso_n3": "332",
         "continent": "North America",
         "region_wb": "Latin America & Caribbean",
-        "filename": "HTI.geojson"
+        "filename": "HTI.geojson",
+        "LAGS": "332"
       },
       "geometry": {
         "type": "Polygon",
@@ -4806,10 +4806,10 @@
         "name_long": "Honduras",
         "formal_en": "Republic of Honduras",
         "iso_a3": "HND",
-        "iso_n3": "340",
         "continent": "North America",
         "region_wb": "Latin America & Caribbean",
-        "filename": "HND.geojson"
+        "filename": "HND.geojson",
+        "LAGS": "340"
       },
       "geometry": {
         "type": "Polygon",
@@ -5053,10 +5053,10 @@
         "name_long": "Jamaica",
         "formal_en": "Jamaica",
         "iso_a3": "JAM",
-        "iso_n3": "388",
         "continent": "North America",
         "region_wb": "Latin America & Caribbean",
-        "filename": "JAM.geojson"
+        "filename": "JAM.geojson",
+        "LAGS": "388"
       },
       "geometry": {
         "type": "Polygon",
@@ -5116,10 +5116,10 @@
         "name_long": "El Salvador",
         "formal_en": "Republic of El Salvador",
         "iso_a3": "SLV",
-        "iso_n3": "222",
         "continent": "North America",
         "region_wb": "Latin America & Caribbean",
-        "filename": "SLV.geojson"
+        "filename": "SLV.geojson",
+        "LAGS": "222"
       },
       "geometry": {
         "type": "Polygon",
@@ -5215,10 +5215,10 @@
         "name_long": "Nicaragua",
         "formal_en": "Republic of Nicaragua",
         "iso_a3": "NIC",
-        "iso_n3": "558",
         "continent": "North America",
         "region_wb": "Latin America & Caribbean",
-        "filename": "NIC.geojson"
+        "filename": "NIC.geojson",
+        "LAGS": "558"
       },
       "geometry": {
         "type": "Polygon",
@@ -5442,10 +5442,10 @@
         "name_long": "Panama",
         "formal_en": "Republic of Panama",
         "iso_a3": "PAN",
-        "iso_n3": "591",
         "continent": "North America",
         "region_wb": "Latin America & Caribbean",
-        "filename": "PAN.geojson"
+        "filename": "PAN.geojson",
+        "LAGS": "591"
       },
       "geometry": {
         "type": "Polygon",
@@ -5669,10 +5669,10 @@
         "name_long": "Mexico",
         "formal_en": "United Mexican States",
         "iso_a3": "MEX",
-        "iso_n3": "484",
         "continent": "North America",
         "region_wb": "Latin America & Caribbean",
-        "filename": "MEX.geojson"
+        "filename": "MEX.geojson",
+        "LAGS": "484"
       },
       "geometry": {
         "type": "Polygon",
@@ -6368,10 +6368,10 @@
         "name_long": "Puerto Rico",
         "formal_en": "Commonwealth of Puerto Rico",
         "iso_a3": "PRI",
-        "iso_n3": "630",
         "continent": "North America",
         "region_wb": "Latin America & Caribbean",
-        "filename": "PRI.geojson"
+        "filename": "PRI.geojson",
+        "LAGS": "630"
       },
       "geometry": {
         "type": "Polygon",
@@ -6423,10 +6423,10 @@
         "name_long": "Trinidad and Tobago",
         "formal_en": "Republic of Trinidad and Tobago",
         "iso_a3": "TTO",
-        "iso_n3": "780",
         "continent": "North America",
         "region_wb": "Latin America & Caribbean",
-        "filename": "TTO.geojson"
+        "filename": "TTO.geojson",
+        "LAGS": "780"
       },
       "geometry": {
         "type": "Polygon",
@@ -6474,10 +6474,10 @@
         "name_long": "Bolivia",
         "formal_en": "Plurinational State of Bolivia",
         "iso_a3": "BOL",
-        "iso_n3": "068",
         "continent": "South America",
         "region_wb": "Latin America & Caribbean",
-        "filename": "BOL.geojson"
+        "filename": "BOL.geojson",
+        "LAGS": "068"
       },
       "geometry": {
         "type": "Polygon",
@@ -6733,10 +6733,10 @@
         "name_long": "United States",
         "formal_en": "United States of America",
         "iso_a3": "USA",
-        "iso_n3": "840",
         "continent": "North America",
         "region_wb": "North America",
-        "filename": "USA.geojson"
+        "filename": "USA.geojson",
+        "LAGS": "840"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -8566,10 +8566,10 @@
         "name_long": "Argentina",
         "formal_en": "Argentine Republic",
         "iso_a3": "ARG",
-        "iso_n3": "032",
         "continent": "South America",
         "region_wb": "Latin America & Caribbean",
-        "filename": "ARG.geojson"
+        "filename": "ARG.geojson",
+        "LAGS": "032"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9075,10 +9075,10 @@
         "name_long": "Chile",
         "formal_en": "Republic of Chile",
         "iso_a3": "CHL",
-        "iso_n3": "152",
         "continent": "South America",
         "region_wb": "Latin America & Caribbean",
-        "filename": "CHL.geojson"
+        "filename": "CHL.geojson",
+        "LAGS": "152"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -9556,10 +9556,10 @@
         "name_long": "Brazil",
         "formal_en": "Federative Republic of Brazil",
         "iso_a3": "BRA",
-        "iso_n3": "076",
         "continent": "South America",
         "region_wb": "Latin America & Caribbean",
-        "filename": "BRA.geojson"
+        "filename": "BRA.geojson",
+        "LAGS": "076"
       },
       "geometry": {
         "type": "Polygon",
@@ -10387,10 +10387,10 @@
         "name_long": "Colombia",
         "formal_en": "Republic of Colombia",
         "iso_a3": "COL",
-        "iso_n3": "170",
         "continent": "South America",
         "region_wb": "Latin America & Caribbean",
-        "filename": "COL.geojson"
+        "filename": "COL.geojson",
+        "LAGS": "170"
       },
       "geometry": {
         "type": "Polygon",
@@ -10806,10 +10806,10 @@
         "name_long": "Falkland Islands",
         "formal_en": "Falkland Islands",
         "iso_a3": "FLK",
-        "iso_n3": "238",
         "continent": "South America",
         "region_wb": "Latin America & Caribbean",
-        "filename": "FLK.geojson"
+        "filename": "FLK.geojson",
+        "LAGS": "238"
       },
       "geometry": {
         "type": "Polygon",
@@ -10865,10 +10865,10 @@
         "name_long": "United Arab Emirates",
         "formal_en": "United Arab Emirates",
         "iso_a3": "ARE",
-        "iso_n3": "784",
         "continent": "Asia",
         "region_wb": "Middle East & North Africa",
-        "filename": "ARE.geojson"
+        "filename": "ARE.geojson",
+        "LAGS": "784"
       },
       "geometry": {
         "type": "Polygon",
@@ -10972,10 +10972,10 @@
         "name_long": "Afghanistan",
         "formal_en": "Islamic State of Afghanistan",
         "iso_a3": "AFG",
-        "iso_n3": "004",
         "continent": "Asia",
         "region_wb": "South Asia",
-        "filename": "AFG.geojson"
+        "filename": "AFG.geojson",
+        "LAGS": "L423"
       },
       "geometry": {
         "type": "Polygon",
@@ -11267,10 +11267,10 @@
         "name_long": "Ecuador",
         "formal_en": "Republic of Ecuador",
         "iso_a3": "ECU",
-        "iso_n3": "218",
         "continent": "South America",
         "region_wb": "Latin America & Caribbean",
-        "filename": "ECU.geojson"
+        "filename": "ECU.geojson",
+        "LAGS": "218"
       },
       "geometry": {
         "type": "Polygon",
@@ -11418,10 +11418,10 @@
         "name_long": "Peru",
         "formal_en": "Republic of Peru",
         "iso_a3": "PER",
-        "iso_n3": "604",
         "continent": "South America",
         "region_wb": "Latin America & Caribbean",
-        "filename": "PER.geojson"
+        "filename": "PER.geojson",
+        "LAGS": "604"
       },
       "geometry": {
         "type": "Polygon",
@@ -11741,10 +11741,10 @@
         "name_long": "Guyana",
         "formal_en": "Co-operative Republic of Guyana",
         "iso_a3": "GUY",
-        "iso_n3": "328",
         "continent": "South America",
         "region_wb": "Latin America & Caribbean",
-        "filename": "GUY.geojson"
+        "filename": "GUY.geojson",
+        "LAGS": "328"
       },
       "geometry": {
         "type": "Polygon",
@@ -11920,10 +11920,10 @@
         "name_long": "Armenia",
         "formal_en": "Republic of Armenia",
         "iso_a3": "ARM",
-        "iso_n3": "051",
         "continent": "Asia",
         "region_wb": "Europe & Central Asia",
-        "filename": "ARM.geojson"
+        "filename": "ARM.geojson",
+        "LAGS": "051"
       },
       "geometry": {
         "type": "Polygon",
@@ -12019,10 +12019,10 @@
         "name_long": "Azerbaijan",
         "formal_en": "Republic of Azerbaijan",
         "iso_a3": "AZE",
-        "iso_n3": "031",
         "continent": "Asia",
         "region_wb": "Europe & Central Asia",
-        "filename": "AZE.geojson"
+        "filename": "AZE.geojson",
+        "LAGS": "031"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -12220,10 +12220,10 @@
         "name_long": "Bangladesh",
         "formal_en": "People's Republic of Bangladesh",
         "iso_a3": "BGD",
-        "iso_n3": "050",
         "continent": "Asia",
         "region_wb": "South Asia",
-        "filename": "BGD.geojson"
+        "filename": "BGD.geojson",
+        "LAGS": "050"
       },
       "geometry": {
         "type": "Polygon",
@@ -12383,10 +12383,10 @@
         "name_long": "Brunei Darussalam",
         "formal_en": "Negara Brunei Darussalam",
         "iso_a3": "BRN",
-        "iso_n3": "096",
         "continent": "Asia",
         "region_wb": "East Asia & Pacific",
-        "filename": "BRN.geojson"
+        "filename": "BRN.geojson",
+        "LAGS": "096"
       },
       "geometry": {
         "type": "Polygon",
@@ -12434,10 +12434,10 @@
         "name_long": "Bhutan",
         "formal_en": "Kingdom of Bhutan",
         "iso_a3": "BTN",
-        "iso_n3": "064",
         "continent": "Asia",
         "region_wb": "South Asia",
-        "filename": "BTN.geojson"
+        "filename": "BTN.geojson",
+        "LAGS": "064"
       },
       "geometry": {
         "type": "Polygon",
@@ -12505,10 +12505,10 @@
         "name_long": "China",
         "formal_en": "People's Republic of China",
         "iso_a3": "CHN",
-        "iso_n3": "156",
         "continent": "Asia",
         "region_wb": "East Asia & Pacific",
-        "filename": "CHN.geojson"
+        "filename": "CHN.geojson",
+        "LAGS": "L479"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -13490,10 +13490,10 @@
         "name_long": "Northern Cyprus",
         "formal_en": "Turkish Republic of Northern Cyprus",
         "iso_a3": "-99",
-        "iso_n3": "-99",
         "continent": "Asia",
         "region_wb": "Europe & Central Asia",
-        "filename": "CYN.geojson"
+        "filename": "CYN.geojson",
+        "LAGS": "L162"
       },
       "geometry": {
         "type": "Polygon",
@@ -13573,10 +13573,10 @@
         "name_long": "Cyprus",
         "formal_en": "Republic of Cyprus",
         "iso_a3": "CYP",
-        "iso_n3": "196",
         "continent": "Asia",
         "region_wb": "Europe & Central Asia",
-        "filename": "CYP.geojson"
+        "filename": "CYP.geojson",
+        "LAGS": "196"
       },
       "geometry": {
         "type": "Polygon",
@@ -13652,10 +13652,10 @@
         "name_long": "India",
         "formal_en": "Republic of India",
         "iso_a3": "IND",
-        "iso_n3": "356",
         "continent": "Asia",
         "region_wb": "South Asia",
-        "filename": "IND.geojson"
+        "filename": "IND.geojson",
+        "LAGS": "356"
       },
       "geometry": {
         "type": "Polygon",
@@ -14215,10 +14215,10 @@
         "name_long": "Iran",
         "formal_en": "Islamic Republic of Iran",
         "iso_a3": "IRN",
-        "iso_n3": "364",
         "continent": "Asia",
         "region_wb": "Middle East & North Africa",
-        "filename": "IRN.geojson"
+        "filename": "IRN.geojson",
+        "LAGS": "364"
       },
       "geometry": {
         "type": "Polygon",
@@ -14534,10 +14534,10 @@
         "name_long": "Indonesia",
         "formal_en": "Republic of Indonesia",
         "iso_a3": "IDN",
-        "iso_n3": "360",
         "continent": "Asia",
         "region_wb": "East Asia & Pacific",
-        "filename": "IDN.geojson"
+        "filename": "IDN.geojson",
+        "LAGS": "360"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15603,10 +15603,10 @@
         "name_long": "Paraguay",
         "formal_en": "Republic of Paraguay",
         "iso_a3": "PRY",
-        "iso_n3": "600",
         "continent": "South America",
         "region_wb": "Latin America & Caribbean",
-        "filename": "PRY.geojson"
+        "filename": "PRY.geojson",
+        "LAGS": "600"
       },
       "geometry": {
         "type": "Polygon",
@@ -15754,10 +15754,10 @@
         "name_long": "Iraq",
         "formal_en": "Republic of Iraq",
         "iso_a3": "IRQ",
-        "iso_n3": "368",
         "continent": "Asia",
         "region_wb": "Middle East & North Africa",
-        "filename": "IRQ.geojson"
+        "filename": "IRQ.geojson",
+        "LAGS": "L138"
       },
       "geometry": {
         "type": "Polygon",
@@ -15893,10 +15893,10 @@
         "name_long": "Israel",
         "formal_en": "State of Israel",
         "iso_a3": "ISR",
-        "iso_n3": "376",
         "continent": "Asia",
         "region_wb": "Middle East & North Africa",
-        "filename": "ISR.geojson"
+        "filename": "ISR.geojson",
+        "LAGS": "376"
       },
       "geometry": {
         "type": "Polygon",
@@ -16004,10 +16004,10 @@
         "name_long": "Japan",
         "formal_en": "Japan",
         "iso_a3": "JPN",
-        "iso_n3": "392",
         "continent": "Asia",
         "region_wb": "East Asia & Pacific",
-        "filename": "JPN.geojson"
+        "filename": "JPN.geojson",
+        "LAGS": "392"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16293,10 +16293,10 @@
         "name_long": "Jordan",
         "formal_en": "Hashemite Kingdom of Jordan",
         "iso_a3": "JOR",
-        "iso_n3": "400",
         "continent": "Asia",
         "region_wb": "Middle East & North Africa",
-        "filename": "JOR.geojson"
+        "filename": "JOR.geojson",
+        "LAGS": "400"
       },
       "geometry": {
         "type": "Polygon",
@@ -16388,10 +16388,10 @@
         "name_long": "Suriname",
         "formal_en": "Republic of Suriname",
         "iso_a3": "SUR",
-        "iso_n3": "740",
         "continent": "South America",
         "region_wb": "Latin America & Caribbean",
-        "filename": "SUR.geojson"
+        "filename": "SUR.geojson",
+        "LAGS": "740"
       },
       "geometry": {
         "type": "Polygon",
@@ -16511,10 +16511,10 @@
         "name_long": "Kazakhstan",
         "formal_en": "Republic of Kazakhstan",
         "iso_a3": "KAZ",
-        "iso_n3": "398",
         "continent": "Asia",
         "region_wb": "Europe & Central Asia",
-        "filename": "KAZ.geojson"
+        "filename": "KAZ.geojson",
+        "LAGS": "398"
       },
       "geometry": {
         "type": "Polygon",
@@ -16978,10 +16978,10 @@
         "name_long": "Kyrgyzstan",
         "formal_en": "Kyrgyz Republic",
         "iso_a3": "KGZ",
-        "iso_n3": "417",
         "continent": "Asia",
         "region_wb": "Europe & Central Asia",
-        "filename": "KGZ.geojson"
+        "filename": "KGZ.geojson",
+        "LAGS": "417"
       },
       "geometry": {
         "type": "Polygon",
@@ -17137,10 +17137,10 @@
         "name_long": "Uruguay",
         "formal_en": "Oriental Republic of Uruguay",
         "iso_a3": "URY",
-        "iso_n3": "858",
         "continent": "South America",
         "region_wb": "Latin America & Caribbean",
-        "filename": "URY.geojson"
+        "filename": "URY.geojson",
+        "LAGS": "858"
       },
       "geometry": {
         "type": "Polygon",
@@ -17240,10 +17240,10 @@
         "name_long": "Republic of Korea",
         "formal_en": "Republic of Korea",
         "iso_a3": "KOR",
-        "iso_n3": "410",
         "continent": "Asia",
         "region_wb": "East Asia & Pacific",
-        "filename": "KOR.geojson"
+        "filename": "KOR.geojson",
+        "LAGS": "410"
       },
       "geometry": {
         "type": "Polygon",
@@ -17335,10 +17335,10 @@
         "name_long": "Cambodia",
         "formal_en": "Kingdom of Cambodia",
         "iso_a3": "KHM",
-        "iso_n3": "116",
         "continent": "Asia",
         "region_wb": "East Asia & Pacific",
-        "filename": "KHM.geojson"
+        "filename": "KHM.geojson",
+        "LAGS": "116"
       },
       "geometry": {
         "type": "Polygon",
@@ -17422,10 +17422,10 @@
         "name_long": "Kuwait",
         "formal_en": "State of Kuwait",
         "iso_a3": "KWT",
-        "iso_n3": "414",
         "continent": "Asia",
         "region_wb": "Middle East & North Africa",
-        "filename": "KWT.geojson"
+        "filename": "KWT.geojson",
+        "LAGS": "414"
       },
       "geometry": {
         "type": "Polygon",
@@ -17477,10 +17477,10 @@
         "name_long": "Venezuela",
         "formal_en": "Bolivarian Republic of Venezuela",
         "iso_a3": "VEN",
-        "iso_n3": "862",
         "continent": "South America",
         "region_wb": "Latin America & Caribbean",
-        "filename": "VEN.geojson"
+        "filename": "VEN.geojson",
+        "LAGS": "862"
       },
       "geometry": {
         "type": "Polygon",
@@ -17864,10 +17864,10 @@
         "name_long": "Lao PDR",
         "formal_en": "Lao People's Democratic Republic",
         "iso_a3": "LAO",
-        "iso_n3": "418",
         "continent": "Asia",
         "region_wb": "East Asia & Pacific",
-        "filename": "LAO.geojson"
+        "filename": "LAO.geojson",
+        "LAGS": "418"
       },
       "geometry": {
         "type": "Polygon",
@@ -18031,10 +18031,10 @@
         "name_long": "Lebanon",
         "formal_en": "Lebanese Republic",
         "iso_a3": "LBN",
-        "iso_n3": "422",
         "continent": "Asia",
         "region_wb": "Middle East & North Africa",
-        "filename": "LBN.geojson"
+        "filename": "LBN.geojson",
+        "LAGS": "422"
       },
       "geometry": {
         "type": "Polygon",
@@ -18094,10 +18094,10 @@
         "name_long": "Sri Lanka",
         "formal_en": "Democratic Socialist Republic of Sri Lanka",
         "iso_a3": "LKA",
-        "iso_n3": "144",
         "continent": "Asia",
         "region_wb": "South Asia",
-        "filename": "LKA.geojson"
+        "filename": "LKA.geojson",
+        "LAGS": "144"
       },
       "geometry": {
         "type": "Polygon",
@@ -18153,10 +18153,10 @@
         "name_long": "Myanmar",
         "formal_en": "Republic of the Union of Myanmar",
         "iso_a3": "MMR",
-        "iso_n3": "104",
         "continent": "Asia",
         "region_wb": "East Asia & Pacific",
-        "filename": "MMR.geojson"
+        "filename": "MMR.geojson",
+        "LAGS": "104"
       },
       "geometry": {
         "type": "Polygon",
@@ -18452,10 +18452,10 @@
         "name_long": "Malaysia",
         "formal_en": "Malaysia",
         "iso_a3": "MYS",
-        "iso_n3": "458",
         "continent": "Asia",
         "region_wb": "East Asia & Pacific",
-        "filename": "MYS.geojson"
+        "filename": "MYS.geojson",
+        "LAGS": "458"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -18725,10 +18725,10 @@
         "name_long": "Mongolia",
         "formal_en": "Mongolia",
         "iso_a3": "MNG",
-        "iso_n3": "496",
         "continent": "Asia",
         "region_wb": "East Asia & Pacific",
-        "filename": "MNG.geojson"
+        "filename": "MNG.geojson",
+        "LAGS": "496"
       },
       "geometry": {
         "type": "Polygon",
@@ -19044,10 +19044,10 @@
         "name_long": "Oman",
         "formal_en": "Sultanate of Oman",
         "iso_a3": "OMN",
-        "iso_n3": "512",
         "continent": "Asia",
         "region_wb": "Middle East & North Africa",
-        "filename": "OMN.geojson"
+        "filename": "OMN.geojson",
+        "LAGS": "512"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -19257,10 +19257,10 @@
         "name_long": "Pakistan",
         "formal_en": "Islamic Republic of Pakistan",
         "iso_a3": "PAK",
-        "iso_n3": "586",
         "continent": "Asia",
         "region_wb": "South Asia",
-        "filename": "PAK.geojson"
+        "filename": "PAK.geojson",
+        "LAGS": "586"
       },
       "geometry": {
         "type": "Polygon",
@@ -19540,10 +19540,10 @@
         "name_long": "Dem. Rep. Korea",
         "formal_en": "Democratic People's Republic of Korea",
         "iso_a3": "PRK",
-        "iso_n3": "408",
         "continent": "Asia",
         "region_wb": "East Asia & Pacific",
-        "filename": "PRK.geojson"
+        "filename": "PRK.geojson",
+        "LAGS": "408"
       },
       "geometry": {
         "type": "Polygon",
@@ -19731,10 +19731,10 @@
         "name_long": "Philippines",
         "formal_en": "Republic of the Philippines",
         "iso_a3": "PHL",
-        "iso_n3": "608",
         "continent": "Asia",
         "region_wb": "East Asia & Pacific",
-        "filename": "PHL.geojson"
+        "filename": "PHL.geojson",
+        "LAGS": "608"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -20216,10 +20216,10 @@
         "name_long": "Palestine",
         "formal_en": "West Bank and Gaza",
         "iso_a3": "PSE",
-        "iso_n3": "275",
         "continent": "Asia",
         "region_wb": "Middle East & North Africa",
-        "filename": "PSE.geojson"
+        "filename": "PSE.geojson",
+        "LAGS": "275"
       },
       "geometry": {
         "type": "Polygon",
@@ -20271,10 +20271,10 @@
         "name_long": "Saudi Arabia",
         "formal_en": "Kingdom of Saudi Arabia",
         "iso_a3": "SAU",
-        "iso_n3": "682",
         "continent": "Asia",
         "region_wb": "Middle East & North Africa",
-        "filename": "SAU.geojson"
+        "filename": "SAU.geojson",
+        "LAGS": "682"
       },
       "geometry": {
         "type": "Polygon",
@@ -20594,10 +20594,10 @@
         "name_long": "Qatar",
         "formal_en": "State of Qatar",
         "iso_a3": "QAT",
-        "iso_n3": "634",
         "continent": "Asia",
         "region_wb": "Middle East & North Africa",
-        "filename": "QAT.geojson"
+        "filename": "QAT.geojson",
+        "LAGS": "634"
       },
       "geometry": {
         "type": "Polygon",
@@ -20649,10 +20649,10 @@
         "name_long": "Georgia",
         "formal_en": "Georgia",
         "iso_a3": "GEO",
-        "iso_n3": "268",
         "continent": "Asia",
         "region_wb": "Europe & Central Asia",
-        "filename": "GEO.geojson"
+        "filename": "GEO.geojson",
+        "LAGS": "268"
       },
       "geometry": {
         "type": "Polygon",
@@ -20764,10 +20764,10 @@
         "name_long": "Syria",
         "formal_en": "Syrian Arab Republic",
         "iso_a3": "SYR",
-        "iso_n3": "760",
         "continent": "Asia",
         "region_wb": "Middle East & North Africa",
-        "filename": "SYR.geojson"
+        "filename": "SYR.geojson",
+        "LAGS": "L475"
       },
       "geometry": {
         "type": "Polygon",
@@ -20891,10 +20891,10 @@
         "name_long": "Thailand",
         "formal_en": "Kingdom of Thailand",
         "iso_a3": "THA",
-        "iso_n3": "764",
         "continent": "Asia",
         "region_wb": "East Asia & Pacific",
-        "filename": "THA.geojson"
+        "filename": "THA.geojson",
+        "LAGS": "764"
       },
       "geometry": {
         "type": "Polygon",
@@ -21166,10 +21166,10 @@
         "name_long": "Tajikistan",
         "formal_en": "Republic of Tajikistan",
         "iso_a3": "TJK",
-        "iso_n3": "762",
         "continent": "Asia",
         "region_wb": "Europe & Central Asia",
-        "filename": "TJK.geojson"
+        "filename": "TJK.geojson",
+        "LAGS": "762"
       },
       "geometry": {
         "type": "Polygon",
@@ -21349,10 +21349,10 @@
         "name_long": "Turkey",
         "formal_en": "Republic of Turkey",
         "iso_a3": "TUR",
-        "iso_n3": "792",
         "continent": "Asia",
         "region_wb": "Europe & Central Asia",
-        "filename": "TUR.geojson"
+        "filename": "TUR.geojson",
+        "LAGS": "792"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -21642,10 +21642,10 @@
         "name_long": "Turkmenistan",
         "formal_en": "Turkmenistan",
         "iso_a3": "TKM",
-        "iso_n3": "795",
         "continent": "Asia",
         "region_wb": "Europe & Central Asia",
-        "filename": "TKM.geojson"
+        "filename": "TKM.geojson",
+        "LAGS": "795"
       },
       "geometry": {
         "type": "Polygon",
@@ -21877,10 +21877,10 @@
         "name_long": "Timor-Leste",
         "formal_en": "Democratic Republic of Timor-Leste",
         "iso_a3": "TLS",
-        "iso_n3": "626",
         "continent": "Asia",
         "region_wb": "East Asia & Pacific",
-        "filename": "TLS.geojson"
+        "filename": "TLS.geojson",
+        "LAGS": "626"
       },
       "geometry": {
         "type": "Polygon",
@@ -21940,10 +21940,10 @@
         "name_long": "Uzbekistan",
         "formal_en": "Republic of Uzbekistan",
         "iso_a3": "UZB",
-        "iso_n3": "860",
         "continent": "Asia",
         "region_wb": "Europe & Central Asia",
-        "filename": "UZB.geojson"
+        "filename": "UZB.geojson",
+        "LAGS": "860"
       },
       "geometry": {
         "type": "Polygon",
@@ -22175,10 +22175,10 @@
         "name_long": "Taiwan",
         "formal_en": null,
         "iso_a3": "TWN",
-        "iso_n3": "158",
         "continent": "Asia",
         "region_wb": "East Asia & Pacific",
-        "filename": "TWN.geojson"
+        "filename": "TWN.geojson",
+        "LAGS": "158"
       },
       "geometry": {
         "type": "Polygon",
@@ -22230,10 +22230,10 @@
         "name_long": "Yemen",
         "formal_en": "Republic of Yemen",
         "iso_a3": "YEM",
-        "iso_n3": "887",
         "continent": "Asia",
         "region_wb": "Middle East & North Africa",
-        "filename": "YEM.geojson"
+        "filename": "YEM.geojson",
+        "LAGS": "887"
       },
       "geometry": {
         "type": "Polygon",
@@ -22425,10 +22425,10 @@
         "name_long": "Australia",
         "formal_en": "Commonwealth of Australia",
         "iso_a3": "AUS",
-        "iso_n3": "036",
         "continent": "Oceania",
         "region_wb": "East Asia & Pacific",
-        "filename": "AUS.geojson"
+        "filename": "AUS.geojson",
+        "LAGS": "036"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23414,10 +23414,10 @@
         "name_long": "Vietnam",
         "formal_en": "Socialist Republic of Vietnam",
         "iso_a3": "VNM",
-        "iso_n3": "704",
         "continent": "Asia",
         "region_wb": "East Asia & Pacific",
-        "filename": "VNM.geojson"
+        "filename": "VNM.geojson",
+        "LAGS": "L432"
       },
       "geometry": {
         "type": "Polygon",
@@ -23609,10 +23609,10 @@
         "name_long": "Fiji",
         "formal_en": "Republic of Fiji",
         "iso_a3": "FJI",
-        "iso_n3": "242",
         "continent": "Oceania",
         "region_wb": "East Asia & Pacific",
-        "filename": "FJI.geojson"
+        "filename": "FJI.geojson",
+        "LAGS": "242"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -23726,10 +23726,10 @@
         "name_long": "New Caledonia",
         "formal_en": "New Caledonia",
         "iso_a3": "NCL",
-        "iso_n3": "540",
         "continent": "Oceania",
         "region_wb": "East Asia & Pacific",
-        "filename": "NCL.geojson"
+        "filename": "NCL.geojson",
+        "LAGS": "540"
       },
       "geometry": {
         "type": "Polygon",
@@ -23797,10 +23797,10 @@
         "name_long": "New Zealand",
         "formal_en": "New Zealand",
         "iso_a3": "NZL",
-        "iso_n3": "554",
         "continent": "Oceania",
         "region_wb": "East Asia & Pacific",
-        "filename": "NZL.geojson"
+        "filename": "NZL.geojson",
+        "LAGS": "554"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24086,10 +24086,10 @@
         "name_long": "Papua New Guinea",
         "formal_en": "Independent State of Papua New Guinea",
         "iso_a3": "PNG",
-        "iso_n3": "598",
         "continent": "Oceania",
         "region_wb": "East Asia & Pacific",
-        "filename": "PNG.geojson"
+        "filename": "PNG.geojson",
+        "LAGS": "598"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24443,10 +24443,10 @@
         "name_long": "Solomon Islands",
         "formal_en": null,
         "iso_a3": "SLB",
-        "iso_n3": "090",
         "continent": "Oceania",
         "region_wb": "East Asia & Pacific",
-        "filename": "SLB.geojson"
+        "filename": "SLB.geojson",
+        "LAGS": "090"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24628,10 +24628,10 @@
         "name_long": "Vanuatu",
         "formal_en": "Republic of Vanuatu",
         "iso_a3": "VUT",
-        "iso_n3": "548",
         "continent": "Oceania",
         "region_wb": "East Asia & Pacific",
-        "filename": "VUT.geojson"
+        "filename": "VUT.geojson",
+        "LAGS": "548"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -24701,10 +24701,10 @@
         "name_long": "Albania",
         "formal_en": "Republic of Albania",
         "iso_a3": "ALB",
-        "iso_n3": "008",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
-        "filename": "ALB.geojson"
+        "filename": "ALB.geojson",
+        "LAGS": "008"
       },
       "geometry": {
         "type": "Polygon",
@@ -24808,10 +24808,10 @@
         "name_long": "Nepal",
         "formal_en": "Nepal",
         "iso_a3": "NPL",
-        "iso_n3": "524",
         "continent": "Asia",
         "region_wb": "South Asia",
-        "filename": "NPL.geojson"
+        "filename": "NPL.geojson",
+        "LAGS": "524"
       },
       "geometry": {
         "type": "Polygon",
@@ -24919,10 +24919,10 @@
         "name_long": "Austria",
         "formal_en": "Republic of Austria",
         "iso_a3": "AUT",
-        "iso_n3": "040",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
-        "filename": "AUT.geojson"
+        "filename": "AUT.geojson",
+        "LAGS": "040"
       },
       "geometry": {
         "type": "Polygon",
@@ -25086,10 +25086,10 @@
         "name_long": "Bosnia and Herzegovina",
         "formal_en": "Bosnia and Herzegovina",
         "iso_a3": "BIH",
-        "iso_n3": "070",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
-        "filename": "BIH.geojson"
+        "filename": "BIH.geojson",
+        "LAGS": "070"
       },
       "geometry": {
         "type": "Polygon",
@@ -25193,10 +25193,10 @@
         "name_long": "Bulgaria",
         "formal_en": "Republic of Bulgaria",
         "iso_a3": "BGR",
-        "iso_n3": "100",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
-        "filename": "BGR.geojson"
+        "filename": "BGR.geojson",
+        "LAGS": "L125"
       },
       "geometry": {
         "type": "Polygon",
@@ -25324,10 +25324,10 @@
         "name_long": "Belgium",
         "formal_en": "Kingdom of Belgium",
         "iso_a3": "BEL",
-        "iso_n3": "056",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
-        "filename": "BEL.geojson"
+        "filename": "BEL.geojson",
+        "LAGS": "056"
       },
       "geometry": {
         "type": "Polygon",
@@ -25403,10 +25403,10 @@
         "name_long": "Belarus",
         "formal_en": "Republic of Belarus",
         "iso_a3": "BLR",
-        "iso_n3": "112",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
-        "filename": "BLR.geojson"
+        "filename": "BLR.geojson",
+        "LAGS": "112"
       },
       "geometry": {
         "type": "Polygon",
@@ -25598,10 +25598,10 @@
         "name_long": "Switzerland",
         "formal_en": "Swiss Confederation",
         "iso_a3": "CHE",
-        "iso_n3": "756",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
-        "filename": "CHE.geojson"
+        "filename": "CHE.geojson",
+        "LAGS": "756"
       },
       "geometry": {
         "type": "Polygon",
@@ -25713,10 +25713,10 @@
         "name_long": "Czech Republic",
         "formal_en": "Czech Republic",
         "iso_a3": "CZE",
-        "iso_n3": "203",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
-        "filename": "CZE.geojson"
+        "filename": "CZE.geojson",
+        "LAGS": "203"
       },
       "geometry": {
         "type": "Polygon",
@@ -25872,10 +25872,10 @@
         "name_long": "Germany",
         "formal_en": "Federal Republic of Germany",
         "iso_a3": "DEU",
-        "iso_n3": "276",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
-        "filename": "DEU.geojson"
+        "filename": "DEU.geojson",
+        "LAGS": "276"
       },
       "geometry": {
         "type": "Polygon",
@@ -26123,10 +26123,10 @@
         "name_long": "Denmark",
         "formal_en": "Kingdom of Denmark",
         "iso_a3": "DNK",
-        "iso_n3": "208",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
-        "filename": "DNK.geojson"
+        "filename": "DNK.geojson",
+        "LAGS": "208"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26244,10 +26244,10 @@
         "name_long": "Estonia",
         "formal_en": "Republic of Estonia",
         "iso_a3": "EST",
-        "iso_n3": "233",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
-        "filename": "EST.geojson"
+        "filename": "EST.geojson",
+        "LAGS": "233"
       },
       "geometry": {
         "type": "Polygon",
@@ -26331,10 +26331,10 @@
         "name_long": "Finland",
         "formal_en": "Republic of Finland",
         "iso_a3": "FIN",
-        "iso_n3": "246",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
-        "filename": "FIN.geojson"
+        "filename": "FIN.geojson",
+        "LAGS": "246"
       },
       "geometry": {
         "type": "Polygon",
@@ -26502,10 +26502,10 @@
         "name_long": "France",
         "formal_en": "French Republic",
         "iso_a3": "FRA",
-        "iso_n3": "250",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
-        "filename": "FRA.geojson"
+        "filename": "FRA.geojson",
+        "LAGS": "250"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -26827,10 +26827,10 @@
         "name_long": "Spain",
         "formal_en": "Kingdom of Spain",
         "iso_a3": "ESP",
-        "iso_n3": "724",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
-        "filename": "ESP.geojson"
+        "filename": "ESP.geojson",
+        "LAGS": "L161"
       },
       "geometry": {
         "type": "Polygon",
@@ -27050,10 +27050,10 @@
         "name_long": "United Kingdom",
         "formal_en": "United Kingdom of Great Britain and Northern Ireland",
         "iso_a3": "GBR",
-        "iso_n3": "826",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
-        "filename": "GBR.geojson"
+        "filename": "GBR.geojson",
+        "LAGS": "826"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27299,10 +27299,10 @@
         "name_long": "Croatia",
         "formal_en": "Republic of Croatia",
         "iso_a3": "HRV",
-        "iso_n3": "191",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
-        "filename": "HRV.geojson"
+        "filename": "HRV.geojson",
+        "LAGS": "L130"
       },
       "geometry": {
         "type": "Polygon",
@@ -27486,10 +27486,10 @@
         "name_long": "Hungary",
         "formal_en": "Republic of Hungary",
         "iso_a3": "HUN",
-        "iso_n3": "348",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
-        "filename": "HUN.geojson"
+        "filename": "HUN.geojson",
+        "LAGS": "L165"
       },
       "geometry": {
         "type": "Polygon",
@@ -27629,10 +27629,10 @@
         "name_long": "Greece",
         "formal_en": "Hellenic Republic",
         "iso_a3": "GRC",
-        "iso_n3": "300",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
-        "filename": "GRC.geojson"
+        "filename": "GRC.geojson",
+        "LAGS": "300"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -27870,10 +27870,10 @@
         "name_long": "Iceland",
         "formal_en": "Republic of Iceland",
         "iso_a3": "ISL",
-        "iso_n3": "352",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
-        "filename": "ISL.geojson"
+        "filename": "ISL.geojson",
+        "LAGS": "352"
       },
       "geometry": {
         "type": "Polygon",
@@ -27969,10 +27969,10 @@
         "name_long": "Ireland",
         "formal_en": "Ireland",
         "iso_a3": "IRL",
-        "iso_n3": "372",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
-        "filename": "IRL.geojson"
+        "filename": "IRL.geojson",
+        "LAGS": "372"
       },
       "geometry": {
         "type": "Polygon",
@@ -28040,10 +28040,10 @@
         "name_long": "Italy",
         "formal_en": "Italian Republic",
         "iso_a3": "ITA",
-        "iso_n3": "380",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
-        "filename": "ITA.geojson"
+        "filename": "ITA.geojson",
+        "LAGS": "L137"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -28417,10 +28417,10 @@
         "name_long": "Kosovo",
         "formal_en": "Republic of Kosovo",
         "iso_a3": "-99",
-        "iso_n3": "-99",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
-        "filename": "KOS.geojson"
+        "filename": "KOS.geojson",
+        "LAGS": "-99"
       },
       "geometry": {
         "type": "Polygon",
@@ -28520,10 +28520,10 @@
         "name_long": "Lithuania",
         "formal_en": "Republic of Lithuania",
         "iso_a3": "LTU",
-        "iso_n3": "440",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
-        "filename": "LTU.geojson"
+        "filename": "LTU.geojson",
+        "LAGS": "440"
       },
       "geometry": {
         "type": "Polygon",
@@ -28615,10 +28615,10 @@
         "name_long": "Macedonia",
         "formal_en": "Former Yugoslav Republic of Macedonia",
         "iso_a3": "MKD",
-        "iso_n3": "807",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
-        "filename": "MKD.geojson"
+        "filename": "MKD.geojson",
+        "LAGS": "807"
       },
       "geometry": {
         "type": "Polygon",
@@ -28702,10 +28702,10 @@
         "name_long": "Luxembourg",
         "formal_en": "Grand Duchy of Luxembourg",
         "iso_a3": "LUX",
-        "iso_n3": "442",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
-        "filename": "LUX.geojson"
+        "filename": "LUX.geojson",
+        "LAGS": "442"
       },
       "geometry": {
         "type": "Polygon",
@@ -28749,10 +28749,10 @@
         "name_long": "Moldova",
         "formal_en": "Republic of Moldova",
         "iso_a3": "MDA",
-        "iso_n3": "498",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
-        "filename": "MDA.geojson"
+        "filename": "MDA.geojson",
+        "LAGS": "498"
       },
       "geometry": {
         "type": "Polygon",
@@ -28876,10 +28876,10 @@
         "name_long": "Latvia",
         "formal_en": "Republic of Latvia",
         "iso_a3": "LVA",
-        "iso_n3": "428",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
-        "filename": "LVA.geojson"
+        "filename": "LVA.geojson",
+        "LAGS": "428"
       },
       "geometry": {
         "type": "Polygon",
@@ -28983,10 +28983,10 @@
         "name_long": "Norway",
         "formal_en": "Kingdom of Norway",
         "iso_a3": "NOR",
-        "iso_n3": "578",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
-        "filename": "NOR.geojson"
+        "filename": "NOR.geojson",
+        "LAGS": "578"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -29368,10 +29368,10 @@
         "name_long": "Netherlands",
         "formal_en": "Kingdom of the Netherlands",
         "iso_a3": "NLD",
-        "iso_n3": "528",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
-        "filename": "NLD.geojson"
+        "filename": "NLD.geojson",
+        "LAGS": "L148"
       },
       "geometry": {
         "type": "Polygon",
@@ -29443,10 +29443,10 @@
         "name_long": "Poland",
         "formal_en": "Republic of Poland",
         "iso_a3": "POL",
-        "iso_n3": "616",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
-        "filename": "POL.geojson"
+        "filename": "POL.geojson",
+        "LAGS": "L152"
       },
       "geometry": {
         "type": "Polygon",
@@ -29642,10 +29642,10 @@
         "name_long": "Montenegro",
         "formal_en": "Montenegro",
         "iso_a3": "MNE",
-        "iso_n3": "499",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
-        "filename": "MNE.geojson"
+        "filename": "MNE.geojson",
+        "LAGS": "499"
       },
       "geometry": {
         "type": "Polygon",
@@ -29733,10 +29733,10 @@
         "name_long": "Portugal",
         "formal_en": "Portuguese Republic",
         "iso_a3": "PRT",
-        "iso_n3": "620",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
-        "filename": "PRT.geojson"
+        "filename": "PRT.geojson",
+        "LAGS": "L153"
       },
       "geometry": {
         "type": "Polygon",
@@ -29884,10 +29884,10 @@
         "name_long": "Romania",
         "formal_en": "Romania",
         "iso_a3": "ROU",
-        "iso_n3": "642",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
-        "filename": "ROU.geojson"
+        "filename": "ROU.geojson",
+        "LAGS": "L154"
       },
       "geometry": {
         "type": "Polygon",
@@ -30079,10 +30079,10 @@
         "name_long": "Russian Federation",
         "formal_en": "Russian Federation",
         "iso_a3": "RUS",
-        "iso_n3": "643",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
-        "filename": "RUS.geojson"
+        "filename": "RUS.geojson",
+        "LAGS": "L160"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -32540,10 +32540,10 @@
         "name_long": "Slovakia",
         "formal_en": "Slovak Republic",
         "iso_a3": "SVK",
-        "iso_n3": "703",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
-        "filename": "SVK.geojson"
+        "filename": "SVK.geojson",
+        "LAGS": "703"
       },
       "geometry": {
         "type": "Polygon",
@@ -32691,10 +32691,10 @@
         "name_long": "Serbia",
         "formal_en": "Republic of Serbia",
         "iso_a3": "SRB",
-        "iso_n3": "688",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
-        "filename": "SRB.geojson"
+        "filename": "SRB.geojson",
+        "LAGS": "L170"
       },
       "geometry": {
         "type": "Polygon",
@@ -32894,10 +32894,10 @@
         "name_long": "Slovenia",
         "formal_en": "Republic of Slovenia",
         "iso_a3": "SVN",
-        "iso_n3": "705",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
-        "filename": "SVN.geojson"
+        "filename": "SVN.geojson",
+        "LAGS": "705"
       },
       "geometry": {
         "type": "Polygon",
@@ -32985,10 +32985,10 @@
         "name_long": "Sweden",
         "formal_en": "Kingdom of Sweden",
         "iso_a3": "SWE",
-        "iso_n3": "752",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
-        "filename": "SWE.geojson"
+        "filename": "SWE.geojson",
+        "LAGS": "752"
       },
       "geometry": {
         "type": "Polygon",
@@ -33164,10 +33164,10 @@
         "name_long": "Ukraine",
         "formal_en": "Ukraine",
         "iso_a3": "UKR",
-        "iso_n3": "804",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
-        "filename": "UKR.geojson"
+        "filename": "UKR.geojson",
+        "LAGS": "L_166"
       },
       "geometry": {
         "type": "Polygon",
@@ -33575,10 +33575,10 @@
         "name_long": "Angola",
         "formal_en": "People's Republic of Angola",
         "iso_a3": "AGO",
-        "iso_n3": "024",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
-        "filename": "AGO.geojson"
+        "filename": "AGO.geojson",
+        "LAGS": "024"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -33900,10 +33900,10 @@
         "name_long": "Burundi",
         "formal_en": "Republic of Burundi",
         "iso_a3": "BDI",
-        "iso_n3": "108",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
-        "filename": "BDI.geojson"
+        "filename": "BDI.geojson",
+        "LAGS": "108"
       },
       "geometry": {
         "type": "Polygon",
@@ -33971,10 +33971,10 @@
         "name_long": "Burkina Faso",
         "formal_en": "Burkina Faso",
         "iso_a3": "BFA",
-        "iso_n3": "854",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
-        "filename": "BFA.geojson"
+        "filename": "BFA.geojson",
+        "LAGS": "854"
       },
       "geometry": {
         "type": "Polygon",
@@ -34146,10 +34146,10 @@
         "name_long": "Benin",
         "formal_en": "Republic of Benin",
         "iso_a3": "BEN",
-        "iso_n3": "204",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
-        "filename": "BEN.geojson"
+        "filename": "BEN.geojson",
+        "LAGS": "204"
       },
       "geometry": {
         "type": "Polygon",
@@ -34265,10 +34265,10 @@
         "name_long": "Central African Republic",
         "formal_en": "Central African Republic",
         "iso_a3": "CAF",
-        "iso_n3": "140",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
-        "filename": "CAF.geojson"
+        "filename": "CAF.geojson",
+        "LAGS": "140"
       },
       "geometry": {
         "type": "Polygon",
@@ -34532,10 +34532,10 @@
         "name_long": "Botswana",
         "formal_en": "Republic of Botswana",
         "iso_a3": "BWA",
-        "iso_n3": "072",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
-        "filename": "BWA.geojson"
+        "filename": "BWA.geojson",
+        "LAGS": "072"
       },
       "geometry": {
         "type": "Polygon",
@@ -34711,10 +34711,10 @@
         "name_long": "Côte d'Ivoire",
         "formal_en": "Republic of Ivory Coast",
         "iso_a3": "CIV",
-        "iso_n3": "384",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
-        "filename": "CIV.geojson"
+        "filename": "CIV.geojson",
+        "LAGS": "384"
       },
       "geometry": {
         "type": "Polygon",
@@ -34914,10 +34914,10 @@
         "name_long": "Cameroon",
         "formal_en": "Republic of Cameroon",
         "iso_a3": "CMR",
-        "iso_n3": "120",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
-        "filename": "CMR.geojson"
+        "filename": "CMR.geojson",
+        "LAGS": "120"
       },
       "geometry": {
         "type": "Polygon",
@@ -35177,10 +35177,10 @@
         "name_long": "Democratic Republic of the Congo",
         "formal_en": "Democratic Republic of the Congo",
         "iso_a3": "COD",
-        "iso_n3": "180",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
-        "filename": "COD.geojson"
+        "filename": "COD.geojson",
+        "LAGS": "180"
       },
       "geometry": {
         "type": "Polygon",
@@ -35684,10 +35684,10 @@
         "name_long": "Republic of Congo",
         "formal_en": "Republic of Congo",
         "iso_a3": "COG",
-        "iso_n3": "178",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
-        "filename": "COG.geojson"
+        "filename": "COG.geojson",
+        "LAGS": "178"
       },
       "geometry": {
         "type": "Polygon",
@@ -35899,10 +35899,10 @@
         "name_long": "Djibouti",
         "formal_en": "Republic of Djibouti",
         "iso_a3": "DJI",
-        "iso_n3": "262",
         "continent": "Africa",
         "region_wb": "Middle East & North Africa",
-        "filename": "DJI.geojson"
+        "filename": "DJI.geojson",
+        "LAGS": "262"
       },
       "geometry": {
         "type": "Polygon",
@@ -35978,10 +35978,10 @@
         "name_long": "Algeria",
         "formal_en": "People's Democratic Republic of Algeria",
         "iso_a3": "DZA",
-        "iso_n3": "012",
         "continent": "Africa",
         "region_wb": "Middle East & North Africa",
-        "filename": "DZA.geojson"
+        "filename": "DZA.geojson",
+        "LAGS": "012"
       },
       "geometry": {
         "type": "Polygon",
@@ -36245,10 +36245,10 @@
         "name_long": "Egypt",
         "formal_en": "Arab Republic of Egypt",
         "iso_a3": "EGY",
-        "iso_n3": "818",
         "continent": "Africa",
         "region_wb": "Middle East & North Africa",
-        "filename": "EGY.geojson"
+        "filename": "EGY.geojson",
+        "LAGS": "818"
       },
       "geometry": {
         "type": "Polygon",
@@ -36432,10 +36432,10 @@
         "name_long": "Eritrea",
         "formal_en": "State of Eritrea",
         "iso_a3": "ERI",
-        "iso_n3": "232",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
-        "filename": "ERI.geojson"
+        "filename": "ERI.geojson",
+        "LAGS": "232"
       },
       "geometry": {
         "type": "Polygon",
@@ -36563,10 +36563,10 @@
         "name_long": "Gabon",
         "formal_en": "Gabonese Republic",
         "iso_a3": "GAB",
-        "iso_n3": "266",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
-        "filename": "GAB.geojson"
+        "filename": "GAB.geojson",
+        "LAGS": "266"
       },
       "geometry": {
         "type": "Polygon",
@@ -36706,10 +36706,10 @@
         "name_long": "Guinea",
         "formal_en": "Republic of Guinea",
         "iso_a3": "GIN",
-        "iso_n3": "324",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
-        "filename": "GIN.geojson"
+        "filename": "GIN.geojson",
+        "LAGS": "324"
       },
       "geometry": {
         "type": "Polygon",
@@ -37005,10 +37005,10 @@
         "name_long": "Ghana",
         "formal_en": "Republic of Ghana",
         "iso_a3": "GHA",
-        "iso_n3": "288",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
-        "filename": "GHA.geojson"
+        "filename": "GHA.geojson",
+        "LAGS": "288"
       },
       "geometry": {
         "type": "Polygon",
@@ -37124,10 +37124,10 @@
         "name_long": "Ethiopia",
         "formal_en": "Federal Democratic Republic of Ethiopia",
         "iso_a3": "ETH",
-        "iso_n3": "231",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
-        "filename": "ETH.geojson"
+        "filename": "ETH.geojson",
+        "LAGS": "231"
       },
       "geometry": {
         "type": "Polygon",
@@ -37379,10 +37379,10 @@
         "name_long": "The Gambia",
         "formal_en": "Republic of the Gambia",
         "iso_a3": "GMB",
-        "iso_n3": "270",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
-        "filename": "GMB.geojson"
+        "filename": "GMB.geojson",
+        "LAGS": "270"
       },
       "geometry": {
         "type": "Polygon",
@@ -37462,10 +37462,10 @@
         "name_long": "Guinea-Bissau",
         "formal_en": "Republic of Guinea-Bissau",
         "iso_a3": "GNB",
-        "iso_n3": "624",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
-        "filename": "GNB.geojson"
+        "filename": "GNB.geojson",
+        "LAGS": "624"
       },
       "geometry": {
         "type": "Polygon",
@@ -37557,10 +37557,10 @@
         "name_long": "Equatorial Guinea",
         "formal_en": "Republic of Equatorial Guinea",
         "iso_a3": "GNQ",
-        "iso_n3": "226",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
-        "filename": "GNQ.geojson"
+        "filename": "GNQ.geojson",
+        "LAGS": "226"
       },
       "geometry": {
         "type": "Polygon",
@@ -37604,10 +37604,10 @@
         "name_long": "Kenya",
         "formal_en": "Republic of Kenya",
         "iso_a3": "KEN",
-        "iso_n3": "404",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
-        "filename": "KEN.geojson"
+        "filename": "KEN.geojson",
+        "LAGS": "404"
       },
       "geometry": {
         "type": "Polygon",
@@ -37771,10 +37771,10 @@
         "name_long": "Liberia",
         "formal_en": "Republic of Liberia",
         "iso_a3": "LBR",
-        "iso_n3": "430",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
-        "filename": "LBR.geojson"
+        "filename": "LBR.geojson",
+        "LAGS": "430"
       },
       "geometry": {
         "type": "Polygon",
@@ -37898,10 +37898,10 @@
         "name_long": "Libya",
         "formal_en": "Libya",
         "iso_a3": "LBY",
-        "iso_n3": "434",
         "continent": "Africa",
         "region_wb": "Middle East & North Africa",
-        "filename": "LBY.geojson"
+        "filename": "LBY.geojson",
+        "LAGS": "434"
       },
       "geometry": {
         "type": "Polygon",
@@ -38141,10 +38141,10 @@
         "name_long": "Lesotho",
         "formal_en": "Kingdom of Lesotho",
         "iso_a3": "LSO",
-        "iso_n3": "426",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
-        "filename": "LSO.geojson"
+        "filename": "LSO.geojson",
+        "LAGS": "426"
       },
       "geometry": {
         "type": "Polygon",
@@ -38208,10 +38208,10 @@
         "name_long": "Madagascar",
         "formal_en": "Republic of Madagascar",
         "iso_a3": "MDG",
-        "iso_n3": "450",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
-        "filename": "MDG.geojson"
+        "filename": "MDG.geojson",
+        "LAGS": "450"
       },
       "geometry": {
         "type": "Polygon",
@@ -38423,10 +38423,10 @@
         "name_long": "Mali",
         "formal_en": "Republic of Mali",
         "iso_a3": "MLI",
-        "iso_n3": "466",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
-        "filename": "MLI.geojson"
+        "filename": "MLI.geojson",
+        "LAGS": "466"
       },
       "geometry": {
         "type": "Polygon",
@@ -38746,10 +38746,10 @@
         "name_long": "Morocco",
         "formal_en": "Kingdom of Morocco",
         "iso_a3": "MAR",
-        "iso_n3": "504",
         "continent": "Africa",
         "region_wb": "Middle East & North Africa",
-        "filename": "MAR.geojson"
+        "filename": "MAR.geojson",
+        "LAGS": "504"
       },
       "geometry": {
         "type": "Polygon",
@@ -39021,10 +39021,10 @@
         "name_long": "Mauritania",
         "formal_en": "Islamic Republic of Mauritania",
         "iso_a3": "MRT",
-        "iso_n3": "478",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
-        "filename": "MRT.geojson"
+        "filename": "MRT.geojson",
+        "LAGS": "478"
       },
       "geometry": {
         "type": "Polygon",
@@ -39196,10 +39196,10 @@
         "name_long": "Namibia",
         "formal_en": "Republic of Namibia",
         "iso_a3": "NAM",
-        "iso_n3": "516",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
-        "filename": "NAM.geojson"
+        "filename": "NAM.geojson",
+        "LAGS": "516"
       },
       "geometry": {
         "type": "Polygon",
@@ -39391,10 +39391,10 @@
         "name_long": "Malawi",
         "formal_en": "Republic of Malawi",
         "iso_a3": "MWI",
-        "iso_n3": "454",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
-        "filename": "MWI.geojson"
+        "filename": "MWI.geojson",
+        "LAGS": "454"
       },
       "geometry": {
         "type": "Polygon",
@@ -39522,10 +39522,10 @@
         "name_long": "Niger",
         "formal_en": "Republic of Niger",
         "iso_a3": "NER",
-        "iso_n3": "562",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
-        "filename": "NER.geojson"
+        "filename": "NER.geojson",
+        "LAGS": "562"
       },
       "geometry": {
         "type": "Polygon",
@@ -39773,10 +39773,10 @@
         "name_long": "Nigeria",
         "formal_en": "Federal Republic of Nigeria",
         "iso_a3": "NGA",
-        "iso_n3": "566",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
-        "filename": "NGA.geojson"
+        "filename": "NGA.geojson",
+        "LAGS": "566"
       },
       "geometry": {
         "type": "Polygon",
@@ -40024,10 +40024,10 @@
         "name_long": "Mozambique",
         "formal_en": "Republic of Mozambique",
         "iso_a3": "MOZ",
-        "iso_n3": "508",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
-        "filename": "MOZ.geojson"
+        "filename": "MOZ.geojson",
+        "LAGS": "508"
       },
       "geometry": {
         "type": "Polygon",
@@ -40351,10 +40351,10 @@
         "name_long": "Rwanda",
         "formal_en": "Republic of Rwanda",
         "iso_a3": "RWA",
-        "iso_n3": "646",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
-        "filename": "RWA.geojson"
+        "filename": "RWA.geojson",
+        "LAGS": "646"
       },
       "geometry": {
         "type": "Polygon",
@@ -40422,10 +40422,10 @@
         "name_long": "Western Sahara",
         "formal_en": "Sahrawi Arab Democratic Republic",
         "iso_a3": "ESH",
-        "iso_n3": "732",
         "continent": "Africa",
         "region_wb": "Middle East & North Africa",
-        "filename": "ESH.geojson"
+        "filename": "ESH.geojson",
+        "LAGS": "732"
       },
       "geometry": {
         "type": "Polygon",
@@ -40553,10 +40553,10 @@
         "name_long": "Sudan",
         "formal_en": "Republic of the Sudan",
         "iso_a3": "SDN",
-        "iso_n3": "729",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
-        "filename": "SDN.geojson"
+        "filename": "SDN.geojson",
+        "LAGS": "729"
       },
       "geometry": {
         "type": "Polygon",
@@ -40888,10 +40888,10 @@
         "name_long": "South Sudan",
         "formal_en": "Republic of South Sudan",
         "iso_a3": "SSD",
-        "iso_n3": "728",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
-        "filename": "SSD.geojson"
+        "filename": "SSD.geojson",
+        "LAGS": "728"
       },
       "geometry": {
         "type": "Polygon",
@@ -41159,10 +41159,10 @@
         "name_long": "Senegal",
         "formal_en": "Republic of Senegal",
         "iso_a3": "SEN",
-        "iso_n3": "686",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
-        "filename": "SEN.geojson"
+        "filename": "SEN.geojson",
+        "LAGS": "686"
       },
       "geometry": {
         "type": "Polygon",
@@ -41354,10 +41354,10 @@
         "name_long": "Somaliland",
         "formal_en": "Republic of Somaliland",
         "iso_a3": "-99",
-        "iso_n3": "-99",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
-        "filename": "somaliland.geojson"
+        "filename": "somaliland.geojson",
+        "LAGS": "-99"
       },
       "geometry": {
         "type": "Polygon",
@@ -41469,10 +41469,10 @@
         "name_long": "Sierra Leone",
         "formal_en": "Republic of Sierra Leone",
         "iso_a3": "SLE",
-        "iso_n3": "694",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
-        "filename": "SLE.geojson"
+        "filename": "SLE.geojson",
+        "LAGS": "694"
       },
       "geometry": {
         "type": "Polygon",
@@ -41576,10 +41576,10 @@
         "name_long": "Chad",
         "formal_en": "Republic of Chad",
         "iso_a3": "TCD",
-        "iso_n3": "148",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
-        "filename": "TCD.geojson"
+        "filename": "TCD.geojson",
+        "LAGS": "148"
       },
       "geometry": {
         "type": "Polygon",
@@ -41827,10 +41827,10 @@
         "name_long": "Swaziland",
         "formal_en": "Kingdom of Swaziland",
         "iso_a3": "SWZ",
-        "iso_n3": "748",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
-        "filename": "SWZ.geojson"
+        "filename": "SWZ.geojson",
+        "LAGS": "748"
       },
       "geometry": {
         "type": "Polygon",
@@ -41890,10 +41890,10 @@
         "name_long": "Somalia",
         "formal_en": "Federal Republic of Somalia",
         "iso_a3": "SOM",
-        "iso_n3": "706",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
-        "filename": "SOM.geojson"
+        "filename": "SOM.geojson",
+        "LAGS": "706"
       },
       "geometry": {
         "type": "Polygon",
@@ -42053,10 +42053,10 @@
         "name_long": "Tunisia",
         "formal_en": "Republic of Tunisia",
         "iso_a3": "TUN",
-        "iso_n3": "788",
         "continent": "Africa",
         "region_wb": "Middle East & North Africa",
-        "filename": "TUN.geojson"
+        "filename": "TUN.geojson",
+        "LAGS": "788"
       },
       "geometry": {
         "type": "Polygon",
@@ -42196,10 +42196,10 @@
         "name_long": "Togo",
         "formal_en": "Togolese Republic",
         "iso_a3": "TGO",
-        "iso_n3": "768",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
-        "filename": "TGO.geojson"
+        "filename": "TGO.geojson",
+        "LAGS": "768"
       },
       "geometry": {
         "type": "Polygon",
@@ -42291,10 +42291,10 @@
         "name_long": "Tanzania",
         "formal_en": "United Republic of Tanzania",
         "iso_a3": "TZA",
-        "iso_n3": "834",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
-        "filename": "TZA.geojson"
+        "filename": "TZA.geojson",
+        "LAGS": "834"
       },
       "geometry": {
         "type": "Polygon",
@@ -42506,10 +42506,10 @@
         "name_long": "Uganda",
         "formal_en": "Republic of Uganda",
         "iso_a3": "UGA",
-        "iso_n3": "800",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
-        "filename": "UGA.geojson"
+        "filename": "UGA.geojson",
+        "LAGS": "800"
       },
       "geometry": {
         "type": "Polygon",
@@ -42633,10 +42633,10 @@
         "name_long": "South Africa",
         "formal_en": "Republic of South Africa",
         "iso_a3": "ZAF",
-        "iso_n3": "710",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
-        "filename": "ZAF.geojson"
+        "filename": "ZAF.geojson",
+        "LAGS": "710"
       },
       "geometry": {
         "type": "Polygon",
@@ -43030,10 +43030,10 @@
         "name_long": "Zambia",
         "formal_en": "Republic of Zambia",
         "iso_a3": "ZMB",
-        "iso_n3": "894",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
-        "filename": "ZMB.geojson"
+        "filename": "ZMB.geojson",
+        "LAGS": "894"
       },
       "geometry": {
         "type": "Polygon",
@@ -43293,10 +43293,10 @@
         "name_long": "Zimbabwe",
         "formal_en": "Republic of Zimbabwe",
         "iso_a3": "ZWE",
-        "iso_n3": "716",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
-        "filename": "ZWE.geojson"
+        "filename": "ZWE.geojson",
+        "LAGS": "716"
       },
       "geometry": {
         "type": "Polygon",
