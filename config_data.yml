@@ -119,7 +119,7 @@ map_layers:
 ##Sorting disaggregation entris
 
 fields:
-  - name: Geietseinheit
+  - name: Gebietseinheit
     constraints:
       enum:
         - Braunschweig Stadt
