@@ -119,7 +119,7 @@ map_layers:
 ##Sorting disaggregation entris
 
 datapackage:
-  sorting: default
+  sorting: alphabetical #default
 
 #fields:
 #  - name: Gebietseinheit
