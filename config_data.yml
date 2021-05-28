@@ -118,61 +118,64 @@ map_layers:
 
 ##Sorting disaggregation entris
 
-fields:
-  - name: Gebietseinheit
-    constraints:
-      enum:
-        - Braunschweig Stadt
-        - Salzgitter Stadt
-        - Wolfsburg Stadt
-        - Gifhorn
-        - Goslar
-        - Helmstedt
-        - Northeim
-        - Peine
-        - Wolfenbüttel
-        - Göttingen
-        - Statistische Region Braunschweig
-        - Hannover Region
-        - Hannover Landeshauptstadt
-        - Diepholz
-        - Hameln-Pyrmont
-        - Hildesheim
-        - Holzminden
-        - Nienburg (Weser)
-        - Schaumburg
-        - Statistische Region Hannover
-        - Celle
-        - Cuxhaven
-        - Harburg
-        - Lüchow-Dannenberg
-        - Lüneburg
-        - Osterholz
-        - Rotenburg (Wümme)
-        - Heidekreis
-        - Stade
-        - Uelzen
-        - Verden
-        - Statistische Region Lüneburg
-        - Delmenhorst Stadt
-        - Emden Stadt
-        - Oldenburg (Oldb) Stadt
-        - Osnabrück Stadt
-        - Wilhelmshaven Stadt
-        - Ammerland
-        - Aurich
-        - Cloppenburg
-        - Emsland
-        - Friesland
-        - Grafschaft Bentheim
-        - Leer
-        - Oldenburg
-        - Osnabrück
-        - Vechta
-        - Wesermarsch
-        - Wittmund
-        - Statistische Region Weser-Ems
-        - Niedersachsen
+datapackage:
+  sorting: default
+
+#fields:
+#  - name: Gebietseinheit
+#    constraints:
+#      enum:
+#        - Braunschweig Stadt
+#        - Salzgitter Stadt
+#        - Wolfsburg Stadt
+#        - Gifhorn
+#        - Goslar
+#        - Helmstedt
+#        - Northeim
+#        - Peine
+#        - Wolfenbüttel
+#        - Göttingen
+#        - Statistische Region Braunschweig
+#        - Hannover Region
+#        - Hannover Landeshauptstadt
+#        - Diepholz
+#        - Hameln-Pyrmont
+#        - Hildesheim
+#        - Holzminden
+#        - Nienburg (Weser)
+#        - Schaumburg
+#        - Statistische Region Hannover
+#        - Celle
+#        - Cuxhaven
+#        - Harburg
+#        - Lüchow-Dannenberg
+#        - Lüneburg
+#        - Osterholz
+#        - Rotenburg (Wümme)
+#        - Heidekreis
+#        - Stade
+#        - Uelzen
+#        - Verden
+#        - Statistische Region Lüneburg
+#        - Delmenhorst Stadt
+#        - Emden Stadt
+#        - Oldenburg (Oldb) Stadt
+#        - Osnabrück Stadt
+#        - Wilhelmshaven Stadt
+#        - Ammerland
+#        - Aurich
+#        - Cloppenburg
+#        - Emsland
+#        - Friesland
+#        - Grafschaft Bentheim
+#        - Leer
+#        - Oldenburg
+#        - Osnabrück
+#        - Vechta
+#        - Wesermarsch
+#        - Wittmund
+#        - Statistische Region Weser-Ems
+#        - Niedersachsen
 
 
 # Documentation settings
