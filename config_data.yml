@@ -110,7 +110,7 @@ map_layers:
     exclude_columns: ['Gebietseinheit']
 
   -
-    geojson_file: world_custom.geojson
+    geojson_file: worldmap/world_custom.geojson
     name_property: name_long
     id_property: LAGS
     output_subfolder: worldmap
