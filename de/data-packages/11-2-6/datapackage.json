@@ -1,0 +1,107 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Aufenthaltstitel",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Duldung"
+              ]
+            },
+            "title": "Aufenthaltstitel"
+          },
+          {
+            "name": "Gebietseinheit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Ammerland",
+                "Aurich",
+                "Braunschweig Stadt",
+                "Celle",
+                "Cloppenburg",
+                "Cuxhaven",
+                "Delmenhorst.Stadt",
+                "Diepholz",
+                "Emden Stadt",
+                "Emsland",
+                "Friesland",
+                "Gifhorn",
+                "Goslar",
+                "Grafschaft Bentheim",
+                "Göttingen",
+                "Hameln-Pyrmont",
+                "Hannover Landeshauptstadt",
+                "Hannover Region",
+                "Harburg",
+                "Heidekreis",
+                "Helmstedt",
+                "Hildesheim",
+                "Holzminden",
+                "Leer",
+                "Lüchow-Dannenberg",
+                "Lüneburg",
+                "Niedersachsen",
+                "Nienburg (Weser)",
+                "Northeim",
+                "Oldenburg",
+                "Oldenburg (Oldb) Stadt",
+                "Osnabrück",
+                "Osnabrück Stadt",
+                "Osterholz",
+                "Peine",
+                "Rotenburg (Wümme)",
+                "Salzgitter Stadt",
+                "Schaumburg",
+                "Stade",
+                "Statistische Region Braunschweig",
+                "Statistische Region Hannover",
+                "Statistische Region Lüneburg",
+                "Statistische Region Weser-Ems",
+                "Uelzen",
+                "Vechta",
+                "Verden",
+                "Wesermarsch",
+                "Wilhelmshaven Stadt",
+                "Wittmund",
+                "Wolfenbüttel",
+                "Wolfsburg Stadt"
+              ]
+            },
+            "title": "Gebietseinheit"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "11-2-6",
+  "title": "Duldung"
+}

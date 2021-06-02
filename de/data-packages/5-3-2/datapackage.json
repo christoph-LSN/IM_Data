@@ -1,0 +1,69 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Altersgruppe",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "15 bis unter 20 Jahre",
+                "20 bis unter 25 Jahre"
+              ]
+            },
+            "title": "Altersgruppe"
+          },
+          {
+            "name": "Geschlecht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Frauen",
+                "Männer"
+              ]
+            },
+            "title": "Geschlecht"
+          },
+          {
+            "name": "Kategorie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Abstand der Arbeitslosenquote von Ausländerinnen und Ausländern zu Insgesamt",
+                "Arbeitslosenquote (Insgesamt) der bis unter 25-Jährigen",
+                "Arbeitslosenquote Insgesamt (alle Erwerbspersonen)",
+                "Arbeitslosenquote der Ausländerinnen und Ausländer bis unter 25 Jahren",
+                "Arbeitslosenquote von Ausländerinnen und Ausländern (alle Erwerbspersonen)"
+              ]
+            },
+            "title": "Kategorie"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "5-3-2",
+  "title": "Entwicklung der Arbeitslosenquote (C6)"
+}

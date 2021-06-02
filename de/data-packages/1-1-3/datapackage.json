@@ -1,0 +1,87 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Besuchte Schule",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Berufl. Gymnasium",
+                "Berufseinstiegsklasse",
+                "Berufsfachschule",
+                "Berufsgrundbildungsjahr schulisch",
+                "Berufsoberschule",
+                "Berufsschule (Teilzeit)",
+                "Berufsvorbereitungsjahr",
+                "Fachoberschule",
+                "Fachschule",
+                "Insgesamt"
+              ]
+            },
+            "title": "Besuchte Schule"
+          },
+          {
+            "name": "Erreichter Abschluss",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Allgemeine Hochschulreife",
+                "Entlassung aus dem Berufsvorbereitungsjahr",
+                "Entlassungen aus dem Berufsvorbereitungsjahr",
+                "Erfolgreicher Besuch",
+                "Fachhochschulreife",
+                "Hauptschulabschluss",
+                "Insgesamt",
+                "Ohne erfolgreichen Besuch/Abschluss",
+                "Realschulabschluss",
+                "Schulischer Teil der Fachhochschulreife",
+                "erfolgreicher Besuch",
+                "nachrichtlich: Abbruch im laufenden Schuljahr",
+                "ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.",
+                "ohne erfolgreichen Besuch/Abschluss",
+                "   nachrichtlich: Abbruch im laufenden Schuljahr"
+              ]
+            },
+            "title": "Erreichter Abschluss"
+          },
+          {
+            "name": "Staatsangehörigkeit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Ausländerinnen und Ausländer",
+                "Deutsche"
+              ]
+            },
+            "title": "Staatsangehörigkeit"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "1-1-3",
+  "title": "Menschen in Niedersachsen nach Nationalität"
+}

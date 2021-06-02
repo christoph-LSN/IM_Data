@@ -1,0 +1,80 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Staatsangehörigkeit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Deutsche",
+                "Ausländerinnen und Ausländer",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Erreichter Abschluss",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Allgemeine Hochschulreife",
+                "Fachhochschulreife",
+                "Schulischer Teil der Fachhochschulreife",
+                "Realschulabschluss",
+                "Hauptschulabschluss",
+                "Erfolgreicher Besuch",
+                "Entlassungen aus dem Berufsvorbereitungsjahr",
+                "Ohne erfolgreichen Besuch/Abschluss",
+                "   nachrichtlich: Abbruch im laufenden Schuljahr",
+                "erfolgreicher Besuch",
+                "Entlassung aus dem Berufsvorbereitungsjahr",
+                "ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.",
+                "ohne erfolgreichen Besuch/Abschluss",
+                "nachrichtlich: Abbruch im laufenden Schuljahr",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Besuchte Schule",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Berufsschule (Teilzeit)",
+                "Berufsgrundbildungsjahr schulisch",
+                "Berufseinstiegsklasse",
+                "Berufsvorbereitungsjahr",
+                "Berufsfachschule",
+                "Fachoberschule",
+                "Berufsoberschule",
+                "Berufl. Gymnasium",
+                "Fachschule",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-1-2",
+  "title": "global_indicators.4-1-2-title"
+}

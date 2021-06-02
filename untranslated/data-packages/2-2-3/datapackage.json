@@ -1,0 +1,39 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Abschiebungen",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Abschiebungen insgesamt",
+                "Überstellung nach der Dublin III-VO",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-2-3",
+  "title": "global_indicators.2-2-3-title"
+}

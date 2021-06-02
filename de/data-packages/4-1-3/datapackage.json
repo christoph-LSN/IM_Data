@@ -1,0 +1,75 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Nationality",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Afghanistan",
+                "Afrika",
+                "Amerika",
+                "Asien",
+                "Australien und Ozeanien",
+                "Bulgarien",
+                "China",
+                "EU Staaten",
+                "Europa",
+                "Griechenland",
+                "Insgesamt",
+                "Irak ",
+                "Italien",
+                "Kroatien",
+                "Niederlande",
+                "Polen",
+                "Portugal",
+                "Rumänien",
+                "Russische Föderation",
+                "Serbien",
+                "Sonstige Ausprägungen",
+                "Spanien",
+                "Staatenlos",
+                "Syrien",
+                "Türkei",
+                "Ukraine",
+                "Ungarn",
+                "Ungeklärt und ohne Angabe",
+                "Vereinigtes Königreich",
+                "Vietnam"
+              ]
+            },
+            "title": "Nationality"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-1-3",
+  "title": "Schulabgängerinnen und Schulabgänger ohne Hauptschulabschluss nach Nationalität (B5)"
+}
