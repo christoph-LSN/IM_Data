@@ -11,76 +11,81 @@
       "schema": {
         "fields": [
           {
-            "name": "Aufenthaltstitel",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Bleiberecht (Aufenthaltsgewährung) und Opfer von Menschenhandel und organisierter Schwarzarbeit"
-              ]
-            },
-            "title": "Aufenthaltstitel"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "Gebietseinheit",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Ammerland",
-                "Aurich",
                 "Braunschweig Stadt",
-                "Celle",
-                "Cloppenburg",
-                "Cuxhaven",
-                "Delmenhorst.Stadt",
-                "Diepholz",
-                "Emden Stadt",
-                "Emsland",
-                "Friesland",
+                "Salzgitter Stadt",
+                "Wolfsburg Stadt",
                 "Gifhorn",
                 "Goslar",
-                "Grafschaft Bentheim",
-                "Göttingen",
-                "Hameln-Pyrmont",
-                "Hannover Landeshauptstadt",
-                "Hannover Region",
-                "Harburg",
-                "Heidekreis",
                 "Helmstedt",
+                "Northeim",
+                "Peine",
+                "Wolfenbüttel",
+                "Göttingen",
+                "Statistische Region Braunschweig",
+                "Hannover Region",
+                "Hannover Landeshauptstadt",
+                "Diepholz",
+                "Hameln-Pyrmont",
                 "Hildesheim",
                 "Holzminden",
-                "Leer",
+                "Nienburg (Weser)",
+                "Schaumburg",
+                "Statistische Region Hannover",
+                "Celle",
+                "Cuxhaven",
+                "Harburg",
                 "Lüchow-Dannenberg",
                 "Lüneburg",
-                "Niedersachsen",
-                "Nienburg (Weser)",
-                "Northeim",
-                "Oldenburg",
-                "Oldenburg (Oldb) Stadt",
-                "Osnabrück",
-                "Osnabrück Stadt",
                 "Osterholz",
-                "Peine",
                 "Rotenburg (Wümme)",
-                "Salzgitter Stadt",
-                "Schaumburg",
+                "Heidekreis",
                 "Stade",
-                "Statistische Region Braunschweig",
-                "Statistische Region Hannover",
-                "Statistische Region Lüneburg",
-                "Statistische Region Weser-Ems",
                 "Uelzen",
-                "Vechta",
                 "Verden",
-                "Wesermarsch",
+                "Statistische Region Lüneburg",
+                "Delmenhorst.Stadt",
+                "Emden Stadt",
+                "Oldenburg (Oldb) Stadt",
+                "Osnabrück Stadt",
                 "Wilhelmshaven Stadt",
+                "Ammerland",
+                "Aurich",
+                "Cloppenburg",
+                "Emsland",
+                "Friesland",
+                "Grafschaft Bentheim",
+                "Leer",
+                "Oldenburg",
+                "Osnabrück",
+                "Vechta",
+                "Wesermarsch",
                 "Wittmund",
-                "Wolfenbüttel",
-                "Wolfsburg Stadt"
+                "Statistische Region Weser-Ems",
+                "Niedersachsen",
+                ""
               ]
             },
             "title": "Gebietseinheit"
+          },
+          {
+            "name": "Aufenthaltstitel",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bleiberecht (Aufenthaltsgewährung) und Opfer von Menschenhandel und organisierter Schwarzarbeit",
+                ""
+              ]
+            },
+            "title": "Aufenthaltstitel"
           },
           {
             "name": "GeoCode",
@@ -91,11 +96,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
           }
         ]
       }
