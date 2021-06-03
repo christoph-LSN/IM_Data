@@ -120,8 +120,8 @@ map_layers:
 
 ##Sorting disaggregation entris
 
-#datapackage:
- # sorting: alphabetical #default
+datapackage:
+  sorting: default
  
 # data_schema:
 #  class: DataSchemaInputTableSchemaYaml
