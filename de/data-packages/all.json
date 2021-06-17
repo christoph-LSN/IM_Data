@@ -13,19 +13,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
                 "B",
-                "G",
-                ""
+                "G"
               ]
             },
             "title": "Group"
@@ -34,6 +29,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -50,19 +50,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
                 "B",
-                "G",
-                ""
+                "G"
               ]
             },
             "title": "Group"
@@ -71,6 +66,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -87,19 +87,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
                 "B",
-                "G",
-                ""
+                "G"
               ]
             },
             "title": "Group"
@@ -108,6 +103,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -124,81 +124,76 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
+            "name": "Aufenthaltstitel",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Familiennachzug"
+              ]
+            },
+            "title": "Aufenthaltstitel"
           },
           {
             "name": "Gebietseinheit",
             "type": "string",
             "constraints": {
               "enum": [
-                "Braunschweig Stadt",
-                "Salzgitter Stadt",
-                "Wolfsburg Stadt",
-                "Gifhorn",
-                "Goslar",
-                "Helmstedt",
-                "Northeim",
-                "Peine",
-                "Wolfenbüttel",
-                "Göttingen",
-                "Statistische Region Braunschweig",
-                "Hannover Region",
-                "Hannover Landeshauptstadt",
-                "Diepholz",
-                "Hameln-Pyrmont",
-                "Hildesheim",
-                "Holzminden",
-                "Nienburg (Weser)",
-                "Schaumburg",
-                "Statistische Region Hannover",
-                "Celle",
-                "Cuxhaven",
-                "Harburg",
-                "Lüchow-Dannenberg",
-                "Lüneburg",
-                "Osterholz",
-                "Rotenburg (Wümme)",
-                "Heidekreis",
-                "Stade",
-                "Uelzen",
-                "Verden",
-                "Statistische Region Lüneburg",
-                "Delmenhorst.Stadt",
-                "Emden Stadt",
-                "Oldenburg (Oldb) Stadt",
-                "Osnabrück Stadt",
-                "Wilhelmshaven Stadt",
+                "",
                 "Ammerland",
                 "Aurich",
+                "Braunschweig Stadt",
+                "Celle",
                 "Cloppenburg",
+                "Cuxhaven",
+                "Delmenhorst.Stadt",
+                "Diepholz",
+                "Emden Stadt",
                 "Emsland",
                 "Friesland",
+                "Gifhorn",
+                "Goslar",
                 "Grafschaft Bentheim",
+                "Göttingen",
+                "Hameln-Pyrmont",
+                "Hannover Landeshauptstadt",
+                "Hannover Region",
+                "Harburg",
+                "Heidekreis",
+                "Helmstedt",
+                "Hildesheim",
+                "Holzminden",
                 "Leer",
-                "Oldenburg",
-                "Osnabrück",
-                "Vechta",
-                "Wesermarsch",
-                "Wittmund",
-                "Statistische Region Weser-Ems",
+                "Lüchow-Dannenberg",
+                "Lüneburg",
                 "Niedersachsen",
-                ""
+                "Nienburg (Weser)",
+                "Northeim",
+                "Oldenburg",
+                "Oldenburg (Oldb) Stadt",
+                "Osnabrück",
+                "Osnabrück Stadt",
+                "Osterholz",
+                "Peine",
+                "Rotenburg (Wümme)",
+                "Salzgitter Stadt",
+                "Schaumburg",
+                "Stade",
+                "Statistische Region Braunschweig",
+                "Statistische Region Hannover",
+                "Statistische Region Lüneburg",
+                "Statistische Region Weser-Ems",
+                "Uelzen",
+                "Vechta",
+                "Verden",
+                "Wesermarsch",
+                "Wilhelmshaven Stadt",
+                "Wittmund",
+                "Wolfenbüttel",
+                "Wolfsburg Stadt"
               ]
             },
             "title": "Gebietseinheit"
-          },
-          {
-            "name": "Aufenthaltstitel",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Familiennachzug",
-                ""
-              ]
-            },
-            "title": "Aufenthaltstitel"
           },
           {
             "name": "GeoCode",
@@ -209,6 +204,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -225,81 +225,76 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
+            "name": "Aufenthaltstitel",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Niederlassungserlaubnis "
+              ]
+            },
+            "title": "Aufenthaltstitel"
           },
           {
             "name": "Gebietseinheit",
             "type": "string",
             "constraints": {
               "enum": [
-                "Braunschweig Stadt",
-                "Salzgitter Stadt",
-                "Wolfsburg Stadt",
-                "Gifhorn",
-                "Goslar",
-                "Helmstedt",
-                "Northeim",
-                "Peine",
-                "Wolfenbüttel",
-                "Göttingen",
-                "Statistische Region Braunschweig",
-                "Hannover Region",
-                "Hannover Landeshauptstadt",
-                "Diepholz",
-                "Hameln-Pyrmont",
-                "Hildesheim",
-                "Holzminden",
-                "Nienburg (Weser)",
-                "Schaumburg",
-                "Statistische Region Hannover",
-                "Celle",
-                "Cuxhaven",
-                "Harburg",
-                "Lüchow-Dannenberg",
-                "Lüneburg",
-                "Osterholz",
-                "Rotenburg (Wümme)",
-                "Heidekreis",
-                "Stade",
-                "Uelzen",
-                "Verden",
-                "Statistische Region Lüneburg",
-                "Delmenhorst.Stadt",
-                "Emden Stadt",
-                "Oldenburg (Oldb) Stadt",
-                "Osnabrück Stadt",
-                "Wilhelmshaven Stadt",
+                "",
                 "Ammerland",
                 "Aurich",
+                "Braunschweig Stadt",
+                "Celle",
                 "Cloppenburg",
+                "Cuxhaven",
+                "Delmenhorst.Stadt",
+                "Diepholz",
+                "Emden Stadt",
                 "Emsland",
                 "Friesland",
+                "Gifhorn",
+                "Goslar",
                 "Grafschaft Bentheim",
+                "Göttingen",
+                "Hameln-Pyrmont",
+                "Hannover Landeshauptstadt",
+                "Hannover Region",
+                "Harburg",
+                "Heidekreis",
+                "Helmstedt",
+                "Hildesheim",
+                "Holzminden",
                 "Leer",
-                "Oldenburg",
-                "Osnabrück",
-                "Vechta",
-                "Wesermarsch",
-                "Wittmund",
-                "Statistische Region Weser-Ems",
+                "Lüchow-Dannenberg",
+                "Lüneburg",
                 "Niedersachsen",
-                ""
+                "Nienburg (Weser)",
+                "Northeim",
+                "Oldenburg",
+                "Oldenburg (Oldb) Stadt",
+                "Osnabrück",
+                "Osnabrück Stadt",
+                "Osterholz",
+                "Peine",
+                "Rotenburg (Wümme)",
+                "Salzgitter Stadt",
+                "Schaumburg",
+                "Stade",
+                "Statistische Region Braunschweig",
+                "Statistische Region Hannover",
+                "Statistische Region Lüneburg",
+                "Statistische Region Weser-Ems",
+                "Uelzen",
+                "Vechta",
+                "Verden",
+                "Wesermarsch",
+                "Wilhelmshaven Stadt",
+                "Wittmund",
+                "Wolfenbüttel",
+                "Wolfsburg Stadt"
               ]
             },
             "title": "Gebietseinheit"
-          },
-          {
-            "name": "Aufenthaltstitel",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Niederlassungserlaubnis ",
-                ""
-              ]
-            },
-            "title": "Aufenthaltstitel"
           },
           {
             "name": "GeoCode",
@@ -310,6 +305,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -326,19 +326,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
                 "B",
-                "G",
-                ""
+                "G"
               ]
             },
             "title": "Group"
@@ -347,6 +342,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -363,91 +363,86 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
+            "name": "Aufenthaltstitel",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Asylberechtigte und GFK-Flüchtlinge",
+                "Aufenthaltsgestattung zum Asylverfahren",
+                "Aufnahmeerklärung vor Schutz Resettlement Kontingentflüchtlinge",
+                "Bleiberecht (Aufenthaltsgewährung) und Opfer von Menschenhandel und organisierter Schwarzarbeit",
+                "Dringende persönliche o. humanitäre Gründe Härtefälle",
+                "Duldung",
+                "Familiennachzug",
+                "Geflüchtete und geduldete Personen insgesamt",
+                "Niederlassungserlaubnis ",
+                "Unmöglichkeit d. Ausreise aus rechtl. oder tats. Gründen",
+                "Verbot der Abschiebung Subsidiärer Schutz1)"
+              ]
+            },
+            "title": "Aufenthaltstitel"
           },
           {
             "name": "Gebietseinheit",
             "type": "string",
             "constraints": {
               "enum": [
-                "Braunschweig Stadt",
-                "Salzgitter Stadt",
-                "Wolfsburg Stadt",
-                "Gifhorn",
-                "Goslar",
-                "Helmstedt",
-                "Northeim",
-                "Peine",
-                "Wolfenbüttel",
-                "Göttingen",
-                "Statistische Region Braunschweig",
-                "Hannover Region",
-                "Hannover Landeshauptstadt",
-                "Diepholz",
-                "Hameln-Pyrmont",
-                "Hildesheim",
-                "Holzminden",
-                "Nienburg (Weser)",
-                "Schaumburg",
-                "Statistische Region Hannover",
-                "Celle",
-                "Cuxhaven",
-                "Harburg",
-                "Lüchow-Dannenberg",
-                "Lüneburg",
-                "Osterholz",
-                "Rotenburg (Wümme)",
-                "Heidekreis",
-                "Stade",
-                "Uelzen",
-                "Verden",
-                "Statistische Region Lüneburg",
-                "Delmenhorst.Stadt",
-                "Emden Stadt",
-                "Oldenburg (Oldb) Stadt",
-                "Osnabrück Stadt",
-                "Wilhelmshaven Stadt",
+                "",
                 "Ammerland",
                 "Aurich",
+                "Braunschweig Stadt",
+                "Celle",
                 "Cloppenburg",
+                "Cuxhaven",
+                "Delmenhorst.Stadt",
+                "Diepholz",
+                "Emden Stadt",
                 "Emsland",
                 "Friesland",
+                "Gifhorn",
+                "Goslar",
                 "Grafschaft Bentheim",
+                "Göttingen",
+                "Hameln-Pyrmont",
+                "Hannover Landeshauptstadt",
+                "Hannover Region",
+                "Harburg",
+                "Heidekreis",
+                "Helmstedt",
+                "Hildesheim",
+                "Holzminden",
                 "Leer",
-                "Oldenburg",
-                "Osnabrück",
-                "Vechta",
-                "Wesermarsch",
-                "Wittmund",
-                "Statistische Region Weser-Ems",
+                "Lüchow-Dannenberg",
+                "Lüneburg",
                 "Niedersachsen",
-                ""
+                "Nienburg (Weser)",
+                "Northeim",
+                "Oldenburg",
+                "Oldenburg (Oldb) Stadt",
+                "Osnabrück",
+                "Osnabrück Stadt",
+                "Osterholz",
+                "Peine",
+                "Rotenburg (Wümme)",
+                "Salzgitter Stadt",
+                "Schaumburg",
+                "Stade",
+                "Statistische Region Braunschweig",
+                "Statistische Region Hannover",
+                "Statistische Region Lüneburg",
+                "Statistische Region Weser-Ems",
+                "Uelzen",
+                "Vechta",
+                "Verden",
+                "Wesermarsch",
+                "Wilhelmshaven Stadt",
+                "Wittmund",
+                "Wolfenbüttel",
+                "Wolfsburg Stadt"
               ]
             },
             "title": "Gebietseinheit"
-          },
-          {
-            "name": "Aufenthaltstitel",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Geflüchtete und geduldete Personen insgesamt",
-                "Niederlassungserlaubnis ",
-                "Asylberechtigte und GFK-Flüchtlinge",
-                "Aufnahmeerklärung vor Schutz Resettlement Kontingentflüchtlinge",
-                "Verbot der Abschiebung Subsidiärer Schutz1)",
-                "Unmöglichkeit d. Ausreise aus rechtl. oder tats. Gründen",
-                "Bleiberecht (Aufenthaltsgewährung) und Opfer von Menschenhandel und organisierter Schwarzarbeit",
-                "Dringende persönliche o. humanitäre Gründe Härtefälle",
-                "Aufenthaltsgestattung zum Asylverfahren",
-                "Duldung",
-                "Familiennachzug",
-                ""
-              ]
-            },
-            "title": "Aufenthaltstitel"
           },
           {
             "name": "GeoCode",
@@ -458,6 +453,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -474,68 +474,63 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Gebietseinheit",
             "type": "string",
             "constraints": {
               "enum": [
-                "Braunschweig Stadt",
-                "Salzgitter Stadt",
-                "Wolfsburg Stadt",
-                "Gifhorn",
-                "Goslar",
-                "Helmstedt",
-                "Northeim",
-                "Peine",
-                "Wolfenbüttel",
-                "Göttingen",
-                "Statistische Region Braunschweig",
-                "Hannover Region",
-                "Hannover Landeshauptstadt",
-                "Hannover Umland",
-                "Diepholz",
-                "Hameln-Pyrmont",
-                "Hildesheim",
-                "Holzminden",
-                "Nienburg (Weser)",
-                "Schaumburg",
-                "Statistische Region Hannover",
-                "Celle",
-                "Cuxhaven",
-                "Harburg",
-                "Lüchow-Dannenberg",
-                "Lüneburg",
-                "Osterholz",
-                "Rotenburg (Wümme)",
-                "Heidekreis",
-                "Stade",
-                "Uelzen",
-                "Verden",
-                "Statistische Region Lüneburg",
-                "Delmenhorst.Stadt",
-                "Emden Stadt",
-                "Oldenburg (Oldb) Stadt",
-                "Osnabrück Stadt",
-                "Wilhelmshaven Stadt",
+                "",
                 "Ammerland",
                 "Aurich",
+                "Braunschweig Stadt",
+                "Celle",
                 "Cloppenburg",
+                "Cuxhaven",
+                "Delmenhorst.Stadt",
+                "Diepholz",
+                "Emden Stadt",
                 "Emsland",
                 "Friesland",
+                "Gifhorn",
+                "Goslar",
                 "Grafschaft Bentheim",
+                "Göttingen",
+                "Hameln-Pyrmont",
+                "Hannover Landeshauptstadt",
+                "Hannover Region",
+                "Hannover Umland",
+                "Harburg",
+                "Heidekreis",
+                "Helmstedt",
+                "Hildesheim",
+                "Holzminden",
                 "Leer",
-                "Oldenburg",
-                "Osnabrück",
-                "Vechta",
-                "Wesermarsch",
-                "Wittmund",
-                "Statistische Region Weser-Ems",
+                "Lüchow-Dannenberg",
+                "Lüneburg",
                 "Niedersachsen",
-                ""
+                "Nienburg (Weser)",
+                "Northeim",
+                "Oldenburg",
+                "Oldenburg (Oldb) Stadt",
+                "Osnabrück",
+                "Osnabrück Stadt",
+                "Osterholz",
+                "Peine",
+                "Rotenburg (Wümme)",
+                "Salzgitter Stadt",
+                "Schaumburg",
+                "Stade",
+                "Statistische Region Braunschweig",
+                "Statistische Region Hannover",
+                "Statistische Region Lüneburg",
+                "Statistische Region Weser-Ems",
+                "Uelzen",
+                "Vechta",
+                "Verden",
+                "Wesermarsch",
+                "Wilhelmshaven Stadt",
+                "Wittmund",
+                "Wolfenbüttel",
+                "Wolfsburg Stadt"
               ]
             },
             "title": "Gebietseinheit"
@@ -549,6 +544,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -565,18 +565,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Durchschnittliche Bewohnerzahl in der Landesaufnahmebehörde Niedersachsen (LAB NI)",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Belegung",
-                "vorhandene Kapazität",
-                ""
+                "vorhandene Kapazität"
               ]
             },
             "title": "Durchschnittliche Bewohnerzahl in der Landesaufnahmebehörde Niedersachsen (LAB NI)"
@@ -585,6 +580,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -601,19 +601,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
                 "B",
-                "G",
-                ""
+                "G"
               ]
             },
             "title": "Group"
@@ -622,6 +617,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -638,81 +638,76 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
+            "name": "Aufenthaltstitel",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Duldung"
+              ]
+            },
+            "title": "Aufenthaltstitel"
           },
           {
             "name": "Gebietseinheit",
             "type": "string",
             "constraints": {
               "enum": [
-                "Braunschweig Stadt",
-                "Salzgitter Stadt",
-                "Wolfsburg Stadt",
-                "Gifhorn",
-                "Goslar",
-                "Helmstedt",
-                "Northeim",
-                "Peine",
-                "Wolfenbüttel",
-                "Göttingen",
-                "Statistische Region Braunschweig",
-                "Hannover Region",
-                "Hannover Landeshauptstadt",
-                "Diepholz",
-                "Hameln-Pyrmont",
-                "Hildesheim",
-                "Holzminden",
-                "Nienburg (Weser)",
-                "Schaumburg",
-                "Statistische Region Hannover",
-                "Celle",
-                "Cuxhaven",
-                "Harburg",
-                "Lüchow-Dannenberg",
-                "Lüneburg",
-                "Osterholz",
-                "Rotenburg (Wümme)",
-                "Heidekreis",
-                "Stade",
-                "Uelzen",
-                "Verden",
-                "Statistische Region Lüneburg",
-                "Delmenhorst.Stadt",
-                "Emden Stadt",
-                "Oldenburg (Oldb) Stadt",
-                "Osnabrück Stadt",
-                "Wilhelmshaven Stadt",
+                "",
                 "Ammerland",
                 "Aurich",
+                "Braunschweig Stadt",
+                "Celle",
                 "Cloppenburg",
+                "Cuxhaven",
+                "Delmenhorst.Stadt",
+                "Diepholz",
+                "Emden Stadt",
                 "Emsland",
                 "Friesland",
+                "Gifhorn",
+                "Goslar",
                 "Grafschaft Bentheim",
+                "Göttingen",
+                "Hameln-Pyrmont",
+                "Hannover Landeshauptstadt",
+                "Hannover Region",
+                "Harburg",
+                "Heidekreis",
+                "Helmstedt",
+                "Hildesheim",
+                "Holzminden",
                 "Leer",
-                "Oldenburg",
-                "Osnabrück",
-                "Vechta",
-                "Wesermarsch",
-                "Wittmund",
-                "Statistische Region Weser-Ems",
+                "Lüchow-Dannenberg",
+                "Lüneburg",
                 "Niedersachsen",
-                ""
+                "Nienburg (Weser)",
+                "Northeim",
+                "Oldenburg",
+                "Oldenburg (Oldb) Stadt",
+                "Osnabrück",
+                "Osnabrück Stadt",
+                "Osterholz",
+                "Peine",
+                "Rotenburg (Wümme)",
+                "Salzgitter Stadt",
+                "Schaumburg",
+                "Stade",
+                "Statistische Region Braunschweig",
+                "Statistische Region Hannover",
+                "Statistische Region Lüneburg",
+                "Statistische Region Weser-Ems",
+                "Uelzen",
+                "Vechta",
+                "Verden",
+                "Wesermarsch",
+                "Wilhelmshaven Stadt",
+                "Wittmund",
+                "Wolfenbüttel",
+                "Wolfsburg Stadt"
               ]
             },
             "title": "Gebietseinheit"
-          },
-          {
-            "name": "Aufenthaltstitel",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Duldung",
-                ""
-              ]
-            },
-            "title": "Aufenthaltstitel"
           },
           {
             "name": "GeoCode",
@@ -723,6 +718,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -739,19 +739,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
                 "B",
-                "G",
-                ""
+                "G"
               ]
             },
             "title": "Group"
@@ -760,6 +755,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -776,19 +776,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
                 "B",
-                "G",
-                ""
+                "G"
               ]
             },
             "title": "Group"
@@ -797,6 +792,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -813,19 +813,19 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Kategorie",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "insgesamt",
                 "männlich",
-                "weiblich",
-                ""
+                "weiblich"
               ]
             },
             "title": "Kategorie"
@@ -835,142 +835,142 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "",
+                "  Afghanistan                       ",
                 "  Albanien                          ",
+                "  Algerien                          ",
+                "  Angola                            ",
+                "  Argentinien                       ",
+                "  Armenien                          ",
+                "  Aserbaidschan                     ",
+                "  Bangladesch                       ",
                 "  Belgien                           ",
+                "  Benin                             ",
+                "  Bolivien                          ",
                 "  Bosnien und Herzegowina           ",
+                "  Brasilien                         ",
                 "  Bulgarien                         ",
+                "  Burkina Faso                      ",
+                "  Chile                             ",
+                "  China                             ",
+                "  Cote d'Ivoire                     ",
+                "  Die Palästinänsischen Gebiete     ",
+                "  Dominikanische Republik           ",
                 "  Dänemark                          ",
+                "  Eritrea                           ",
                 "  Estland                           ",
                 "  Finnland                          ",
                 "  Frankreich                        ",
+                "  Gambia                            ",
+                "  Georgien                          ",
+                "  Ghana                             ",
                 "  Griechenland                      ",
+                "  Indien                            ",
+                "  Indonesien                        ",
+                "  Irak                              ",
+                "  Iran Islamische Republik         ",
                 "  Irland                            ",
                 "  Island                            ",
+                "  Israel                            ",
                 "  Italien                           ",
-                "  Serbien u.Montenegro Ehem.Jugosla",
-                "  Serbien (einschl. Kosovo)         ",
-                "  Serbien                           ",
-                "  Montenegro                        ",
-                "  Kroatien                          ",
+                "  Japan                             ",
+                "  Jordanien                         ",
+                "  Kamerun                           ",
+                "  Kanada                            ",
+                "  Kasachstan                        ",
+                "  Kenia                             ",
+                "  Kolumbien                         ",
+                "  Kongo Dem. Volksrepublik (ehem.Za",
+                "  Korea Republik                   ",
                 "  Kosovo                            ",
+                "  Kroatien                          ",
+                "  Kuba                              ",
                 "  Lettland                          ",
+                "  Libanon                           ",
+                "  Liberia                           ",
                 "  Litauen                           ",
                 "  Luxemburg                         ",
+                "  Malaysia                          ",
                 "  Malta                             ",
+                "  Marokko                           ",
                 "  Mazedonien                        ",
+                "  Mexiko                            ",
                 "  Moldau Republik                  ",
                 "  Monaco                            ",
+                "  Montenegro                        ",
+                "  Nepal                             ",
                 "  Niederlande                       ",
+                "  Nigeria                           ",
                 "  Norwegen                          ",
-                "  Österreich                        ",
+                "  Pakistan                          ",
+                "  Peru                              ",
+                "  Philippinen                       ",
                 "  Polen                             ",
                 "  Portugal                          ",
                 "  Rumänien                          ",
                 "  Russische Föderation              ",
                 "  Schweden                          ",
                 "  Schweiz                           ",
+                "  Senegal                           ",
+                "  Serbien                           ",
+                "  Serbien (einschl. Kosovo)         ",
+                "  Serbien u.Montenegro Ehem.Jugosla",
+                "  Sierra Leone                      ",
                 "  Slowakei                          ",
                 "  Slowenien                         ",
-                "  ehem. Sowjetunion                 ",
+                "  Somalia                           ",
                 "  Spanien                           ",
-                "  ehem. Tschechoslowakei            ",
+                "  Sri Lanka                         ",
+                "  Sudan (ab 2011)                   ",
+                "  Sudan (einschl. Südsudan) (bis 201",
+                "  Syrien Arabische Republik        ",
+                "  Südafrika                         ",
+                "  Südsudan (ab 2011)                ",
+                "  Taiwan                            ",
+                "  Thailand                          ",
+                "  Togo                              ",
                 "  Tschechische Republik             ",
+                "  Tunesien                          ",
                 "  Türkei                            ",
                 "  Ukraine                           ",
                 "  Ungarn                            ",
-                "  Vereinigtes Königreich GB u.Nordir",
-                "  Weißrußland                       ",
-                "  Zypern                            ",
-                "  übrige europäische Staaten        ",
-                "Europa insgesamt                    ",
-                "  Algerien                          ",
-                "  Angola                            ",
-                "  Ägypten                           ",
-                "  Äthiopien                         ",
-                "  Benin                             ",
-                "  Burkina Faso                      ",
-                "  Cote d'Ivoire                     ",
-                "  Eritrea                           ",
-                "  Gambia                            ",
-                "  Ghana                             ",
-                "  Kamerun                           ",
-                "  Kenia                             ",
-                "  Liberia                           ",
-                "  Marokko                           ",
-                "  Nigeria                           ",
-                "  Senegal                           ",
-                "  Sierra Leone                      ",
-                "  Somalia                           ",
-                "  Südafrika                         ",
-                "  Sudan (einschl. Südsudan) (bis 201",
-                "  Sudan (ab 2011)                   ",
-                "  Südsudan (ab 2011)                ",
-                "  Togo                              ",
-                "  Tunesien                          ",
-                "  Kongo Dem. Volksrepublik (ehem.Za",
-                "  übrige afrikanische Staaten       ",
-                "Afrika insgesamt                    ",
-                "  Argentinien                       ",
-                "  Bolivien                          ",
-                "  Brasilien                         ",
-                "  Chile                             ",
-                "  Dominikanische Republik           ",
-                "  Kanada                            ",
-                "  Kolumbien                         ",
-                "  Kuba                              ",
-                "  Mexiko                            ",
-                "  Peru                              ",
                 "  Venezuela                         ",
                 "  Vereinigte Staaten                ",
-                "  übrige amerikanische Staaten      ",
-                "Amerika insgesamt                   ",
-                "  Afghanistan                       ",
-                "  Armenien                          ",
-                "  Aserbaidschan                     ",
-                "  Bangladesch                       ",
-                "  China                             ",
-                "  Georgien                          ",
-                "  Indien                            ",
-                "  Indonesien                        ",
-                "  Israel                            ",
-                "  Irak                              ",
-                "  Iran Islamische Republik         ",
-                "  Japan                             ",
-                "  Jordanien                         ",
-                "  Kasachstan                        ",
-                "  Korea Republik                   ",
-                "  Libanon                           ",
-                "  Malaysia                          ",
-                "  Nepal                             ",
-                "  Pakistan                          ",
-                "  Die Palästinänsischen Gebiete     ",
-                "  Philippinen                       ",
-                "  Sri Lanka                         ",
-                "  Syrien Arabische Republik        ",
-                "  Taiwan                            ",
-                "  Thailand                          ",
+                "  Vereinigtes Königreich GB u.Nordir",
                 "  Vietnam                           ",
+                "  Weißrußland                       ",
+                "  Zypern                            ",
+                "  ehem. Sowjetunion                 ",
+                "  ehem. Tschechoslowakei            ",
+                "  Ägypten                           ",
+                "  Äthiopien                         ",
+                "  Österreich                        ",
+                "  übrige afrikanische Staaten       ",
+                "  übrige amerikanische Staaten      ",
                 "  übrige asiatische Staaten         ",
+                "  übrige europäische Staaten        ",
+                "Afrika insgesamt                    ",
+                "Amerika insgesamt                   ",
                 "Asien insgesamt                     ",
-                "Australien und Ozeanien             ",
-                "staatenlos                          ",
-                "ungeklärtoh.Angabeunbekannt       ",
-                "Britische Überseegebiete            ",
                 "Ausländer insgesamt                 ",
-                ""
+                "Australien und Ozeanien             ",
+                "Britische Überseegebiete            ",
+                "Europa insgesamt                    ",
+                "staatenlos                          ",
+                "ungeklärtoh.Angabeunbekannt       "
               ]
             },
             "title": "Staat"
           },
           {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -987,19 +987,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
                 "B",
-                "G",
-                ""
+                "G"
               ]
             },
             "title": "Group"
@@ -1008,6 +1003,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1024,19 +1024,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
                 "B",
-                "G",
-                ""
+                "G"
               ]
             },
             "title": "Group"
@@ -1045,6 +1040,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1061,19 +1061,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
                 "B",
-                "G",
-                ""
+                "G"
               ]
             },
             "title": "Group"
@@ -1082,6 +1077,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1098,19 +1098,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
                 "B",
-                "G",
-                ""
+                "G"
               ]
             },
             "title": "Group"
@@ -1119,6 +1114,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1135,17 +1135,12 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Asylanträge",
             "type": "string",
             "constraints": {
               "enum": [
-                "Asylanträge",
-                ""
+                "",
+                "Asylanträge"
               ]
             },
             "title": "Asylanträge"
@@ -1154,6 +1149,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1170,19 +1170,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
                 "B",
-                "G",
-                ""
+                "G"
               ]
             },
             "title": "Group"
@@ -1191,6 +1186,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1207,53 +1207,53 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
-            "name": "Kategorie",
+            "name": "Altersgruppe",
             "type": "string",
             "constraints": {
               "enum": [
-                "Arbeitslosenquote Insgesamt (alle Erwerbspersonen)",
-                "Arbeitslosenquote von Ausländerinnen und Ausländern (alle Erwerbspersonen)",
-                "Abstand der Arbeitslosenquote von Ausländerinnen und Ausländern zu Insgesamt",
-                "Arbeitslosenquote (Insgesamt) der bis unter 25-Jährigen",
-                "Arbeitslosenquote der Ausländerinnen und Ausländer bis unter 25 Jahren",
-                ""
+                "",
+                "15 bis unter 20 Jahre",
+                "20 bis unter 25 Jahre"
               ]
             },
-            "title": "Kategorie"
+            "title": "Altersgruppe"
           },
           {
             "name": "Geschlecht",
             "type": "string",
             "constraints": {
               "enum": [
-                "Männer",
+                "",
                 "Frauen",
-                ""
+                "Männer"
               ]
             },
             "title": "Geschlecht"
           },
           {
-            "name": "Altersgruppe",
+            "name": "Kategorie",
             "type": "string",
             "constraints": {
               "enum": [
-                "15 bis unter 20 Jahre",
-                "20 bis unter 25 Jahre",
-                ""
+                "",
+                "Abstand der Arbeitslosenquote von Ausländerinnen und Ausländern zu Insgesamt",
+                "Arbeitslosenquote (Insgesamt) der bis unter 25-Jährigen",
+                "Arbeitslosenquote Insgesamt (alle Erwerbspersonen)",
+                "Arbeitslosenquote der Ausländerinnen und Ausländer bis unter 25 Jahren",
+                "Arbeitslosenquote von Ausländerinnen und Ausländern (alle Erwerbspersonen)"
               ]
             },
-            "title": "Altersgruppe"
+            "title": "Kategorie"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -1270,81 +1270,76 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
+            "name": "Aufenthaltstitel",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Asylberechtigte und GFK-Flüchtlinge"
+              ]
+            },
+            "title": "Aufenthaltstitel"
           },
           {
             "name": "Gebietseinheit",
             "type": "string",
             "constraints": {
               "enum": [
-                "Braunschweig Stadt",
-                "Salzgitter Stadt",
-                "Wolfsburg Stadt",
-                "Gifhorn",
-                "Goslar",
-                "Helmstedt",
-                "Northeim",
-                "Peine",
-                "Wolfenbüttel",
-                "Göttingen",
-                "Statistische Region Braunschweig",
-                "Hannover Region",
-                "Hannover Landeshauptstadt",
-                "Diepholz",
-                "Hameln-Pyrmont",
-                "Hildesheim",
-                "Holzminden",
-                "Nienburg (Weser)",
-                "Schaumburg",
-                "Statistische Region Hannover",
-                "Celle",
-                "Cuxhaven",
-                "Harburg",
-                "Lüchow-Dannenberg",
-                "Lüneburg",
-                "Osterholz",
-                "Rotenburg (Wümme)",
-                "Heidekreis",
-                "Stade",
-                "Uelzen",
-                "Verden",
-                "Statistische Region Lüneburg",
-                "Delmenhorst.Stadt",
-                "Emden Stadt",
-                "Oldenburg (Oldb) Stadt",
-                "Osnabrück Stadt",
-                "Wilhelmshaven Stadt",
+                "",
                 "Ammerland",
                 "Aurich",
+                "Braunschweig Stadt",
+                "Celle",
                 "Cloppenburg",
+                "Cuxhaven",
+                "Delmenhorst.Stadt",
+                "Diepholz",
+                "Emden Stadt",
                 "Emsland",
                 "Friesland",
+                "Gifhorn",
+                "Goslar",
                 "Grafschaft Bentheim",
+                "Göttingen",
+                "Hameln-Pyrmont",
+                "Hannover Landeshauptstadt",
+                "Hannover Region",
+                "Harburg",
+                "Heidekreis",
+                "Helmstedt",
+                "Hildesheim",
+                "Holzminden",
                 "Leer",
-                "Oldenburg",
-                "Osnabrück",
-                "Vechta",
-                "Wesermarsch",
-                "Wittmund",
-                "Statistische Region Weser-Ems",
+                "Lüchow-Dannenberg",
+                "Lüneburg",
                 "Niedersachsen",
-                ""
+                "Nienburg (Weser)",
+                "Northeim",
+                "Oldenburg",
+                "Oldenburg (Oldb) Stadt",
+                "Osnabrück",
+                "Osnabrück Stadt",
+                "Osterholz",
+                "Peine",
+                "Rotenburg (Wümme)",
+                "Salzgitter Stadt",
+                "Schaumburg",
+                "Stade",
+                "Statistische Region Braunschweig",
+                "Statistische Region Hannover",
+                "Statistische Region Lüneburg",
+                "Statistische Region Weser-Ems",
+                "Uelzen",
+                "Vechta",
+                "Verden",
+                "Wesermarsch",
+                "Wilhelmshaven Stadt",
+                "Wittmund",
+                "Wolfenbüttel",
+                "Wolfsburg Stadt"
               ]
             },
             "title": "Gebietseinheit"
-          },
-          {
-            "name": "Aufenthaltstitel",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Asylberechtigte und GFK-Flüchtlinge",
-                ""
-              ]
-            },
-            "title": "Aufenthaltstitel"
           },
           {
             "name": "GeoCode",
@@ -1355,6 +1350,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1371,19 +1371,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
                 "B",
-                "G",
-                ""
+                "G"
               ]
             },
             "title": "Group"
@@ -1392,6 +1387,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1408,19 +1408,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
                 "B",
-                "G",
-                ""
+                "G"
               ]
             },
             "title": "Group"
@@ -1429,6 +1424,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1445,9 +1445,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
+            "name": "Aufenthaltstitel",
             "type": "string",
-            "title": "Year"
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Aufenthaltstitel"
           },
           {
             "name": "Gebietseinheit",
@@ -1460,16 +1465,6 @@
             "title": "Gebietseinheit"
           },
           {
-            "name": "Aufenthaltstitel",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Aufenthaltstitel"
-          },
-          {
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
@@ -1478,6 +1473,11 @@
             "name": "Value",
             "type": "string",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -1494,81 +1494,76 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
+            "name": "Aufenthaltstitel",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Bleiberecht (Aufenthaltsgewährung) und Opfer von Menschenhandel und organisierter Schwarzarbeit"
+              ]
+            },
+            "title": "Aufenthaltstitel"
           },
           {
             "name": "Gebietseinheit",
             "type": "string",
             "constraints": {
               "enum": [
-                "Braunschweig Stadt",
-                "Salzgitter Stadt",
-                "Wolfsburg Stadt",
-                "Gifhorn",
-                "Goslar",
-                "Helmstedt",
-                "Northeim",
-                "Peine",
-                "Wolfenbüttel",
-                "Göttingen",
-                "Statistische Region Braunschweig",
-                "Hannover Region",
-                "Hannover Landeshauptstadt",
-                "Diepholz",
-                "Hameln-Pyrmont",
-                "Hildesheim",
-                "Holzminden",
-                "Nienburg (Weser)",
-                "Schaumburg",
-                "Statistische Region Hannover",
-                "Celle",
-                "Cuxhaven",
-                "Harburg",
-                "Lüchow-Dannenberg",
-                "Lüneburg",
-                "Osterholz",
-                "Rotenburg (Wümme)",
-                "Heidekreis",
-                "Stade",
-                "Uelzen",
-                "Verden",
-                "Statistische Region Lüneburg",
-                "Delmenhorst.Stadt",
-                "Emden Stadt",
-                "Oldenburg (Oldb) Stadt",
-                "Osnabrück Stadt",
-                "Wilhelmshaven Stadt",
+                "",
                 "Ammerland",
                 "Aurich",
+                "Braunschweig Stadt",
+                "Celle",
                 "Cloppenburg",
+                "Cuxhaven",
+                "Delmenhorst.Stadt",
+                "Diepholz",
+                "Emden Stadt",
                 "Emsland",
                 "Friesland",
+                "Gifhorn",
+                "Goslar",
                 "Grafschaft Bentheim",
+                "Göttingen",
+                "Hameln-Pyrmont",
+                "Hannover Landeshauptstadt",
+                "Hannover Region",
+                "Harburg",
+                "Heidekreis",
+                "Helmstedt",
+                "Hildesheim",
+                "Holzminden",
                 "Leer",
-                "Oldenburg",
-                "Osnabrück",
-                "Vechta",
-                "Wesermarsch",
-                "Wittmund",
-                "Statistische Region Weser-Ems",
+                "Lüchow-Dannenberg",
+                "Lüneburg",
                 "Niedersachsen",
-                ""
+                "Nienburg (Weser)",
+                "Northeim",
+                "Oldenburg",
+                "Oldenburg (Oldb) Stadt",
+                "Osnabrück",
+                "Osnabrück Stadt",
+                "Osterholz",
+                "Peine",
+                "Rotenburg (Wümme)",
+                "Salzgitter Stadt",
+                "Schaumburg",
+                "Stade",
+                "Statistische Region Braunschweig",
+                "Statistische Region Hannover",
+                "Statistische Region Lüneburg",
+                "Statistische Region Weser-Ems",
+                "Uelzen",
+                "Vechta",
+                "Verden",
+                "Wesermarsch",
+                "Wilhelmshaven Stadt",
+                "Wittmund",
+                "Wolfenbüttel",
+                "Wolfsburg Stadt"
               ]
             },
             "title": "Gebietseinheit"
-          },
-          {
-            "name": "Aufenthaltstitel",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Bleiberecht (Aufenthaltsgewährung) und Opfer von Menschenhandel und organisierter Schwarzarbeit",
-                ""
-              ]
-            },
-            "title": "Aufenthaltstitel"
           },
           {
             "name": "GeoCode",
@@ -1579,6 +1574,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1595,19 +1595,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
                 "B",
-                "G",
-                ""
+                "G"
               ]
             },
             "title": "Group"
@@ -1616,6 +1611,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1632,19 +1632,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
                 "B",
-                "G",
-                ""
+                "G"
               ]
             },
             "title": "Group"
@@ -1653,6 +1648,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1669,19 +1669,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
                 "B",
-                "G",
-                ""
+                "G"
               ]
             },
             "title": "Group"
@@ -1690,6 +1685,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1706,19 +1706,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
                 "B",
-                "G",
-                ""
+                "G"
               ]
             },
             "title": "Group"
@@ -1727,6 +1722,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1743,91 +1743,86 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
+            "name": "Aufenthaltstitel",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Asylberechtigte und GFK-Flüchtlinge",
+                "Aufenthaltsgestattung zum Asylverfahren",
+                "Aufnahmeerklärung vor Schutz Resettlement Kontingentflüchtlinge",
+                "Bleiberecht (Aufenthaltsgewährung) und Opfer von Menschenhandel und organisierter Schwarzarbeit",
+                "Dringende persönliche o. humanitäre Gründe Härtefälle",
+                "Duldung",
+                "Familiennachzug",
+                "Geflüchtete und geduldete Personen insgesamt",
+                "Niederlassungserlaubnis ",
+                "Unmöglichkeit d. Ausreise aus rechtl. oder tats. Gründen",
+                "Verbot der Abschiebung Subsidiärer Schutz1)"
+              ]
+            },
+            "title": "Aufenthaltstitel"
           },
           {
             "name": "Gebietseinheit",
             "type": "string",
             "constraints": {
               "enum": [
-                "Braunschweig Stadt",
-                "Salzgitter Stadt",
-                "Wolfsburg Stadt",
-                "Gifhorn",
-                "Goslar",
-                "Helmstedt",
-                "Northeim",
-                "Peine",
-                "Wolfenbüttel",
-                "Göttingen",
-                "Statistische Region Braunschweig",
-                "Hannover Region",
-                "Hannover Landeshauptstadt",
-                "Diepholz",
-                "Hameln-Pyrmont",
-                "Hildesheim",
-                "Holzminden",
-                "Nienburg (Weser)",
-                "Schaumburg",
-                "Statistische Region Hannover",
-                "Celle",
-                "Cuxhaven",
-                "Harburg",
-                "Lüchow-Dannenberg",
-                "Lüneburg",
-                "Osterholz",
-                "Rotenburg (Wümme)",
-                "Heidekreis",
-                "Stade",
-                "Uelzen",
-                "Verden",
-                "Statistische Region Lüneburg",
-                "Delmenhorst.Stadt",
-                "Emden Stadt",
-                "Oldenburg (Oldb) Stadt",
-                "Osnabrück Stadt",
-                "Wilhelmshaven Stadt",
+                "",
                 "Ammerland",
                 "Aurich",
+                "Braunschweig Stadt",
+                "Celle",
                 "Cloppenburg",
+                "Cuxhaven",
+                "Delmenhorst.Stadt",
+                "Diepholz",
+                "Emden Stadt",
                 "Emsland",
                 "Friesland",
+                "Gifhorn",
+                "Goslar",
                 "Grafschaft Bentheim",
+                "Göttingen",
+                "Hameln-Pyrmont",
+                "Hannover Landeshauptstadt",
+                "Hannover Region",
+                "Harburg",
+                "Heidekreis",
+                "Helmstedt",
+                "Hildesheim",
+                "Holzminden",
                 "Leer",
-                "Oldenburg",
-                "Osnabrück",
-                "Vechta",
-                "Wesermarsch",
-                "Wittmund",
-                "Statistische Region Weser-Ems",
+                "Lüchow-Dannenberg",
+                "Lüneburg",
                 "Niedersachsen",
-                ""
+                "Nienburg (Weser)",
+                "Northeim",
+                "Oldenburg",
+                "Oldenburg (Oldb) Stadt",
+                "Osnabrück",
+                "Osnabrück Stadt",
+                "Osterholz",
+                "Peine",
+                "Rotenburg (Wümme)",
+                "Salzgitter Stadt",
+                "Schaumburg",
+                "Stade",
+                "Statistische Region Braunschweig",
+                "Statistische Region Hannover",
+                "Statistische Region Lüneburg",
+                "Statistische Region Weser-Ems",
+                "Uelzen",
+                "Vechta",
+                "Verden",
+                "Wesermarsch",
+                "Wilhelmshaven Stadt",
+                "Wittmund",
+                "Wolfenbüttel",
+                "Wolfsburg Stadt"
               ]
             },
             "title": "Gebietseinheit"
-          },
-          {
-            "name": "Aufenthaltstitel",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Geflüchtete und geduldete Personen insgesamt",
-                "Niederlassungserlaubnis ",
-                "Asylberechtigte und GFK-Flüchtlinge",
-                "Aufnahmeerklärung vor Schutz Resettlement Kontingentflüchtlinge",
-                "Verbot der Abschiebung Subsidiärer Schutz1)",
-                "Unmöglichkeit d. Ausreise aus rechtl. oder tats. Gründen",
-                "Bleiberecht (Aufenthaltsgewährung) und Opfer von Menschenhandel und organisierter Schwarzarbeit",
-                "Dringende persönliche o. humanitäre Gründe Härtefälle",
-                "Aufenthaltsgestattung zum Asylverfahren",
-                "Duldung",
-                "Familiennachzug",
-                ""
-              ]
-            },
-            "title": "Aufenthaltstitel"
           },
           {
             "name": "GeoCode",
@@ -1838,6 +1833,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1854,69 +1854,69 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Staatsangehörigkeit",
+            "name": "Besuchte Schule",
             "type": "string",
             "constraints": {
               "enum": [
-                "Deutsche",
-                "Ausländerinnen und Ausländer",
-                ""
+                "",
+                "Berufl. Gymnasium",
+                "Berufseinstiegsklasse",
+                "Berufsfachschule",
+                "Berufsgrundbildungsjahr schulisch",
+                "Berufsoberschule",
+                "Berufsschule (Teilzeit)",
+                "Berufsvorbereitungsjahr",
+                "Fachoberschule",
+                "Fachschule"
               ]
             },
-            "title": "Staatsangehörigkeit"
+            "title": "Besuchte Schule"
           },
           {
             "name": "Erreichter Abschluss",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Allgemeine Hochschulreife",
-                "Fachhochschulreife",
-                "Schulischer Teil der Fachhochschulreife",
-                "Realschulabschluss",
-                "Hauptschulabschluss",
-                "Erfolgreicher Besuch",
-                "Entlassungen aus dem Berufsvorbereitungsjahr",
-                "Ohne erfolgreichen Besuch/Abschluss",
-                "   nachrichtlich: Abbruch im laufenden Schuljahr",
-                "erfolgreicher Besuch",
                 "Entlassung aus dem Berufsvorbereitungsjahr",
+                "Entlassungen aus dem Berufsvorbereitungsjahr",
+                "Erfolgreicher Besuch",
+                "Fachhochschulreife",
+                "Hauptschulabschluss",
+                "Ohne erfolgreichen Besuch/Abschluss",
+                "Realschulabschluss",
+                "Schulischer Teil der Fachhochschulreife",
+                "erfolgreicher Besuch",
+                "nachrichtlich: Abbruch im laufenden Schuljahr",
                 "ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.",
                 "ohne erfolgreichen Besuch/Abschluss",
-                "nachrichtlich: Abbruch im laufenden Schuljahr",
-                ""
+                "   nachrichtlich: Abbruch im laufenden Schuljahr"
               ]
             },
             "title": "Erreichter Abschluss"
           },
           {
-            "name": "Besuchte Schule",
+            "name": "Staatsangehörigkeit",
             "type": "string",
             "constraints": {
               "enum": [
-                "Berufsschule (Teilzeit)",
-                "Berufsgrundbildungsjahr schulisch",
-                "Berufseinstiegsklasse",
-                "Berufsvorbereitungsjahr",
-                "Berufsfachschule",
-                "Fachoberschule",
-                "Berufsoberschule",
-                "Berufl. Gymnasium",
-                "Fachschule",
-                ""
+                "",
+                "Ausländerinnen und Ausländer",
+                "Deutsche"
               ]
             },
-            "title": "Besuchte Schule"
+            "title": "Staatsangehörigkeit"
           },
           {
             "name": "Value",
             "type": "string",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -1933,91 +1933,86 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
+            "name": "Aufenthaltstitel",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Asylberechtigte und GFK-Flüchtlinge",
+                "Aufenthaltsgestattung zum Asylverfahren",
+                "Aufnahmeerklärung vor Schutz Resettlement Kontingentflüchtlinge",
+                "Bleiberecht (Aufenthaltsgewährung) und Opfer von Menschenhandel und organisierter Schwarzarbeit",
+                "Dringende persönliche o. humanitäre Gründe Härtefälle",
+                "Duldung",
+                "Familiennachzug",
+                "Geflüchtete und geduldete Personen insgesamt",
+                "Niederlassungserlaubnis ",
+                "Unmöglichkeit d. Ausreise aus rechtl. oder tats. Gründen",
+                "Verbot der Abschiebung Subsidiärer Schutz1)"
+              ]
+            },
+            "title": "Aufenthaltstitel"
           },
           {
             "name": "Gebietseinheit",
             "type": "string",
             "constraints": {
               "enum": [
-                "Braunschweig Stadt",
-                "Salzgitter Stadt",
-                "Wolfsburg Stadt",
-                "Gifhorn",
-                "Goslar",
-                "Helmstedt",
-                "Northeim",
-                "Peine",
-                "Wolfenbüttel",
-                "Göttingen",
-                "Statistische Region Braunschweig",
-                "Hannover Region",
-                "Hannover Landeshauptstadt",
-                "Diepholz",
-                "Hameln-Pyrmont",
-                "Hildesheim",
-                "Holzminden",
-                "Nienburg (Weser)",
-                "Schaumburg",
-                "Statistische Region Hannover",
-                "Celle",
-                "Cuxhaven",
-                "Harburg",
-                "Lüchow-Dannenberg",
-                "Lüneburg",
-                "Osterholz",
-                "Rotenburg (Wümme)",
-                "Heidekreis",
-                "Stade",
-                "Uelzen",
-                "Verden",
-                "Statistische Region Lüneburg",
-                "Delmenhorst.Stadt",
-                "Emden Stadt",
-                "Oldenburg (Oldb) Stadt",
-                "Osnabrück Stadt",
-                "Wilhelmshaven Stadt",
+                "",
                 "Ammerland",
                 "Aurich",
+                "Braunschweig Stadt",
+                "Celle",
                 "Cloppenburg",
+                "Cuxhaven",
+                "Delmenhorst.Stadt",
+                "Diepholz",
+                "Emden Stadt",
                 "Emsland",
                 "Friesland",
+                "Gifhorn",
+                "Goslar",
                 "Grafschaft Bentheim",
+                "Göttingen",
+                "Hameln-Pyrmont",
+                "Hannover Landeshauptstadt",
+                "Hannover Region",
+                "Harburg",
+                "Heidekreis",
+                "Helmstedt",
+                "Hildesheim",
+                "Holzminden",
                 "Leer",
-                "Oldenburg",
-                "Osnabrück",
-                "Vechta",
-                "Wesermarsch",
-                "Wittmund",
-                "Statistische Region Weser-Ems",
+                "Lüchow-Dannenberg",
+                "Lüneburg",
                 "Niedersachsen",
-                ""
+                "Nienburg (Weser)",
+                "Northeim",
+                "Oldenburg",
+                "Oldenburg (Oldb) Stadt",
+                "Osnabrück",
+                "Osnabrück Stadt",
+                "Osterholz",
+                "Peine",
+                "Rotenburg (Wümme)",
+                "Salzgitter Stadt",
+                "Schaumburg",
+                "Stade",
+                "Statistische Region Braunschweig",
+                "Statistische Region Hannover",
+                "Statistische Region Lüneburg",
+                "Statistische Region Weser-Ems",
+                "Uelzen",
+                "Vechta",
+                "Verden",
+                "Wesermarsch",
+                "Wilhelmshaven Stadt",
+                "Wittmund",
+                "Wolfenbüttel",
+                "Wolfsburg Stadt"
               ]
             },
             "title": "Gebietseinheit"
-          },
-          {
-            "name": "Aufenthaltstitel",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Geflüchtete und geduldete Personen insgesamt",
-                "Niederlassungserlaubnis ",
-                "Asylberechtigte und GFK-Flüchtlinge",
-                "Aufnahmeerklärung vor Schutz Resettlement Kontingentflüchtlinge",
-                "Verbot der Abschiebung Subsidiärer Schutz1)",
-                "Unmöglichkeit d. Ausreise aus rechtl. oder tats. Gründen",
-                "Bleiberecht (Aufenthaltsgewährung) und Opfer von Menschenhandel und organisierter Schwarzarbeit",
-                "Dringende persönliche o. humanitäre Gründe Härtefälle",
-                "Aufenthaltsgestattung zum Asylverfahren",
-                "Duldung",
-                "Familiennachzug",
-                ""
-              ]
-            },
-            "title": "Aufenthaltstitel"
           },
           {
             "name": "GeoCode",
@@ -2028,6 +2023,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2044,19 +2044,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
                 "B",
-                "F",
-                ""
+                "F"
               ]
             },
             "title": "Group"
@@ -2065,6 +2060,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2081,19 +2081,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
                 "B",
-                "G",
-                ""
+                "G"
               ]
             },
             "title": "Group"
@@ -2102,6 +2097,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2118,19 +2118,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
                 "B",
-                "G",
-                ""
+                "G"
               ]
             },
             "title": "Group"
@@ -2139,6 +2134,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2155,81 +2155,76 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
+            "name": "Aufenthaltstitel",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Dringende persönliche o. humanitäre Gründe Härtefälle"
+              ]
+            },
+            "title": "Aufenthaltstitel"
           },
           {
             "name": "Gebietseinheit",
             "type": "string",
             "constraints": {
               "enum": [
-                "Braunschweig Stadt",
-                "Salzgitter Stadt",
-                "Wolfsburg Stadt",
-                "Gifhorn",
-                "Goslar",
-                "Helmstedt",
-                "Northeim",
-                "Peine",
-                "Wolfenbüttel",
-                "Göttingen",
-                "Statistische Region Braunschweig",
-                "Hannover Region",
-                "Hannover Landeshauptstadt",
-                "Diepholz",
-                "Hameln-Pyrmont",
-                "Hildesheim",
-                "Holzminden",
-                "Nienburg (Weser)",
-                "Schaumburg",
-                "Statistische Region Hannover",
-                "Celle",
-                "Cuxhaven",
-                "Harburg",
-                "Lüchow-Dannenberg",
-                "Lüneburg",
-                "Osterholz",
-                "Rotenburg (Wümme)",
-                "Heidekreis",
-                "Stade",
-                "Uelzen",
-                "Verden",
-                "Statistische Region Lüneburg",
-                "Delmenhorst.Stadt",
-                "Emden Stadt",
-                "Oldenburg (Oldb) Stadt",
-                "Osnabrück Stadt",
-                "Wilhelmshaven Stadt",
+                "",
                 "Ammerland",
                 "Aurich",
+                "Braunschweig Stadt",
+                "Celle",
                 "Cloppenburg",
+                "Cuxhaven",
+                "Delmenhorst.Stadt",
+                "Diepholz",
+                "Emden Stadt",
                 "Emsland",
                 "Friesland",
+                "Gifhorn",
+                "Goslar",
                 "Grafschaft Bentheim",
+                "Göttingen",
+                "Hameln-Pyrmont",
+                "Hannover Landeshauptstadt",
+                "Hannover Region",
+                "Harburg",
+                "Heidekreis",
+                "Helmstedt",
+                "Hildesheim",
+                "Holzminden",
                 "Leer",
-                "Oldenburg",
-                "Osnabrück",
-                "Vechta",
-                "Wesermarsch",
-                "Wittmund",
-                "Statistische Region Weser-Ems",
+                "Lüchow-Dannenberg",
+                "Lüneburg",
                 "Niedersachsen",
-                ""
+                "Nienburg (Weser)",
+                "Northeim",
+                "Oldenburg",
+                "Oldenburg (Oldb) Stadt",
+                "Osnabrück",
+                "Osnabrück Stadt",
+                "Osterholz",
+                "Peine",
+                "Rotenburg (Wümme)",
+                "Salzgitter Stadt",
+                "Schaumburg",
+                "Stade",
+                "Statistische Region Braunschweig",
+                "Statistische Region Hannover",
+                "Statistische Region Lüneburg",
+                "Statistische Region Weser-Ems",
+                "Uelzen",
+                "Vechta",
+                "Verden",
+                "Wesermarsch",
+                "Wilhelmshaven Stadt",
+                "Wittmund",
+                "Wolfenbüttel",
+                "Wolfsburg Stadt"
               ]
             },
             "title": "Gebietseinheit"
-          },
-          {
-            "name": "Aufenthaltstitel",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Dringende persönliche o. humanitäre Gründe Härtefälle",
-                ""
-              ]
-            },
-            "title": "Aufenthaltstitel"
           },
           {
             "name": "GeoCode",
@@ -2240,6 +2235,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2256,81 +2256,76 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
+            "name": "Aufenthaltstitel",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Aufenthaltsgestattung zum Asylverfahren"
+              ]
+            },
+            "title": "Aufenthaltstitel"
           },
           {
             "name": "Gebietseinheit",
             "type": "string",
             "constraints": {
               "enum": [
-                "Braunschweig Stadt",
-                "Salzgitter Stadt",
-                "Wolfsburg Stadt",
-                "Gifhorn",
-                "Goslar",
-                "Helmstedt",
-                "Northeim",
-                "Peine",
-                "Wolfenbüttel",
-                "Göttingen",
-                "Statistische Region Braunschweig",
-                "Hannover Region",
-                "Hannover Landeshauptstadt",
-                "Diepholz",
-                "Hameln-Pyrmont",
-                "Hildesheim",
-                "Holzminden",
-                "Nienburg (Weser)",
-                "Schaumburg",
-                "Statistische Region Hannover",
-                "Celle",
-                "Cuxhaven",
-                "Harburg",
-                "Lüchow-Dannenberg",
-                "Lüneburg",
-                "Osterholz",
-                "Rotenburg (Wümme)",
-                "Heidekreis",
-                "Stade",
-                "Uelzen",
-                "Verden",
-                "Statistische Region Lüneburg",
-                "Delmenhorst.Stadt",
-                "Emden Stadt",
-                "Oldenburg (Oldb) Stadt",
-                "Osnabrück Stadt",
-                "Wilhelmshaven Stadt",
+                "",
                 "Ammerland",
                 "Aurich",
+                "Braunschweig Stadt",
+                "Celle",
                 "Cloppenburg",
+                "Cuxhaven",
+                "Delmenhorst.Stadt",
+                "Diepholz",
+                "Emden Stadt",
                 "Emsland",
                 "Friesland",
+                "Gifhorn",
+                "Goslar",
                 "Grafschaft Bentheim",
+                "Göttingen",
+                "Hameln-Pyrmont",
+                "Hannover Landeshauptstadt",
+                "Hannover Region",
+                "Harburg",
+                "Heidekreis",
+                "Helmstedt",
+                "Hildesheim",
+                "Holzminden",
                 "Leer",
-                "Oldenburg",
-                "Osnabrück",
-                "Vechta",
-                "Wesermarsch",
-                "Wittmund",
-                "Statistische Region Weser-Ems",
+                "Lüchow-Dannenberg",
+                "Lüneburg",
                 "Niedersachsen",
-                ""
+                "Nienburg (Weser)",
+                "Northeim",
+                "Oldenburg",
+                "Oldenburg (Oldb) Stadt",
+                "Osnabrück",
+                "Osnabrück Stadt",
+                "Osterholz",
+                "Peine",
+                "Rotenburg (Wümme)",
+                "Salzgitter Stadt",
+                "Schaumburg",
+                "Stade",
+                "Statistische Region Braunschweig",
+                "Statistische Region Hannover",
+                "Statistische Region Lüneburg",
+                "Statistische Region Weser-Ems",
+                "Uelzen",
+                "Vechta",
+                "Verden",
+                "Wesermarsch",
+                "Wilhelmshaven Stadt",
+                "Wittmund",
+                "Wolfenbüttel",
+                "Wolfsburg Stadt"
               ]
             },
             "title": "Gebietseinheit"
-          },
-          {
-            "name": "Aufenthaltstitel",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Aufenthaltsgestattung zum Asylverfahren",
-                ""
-              ]
-            },
-            "title": "Aufenthaltstitel"
           },
           {
             "name": "GeoCode",
@@ -2341,6 +2336,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2357,19 +2357,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
                 "B",
-                "G",
-                ""
+                "G"
               ]
             },
             "title": "Group"
@@ -2378,6 +2373,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2394,68 +2394,63 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          },
-          {
             "name": "Gebietseinheit",
             "type": "string",
             "constraints": {
               "enum": [
-                "Braunschweig Stadt",
-                "Salzgitter Stadt",
-                "Wolfsburg Stadt",
-                "Gifhorn",
-                "Goslar",
-                "Helmstedt",
-                "Northeim",
-                "Peine",
-                "Wolfenbüttel",
-                "Göttingen",
-                "Statistische Region Braunschweig",
-                "Hannover Region",
-                "Hannover Landeshauptstadt",
-                "Diepholz",
-                "Hameln-Pyrmont",
-                "Hildesheim",
-                "Holzminden",
-                "Nienburg (Weser)",
-                "Schaumburg",
-                "Statistische Region Hannover",
-                "Celle",
-                "Cuxhaven",
-                "Harburg",
-                "Lüchow-Dannenberg",
-                "Lüneburg",
-                "Osterholz",
-                "Rotenburg (W�mme)",
-                "Heidekreis",
-                "Stade",
-                "Uelzen",
-                "Verden",
-                "Statistische Region Lüneburg",
-                "Delmenhorst.Stadt",
-                "Emden Stadt",
-                "Oldenburg (Oldb) Stadt",
-                "Osnabrück Stadt",
-                "Wilhelmshaven Stadt",
+                "",
                 "Ammerland",
                 "Aurich",
+                "Braunschweig Stadt",
+                "Celle",
                 "Cloppenburg",
+                "Cuxhaven",
+                "Delmenhorst.Stadt",
+                "Diepholz",
+                "Emden Stadt",
                 "Emsland",
                 "Friesland",
+                "Gifhorn",
+                "Goslar",
                 "Grafschaft Bentheim",
+                "Göttingen",
+                "Hameln-Pyrmont",
+                "Hannover Landeshauptstadt",
+                "Hannover Region",
+                "Harburg",
+                "Heidekreis",
+                "Helmstedt",
+                "Hildesheim",
+                "Holzminden",
                 "Leer",
-                "Oldenburg",
-                "Osnabrück",
-                "Vechta",
-                "Wesermarsch",
-                "Wittmund",
-                "Statistische Region Weser-Ems",
+                "Lüchow-Dannenberg",
+                "Lüneburg",
                 "Niedersachsen",
+                "Nienburg (Weser)",
+                "Northeim",
+                "Oldenburg",
+                "Oldenburg (Oldb) Stadt",
+                "Osnabrück",
+                "Osnabrück Stadt",
+                "Osterholz",
+                "Peine",
                 "Rotenburg (Wümme)",
-                ""
+                "Rotenburg (W�mme)",
+                "Salzgitter Stadt",
+                "Schaumburg",
+                "Stade",
+                "Statistische Region Braunschweig",
+                "Statistische Region Hannover",
+                "Statistische Region Lüneburg",
+                "Statistische Region Weser-Ems",
+                "Uelzen",
+                "Vechta",
+                "Verden",
+                "Wesermarsch",
+                "Wilhelmshaven Stadt",
+                "Wittmund",
+                "Wolfenbüttel",
+                "Wolfsburg Stadt"
               ]
             },
             "title": "Gebietseinheit"
@@ -2469,6 +2464,11 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
           }
         ]
       },
@@ -2485,19 +2485,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
                 "B",
-                "G",
-                ""
+                "G"
               ]
             },
             "title": "Group"
@@ -2506,6 +2501,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2522,71 +2522,71 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Staatsangehörigkeit",
+            "name": "Besuchte Schule",
             "type": "string",
             "constraints": {
               "enum": [
-                "Deutsche",
-                "Ausländerinnen und Ausländer",
-                ""
+                "",
+                "Berufl. Gymnasium",
+                "Berufseinstiegsklasse",
+                "Berufsfachschule",
+                "Berufsgrundbildungsjahr schulisch",
+                "Berufsoberschule",
+                "Berufsschule (Teilzeit)",
+                "Berufsvorbereitungsjahr",
+                "Fachoberschule",
+                "Fachschule",
+                "Insgesamt"
               ]
             },
-            "title": "Staatsangehörigkeit"
+            "title": "Besuchte Schule"
           },
           {
             "name": "Erreichter Abschluss",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Allgemeine Hochschulreife",
-                "Fachhochschulreife",
-                "Schulischer Teil der Fachhochschulreife",
-                "Realschulabschluss",
-                "Hauptschulabschluss",
-                "Erfolgreicher Besuch",
-                "Entlassungen aus dem Berufsvorbereitungsjahr",
-                "Ohne erfolgreichen Besuch/Abschluss",
-                "Erreichte Abschlüsse insgesamt",
-                "   nachrichtlich: Abbruch im laufenden Schuljahr",
-                "erfolgreicher Besuch",
                 "Entlassung aus dem Berufsvorbereitungsjahr",
+                "Entlassungen aus dem Berufsvorbereitungsjahr",
+                "Erfolgreicher Besuch",
+                "Erreichte Abschlüsse insgesamt",
+                "Fachhochschulreife",
+                "Hauptschulabschluss",
+                "Ohne erfolgreichen Besuch/Abschluss",
+                "Realschulabschluss",
+                "Schulischer Teil der Fachhochschulreife",
+                "erfolgreicher Besuch",
+                "nachrichtlich: Abbruch im laufenden Schuljahr",
                 "ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.",
                 "ohne erfolgreichen Besuch/Abschluss",
-                "nachrichtlich: Abbruch im laufenden Schuljahr",
-                ""
+                "   nachrichtlich: Abbruch im laufenden Schuljahr"
               ]
             },
             "title": "Erreichter Abschluss"
           },
           {
-            "name": "Besuchte Schule",
+            "name": "Staatsangehörigkeit",
             "type": "string",
             "constraints": {
               "enum": [
-                "Insgesamt",
-                "Berufsschule (Teilzeit)",
-                "Berufsgrundbildungsjahr schulisch",
-                "Berufseinstiegsklasse",
-                "Berufsvorbereitungsjahr",
-                "Berufsfachschule",
-                "Fachoberschule",
-                "Berufsoberschule",
-                "Berufl. Gymnasium",
-                "Fachschule",
-                ""
+                "",
+                "Ausländerinnen und Ausländer",
+                "Deutsche"
               ]
             },
-            "title": "Besuchte Schule"
+            "title": "Staatsangehörigkeit"
           },
           {
             "name": "Value",
             "type": "string",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2603,19 +2603,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
                 "B",
-                "G",
-                ""
+                "G"
               ]
             },
             "title": "Group"
@@ -2624,6 +2619,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2640,81 +2640,76 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
+            "name": "Aufenthaltstitel",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Geflüchtete und geduldete Personen insgesamt"
+              ]
+            },
+            "title": "Aufenthaltstitel"
           },
           {
             "name": "Gebietseinheit",
             "type": "string",
             "constraints": {
               "enum": [
-                "Braunschweig Stadt",
-                "Salzgitter Stadt",
-                "Wolfsburg Stadt",
-                "Gifhorn",
-                "Goslar",
-                "Helmstedt",
-                "Northeim",
-                "Peine",
-                "Wolfenbüttel",
-                "Göttingen",
-                "Statistische Region Braunschweig",
-                "Hannover Region",
-                "Hannover Landeshauptstadt",
-                "Diepholz",
-                "Hameln-Pyrmont",
-                "Hildesheim",
-                "Holzminden",
-                "Nienburg (Weser)",
-                "Schaumburg",
-                "Statistische Region Hannover",
-                "Celle",
-                "Cuxhaven",
-                "Harburg",
-                "Lüchow-Dannenberg",
-                "Lüneburg",
-                "Osterholz",
-                "Rotenburg (Wümme)",
-                "Heidekreis",
-                "Stade",
-                "Uelzen",
-                "Verden",
-                "Statistische Region Lüneburg",
-                "Delmenhorst.Stadt",
-                "Emden Stadt",
-                "Oldenburg (Oldb) Stadt",
-                "Osnabrück Stadt",
-                "Wilhelmshaven Stadt",
+                "",
                 "Ammerland",
                 "Aurich",
+                "Braunschweig Stadt",
+                "Celle",
                 "Cloppenburg",
+                "Cuxhaven",
+                "Delmenhorst.Stadt",
+                "Diepholz",
+                "Emden Stadt",
                 "Emsland",
                 "Friesland",
+                "Gifhorn",
+                "Goslar",
                 "Grafschaft Bentheim",
+                "Göttingen",
+                "Hameln-Pyrmont",
+                "Hannover Landeshauptstadt",
+                "Hannover Region",
+                "Harburg",
+                "Heidekreis",
+                "Helmstedt",
+                "Hildesheim",
+                "Holzminden",
                 "Leer",
-                "Oldenburg",
-                "Osnabrück",
-                "Vechta",
-                "Wesermarsch",
-                "Wittmund",
-                "Statistische Region Weser-Ems",
+                "Lüchow-Dannenberg",
+                "Lüneburg",
                 "Niedersachsen",
-                ""
+                "Nienburg (Weser)",
+                "Northeim",
+                "Oldenburg",
+                "Oldenburg (Oldb) Stadt",
+                "Osnabrück",
+                "Osnabrück Stadt",
+                "Osterholz",
+                "Peine",
+                "Rotenburg (Wümme)",
+                "Salzgitter Stadt",
+                "Schaumburg",
+                "Stade",
+                "Statistische Region Braunschweig",
+                "Statistische Region Hannover",
+                "Statistische Region Lüneburg",
+                "Statistische Region Weser-Ems",
+                "Uelzen",
+                "Vechta",
+                "Verden",
+                "Wesermarsch",
+                "Wilhelmshaven Stadt",
+                "Wittmund",
+                "Wolfenbüttel",
+                "Wolfsburg Stadt"
               ]
             },
             "title": "Gebietseinheit"
-          },
-          {
-            "name": "Aufenthaltstitel",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Geflüchtete und geduldete Personen insgesamt",
-                ""
-              ]
-            },
-            "title": "Aufenthaltstitel"
           },
           {
             "name": "GeoCode",
@@ -2725,6 +2720,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2741,18 +2741,13 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Abschiebungen",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "Abschiebungen insgesamt",
-                "Überstellung nach der Dublin III-VO",
-                ""
+                "Überstellung nach der Dublin III-VO"
               ]
             },
             "title": "Abschiebungen"
@@ -2761,6 +2756,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2777,19 +2777,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
                 "B",
-                "G",
-                ""
+                "G"
               ]
             },
             "title": "Group"
@@ -2798,6 +2793,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2814,19 +2814,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
                 "B",
-                "G",
-                ""
+                "G"
               ]
             },
             "title": "Group"
@@ -2835,6 +2830,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2851,81 +2851,76 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
+            "name": "Aufenthaltstitel",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Unmöglichkeit d. Ausreise aus rechtl. oder tats. Gründen"
+              ]
+            },
+            "title": "Aufenthaltstitel"
           },
           {
             "name": "Gebietseinheit",
             "type": "string",
             "constraints": {
               "enum": [
-                "Braunschweig Stadt",
-                "Salzgitter Stadt",
-                "Wolfsburg Stadt",
-                "Gifhorn",
-                "Goslar",
-                "Helmstedt",
-                "Northeim",
-                "Peine",
-                "Wolfenbüttel",
-                "Göttingen",
-                "Statistische Region Braunschweig",
-                "Hannover Region",
-                "Hannover Landeshauptstadt",
-                "Diepholz",
-                "Hameln-Pyrmont",
-                "Hildesheim",
-                "Holzminden",
-                "Nienburg (Weser)",
-                "Schaumburg",
-                "Statistische Region Hannover",
-                "Celle",
-                "Cuxhaven",
-                "Harburg",
-                "Lüchow-Dannenberg",
-                "Lüneburg",
-                "Osterholz",
-                "Rotenburg (Wümme)",
-                "Heidekreis",
-                "Stade",
-                "Uelzen",
-                "Verden",
-                "Statistische Region Lüneburg",
-                "Delmenhorst.Stadt",
-                "Emden Stadt",
-                "Oldenburg (Oldb) Stadt",
-                "Osnabrück Stadt",
-                "Wilhelmshaven Stadt",
+                "",
                 "Ammerland",
                 "Aurich",
+                "Braunschweig Stadt",
+                "Celle",
                 "Cloppenburg",
+                "Cuxhaven",
+                "Delmenhorst.Stadt",
+                "Diepholz",
+                "Emden Stadt",
                 "Emsland",
                 "Friesland",
+                "Gifhorn",
+                "Goslar",
                 "Grafschaft Bentheim",
+                "Göttingen",
+                "Hameln-Pyrmont",
+                "Hannover Landeshauptstadt",
+                "Hannover Region",
+                "Harburg",
+                "Heidekreis",
+                "Helmstedt",
+                "Hildesheim",
+                "Holzminden",
                 "Leer",
-                "Oldenburg",
-                "Osnabrück",
-                "Vechta",
-                "Wesermarsch",
-                "Wittmund",
-                "Statistische Region Weser-Ems",
+                "Lüchow-Dannenberg",
+                "Lüneburg",
                 "Niedersachsen",
-                ""
+                "Nienburg (Weser)",
+                "Northeim",
+                "Oldenburg",
+                "Oldenburg (Oldb) Stadt",
+                "Osnabrück",
+                "Osnabrück Stadt",
+                "Osterholz",
+                "Peine",
+                "Rotenburg (Wümme)",
+                "Salzgitter Stadt",
+                "Schaumburg",
+                "Stade",
+                "Statistische Region Braunschweig",
+                "Statistische Region Hannover",
+                "Statistische Region Lüneburg",
+                "Statistische Region Weser-Ems",
+                "Uelzen",
+                "Vechta",
+                "Verden",
+                "Wesermarsch",
+                "Wilhelmshaven Stadt",
+                "Wittmund",
+                "Wolfenbüttel",
+                "Wolfsburg Stadt"
               ]
             },
             "title": "Gebietseinheit"
-          },
-          {
-            "name": "Aufenthaltstitel",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Unmöglichkeit d. Ausreise aus rechtl. oder tats. Gründen",
-                ""
-              ]
-            },
-            "title": "Aufenthaltstitel"
           },
           {
             "name": "GeoCode",
@@ -2936,6 +2931,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2952,19 +2952,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
                 "B",
-                "G",
-                ""
+                "G"
               ]
             },
             "title": "Group"
@@ -2973,6 +2968,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -2989,19 +2989,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
                 "B",
-                "G",
-                ""
+                "G"
               ]
             },
             "title": "Group"
@@ -3010,6 +3005,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -3026,19 +3026,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
                 "B",
-                "G",
-                ""
+                "G"
               ]
             },
             "title": "Group"
@@ -3047,6 +3042,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -3063,19 +3063,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
                 "B",
-                "G",
-                ""
+                "G"
               ]
             },
             "title": "Group"
@@ -3084,6 +3079,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -3100,19 +3100,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
                 "B",
-                "G",
-                ""
+                "G"
               ]
             },
             "title": "Group"
@@ -3121,6 +3116,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -3137,19 +3137,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
                 "B",
-                "G",
-                ""
+                "G"
               ]
             },
             "title": "Group"
@@ -3158,6 +3153,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -3174,68 +3174,63 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Gebietseinheit",
             "type": "string",
             "constraints": {
               "enum": [
-                "Braunschweig Stadt",
-                "Salzgitter Stadt",
-                "Wolfsburg Stadt",
-                "Gifhorn",
-                "Goslar",
-                "Helmstedt",
-                "Northeim",
-                "Peine",
-                "Wolfenbüttel",
-                "Göttingen",
-                "Statistische Region Braunschweig",
-                "Hannover Region",
-                "Hannover Landeshauptstadt",
-                "Hannover Umland",
-                "Diepholz",
-                "Hameln-Pyrmont",
-                "Hildesheim",
-                "Holzminden",
-                "Nienburg (Weser)",
-                "Schaumburg",
-                "Statistische Region Hannover",
-                "Celle",
-                "Cuxhaven",
-                "Harburg",
-                "Lüchow-Dannenberg",
-                "Lüneburg",
-                "Osterholz",
-                "Rotenburg (Wümme)",
-                "Heidekreis",
-                "Stade",
-                "Uelzen",
-                "Verden",
-                "Statistische Region Lüneburg",
-                "Delmenhorst.Stadt",
-                "Emden Stadt",
-                "Oldenburg (Oldb) Stadt",
-                "Osnabrück Stadt",
-                "Wilhelmshaven Stadt",
+                "",
                 "Ammerland",
                 "Aurich",
+                "Braunschweig Stadt",
+                "Celle",
                 "Cloppenburg",
+                "Cuxhaven",
+                "Delmenhorst.Stadt",
+                "Diepholz",
+                "Emden Stadt",
                 "Emsland",
                 "Friesland",
+                "Gifhorn",
+                "Goslar",
                 "Grafschaft Bentheim",
+                "Göttingen",
+                "Hameln-Pyrmont",
+                "Hannover Landeshauptstadt",
+                "Hannover Region",
+                "Hannover Umland",
+                "Harburg",
+                "Heidekreis",
+                "Helmstedt",
+                "Hildesheim",
+                "Holzminden",
                 "Leer",
-                "Oldenburg",
-                "Osnabrück",
-                "Vechta",
-                "Wesermarsch",
-                "Wittmund",
-                "Statistische Region Weser-Ems",
+                "Lüchow-Dannenberg",
+                "Lüneburg",
                 "Niedersachsen",
-                ""
+                "Nienburg (Weser)",
+                "Northeim",
+                "Oldenburg",
+                "Oldenburg (Oldb) Stadt",
+                "Osnabrück",
+                "Osnabrück Stadt",
+                "Osterholz",
+                "Peine",
+                "Rotenburg (Wümme)",
+                "Salzgitter Stadt",
+                "Schaumburg",
+                "Stade",
+                "Statistische Region Braunschweig",
+                "Statistische Region Hannover",
+                "Statistische Region Lüneburg",
+                "Statistische Region Weser-Ems",
+                "Uelzen",
+                "Vechta",
+                "Verden",
+                "Wesermarsch",
+                "Wilhelmshaven Stadt",
+                "Wittmund",
+                "Wolfenbüttel",
+                "Wolfsburg Stadt"
               ]
             },
             "title": "Gebietseinheit"
@@ -3249,6 +3244,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -3265,19 +3265,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
                 "B",
-                "G",
-                ""
+                "G"
               ]
             },
             "title": "Group"
@@ -3286,6 +3281,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -3302,19 +3302,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
                 "B",
-                "G",
-                ""
+                "G"
               ]
             },
             "title": "Group"
@@ -3323,6 +3318,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -3339,17 +3339,12 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Gebietseinheit",
             "type": "string",
             "constraints": {
               "enum": [
-                "Niedersachsen",
-                ""
+                "",
+                "Niedersachsen"
               ]
             },
             "title": "Gebietseinheit"
@@ -3358,6 +3353,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -3374,19 +3374,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
                 "B",
-                "G",
-                ""
+                "G"
               ]
             },
             "title": "Group"
@@ -3395,6 +3390,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -3411,19 +3411,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
                 "B",
-                "G",
-                ""
+                "G"
               ]
             },
             "title": "Group"
@@ -3432,6 +3427,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -3448,19 +3448,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
                 "B",
-                "G",
-                ""
+                "G"
               ]
             },
             "title": "Group"
@@ -3469,6 +3464,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -3485,19 +3485,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
                 "B",
-                "G",
-                ""
+                "G"
               ]
             },
             "title": "Group"
@@ -3506,6 +3501,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -3522,19 +3522,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
-          },
-          {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
+                "",
                 "A",
                 "B",
-                "G",
-                ""
+                "G"
               ]
             },
             "title": "Group"
@@ -3543,6 +3538,11 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -3559,59 +3559,59 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "integer",
-            "title": "Year"
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Nationality",
             "type": "string",
             "constraints": {
               "enum": [
-                "Europa",
-                "Türkei",
-                "Polen",
-                "Serbien",
-                "Niederlande",
-                "Rumänien",
-                "Italien",
-                "Russische Föderation",
-                "Griechenland",
-                "Bulgarien",
-                "Spanien",
-                "Ukraine",
-                "Vereinigtes Königreich",
-                "Portugal",
-                "Kroatien",
-                "Ungarn",
-                "EU Staaten",
+                "",
+                "Afghanistan",
                 "Afrika",
                 "Amerika",
                 "Asien",
-                "Syrien",
-                "Irak ",
-                "Afghanistan",
-                "China",
-                "Vietnam",
                 "Australien und Ozeanien",
-                "Sonstige Ausprägungen",
-                "Staatenlos",
-                "Ungeklärt und ohne Angabe",
+                "Bulgarien",
+                "China",
+                "EU Staaten",
+                "Europa",
+                "Griechenland",
                 "Insgesamt",
-                ""
+                "Irak ",
+                "Italien",
+                "Kroatien",
+                "Niederlande",
+                "Polen",
+                "Portugal",
+                "Rumänien",
+                "Russische Föderation",
+                "Serbien",
+                "Sonstige Ausprägungen",
+                "Spanien",
+                "Staatenlos",
+                "Syrien",
+                "Türkei",
+                "Ukraine",
+                "Ungarn",
+                "Ungeklärt und ohne Angabe",
+                "Vereinigtes Königreich",
+                "Vietnam"
               ]
             },
             "title": "Nationality"
           },
           {
-            "name": "GeoCode",
-            "type": "string",
-            "title": "GeoCode"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           }
         ]
       },
@@ -3628,14 +3628,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
           }
         ]
       },
@@ -3652,14 +3652,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
           }
         ]
       },
@@ -3676,14 +3676,14 @@
       "schema": {
         "fields": [
           {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
           }
         ]
       },
