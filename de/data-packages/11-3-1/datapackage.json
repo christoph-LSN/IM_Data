@@ -11,14 +11,9 @@
       "schema": {
         "fields": [
           {
-            "name": "Aufenthaltstitel",
+            "name": "Year",
             "type": "string",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Aufenthaltstitel"
+            "title": "Year"
           },
           {
             "name": "Gebietseinheit",
@@ -31,6 +26,16 @@
             "title": "Gebietseinheit"
           },
           {
+            "name": "Aufenthaltstitel",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Aufenthaltstitel"
+          },
+          {
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
@@ -39,11 +44,6 @@
             "name": "Value",
             "type": "string",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }
