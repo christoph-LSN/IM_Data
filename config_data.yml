@@ -119,7 +119,7 @@ map_layers:
   -
     geojson_file: worldmap/world.geojson
     name_property: name_amt_de
-    id_property: code_de
+    id_property: code
     output_subfolder: world
     filename_prefix: indicator_
 
