@@ -111,8 +111,8 @@ map_layers:
 
   -
     geojson_file: worldmap/world.geojson
-    name_property: name_long
-    id_property: LAGS
+    name_property: name_de
+    id_property: code
     output_subfolder: worldmap
     filename_prefix: indicator_
 
