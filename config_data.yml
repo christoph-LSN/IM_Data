@@ -1,5 +1,5 @@
 
-# This config file is for use with the `build_data` and `check_data` functions,
+## This config file is for use with the `build_data` and `check_data` functions,
 # which are helpers for implementations of Open SDG. This file allows easy use
 # of those functions without altering Python code.
 
@@ -110,16 +110,16 @@ map_layers:
     exclude_columns: ['Gebietseinheit']
 
   -
-    geojson_file: worldmap/world.geojson
-    name_property: name_de
-    id_property: code
+    geojson_file: worldmap/world_custom.geojson
+    name_property: name_long
+    id_property: LAGS
     output_subfolder: worldmap
     filename_prefix: indicator_
 
   -
-    geojson_file: worldmap/world.geojson
+    geojson_file: maps/world.geojson
     name_property: name_amt_de
-    id_property: code
+    id_property: code_de
     output_subfolder: world
     filename_prefix: indicator_
 
