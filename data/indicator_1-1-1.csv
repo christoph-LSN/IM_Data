@@ -1,4 +1,4 @@
-Year,Gebietseinheit,GeoCode,Value
+﻿Year,Gebietseinheit,GeoCode,Value
 2005,Braunschweig Stadt,K03101,245273
 2005,Salzgitter Stadt,K03102,107726
 2005,Wolfsburg Stadt,K03103,121199
@@ -12,6 +12,7 @@ Year,Gebietseinheit,GeoCode,Value
 2005,Statistische Region Braunschweig,K031,1650435
 2005,Hannover Region,K03241,1128543
 2005,Hannover Landeshauptstadt,K03241001,515729
+2005,Hannover Umland,K03241999,612814
 2005,Diepholz,K03251,215548
 2005,Hameln-Pyrmont,K03252,159840
 2005,Hildesheim,K03254,290643
@@ -63,6 +64,7 @@ Year,Gebietseinheit,GeoCode,Value
 2006,Statistische Region Braunschweig,K031,1641776
 2006,Hannover Region,K03241,1128772
 2006,Hannover Landeshauptstadt,K03241001,516343
+2006,Hannover Umland,K03241999,612429
 2006,Diepholz,K03251,215406
 2006,Hameln-Pyrmont,K03252,158658
 2006,Hildesheim,K03254,289984
@@ -114,6 +116,7 @@ Year,Gebietseinheit,GeoCode,Value
 2007,Statistische Region Braunschweig,K031,1633318
 2007,Hannover Region,K03241,1130039
 2007,Hannover Landeshauptstadt,K03241001,518069
+2007,Hannover Umland,K03241999,611970
 2007,Diepholz,K03251,215142
 2007,Hameln-Pyrmont,K03252,157867
 2007,Hildesheim,K03254,288623
@@ -165,6 +168,7 @@ Year,Gebietseinheit,GeoCode,Value
 2008,Statistische Region Braunschweig,K031,1623649
 2008,Hannover Region,K03241,1129797
 2008,Hannover Landeshauptstadt,K03241001,519619
+2008,Hannover Umland,K03241999,610178
 2008,Diepholz,K03251,214379
 2008,Hameln-Pyrmont,K03252,156398
 2008,Hildesheim,K03254,286663
@@ -217,6 +221,7 @@ Year,Gebietseinheit,GeoCode,Value
 2009,Statistische Region Braunschweig,K031,1616720
 2009,Hannover Region,K03241,1130262
 2009,Hannover Landeshauptstadt,K03241001,520966
+2009,Hannover Umland,K03241999,609296
 2009,Diepholz,K03251,213634
 2009,Hameln-Pyrmont,K03252,155164
 2009,Hildesheim,K03254,284551
@@ -268,6 +273,7 @@ Year,Gebietseinheit,GeoCode,Value
 2010,Statistische Region Braunschweig,K031,1609369
 2010,Hannover Region,K03241,1132130
 2010,Hannover Landeshauptstadt,K03241001,522686
+2010,Hannover Umland,K03241999,609444
 2010,Diepholz,K03251,213558
 2010,Hameln-Pyrmont,K03252,154085
 2010,Hildesheim,K03254,282856
@@ -319,6 +325,7 @@ Year,Gebietseinheit,GeoCode,Value
 2011,Statistische Region Braunschweig,K031,1575968
 2011,Hannover Region,K03241,1106219
 2011,Hannover Landeshauptstadt,K03241001,509485
+2011,Hannover Umland,K03241999,596734
 2011,Diepholz,K03251,209745
 2011,Hameln-Pyrmont,K03252,149513
 2011,Hildesheim,K03254,276383
@@ -370,6 +377,7 @@ Year,Gebietseinheit,GeoCode,Value
 2012,Statistische Region Braunschweig,K031,1574527
 2012,Hannover Region,K03241,1112675
 2012,Hannover Landeshauptstadt,K03241001,514137
+2012,Hannover Umland,K03241999,598538
 2012,Diepholz,K03251,209671
 2012,Hameln-Pyrmont,K03252,148532
 2012,Hildesheim,K03254,275330
@@ -421,6 +429,7 @@ Year,Gebietseinheit,GeoCode,Value
 2013,Statistische Region Braunschweig,K031,1574936
 2013,Hannover Region,K03241,1119526
 2013,Hannover Landeshauptstadt,K03241001,518386
+2013,Hannover Umland,K03241999,601140
 2013,Diepholz,K03251,209955
 2013,Hameln-Pyrmont,K03252,147755
 2013,Hildesheim,K03254,274519
@@ -472,6 +481,7 @@ Year,Gebietseinheit,GeoCode,Value
 2014,Statistische Region Braunschweig,K031,1579754
 2014,Hannover Region,K03241,1128037
 2014,Hannover Landeshauptstadt,K03241001,523642
+2014,Hannover Umland,K03241999,604395
 2014,Diepholz,K03251,211093
 2014,Hameln-Pyrmont,K03252,147813
 2014,Hildesheim,K03254,274554
@@ -523,6 +533,7 @@ Year,Gebietseinheit,GeoCode,Value
 2015,Statistische Region Braunschweig,K031,1598164
 2015,Hannover Region,K03241,1144481
 2015,Hannover Landeshauptstadt,K03241001,532163
+2015,Hannover Umland,K03241999,612318
 2015,Diepholz,K03251,213976
 2015,Hameln-Pyrmont,K03252,148281
 2015,Hildesheim,K03254,277055
@@ -574,6 +585,7 @@ Year,Gebietseinheit,GeoCode,Value
 2016,Statistische Region Braunschweig,K031,1595609
 2016,Hannover Region,K03241,1148700
 2016,Hannover Landeshauptstadt,K03241001,532864
+2016,Hannover Umland,K03241999,615836
 2016,Diepholz,K03251,215082
 2016,Hameln-Pyrmont,K03252,148265
 2016,Hildesheim,K03254,277300
@@ -625,6 +637,7 @@ Year,Gebietseinheit,GeoCode,Value
 2017,Statistische Region Braunschweig,K031,1595734
 2017,Hannover Region,K03241,1152675
 2017,Hannover Landeshauptstadt,K03241001,535061
+2017,Hannover Umland,K03241999,617614
 2017,Diepholz,K03251,216012
 2017,Hameln-Pyrmont,K03252,148296
 2017,Hildesheim,K03254,276640
@@ -676,6 +689,7 @@ Year,Gebietseinheit,GeoCode,Value
 2018,Statistische Region Braunschweig,K031,1596396
 2018,Hannover Region,K03241,1157624
 2018,Hannover Landeshauptstadt,K03241001,538068
+2018,Hannover Umland,K03241999,619556
 2018,Diepholz,K03251,216886
 2018,Hameln-Pyrmont,K03252,148559
 2018,Hildesheim,K03254,276594
@@ -727,6 +741,7 @@ Year,Gebietseinheit,GeoCode,Value
 2019,Statistische Region Braunschweig,K031,1594929
 2019,Hannover Region,K03241,1157115
 2019,Hannover Landeshauptstadt,K03241001,536925
+2019,Hannover Umland,K03241999,620190
 2019,Diepholz,K03251,217089
 2019,Hameln-Pyrmont,K03252,148549
 2019,Hildesheim,K03254,275817
@@ -765,3 +780,55 @@ Year,Gebietseinheit,GeoCode,Value
 2019,Wittmund,K03462,56926
 2019,Statistische Region Weser-Ems,K034,2533993
 2019,Niedersachsen,K030,7993608
+2020,Braunschweig Stadt,K03101,248561
+2020,Salzgitter Stadt,K03102,103866
+2020,Wolfsburg Stadt,K03103,123840
+2020,Gifhorn,K03151,177227
+2020,Goslar,K03153,134688
+2020,Helmstedt,K03154,91518
+2020,Northeim,K03155,131772
+2020,Peine,K03157,135844
+2020,Wolfenbüttel,K03158,119361
+2020,Göttingen,K03159,323900
+2020,Statistische Region Braunschweig,K031,1590577
+2020,Hannover Region,K03241,1155330
+2020,Hannover Landeshauptstadt,K03241001,534049
+2020,Hannover Umland,K03241999,621281
+2020,Diepholz,K03251,218072
+2020,Hameln-Pyrmont,K03252,148580
+2020,Hildesheim,K03254,275464
+2020,Holzminden,K03255,70207
+2020,Nienburg (Weser),K03256,121645
+2020,Schaumburg,K03257,158406
+2020,Statistische Region Hannover,K032,2147704
+2020,Celle,K03351,179386
+2020,Cuxhaven,K03352,198826
+2020,Harburg,K03353,256016
+2020,Lüchow-Dannenberg,K03354,48503
+2020,Lüneburg,K03355,184235
+2020,Osterholz,K03356,114640
+2020,Rotenburg (Wümme),K03357,164486
+2020,Heidekreis,K03358,140885
+2020,Stade,K03359,205357
+2020,Uelzen,K03360,92566
+2020,Verden,K03361,137574
+2020,Statistische Region Lüneburg,K033,1722474
+2020,Delmenhorst.Stadt,K03401,77503
+2020,Emden Stadt,K03402,49874
+2020,Oldenburg (Oldb) Stadt,K03403,169605
+2020,Osnabrück Stadt,K03404,164223
+2020,Wilhelmshaven Stadt,K03405,75189
+2020,Ammerland,K03451,125643
+2020,Aurich,K03452,190178
+2020,Cloppenburg,K03453,172632
+2020,Emsland,K03454,328930
+2020,Friesland,K03455,98971
+2020,Grafschaft Bentheim,K03456,137891
+2020,Leer,K03457,171483
+2020,Oldenburg,K03458,131467
+2020,Osnabrück,K03459,359471
+2020,Vechta,K03460,143698
+2020,Wesermarsch,K03461,88524
+2020,Wittmund,K03462,57384
+2020,Statistische Region Weser-Ems,K034,2542666
+2020,Niedersachsen,K030,8003421

@@ -117,9 +117,9 @@ map_layers:
     filename_prefix: indicator_
 
   -
-    geojson_file: maps/world.geojson
+    geojson_file: worldmap/newworld.geojson
     name_property: name_amt_de
-    id_property: code_de
+    id_property: code_destatis
     output_subfolder: world
     filename_prefix: indicator_
 
@@ -128,7 +128,7 @@ map_layers:
 ##Sorting disaggregation entris
 
 datapackage:
-  sorting: default
+  sorting: default #alphabetical
 
 # data_schema:
 #  class: DataSchemaInputTableSchemaYaml
