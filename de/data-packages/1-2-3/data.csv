@@ -1,367 +1,123 @@
 Year,Kategorie,Staat,GeoCode,Value
-2019,insgesamt,  Albanien                          ,121,6120
-2019,insgesamt,  Belgien                           ,124,1300
-2019,insgesamt,  Bosnien und Herzegowina           ,122,7860
-2019,insgesamt,  Bulgarien                         ,125,28360
-2019,insgesamt,  Dänemark                          ,126,1450
-2019,insgesamt,  Estland                           ,127,515
-2019,insgesamt,  Finnland                          ,128,1050
-2019,insgesamt,  Frankreich                        ,129,4800
-2019,insgesamt,  Griechenland                      ,134,18815
-2019,insgesamt,  Irland                            ,135,740
-2019,insgesamt,  Island                            ,136,140
-2019,insgesamt,  Italien                           ,137,28825
-2019,insgesamt,  Serbien u.Montenegro Ehem.Jugosla,132,1690
-2019,insgesamt,  Serbien (einschl. Kosovo)         ,133,470
-2019,insgesamt,  Serbien                           ,170,19115
-2019,insgesamt,  Montenegro                        ,140,4405
-2019,insgesamt,  Kroatien                          ,130,11915
-2019,insgesamt,  Kosovo                            ,150,16475
-2019,insgesamt,  Lettland                          ,139,5590
-2019,insgesamt,  Litauen                           ,142,7745
-2019,insgesamt,  Luxemburg                         ,143,240
-2019,insgesamt,  Malta                             ,145,40
-2019,insgesamt,  Mazedonien                        ,144,6105
-2019,insgesamt,  Moldau Republik                  ,146,2825
-2019,insgesamt,  Monaco                            ,147,5
-2019,insgesamt,  Niederlande                       ,148,29865
-2019,insgesamt,  Norwegen                          ,149,525
-2019,insgesamt,  Österreich                        ,151,6680
-2019,insgesamt,  Polen                             ,152,98015
-2019,insgesamt,  Portugal                          ,153,8740
-2019,insgesamt,  Rumänien                          ,154,58980
-2019,insgesamt,  Russische Föderation              ,160,22260
-2019,insgesamt,  Schweden                          ,157,1565
-2019,insgesamt,  Schweiz                           ,158,2385
-2019,insgesamt,  Slowakei                          ,155,2835
-2019,insgesamt,  Slowenien                         ,131,915
-2019,insgesamt,  ehem. Sowjetunion                 ,159,85
-2019,insgesamt,  Spanien                           ,161,11970
-2019,insgesamt,  ehem. Tschechoslowakei            ,162,90
-2019,insgesamt,  Tschechische Republik             ,164,2180
-2019,insgesamt,  Türkei                            ,163,88735
-2019,insgesamt,  Ukraine                           ,166,11345
-2019,insgesamt,  Ungarn                            ,165,9465
-2019,insgesamt,  Vereinigtes Königreich GB u.Nordir,168,6750
-2019,insgesamt,  Weißrußland                       ,169,2070
-2019,insgesamt,  Zypern                            ,181,115
-2019,insgesamt,  übrige europäische Staaten        ,   ,5
-2019,insgesamt,Europa insgesamt                    ,   ,542155
-2019,insgesamt,  Algerien                          ,221,1380
-2019,insgesamt,  Angola                            ,223,235
-2019,insgesamt,  Ägypten                           ,287,2095
-2019,insgesamt,  Äthiopien                         ,225,375
-2019,insgesamt,  Benin                             ,229,125
-2019,insgesamt,  Burkina Faso                      ,258,100
-2019,insgesamt,  Cote d'Ivoire                     ,231,3040
-2019,insgesamt,  Eritrea                           ,224,3800
-2019,insgesamt,  Gambia                            ,237,880
-2019,insgesamt,  Ghana                             ,238,2945
-2019,insgesamt,  Kamerun                           ,262,2005
-2019,insgesamt,  Kenia                             ,243,665
-2019,insgesamt,  Liberia                           ,247,645
-2019,insgesamt,  Marokko                           ,252,2380
-2019,insgesamt,  Nigeria                           ,232,2835
-2019,insgesamt,  Senegal                           ,269,265
-2019,insgesamt,  Sierra Leone                      ,272,125
-2019,insgesamt,  Somalia                           ,273,3205
-2019,insgesamt,  Südafrika                         ,263,515
-2019,insgesamt,  Sudan (einschl. Südsudan) (bis 201,276,240
-2019,insgesamt,  Sudan (ab 2011)                   ,277,4425
-2019,insgesamt,  Südsudan (ab 2011)                ,278,185
-2019,insgesamt,  Togo                              ,283,575
-2019,insgesamt,  Tunesien                          ,285,3725
-2019,insgesamt,  Kongo Dem. Volksrepublik (ehem.Za,246,255
-2019,insgesamt,  übrige afrikanische Staaten       ,   ,4990
-2019,insgesamt,Afrika insgesamt                    ,   ,42015
-2019,insgesamt,  Argentinien                       ,323,395
-2019,insgesamt,  Bolivien                          ,326,145
-2019,insgesamt,  Brasilien                         ,327,3190
-2019,insgesamt,  Chile                             ,332,555
-2019,insgesamt,  Dominikanische Republik           ,335,455
-2019,insgesamt,  Kanada                            ,348,1020
-2019,insgesamt,  Kolumbien                         ,349,1875
-2019,insgesamt,  Kuba                              ,351,390
-2019,insgesamt,  Mexiko                            ,353,1705
-2019,insgesamt,  Peru                              ,361,750
-2019,insgesamt,  Venezuela                         ,367,360
-2019,insgesamt,  Vereinigte Staaten                ,368,5390
-2019,insgesamt,  übrige amerikanische Staaten      ,   ,1355
-2019,insgesamt,Amerika insgesamt                   ,   ,17580
-2019,insgesamt,  Afghanistan                       ,423,21190
-2019,insgesamt,  Armenien                          ,422,1515
-2019,insgesamt,  Aserbaidschan                     ,425,1620
-2019,insgesamt,  Bangladesch                       ,460,375
-2019,insgesamt,  China                             ,479,10490
-2019,insgesamt,  Georgien                          ,430,2640
-2019,insgesamt,  Indien                            ,436,7025
-2019,insgesamt,  Indonesien                        ,437,1585
-2019,insgesamt,  Israel                            ,441,695
-2019,insgesamt,  Irak                              ,438,41035
-2019,insgesamt,  Iran Islamische Republik         ,439,10780
-2019,insgesamt,  Japan                             ,442,1465
-2019,insgesamt,  Jordanien                         ,445,970
-2019,insgesamt,  Kasachstan                        ,444,4825
-2019,insgesamt,  Korea Republik                   ,467,1550
-2019,insgesamt,  Libanon                           ,451,6740
-2019,insgesamt,  Malaysia                          ,482,565
-2019,insgesamt,  Nepal                             ,458,755
-2019,insgesamt,  Pakistan                          ,461,4295
-2019,insgesamt,  Die Palästinänsischen Gebiete     ,459,1030
-2019,insgesamt,  Philippinen                       ,462,1870
-2019,insgesamt,  Sri Lanka                         ,431,1250
-2019,insgesamt,  Syrien Arabische Republik        ,475,84805
-2019,insgesamt,  Taiwan                            ,465,460
-2019,insgesamt,  Thailand                          ,476,4190
-2019,insgesamt,  Vietnam                           ,432,8760
-2019,insgesamt,  übrige asiatische Staaten         ,   ,3570
-2019,insgesamt,Asien insgesamt                     ,   ,226045
-2019,insgesamt,Australien und Ozeanien             ,   ,1065
-2019,insgesamt,staatenlos                          ,997,3540
-2019,insgesamt,ungeklärtoh.Angabeunbekannt       ,   ,8730
-2019,insgesamt,Britische Überseegebiete            ,185,35
-2019,insgesamt,Ausländer insgesamt                 ,   ,841165
-2019,männlich,  Albanien                          ,121,3530
-2019,männlich,  Belgien                           ,124,665
-2019,männlich,  Bosnien und Herzegowina           ,122,4255
-2019,männlich,  Bulgarien                         ,125,15555
-2019,männlich,  Dänemark                          ,126,585
-2019,männlich,  Estland                           ,127,185
-2019,männlich,  Finnland                          ,128,295
-2019,männlich,  Frankreich                        ,129,2270
-2019,männlich,  Griechenland                      ,134,10670
-2019,männlich,  Irland                            ,135,450
-2019,männlich,  Island                            ,136,85
-2019,männlich,  Italien                           ,137,17460
-2019,männlich,  Serbien u.Montenegro Ehem.Jugosla,132,935
-2019,männlich,  Serbien (einschl. Kosovo)         ,133,230
-2019,männlich,  Serbien                           ,170,9740
-2019,männlich,  Montenegro                        ,140,2385
-2019,männlich,  Kroatien                          ,130,6790
-2019,männlich,  Kosovo                            ,150,8550
-2019,männlich,  Lettland                          ,139,2985
-2019,männlich,  Litauen                           ,142,3825
-2019,männlich,  Luxemburg                         ,143,120
-2019,männlich,  Malta                             ,145,20
-2019,männlich,  Mazedonien                        ,144,3250
-2019,männlich,  Moldau Republik                  ,146,1160
-2019,männlich,  Monaco                            ,147,0
-2019,männlich,  Niederlande                       ,148,16910
-2019,männlich,  Norwegen                          ,149,250
-2019,männlich,  Österreich                        ,151,3515
-2019,männlich,  Polen                             ,152,53655
-2019,männlich,  Portugal                          ,153,4730
-2019,männlich,  Rumänien                          ,154,35745
-2019,männlich,  Russische Föderation              ,160,8180
-2019,männlich,  Schweden                          ,157,735
-2019,männlich,  Schweiz                           ,158,1110
-2019,männlich,  Slowakei                          ,155,1480
-2019,männlich,  Slowenien                         ,131,515
-2019,männlich,  ehem. Sowjetunion                 ,159,30
-2019,männlich,  Spanien                           ,161,6320
-2019,männlich,  ehem. Tschechoslowakei            ,162,35
-2019,männlich,  Tschechische Republik             ,164,975
-2019,männlich,  Türkei                            ,163,45520
-2019,männlich,  Ukraine                           ,166,4195
-2019,männlich,  Ungarn                            ,165,5690
-2019,männlich,  Vereinigtes Königreich GB u.Nordir,168,4715
-2019,männlich,  Weißrußland                       ,169,605
-2019,männlich,  Zypern                            ,181,60
-2019,männlich,  übrige europäische Staaten        ,   ,5
-2019,männlich,Europa insgesamt                    ,   ,290985
-2019,männlich,  Algerien                          ,221,1015
-2019,männlich,  Angola                            ,223,130
-2019,männlich,  Ägypten                           ,287,1415
-2019,männlich,  Äthiopien                         ,225,180
-2019,männlich,  Benin                             ,229,80
-2019,männlich,  Burkina Faso                      ,258,65
-2019,männlich,  Cote d'Ivoire                     ,231,2230
-2019,männlich,  Eritrea                           ,224,2585
-2019,männlich,  Gambia                            ,237,710
-2019,männlich,  Ghana                             ,238,1475
-2019,männlich,  Kamerun                           ,262,1110
-2019,männlich,  Kenia                             ,243,205
-2019,männlich,  Liberia                           ,247,520
-2019,männlich,  Marokko                           ,252,1345
-2019,männlich,  Nigeria                           ,232,1635
-2019,männlich,  Senegal                           ,269,165
-2019,männlich,  Sierra Leone                      ,272,90
-2019,männlich,  Somalia                           ,273,1995
-2019,männlich,  Südafrika                         ,263,240
-2019,männlich,  Sudan (einschl. Südsudan) (bis 201,276,210
-2019,männlich,  Sudan (ab 2011)                   ,277,3555
-2019,männlich,  Südsudan (ab 2011)                ,278,155
-2019,männlich,  Togo                              ,283,260
-2019,männlich,  Tunesien                          ,285,2425
-2019,männlich,  Kongo Dem. Volksrepublik (ehem.Za,246,135
-2019,männlich,  übrige afrikanische Staaten       ,   ,2935
-2019,männlich,Afrika insgesamt                    ,   ,26865
-2019,männlich,  Argentinien                       ,323,195
-2019,männlich,  Bolivien                          ,326,55
-2019,männlich,  Brasilien                         ,327,1205
-2019,männlich,  Chile                             ,332,285
-2019,männlich,  Dominikanische Republik           ,335,165
-2019,männlich,  Kanada                            ,348,490
-2019,männlich,  Kolumbien                         ,349,840
-2019,männlich,  Kuba                              ,351,135
-2019,männlich,  Mexiko                            ,353,785
-2019,männlich,  Peru                              ,361,280
-2019,männlich,  Venezuela                         ,367,160
-2019,männlich,  Vereinigte Staaten                ,368,2820
-2019,männlich,  übrige amerikanische Staaten      ,   ,605
-2019,männlich,Amerika insgesamt                   ,   ,8020
-2019,männlich,  Afghanistan                       ,423,13435
-2019,männlich,  Armenien                          ,422,710
-2019,männlich,  Aserbaidschan                     ,425,800
-2019,männlich,  Bangladesch                       ,460,250
-2019,männlich,  China                             ,479,5300
-2019,männlich,  Georgien                          ,430,1240
-2019,männlich,  Indien                            ,436,4325
-2019,männlich,  Indonesien                        ,437,665
-2019,männlich,  Israel                            ,441,420
-2019,männlich,  Irak                              ,438,22650
-2019,männlich,  Iran Islamische Republik         ,439,6185
-2019,männlich,  Japan                             ,442,575
-2019,männlich,  Jordanien                         ,445,585
-2019,männlich,  Kasachstan                        ,444,2200
-2019,männlich,  Korea Republik                   ,467,590
-2019,männlich,  Libanon                           ,451,3885
-2019,männlich,  Malaysia                          ,482,285
-2019,männlich,  Nepal                             ,458,400
-2019,männlich,  Pakistan                          ,461,2980
-2019,männlich,  Die Palästinänsischen Gebiete     ,459,630
-2019,männlich,  Philippinen                       ,462,425
-2019,männlich,  Sri Lanka                         ,431,585
-2019,männlich,  Syrien Arabische Republik        ,475,48260
-2019,männlich,  Taiwan                            ,465,125
-2019,männlich,  Thailand                          ,476,400
-2019,männlich,  Vietnam                           ,432,3970
-2019,männlich,  übrige asiatische Staaten         ,   ,1825
-2019,männlich,Asien insgesamt                     ,   ,123710
-2019,männlich,Australien und Ozeanien             ,   ,600
-2019,männlich,staatenlos                          ,997,2005
-2019,männlich,ungeklärtoh.Angabeunbekannt       ,   ,5110
-2019,männlich,Britische Überseegebiete            ,185,15
-2019,männlich,Ausländer insgesamt                 ,   ,457315
-2019,weiblich,  Albanien                          ,121,2590
-2019,weiblich,  Belgien                           ,124,640
-2019,weiblich,  Bosnien und Herzegowina           ,122,3605
-2019,weiblich,  Bulgarien                         ,125,12800
-2019,weiblich,  Dänemark                          ,126,865
-2019,weiblich,  Estland                           ,127,330
-2019,weiblich,  Finnland                          ,128,750
-2019,weiblich,  Frankreich                        ,129,2530
-2019,weiblich,  Griechenland                      ,134,8145
-2019,weiblich,  Irland                            ,135,295
-2019,weiblich,  Island                            ,136,55
-2019,weiblich,  Italien                           ,137,11360
-2019,weiblich,  Serbien u.Montenegro Ehem.Jugosla,132,750
-2019,weiblich,  Serbien (einschl. Kosovo)         ,133,240
-2019,weiblich,  Serbien                           ,170,9375
-2019,weiblich,  Montenegro                        ,140,2020
-2019,weiblich,  Kroatien                          ,130,5120
-2019,weiblich,  Kosovo                            ,150,7925
-2019,weiblich,  Lettland                          ,139,2600
-2019,weiblich,  Litauen                           ,142,3915
-2019,weiblich,  Luxemburg                         ,143,120
-2019,weiblich,  Malta                             ,145,20
-2019,weiblich,  Mazedonien                        ,144,2855
-2019,weiblich,  Moldau Republik                  ,146,1665
-2019,weiblich,  Monaco                            ,147,0
-2019,weiblich,  Niederlande                       ,148,12955
-2019,weiblich,  Norwegen                          ,149,275
-2019,weiblich,  Österreich                        ,151,3165
-2019,weiblich,  Polen                             ,152,44365
-2019,weiblich,  Portugal                          ,153,4010
-2019,weiblich,  Rumänien                          ,154,23235
-2019,weiblich,  Russische Föderation              ,160,14075
-2019,weiblich,  Schweden                          ,157,830
-2019,weiblich,  Schweiz                           ,158,1275
-2019,weiblich,  Slowakei                          ,155,1355
-2019,weiblich,  Slowenien                         ,131,405
-2019,weiblich,  ehem. Sowjetunion                 ,159,55
-2019,weiblich,  Spanien                           ,161,5650
-2019,weiblich,  ehem. Tschechoslowakei            ,162,55
-2019,weiblich,  Tschechische Republik             ,164,1205
-2019,weiblich,  Türkei                            ,163,43215
-2019,weiblich,  Ukraine                           ,166,7150
-2019,weiblich,  Ungarn                            ,165,3775
-2019,weiblich,  Vereinigtes Königreich GB u.Nordir,168,2030
-2019,weiblich,  Weißrußland                       ,169,1465
-2019,weiblich,  Zypern                            ,181,55
-2019,weiblich,  übrige europäische Staaten        ,   ,0
-2019,weiblich,Europa insgesamt                    ,   ,251170
-2019,weiblich,  Algerien                          ,221,370
-2019,weiblich,  Angola                            ,223,105
-2019,weiblich,  Ägypten                           ,287,680
-2019,weiblich,  Äthiopien                         ,225,195
-2019,weiblich,  Benin                             ,229,50
-2019,weiblich,  Burkina Faso                      ,258,35
-2019,weiblich,  Cote d'Ivoire                     ,231,815
-2019,weiblich,  Eritrea                           ,224,1220
-2019,weiblich,  Gambia                            ,237,175
-2019,weiblich,  Ghana                             ,238,1465
-2019,weiblich,  Kamerun                           ,262,895
-2019,weiblich,  Kenia                             ,243,460
-2019,weiblich,  Liberia                           ,247,125
-2019,weiblich,  Marokko                           ,252,1035
-2019,weiblich,  Nigeria                           ,232,1200
-2019,weiblich,  Senegal                           ,269,100
-2019,weiblich,  Sierra Leone                      ,272,35
-2019,weiblich,  Somalia                           ,273,1210
-2019,weiblich,  Südafrika                         ,263,275
-2019,weiblich,  Sudan (einschl. Südsudan) (bis 201,276,30
-2019,weiblich,  Sudan (ab 2011)                   ,277,870
-2019,weiblich,  Südsudan (ab 2011)                ,278,30
-2019,weiblich,  Togo                              ,283,315
-2019,weiblich,  Tunesien                          ,285,1295
-2019,weiblich,  Kongo Dem. Volksrepublik (ehem.Za,246,120
-2019,weiblich,  übrige afrikanische Staaten       ,   ,2055
-2019,weiblich,Afrika insgesamt                    ,   ,15155
-2019,weiblich,  Argentinien                       ,323,200
-2019,weiblich,  Bolivien                          ,326,85
-2019,weiblich,  Brasilien                         ,327,1985
-2019,weiblich,  Chile                             ,332,270
-2019,weiblich,  Dominikanische Republik           ,335,285
-2019,weiblich,  Kanada                            ,348,530
-2019,weiblich,  Kolumbien                         ,349,1040
-2019,weiblich,  Kuba                              ,351,255
-2019,weiblich,  Mexiko                            ,353,920
-2019,weiblich,  Peru                              ,361,475
-2019,weiblich,  Venezuela                         ,367,195
-2019,weiblich,  Vereinigte Staaten                ,368,2570
-2019,weiblich,  übrige amerikanische Staaten      ,   ,745
-2019,weiblich,Amerika insgesamt                   ,   ,9560
-2019,weiblich,  Afghanistan                       ,423,7755
-2019,weiblich,  Armenien                          ,422,810
-2019,weiblich,  Aserbaidschan                     ,425,815
-2019,weiblich,  Bangladesch                       ,460,125
-2019,weiblich,  China                             ,479,5195
-2019,weiblich,  Georgien                          ,430,1400
-2019,weiblich,  Indien                            ,436,2700
-2019,weiblich,  Indonesien                        ,437,920
-2019,weiblich,  Israel                            ,441,275
-2019,weiblich,  Irak                              ,438,18385
-2019,weiblich,  Iran Islamische Republik         ,439,4595
-2019,weiblich,  Japan                             ,442,890
-2019,weiblich,  Jordanien                         ,445,385
-2019,weiblich,  Kasachstan                        ,444,2625
-2019,weiblich,  Korea Republik                   ,467,960
-2019,weiblich,  Libanon                           ,451,2850
-2019,weiblich,  Malaysia                          ,482,280
-2019,weiblich,  Nepal                             ,458,355
-2019,weiblich,  Pakistan                          ,461,1315
-2019,weiblich,  Die Palästinänsischen Gebiete     ,459,400
-2019,weiblich,  Philippinen                       ,462,1445
-2019,weiblich,  Sri Lanka                         ,431,665
-2019,weiblich,  Syrien Arabische Republik        ,475,36545
-2019,weiblich,  Taiwan                            ,465,335
-2019,weiblich,  Thailand                          ,476,3790
-2019,weiblich,  Vietnam                           ,432,4790
-2019,weiblich,  übrige asiatische Staaten         ,   ,1740
-2019,weiblich,Asien insgesamt                     ,   ,102335
-2019,weiblich,Australien und Ozeanien             ,   ,460
-2019,weiblich,staatenlos                          ,997,1530
-2019,weiblich,ungeklärtoh.Angabeunbekannt       ,   ,3620
-2019,weiblich,Britische Überseegebiete            ,185,20
-2019,weiblich,Ausländer insgesamt                 ,   ,383850
+2019,insgesamt,  Albanien                          ,L121,6120
+2019,insgesamt,  Belgien                           ,L124,1300
+2019,insgesamt,  Bosnien und Herzegowina           ,L122,7860
+2019,insgesamt,  Bulgarien                         ,L125,28360
+2019,insgesamt,  D��nemark                      ,L126,1450
+2019,insgesamt,  Estland                           ,L127,515
+2019,insgesamt,  Finnland                          ,L128,1050
+2019,insgesamt,  Frankreich                        ,L129,4800
+2019,insgesamt,  Griechenland                      ,L134,18815
+2019,insgesamt,  Irland                            ,L135,740
+2019,insgesamt,  Island                            ,L136,140
+2019,insgesamt,  Italien                           ,L137,28825
+2019,insgesamt,  Serbien u.Montenegro Ehem.Jugosla,L132,1690
+2019,insgesamt,  Serbien (einschl. Kosovo)         ,L133,470
+2019,insgesamt,  Serbien                           ,L170,19115
+2019,insgesamt,  Montenegro                        ,L140,4405
+2019,insgesamt,  Kroatien                          ,L130,11915
+2019,insgesamt,  Kosovo                            ,L150,16475
+2019,insgesamt,  Lettland                          ,L139,5590
+2019,insgesamt,  Litauen                           ,L142,7745
+2019,insgesamt,  Luxemburg                         ,L143,240
+2019,insgesamt,  Malta                             ,L145,40
+2019,insgesamt,  Mazedonien                        ,L144,6105
+2019,insgesamt,  Moldau Republik                  ,L146,2825
+2019,insgesamt,  Monaco                            ,L147,5
+2019,insgesamt,  Niederlande                       ,L148,29865
+2019,insgesamt,  Norwegen                          ,L149,525
+2019,insgesamt,  ��sterreich                    ,L151,6680
+2019,insgesamt,  Polen                             ,L152,98015
+2019,insgesamt,  Portugal                          ,L153,8740
+2019,insgesamt,  Rum��nien                      ,L154,58980
+2019,insgesamt,  Russische F��deration          ,L160,22260
+2019,insgesamt,  Schweden                          ,L157,1565
+2019,insgesamt,  Schweiz                           ,L158,2385
+2019,insgesamt,  Slowakei                          ,L155,2835
+2019,insgesamt,  Slowenien                         ,L131,915
+2019,insgesamt,  ehem. Sowjetunion                 ,L159,85
+2019,insgesamt,  Spanien                           ,L161,11970
+2019,insgesamt,  ehem. Tschechoslowakei            ,L162,90
+2019,insgesamt,  Tschechische Republik             ,L164,2180
+2019,insgesamt,  T��rkei                        ,L163,88735
+2019,insgesamt,  Ukraine                           ,L166,11345
+2019,insgesamt,  Ungarn                            ,L165,9465
+2019,insgesamt,  Vereinigtes K��nigreich GB u.No,L168,6750
+2019,insgesamt,  Wei��ru��land               ,L169,2070
+2019,insgesamt,  Zypern                            ,L181,115
+2019,insgesamt,  ��brige europ��ische Staaten,,5
+2019,insgesamt,Europa insgesamt                    ,,542155
+2019,insgesamt,  Algerien                          ,L221,1380
+2019,insgesamt,  Angola                            ,L223,235
+2019,insgesamt,  ��gypten                       ,L287,2095
+2019,insgesamt,  ��thiopien                     ,L225,375
+2019,insgesamt,  Benin                             ,L229,125
+2019,insgesamt,  Burkina Faso                      ,L258,100
+2019,insgesamt,  Cote d'Ivoire                     ,L231,3040
+2019,insgesamt,  Eritrea                           ,L224,3800
+2019,insgesamt,  Gambia                            ,L237,880
+2019,insgesamt,  Ghana                             ,L238,2945
+2019,insgesamt,  Kamerun                           ,L262,2005
+2019,insgesamt,  Kenia                             ,L243,665
+2019,insgesamt,  Liberia                           ,L247,645
+2019,insgesamt,  Marokko                           ,L252,2380
+2019,insgesamt,  Nigeria                           ,L232,2835
+2019,insgesamt,  Senegal                           ,L269,265
+2019,insgesamt,  Sierra Leone                      ,L272,125
+2019,insgesamt,  Somalia                           ,L273,3205
+2019,insgesamt,  S��dafrika                     ,L263,515
+2019,insgesamt,  Sudan (einschl. S��dsudan) (bis,L276,240
+2019,insgesamt,  Sudan (ab 2011)                   ,L277,4425
+2019,insgesamt,  S��dsudan (ab 2011)            ,L278,185
+2019,insgesamt,  Togo                              ,L283,575
+2019,insgesamt,  Tunesien                          ,L285,3725
+2019,insgesamt,  Kongo Dem. Volksrepublik (ehem.Za,L246,255
+2019,insgesamt,  ��brige afrikanische Staaten   ,,4990
+2019,insgesamt,Afrika insgesamt                    ,,42015
+2019,insgesamt,  Argentinien                       ,L323,395
+2019,insgesamt,  Bolivien                          ,L326,145
+2019,insgesamt,  Brasilien                         ,L327,3190
+2019,insgesamt,  Chile                             ,L332,555
+2019,insgesamt,  Dominikanische Republik           ,L335,455
+2019,insgesamt,  Kanada                            ,L348,1020
+2019,insgesamt,  Kolumbien                         ,L349,1875
+2019,insgesamt,  Kuba                              ,L351,390
+2019,insgesamt,  Mexiko                            ,L353,1705
+2019,insgesamt,  Peru                              ,L361,750
+2019,insgesamt,  Venezuela                         ,L367,360
+2019,insgesamt,  Vereinigte Staaten                ,L368,5390
+2019,insgesamt,  ��brige amerikanische Staaten  ,,1355
+2019,insgesamt,Amerika insgesamt                   ,,17580
+2019,insgesamt,  Afghanistan                       ,L423,21190
+2019,insgesamt,  Armenien                          ,L422,1515
+2019,insgesamt,  Aserbaidschan                     ,L425,1620
+2019,insgesamt,  Bangladesch                       ,L460,375
+2019,insgesamt,  China                             ,L479,10490
+2019,insgesamt,  Georgien                          ,L430,2640
+2019,insgesamt,  Indien                            ,L436,7025
+2019,insgesamt,  Indonesien                        ,L437,1585
+2019,insgesamt,  Israel                            ,L441,695
+2019,insgesamt,  Irak                              ,L438,41035
+2019,insgesamt,  Iran Islamische Republik         ,L439,10780
+2019,insgesamt,  Japan                             ,L442,1465
+2019,insgesamt,  Jordanien                         ,L445,970
+2019,insgesamt,  Kasachstan                        ,L444,4825
+2019,insgesamt,  Korea Republik                   ,L467,1550
+2019,insgesamt,  Libanon                           ,L451,6740
+2019,insgesamt,  Malaysia                          ,L482,565
+2019,insgesamt,  Nepal                             ,L458,755
+2019,insgesamt,  Pakistan                          ,L461,4295
+2019,insgesamt,  Die Pal��stin��nsischen Gebi,L459,1030
+2019,insgesamt,  Philippinen                       ,L462,1870
+2019,insgesamt,  Sri Lanka                         ,L431,1250
+2019,insgesamt,  Syrien Arabische Republik        ,L475,84805
+2019,insgesamt,  Taiwan                            ,L465,460
+2019,insgesamt,  Thailand                          ,L476,4190
+2019,insgesamt,  Vietnam                           ,L432,8760
+2019,insgesamt,  ��brige asiatische Staaten     ,,3570
+2019,insgesamt,Asien insgesamt                     ,,226045
+2019,insgesamt,Australien und Ozeanien             ,,1065
+2019,insgesamt,staatenlos                          ,L997,3540
+2019,insgesamt,ungekl��rtoh.Angabeunbekannt   ,,8730
+2019,insgesamt,Britische ��berseegebiete        ,L185,35
+2019,insgesamt,Ausl��nder insgesamt             ,,841165
