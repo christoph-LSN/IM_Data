@@ -116,19 +116,19 @@ map_layers:
     output_subfolder: worldmap
     filename_prefix: indicator_
 
-#  -
-#    geojson_file: worldmap/neue_welt.geojson
-#    name_property: name_amt_de
-#    id_property: staat_schluessel_de
-#    output_subfolder: world
-#    filename_prefix: indicator_
-
  -
    geojson_file: worldmap/newworld.geojson
    name_property: name_amt_de
    id_property: code_destatis
    output_subfolder: world
    filename_prefix: indicator_
+
+#  -
+#    geojson_file: worldmap/neue_welt.geojson
+#    name_property: name_amt_de
+#    id_property: staat_schluessel_de
+#    output_subfolder: world
+#    filename_prefix: indicator_
 
 
 ##Sorting disaggregation entris
