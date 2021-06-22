@@ -116,9 +116,9 @@ map_layers:
     filename_prefix: indicator_
 
   -
-    geojson_file: worldmap/neue_welt.geojson
+    geojson_file: worldmap/newworld.geojson
     name_property: name_amt_de
-    id_property: staat_schluessel_de
+    id_property: code_destatis
     output_subfolder: world
     filename_prefix: indicator_
 
