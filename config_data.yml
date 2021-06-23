@@ -116,9 +116,9 @@ map_layers:
     filename_prefix: indicator_
 
   -
-    geojson_file: worldmap/newworld.geojson
+    geojson_file: worldmap/welt2.geojson
     name_property: name_amt_de
-    id_property: code_destatis
+    id_property: code
     output_subfolder: world
     filename_prefix: indicator_
 
