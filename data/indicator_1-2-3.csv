@@ -3,7 +3,7 @@
 2019,insgesamt,  Belgien                           ,BEL,1300
 2019,insgesamt,  Bosnien und Herzegowina           ,BIH,7860
 2019,insgesamt,  Bulgarien                         ,BGR,28360
-2019,insgesamt,  D������nemark                      ,DNK,1450
+2019,insgesamt,  Dänemark                      ,DNK,1450
 2019,insgesamt,  Estland                           ,EST,515
 2019,insgesamt,  Finnland                          ,FIN,1050
 2019,insgesamt,  Frankreich                        ,FRA,4800
@@ -26,11 +26,11 @@
 2019,insgesamt,  Monaco                            ,MCO,5
 2019,insgesamt,  Niederlande                       ,NLD,29865
 2019,insgesamt,  Norwegen                          ,NOR,525
-2019,insgesamt,  ������sterreich                    ,AUT,6680
+2019,insgesamt,  Österreich                    ,AUT,6680
 2019,insgesamt,  Polen                             ,POL,98015
 2019,insgesamt,  Portugal                          ,PRT,8740
-2019,insgesamt,  Rum������nien                      ,ROU,58980
-2019,insgesamt,  Russische F������deration          ,RUS,22260
+2019,insgesamt,  Rumänien                      ,ROU,58980
+2019,insgesamt,  Russische Föderation          ,RUS,22260
 2019,insgesamt,  Schweden                          ,SWE,1565
 2019,insgesamt,  Schweiz                           ,CHE,2385
 2019,insgesamt,  Slowakei                          ,SVK,2835
@@ -39,18 +39,18 @@
 2019,insgesamt,  Spanien                           ,ESP,11970
 2019,insgesamt,  ehem. Tschechoslowakei            ,,90
 2019,insgesamt,  Tschechische Republik             ,CZE,2180
-2019,insgesamt,  T������rkei                        ,TUR,88735
+2019,insgesamt,  Türkei                        ,TUR,88735
 2019,insgesamt,  Ukraine                           ,UKR,11345
 2019,insgesamt,  Ungarn                            ,HUN,9465
-2019,insgesamt,  Vereinigtes K������nigreich GB u.No,GBR,6750
-2019,insgesamt,  Wei������ru������land               ,BLR,2070
+2019,insgesamt,  Vereinigtes Königreich GB u.No,GBR,6750
+2019,insgesamt,  Weißrussland               ,BLR,2070
 2019,insgesamt,  Zypern                            ,CYP,115
-2019,insgesamt,  ������brige europ������ische Staaten,DEU,5
-2019,insgesamt,Europa insgesamt                    ,DEU,542155
+2019,insgesamt,  übrige europäische Staaten,,5
+2019,insgesamt,Europa insgesamt                    ,,542155
 2019,insgesamt,  Algerien                          ,DZA,1380
 2019,insgesamt,  Angola                            ,AGO,235
-2019,insgesamt,  ������gypten                       ,EGY,2095
-2019,insgesamt,  ������thiopien                     ,ETH,375
+2019,insgesamt,  Ägypten                       ,EGY,2095
+2019,insgesamt,  Äthiopien                     ,ETH,375
 2019,insgesamt,  Benin                             ,BEN,125
 2019,insgesamt,  Burkina Faso                      ,BFA,100
 2019,insgesamt,  Cote d'Ivoire                     ,CIV,3040
@@ -65,15 +65,15 @@
 2019,insgesamt,  Senegal                           ,SEN,265
 2019,insgesamt,  Sierra Leone                      ,SLE,125
 2019,insgesamt,  Somalia                           ,SOM,3205
-2019,insgesamt,  S������dafrika                     ,ZAF,515
-2019,insgesamt,  Sudan (einschl. S������dsudan) (bis,,240
+2019,insgesamt,  Südafrika                     ,ZAF,515
+2019,insgesamt,  Sudan (einschl. Südsudan) (bis,,240
 2019,insgesamt,  Sudan (ab 2011)                   ,SDN,4425
-2019,insgesamt,  S������dsudan (ab 2011)            ,SSD,185
+2019,insgesamt,  Südsudan (ab 2011)            ,SSD,185
 2019,insgesamt,  Togo                              ,TGO,575
 2019,insgesamt,  Tunesien                          ,TUN,3725
 2019,insgesamt,  Kongo Dem. Volksrepublik (ehem.Za,COD,255
-2019,insgesamt,  ������brige afrikanische Staaten   ,DEU,4990
-2019,insgesamt,Afrika insgesamt                    ,DEU,42015
+2019,insgesamt,  übrige afrikanische Staaten   ,,4990
+2019,insgesamt,Afrika insgesamt                    ,,42015
 2019,insgesamt,  Argentinien                       ,ARG,395
 2019,insgesamt,  Bolivien                          ,BOL,145
 2019,insgesamt,  Brasilien                         ,BRA,3190
@@ -86,8 +86,8 @@
 2019,insgesamt,  Peru                              ,PER,750
 2019,insgesamt,  Venezuela                         ,VEN,360
 2019,insgesamt,  Vereinigte Staaten                ,USA,5390
-2019,insgesamt,  ������brige amerikanische Staaten  ,DEU,1355
-2019,insgesamt,Amerika insgesamt                   ,DEU,17580
+2019,insgesamt,  übrige amerikanische Staaten  ,,1355
+2019,insgesamt,Amerika insgesamt                   ,,17580
 2019,insgesamt,  Afghanistan                       ,AFG,21190
 2019,insgesamt,  Armenien                          ,ARM,1515
 2019,insgesamt,  Aserbaidschan                     ,AZE,1620
@@ -107,17 +107,17 @@
 2019,insgesamt,  Malaysia                          ,MYS,565
 2019,insgesamt,  Nepal                             ,NPL,755
 2019,insgesamt,  Pakistan                          ,PAK,4295
-2019,insgesamt,  Die Pal������stin������nsischen Gebi,,1030
+2019,insgesamt,  Die Palästinänsischen Gebi,,1030
 2019,insgesamt,  Philippinen                       ,PHL,1870
 2019,insgesamt,  Sri Lanka                         ,LKA,1250
 2019,insgesamt,  Syrien Arabische Republik        ,SYR,84805
 2019,insgesamt,  Taiwan                            ,,460
 2019,insgesamt,  Thailand                          ,THA,4190
 2019,insgesamt,  Vietnam                           ,VNM,8760
-2019,insgesamt,  ������brige asiatische Staaten     ,DEU,3570
-2019,insgesamt,Asien insgesamt                     ,DEU,226045
-2019,insgesamt,Australien und Ozeanien             ,DEU,1065
+2019,insgesamt,  übrige asiatische Staaten     ,,3570
+2019,insgesamt,Asien insgesamt                     ,,226045
+2019,insgesamt,Australien und Ozeanien             ,,1065
 2019,insgesamt,staatenlos                          ,,3540
-2019,insgesamt,ungekl������rtoh.Angabeunbekannt   ,DEU,8730
-2019,insgesamt,Britische ������berseegebiete        ,,35
-2019,insgesamt,Ausl������nder insgesamt             ,DEU,841165
+2019,insgesamt,ungeklärt oh.Angabeunbekannt   ,,8730
+2019,insgesamt,Britische Überseegebiete        ,,35
+2019,insgesamt,Ausländer insgesamt             ,,841165
