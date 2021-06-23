@@ -118,7 +118,7 @@ map_layers:
   -
     geojson_file: worldmap/neue_welt3.geojson
     name_property: name_long
-    id_property: LAGS
+    id_property: staat_schlues
     output_subfolder: world
     filename_prefix: indicator_
 
