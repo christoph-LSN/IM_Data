@@ -117,7 +117,7 @@ map_layers:
 
   -
     geojson_file: worldmap/world_custom1.geojson
-    name_property: name_amt_de
+    name_property: name_long
     id_property: code
     output_subfolder: world
     filename_prefix: indicator_
