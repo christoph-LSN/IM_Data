@@ -1,8 +1,7 @@
 Value,Disaggregation combinations using this value,Number of indicators
   Afghanistan                       ,4,2
 Afrika insgesamt                    ,4,2
-  Ägypten                       ,1,1
-  Ägypten                           ,3,1
+  Ägypten                           ,4,2
   Albanien                          ,4,2
   Algerien                          ,4,2
 Amerika insgesamt                   ,4,2
@@ -11,10 +10,8 @@ Amerika insgesamt                   ,4,2
   Armenien                          ,4,2
   Aserbaidschan                     ,4,2
 Asien insgesamt                     ,4,2
-  Äthiopien                     ,1,1
-  Äthiopien                         ,3,1
-Ausländer insgesamt             ,1,1
-Ausländer insgesamt                 ,3,1
+  Äthiopien                         ,4,2
+Ausländer insgesamt                 ,4,2
 Australien und Ozeanien             ,4,2
   Bangladesch                       ,4,2
   Belgien                           ,4,2
@@ -22,17 +19,14 @@ Australien und Ozeanien             ,4,2
   Bolivien                          ,4,2
   Bosnien und Herzegowina           ,4,2
   Brasilien                         ,4,2
-Britische Überseegebiete        ,1,1
-Britische Überseegebiete            ,3,1
+Britische Überseegebiete            ,4,2
   Bulgarien                         ,4,2
   Burkina Faso                      ,4,2
   Chile                             ,4,2
   China                             ,4,2
   Cote d'Ivoire                     ,4,2
-  Dänemark                      ,1,1
-  Dänemark                          ,3,1
-  Die Palästinänsischen Gebi,1,1
-  Die Palästinänsischen Gebiete     ,3,1
+  Dänemark                          ,4,2
+  Die Palästinänsischen Gebiete     ,4,2
   Dominikanische Republik           ,4,2
   ehem. Sowjetunion                 ,4,2
   ehem. Tschechoslowakei            ,4,2
@@ -82,17 +76,14 @@ Europa insgesamt                    ,4,2
   Niederlande                       ,4,2
   Nigeria                           ,4,2
   Norwegen                          ,4,2
-  Österreich                    ,1,1
-  Österreich                        ,3,1
+  Österreich                        ,4,2
   Pakistan                          ,4,2
   Peru                              ,4,2
   Philippinen                       ,4,2
   Polen                             ,4,2
   Portugal                          ,4,2
-  Rumänien                      ,1,1
-  Rumänien                          ,3,1
-  Russische Föderation          ,1,1
-  Russische Föderation              ,3,1
+  Rumänien                          ,4,2
+  Russische Föderation              ,4,2
   Schweden                          ,4,2
   Schweiz                           ,4,2
   Senegal                           ,4,2
@@ -106,38 +97,27 @@ Europa insgesamt                    ,4,2
   Spanien                           ,4,2
   Sri Lanka                         ,4,2
 staatenlos                          ,4,2
-  Südafrika                     ,1,1
-  Südafrika                         ,3,1
+  Südafrika                         ,4,2
   Sudan (ab 2011)                   ,4,2
-  Sudan (einschl. Südsudan) (bis 201,3,1
-  Sudan (einschl. Südsudan) (bis,1,1
-  Südsudan (ab 2011)            ,1,1
-  Südsudan (ab 2011)                ,3,1
+  Sudan (einschl. Südsudan) (bis 201,4,2
+  Südsudan (ab 2011)                ,4,2
   Syrien Arabische Republik        ,4,2
   Taiwan                            ,4,2
   Thailand                          ,4,2
   Togo                              ,4,2
   Tschechische Republik             ,4,2
   Tunesien                          ,4,2
-  Türkei                        ,1,1
-  Türkei                            ,3,1
-  übrige afrikanische Staaten   ,1,1
-  übrige afrikanische Staaten       ,3,1
-  übrige amerikanische Staaten  ,1,1
-  übrige amerikanische Staaten      ,3,1
-  übrige asiatische Staaten     ,1,1
-  übrige asiatische Staaten         ,3,1
-  übrige europäische Staaten,1,1
-  übrige europäische Staaten        ,3,1
+  Türkei                            ,4,2
+  übrige afrikanische Staaten       ,4,2
+  übrige amerikanische Staaten      ,4,2
+  übrige asiatische Staaten         ,4,2
+  übrige europäische Staaten        ,4,2
   Ukraine                           ,4,2
   Ungarn                            ,4,2
-ungeklärt oh.Angabeunbekannt   ,1,1
-ungeklärtoh.Angabeunbekannt       ,3,1
+ungeklärtoh.Angabeunbekannt       ,4,2
   Venezuela                         ,4,2
   Vereinigte Staaten                ,4,2
-  Vereinigtes Königreich GB u.No,1,1
-  Vereinigtes Königreich GB u.Nordir,3,1
+  Vereinigtes Königreich GB u.Nordir,4,2
   Vietnam                           ,4,2
-  Weißrussland               ,1,1
-  Weißrußland                       ,3,1
+  Weißrußland                       ,4,2
   Zypern                            ,4,2
