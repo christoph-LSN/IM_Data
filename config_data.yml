@@ -116,9 +116,9 @@ map_layers:
     filename_prefix: indicator_
 
   -
-    geojson_file: worldmap/neue_welt2.geojson
+    geojson_file: worldmap/world_custom.geojson
     name_property: name_long
-    id_property: staat_schlues
+    id_property: iso_a3
     output_subfolder: world
     filename_prefix: indicator_
 
