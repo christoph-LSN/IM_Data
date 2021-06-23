@@ -24704,7 +24704,7 @@
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
         "filename": "ALB.geojson",
-        "LAGS": "008"
+        "LAGS": "121"
       },
       "geometry": {
         "type": "Polygon",
@@ -25089,7 +25089,7 @@
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
         "filename": "BIH.geojson",
-        "LAGS": "070"
+        "LAGS": "122"
       },
       "geometry": {
         "type": "Polygon",
@@ -25327,7 +25327,7 @@
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
         "filename": "BEL.geojson",
-        "LAGS": "056"
+        "LAGS": "121"
       },
       "geometry": {
         "type": "Polygon",
