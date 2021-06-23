@@ -6,7 +6,7 @@
       "properties": {
         "name_long": "Belize",
         "formal_en": "Belize",
-        "iso_a3": "BLZ",
+        "code": "BLZ",
         "continent": "North America",
         "region_wb": "Latin America & Caribbean",
         "filename": "BLZ.geojson",
@@ -105,7 +105,7 @@
       "properties": {
         "name_long": "Bahamas",
         "formal_en": "Commonwealth of the Bahamas",
-        "iso_a3": "BHS",
+        "code": "BHS",
         "continent": "North America",
         "region_wb": "Latin America & Caribbean",
         "filename": "BHS.geojson",
@@ -218,7 +218,7 @@
       "properties": {
         "name_long": "Canada",
         "formal_en": "Canada",
-        "iso_a3": "CAN",
+        "code": "CAN",
         "continent": "North America",
         "region_wb": "North America",
         "filename": "CAN.geojson",
@@ -3523,7 +3523,7 @@
       "properties": {
         "name_long": "Cuba",
         "formal_en": "Republic of Cuba",
-        "iso_a3": "CUB",
+        "code": "CUB",
         "continent": "North America",
         "region_wb": "Latin America & Caribbean",
         "filename": "CUB.geojson",
@@ -3710,7 +3710,7 @@
       "properties": {
         "name_long": "Dominican Republic",
         "formal_en": "Dominican Republic",
-        "iso_a3": "DOM",
+        "code": "DOM",
         "continent": "North America",
         "region_wb": "Latin America & Caribbean",
         "filename": "DOM.geojson",
@@ -3833,7 +3833,7 @@
       "properties": {
         "name_long": "Costa Rica",
         "formal_en": "Republic of Costa Rica",
-        "iso_a3": "CRI",
+        "code": "CRI",
         "continent": "North America",
         "region_wb": "Latin America & Caribbean",
         "filename": "CRI.geojson",
@@ -3996,7 +3996,7 @@
       "properties": {
         "name_long": "Guatemala",
         "formal_en": "Republic of Guatemala",
-        "iso_a3": "GTM",
+        "code": "GTM",
         "continent": "North America",
         "region_wb": "Latin America & Caribbean",
         "filename": "GTM.geojson",
@@ -4155,7 +4155,7 @@
       "properties": {
         "name_long": "Greenland",
         "formal_en": "Greenland",
-        "iso_a3": "GRL",
+        "code": "GRL",
         "continent": "North America",
         "region_wb": "Europe & Central Asia",
         "filename": "GRL.geojson",
@@ -4702,7 +4702,7 @@
       "properties": {
         "name_long": "Haiti",
         "formal_en": "Republic of Haiti",
-        "iso_a3": "HTI",
+        "code": "HTI",
         "continent": "North America",
         "region_wb": "Latin America & Caribbean",
         "filename": "HTI.geojson",
@@ -4805,7 +4805,7 @@
       "properties": {
         "name_long": "Honduras",
         "formal_en": "Republic of Honduras",
-        "iso_a3": "HND",
+        "code": "HND",
         "continent": "North America",
         "region_wb": "Latin America & Caribbean",
         "filename": "HND.geojson",
@@ -5052,7 +5052,7 @@
       "properties": {
         "name_long": "Jamaica",
         "formal_en": "Jamaica",
-        "iso_a3": "JAM",
+        "code": "JAM",
         "continent": "North America",
         "region_wb": "Latin America & Caribbean",
         "filename": "JAM.geojson",
@@ -5115,7 +5115,7 @@
       "properties": {
         "name_long": "El Salvador",
         "formal_en": "Republic of El Salvador",
-        "iso_a3": "SLV",
+        "code": "SLV",
         "continent": "North America",
         "region_wb": "Latin America & Caribbean",
         "filename": "SLV.geojson",
@@ -5214,7 +5214,7 @@
       "properties": {
         "name_long": "Nicaragua",
         "formal_en": "Republic of Nicaragua",
-        "iso_a3": "NIC",
+        "code": "NIC",
         "continent": "North America",
         "region_wb": "Latin America & Caribbean",
         "filename": "NIC.geojson",
@@ -5441,7 +5441,7 @@
       "properties": {
         "name_long": "Panama",
         "formal_en": "Republic of Panama",
-        "iso_a3": "PAN",
+        "code": "PAN",
         "continent": "North America",
         "region_wb": "Latin America & Caribbean",
         "filename": "PAN.geojson",
@@ -5668,7 +5668,7 @@
       "properties": {
         "name_long": "Mexico",
         "formal_en": "United Mexican States",
-        "iso_a3": "MEX",
+        "code": "MEX",
         "continent": "North America",
         "region_wb": "Latin America & Caribbean",
         "filename": "MEX.geojson",
@@ -6367,7 +6367,7 @@
       "properties": {
         "name_long": "Puerto Rico",
         "formal_en": "Commonwealth of Puerto Rico",
-        "iso_a3": "PRI",
+        "code": "PRI",
         "continent": "North America",
         "region_wb": "Latin America & Caribbean",
         "filename": "PRI.geojson",
@@ -6422,7 +6422,7 @@
       "properties": {
         "name_long": "Trinidad and Tobago",
         "formal_en": "Republic of Trinidad and Tobago",
-        "iso_a3": "TTO",
+        "code": "TTO",
         "continent": "North America",
         "region_wb": "Latin America & Caribbean",
         "filename": "TTO.geojson",
@@ -6473,7 +6473,7 @@
       "properties": {
         "name_long": "Bolivia",
         "formal_en": "Plurinational State of Bolivia",
-        "iso_a3": "BOL",
+        "code": "BOL",
         "continent": "South America",
         "region_wb": "Latin America & Caribbean",
         "filename": "BOL.geojson",
@@ -6732,7 +6732,7 @@
       "properties": {
         "name_long": "United States",
         "formal_en": "United States of America",
-        "iso_a3": "USA",
+        "code": "USA",
         "continent": "North America",
         "region_wb": "North America",
         "filename": "USA.geojson",
@@ -8565,7 +8565,7 @@
       "properties": {
         "name_long": "Argentina",
         "formal_en": "Argentine Republic",
-        "iso_a3": "ARG",
+        "code": "ARG",
         "continent": "South America",
         "region_wb": "Latin America & Caribbean",
         "filename": "ARG.geojson",
@@ -9074,7 +9074,7 @@
       "properties": {
         "name_long": "Chile",
         "formal_en": "Republic of Chile",
-        "iso_a3": "CHL",
+        "code": "CHL",
         "continent": "South America",
         "region_wb": "Latin America & Caribbean",
         "filename": "CHL.geojson",
@@ -9555,7 +9555,7 @@
       "properties": {
         "name_long": "Brazil",
         "formal_en": "Federative Republic of Brazil",
-        "iso_a3": "BRA",
+        "code": "BRA",
         "continent": "South America",
         "region_wb": "Latin America & Caribbean",
         "filename": "BRA.geojson",
@@ -10386,7 +10386,7 @@
       "properties": {
         "name_long": "Colombia",
         "formal_en": "Republic of Colombia",
-        "iso_a3": "COL",
+        "code": "COL",
         "continent": "South America",
         "region_wb": "Latin America & Caribbean",
         "filename": "COL.geojson",
@@ -10805,7 +10805,7 @@
       "properties": {
         "name_long": "Falkland Islands",
         "formal_en": "Falkland Islands",
-        "iso_a3": "FLK",
+        "code": "FLK",
         "continent": "South America",
         "region_wb": "Latin America & Caribbean",
         "filename": "FLK.geojson",
@@ -10864,7 +10864,7 @@
       "properties": {
         "name_long": "United Arab Emirates",
         "formal_en": "United Arab Emirates",
-        "iso_a3": "ARE",
+        "code": "ARE",
         "continent": "Asia",
         "region_wb": "Middle East & North Africa",
         "filename": "ARE.geojson",
@@ -10971,7 +10971,7 @@
       "properties": {
         "name_long": "Afghanistan",
         "formal_en": "Islamic State of Afghanistan",
-        "iso_a3": "AFG",
+        "code": "AFG",
         "continent": "Asia",
         "region_wb": "South Asia",
         "filename": "AFG.geojson",
@@ -11266,7 +11266,7 @@
       "properties": {
         "name_long": "Ecuador",
         "formal_en": "Republic of Ecuador",
-        "iso_a3": "ECU",
+        "code": "ECU",
         "continent": "South America",
         "region_wb": "Latin America & Caribbean",
         "filename": "ECU.geojson",
@@ -11417,7 +11417,7 @@
       "properties": {
         "name_long": "Peru",
         "formal_en": "Republic of Peru",
-        "iso_a3": "PER",
+        "code": "PER",
         "continent": "South America",
         "region_wb": "Latin America & Caribbean",
         "filename": "PER.geojson",
@@ -11740,7 +11740,7 @@
       "properties": {
         "name_long": "Guyana",
         "formal_en": "Co-operative Republic of Guyana",
-        "iso_a3": "GUY",
+        "code": "GUY",
         "continent": "South America",
         "region_wb": "Latin America & Caribbean",
         "filename": "GUY.geojson",
@@ -11919,7 +11919,7 @@
       "properties": {
         "name_long": "Armenia",
         "formal_en": "Republic of Armenia",
-        "iso_a3": "ARM",
+        "code": "ARM",
         "continent": "Asia",
         "region_wb": "Europe & Central Asia",
         "filename": "ARM.geojson",
@@ -12018,7 +12018,7 @@
       "properties": {
         "name_long": "Azerbaijan",
         "formal_en": "Republic of Azerbaijan",
-        "iso_a3": "AZE",
+        "code": "AZE",
         "continent": "Asia",
         "region_wb": "Europe & Central Asia",
         "filename": "AZE.geojson",
@@ -12219,7 +12219,7 @@
       "properties": {
         "name_long": "Bangladesh",
         "formal_en": "People's Republic of Bangladesh",
-        "iso_a3": "BGD",
+        "code": "BGD",
         "continent": "Asia",
         "region_wb": "South Asia",
         "filename": "BGD.geojson",
@@ -12382,7 +12382,7 @@
       "properties": {
         "name_long": "Brunei Darussalam",
         "formal_en": "Negara Brunei Darussalam",
-        "iso_a3": "BRN",
+        "code": "BRN",
         "continent": "Asia",
         "region_wb": "East Asia & Pacific",
         "filename": "BRN.geojson",
@@ -12433,7 +12433,7 @@
       "properties": {
         "name_long": "Bhutan",
         "formal_en": "Kingdom of Bhutan",
-        "iso_a3": "BTN",
+        "code": "BTN",
         "continent": "Asia",
         "region_wb": "South Asia",
         "filename": "BTN.geojson",
@@ -12504,7 +12504,7 @@
       "properties": {
         "name_long": "China",
         "formal_en": "People's Republic of China",
-        "iso_a3": "CHN",
+        "code": "CHN",
         "continent": "Asia",
         "region_wb": "East Asia & Pacific",
         "filename": "CHN.geojson",
@@ -13489,7 +13489,7 @@
       "properties": {
         "name_long": "Northern Cyprus",
         "formal_en": "Turkish Republic of Northern Cyprus",
-        "iso_a3": "-99",
+        "code": "-99",
         "continent": "Asia",
         "region_wb": "Europe & Central Asia",
         "filename": "CYN.geojson",
@@ -13572,7 +13572,7 @@
       "properties": {
         "name_long": "Cyprus",
         "formal_en": "Republic of Cyprus",
-        "iso_a3": "CYP",
+        "code": "CYP",
         "continent": "Asia",
         "region_wb": "Europe & Central Asia",
         "filename": "CYP.geojson",
@@ -13651,7 +13651,7 @@
       "properties": {
         "name_long": "India",
         "formal_en": "Republic of India",
-        "iso_a3": "IND",
+        "code": "IND",
         "continent": "Asia",
         "region_wb": "South Asia",
         "filename": "IND.geojson",
@@ -14214,7 +14214,7 @@
       "properties": {
         "name_long": "Iran",
         "formal_en": "Islamic Republic of Iran",
-        "iso_a3": "IRN",
+        "code": "IRN",
         "continent": "Asia",
         "region_wb": "Middle East & North Africa",
         "filename": "IRN.geojson",
@@ -14533,7 +14533,7 @@
       "properties": {
         "name_long": "Indonesia",
         "formal_en": "Republic of Indonesia",
-        "iso_a3": "IDN",
+        "code": "IDN",
         "continent": "Asia",
         "region_wb": "East Asia & Pacific",
         "filename": "IDN.geojson",
@@ -15602,7 +15602,7 @@
       "properties": {
         "name_long": "Paraguay",
         "formal_en": "Republic of Paraguay",
-        "iso_a3": "PRY",
+        "code": "PRY",
         "continent": "South America",
         "region_wb": "Latin America & Caribbean",
         "filename": "PRY.geojson",
@@ -15753,7 +15753,7 @@
       "properties": {
         "name_long": "Iraq",
         "formal_en": "Republic of Iraq",
-        "iso_a3": "IRQ",
+        "code": "IRQ",
         "continent": "Asia",
         "region_wb": "Middle East & North Africa",
         "filename": "IRQ.geojson",
@@ -15892,7 +15892,7 @@
       "properties": {
         "name_long": "Israel",
         "formal_en": "State of Israel",
-        "iso_a3": "ISR",
+        "code": "ISR",
         "continent": "Asia",
         "region_wb": "Middle East & North Africa",
         "filename": "ISR.geojson",
@@ -16003,7 +16003,7 @@
       "properties": {
         "name_long": "Japan",
         "formal_en": "Japan",
-        "iso_a3": "JPN",
+        "code": "JPN",
         "continent": "Asia",
         "region_wb": "East Asia & Pacific",
         "filename": "JPN.geojson",
@@ -16292,7 +16292,7 @@
       "properties": {
         "name_long": "Jordan",
         "formal_en": "Hashemite Kingdom of Jordan",
-        "iso_a3": "JOR",
+        "code": "JOR",
         "continent": "Asia",
         "region_wb": "Middle East & North Africa",
         "filename": "JOR.geojson",
@@ -16387,7 +16387,7 @@
       "properties": {
         "name_long": "Suriname",
         "formal_en": "Republic of Suriname",
-        "iso_a3": "SUR",
+        "code": "SUR",
         "continent": "South America",
         "region_wb": "Latin America & Caribbean",
         "filename": "SUR.geojson",
@@ -16510,7 +16510,7 @@
       "properties": {
         "name_long": "Kazakhstan",
         "formal_en": "Republic of Kazakhstan",
-        "iso_a3": "KAZ",
+        "code": "KAZ",
         "continent": "Asia",
         "region_wb": "Europe & Central Asia",
         "filename": "KAZ.geojson",
@@ -16977,7 +16977,7 @@
       "properties": {
         "name_long": "Kyrgyzstan",
         "formal_en": "Kyrgyz Republic",
-        "iso_a3": "KGZ",
+        "code": "KGZ",
         "continent": "Asia",
         "region_wb": "Europe & Central Asia",
         "filename": "KGZ.geojson",
@@ -17136,7 +17136,7 @@
       "properties": {
         "name_long": "Uruguay",
         "formal_en": "Oriental Republic of Uruguay",
-        "iso_a3": "URY",
+        "code": "URY",
         "continent": "South America",
         "region_wb": "Latin America & Caribbean",
         "filename": "URY.geojson",
@@ -17239,7 +17239,7 @@
       "properties": {
         "name_long": "Republic of Korea",
         "formal_en": "Republic of Korea",
-        "iso_a3": "KOR",
+        "code": "KOR",
         "continent": "Asia",
         "region_wb": "East Asia & Pacific",
         "filename": "KOR.geojson",
@@ -17334,7 +17334,7 @@
       "properties": {
         "name_long": "Cambodia",
         "formal_en": "Kingdom of Cambodia",
-        "iso_a3": "KHM",
+        "code": "KHM",
         "continent": "Asia",
         "region_wb": "East Asia & Pacific",
         "filename": "KHM.geojson",
@@ -17421,7 +17421,7 @@
       "properties": {
         "name_long": "Kuwait",
         "formal_en": "State of Kuwait",
-        "iso_a3": "KWT",
+        "code": "KWT",
         "continent": "Asia",
         "region_wb": "Middle East & North Africa",
         "filename": "KWT.geojson",
@@ -17476,7 +17476,7 @@
       "properties": {
         "name_long": "Venezuela",
         "formal_en": "Bolivarian Republic of Venezuela",
-        "iso_a3": "VEN",
+        "code": "VEN",
         "continent": "South America",
         "region_wb": "Latin America & Caribbean",
         "filename": "VEN.geojson",
@@ -17863,7 +17863,7 @@
       "properties": {
         "name_long": "Lao PDR",
         "formal_en": "Lao People's Democratic Republic",
-        "iso_a3": "LAO",
+        "code": "LAO",
         "continent": "Asia",
         "region_wb": "East Asia & Pacific",
         "filename": "LAO.geojson",
@@ -18030,7 +18030,7 @@
       "properties": {
         "name_long": "Lebanon",
         "formal_en": "Lebanese Republic",
-        "iso_a3": "LBN",
+        "code": "LBN",
         "continent": "Asia",
         "region_wb": "Middle East & North Africa",
         "filename": "LBN.geojson",
@@ -18093,7 +18093,7 @@
       "properties": {
         "name_long": "Sri Lanka",
         "formal_en": "Democratic Socialist Republic of Sri Lanka",
-        "iso_a3": "LKA",
+        "code": "LKA",
         "continent": "Asia",
         "region_wb": "South Asia",
         "filename": "LKA.geojson",
@@ -18152,7 +18152,7 @@
       "properties": {
         "name_long": "Myanmar",
         "formal_en": "Republic of the Union of Myanmar",
-        "iso_a3": "MMR",
+        "code": "MMR",
         "continent": "Asia",
         "region_wb": "East Asia & Pacific",
         "filename": "MMR.geojson",
@@ -18451,7 +18451,7 @@
       "properties": {
         "name_long": "Malaysia",
         "formal_en": "Malaysia",
-        "iso_a3": "MYS",
+        "code": "MYS",
         "continent": "Asia",
         "region_wb": "East Asia & Pacific",
         "filename": "MYS.geojson",
@@ -18724,7 +18724,7 @@
       "properties": {
         "name_long": "Mongolia",
         "formal_en": "Mongolia",
-        "iso_a3": "MNG",
+        "code": "MNG",
         "continent": "Asia",
         "region_wb": "East Asia & Pacific",
         "filename": "MNG.geojson",
@@ -19043,7 +19043,7 @@
       "properties": {
         "name_long": "Oman",
         "formal_en": "Sultanate of Oman",
-        "iso_a3": "OMN",
+        "code": "OMN",
         "continent": "Asia",
         "region_wb": "Middle East & North Africa",
         "filename": "OMN.geojson",
@@ -19256,7 +19256,7 @@
       "properties": {
         "name_long": "Pakistan",
         "formal_en": "Islamic Republic of Pakistan",
-        "iso_a3": "PAK",
+        "code": "PAK",
         "continent": "Asia",
         "region_wb": "South Asia",
         "filename": "PAK.geojson",
@@ -19539,7 +19539,7 @@
       "properties": {
         "name_long": "Dem. Rep. Korea",
         "formal_en": "Democratic People's Republic of Korea",
-        "iso_a3": "PRK",
+        "code": "PRK",
         "continent": "Asia",
         "region_wb": "East Asia & Pacific",
         "filename": "PRK.geojson",
@@ -19730,7 +19730,7 @@
       "properties": {
         "name_long": "Philippines",
         "formal_en": "Republic of the Philippines",
-        "iso_a3": "PHL",
+        "code": "PHL",
         "continent": "Asia",
         "region_wb": "East Asia & Pacific",
         "filename": "PHL.geojson",
@@ -20215,7 +20215,7 @@
       "properties": {
         "name_long": "Palestine",
         "formal_en": "West Bank and Gaza",
-        "iso_a3": "PSE",
+        "code": "PSE",
         "continent": "Asia",
         "region_wb": "Middle East & North Africa",
         "filename": "PSE.geojson",
@@ -20270,7 +20270,7 @@
       "properties": {
         "name_long": "Saudi Arabia",
         "formal_en": "Kingdom of Saudi Arabia",
-        "iso_a3": "SAU",
+        "code": "SAU",
         "continent": "Asia",
         "region_wb": "Middle East & North Africa",
         "filename": "SAU.geojson",
@@ -20593,7 +20593,7 @@
       "properties": {
         "name_long": "Qatar",
         "formal_en": "State of Qatar",
-        "iso_a3": "QAT",
+        "code": "QAT",
         "continent": "Asia",
         "region_wb": "Middle East & North Africa",
         "filename": "QAT.geojson",
@@ -20648,7 +20648,7 @@
       "properties": {
         "name_long": "Georgia",
         "formal_en": "Georgia",
-        "iso_a3": "GEO",
+        "code": "GEO",
         "continent": "Asia",
         "region_wb": "Europe & Central Asia",
         "filename": "GEO.geojson",
@@ -20763,7 +20763,7 @@
       "properties": {
         "name_long": "Syria",
         "formal_en": "Syrian Arab Republic",
-        "iso_a3": "SYR",
+        "code": "SYR",
         "continent": "Asia",
         "region_wb": "Middle East & North Africa",
         "filename": "SYR.geojson",
@@ -20890,7 +20890,7 @@
       "properties": {
         "name_long": "Thailand",
         "formal_en": "Kingdom of Thailand",
-        "iso_a3": "THA",
+        "code": "THA",
         "continent": "Asia",
         "region_wb": "East Asia & Pacific",
         "filename": "THA.geojson",
@@ -21165,7 +21165,7 @@
       "properties": {
         "name_long": "Tajikistan",
         "formal_en": "Republic of Tajikistan",
-        "iso_a3": "TJK",
+        "code": "TJK",
         "continent": "Asia",
         "region_wb": "Europe & Central Asia",
         "filename": "TJK.geojson",
@@ -21348,7 +21348,7 @@
       "properties": {
         "name_long": "Turkey",
         "formal_en": "Republic of Turkey",
-        "iso_a3": "TUR",
+        "code": "TUR",
         "continent": "Asia",
         "region_wb": "Europe & Central Asia",
         "filename": "TUR.geojson",
@@ -21641,7 +21641,7 @@
       "properties": {
         "name_long": "Turkmenistan",
         "formal_en": "Turkmenistan",
-        "iso_a3": "TKM",
+        "code": "TKM",
         "continent": "Asia",
         "region_wb": "Europe & Central Asia",
         "filename": "TKM.geojson",
@@ -21876,7 +21876,7 @@
       "properties": {
         "name_long": "Timor-Leste",
         "formal_en": "Democratic Republic of Timor-Leste",
-        "iso_a3": "TLS",
+        "code": "TLS",
         "continent": "Asia",
         "region_wb": "East Asia & Pacific",
         "filename": "TLS.geojson",
@@ -21939,7 +21939,7 @@
       "properties": {
         "name_long": "Uzbekistan",
         "formal_en": "Republic of Uzbekistan",
-        "iso_a3": "UZB",
+        "code": "UZB",
         "continent": "Asia",
         "region_wb": "Europe & Central Asia",
         "filename": "UZB.geojson",
@@ -22174,7 +22174,7 @@
       "properties": {
         "name_long": "Taiwan",
         "formal_en": null,
-        "iso_a3": "TWN",
+        "code": "TWN",
         "continent": "Asia",
         "region_wb": "East Asia & Pacific",
         "filename": "TWN.geojson",
@@ -22229,7 +22229,7 @@
       "properties": {
         "name_long": "Yemen",
         "formal_en": "Republic of Yemen",
-        "iso_a3": "YEM",
+        "code": "YEM",
         "continent": "Asia",
         "region_wb": "Middle East & North Africa",
         "filename": "YEM.geojson",
@@ -22424,7 +22424,7 @@
       "properties": {
         "name_long": "Australia",
         "formal_en": "Commonwealth of Australia",
-        "iso_a3": "AUS",
+        "code": "AUS",
         "continent": "Oceania",
         "region_wb": "East Asia & Pacific",
         "filename": "AUS.geojson",
@@ -23413,7 +23413,7 @@
       "properties": {
         "name_long": "Vietnam",
         "formal_en": "Socialist Republic of Vietnam",
-        "iso_a3": "VNM",
+        "code": "VNM",
         "continent": "Asia",
         "region_wb": "East Asia & Pacific",
         "filename": "VNM.geojson",
@@ -23608,7 +23608,7 @@
       "properties": {
         "name_long": "Fiji",
         "formal_en": "Republic of Fiji",
-        "iso_a3": "FJI",
+        "code": "FJI",
         "continent": "Oceania",
         "region_wb": "East Asia & Pacific",
         "filename": "FJI.geojson",
@@ -23725,7 +23725,7 @@
       "properties": {
         "name_long": "New Caledonia",
         "formal_en": "New Caledonia",
-        "iso_a3": "NCL",
+        "code": "NCL",
         "continent": "Oceania",
         "region_wb": "East Asia & Pacific",
         "filename": "NCL.geojson",
@@ -23796,7 +23796,7 @@
       "properties": {
         "name_long": "New Zealand",
         "formal_en": "New Zealand",
-        "iso_a3": "NZL",
+        "code": "NZL",
         "continent": "Oceania",
         "region_wb": "East Asia & Pacific",
         "filename": "NZL.geojson",
@@ -24085,7 +24085,7 @@
       "properties": {
         "name_long": "Papua New Guinea",
         "formal_en": "Independent State of Papua New Guinea",
-        "iso_a3": "PNG",
+        "code": "PNG",
         "continent": "Oceania",
         "region_wb": "East Asia & Pacific",
         "filename": "PNG.geojson",
@@ -24442,7 +24442,7 @@
       "properties": {
         "name_long": "Solomon Islands",
         "formal_en": null,
-        "iso_a3": "SLB",
+        "code": "SLB",
         "continent": "Oceania",
         "region_wb": "East Asia & Pacific",
         "filename": "SLB.geojson",
@@ -24627,7 +24627,7 @@
       "properties": {
         "name_long": "Vanuatu",
         "formal_en": "Republic of Vanuatu",
-        "iso_a3": "VUT",
+        "code": "VUT",
         "continent": "Oceania",
         "region_wb": "East Asia & Pacific",
         "filename": "VUT.geojson",
@@ -24700,7 +24700,7 @@
       "properties": {
         "name_long": "Albania",
         "formal_en": "Republic of Albania",
-        "iso_a3": "ALB",
+        "code": "ALB",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
         "filename": "ALB.geojson",
@@ -24807,7 +24807,7 @@
       "properties": {
         "name_long": "Nepal",
         "formal_en": "Nepal",
-        "iso_a3": "NPL",
+        "code": "NPL",
         "continent": "Asia",
         "region_wb": "South Asia",
         "filename": "NPL.geojson",
@@ -24918,7 +24918,7 @@
       "properties": {
         "name_long": "Austria",
         "formal_en": "Republic of Austria",
-        "iso_a3": "AUT",
+        "code": "AUT",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
         "filename": "AUT.geojson",
@@ -25085,7 +25085,7 @@
       "properties": {
         "name_long": "Bosnia and Herzegovina",
         "formal_en": "Bosnia and Herzegovina",
-        "iso_a3": "BIH",
+        "code": "BIH",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
         "filename": "BIH.geojson",
@@ -25192,7 +25192,7 @@
       "properties": {
         "name_long": "Bulgaria",
         "formal_en": "Republic of Bulgaria",
-        "iso_a3": "BGR",
+        "code": "BGR",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
         "filename": "BGR.geojson",
@@ -25323,7 +25323,7 @@
       "properties": {
         "name_long": "Belgium",
         "formal_en": "Kingdom of Belgium",
-        "iso_a3": "BEL",
+        "code": "BEL",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
         "filename": "BEL.geojson",
@@ -25402,7 +25402,7 @@
       "properties": {
         "name_long": "Belarus",
         "formal_en": "Republic of Belarus",
-        "iso_a3": "BLR",
+        "code": "BLR",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
         "filename": "BLR.geojson",
@@ -25597,7 +25597,7 @@
       "properties": {
         "name_long": "Switzerland",
         "formal_en": "Swiss Confederation",
-        "iso_a3": "CHE",
+        "code": "CHE",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
         "filename": "CHE.geojson",
@@ -25712,7 +25712,7 @@
       "properties": {
         "name_long": "Czech Republic",
         "formal_en": "Czech Republic",
-        "iso_a3": "CZE",
+        "code": "CZE",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
         "filename": "CZE.geojson",
@@ -25871,7 +25871,7 @@
       "properties": {
         "name_long": "Germany",
         "formal_en": "Federal Republic of Germany",
-        "iso_a3": "DEU",
+        "code": "DEU",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
         "filename": "DEU.geojson",
@@ -26122,7 +26122,7 @@
       "properties": {
         "name_long": "Denmark",
         "formal_en": "Kingdom of Denmark",
-        "iso_a3": "DNK",
+        "code": "DNK",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
         "filename": "DNK.geojson",
@@ -26243,7 +26243,7 @@
       "properties": {
         "name_long": "Estonia",
         "formal_en": "Republic of Estonia",
-        "iso_a3": "EST",
+        "code": "EST",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
         "filename": "EST.geojson",
@@ -26330,7 +26330,7 @@
       "properties": {
         "name_long": "Finland",
         "formal_en": "Republic of Finland",
-        "iso_a3": "FIN",
+        "code": "FIN",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
         "filename": "FIN.geojson",
@@ -26501,7 +26501,7 @@
       "properties": {
         "name_long": "France",
         "formal_en": "French Republic",
-        "iso_a3": "FRA",
+        "code": "FRA",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
         "filename": "FRA.geojson",
@@ -26826,7 +26826,7 @@
       "properties": {
         "name_long": "Spain",
         "formal_en": "Kingdom of Spain",
-        "iso_a3": "ESP",
+        "code": "ESP",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
         "filename": "ESP.geojson",
@@ -27049,7 +27049,7 @@
       "properties": {
         "name_long": "United Kingdom",
         "formal_en": "United Kingdom of Great Britain and Northern Ireland",
-        "iso_a3": "GBR",
+        "code": "GBR",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
         "filename": "GBR.geojson",
@@ -27298,7 +27298,7 @@
       "properties": {
         "name_long": "Croatia",
         "formal_en": "Republic of Croatia",
-        "iso_a3": "HRV",
+        "code": "HRV",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
         "filename": "HRV.geojson",
@@ -27485,7 +27485,7 @@
       "properties": {
         "name_long": "Hungary",
         "formal_en": "Republic of Hungary",
-        "iso_a3": "HUN",
+        "code": "HUN",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
         "filename": "HUN.geojson",
@@ -27628,7 +27628,7 @@
       "properties": {
         "name_long": "Greece",
         "formal_en": "Hellenic Republic",
-        "iso_a3": "GRC",
+        "code": "GRC",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
         "filename": "GRC.geojson",
@@ -27869,7 +27869,7 @@
       "properties": {
         "name_long": "Iceland",
         "formal_en": "Republic of Iceland",
-        "iso_a3": "ISL",
+        "code": "ISL",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
         "filename": "ISL.geojson",
@@ -27968,7 +27968,7 @@
       "properties": {
         "name_long": "Ireland",
         "formal_en": "Ireland",
-        "iso_a3": "IRL",
+        "code": "IRL",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
         "filename": "IRL.geojson",
@@ -28039,7 +28039,7 @@
       "properties": {
         "name_long": "Italy",
         "formal_en": "Italian Republic",
-        "iso_a3": "ITA",
+        "code": "ITA",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
         "filename": "ITA.geojson",
@@ -28416,7 +28416,7 @@
       "properties": {
         "name_long": "Kosovo",
         "formal_en": "Republic of Kosovo",
-        "iso_a3": "-99",
+        "code": "-99",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
         "filename": "KOS.geojson",
@@ -28519,7 +28519,7 @@
       "properties": {
         "name_long": "Lithuania",
         "formal_en": "Republic of Lithuania",
-        "iso_a3": "LTU",
+        "code": "LTU",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
         "filename": "LTU.geojson",
@@ -28614,7 +28614,7 @@
       "properties": {
         "name_long": "Macedonia",
         "formal_en": "Former Yugoslav Republic of Macedonia",
-        "iso_a3": "MKD",
+        "code": "MKD",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
         "filename": "MKD.geojson",
@@ -28701,7 +28701,7 @@
       "properties": {
         "name_long": "Luxembourg",
         "formal_en": "Grand Duchy of Luxembourg",
-        "iso_a3": "LUX",
+        "code": "LUX",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
         "filename": "LUX.geojson",
@@ -28748,7 +28748,7 @@
       "properties": {
         "name_long": "Moldova",
         "formal_en": "Republic of Moldova",
-        "iso_a3": "MDA",
+        "code": "MDA",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
         "filename": "MDA.geojson",
@@ -28875,7 +28875,7 @@
       "properties": {
         "name_long": "Latvia",
         "formal_en": "Republic of Latvia",
-        "iso_a3": "LVA",
+        "code": "LVA",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
         "filename": "LVA.geojson",
@@ -28982,7 +28982,7 @@
       "properties": {
         "name_long": "Norway",
         "formal_en": "Kingdom of Norway",
-        "iso_a3": "NOR",
+        "code": "NOR",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
         "filename": "NOR.geojson",
@@ -29367,7 +29367,7 @@
       "properties": {
         "name_long": "Netherlands",
         "formal_en": "Kingdom of the Netherlands",
-        "iso_a3": "NLD",
+        "code": "NLD",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
         "filename": "NLD.geojson",
@@ -29442,7 +29442,7 @@
       "properties": {
         "name_long": "Poland",
         "formal_en": "Republic of Poland",
-        "iso_a3": "POL",
+        "code": "POL",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
         "filename": "POL.geojson",
@@ -29641,7 +29641,7 @@
       "properties": {
         "name_long": "Montenegro",
         "formal_en": "Montenegro",
-        "iso_a3": "MNE",
+        "code": "MNE",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
         "filename": "MNE.geojson",
@@ -29732,7 +29732,7 @@
       "properties": {
         "name_long": "Portugal",
         "formal_en": "Portuguese Republic",
-        "iso_a3": "PRT",
+        "code": "PRT",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
         "filename": "PRT.geojson",
@@ -29883,7 +29883,7 @@
       "properties": {
         "name_long": "Romania",
         "formal_en": "Romania",
-        "iso_a3": "ROU",
+        "code": "ROU",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
         "filename": "ROU.geojson",
@@ -30078,7 +30078,7 @@
       "properties": {
         "name_long": "Russian Federation",
         "formal_en": "Russian Federation",
-        "iso_a3": "RUS",
+        "code": "RUS",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
         "filename": "RUS.geojson",
@@ -32539,7 +32539,7 @@
       "properties": {
         "name_long": "Slovakia",
         "formal_en": "Slovak Republic",
-        "iso_a3": "SVK",
+        "code": "SVK",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
         "filename": "SVK.geojson",
@@ -32690,7 +32690,7 @@
       "properties": {
         "name_long": "Serbia",
         "formal_en": "Republic of Serbia",
-        "iso_a3": "SRB",
+        "code": "SRB",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
         "filename": "SRB.geojson",
@@ -32893,7 +32893,7 @@
       "properties": {
         "name_long": "Slovenia",
         "formal_en": "Republic of Slovenia",
-        "iso_a3": "SVN",
+        "code": "SVN",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
         "filename": "SVN.geojson",
@@ -32984,7 +32984,7 @@
       "properties": {
         "name_long": "Sweden",
         "formal_en": "Kingdom of Sweden",
-        "iso_a3": "SWE",
+        "code": "SWE",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
         "filename": "SWE.geojson",
@@ -33163,7 +33163,7 @@
       "properties": {
         "name_long": "Ukraine",
         "formal_en": "Ukraine",
-        "iso_a3": "UKR",
+        "code": "UKR",
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
         "filename": "UKR.geojson",
@@ -33574,7 +33574,7 @@
       "properties": {
         "name_long": "Angola",
         "formal_en": "People's Republic of Angola",
-        "iso_a3": "AGO",
+        "code": "AGO",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
         "filename": "AGO.geojson",
@@ -33899,7 +33899,7 @@
       "properties": {
         "name_long": "Burundi",
         "formal_en": "Republic of Burundi",
-        "iso_a3": "BDI",
+        "code": "BDI",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
         "filename": "BDI.geojson",
@@ -33970,7 +33970,7 @@
       "properties": {
         "name_long": "Burkina Faso",
         "formal_en": "Burkina Faso",
-        "iso_a3": "BFA",
+        "code": "BFA",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
         "filename": "BFA.geojson",
@@ -34145,7 +34145,7 @@
       "properties": {
         "name_long": "Benin",
         "formal_en": "Republic of Benin",
-        "iso_a3": "BEN",
+        "code": "BEN",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
         "filename": "BEN.geojson",
@@ -34264,7 +34264,7 @@
       "properties": {
         "name_long": "Central African Republic",
         "formal_en": "Central African Republic",
-        "iso_a3": "CAF",
+        "code": "CAF",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
         "filename": "CAF.geojson",
@@ -34531,7 +34531,7 @@
       "properties": {
         "name_long": "Botswana",
         "formal_en": "Republic of Botswana",
-        "iso_a3": "BWA",
+        "code": "BWA",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
         "filename": "BWA.geojson",
@@ -34710,7 +34710,7 @@
       "properties": {
         "name_long": "Côte d'Ivoire",
         "formal_en": "Republic of Ivory Coast",
-        "iso_a3": "CIV",
+        "code": "CIV",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
         "filename": "CIV.geojson",
@@ -34913,7 +34913,7 @@
       "properties": {
         "name_long": "Cameroon",
         "formal_en": "Republic of Cameroon",
-        "iso_a3": "CMR",
+        "code": "CMR",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
         "filename": "CMR.geojson",
@@ -35176,7 +35176,7 @@
       "properties": {
         "name_long": "Democratic Republic of the Congo",
         "formal_en": "Democratic Republic of the Congo",
-        "iso_a3": "COD",
+        "code": "COD",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
         "filename": "COD.geojson",
@@ -35683,7 +35683,7 @@
       "properties": {
         "name_long": "Republic of Congo",
         "formal_en": "Republic of Congo",
-        "iso_a3": "COG",
+        "code": "COG",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
         "filename": "COG.geojson",
@@ -35898,7 +35898,7 @@
       "properties": {
         "name_long": "Djibouti",
         "formal_en": "Republic of Djibouti",
-        "iso_a3": "DJI",
+        "code": "DJI",
         "continent": "Africa",
         "region_wb": "Middle East & North Africa",
         "filename": "DJI.geojson",
@@ -35977,7 +35977,7 @@
       "properties": {
         "name_long": "Algeria",
         "formal_en": "People's Democratic Republic of Algeria",
-        "iso_a3": "DZA",
+        "code": "DZA",
         "continent": "Africa",
         "region_wb": "Middle East & North Africa",
         "filename": "DZA.geojson",
@@ -36244,7 +36244,7 @@
       "properties": {
         "name_long": "Egypt",
         "formal_en": "Arab Republic of Egypt",
-        "iso_a3": "EGY",
+        "code": "EGY",
         "continent": "Africa",
         "region_wb": "Middle East & North Africa",
         "filename": "EGY.geojson",
@@ -36431,7 +36431,7 @@
       "properties": {
         "name_long": "Eritrea",
         "formal_en": "State of Eritrea",
-        "iso_a3": "ERI",
+        "code": "ERI",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
         "filename": "ERI.geojson",
@@ -36562,7 +36562,7 @@
       "properties": {
         "name_long": "Gabon",
         "formal_en": "Gabonese Republic",
-        "iso_a3": "GAB",
+        "code": "GAB",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
         "filename": "GAB.geojson",
@@ -36705,7 +36705,7 @@
       "properties": {
         "name_long": "Guinea",
         "formal_en": "Republic of Guinea",
-        "iso_a3": "GIN",
+        "code": "GIN",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
         "filename": "GIN.geojson",
@@ -37004,7 +37004,7 @@
       "properties": {
         "name_long": "Ghana",
         "formal_en": "Republic of Ghana",
-        "iso_a3": "GHA",
+        "code": "GHA",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
         "filename": "GHA.geojson",
@@ -37123,7 +37123,7 @@
       "properties": {
         "name_long": "Ethiopia",
         "formal_en": "Federal Democratic Republic of Ethiopia",
-        "iso_a3": "ETH",
+        "code": "ETH",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
         "filename": "ETH.geojson",
@@ -37378,7 +37378,7 @@
       "properties": {
         "name_long": "The Gambia",
         "formal_en": "Republic of the Gambia",
-        "iso_a3": "GMB",
+        "code": "GMB",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
         "filename": "GMB.geojson",
@@ -37461,7 +37461,7 @@
       "properties": {
         "name_long": "Guinea-Bissau",
         "formal_en": "Republic of Guinea-Bissau",
-        "iso_a3": "GNB",
+        "code": "GNB",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
         "filename": "GNB.geojson",
@@ -37556,7 +37556,7 @@
       "properties": {
         "name_long": "Equatorial Guinea",
         "formal_en": "Republic of Equatorial Guinea",
-        "iso_a3": "GNQ",
+        "code": "GNQ",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
         "filename": "GNQ.geojson",
@@ -37603,7 +37603,7 @@
       "properties": {
         "name_long": "Kenya",
         "formal_en": "Republic of Kenya",
-        "iso_a3": "KEN",
+        "code": "KEN",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
         "filename": "KEN.geojson",
@@ -37770,7 +37770,7 @@
       "properties": {
         "name_long": "Liberia",
         "formal_en": "Republic of Liberia",
-        "iso_a3": "LBR",
+        "code": "LBR",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
         "filename": "LBR.geojson",
@@ -37897,7 +37897,7 @@
       "properties": {
         "name_long": "Libya",
         "formal_en": "Libya",
-        "iso_a3": "LBY",
+        "code": "LBY",
         "continent": "Africa",
         "region_wb": "Middle East & North Africa",
         "filename": "LBY.geojson",
@@ -38140,7 +38140,7 @@
       "properties": {
         "name_long": "Lesotho",
         "formal_en": "Kingdom of Lesotho",
-        "iso_a3": "LSO",
+        "code": "LSO",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
         "filename": "LSO.geojson",
@@ -38207,7 +38207,7 @@
       "properties": {
         "name_long": "Madagascar",
         "formal_en": "Republic of Madagascar",
-        "iso_a3": "MDG",
+        "code": "MDG",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
         "filename": "MDG.geojson",
@@ -38422,7 +38422,7 @@
       "properties": {
         "name_long": "Mali",
         "formal_en": "Republic of Mali",
-        "iso_a3": "MLI",
+        "code": "MLI",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
         "filename": "MLI.geojson",
@@ -38745,7 +38745,7 @@
       "properties": {
         "name_long": "Morocco",
         "formal_en": "Kingdom of Morocco",
-        "iso_a3": "MAR",
+        "code": "MAR",
         "continent": "Africa",
         "region_wb": "Middle East & North Africa",
         "filename": "MAR.geojson",
@@ -39020,7 +39020,7 @@
       "properties": {
         "name_long": "Mauritania",
         "formal_en": "Islamic Republic of Mauritania",
-        "iso_a3": "MRT",
+        "code": "MRT",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
         "filename": "MRT.geojson",
@@ -39195,7 +39195,7 @@
       "properties": {
         "name_long": "Namibia",
         "formal_en": "Republic of Namibia",
-        "iso_a3": "NAM",
+        "code": "NAM",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
         "filename": "NAM.geojson",
@@ -39390,7 +39390,7 @@
       "properties": {
         "name_long": "Malawi",
         "formal_en": "Republic of Malawi",
-        "iso_a3": "MWI",
+        "code": "MWI",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
         "filename": "MWI.geojson",
@@ -39521,7 +39521,7 @@
       "properties": {
         "name_long": "Niger",
         "formal_en": "Republic of Niger",
-        "iso_a3": "NER",
+        "code": "NER",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
         "filename": "NER.geojson",
@@ -39772,7 +39772,7 @@
       "properties": {
         "name_long": "Nigeria",
         "formal_en": "Federal Republic of Nigeria",
-        "iso_a3": "NGA",
+        "code": "NGA",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
         "filename": "NGA.geojson",
@@ -40023,7 +40023,7 @@
       "properties": {
         "name_long": "Mozambique",
         "formal_en": "Republic of Mozambique",
-        "iso_a3": "MOZ",
+        "code": "MOZ",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
         "filename": "MOZ.geojson",
@@ -40350,7 +40350,7 @@
       "properties": {
         "name_long": "Rwanda",
         "formal_en": "Republic of Rwanda",
-        "iso_a3": "RWA",
+        "code": "RWA",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
         "filename": "RWA.geojson",
@@ -40421,7 +40421,7 @@
       "properties": {
         "name_long": "Western Sahara",
         "formal_en": "Sahrawi Arab Democratic Republic",
-        "iso_a3": "ESH",
+        "code": "ESH",
         "continent": "Africa",
         "region_wb": "Middle East & North Africa",
         "filename": "ESH.geojson",
@@ -40552,7 +40552,7 @@
       "properties": {
         "name_long": "Sudan",
         "formal_en": "Republic of the Sudan",
-        "iso_a3": "SDN",
+        "code": "SDN",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
         "filename": "SDN.geojson",
@@ -40887,7 +40887,7 @@
       "properties": {
         "name_long": "South Sudan",
         "formal_en": "Republic of South Sudan",
-        "iso_a3": "SSD",
+        "code": "SSD",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
         "filename": "SSD.geojson",
@@ -41158,7 +41158,7 @@
       "properties": {
         "name_long": "Senegal",
         "formal_en": "Republic of Senegal",
-        "iso_a3": "SEN",
+        "code": "SEN",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
         "filename": "SEN.geojson",
@@ -41353,7 +41353,7 @@
       "properties": {
         "name_long": "Somaliland",
         "formal_en": "Republic of Somaliland",
-        "iso_a3": "-99",
+        "code": "-99",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
         "filename": "somaliland.geojson",
@@ -41468,7 +41468,7 @@
       "properties": {
         "name_long": "Sierra Leone",
         "formal_en": "Republic of Sierra Leone",
-        "iso_a3": "SLE",
+        "code": "SLE",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
         "filename": "SLE.geojson",
@@ -41575,7 +41575,7 @@
       "properties": {
         "name_long": "Chad",
         "formal_en": "Republic of Chad",
-        "iso_a3": "TCD",
+        "code": "TCD",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
         "filename": "TCD.geojson",
@@ -41826,7 +41826,7 @@
       "properties": {
         "name_long": "Swaziland",
         "formal_en": "Kingdom of Swaziland",
-        "iso_a3": "SWZ",
+        "code": "SWZ",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
         "filename": "SWZ.geojson",
@@ -41889,7 +41889,7 @@
       "properties": {
         "name_long": "Somalia",
         "formal_en": "Federal Republic of Somalia",
-        "iso_a3": "SOM",
+        "code": "SOM",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
         "filename": "SOM.geojson",
@@ -42052,7 +42052,7 @@
       "properties": {
         "name_long": "Tunisia",
         "formal_en": "Republic of Tunisia",
-        "iso_a3": "TUN",
+        "code": "TUN",
         "continent": "Africa",
         "region_wb": "Middle East & North Africa",
         "filename": "TUN.geojson",
@@ -42195,7 +42195,7 @@
       "properties": {
         "name_long": "Togo",
         "formal_en": "Togolese Republic",
-        "iso_a3": "TGO",
+        "code": "TGO",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
         "filename": "TGO.geojson",
@@ -42290,7 +42290,7 @@
       "properties": {
         "name_long": "Tanzania",
         "formal_en": "United Republic of Tanzania",
-        "iso_a3": "TZA",
+        "code": "TZA",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
         "filename": "TZA.geojson",
@@ -42505,7 +42505,7 @@
       "properties": {
         "name_long": "Uganda",
         "formal_en": "Republic of Uganda",
-        "iso_a3": "UGA",
+        "code": "UGA",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
         "filename": "UGA.geojson",
@@ -42632,7 +42632,7 @@
       "properties": {
         "name_long": "South Africa",
         "formal_en": "Republic of South Africa",
-        "iso_a3": "ZAF",
+        "code": "ZAF",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
         "filename": "ZAF.geojson",
@@ -43029,7 +43029,7 @@
       "properties": {
         "name_long": "Zambia",
         "formal_en": "Republic of Zambia",
-        "iso_a3": "ZMB",
+        "code": "ZMB",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
         "filename": "ZMB.geojson",
@@ -43292,7 +43292,7 @@
       "properties": {
         "name_long": "Zimbabwe",
         "formal_en": "Republic of Zimbabwe",
-        "iso_a3": "ZWE",
+        "code": "ZWE",
         "continent": "Africa",
         "region_wb": "Sub-Saharan Africa",
         "filename": "ZWE.geojson",
