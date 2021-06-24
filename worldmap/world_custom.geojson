@@ -26505,7 +26505,7 @@
         "continent": "Europe",
         "region_wb": "Europe & Central Asia",
         "filename": "FRA.geojson",
-        "LAGS": "250"
+        "LAGS": "129"
       },
       "geometry": {
         "type": "MultiPolygon",
