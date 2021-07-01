@@ -108,6 +108,13 @@ map_layers:
     filename_prefix: indicator_
     exclude_columns: ['Gebietseinheit']
 
+  - geojson_file: NI_Kurz_Mikrozensus_Diss.geojson
+    name_property: GEN
+    id_property: AGS
+    output_subfolder: maps
+    filename_prefix: indicator_
+    exclude_columns: ['Gebietseinheit']
+
   -
     geojson_file: worldmap/world_custom.geojson
     name_property: name_long
