@@ -12,10 +12,68 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Gebietseinheit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Braunschweig  Stadt",
+                "Salzgitter  Stadt",
+                "Wolfsburg  Stadt",
+                "Gifhorn",
+                "Goslar",
+                "Helmstedt",
+                "Northeim",
+                "Peine",
+                "Göttingen",
+                "Wolfenbüttel",
+                "Stat. Region Braunschweig",
+                "Hannover  Region",
+                "   dav. Hannover  Lhst.",
+                "   dav. Hannover  Umland",
+                "Diepholz",
+                "Hameln-Pyrmont",
+                "Hildesheim",
+                "Holzminden",
+                "Nienburg (Weser)",
+                "Schaumburg",
+                "Stat. Region Hannover",
+                "Celle",
+                "Cuxhaven",
+                "Harburg",
+                "Lüchow-Dannenberg / Uelzen",
+                "Lüneburg",
+                "Osterholz",
+                "Rotenburg (Wümme)",
+                "Heidekreis",
+                "Stade",
+                "Verden",
+                "Stat. Region Lüneburg",
+                "Delmenhorst  Stadt",
+                "Emden  Stadt / Leer",
+                "Oldenburg(Oldb)  Stadt",
+                "Osnabrück  Stadt",
+                "Wilhelmshaven  Stadt",
+                "Ammerland",
+                "Aurich",
+                "Cloppenburg",
+                "Emsland",
+                "Friesland / Wittmund",
+                "Grafschaft Bentheim",
+                "Oldenburg",
+                "Osnabrück",
+                "Vechta",
+                "Wesermarsch",
+                "Stat. Region Weser-Ems",
+                "Niedersachsen",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Migrationshintergrund",
             "type": "string",
             "constraints": {
               "enum": [
@@ -27,7 +85,7 @@
             }
           },
           {
-            "name": "Migrationshintergrund",
+            "name": "Geocode",
             "type": "string",
             "constraints": {
               "enum": [
@@ -83,10 +141,6 @@
                 ""
               ]
             }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
           },
           {
             "name": "Value",
