@@ -1,7 +1,313 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,G,200
+﻿Year,Gebietseinheit,Aufenthaltsdauer in Jahren,GeoCode,Value
+2020,Niedersachsen,0 Jahre,K030,5.36
+2020,Stat. Region Braunschweig,0 Jahre,K031,1.04
+2020,Braunschweig  Stadt,0 Jahre,K03101,0.18
+2020,Salzgitter  Stadt,0 Jahre,K03102,0.11
+2020,Wolfsburg  Stadt,0 Jahre,K03103,0.11
+2020,Gifhorn,0 Jahre,K03151,0.06
+2020,Goslar,0 Jahre,K03153,0.11
+2020,Helmstedt,0 Jahre,K03154,0.04
+2020,Northeim,0 Jahre,K03155,0.05
+2020,Peine,0 Jahre,K03157,0.07
+2020,Wolfenbüttel,0 Jahre,K03158,0.03
+2020,Göttingen,0 Jahre,K03159,0.24
+2020,Stat. Region Hannover,0 Jahre,K032,1.17
+2020,Hannover  Region,0 Jahre,K03241,0.62
+2020,   dav. Hannover  Lhst.,0 Jahre,K03241001,0.27
+2020,   dav. Hannover  Umland,0 Jahre,K03241999,0.27
+2020,Diepholz,0 Jahre,K03251,0.13
+2020,Hameln-Pyrmont,0 Jahre,K03252,0.08
+2020,Hildesheim,0 Jahre,K03254,0.15
+2020,Holzminden,0 Jahre,K03255,0.01
+2020,Nienburg (Weser),0 Jahre,K03256,0.06
+2020,Schaumburg,0 Jahre,K03257,0.08
+2020,Stat. Region Lüneburg,0 Jahre,K033,0.96
+2020,Celle,0 Jahre,K03351,0.08
+2020,Cuxhaven,0 Jahre,K03352,0.07
+2020,Harburg,0 Jahre,K03353,0.18
+2020,Lüchow-Dannenberg,0 Jahre,K03354,0.02
+2020,Lüneburg,0 Jahre,K03355,0.08
+2020,Osterholz,0 Jahre,K03356,0.03
+2020,Rotenburg (Wümme),0 Jahre,K03357,0.09
+2020,Heidekreis,0 Jahre,K03358,0.14
+2020,Stade,0 Jahre,K03359,0.12
+2020,Uelzen,0 Jahre,K03360,0.04
+2020,Verden,0 Jahre,K03361,0.06
+2020,Stat. Region Weser-Ems,0 Jahre,K034,2.18
+2020,Delmenhorst  Stadt,0 Jahre,K03401,0.06
+2020,Emden  Stadt,0 Jahre,K03402,0.05
+2020,Oldenburg(Oldb)  Stadt,0 Jahre,K03403,0.15
+2020,Osnabrück  Stadt,0 Jahre,K03404,0.15
+2020,Wilhelmshaven  Stadt,0 Jahre,K03405,0.05
+2020,Ammerland,0 Jahre,K03451,0.06
+2020,Aurich,0 Jahre,K03452,0.07
+2020,Cloppenburg,0 Jahre,K03453,0.14
+2020,Emsland,0 Jahre,K03454,0.41
+2020,Friesland,0 Jahre,K03455,0.03
+2020,Grafschaft Bentheim,0 Jahre,K03456,0.09
+2020,Leer,0 Jahre,K03457,0.11
+2020,Oldenburg,0 Jahre,K03458,0.13
+2020,Osnabrück,0 Jahre,K03459,0.35
+2020,Vechta,0 Jahre,K03460,0.17
+2020,Wesermarsch,0 Jahre,K03461,0.05
+2020,Wittmund,0 Jahre,K03462,0.02
+2020,Niedersachsen,1 - 3 Jahre,K030,20.15
+2020,Stat. Region Braunschweig,1 - 3 Jahre,K031,4.04
+2020,Braunschweig  Stadt,1 - 3 Jahre,K03101,0.7
+2020,Salzgitter  Stadt,1 - 3 Jahre,K03102,0.49
+2020,Wolfsburg  Stadt,1 - 3 Jahre,K03103,0.46
+2020,Gifhorn,1 - 3 Jahre,K03151,0.32
+2020,Goslar,1 - 3 Jahre,K03153,0.4
+2020,Helmstedt,1 - 3 Jahre,K03154,0.14
+2020,Northeim,1 - 3 Jahre,K03155,0.21
+2020,Peine,1 - 3 Jahre,K03157,0.26
+2020,Wolfenbüttel,1 - 3 Jahre,K03158,0.17
+2020,Göttingen,1 - 3 Jahre,K03159,0.85
+2020,Stat. Region Hannover,1 - 3 Jahre,K032,5.79
+2020,Hannover  Region,1 - 3 Jahre,K03241,3.73
+2020,   dav. Hannover  Lhst.,1 - 3 Jahre,K03241001,2.28
+2020,   dav. Hannover  Umland,1 - 3 Jahre,K03241999,2.28
+2020,Diepholz,1 - 3 Jahre,K03251,0.46
+2020,Hameln-Pyrmont,1 - 3 Jahre,K03252,0.34
+2020,Hildesheim,1 - 3 Jahre,K03254,0.58
+2020,Holzminden,1 - 3 Jahre,K03255,0.09
+2020,Nienburg (Weser),1 - 3 Jahre,K03256,0.23
+2020,Schaumburg,1 - 3 Jahre,K03257,0.33
+2020,Stat. Region Lüneburg,1 - 3 Jahre,K033,3.13
+2020,Celle,1 - 3 Jahre,K03351,0.3
+2020,Cuxhaven,1 - 3 Jahre,K03352,0.25
+2020,Harburg,1 - 3 Jahre,K03353,0.53
+2020,Lüchow-Dannenberg,1 - 3 Jahre,K03354,0.07
+2020,Lüneburg,1 - 3 Jahre,K03355,0.29
+2020,Osterholz,1 - 3 Jahre,K03356,0.12
+2020,Rotenburg (Wümme),1 - 3 Jahre,K03357,0.29
+2020,Heidekreis,1 - 3 Jahre,K03358,0.3
+2020,Stade,1 - 3 Jahre,K03359,0.54
+2020,Uelzen,1 - 3 Jahre,K03360,0.15
+2020,Verden,1 - 3 Jahre,K03361,0.23
+2020,Stat. Region Weser-Ems,1 - 3 Jahre,K034,7.17
+2020,Delmenhorst  Stadt,1 - 3 Jahre,K03401,0.32
+2020,Emden  Stadt,1 - 3 Jahre,K03402,0.16
+2020,Oldenburg(Oldb)  Stadt,1 - 3 Jahre,K03403,0.48
+2020,Osnabrück  Stadt,1 - 3 Jahre,K03404,0.58
+2020,Wilhelmshaven  Stadt,1 - 3 Jahre,K03405,0.22
+2020,Ammerland,1 - 3 Jahre,K03451,0.21
+2020,Aurich,1 - 3 Jahre,K03452,0.28
+2020,Cloppenburg,1 - 3 Jahre,K03453,0.62
+2020,Emsland,1 - 3 Jahre,K03454,1.24
+2020,Friesland,1 - 3 Jahre,K03455,0.09
+2020,Grafschaft Bentheim,1 - 3 Jahre,K03456,0.44
+2020,Leer,1 - 3 Jahre,K03457,0.41
+2020,Oldenburg,1 - 3 Jahre,K03458,0.38
+2020,Osnabrück,1 - 3 Jahre,K03459,0.89
+2020,Vechta,1 - 3 Jahre,K03460,0.54
+2020,Wesermarsch,1 - 3 Jahre,K03461,0.17
+2020,Wittmund,1 - 3 Jahre,K03462,0.08
+2020,Niedersachsen,4 - 5 Jahre,K030,21.1
+2020,Stat. Region Braunschweig,4 - 5 Jahre,K031,4.01
+2020,Braunschweig  Stadt,4 - 5 Jahre,K03101,0.62
+2020,Salzgitter  Stadt,4 - 5 Jahre,K03102,0.62
+2020,Wolfsburg  Stadt,4 - 5 Jahre,K03103,0.39
+2020,Gifhorn,4 - 5 Jahre,K03151,0.28
+2020,Goslar,4 - 5 Jahre,K03153,0.38
+2020,Helmstedt,4 - 5 Jahre,K03154,0.16
+2020,Northeim,4 - 5 Jahre,K03155,0.24
+2020,Peine,4 - 5 Jahre,K03157,0.3
+2020,Wolfenbüttel,4 - 5 Jahre,K03158,0.22
+2020,Göttingen,4 - 5 Jahre,K03159,0.75
+2020,Stat. Region Hannover,4 - 5 Jahre,K032,6.45
+2020,Hannover  Region,4 - 5 Jahre,K03241,4.01
+2020,   dav. Hannover  Lhst.,4 - 5 Jahre,K03241001,2.19
+2020,   dav. Hannover  Umland,4 - 5 Jahre,K03241999,2.19
+2020,Diepholz,4 - 5 Jahre,K03251,0.5
+2020,Hameln-Pyrmont,4 - 5 Jahre,K03252,0.46
+2020,Hildesheim,4 - 5 Jahre,K03254,0.63
+2020,Holzminden,4 - 5 Jahre,K03255,0.11
+2020,Nienburg (Weser),4 - 5 Jahre,K03256,0.34
+2020,Schaumburg,4 - 5 Jahre,K03257,0.37
+2020,Stat. Region Lüneburg,4 - 5 Jahre,K033,3.55
+2020,Celle,4 - 5 Jahre,K03351,0.43
+2020,Cuxhaven,4 - 5 Jahre,K03352,0.33
+2020,Harburg,4 - 5 Jahre,K03353,0.47
+2020,Lüchow-Dannenberg,4 - 5 Jahre,K03354,0.07
+2020,Lüneburg,4 - 5 Jahre,K03355,0.41
+2020,Osterholz,4 - 5 Jahre,K03356,0.17
+2020,Rotenburg (Wümme),4 - 5 Jahre,K03357,0.3
+2020,Heidekreis,4 - 5 Jahre,K03358,0.29
+2020,Stade,4 - 5 Jahre,K03359,0.57
+2020,Uelzen,4 - 5 Jahre,K03360,0.16
+2020,Verden,4 - 5 Jahre,K03361,0.31
+2020,Stat. Region Weser-Ems,4 - 5 Jahre,K034,7.08
+2020,Delmenhorst  Stadt,4 - 5 Jahre,K03401,0.4
+2020,Emden  Stadt,4 - 5 Jahre,K03402,0.18
+2020,Oldenburg(Oldb)  Stadt,4 - 5 Jahre,K03403,0.58
+2020,Osnabrück  Stadt,4 - 5 Jahre,K03404,0.63
+2020,Wilhelmshaven  Stadt,4 - 5 Jahre,K03405,0.34
+2020,Ammerland,4 - 5 Jahre,K03451,0.27
+2020,Aurich,4 - 5 Jahre,K03452,0.32
+2020,Cloppenburg,4 - 5 Jahre,K03453,0.54
+2020,Emsland,4 - 5 Jahre,K03454,0.96
+2020,Friesland,4 - 5 Jahre,K03455,0.16
+2020,Grafschaft Bentheim,4 - 5 Jahre,K03456,0.37
+2020,Leer,4 - 5 Jahre,K03457,0.4
+2020,Oldenburg,4 - 5 Jahre,K03458,0.34
+2020,Osnabrück,4 - 5 Jahre,K03459,0.68
+2020,Vechta,4 - 5 Jahre,K03460,0.55
+2020,Wesermarsch,4 - 5 Jahre,K03461,0.2
+2020,Wittmund,4 - 5 Jahre,K03462,0.07
+2020,Niedersachsen,6 - 7 Jahre,K030,9.63
+2020,Stat. Region Braunschweig,6 - 7 Jahre,K031,1.75
+2020,Braunschweig  Stadt,6 - 7 Jahre,K03101,0.35
+2020,Salzgitter  Stadt,6 - 7 Jahre,K03102,0.19
+2020,Wolfsburg  Stadt,6 - 7 Jahre,K03103,0.24
+2020,Gifhorn,6 - 7 Jahre,K03151,0.11
+2020,Goslar,6 - 7 Jahre,K03153,0.12
+2020,Helmstedt,6 - 7 Jahre,K03154,0.08
+2020,Northeim,6 - 7 Jahre,K03155,0.09
+2020,Peine,6 - 7 Jahre,K03157,0.11
+2020,Wolfenbüttel,6 - 7 Jahre,K03158,0.08
+2020,Göttingen,6 - 7 Jahre,K03159,0.34
+2020,Stat. Region Hannover,6 - 7 Jahre,K032,3.13
+2020,Hannover  Region,6 - 7 Jahre,K03241,2.16
+2020,   dav. Hannover  Lhst.,6 - 7 Jahre,K03241001,1.37
+2020,   dav. Hannover  Umland,6 - 7 Jahre,K03241999,1.37
+2020,Diepholz,6 - 7 Jahre,K03251,0.27
+2020,Hameln-Pyrmont,6 - 7 Jahre,K03252,0.16
+2020,Hildesheim,6 - 7 Jahre,K03254,0.27
+2020,Holzminden,6 - 7 Jahre,K03255,0.02
+2020,Nienburg (Weser),6 - 7 Jahre,K03256,0.1
+2020,Schaumburg,6 - 7 Jahre,K03257,0.12
+2020,Stat. Region Lüneburg,6 - 7 Jahre,K033,1.51
+2020,Celle,6 - 7 Jahre,K03351,0.15
+2020,Cuxhaven,6 - 7 Jahre,K03352,0.13
+2020,Harburg,6 - 7 Jahre,K03353,0.24
+2020,Lüchow-Dannenberg,6 - 7 Jahre,K03354,0.04
+2020,Lüneburg,6 - 7 Jahre,K03355,0.16
+2020,Osterholz,6 - 7 Jahre,K03356,0.07
+2020,Rotenburg (Wümme),6 - 7 Jahre,K03357,0.12
+2020,Heidekreis,6 - 7 Jahre,K03358,0.15
+2020,Stade,6 - 7 Jahre,K03359,0.22
+2020,Uelzen,6 - 7 Jahre,K03360,0.07
+2020,Verden,6 - 7 Jahre,K03361,0.1
+2020,Stat. Region Weser-Ems,6 - 7 Jahre,K034,3.22
+2020,Delmenhorst  Stadt,6 - 7 Jahre,K03401,0.15
+2020,Emden  Stadt,6 - 7 Jahre,K03402,0.09
+2020,Oldenburg(Oldb)  Stadt,6 - 7 Jahre,K03403,0.21
+2020,Osnabrück  Stadt,6 - 7 Jahre,K03404,0.29
+2020,Wilhelmshaven  Stadt,6 - 7 Jahre,K03405,0.09
+2020,Ammerland,6 - 7 Jahre,K03451,0.09
+2020,Aurich,6 - 7 Jahre,K03452,0.16
+2020,Cloppenburg,6 - 7 Jahre,K03453,0.28
+2020,Emsland,6 - 7 Jahre,K03454,0.47
+2020,Friesland,6 - 7 Jahre,K03455,0.05
+2020,Grafschaft Bentheim,6 - 7 Jahre,K03456,0.21
+2020,Leer,6 - 7 Jahre,K03457,0.17
+2020,Oldenburg,6 - 7 Jahre,K03458,0.15
+2020,Osnabrück,6 - 7 Jahre,K03459,0.38
+2020,Vechta,6 - 7 Jahre,K03460,0.26
+2020,Wesermarsch,6 - 7 Jahre,K03461,0.07
+2020,Wittmund,6 - 7 Jahre,K03462,0.03
+2020,Niedersachsen,8 - 9 Jahre,K030,5.44
+2020,Stat. Region Braunschweig,8 - 9 Jahre,K031,0.87
+2020,Braunschweig  Stadt,8 - 9 Jahre,K03101,0.2
+2020,Salzgitter  Stadt,8 - 9 Jahre,K03102,0.07
+2020,Wolfsburg  Stadt,8 - 9 Jahre,K03103,0.11
+2020,Gifhorn,8 - 9 Jahre,K03151,0.06
+2020,Goslar,8 - 9 Jahre,K03153,0.06
+2020,Helmstedt,8 - 9 Jahre,K03154,0.03
+2020,Northeim,8 - 9 Jahre,K03155,0.04
+2020,Peine,8 - 9 Jahre,K03157,0.06
+2020,Wolfenbüttel,8 - 9 Jahre,K03158,0.03
+2020,Göttingen,8 - 9 Jahre,K03159,0.16
+2020,Stat. Region Hannover,8 - 9 Jahre,K032,1.8
+2020,Hannover  Region,8 - 9 Jahre,K03241,1.28
+2020,   dav. Hannover  Lhst.,8 - 9 Jahre,K03241001,0.85
+2020,   dav. Hannover  Umland,8 - 9 Jahre,K03241999,0.85
+2020,Diepholz,8 - 9 Jahre,K03251,0.14
+2020,Hameln-Pyrmont,8 - 9 Jahre,K03252,0.08
+2020,Hildesheim,8 - 9 Jahre,K03254,0.14
+2020,Holzminden,8 - 9 Jahre,K03255,0.02
+2020,Nienburg (Weser),8 - 9 Jahre,K03256,0.06
+2020,Schaumburg,8 - 9 Jahre,K03257,0.06
+2020,Stat. Region Lüneburg,8 - 9 Jahre,K033,0.8
+2020,Celle,8 - 9 Jahre,K03351,0.07
+2020,Cuxhaven,8 - 9 Jahre,K03352,0.07
+2020,Harburg,8 - 9 Jahre,K03353,0.12
+2020,Lüchow-Dannenberg,8 - 9 Jahre,K03354,0.02
+2020,Lüneburg,8 - 9 Jahre,K03355,0.07
+2020,Osterholz,8 - 9 Jahre,K03356,0.04
+2020,Rotenburg (Wümme),8 - 9 Jahre,K03357,0.06
+2020,Heidekreis,8 - 9 Jahre,K03358,0.08
+2020,Stade,8 - 9 Jahre,K03359,0.13
+2020,Uelzen,8 - 9 Jahre,K03360,0.03
+2020,Verden,8 - 9 Jahre,K03361,0.06
+2020,Stat. Region Weser-Ems,8 - 9 Jahre,K034,1.95
+2020,Delmenhorst  Stadt,8 - 9 Jahre,K03401,0.08
+2020,Emden  Stadt,8 - 9 Jahre,K03402,0.03
+2020,Oldenburg(Oldb)  Stadt,8 - 9 Jahre,K03403,0.12
+2020,Osnabrück  Stadt,8 - 9 Jahre,K03404,0.15
+2020,Wilhelmshaven  Stadt,8 - 9 Jahre,K03405,0.04
+2020,Ammerland,8 - 9 Jahre,K03451,0.06
+2020,Aurich,8 - 9 Jahre,K03452,0.06
+2020,Cloppenburg,8 - 9 Jahre,K03453,0.17
+2020,Emsland,8 - 9 Jahre,K03454,0.32
+2020,Friesland,8 - 9 Jahre,K03455,0.02
+2020,Grafschaft Bentheim,8 - 9 Jahre,K03456,0.17
+2020,Leer,8 - 9 Jahre,K03457,0.09
+2020,Oldenburg,8 - 9 Jahre,K03458,0.09
+2020,Osnabrück,8 - 9 Jahre,K03459,0.23
+2020,Vechta,8 - 9 Jahre,K03460,0.18
+2020,Wesermarsch,8 - 9 Jahre,K03461,0.04
+2020,Wittmund,8 - 9 Jahre,K03462,0.01
+2020,Niedersachsen,10 u. mehr Jahre,K030,38.29
+2020,Stat. Region Braunschweig,10 u. mehr Jahre,K031,7.72
+2020,Braunschweig  Stadt,10 u. mehr Jahre,K03101,1.54
+2020,Salzgitter  Stadt,10 u. mehr Jahre,K03102,0.91
+2020,Wolfsburg  Stadt,10 u. mehr Jahre,K03103,1.02
+2020,Gifhorn,10 u. mehr Jahre,K03151,0.65
+2020,Goslar,10 u. mehr Jahre,K03153,0.52
+2020,Helmstedt,10 u. mehr Jahre,K03154,0.31
+2020,Northeim,10 u. mehr Jahre,K03155,0.42
+2020,Peine,10 u. mehr Jahre,K03157,0.56
+2020,Wolfenbüttel,10 u. mehr Jahre,K03158,0.36
+2020,Göttingen,10 u. mehr Jahre,K03159,1.39
+2020,Stat. Region Hannover,10 u. mehr Jahre,K032,14.02
+2020,Hannover  Region,10 u. mehr Jahre,K03241,9.82
+2020,   dav. Hannover  Lhst.,10 u. mehr Jahre,K03241001,6.08
+2020,   dav. Hannover  Umland,10 u. mehr Jahre,K03241999,6.08
+2020,Diepholz,10 u. mehr Jahre,K03251,0.72
+2020,Hameln-Pyrmont,10 u. mehr Jahre,K03252,0.89
+2020,Hildesheim,10 u. mehr Jahre,K03254,1.18
+2020,Holzminden,10 u. mehr Jahre,K03255,0.25
+2020,Nienburg (Weser),10 u. mehr Jahre,K03256,0.41
+2020,Schaumburg,10 u. mehr Jahre,K03257,0.72
+2020,Stat. Region Lüneburg,10 u. mehr Jahre,K033,5.82
+2020,Celle,10 u. mehr Jahre,K03351,0.6
+2020,Cuxhaven,10 u. mehr Jahre,K03352,0.67
+2020,Harburg,10 u. mehr Jahre,K03353,1.07
+2020,Lüchow-Dannenberg,10 u. mehr Jahre,K03354,0.1
+2020,Lüneburg,10 u. mehr Jahre,K03355,0.5
+2020,Osterholz,10 u. mehr Jahre,K03356,0.34
+2020,Rotenburg (Wümme),10 u. mehr Jahre,K03357,0.51
+2020,Heidekreis,10 u. mehr Jahre,K03358,0.5
+2020,Stade,10 u. mehr Jahre,K03359,0.71
+2020,Uelzen,10 u. mehr Jahre,K03360,0.21
+2020,Verden,10 u. mehr Jahre,K03361,0.55
+2020,Stat. Region Weser-Ems,10 u. mehr Jahre,K034,10.71
+2020,Delmenhorst  Stadt,10 u. mehr Jahre,K03401,0.56
+2020,Emden  Stadt,10 u. mehr Jahre,K03402,0.16
+2020,Oldenburg(Oldb)  Stadt,10 u. mehr Jahre,K03403,0.66
+2020,Osnabrück  Stadt,10 u. mehr Jahre,K03404,1.14
+2020,Wilhelmshaven  Stadt,10 u. mehr Jahre,K03405,0.25
+2020,Ammerland,10 u. mehr Jahre,K03451,0.29
+2020,Aurich,10 u. mehr Jahre,K03452,0.41
+2020,Cloppenburg,10 u. mehr Jahre,K03453,0.62
+2020,Emsland,10 u. mehr Jahre,K03454,1.36
+2020,Friesland,10 u. mehr Jahre,K03455,0.2
+2020,Grafschaft Bentheim,10 u. mehr Jahre,K03456,1.29
+2020,Leer,10 u. mehr Jahre,K03457,0.57
+2020,Oldenburg,10 u. mehr Jahre,K03458,0.38
+2020,Osnabrück,10 u. mehr Jahre,K03459,1.51
+2020,Vechta,10 u. mehr Jahre,K03460,0.77
+2020,Wesermarsch,10 u. mehr Jahre,K03461,0.36
+2020,Wittmund,10 u. mehr Jahre,K03462,0.1
