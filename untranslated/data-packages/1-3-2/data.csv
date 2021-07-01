@@ -23,7 +23,7 @@ Stat. Region Hannover,Anteil der Personen ohne Migrationshintergrund,K032,73,58.
 Celle,Anteil der Personen ohne Migrationshintergrund,K03351,80,7.0
 Cuxhaven,Anteil der Personen ohne Migrationshintergrund,K03352,84,38.0
 Harburg,Anteil der Personen ohne Migrationshintergrund,K03353,78,9.0
-Lüchow-Dannenberg / Uelzen,Anteil der Personen ohne Migrationshintergrund,K03354360,83,76.0
+Lüchow-Dannenberg und Uelzen,Anteil der Personen ohne Migrationshintergrund,K03354360,83,76.0
 Lüneburg,Anteil der Personen ohne Migrationshintergrund,K03355,83,34.0
 Osterholz,Anteil der Personen ohne Migrationshintergrund,K03356,85,75.0
 Rotenburg (Wümme),Anteil der Personen ohne Migrationshintergrund,K03357,84,62.0
@@ -32,7 +32,7 @@ Stade,Anteil der Personen ohne Migrationshintergrund,K03359,82,22.0
 Verden,Anteil der Personen ohne Migrationshintergrund,K03361,80,14.0
 Stat. Region Lüneburg,Anteil der Personen ohne Migrationshintergrund,K033,82,2.0
 Delmenhorst  Stadt,Anteil der Personen ohne Migrationshintergrund,K03401,66,11.0
-Emden  Stadt / Leer,Anteil der Personen ohne Migrationshintergrund,K03402457,82,91.0
+Emden  Stadt und Leer,Anteil der Personen ohne Migrationshintergrund,K03402457,82,91.0
 Oldenburg(Oldb)  Stadt,Anteil der Personen ohne Migrationshintergrund,K03403,82,6.0
 Osnabrück  Stadt,Anteil der Personen ohne Migrationshintergrund,K03404,70,6.0
 Wilhelmshaven  Stadt,Anteil der Personen ohne Migrationshintergrund,K03405,75,69.0
@@ -72,7 +72,7 @@ Stat. Region Hannover,Anteil der Personen ohne Migrationshintergrund,K032,74,3.0
 Celle,Anteil der Personen ohne Migrationshintergrund,K03351,80,9.0
 Cuxhaven,Anteil der Personen ohne Migrationshintergrund,K03352,84,33.0
 Harburg,Anteil der Personen ohne Migrationshintergrund,K03353,80,37.0
-Lüchow-Dannenberg / Uelzen,Anteil der Personen ohne Migrationshintergrund,K03354360,84,3.0
+Lüchow-Dannenberg und Uelzen,Anteil der Personen ohne Migrationshintergrund,K03354360,84,3.0
 Lüneburg,Anteil der Personen ohne Migrationshintergrund,K03355,84,9.0
 Osterholz,Anteil der Personen ohne Migrationshintergrund,K03356,88,69.0
 Rotenburg (Wümme),Anteil der Personen ohne Migrationshintergrund,K03357,81,16.0
@@ -81,7 +81,7 @@ Stade,Anteil der Personen ohne Migrationshintergrund,K03359,80,49.0
 Verden,Anteil der Personen ohne Migrationshintergrund,K03361,80,15.0
 Stat. Region Lüneburg,Anteil der Personen ohne Migrationshintergrund,K033,82,37.0
 Delmenhorst  Stadt,Anteil der Personen ohne Migrationshintergrund,K03401,66,88.0
-Emden  Stadt / Leer,Anteil der Personen ohne Migrationshintergrund,K03402457,79,94.0
+Emden  Stadt und Leer,Anteil der Personen ohne Migrationshintergrund,K03402457,79,94.0
 Oldenburg(Oldb)  Stadt,Anteil der Personen ohne Migrationshintergrund,K03403,83,28.0
 Osnabrück  Stadt,Anteil der Personen ohne Migrationshintergrund,K03404,73,29.0
 Wilhelmshaven  Stadt,Anteil der Personen ohne Migrationshintergrund,K03405,70,69.0
@@ -121,7 +121,7 @@ Stat. Region Hannover,Anteil der Personen ohne Migrationshintergrund,K032,73,9.0
 Celle,Anteil der Personen ohne Migrationshintergrund,K03351,79,5.0
 Cuxhaven,Anteil der Personen ohne Migrationshintergrund,K03352,84,96.0
 Harburg,Anteil der Personen ohne Migrationshintergrund,K03353,80,64.0
-Lüchow-Dannenberg / Uelzen,Anteil der Personen ohne Migrationshintergrund,K03354360,86,8.0
+Lüchow-Dannenberg und Uelzen,Anteil der Personen ohne Migrationshintergrund,K03354360,86,8.0
 Lüneburg,Anteil der Personen ohne Migrationshintergrund,K03355,81,67.0
 Osterholz,Anteil der Personen ohne Migrationshintergrund,K03356,81,76.0
 Rotenburg (Wümme),Anteil der Personen ohne Migrationshintergrund,K03357,81,39.0
@@ -130,7 +130,7 @@ Stade,Anteil der Personen ohne Migrationshintergrund,K03359,79,82.0
 Verden,Anteil der Personen ohne Migrationshintergrund,K03361,81,26.0
 Stat. Region Lüneburg,Anteil der Personen ohne Migrationshintergrund,K033,81,88.0
 Delmenhorst  Stadt,Anteil der Personen ohne Migrationshintergrund,K03401,63,38.0
-Emden  Stadt / Leer,Anteil der Personen ohne Migrationshintergrund,K03402457,81,73.0
+Emden  Stadt und Leer,Anteil der Personen ohne Migrationshintergrund,K03402457,81,73.0
 Oldenburg(Oldb)  Stadt,Anteil der Personen ohne Migrationshintergrund,K03403,80,73.0
 Osnabrück  Stadt,Anteil der Personen ohne Migrationshintergrund,K03404,71,71.0
 Wilhelmshaven  Stadt,Anteil der Personen ohne Migrationshintergrund,K03405,79,33.0
@@ -170,7 +170,7 @@ Stat. Region Hannover,Anteil der Personen ohne Migrationshintergrund,K032,77,43.
 Celle,Anteil der Personen ohne Migrationshintergrund,K03351,79,9.0
 Cuxhaven,Anteil der Personen ohne Migrationshintergrund,K03352,86,95.0
 Harburg,Anteil der Personen ohne Migrationshintergrund,K03353,85,42.0
-Lüchow-Dannenberg / Uelzen,Anteil der Personen ohne Migrationshintergrund,K03354360,89,15.0
+Lüchow-Dannenberg und Uelzen,Anteil der Personen ohne Migrationshintergrund,K03354360,89,15.0
 Lüneburg,Anteil der Personen ohne Migrationshintergrund,K03355,85,6.0
 Osterholz,Anteil der Personen ohne Migrationshintergrund,K03356,82,84.0
 Rotenburg (Wümme),Anteil der Personen ohne Migrationshintergrund,K03357,83,6.0
@@ -179,7 +179,7 @@ Stade,Anteil der Personen ohne Migrationshintergrund,K03359,85,15.0
 Verden,Anteil der Personen ohne Migrationshintergrund,K03361,78,86.0
 Stat. Region Lüneburg,Anteil der Personen ohne Migrationshintergrund,K033,84,34.0
 Delmenhorst  Stadt,Anteil der Personen ohne Migrationshintergrund,K03401,66,31.0
-Emden  Stadt / Leer,Anteil der Personen ohne Migrationshintergrund,K03402457,87,48.0
+Emden  Stadt und Leer,Anteil der Personen ohne Migrationshintergrund,K03402457,87,48.0
 Oldenburg(Oldb)  Stadt,Anteil der Personen ohne Migrationshintergrund,K03403,82,66.0
 Osnabrück  Stadt,Anteil der Personen ohne Migrationshintergrund,K03404,73,16.0
 Wilhelmshaven  Stadt,Anteil der Personen ohne Migrationshintergrund,K03405,86,33.0
@@ -219,7 +219,7 @@ Stat. Region Hannover,Anteil der Personen ohne Migrationshintergrund,K032,79,28.
 Celle,Anteil der Personen ohne Migrationshintergrund,K03351,81,62.0
 Cuxhaven,Anteil der Personen ohne Migrationshintergrund,K03352,90,76.0
 Harburg,Anteil der Personen ohne Migrationshintergrund,K03353,86,23.0
-Lüchow-Dannenberg / Uelzen,Anteil der Personen ohne Migrationshintergrund,K03354360,89,12.0
+Lüchow-Dannenberg und Uelzen,Anteil der Personen ohne Migrationshintergrund,K03354360,89,12.0
 Lüneburg,Anteil der Personen ohne Migrationshintergrund,K03355,84,88.0
 Osterholz,Anteil der Personen ohne Migrationshintergrund,K03356,89,75.0
 Rotenburg (Wümme),Anteil der Personen ohne Migrationshintergrund,K03357,88,97.0
@@ -228,7 +228,7 @@ Stade,Anteil der Personen ohne Migrationshintergrund,K03359,84,32.0
 Verden,Anteil der Personen ohne Migrationshintergrund,K03361,80,72.0
 Stat. Region Lüneburg,Anteil der Personen ohne Migrationshintergrund,K033,85,89.0
 Delmenhorst  Stadt,Anteil der Personen ohne Migrationshintergrund,K03401,69,71.0
-Emden  Stadt / Leer,Anteil der Personen ohne Migrationshintergrund,K03402457,84,95.0
+Emden  Stadt und Leer,Anteil der Personen ohne Migrationshintergrund,K03402457,84,95.0
 Oldenburg(Oldb)  Stadt,Anteil der Personen ohne Migrationshintergrund,K03403,85,6.0
 Osnabrück  Stadt,Anteil der Personen ohne Migrationshintergrund,K03404,74,5.0
 Wilhelmshaven  Stadt,Anteil der Personen ohne Migrationshintergrund,K03405,83,2.0
@@ -268,7 +268,7 @@ Stat. Region Hannover,Anteil der Personen ohne Migrationshintergrund,K032,79,72.
 Celle,Anteil der Personen ohne Migrationshintergrund,K03351,82,56.0
 Cuxhaven,Anteil der Personen ohne Migrationshintergrund,K03352,88,34.0
 Harburg,Anteil der Personen ohne Migrationshintergrund,K03353,86,59.0
-Lüchow-Dannenberg / Uelzen,Anteil der Personen ohne Migrationshintergrund,K03354360,90,2.0
+Lüchow-Dannenberg und Uelzen,Anteil der Personen ohne Migrationshintergrund,K03354360,90,2.0
 Lüneburg,Anteil der Personen ohne Migrationshintergrund,K03355,86,8.0
 Osterholz,Anteil der Personen ohne Migrationshintergrund,K03356,92,25.0
 Rotenburg (Wümme),Anteil der Personen ohne Migrationshintergrund,K03357,88,98.0
@@ -277,7 +277,7 @@ Stade,Anteil der Personen ohne Migrationshintergrund,K03359,86,52.0
 Verden,Anteil der Personen ohne Migrationshintergrund,K03361,80,8.0
 Stat. Region Lüneburg,Anteil der Personen ohne Migrationshintergrund,K033,86,3.0
 Delmenhorst  Stadt,Anteil der Personen ohne Migrationshintergrund,K03401,72,75.0
-Emden  Stadt / Leer,Anteil der Personen ohne Migrationshintergrund,K03402457,87,36.0
+Emden  Stadt und Leer,Anteil der Personen ohne Migrationshintergrund,K03402457,87,36.0
 Oldenburg(Oldb)  Stadt,Anteil der Personen ohne Migrationshintergrund,K03403,85,5.0
 Osnabrück  Stadt,Anteil der Personen ohne Migrationshintergrund,K03404,71,46.0
 Wilhelmshaven  Stadt,Anteil der Personen ohne Migrationshintergrund,K03405,83,74.0
@@ -317,7 +317,7 @@ Stat. Region Hannover,Anteil der Personen ohne Migrationshintergrund,K032,79,1.0
 Celle,Anteil der Personen ohne Migrationshintergrund,K03351,82,23.0
 Cuxhaven,Anteil der Personen ohne Migrationshintergrund,K03352,86,28.0
 Harburg,Anteil der Personen ohne Migrationshintergrund,K03353,86,7.0
-Lüchow-Dannenberg / Uelzen,Anteil der Personen ohne Migrationshintergrund,K03354360,89,93.0
+Lüchow-Dannenberg und Uelzen,Anteil der Personen ohne Migrationshintergrund,K03354360,89,93.0
 Lüneburg,Anteil der Personen ohne Migrationshintergrund,K03355,87,19.0
 Osterholz,Anteil der Personen ohne Migrationshintergrund,K03356,92,62.0
 Rotenburg (Wümme),Anteil der Personen ohne Migrationshintergrund,K03357,89,22.0
@@ -326,7 +326,7 @@ Stade,Anteil der Personen ohne Migrationshintergrund,K03359,89,15.0
 Verden,Anteil der Personen ohne Migrationshintergrund,K03361,78,7.0
 Stat. Region Lüneburg,Anteil der Personen ohne Migrationshintergrund,K033,86,11.0
 Delmenhorst  Stadt,Anteil der Personen ohne Migrationshintergrund,K03401,74,89.0
-Emden  Stadt / Leer,Anteil der Personen ohne Migrationshintergrund,K03402457,85,3.0
+Emden  Stadt und Leer,Anteil der Personen ohne Migrationshintergrund,K03402457,85,3.0
 Oldenburg(Oldb)  Stadt,Anteil der Personen ohne Migrationshintergrund,K03403,84,31.0
 Osnabrück  Stadt,Anteil der Personen ohne Migrationshintergrund,K03404,68,38.0
 Wilhelmshaven  Stadt,Anteil der Personen ohne Migrationshintergrund,K03405,83,45.0
@@ -366,7 +366,7 @@ Stat. Region Hannover,Anteil der Personen ohne Migrationshintergrund,K032,80,75.
 Celle,Anteil der Personen ohne Migrationshintergrund,K03351,86,95.0
 Cuxhaven,Anteil der Personen ohne Migrationshintergrund,K03352,88,53.0
 Harburg,Anteil der Personen ohne Migrationshintergrund,K03353,87,46.0
-Lüchow-Dannenberg / Uelzen,Anteil der Personen ohne Migrationshintergrund,K03354360,89,75.0
+Lüchow-Dannenberg und Uelzen,Anteil der Personen ohne Migrationshintergrund,K03354360,89,75.0
 Lüneburg,Anteil der Personen ohne Migrationshintergrund,K03355,88,96.0
 Osterholz,Anteil der Personen ohne Migrationshintergrund,K03356,94,39.0
 Rotenburg (Wümme),Anteil der Personen ohne Migrationshintergrund,K03357,85,11.0
@@ -375,7 +375,7 @@ Stade,Anteil der Personen ohne Migrationshintergrund,K03359,90,5.0
 Verden,Anteil der Personen ohne Migrationshintergrund,K03361,82,64.0
 Stat. Region Lüneburg,Anteil der Personen ohne Migrationshintergrund,K033,87,63.0
 Delmenhorst  Stadt,Anteil der Personen ohne Migrationshintergrund,K03401,75,6.0
-Emden  Stadt / Leer,Anteil der Personen ohne Migrationshintergrund,K03402457,89,92.0
+Emden  Stadt und Leer,Anteil der Personen ohne Migrationshintergrund,K03402457,89,92.0
 Oldenburg(Oldb)  Stadt,Anteil der Personen ohne Migrationshintergrund,K03403,83,92.0
 Osnabrück  Stadt,Anteil der Personen ohne Migrationshintergrund,K03404,71,84.0
 Wilhelmshaven  Stadt,Anteil der Personen ohne Migrationshintergrund,K03405,85,81.0
@@ -415,7 +415,7 @@ Stat. Region Hannover,Anteil der Personen ohne Migrationshintergrund,K032,81,5.0
 Celle,Anteil der Personen ohne Migrationshintergrund,K03351,86,17.0
 Cuxhaven,Anteil der Personen ohne Migrationshintergrund,K03352,88,29.0
 Harburg,Anteil der Personen ohne Migrationshintergrund,K03353,89,5.0
-Lüchow-Dannenberg / Uelzen,Anteil der Personen ohne Migrationshintergrund,K03354360,87,81.0
+Lüchow-Dannenberg und Uelzen,Anteil der Personen ohne Migrationshintergrund,K03354360,87,81.0
 Lüneburg,Anteil der Personen ohne Migrationshintergrund,K03355,90,97.0
 Osterholz,Anteil der Personen ohne Migrationshintergrund,K03356,94,49.0
 Rotenburg (Wümme),Anteil der Personen ohne Migrationshintergrund,K03357,87,74.0
@@ -424,7 +424,7 @@ Stade,Anteil der Personen ohne Migrationshintergrund,K03359,88,93.0
 Verden,Anteil der Personen ohne Migrationshintergrund,K03361,83,48.0
 Stat. Region Lüneburg,Anteil der Personen ohne Migrationshintergrund,K033,88,36.0
 Delmenhorst  Stadt,Anteil der Personen ohne Migrationshintergrund,K03401,75,95.0
-Emden  Stadt / Leer,Anteil der Personen ohne Migrationshintergrund,K03402457,88,7.0
+Emden  Stadt und Leer,Anteil der Personen ohne Migrationshintergrund,K03402457,88,7.0
 Oldenburg(Oldb)  Stadt,Anteil der Personen ohne Migrationshintergrund,K03403,83,88.0
 Osnabrück  Stadt,Anteil der Personen ohne Migrationshintergrund,K03404,74,99.0
 Wilhelmshaven  Stadt,Anteil der Personen ohne Migrationshintergrund,K03405,87,54.0
@@ -464,7 +464,7 @@ Stat. Region Hannover,Anteil der Personen mit Migrationshintergrund im weiteren 
 Celle,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03351,19,3.0
 Cuxhaven,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03352,15,62.0
 Harburg,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03353,21,1.0
-Lüchow-Dannenberg / Uelzen,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03354360,16,24.0
+Lüchow-Dannenberg und Uelzen,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03354360,16,24.0
 Lüneburg,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03355,16,66.0
 Osterholz,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03356,14,25.0
 Rotenburg (Wümme),Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03357,15,38.0
@@ -473,7 +473,7 @@ Stade,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03359,17,
 Verden,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03361,19,86.0
 Stat. Region Lüneburg,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K033,17,98.0
 Delmenhorst  Stadt,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03401,33,89.0
-Emden  Stadt / Leer,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03402457,17,9.0
+Emden  Stadt und Leer,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03402457,17,9.0
 Oldenburg(Oldb)  Stadt,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03403,17,4.0
 Osnabrück  Stadt,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03404,29,4.0
 Wilhelmshaven  Stadt,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03405,24,31.0
@@ -513,7 +513,7 @@ Stat. Region Hannover,Anteil der Personen mit Migrationshintergrund im weiteren 
 Celle,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03351,19,1.0
 Cuxhaven,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03352,15,67.0
 Harburg,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03353,19,63.0
-Lüchow-Dannenberg / Uelzen,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03354360,15,7.0
+Lüchow-Dannenberg und Uelzen,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03354360,15,7.0
 Lüneburg,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03355,15,1.0
 Osterholz,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03356,11,31.0
 Rotenburg (Wümme),Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03357,18,84.0
@@ -522,7 +522,7 @@ Stade,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03359,19,
 Verden,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03361,19,85.0
 Stat. Region Lüneburg,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K033,17,63.0
 Delmenhorst  Stadt,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03401,33,12.0
-Emden  Stadt / Leer,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03402457,20,6.0
+Emden  Stadt und Leer,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03402457,20,6.0
 Oldenburg(Oldb)  Stadt,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03403,16,72.0
 Osnabrück  Stadt,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03404,26,71.0
 Wilhelmshaven  Stadt,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03405,29,31.0
@@ -562,7 +562,7 @@ Stat. Region Hannover,Anteil der Personen mit Migrationshintergrund im weiteren 
 Celle,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03351,20,5.0
 Cuxhaven,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03352,15,4.0
 Harburg,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03353,19,36.0
-Lüchow-Dannenberg / Uelzen,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03354360,13,2.0
+Lüchow-Dannenberg und Uelzen,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03354360,13,2.0
 Lüneburg,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03355,18,33.0
 Osterholz,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03356,18,24.0
 Rotenburg (Wümme),Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03357,18,61.0
@@ -571,7 +571,7 @@ Stade,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03359,20,
 Verden,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03361,18,74.0
 Stat. Region Lüneburg,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K033,18,12.0
 Delmenhorst  Stadt,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03401,36,62.0
-Emden  Stadt / Leer,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03402457,18,27.0
+Emden  Stadt und Leer,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03402457,18,27.0
 Oldenburg(Oldb)  Stadt,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03403,19,27.0
 Osnabrück  Stadt,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03404,28,29.0
 Wilhelmshaven  Stadt,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03405,20,67.0
@@ -611,7 +611,7 @@ Stat. Region Hannover,Anteil der Personen mit Migrationshintergrund im weiteren 
 Celle,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03351,20,91.0
 Cuxhaven,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03352,13,5.0
 Harburg,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03353,14,58.0
-Lüchow-Dannenberg / Uelzen,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03354360,10,85.0
+Lüchow-Dannenberg und Uelzen,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03354360,10,85.0
 Lüneburg,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03355,14,4.0
 Osterholz,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03356,17,16.0
 Rotenburg (Wümme),Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03357,16,4.0
@@ -620,7 +620,7 @@ Stade,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03359,14,
 Verden,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03361,21,14.0
 Stat. Region Lüneburg,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K033,15,66.0
 Delmenhorst  Stadt,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03401,33,69.0
-Emden  Stadt / Leer,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03402457,12,52.0
+Emden  Stadt und Leer,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03402457,12,52.0
 Oldenburg(Oldb)  Stadt,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03403,17,34.0
 Osnabrück  Stadt,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03404,26,84.0
 Wilhelmshaven  Stadt,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03405,13,67.0
@@ -660,7 +660,7 @@ Stat. Region Hannover,Anteil der Personen mit Migrationshintergrund im weiteren 
 Celle,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03351,18,38.0
 Cuxhaven,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03352,9,24.0
 Harburg,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03353,13,77.0
-Lüchow-Dannenberg / Uelzen,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03354360,10,88.0
+Lüchow-Dannenberg und Uelzen,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03354360,10,88.0
 Lüneburg,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03355,15,12.0
 Osterholz,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03356,10,25.0
 Rotenburg (Wümme),Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03357,11,3.0
@@ -669,7 +669,7 @@ Stade,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03359,15,
 Verden,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03361,19,28.0
 Stat. Region Lüneburg,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K033,14,11.0
 Delmenhorst  Stadt,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03401,30,29.0
-Emden  Stadt / Leer,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03402457,15,5.0
+Emden  Stadt und Leer,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03402457,15,5.0
 Oldenburg(Oldb)  Stadt,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03403,14,94.0
 Osnabrück  Stadt,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03404,25,95.0
 Wilhelmshaven  Stadt,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03405,16,8.0
@@ -709,7 +709,7 @@ Stat. Region Hannover,Anteil der Personen mit Migrationshintergrund im weiteren 
 Celle,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03351,17,44.0
 Cuxhaven,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03352,11,66.0
 Harburg,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03353,13,41.0
-Lüchow-Dannenberg / Uelzen,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03354360,9,98.0
+Lüchow-Dannenberg und Uelzen,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03354360,9,98.0
 Lüneburg,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03355,13,2.0
 Osterholz,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03356,7,75.0
 Rotenburg (Wümme),Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03357,11,2.0
@@ -718,7 +718,7 @@ Stade,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03359,13,
 Verden,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03361,19,92.0
 Stat. Region Lüneburg,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K033,13,7.0
 Delmenhorst  Stadt,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03401,27,25.0
-Emden  Stadt / Leer,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03402457,12,64.0
+Emden  Stadt und Leer,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03402457,12,64.0
 Oldenburg(Oldb)  Stadt,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03403,14,5.0
 Osnabrück  Stadt,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03404,28,54.0
 Wilhelmshaven  Stadt,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03405,16,26.0
@@ -758,7 +758,7 @@ Stat. Region Hannover,Anteil der Personen mit Migrationshintergrund im weiteren 
 Celle,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03351,17,77.0
 Cuxhaven,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03352,13,72.0
 Harburg,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03353,13,93.0
-Lüchow-Dannenberg / Uelzen,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03354360,10,7.0
+Lüchow-Dannenberg und Uelzen,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03354360,10,7.0
 Lüneburg,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03355,12,81.0
 Osterholz,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03356,7,38.0
 Rotenburg (Wümme),Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03357,10,78.0
@@ -767,7 +767,7 @@ Stade,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03359,10,
 Verden,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03361,21,93.0
 Stat. Region Lüneburg,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K033,13,89.0
 Delmenhorst  Stadt,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03401,25,11.0
-Emden  Stadt / Leer,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03402457,14,97.0
+Emden  Stadt und Leer,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03402457,14,97.0
 Oldenburg(Oldb)  Stadt,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03403,15,69.0
 Osnabrück  Stadt,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03404,31,62.0
 Wilhelmshaven  Stadt,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03405,16,55.0
@@ -807,7 +807,7 @@ Stat. Region Hannover,Anteil der Personen mit Migrationshintergrund im weiteren 
 Celle,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03351,13,5.0
 Cuxhaven,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03352,11,47.0
 Harburg,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03353,12,54.0
-Lüchow-Dannenberg / Uelzen,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03354360,10,25.0
+Lüchow-Dannenberg und Uelzen,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03354360,10,25.0
 Lüneburg,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03355,11,4.0
 Osterholz,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03356,5,61.0
 Rotenburg (Wümme),Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03357,14,89.0
@@ -816,7 +816,7 @@ Stade,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03359,9,9
 Verden,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03361,17,36.0
 Stat. Region Lüneburg,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K033,12,37.0
 Delmenhorst  Stadt,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03401,24,94.0
-Emden  Stadt / Leer,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03402457,10,8.0
+Emden  Stadt und Leer,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03402457,10,8.0
 Oldenburg(Oldb)  Stadt,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03403,16,8.0
 Osnabrück  Stadt,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03404,28,16.0
 Wilhelmshaven  Stadt,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03405,14,19.0
@@ -856,7 +856,7 @@ Stat. Region Hannover,Anteil der Personen mit Migrationshintergrund im weiteren 
 Celle,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03351,13,83.0
 Cuxhaven,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03352,11,71.0
 Harburg,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03353,10,95.0
-Lüchow-Dannenberg / Uelzen,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03354360,12,19.0
+Lüchow-Dannenberg und Uelzen,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03354360,12,19.0
 Lüneburg,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03355,9,3.0
 Osterholz,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03356,5,51.0
 Rotenburg (Wümme),Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03357,12,26.0
@@ -865,7 +865,7 @@ Stade,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03359,11,
 Verden,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03361,16,52.0
 Stat. Region Lüneburg,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K033,11,64.0
 Delmenhorst  Stadt,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03401,24,5.0
-Emden  Stadt / Leer,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03402457,11,93.0
+Emden  Stadt und Leer,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03402457,11,93.0
 Oldenburg(Oldb)  Stadt,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03403,16,12.0
 Osnabrück  Stadt,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03404,25,1.0
 Wilhelmshaven  Stadt,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,K03405,12,46.0
@@ -905,7 +905,7 @@ Stat. Region Hannover,Anteil der Personen mit Migrationshintergrund im engeren S
 Celle,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03351,17,78.0
 Cuxhaven,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03352,14,7.0
 Harburg,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03353,19,66.0
-Lüchow-Dannenberg / Uelzen,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03354360,15,4.0
+Lüchow-Dannenberg und Uelzen,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03354360,15,4.0
 Lüneburg,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03355,15,1.0
 Osterholz,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03356,12,59.0
 Rotenburg (Wümme),Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03357,14,9.0
@@ -914,7 +914,7 @@ Stade,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03359,16,6
 Verden,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03361,18,92.0
 Stat. Region Lüneburg,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K033,16,74.0
 Delmenhorst  Stadt,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03401,32,37.0
-Emden  Stadt / Leer,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03402457,16,47.0
+Emden  Stadt und Leer,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03402457,16,47.0
 Oldenburg(Oldb)  Stadt,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03403,15,85.0
 Osnabrück  Stadt,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03404,27,81.0
 Wilhelmshaven  Stadt,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03405,23,69.0
@@ -954,7 +954,7 @@ Stat. Region Hannover,Anteil der Personen mit Migrationshintergrund im engeren S
 Celle,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03351,18,21.0
 Cuxhaven,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03352,14,51.0
 Harburg,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03353,18,43.0
-Lüchow-Dannenberg / Uelzen,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03354360,14,37.0
+Lüchow-Dannenberg und Uelzen,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03354360,14,37.0
 Lüneburg,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03355,14,19.0
 Osterholz,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03356,9,34.0
 Rotenburg (Wümme),Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03357,17,59.0
@@ -963,7 +963,7 @@ Stade,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03359,18,6
 Verden,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03361,19,1.0
 Stat. Region Lüneburg,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K033,16,53.0
 Delmenhorst  Stadt,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03401,32,2.0
-Emden  Stadt / Leer,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03402457,19,38.0
+Emden  Stadt und Leer,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03402457,19,38.0
 Oldenburg(Oldb)  Stadt,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03403,15,58.0
 Osnabrück  Stadt,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03404,24,79.0
 Wilhelmshaven  Stadt,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03405,28,67.0
@@ -1003,7 +1003,7 @@ Stat. Region Hannover,Anteil der Personen mit Migrationshintergrund im engeren S
 Celle,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03351,19,24.0
 Cuxhaven,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03352,13,91.0
 Harburg,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03353,18,14.0
-Lüchow-Dannenberg / Uelzen,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03354360,12,23.0
+Lüchow-Dannenberg und Uelzen,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03354360,12,23.0
 Lüneburg,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03355,17,36.0
 Osterholz,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03356,17,19.0
 Rotenburg (Wümme),Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03357,17,44.0
@@ -1012,7 +1012,7 @@ Stade,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03359,18,7
 Verden,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03361,17,44.0
 Stat. Region Lüneburg,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K033,16,95.0
 Delmenhorst  Stadt,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03401,35,66.0
-Emden  Stadt / Leer,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03402457,17,71.0
+Emden  Stadt und Leer,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03402457,17,71.0
 Oldenburg(Oldb)  Stadt,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03403,17,93.0
 Osnabrück  Stadt,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03404,26,77.0
 Wilhelmshaven  Stadt,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03405,19,69.0
@@ -1052,7 +1052,7 @@ Stat. Region Hannover,Anteil der Personen mit Migrationshintergrund im engeren S
 Celle,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03351,20,91.0
 Cuxhaven,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03352,13,5.0
 Harburg,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03353,14,58.0
-Lüchow-Dannenberg / Uelzen,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03354360,10,85.0
+Lüchow-Dannenberg und Uelzen,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03354360,10,85.0
 Lüneburg,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03355,14,4.0
 Osterholz,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03356,17,16.0
 Rotenburg (Wümme),Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03357,16,4.0
@@ -1061,7 +1061,7 @@ Stade,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03359,14,8
 Verden,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03361,21,14.0
 Stat. Region Lüneburg,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K033,15,66.0
 Delmenhorst  Stadt,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03401,33,69.0
-Emden  Stadt / Leer,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03402457,12,52.0
+Emden  Stadt und Leer,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03402457,12,52.0
 Oldenburg(Oldb)  Stadt,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03403,17,34.0
 Osnabrück  Stadt,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03404,26,84.0
 Wilhelmshaven  Stadt,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03405,13,67.0
@@ -1101,7 +1101,7 @@ Stat. Region Hannover,Anteil der Personen mit Migrationshintergrund im engeren S
 Celle,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03351,18,38.0
 Cuxhaven,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03352,9,24.0
 Harburg,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03353,13,77.0
-Lüchow-Dannenberg / Uelzen,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03354360,10,88.0
+Lüchow-Dannenberg und Uelzen,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03354360,10,88.0
 Lüneburg,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03355,15,12.0
 Osterholz,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03356,10,25.0
 Rotenburg (Wümme),Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03357,11,3.0
@@ -1110,7 +1110,7 @@ Stade,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03359,15,6
 Verden,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03361,19,28.0
 Stat. Region Lüneburg,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K033,14,11.0
 Delmenhorst  Stadt,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03401,30,29.0
-Emden  Stadt / Leer,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03402457,15,5.0
+Emden  Stadt und Leer,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03402457,15,5.0
 Oldenburg(Oldb)  Stadt,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03403,14,94.0
 Osnabrück  Stadt,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03404,25,95.0
 Wilhelmshaven  Stadt,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03405,16,8.0
@@ -1150,7 +1150,7 @@ Stat. Region Hannover,Anteil der Personen mit Migrationshintergrund im engeren S
 Celle,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03351,17,44.0
 Cuxhaven,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03352,11,66.0
 Harburg,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03353,13,41.0
-Lüchow-Dannenberg / Uelzen,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03354360,9,98.0
+Lüchow-Dannenberg und Uelzen,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03354360,9,98.0
 Lüneburg,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03355,13,2.0
 Osterholz,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03356,7,75.0
 Rotenburg (Wümme),Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03357,11,2.0
@@ -1159,7 +1159,7 @@ Stade,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03359,13,4
 Verden,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03361,19,92.0
 Stat. Region Lüneburg,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K033,13,7.0
 Delmenhorst  Stadt,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03401,27,25.0
-Emden  Stadt / Leer,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03402457,12,64.0
+Emden  Stadt und Leer,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03402457,12,64.0
 Oldenburg(Oldb)  Stadt,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03403,14,5.0
 Osnabrück  Stadt,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03404,28,54.0
 Wilhelmshaven  Stadt,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03405,16,26.0
@@ -1199,7 +1199,7 @@ Stat. Region Hannover,Anteil der Personen mit Migrationshintergrund im engeren S
 Celle,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03351,16,99.0
 Cuxhaven,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03352,13,19.0
 Harburg,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03353,12,62.0
-Lüchow-Dannenberg / Uelzen,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03354360,9,38.0
+Lüchow-Dannenberg und Uelzen,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03354360,9,38.0
 Lüneburg,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03355,12,68.0
 Osterholz,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03356,7,4.0
 Rotenburg (Wümme),Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03357,10,14.0
@@ -1208,7 +1208,7 @@ Stade,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03359,10,4
 Verden,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03361,21,13.0
 Stat. Region Lüneburg,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K033,13,24.0
 Delmenhorst  Stadt,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03401,23,7.0
-Emden  Stadt / Leer,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03402457,14,85.0
+Emden  Stadt und Leer,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03402457,14,85.0
 Oldenburg(Oldb)  Stadt,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03403,14,31.0
 Osnabrück  Stadt,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03404,30,54.0
 Wilhelmshaven  Stadt,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03405,16,39.0
@@ -1248,7 +1248,7 @@ Stat. Region Hannover,Anteil der Personen mit Migrationshintergrund im engeren S
 Celle,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03351,13,5.0
 Cuxhaven,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03352,11,47.0
 Harburg,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03353,12,54.0
-Lüchow-Dannenberg / Uelzen,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03354360,10,25.0
+Lüchow-Dannenberg und Uelzen,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03354360,10,25.0
 Lüneburg,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03355,11,4.0
 Osterholz,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03356,5,61.0
 Rotenburg (Wümme),Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03357,14,89.0
@@ -1257,7 +1257,7 @@ Stade,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03359,9,95
 Verden,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03361,17,36.0
 Stat. Region Lüneburg,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K033,12,37.0
 Delmenhorst  Stadt,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03401,24,94.0
-Emden  Stadt / Leer,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03402457,10,8.0
+Emden  Stadt und Leer,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03402457,10,8.0
 Oldenburg(Oldb)  Stadt,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03403,16,8.0
 Osnabrück  Stadt,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03404,28,16.0
 Wilhelmshaven  Stadt,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03405,14,19.0
@@ -1297,7 +1297,7 @@ Stat. Region Hannover,Anteil der Personen mit Migrationshintergrund im engeren S
 Celle,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03351,13,83.0
 Cuxhaven,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03352,11,71.0
 Harburg,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03353,10,95.0
-Lüchow-Dannenberg / Uelzen,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03354360,12,19.0
+Lüchow-Dannenberg und Uelzen,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03354360,12,19.0
 Lüneburg,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03355,9,3.0
 Osterholz,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03356,5,51.0
 Rotenburg (Wümme),Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03357,12,26.0
@@ -1306,7 +1306,7 @@ Stade,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03359,11,7
 Verden,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03361,16,52.0
 Stat. Region Lüneburg,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K033,11,64.0
 Delmenhorst  Stadt,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03401,24,5.0
-Emden  Stadt / Leer,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03402457,11,93.0
+Emden  Stadt und Leer,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03402457,11,93.0
 Oldenburg(Oldb)  Stadt,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03403,16,12.0
 Osnabrück  Stadt,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03404,25,1.0
 Wilhelmshaven  Stadt,Anteil der Personen mit Migrationshintergrund im engeren Sinne,K03405,12,46.0
