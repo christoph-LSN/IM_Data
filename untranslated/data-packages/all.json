@@ -2531,20 +2531,88 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Gebietseinheit",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                "G",
+                "Niedersachsen",
+                "Stat. Region Braunschweig",
+                "Braunschweig  Stadt",
+                "Salzgitter  Stadt",
+                "Wolfsburg  Stadt",
+                "Gifhorn",
+                "Goslar",
+                "Helmstedt",
+                "Northeim",
+                "Peine",
+                "Wolfenbüttel",
+                "Göttingen",
+                "Stat. Region Hannover",
+                "Hannover  Region",
+                "   dav. Hannover  Lhst.",
+                "   dav. Hannover  Umland",
+                "Diepholz",
+                "Hameln-Pyrmont",
+                "Hildesheim",
+                "Holzminden",
+                "Nienburg (Weser)",
+                "Schaumburg",
+                "Stat. Region Lüneburg",
+                "Celle",
+                "Cuxhaven",
+                "Harburg",
+                "Lüchow-Dannenberg",
+                "Lüneburg",
+                "Osterholz",
+                "Rotenburg (Wümme)",
+                "Heidekreis",
+                "Stade",
+                "Uelzen",
+                "Verden",
+                "Stat. Region Weser-Ems",
+                "Delmenhorst  Stadt",
+                "Emden  Stadt",
+                "Oldenburg(Oldb)  Stadt",
+                "Osnabrück  Stadt",
+                "Wilhelmshaven  Stadt",
+                "Ammerland",
+                "Aurich",
+                "Cloppenburg",
+                "Emsland",
+                "Friesland",
+                "Grafschaft Bentheim",
+                "Leer",
+                "Oldenburg",
+                "Osnabrück",
+                "Vechta",
+                "Wesermarsch",
+                "Wittmund",
                 ""
               ]
             }
           },
           {
+            "name": "Aufenthaltsdauer in Jahren",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0 Jahre",
+                "1 - 3 Jahre",
+                "4 - 5 Jahre",
+                "6 - 7 Jahre",
+                "8 - 9 Jahre",
+                "10 u. mehr Jahre",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
