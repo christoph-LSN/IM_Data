@@ -39,12 +39,11 @@
                 "Entlassungen aus dem Berufsvorbereitungsjahr",
                 "Ohne erfolgreichen Besuch/Abschluss",
                 "Erreichte Abschlüsse insgesamt",
-                "   nachrichtlich: Abbruch im laufenden Schuljahr",
+                "nachrichtlich: Abbruch im laufenden Schuljahr",
                 "erfolgreicher Besuch",
                 "Entlassung aus dem Berufsvorbereitungsjahr",
                 "ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.",
                 "ohne erfolgreichen Besuch/Abschluss",
-                "nachrichtlich: Abbruch im laufenden Schuljahr",
                 ""
               ]
             }
@@ -70,7 +69,7 @@
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       }
