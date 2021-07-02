@@ -101,7 +101,7 @@ reporting_status_extra_fields: []
 #    filename_prefix: indicator_
 
 map_layers:
-  - 
+  -
     geojson_file: NI_Kurz_diss.geojson
     name_property: GEN
     id_property: AGS
@@ -109,13 +109,13 @@ map_layers:
     filename_prefix: indicator_
     exclude_columns: ['Gebietseinheit']
 
-  - 
-    geojson_file: maps/NI_Kurz_Mikrozensus_Diss.geojson #maps\NI_Kurz_Mikrozensus_Diss.geojson
-    name_property: GENMZ
-    id_property: AGSMZ
-    output_subfolder: maps
-    filename_prefix: indicator_
-    exclude_columns: ['Gebietseinheit']
+  #-
+  #  geojson_file: maps/NI_Kurz_Mikrozensus_Diss.geojson #maps\NI_Kurz_Mikrozensus_Diss.geojson
+  #  name_property: GENMZ
+  #  id_property: AGSMZ
+  #  output_subfolder: maps
+  #  filename_prefix: indicator_
+  #  exclude_columns: ['Gebietseinheit']
 
   -
     geojson_file: worldmap/world_custom.geojson
