@@ -2490,6 +2490,7 @@
                 "ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.",
                 "ohne erfolgreichen Besuch/Abschluss",
                 "nachrichtlich: Abbruch im laufenden Schuljahr",
+                "ohne erfolgr. Besuch m. gle",
                 ""
               ]
             }
@@ -2507,14 +2508,13 @@
                 "Fachoberschule",
                 "Berufsoberschule",
                 "Berufl. Gymnasium",
-                "Fachschule",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
