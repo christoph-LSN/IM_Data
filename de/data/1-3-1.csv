@@ -1,7 +1,47 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,G,200
+Year,Gebietseinheit,GeoCode,Value
+2020,Hameln-Pyrmont,K03252,64
+2020,Verden,K03361,22
+2020,Cuxhaven,K03352,95
+2020,Ammerland,K03451,29
+2020,Rotenburg (Wümme),K03357,2
+2020,Osnabrück,K03404,77
+2020,Bremen,K04011,91
+2020,Osterholz,K03356,27
+2020,Wilhelmshaven,K03405,21
+2020,Friesland / Wittmund,K03455462,4
+2020,Wesermarsch,K03461,4
+2020,Leer,K03457,64
+2020,Goslar,K03153,12
+2020,Peine,K03157,53
+2020,Stade,K03359,36
+2020,Schaumburg,K03257,71
+2020,Braunschweig,K03101,21
+2020,Wolfsburg,K03103,93
+2020,Aurich,K03452,68
+2020,Vechta,K03460,33
+2020,Lüchow Dannenberg / Uelzen,K03354360,25
+2020,Gifhorn,K03151,98
+2020,Oldenburg (Oldb),K03403,59
+2020,Delmenhorst,K03401,42
+2020,Northeim,K03155,77
+2020,Lüneburg,K03355,36
+2020,Emden,K03402,11
+2020,Wolfenbüttel,K03158,76
+2020,Holzminden,K03255,21
+2020,Grafschaft Bentheim,K03456,22
+2020,Osnabrück,K03459,15
+2020,Oldenburg,K03458,45
+2020,Göttingen,K03159,25
+2020,Salzgitter,K03102,77
+2020,Harburg,K03353,19
+2020,Region Hannover,K03241,95
+2020,Hildesheim,K03254,6
+2020,Celle,K03351,78
+2020,Heidekreis,K03358,71
+2020,Nienburg (Weser),K03256,15
+2020,Diepholz,K03251,79
+2020,Emsland,K03454,25
+2020,Bremerhaven,K04012,16
+2020,Cloppenburg,K03453,16
+2020,Helmstedt,K03154,49
+2020,Lhst. Hannover,K03241001,18
