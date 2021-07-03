@@ -117,12 +117,12 @@ map_layers:
 #    filename_prefix: indicator_
 #    exclude_columns: ['Gebietseinheit']
 
-#  -
-#    geojson_file: worldmap/world_custom.geojson
-#    name_property: name_long
-#    id_property: LAGS
-#    output_subfolder: worldmap
-#    filename_prefix: indicator_
+  -
+    geojson_file: worldmap/world_custom.geojson
+    name_property: name_long
+    id_property: LAGS
+    output_subfolder: worldmap
+    filename_prefix: indicator_
 
 #  -
 #    geojson_file: worldmap/world_custom.geojson
