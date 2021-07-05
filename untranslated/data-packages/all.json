@@ -468,16 +468,6 @@
             "constraints": {
               "enum": [
                 "Geflüchtete und geduldete Personen insgesamt",
-                "Niederlassungserlaubnis",
-                "Asylberechtigte und GFK-Flüchtlinge",
-                "Aufnahmeerklärung vor Schutz Resettlement Kontingentflüchtlinge",
-                "Verbot der Abschiebung Subsidiärer Schutz1)",
-                "Unmöglichkeit d. Ausreise aus rechtl. oder tats. Gründen",
-                "Bleiberecht (Aufenthaltsgewährung) und Opfer von Menschenhandel und organisierter Schwarzarbeit",
-                "Dringende persönliche o. humanitäre Gründe Härtefälle",
-                "Aufenthaltsgestattung zum Asylverfahren",
-                "Duldung",
-                "Familiennachzug",
                 ""
               ]
             }
@@ -762,7 +752,7 @@
           }
         ]
       },
-      "title": "global_indicators.11-2-4-title"
+      "title": "global_indicators.2-1-5-title"
     },
     {
       "path": "1-3-2/data.csv",
@@ -3699,7 +3689,7 @@
           }
         ]
       },
-      "title": "global_indicators.11-2-3-title"
+      "title": "global_indicators.2-1-4-title"
     },
     {
       "path": "6-3-1/data.csv",
