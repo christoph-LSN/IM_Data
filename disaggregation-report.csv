@@ -2,13 +2,14 @@ Disaggregation,Number of indicators,Number of values
 Abschiebungen,1,2
 Altersgruppe,1,2
 Asylanträge,1,1
-Aufenthaltsdauer in Jahren,2,12
+Aufenthaltsdauer in Jahren,1,6
+Aufenthaltsdauer,1,6
 Aufenthaltstitel,10,11
 Besuchte Schule,2,10
 Durchschnittliche Bewohnerzahl in der Landesaufnahmebehörde Niedersachsen (LAB NI),1,2
 Erreichter Abschluss,2,16
 Gebietseinheit,20,15
-Geschlecht,1,2
+Geschlecht,2,5
 Group,33,4
 Kategorie,2,8
 Migrationshintergrund,1,3

@@ -3377,8 +3377,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Niedersachsen",
-                "Stat. Region Braunschweig",
                 "Braunschweig  Stadt",
                 "Salzgitter  Stadt",
                 "Wolfsburg  Stadt",
@@ -3389,7 +3387,7 @@
                 "Peine",
                 "Wolfenbüttel",
                 "Göttingen",
-                "Stat. Region Hannover",
+                "Stat. Region Braunschweig",
                 "Hannover  Region",
                 "dav. Hannover  Lhst.",
                 "dav. Hannover  Umland",
@@ -3399,7 +3397,7 @@
                 "Holzminden",
                 "Nienburg (Weser)",
                 "Schaumburg",
-                "Stat. Region Lüneburg",
+                "Stat. Region Hannover",
                 "Celle",
                 "Cuxhaven",
                 "Harburg",
@@ -3411,7 +3409,7 @@
                 "Stade",
                 "Uelzen",
                 "Verden",
-                "Stat. Region Weser-Ems",
+                "Stat. Region Lüneburg",
                 "Delmenhorst  Stadt",
                 "Emden  Stadt",
                 "Oldenburg(Oldb)  Stadt",
@@ -3429,26 +3427,42 @@
                 "Vechta",
                 "Wesermarsch",
                 "Wittmund",
+                "Stat. Region Weser-Ems",
+                "Niedersachsen",
+                ".",
                 ""
               ]
             },
             "title": "Gebietseinheit"
           },
           {
-            "name": "Aufenthaltsdauer in Jahren",
+            "name": "Aufenthaltsdauer",
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
-                "1 - 3",
-                "4 - 5",
-                "6 - 7",
-                "8 - 9",
-                "10 u.m.",
+                "unter 1",
+                "1 - 4",
+                "4 - 6",
+                "6 - 8",
+                "8 - 10",
+                "10 und mehr",
                 ""
               ]
             },
-            "title": "Aufenthaltsdauer in Jahren"
+            "title": "Aufenthaltsdauer"
+          },
+          {
+            "name": "Geschlecht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "männlich",
+                "weiblich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
           },
           {
             "name": "GeoCode",
