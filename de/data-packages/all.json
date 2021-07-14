@@ -1919,21 +1919,99 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                "G",
+                "number",
+                "%",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Units"
+          },
+          {
+            "name": "Gebietseinheit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Braunschweig  Stadt",
+                "Salzgitter  Stadt",
+                "Wolfsburg  Stadt",
+                "Gifhorn",
+                "Goslar",
+                "Helmstedt",
+                "Northeim",
+                "Peine",
+                "Wolfenbüttel",
+                "Göttingen",
+                "Stat. Region Braunschweig",
+                "Hannover  Region",
+                "dav. Hannover  Lhst.",
+                "dav. Hannover  Umland",
+                "Diepholz",
+                "Hameln-Pyrmont",
+                "Hildesheim",
+                "Holzminden",
+                "Nienburg (Weser)",
+                "Schaumburg",
+                "Stat. Region Hannover",
+                "Celle",
+                "Cuxhaven",
+                "Harburg",
+                "Lüchow-Dannenberg",
+                "Lüneburg",
+                "Osterholz",
+                "Rotenburg (Wümme)",
+                "Heidekreis",
+                "Stade",
+                "Uelzen",
+                "Verden",
+                "Stat. Region Lüneburg",
+                "Delmenhorst  Stadt",
+                "Emden  Stadt",
+                "Oldenburg(Oldb)  Stadt",
+                "Osnabrück  Stadt",
+                "Wilhelmshaven  Stadt",
+                "Ammerland",
+                "Aurich",
+                "Cloppenburg",
+                "Emsland",
+                "Friesland",
+                "Grafschaft Bentheim",
+                "Leer",
+                "Oldenburg",
+                "Osnabrück",
+                "Vechta",
+                "Wesermarsch",
+                "Wittmund",
+                "Stat. Region Weser-Ems",
+                "Niedersachsen",
+                ""
+              ]
+            },
+            "title": "Gebietseinheit"
+          },
+          {
+            "name": "Kinderbetreuung",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kinder im Alter von unter 3 Jahren mit ausländischer Herkunft mindestens eines Elternteils",
+                "Kinder im Alter von 3 bis unter 6 Jahren mit ausländischer Herkunft mindestens eines Elternteils",
+                ""
+              ]
+            },
+            "title": "Kinderbetreuung"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
