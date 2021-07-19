@@ -2829,21 +2829,36 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Gebietseinheit",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                "F",
+                "Niedersachsen",
+                "Deutschland",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Gebietseinheit"
+          },
+          {
+            "name": "Kategorie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt bis unter 3 Jahre",
+                "Insgesamt 3 bis unter 6 Jahre",
+                "Kinder mit Migrationshintergrund bis unter 3 Jahre",
+                "Kinder mit Migrationshintergrund 3 bis unter 6 Jahre",
+                "Kinder ohne Migrationshintergrund bis unter 3 Jahre",
+                "Kinder ohne Migrationshintergrund 3 bis unter 6 Jahre",
+                ""
+              ]
+            },
+            "title": "Kategorie"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
