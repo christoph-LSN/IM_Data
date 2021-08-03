@@ -619,17 +619,6 @@
             "type": "integer"
           },
           {
-            "name": "Nationalität",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ausländerinnen und Ausländer",
-                "Deutsche",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Gebietseinheit",
             "type": "string",
             "constraints": {
@@ -686,6 +675,26 @@
                 "Wittmund",
                 "Stat. Region Weser-Ems",
                 "Niedersachsen",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Nationalität",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ausländerinnen und Ausländer",
+                "Deutsche",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unnamed: 3",
+            "type": "number",
+            "constraints": {
+              "enum": [
                 ""
               ]
             }
