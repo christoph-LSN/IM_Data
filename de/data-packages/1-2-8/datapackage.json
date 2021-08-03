@@ -90,16 +90,6 @@
             "title": "Nationalität"
           },
           {
-            "name": "Unnamed: 3",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Unnamed: 3"
-          },
-          {
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
