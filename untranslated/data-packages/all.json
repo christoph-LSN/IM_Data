@@ -993,7 +993,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "number",
+                "Anzahl",
                 "%",
                 ""
               ]
