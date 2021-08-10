@@ -874,21 +874,48 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Altersgruppe",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                "G",
+                "18 – 25",
+                "25 – 45",
+                "45 – 65",
+                "65 und älter",
+                "Insgesamt",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Altersgruppe"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "in 1000",
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Geschlecht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Männlich",
+                "Weiblich",
+                "Insgesamt",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

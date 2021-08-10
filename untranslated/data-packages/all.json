@@ -825,20 +825,45 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Altersgruppe",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                "G",
+                "18 – 25",
+                "25 – 45",
+                "45 – 65",
+                "65 und älter",
+                "Insgesamt",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "in 1000",
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geschlecht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Männlich",
+                "Weiblich",
+                "Insgesamt",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
