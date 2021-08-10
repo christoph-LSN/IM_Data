@@ -28,93 +28,13 @@ prose:
             label: "Layout"
             translation_key: metadata_fields.layout
             scope: page
-    ######### Global Metadata #########
-    #  - name: "indicator_name"
-    #    field:
-    #        element: text
-    #        label: "Indicator name"
-    #        translation_key: metadata_fields.indicator_name
-    #        scope: global
-    #  - name: "indicator_number"
-    #    field:
-    #        element: hidden
-    #        label: "Indicator number"
-    #        translation_key: metadata_fields.indicator
-    #        scope: global
-    #  - name: "target_name"
-    #    field:
-    #        element: text
-    #        label: "Target name"
-    #        translation_key: metadata_fields.target
-    #        scope: global
-    #  - name: "target_id"
-    #    field:
-    #        element: text
-    #        label: "Target number"
-    #        translation_key: metadata_fields.target_id
-    #        scope: global
-    #  - name: "indicator_definition"
-    #    field:
-    #        element: textarea
-    #        label: "Global indicator description"
-    #        translation_key: metadata_fields.indicator_definition
-    #        scope: global
-    #  - name: "un_designated_tier"
-    #    field:
-    #        element: text
-    #        label: "UN designated tier"
-    #        translation_key: metadata_fields.un_designated_tier
-    #        scope: global
-    #  - name: "un_custodian_agency"
-    #    field:
-    #        element: text
-    #        label: "UN custodian agency"
-    #        translation_key: metadata_fields.un_custodian_agency
-    #        scope: global
-    #  - name: "goal_meta_link"
-    #    field:
-    #        element: text
-    #        label: "Link to UN metadata"
-    #        translation_key: metadata_fields.goal_meta_link
-    #        scope: global
-    #  - name: "goal_meta_link_text"
-    #    field:
-    #        element: text
-    #        label: "Link to UN metadata text"
-    #        translation_key: metadata_fields.goal_meta_link_text
-    #        value: "UN metadata"
-    #        scope: global
-      ######### National Metadata #########
-    #  - name: "national_indicator_available"
-    #    field:
-    #        element: text
-    #        label: "Indicator available"
-    #        translation_key: metadata_fields.national_indicator_available
-    #        scope: national
+    ######### Global Metadata Indikator Beschreibung #########
       - name: "national_indicator_description"
         field:
             element: textarea
             label: "Definition des Indikators"
             translation_key: metadata_fields.national_indicator_description
             scope: national
-    #  - name: "national_geographical_coverage"
-    #    field:
-    #        element: text
-    #        label: "Geographical coverage"
-    #        translation_key: metadata_fields.national_geographical_coverage
-    #        scope: national
-    #  - name: "computation_units"
-    #    field:
-    #        element: text
-    #        label: "Unit of measurement"
-    #        translation_key: metadata_fields.computation_units
-    #        scope: national
-    #  - name: "computation_definitions"
-    #    field:
-    #        element: textarea
-    #        label: "Definitions"
-    #        translation_key: metadata_fields.computation_definitions
-    #        scope: national
       - name: "computation_calculations"
         field:
             element: textarea
@@ -124,57 +44,9 @@ prose:
       - name: "other_info"
         field:
             element: textarea
-            label: "Analyse"
+            label: "Weiterführende Informationen"
             translation_key: metadata_fields.other_info
             scope: national
-     # - name: "quality_assurance"
-     #   field:
-     #       element: text
-     #       label: "Quality assurance"
-     #       translation_key: metadata_fields.quality_assurance
-     #       scope: national
-     # - name: "international_comparability"
-     #   field:
-     #       element: text
-     #       label: "Comparability with international data/standards"
-     #       translation_key: metadata_fields.international_comparability
-     #       scope: national
-     # - name: "comments_limitations"
-     #   field:
-     #       element: text
-     #       label: "Comments and limitations"
-     #       translation_key: metadata_fields.comments_limitations
-     #      scope: national
-     # - name: "rationale_interpretation"
-     #   field:
-     #       element: text
-     #       label: "Rationale and interpretation"
-     #       translation_key: metadata_fields.rationale_interpretation
-     #       scope: national
-     # - name: "national_data_update_url"
-     #   field:
-     #       element: hidden
-     #       label: "Data last updated"
-     #       translation_key: metadata_fields.national_data_update_url
-     #       scope: national
-    #  - name: "national_data_update_url_text"
-    #    field:
-    #        element: hidden
-    #        label: "Data last updated"
-    #        translation_key: metadata_fields.national_data_update_url_text
-    #        scope: national
-    #  - name: "national_metadata_update_url"
-    #    field:
-    #        element: hidden
-    #        label: "Metadata last updated"
-    #        translation_key: metadata_fields.national_metadata_update_url
-    #        scope: national
-    #  - name: "national_metadata_update_url_text"
-    #    field:
-    #        element: hidden
-    #        label: "Metadata last updated"
-    #        translation_key: metadata_fields.national_metadata_update_url_text
-    #        scope: national
        ######### Data Info #########
       - name: "reporting_status"
         field:
