@@ -15,20 +15,50 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Altersgruppe",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                "G",
+                "0 – 3",
+                "3 – 6",
+                "6 – 15",
+                "15 – 20",
+                "20 – 40",
+                "40 – 65",
+                "65 – 80",
+                "80 und älter",
+                "Insgesamt",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "in 1000",
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geschleccht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Männlich",
+                "Weiblich",
+                "Insgesamt",
+                "Männlich ",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

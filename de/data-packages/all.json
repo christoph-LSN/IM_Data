@@ -3143,21 +3143,53 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Altersgruppe",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                "G",
+                "0 – 3",
+                "3 – 6",
+                "6 – 15",
+                "15 – 20",
+                "20 – 40",
+                "40 – 65",
+                "65 – 80",
+                "80 und älter",
+                "Insgesamt",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Altersgruppe"
+          },
+          {
+            "name": "units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "in 1000",
+                "%",
+                ""
+              ]
+            },
+            "title": "units"
+          },
+          {
+            "name": "Geschleccht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Männlich",
+                "Weiblich",
+                "Insgesamt",
+                "Männlich ",
+                ""
+              ]
+            },
+            "title": "Geschleccht"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
