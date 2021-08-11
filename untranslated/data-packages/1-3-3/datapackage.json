@@ -33,7 +33,7 @@
             }
           },
           {
-            "name": "units",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -44,7 +44,7 @@
             }
           },
           {
-            "name": "Geschleccht",
+            "name": "Geschlecht",
             "type": "string",
             "constraints": {
               "enum": [

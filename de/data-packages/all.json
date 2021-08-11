@@ -3162,7 +3162,7 @@
             "title": "Altersgruppe"
           },
           {
-            "name": "units",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3171,10 +3171,10 @@
                 ""
               ]
             },
-            "title": "units"
+            "title": "Units"
           },
           {
-            "name": "Geschleccht",
+            "name": "Geschlecht",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3185,7 +3185,7 @@
                 ""
               ]
             },
-            "title": "Geschleccht"
+            "title": "Geschlecht"
           },
           {
             "name": "Value",
