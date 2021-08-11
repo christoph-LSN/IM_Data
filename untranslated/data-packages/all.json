@@ -2466,20 +2466,33 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Nationalität / Migrationshintergrund",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                "G",
+                "deutsche Staatsangehörigkeit",
+                "nichtdeutsche Staatsangehörigkeit  ",
+                "mit Migrationshintergrund",
+                "ohne Migrationshintergrund",
+                "Insgesamt",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Gebietseinheit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Niedersachsen",
+                "Deutschland",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },

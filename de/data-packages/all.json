@@ -2620,21 +2620,35 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Nationalität / Migrationshintergrund",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                "G",
+                "deutsche Staatsangehörigkeit",
+                "nichtdeutsche Staatsangehörigkeit  ",
+                "mit Migrationshintergrund",
+                "ohne Migrationshintergrund",
+                "Insgesamt",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Nationalität / Migrationshintergrund"
+          },
+          {
+            "name": "Gebietseinheit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Niedersachsen",
+                "Deutschland",
+                ""
+              ]
+            },
+            "title": "Gebietseinheit"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
