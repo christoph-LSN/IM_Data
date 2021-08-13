@@ -12,11 +12,83 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "Geschlecht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "Männer",
+                "Frauen",
+                "0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Migrationshintergrund",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "Bevölkerung ",
+                "%",
+                "Bevölkerung mit Migrationshintergrund",
+                "0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Migrationserfahrung",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                "8.5",
+                "9.2",
+                "7.7",
+                "8.1",
+                "9.1",
+                "7.0",
+                "8.0",
+                "8.7",
+                "7.3",
+                "9.0",
+                "8.9",
+                "8.4",
+                "8.6",
+                "9.8",
+                "7.5",
+                "9.4",
+                "11.1",
+                "12.4",
+                "13.0",
+                "11.9",
+                "13.2",
+                "11.4",
+                "15.2",
+                "mit eigener Migrationserfahrung",
+                "ohne eigene Migrationserfahrung",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       }
