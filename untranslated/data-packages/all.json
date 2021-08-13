@@ -3543,7 +3543,6 @@
                 "Insgesamt",
                 "Bevölkerung ohne Migrationshintergrund",
                 "Bevölkerung mit Migrationshintergrund",
-                "0",
                 ""
               ]
             }
@@ -3553,7 +3552,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "0",
                 "mit eigener Migrationserfahrung",
                 "ohne eigene Migrationserfahrung",
                 ""
