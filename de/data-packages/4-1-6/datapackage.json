@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Year"
           },
           {
@@ -23,7 +23,6 @@
                 "Insgesamt",
                 "Männer",
                 "Frauen",
-                "0",
                 ""
               ]
             },
@@ -35,8 +34,7 @@
             "constraints": {
               "enum": [
                 "Insgesamt",
-                "Bevölkerung ",
-                "%",
+                "Bevölkerung ohne Migrationshintergrund",
                 "Bevölkerung mit Migrationshintergrund",
                 "0",
                 ""
@@ -50,29 +48,6 @@
             "constraints": {
               "enum": [
                 "0",
-                "8.5",
-                "9.2",
-                "7.7",
-                "8.1",
-                "9.1",
-                "7.0",
-                "8.0",
-                "8.7",
-                "7.3",
-                "9.0",
-                "8.9",
-                "8.4",
-                "8.6",
-                "9.8",
-                "7.5",
-                "9.4",
-                "11.1",
-                "12.4",
-                "13.0",
-                "11.9",
-                "13.2",
-                "11.4",
-                "15.2",
                 "mit eigener Migrationserfahrung",
                 "ohne eigene Migrationserfahrung",
                 ""
@@ -93,7 +68,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
