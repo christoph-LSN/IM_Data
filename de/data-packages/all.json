@@ -4077,6 +4077,17 @@
             "title": "Migrationshintergrund"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "in 1000",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Value",
             "type": "string",
             "title": "Value"

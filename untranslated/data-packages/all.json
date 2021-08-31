@@ -3836,6 +3836,16 @@
             }
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "in 1000",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "string"
           }
