@@ -60,7 +60,7 @@
             }
           },
           {
-            "name": "Insgesamt",
+            "name": "Migrationshintergrund",
             "type": "string",
             "constraints": {
               "enum": [

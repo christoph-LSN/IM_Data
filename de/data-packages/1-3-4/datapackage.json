@@ -62,7 +62,7 @@
             "title": "Herkunftsland"
           },
           {
-            "name": "Insgesamt",
+            "name": "Migrationshintergrund",
             "type": "string",
             "constraints": {
               "enum": [
@@ -72,7 +72,7 @@
                 ""
               ]
             },
-            "title": "Insgesamt"
+            "title": "Migrationshintergrund"
           },
           {
             "name": "Value",
