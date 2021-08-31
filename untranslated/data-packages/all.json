@@ -3779,20 +3779,91 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Herkunftsland",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                "G",
+                "Europa ",
+                "Bulgarien ",
+                "Frankreich ",
+                "Griechenland ",
+                "Italien ",
+                "Kroatien ",
+                "Niederlande ",
+                "Österreich ",
+                "Polen ",
+                "Portugal ",
+                "Rumänien ",
+                "Spanien ",
+                "Vereinigtes Königreich ",
+                " Sonstiges Europa ",
+                "Bosnien und Herzegowina ",
+                "Kosovo ",
+                "Russische Föderation ",
+                "Serbien ",
+                "Türkei ",
+                "Ukraine ",
+                "EU-Staaten",
+                "Afrika ",
+                "Marokko ",
+                "Ägypten  Algerien  Libyen  Tunesien ",
+                "Amerika ",
+                "Asien  Australien und Ozeanien ",
+                "Irak ",
+                "Iran ",
+                "Kasachstan ",
+                "Syrien ",
+                "Afghanistan ",
+                "Vietnam ",
+                "Ohne Angabe",
+                "Insgesamt",
+                "Europa",
+                "Bulgarien",
+                "Griechenland",
+                "Italien",
+                "Niederlande",
+                "Polen",
+                "Rumänien",
+                "Spanien",
+                "Vereinigtes Königreich",
+                "Kosovo",
+                "Russische Föderation",
+                "Serbien",
+                "Türkei",
+                "Ukraine",
+                "Afrika",
+                "Ägypten  Algerien  Libyen  Tunesien",
+                "Amerika",
+                "Asien  Australien und Ozeanien",
+                "Irak",
+                "Iran",
+                "Kasachstan",
+                "Syrien",
+                "Afghanistan",
+                "Vietnam",
+                "Sowjetunion",
+                "Österreich",
+                "Libanon",
+                "Kroatien",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Insgesamt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "dav. Männer",
+                "dav. Frauen",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "string"
           }
         ]
       },
