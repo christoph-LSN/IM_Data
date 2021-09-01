@@ -598,20 +598,54 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Höchster Beruflicher Abschluss",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                "G",
+                "Ohne Abschluss1)",
+                "Abgeschlossene Berufsausbildung",
+                "Tertiärer Abschluss",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Migrationshintergrund",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "mit und ohne Migrationshintergrund",
+                "mit Migrationshintergrund3)",
+                "ohne Migrationshintergrund",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geschlecht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "Männer",
+                "Frauen",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prozent",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
