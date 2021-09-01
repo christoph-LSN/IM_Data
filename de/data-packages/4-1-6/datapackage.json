@@ -16,6 +16,19 @@
             "title": "Year"
           },
           {
+            "name": "Migrationshuntergrund",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "mit und ohne Migrationshintergrund",
+                "ohne Migrationshintergrund",
+                "mit Migrationshintergrund",
+                ""
+              ]
+            },
+            "title": "Migrationshuntergrund"
+          },
+          {
             "name": "Geschlecht",
             "type": "string",
             "constraints": {
@@ -29,25 +42,12 @@
             "title": "Geschlecht"
           },
           {
-            "name": "Migrationshintergrund",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Insgesamt",
-                "Bevölkerung ohne Migrationshintergrund",
-                "Bevölkerung mit Migrationshintergrund",
-                ""
-              ]
-            },
-            "title": "Migrationshintergrund"
-          },
-          {
             "name": "Migrationserfahrung",
             "type": "string",
             "constraints": {
               "enum": [
-                "mit eigener Migrationserfahrung",
-                "ohne eigene Migrationserfahrung",
+                "mit eigene/r Migrationserfahrung",
+                "ohne eigene/r Migrationserfahrung",
                 ""
               ]
             },
@@ -66,7 +66,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]
