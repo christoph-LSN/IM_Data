@@ -1,7 +1,271 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,G,2000
+﻿Year,Höchster Beruflicher Abschluss,Migrationshintergrund,Geschlecht,Units,Value
+2019,Ohne Abschluss1),mit und ohne Migrationshintergrund,Insgesamt,Prozent,21.64
+2019,Abgeschlossene Berufsausbildung,mit und ohne Migrationshintergrund,Insgesamt,Prozent,46.87
+2019,Tertiärer Abschluss,mit und ohne Migrationshintergrund,Insgesamt,Prozent,31.49
+2018,Ohne Abschluss1),mit und ohne Migrationshintergrund,Insgesamt,Prozent,21.82
+2018,Abgeschlossene Berufsausbildung,mit und ohne Migrationshintergrund,Insgesamt,Prozent,48.44
+2018,Tertiärer Abschluss,mit und ohne Migrationshintergrund,Insgesamt,Prozent,29.74
+2017,Ohne Abschluss1),mit und ohne Migrationshintergrund,Insgesamt,Prozent,21.83
+2017,Abgeschlossene Berufsausbildung,mit und ohne Migrationshintergrund,Insgesamt,Prozent,49.19
+2017,Tertiärer Abschluss,mit und ohne Migrationshintergrund,Insgesamt,Prozent,28.98
+2016,Ohne Abschluss1),mit und ohne Migrationshintergrund,Insgesamt,Prozent,22.14
+2016,Abgeschlossene Berufsausbildung,mit und ohne Migrationshintergrund,Insgesamt,Prozent,50.52
+2016,Tertiärer Abschluss,mit und ohne Migrationshintergrund,Insgesamt,Prozent,27.35
+2015,Ohne Abschluss1),mit und ohne Migrationshintergrund,Insgesamt,Prozent,19.34
+2015,Abgeschlossene Berufsausbildung,mit und ohne Migrationshintergrund,Insgesamt,Prozent,51.57
+2015,Tertiärer Abschluss,mit und ohne Migrationshintergrund,Insgesamt,Prozent,29.08
+2014,Ohne Abschluss1),mit und ohne Migrationshintergrund,Insgesamt,Prozent,19.53
+2014,Abgeschlossene Berufsausbildung,mit und ohne Migrationshintergrund,Insgesamt,Prozent,53.93
+2014,Tertiärer Abschluss,mit und ohne Migrationshintergrund,Insgesamt,Prozent,26.54
+2013,Ohne Abschluss1),mit und ohne Migrationshintergrund,Insgesamt,Prozent,19.95
+2013,Abgeschlossene Berufsausbildung,mit und ohne Migrationshintergrund,Insgesamt,Prozent,55.79
+2013,Tertiärer Abschluss,mit und ohne Migrationshintergrund,Insgesamt,Prozent,24.26
+2012,Ohne Abschluss1),mit und ohne Migrationshintergrund,Insgesamt,Prozent,19.93
+2012,Abgeschlossene Berufsausbildung,mit und ohne Migrationshintergrund,Insgesamt,Prozent,55.69
+2012,Tertiärer Abschluss,mit und ohne Migrationshintergrund,Insgesamt,Prozent,24.38
+2011,Ohne Abschluss1),mit und ohne Migrationshintergrund,Insgesamt,Prozent,19.59
+2011,Abgeschlossene Berufsausbildung,mit und ohne Migrationshintergrund,Insgesamt,Prozent,57.59
+2011,Tertiärer Abschluss,mit und ohne Migrationshintergrund,Insgesamt,Prozent,22.82
+2005,Ohne Abschluss1),mit und ohne Migrationshintergrund,Insgesamt,Prozent,24.1544454209996
+2005,Abgeschlossene Berufsausbildung,mit und ohne Migrationshintergrund,Insgesamt,Prozent,58.9145618861606
+2005,Tertiärer Abschluss,mit und ohne Migrationshintergrund,Insgesamt,Prozent,16.9309926928397
+2019,Ohne Abschluss1),mit und ohne Migrationshintergrund,Männer,Prozent,23.17
+2019,Abgeschlossene Berufsausbildung,mit und ohne Migrationshintergrund,Männer,Prozent,48.72
+2019,Tertiärer Abschluss,mit und ohne Migrationshintergrund,Männer,Prozent,28.11
+2018,Ohne Abschluss1),mit und ohne Migrationshintergrund,Männer,Prozent,23.59
+2018,Abgeschlossene Berufsausbildung,mit und ohne Migrationshintergrund,Männer,Prozent,50.1
+2018,Tertiärer Abschluss,mit und ohne Migrationshintergrund,Männer,Prozent,26.32
+2017,Ohne Abschluss1),mit und ohne Migrationshintergrund,Männer,Prozent,23.47
+2017,Abgeschlossene Berufsausbildung,mit und ohne Migrationshintergrund,Männer,Prozent,50.81
+2017,Tertiärer Abschluss,mit und ohne Migrationshintergrund,Männer,Prozent,25.72
+2016,Ohne Abschluss1),mit und ohne Migrationshintergrund,Männer,Prozent,23.92
+2016,Abgeschlossene Berufsausbildung,mit und ohne Migrationshintergrund,Männer,Prozent,51.29
+2016,Tertiärer Abschluss,mit und ohne Migrationshintergrund,Männer,Prozent,24.79
+2015,Ohne Abschluss1),mit und ohne Migrationshintergrund,Männer,Prozent,20.13
+2015,Abgeschlossene Berufsausbildung,mit und ohne Migrationshintergrund,Männer,Prozent,53.84
+2015,Tertiärer Abschluss,mit und ohne Migrationshintergrund,Männer,Prozent,26.03
+2014,Ohne Abschluss1),mit und ohne Migrationshintergrund,Männer,Prozent,20.1
+2014,Abgeschlossene Berufsausbildung,mit und ohne Migrationshintergrund,Männer,Prozent,55.86
+2014,Tertiärer Abschluss,mit und ohne Migrationshintergrund,Männer,Prozent,24.05
+2013,Ohne Abschluss1),mit und ohne Migrationshintergrund,Männer,Prozent,20.03
+2013,Abgeschlossene Berufsausbildung,mit und ohne Migrationshintergrund,Männer,Prozent,56.53
+2013,Tertiärer Abschluss,mit und ohne Migrationshintergrund,Männer,Prozent,23.43
+2012,Ohne Abschluss1),mit und ohne Migrationshintergrund,Männer,Prozent,20.06
+2012,Abgeschlossene Berufsausbildung,mit und ohne Migrationshintergrund,Männer,Prozent,56.79
+2012,Tertiärer Abschluss,mit und ohne Migrationshintergrund,Männer,Prozent,23.15
+2011,Ohne Abschluss1),mit und ohne Migrationshintergrund,Männer,Prozent,20.45
+2011,Abgeschlossene Berufsausbildung,mit und ohne Migrationshintergrund,Männer,Prozent,58.22
+2011,Tertiärer Abschluss,mit und ohne Migrationshintergrund,Männer,Prozent,21.33
+2005,Ohne Abschluss1),mit und ohne Migrationshintergrund,Männer,Prozent,22.719256399342
+2005,Abgeschlossene Berufsausbildung,mit und ohne Migrationshintergrund,Männer,Prozent,59.5185574678739
+2005,Tertiärer Abschluss,mit und ohne Migrationshintergrund,Männer,Prozent,17.7621861327841
+2019,Ohne Abschluss1),mit und ohne Migrationshintergrund,Frauen,Prozent,19.91
+2019,Abgeschlossene Berufsausbildung,mit und ohne Migrationshintergrund,Frauen,Prozent,44.77
+2019,Tertiärer Abschluss,mit und ohne Migrationshintergrund,Frauen,Prozent,35.31
+2018,Ohne Abschluss1),mit und ohne Migrationshintergrund,Frauen,Prozent,19.86
+2018,Abgeschlossene Berufsausbildung,mit und ohne Migrationshintergrund,Frauen,Prozent,46.61
+2018,Tertiärer Abschluss,mit und ohne Migrationshintergrund,Frauen,Prozent,33.52
+2017,Ohne Abschluss1),mit und ohne Migrationshintergrund,Frauen,Prozent,19.99
+2017,Abgeschlossene Berufsausbildung,mit und ohne Migrationshintergrund,Frauen,Prozent,47.38
+2017,Tertiärer Abschluss,mit und ohne Migrationshintergrund,Frauen,Prozent,32.63
+2016,Ohne Abschluss1),mit und ohne Migrationshintergrund,Frauen,Prozent,20.15
+2016,Abgeschlossene Berufsausbildung,mit und ohne Migrationshintergrund,Frauen,Prozent,49.65
+2016,Tertiärer Abschluss,mit und ohne Migrationshintergrund,Frauen,Prozent,30.2
+2015,Ohne Abschluss1),mit und ohne Migrationshintergrund,Frauen,Prozent,18.51
+2015,Abgeschlossene Berufsausbildung,mit und ohne Migrationshintergrund,Frauen,Prozent,49.21
+2015,Tertiärer Abschluss,mit und ohne Migrationshintergrund,Frauen,Prozent,32.28
+2014,Ohne Abschluss1),mit und ohne Migrationshintergrund,Frauen,Prozent,18.94
+2014,Abgeschlossene Berufsausbildung,mit und ohne Migrationshintergrund,Frauen,Prozent,51.96
+2014,Tertiärer Abschluss,mit und ohne Migrationshintergrund,Frauen,Prozent,29.1
+2013,Ohne Abschluss1),mit und ohne Migrationshintergrund,Frauen,Prozent,19.86
+2013,Abgeschlossene Berufsausbildung,mit und ohne Migrationshintergrund,Frauen,Prozent,55.05
+2013,Tertiärer Abschluss,mit und ohne Migrationshintergrund,Frauen,Prozent,25.09
+2012,Ohne Abschluss1),mit und ohne Migrationshintergrund,Frauen,Prozent,19.8
+2012,Abgeschlossene Berufsausbildung,mit und ohne Migrationshintergrund,Frauen,Prozent,54.6
+2012,Tertiärer Abschluss,mit und ohne Migrationshintergrund,Frauen,Prozent,25.6
+2011,Ohne Abschluss1),mit und ohne Migrationshintergrund,Frauen,Prozent,18.73
+2011,Abgeschlossene Berufsausbildung,mit und ohne Migrationshintergrund,Frauen,Prozent,56.97
+2011,Tertiärer Abschluss,mit und ohne Migrationshintergrund,Frauen,Prozent,24.3
+2005,Ohne Abschluss1),mit und ohne Migrationshintergrund,Frauen,Prozent,25.605238235645
+2005,Abgeschlossene Berufsausbildung,mit und ohne Migrationshintergrund,Frauen,Prozent,58.3039934476581
+2005,Tertiärer Abschluss,mit und ohne Migrationshintergrund,Frauen,Prozent,16.0907683166969
+2019,Ohne Abschluss1),mit Migrationshintergrund3),Insgesamt,Prozent,39.78
+2019,Abgeschlossene Berufsausbildung,mit Migrationshintergrund3),Insgesamt,Prozent,34.21
+2019,Tertiärer Abschluss,mit Migrationshintergrund3),Insgesamt,Prozent,26.02
+2018,Ohne Abschluss1),mit Migrationshintergrund3),Insgesamt,Prozent,38.44
+2018,Abgeschlossene Berufsausbildung,mit Migrationshintergrund3),Insgesamt,Prozent,36.17
+2018,Tertiärer Abschluss,mit Migrationshintergrund3),Insgesamt,Prozent,25.4
+2017,Ohne Abschluss1),mit Migrationshintergrund3),Insgesamt,Prozent,36.37
+2017,Abgeschlossene Berufsausbildung,mit Migrationshintergrund3),Insgesamt,Prozent,39.16
+2017,Tertiärer Abschluss,mit Migrationshintergrund3),Insgesamt,Prozent,24.48
+2016,Ohne Abschluss1),mit Migrationshintergrund3),Insgesamt,Prozent,38.9
+2016,Abgeschlossene Berufsausbildung,mit Migrationshintergrund3),Insgesamt,Prozent,37.78
+2016,Tertiärer Abschluss,mit Migrationshintergrund3),Insgesamt,Prozent,23.32
+2015,Ohne Abschluss1),mit Migrationshintergrund3),Insgesamt,Prozent,35.28
+2015,Abgeschlossene Berufsausbildung,mit Migrationshintergrund3),Insgesamt,Prozent,41.94
+2015,Tertiärer Abschluss,mit Migrationshintergrund3),Insgesamt,Prozent,22.79
+2014,Ohne Abschluss1),mit Migrationshintergrund3),Insgesamt,Prozent,34.82
+2014,Abgeschlossene Berufsausbildung,mit Migrationshintergrund3),Insgesamt,Prozent,43.53
+2014,Tertiärer Abschluss,mit Migrationshintergrund3),Insgesamt,Prozent,21.65
+2013,Ohne Abschluss1),mit Migrationshintergrund3),Insgesamt,Prozent,33.85
+2013,Abgeschlossene Berufsausbildung,mit Migrationshintergrund3),Insgesamt,Prozent,45.58
+2013,Tertiärer Abschluss,mit Migrationshintergrund3),Insgesamt,Prozent,20.57
+2012,Ohne Abschluss1),mit Migrationshintergrund3),Insgesamt,Prozent,37.55
+2012,Abgeschlossene Berufsausbildung,mit Migrationshintergrund3),Insgesamt,Prozent,44.77
+2012,Tertiärer Abschluss,mit Migrationshintergrund3),Insgesamt,Prozent,17.68
+2011,Ohne Abschluss1),mit Migrationshintergrund3),Insgesamt,Prozent,36.04
+2011,Abgeschlossene Berufsausbildung,mit Migrationshintergrund3),Insgesamt,Prozent,46.69
+2011,Tertiärer Abschluss,mit Migrationshintergrund3),Insgesamt,Prozent,17.27
+2005,Ohne Abschluss1),mit Migrationshintergrund3),Insgesamt,Prozent,46.8547833338137
+2005,Abgeschlossene Berufsausbildung,mit Migrationshintergrund3),Insgesamt,Prozent,41.5251248491722
+2005,Tertiärer Abschluss,mit Migrationshintergrund3),Insgesamt,Prozent,11.6200918170141
+2019,Ohne Abschluss1),mit Migrationshintergrund3),Männer,Prozent,42.48
+2019,Abgeschlossene Berufsausbildung,mit Migrationshintergrund3),Männer,Prozent,34.56
+2019,Tertiärer Abschluss,mit Migrationshintergrund3),Männer,Prozent,22.97
+2018,Ohne Abschluss1),mit Migrationshintergrund3),Männer,Prozent,41.18
+2018,Abgeschlossene Berufsausbildung,mit Migrationshintergrund3),Männer,Prozent,35.78
+2018,Tertiärer Abschluss,mit Migrationshintergrund3),Männer,Prozent,23.04
+2017,Ohne Abschluss1),mit Migrationshintergrund3),Männer,Prozent,39.1
+2017,Abgeschlossene Berufsausbildung,mit Migrationshintergrund3),Männer,Prozent,38.63
+2017,Tertiärer Abschluss,mit Migrationshintergrund3),Männer,Prozent,22.26
+2016,Ohne Abschluss1),mit Migrationshintergrund3),Männer,Prozent,40.37
+2016,Abgeschlossene Berufsausbildung,mit Migrationshintergrund3),Männer,Prozent,37.34
+2016,Tertiärer Abschluss,mit Migrationshintergrund3),Männer,Prozent,22.3
+2015,Ohne Abschluss1),mit Migrationshintergrund3),Männer,Prozent,34.89
+2015,Abgeschlossene Berufsausbildung,mit Migrationshintergrund3),Männer,Prozent,45.3
+2015,Tertiärer Abschluss,mit Migrationshintergrund3),Männer,Prozent,19.82
+2014,Ohne Abschluss1),mit Migrationshintergrund3),Männer,Prozent,34.54
+2014,Abgeschlossene Berufsausbildung,mit Migrationshintergrund3),Männer,Prozent,46.49
+2014,Tertiärer Abschluss,mit Migrationshintergrund3),Männer,Prozent,18.97
+2013,Ohne Abschluss1),mit Migrationshintergrund3),Männer,Prozent,32.41
+2013,Abgeschlossene Berufsausbildung,mit Migrationshintergrund3),Männer,Prozent,48.37
+2013,Tertiärer Abschluss,mit Migrationshintergrund3),Männer,Prozent,19.22
+2012,Ohne Abschluss1),mit Migrationshintergrund3),Männer,Prozent,35.11
+2012,Abgeschlossene Berufsausbildung,mit Migrationshintergrund3),Männer,Prozent,49.01
+2012,Tertiärer Abschluss,mit Migrationshintergrund3),Männer,Prozent,15.88
+2011,Ohne Abschluss1),mit Migrationshintergrund3),Männer,Prozent,35.87
+2011,Abgeschlossene Berufsausbildung,mit Migrationshintergrund3),Männer,Prozent,47.69
+2011,Tertiärer Abschluss,mit Migrationshintergrund3),Männer,Prozent,16.44
+2005,Ohne Abschluss1),mit Migrationshintergrund3),Männer,Prozent,44.0526146489995
+2005,Abgeschlossene Berufsausbildung,mit Migrationshintergrund3),Männer,Prozent,45.5549345516048
+2005,Tertiärer Abschluss,mit Migrationshintergrund3),Männer,Prozent,10.3924507993957
+2019,Ohne Abschluss1),mit Migrationshintergrund3),Frauen,Prozent,36.43
+2019,Abgeschlossene Berufsausbildung,mit Migrationshintergrund3),Frauen,Prozent,33.77
+2019,Tertiärer Abschluss,mit Migrationshintergrund3),Frauen,Prozent,29.8
+2018,Ohne Abschluss1),mit Migrationshintergrund3),Frauen,Prozent,35.28
+2018,Abgeschlossene Berufsausbildung,mit Migrationshintergrund3),Frauen,Prozent,36.61
+2018,Tertiärer Abschluss,mit Migrationshintergrund3),Frauen,Prozent,28.11
+2017,Ohne Abschluss1),mit Migrationshintergrund3),Frauen,Prozent,33.03
+2017,Abgeschlossene Berufsausbildung,mit Migrationshintergrund3),Frauen,Prozent,39.79
+2017,Tertiärer Abschluss,mit Migrationshintergrund3),Frauen,Prozent,27.18
+2016,Ohne Abschluss1),mit Migrationshintergrund3),Frauen,Prozent,37.09
+2016,Abgeschlossene Berufsausbildung,mit Migrationshintergrund3),Frauen,Prozent,38.32
+2016,Tertiärer Abschluss,mit Migrationshintergrund3),Frauen,Prozent,24.59
+2015,Ohne Abschluss1),mit Migrationshintergrund3),Frauen,Prozent,35.66
+2015,Abgeschlossene Berufsausbildung,mit Migrationshintergrund3),Frauen,Prozent,38.6
+2015,Tertiärer Abschluss,mit Migrationshintergrund3),Frauen,Prozent,25.74
+2014,Ohne Abschluss1),mit Migrationshintergrund3),Frauen,Prozent,35.1
+2014,Abgeschlossene Berufsausbildung,mit Migrationshintergrund3),Frauen,Prozent,40.51
+2014,Tertiärer Abschluss,mit Migrationshintergrund3),Frauen,Prozent,24.39
+2013,Ohne Abschluss1),mit Migrationshintergrund3),Frauen,Prozent,35.22
+2013,Abgeschlossene Berufsausbildung,mit Migrationshintergrund3),Frauen,Prozent,42.93
+2013,Tertiärer Abschluss,mit Migrationshintergrund3),Frauen,Prozent,21.86
+2012,Ohne Abschluss1),mit Migrationshintergrund3),Frauen,Prozent,39.84
+2012,Abgeschlossene Berufsausbildung,mit Migrationshintergrund3),Frauen,Prozent,40.79
+2012,Tertiärer Abschluss,mit Migrationshintergrund3),Frauen,Prozent,19.37
+2011,Ohne Abschluss1),mit Migrationshintergrund3),Frauen,Prozent,36.21
+2011,Abgeschlossene Berufsausbildung,mit Migrationshintergrund3),Frauen,Prozent,45.69
+2011,Tertiärer Abschluss,mit Migrationshintergrund3),Frauen,Prozent,18.1
+2005,Ohne Abschluss1),mit Migrationshintergrund3),Frauen,Prozent,49.6560392107803
+2005,Abgeschlossene Berufsausbildung,mit Migrationshintergrund3),Frauen,Prozent,37.4966278592614
+2005,Tertiärer Abschluss,mit Migrationshintergrund3),Frauen,Prozent,12.8473329299583
+2019,Ohne Abschluss1),ohne Migrationshintergrund,Insgesamt,Prozent,14.03
+2019,Abgeschlossene Berufsausbildung,ohne Migrationshintergrund,Insgesamt,Prozent,52.18
+2019,Tertiärer Abschluss,ohne Migrationshintergrund,Insgesamt,Prozent,33.79
+2018,Ohne Abschluss1),ohne Migrationshintergrund,Insgesamt,Prozent,14.77
+2018,Abgeschlossene Berufsausbildung,ohne Migrationshintergrund,Insgesamt,Prozent,53.64
+2018,Tertiärer Abschluss,ohne Migrationshintergrund,Insgesamt,Prozent,31.58
+2017,Ohne Abschluss1),ohne Migrationshintergrund,Insgesamt,Prozent,15.47
+2017,Abgeschlossene Berufsausbildung,ohne Migrationshintergrund,Insgesamt,Prozent,53.59
+2017,Tertiärer Abschluss,ohne Migrationshintergrund,Insgesamt,Prozent,30.95
+2016,Ohne Abschluss1),ohne Migrationshintergrund,Insgesamt,Prozent,16.14
+2016,Abgeschlossene Berufsausbildung,ohne Migrationshintergrund,Insgesamt,Prozent,55.07
+2016,Tertiärer Abschluss,ohne Migrationshintergrund,Insgesamt,Prozent,28.78
+2015,Ohne Abschluss1),ohne Migrationshintergrund,Insgesamt,Prozent,14.59
+2015,Abgeschlossene Berufsausbildung,ohne Migrationshintergrund,Insgesamt,Prozent,54.45
+2015,Tertiärer Abschluss,ohne Migrationshintergrund,Insgesamt,Prozent,30.96
+2014,Ohne Abschluss1),ohne Migrationshintergrund,Insgesamt,Prozent,14.99
+2014,Abgeschlossene Berufsausbildung,ohne Migrationshintergrund,Insgesamt,Prozent,57.02
+2014,Tertiärer Abschluss,ohne Migrationshintergrund,Insgesamt,Prozent,27.99
+2013,Ohne Abschluss1),ohne Migrationshintergrund,Insgesamt,Prozent,15.73
+2013,Abgeschlossene Berufsausbildung,ohne Migrationshintergrund,Insgesamt,Prozent,58.89
+2013,Tertiärer Abschluss,ohne Migrationshintergrund,Insgesamt,Prozent,25.38
+2012,Ohne Abschluss1),ohne Migrationshintergrund,Insgesamt,Prozent,14.73
+2012,Abgeschlossene Berufsausbildung,ohne Migrationshintergrund,Insgesamt,Prozent,58.91
+2012,Tertiärer Abschluss,ohne Migrationshintergrund,Insgesamt,Prozent,26.36
+2011,Ohne Abschluss1),ohne Migrationshintergrund,Insgesamt,Prozent,14.82
+2011,Abgeschlossene Berufsausbildung,ohne Migrationshintergrund,Insgesamt,Prozent,60.75
+2011,Tertiärer Abschluss,ohne Migrationshintergrund,Insgesamt,Prozent,24.43
+2005,Ohne Abschluss1),ohne Migrationshintergrund,Insgesamt,Prozent,17.6277665618852
+2005,Abgeschlossene Berufsausbildung,ohne Migrationshintergrund,Insgesamt,Prozent,63.9142755706801
+2005,Tertiärer Abschluss,ohne Migrationshintergrund,Insgesamt,Prozent,18.4579578674347
+2019,Ohne Abschluss1),ohne Migrationshintergrund,Männer,Prozent,14.58
+2019,Abgeschlossene Berufsausbildung,ohne Migrationshintergrund,Männer,Prozent,55.02
+2019,Tertiärer Abschluss,ohne Migrationshintergrund,Männer,Prozent,30.4
+2018,Ohne Abschluss1),ohne Migrationshintergrund,Männer,Prozent,15.91
+2018,Abgeschlossene Berufsausbildung,ohne Migrationshintergrund,Männer,Prozent,56.34
+2018,Tertiärer Abschluss,ohne Migrationshintergrund,Männer,Prozent,27.75
+2017,Ohne Abschluss1),ohne Migrationshintergrund,Männer,Prozent,16.23
+2017,Abgeschlossene Berufsausbildung,ohne Migrationshintergrund,Männer,Prozent,56.45
+2017,Tertiärer Abschluss,ohne Migrationshintergrund,Männer,Prozent,27.32
+2016,Ohne Abschluss1),ohne Migrationshintergrund,Männer,Prozent,17.64
+2016,Abgeschlossene Berufsausbildung,ohne Migrationshintergrund,Männer,Prozent,56.62
+2016,Tertiärer Abschluss,ohne Migrationshintergrund,Männer,Prozent,25.74
+2015,Ohne Abschluss1),ohne Migrationshintergrund,Männer,Prozent,15.87
+2015,Abgeschlossene Berufsausbildung,ohne Migrationshintergrund,Männer,Prozent,56.3
+2015,Tertiärer Abschluss,ohne Migrationshintergrund,Männer,Prozent,27.82
+2014,Ohne Abschluss1),ohne Migrationshintergrund,Männer,Prozent,15.81
+2014,Abgeschlossene Berufsausbildung,ohne Migrationshintergrund,Männer,Prozent,58.63
+2014,Tertiärer Abschluss,ohne Migrationshintergrund,Männer,Prozent,25.55
+2013,Ohne Abschluss1),ohne Migrationshintergrund,Männer,Prozent,16.4
+2013,Abgeschlossene Berufsausbildung,ohne Migrationshintergrund,Männer,Prozent,58.93
+2013,Tertiärer Abschluss,ohne Migrationshintergrund,Männer,Prozent,24.67
+2012,Ohne Abschluss1),ohne Migrationshintergrund,Männer,Prozent,15.78
+2012,Abgeschlossene Berufsausbildung,ohne Migrationshintergrund,Männer,Prozent,59
+2012,Tertiärer Abschluss,ohne Migrationshintergrund,Männer,Prozent,25.22
+2011,Ohne Abschluss1),ohne Migrationshintergrund,Männer,Prozent,15.94
+2011,Abgeschlossene Berufsausbildung,ohne Migrationshintergrund,Männer,Prozent,61.29
+2011,Tertiärer Abschluss,ohne Migrationshintergrund,Männer,Prozent,22.76
+2005,Ohne Abschluss1),ohne Migrationshintergrund,Männer,Prozent,16.6292894947499
+2005,Abgeschlossene Berufsausbildung,ohne Migrationshintergrund,Männer,Prozent,63.504708417192
+2005,Tertiärer Abschluss,ohne Migrationshintergrund,Männer,Prozent,19.8660020880582
+2019,Ohne Abschluss1),ohne Migrationshintergrund,Frauen,Prozent,13.44
+2019,Abgeschlossene Berufsausbildung,ohne Migrationshintergrund,Frauen,Prozent,49.09
+2019,Tertiärer Abschluss,ohne Migrationshintergrund,Frauen,Prozent,37.47
+2018,Ohne Abschluss1),ohne Migrationshintergrund,Frauen,Prozent,13.54
+2018,Abgeschlossene Berufsausbildung,ohne Migrationshintergrund,Frauen,Prozent,50.72
+2018,Tertiärer Abschluss,ohne Migrationshintergrund,Frauen,Prozent,35.74
+2017,Ohne Abschluss1),ohne Migrationshintergrund,Frauen,Prozent,14.64
+2017,Abgeschlossene Berufsausbildung,ohne Migrationshintergrund,Frauen,Prozent,50.49
+2017,Tertiärer Abschluss,ohne Migrationshintergrund,Frauen,Prozent,34.87
+2016,Ohne Abschluss1),ohne Migrationshintergrund,Frauen,Prozent,14.54
+2016,Abgeschlossene Berufsausbildung,ohne Migrationshintergrund,Frauen,Prozent,53.41
+2016,Tertiärer Abschluss,ohne Migrationshintergrund,Frauen,Prozent,32.06
+2015,Ohne Abschluss1),ohne Migrationshintergrund,Frauen,Prozent,13.22
+2015,Abgeschlossene Berufsausbildung,ohne Migrationshintergrund,Frauen,Prozent,52.48
+2015,Tertiärer Abschluss,ohne Migrationshintergrund,Frauen,Prozent,34.3
+2014,Ohne Abschluss1),ohne Migrationshintergrund,Frauen,Prozent,14.14
+2014,Abgeschlossene Berufsausbildung,ohne Migrationshintergrund,Frauen,Prozent,55.36
+2014,Tertiärer Abschluss,ohne Migrationshintergrund,Frauen,Prozent,30.5
+2013,Ohne Abschluss1),ohne Migrationshintergrund,Frauen,Prozent,15.04
+2013,Abgeschlossene Berufsausbildung,ohne Migrationshintergrund,Frauen,Prozent,58.85
+2013,Tertiärer Abschluss,ohne Migrationshintergrund,Frauen,Prozent,26.11
+2012,Ohne Abschluss1),ohne Migrationshintergrund,Frauen,Prozent,13.67
+2012,Abgeschlossene Berufsausbildung,ohne Migrationshintergrund,Frauen,Prozent,58.82
+2012,Tertiärer Abschluss,ohne Migrationshintergrund,Frauen,Prozent,27.51
+2011,Ohne Abschluss1),ohne Migrationshintergrund,Frauen,Prozent,13.71
+2011,Abgeschlossene Berufsausbildung,ohne Migrationshintergrund,Frauen,Prozent,60.21
+2011,Tertiärer Abschluss,ohne Migrationshintergrund,Frauen,Prozent,26.08
+2005,Ohne Abschluss1),ohne Migrationshintergrund,Frauen,Prozent,18.6403409415612
+2005,Abgeschlossene Berufsausbildung,ohne Migrationshintergrund,Frauen,Prozent,64.3296209742111
+2005,Tertiärer Abschluss,ohne Migrationshintergrund,Frauen,Prozent,17.0300380842277
