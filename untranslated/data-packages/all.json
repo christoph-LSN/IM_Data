@@ -2496,20 +2496,57 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Altersgruppe",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                "G",
+                "15 – 25",
+                "25 – 35",
+                "35 – 45",
+                "45 – 55",
+                "55 – 65",
+                "15 – 65",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geschlecht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "Männer",
+                "Frauen",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Migrationsstatus",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "ohne Migrationshintergrund",
+                "mit Migrationshintergrund",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },

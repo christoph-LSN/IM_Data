@@ -16,21 +16,61 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Altersgruppe",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                "G",
+                "15 – 25",
+                "25 – 35",
+                "35 – 45",
+                "45 – 55",
+                "55 – 65",
+                "15 – 65",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Altersgruppe"
+          },
+          {
+            "name": "Geschlecht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "Männer",
+                "Frauen",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
+          },
+          {
+            "name": "Migrationsstatus",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "ohne Migrationshintergrund",
+                "mit Migrationshintergrund",
+                ""
+              ]
+            },
+            "title": "Migrationsstatus"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
