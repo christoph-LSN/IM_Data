@@ -16,21 +16,61 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Wirtschaftsabschnitte (WZ 2008) Zusammenfassungen",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                "G",
+                "Land- und Forstwirtschaft  Fischerei",
+                "Bergbau und Gewinnung von Steinen und Erden; Verarbeitendes Gewerbe",
+                "Energieversorgung; Wasserversorgung  Entsorg.  Beseitig. v. Umweltverschmutzungen",
+                "Baugewerbe",
+                "Handel  Instandhaltung und Reparatur von Kfz",
+                "Verkehr und Lagerei; Information und Kommunikation",
+                "Gastgewerbe",
+                "Erbringung von Finanz- und Versicherungsleistungen; Grundstücks- und Wohnungswesen; Freiberufliche  wiss. u. techn. Dienstleistungen; sonst. wirt. Dienstleistungen",
+                "ÖffentlicheVerwaltung  Verteidigung  Sozialversicherung; Erziehung und Unterricht; Gesundheits- und Sozialwesen",
+                "Kunst  Unterhaltung und Erholung; Erbringung von sonstigen Dienstleistungen",
+                "Insgesamt (inkl. sonstiger Abschnitte)",
+                "Öff.Verwaltung  Verteidigung  Sozialversicherung; Erziehung und Unterricht; Gesundheits- und Sozialwesen",
+                "Land- und Forstwirtschaft; Fischerei und Fischzucht",
+                "Energie- und Wasserversorgung",
+                "Handel; Instandhaltung und Reparatur von Kraftfahrzeugen und Gebrauchsgütern",
+                "Verkehr und Nachrichtenübermittlung",
+                "Kredit- und Versicherungsgewerbe; Grundstücks- und Wohnungswesen  Vermietung beweglicher Sachen  Erbringung von wirt.Dienstleistungen  anderweitig nicht genannt",
+                "Öffentliche Verwaltung  Verteidigung  Sozialversicherung; Erziehung und Unterricht; Gesundheits-  Veterinär- und Sozialwesen",
+                "Erbringung von sonstigen öffentlichen und persönlichen Dienstleistungen",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Wirtschaftsabschnitte (WZ 2008) Zusammenfassungen"
+          },
+          {
+            "name": "Geschlecht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "Männer",
+                "Frauen",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "in 1000",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
