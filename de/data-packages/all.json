@@ -3,20 +3,13 @@
   "title": "All indicators",
   "resources": [
     {
+      "path": "2-3-2/data.csv",
       "name": "2-3-2",
       "profile": "tabular-data-resource",
-      "path": "2-3-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -44,29 +37,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "0e0bdd4f7f55490f80db9d4e940858ea",
-        "bytes": 72,
-        "fields": 3,
-        "rows": 6
-      },
       "title": "Einbürgerungen nach Niedersachsen nach ausgewählten Staatsangehörigkeiten (A16)"
     },
     {
+      "path": "1-3-2/data.csv",
       "name": "1-3-2",
       "profile": "tabular-data-resource",
-      "path": "1-3-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -146,29 +126,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "152945a39fa93eb09dc4f9be6ce6a1c0",
-        "bytes": 101715,
-        "fields": 6,
-        "rows": 1377
-      },
       "title": "Menschen mit Migrationshintergrund in den regionalen Anpassungsschichten (A11)"
     },
     {
+      "path": "1-2-7/data.csv",
       "name": "1-2-7",
       "profile": "tabular-data-resource",
-      "path": "1-2-7/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -196,29 +163,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "0e0bdd4f7f55490f80db9d4e940858ea",
-        "bytes": 72,
-        "fields": 3,
-        "rows": 6
-      },
       "title": "Ausländerinnen und Ausländer in Niedersachsen nach Durchschnittsalter (A7x)"
     },
     {
+      "path": "5-2-1/data.csv",
       "name": "5-2-1",
       "profile": "tabular-data-resource",
-      "path": "5-2-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -285,29 +239,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "a35f1c04c0cac09ddc965c60f270f15e",
-        "bytes": 34032,
-        "fields": 6,
-        "rows": 450
-      },
       "title": "Erwerbsquote, Erwerbstätigenquote und Erwerbslosenanteil nach Zuwanderungsgeschichte (C2)"
     },
     {
+      "path": "1-2-2/data.csv",
       "name": "1-2-2",
       "profile": "tabular-data-resource",
-      "path": "1-2-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -389,29 +330,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "984f5e82edd2cd37db6ad78cbf970960",
-        "bytes": 34497,
-        "fields": 4,
-        "rows": 835
-      },
       "title": "Anteil der Ausländerinnen und Ausländer in Niedersachsen in Prozent (A2x)"
     },
     {
+      "path": "2-1-10/data.csv",
       "name": "2-1-10",
       "profile": "tabular-data-resource",
-      "path": "2-1-10/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -503,29 +431,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "7a9f161aded8f9933c3461593325238f",
-        "bytes": 22324,
-        "fields": 5,
-        "rows": 253
-      },
       "title": "global_indicators.11-2-9-title"
     },
     {
+      "path": "1-1-2/data.csv",
       "name": "1-1-2",
       "profile": "tabular-data-resource",
-      "path": "1-1-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -606,29 +521,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "c5aac6a60b36032e6c7ba79aae21a8fd",
-        "bytes": 6567,
-        "fields": 4,
-        "rows": 153
-      },
       "title": "Bevölkerungsentwicklung in Niedersachsen (Veränderung in Prozent) (A1x)"
     },
     {
+      "path": "4-2-1/data.csv",
       "name": "4-2-1",
       "profile": "tabular-data-resource",
-      "path": "4-2-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -656,29 +558,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "d35f80c42b9c941190ac3aa1666a7d82",
-        "bytes": 71,
-        "fields": 3,
-        "rows": 6
-      },
       "title": "Ausbildungsbeteiligungsquote im dualen System nach Geschlecht und Nationalität (B10)"
     },
     {
+      "path": "8-1-1/data.csv",
       "name": "8-1-1",
       "profile": "tabular-data-resource",
-      "path": "8-1-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -733,29 +622,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "314f88918f68648989010554ae8fa967",
-        "bytes": 11815,
-        "fields": 5,
-        "rows": 270
-      },
       "title": "Bei Bundes- und Landtagswahlen wahlberechtigte Bevölkerung mit Zuwanderungsgeschichte (A14)"
     },
     {
+      "path": "1-4-4/data.csv",
       "name": "1-4-4",
       "profile": "tabular-data-resource",
-      "path": "1-4-4/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -783,29 +659,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "0e0bdd4f7f55490f80db9d4e940858ea",
-        "bytes": 72,
-        "fields": 3,
-        "rows": 6
-      },
       "title": "Zu- und Fortzüge über die Bundesgrenzen von und nach Niedersachsen nach Altersgruppen (A21)"
     },
     {
+      "path": "4-4-2/data.csv",
       "name": "4-4-2",
       "profile": "tabular-data-resource",
-      "path": "4-4-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -870,29 +733,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "b42a5002ca4aa3a2b99009e27d4e42ca",
-        "bytes": 20513,
-        "fields": 6,
-        "rows": 270
-      },
       "title": "Höchster beruflicher Abschluss der 25- bis unter 35-Jährigen nach Zuwanderungsgeschichte und Geschlecht (B9)"
     },
     {
+      "path": "2-1-7/data.csv",
       "name": "2-1-7",
       "profile": "tabular-data-resource",
-      "path": "2-1-7/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -984,29 +834,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "345db51bd566297ce2d75aa2e973c046",
-        "bytes": 9560,
-        "fields": 5,
-        "rows": 253
-      },
       "title": "Duldung"
     },
     {
+      "path": "1-2-8/data.csv",
       "name": "1-2-8",
       "profile": "tabular-data-resource",
-      "path": "1-2-8/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -1100,29 +937,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "f6bf563669852dc6d86e84443654a9b8",
-        "bytes": 80976,
-        "fields": 5,
-        "rows": 1664
-      },
       "title": "Lebendgeborene Ausländerinnen und Ausländer und Deutsche (A17)"
     },
     {
+      "path": "4-3-2/data.csv",
       "name": "4-3-2",
       "profile": "tabular-data-resource",
-      "path": "4-3-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -1287,29 +1111,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "d99cdebc9ad173519c726b184b1b6936",
-        "bytes": 13782,
-        "fields": 5,
-        "rows": 366
-      },
       "title": "Hochschulabschlüsse im Prüfungsjahr nach Fächergruppe, Nationalität und Geschlecht der Absolventinnen und Absolventen (B12)"
     },
     {
+      "path": "3-1-1/data.csv",
       "name": "3-1-1",
       "profile": "tabular-data-resource",
-      "path": "3-1-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -1352,29 +1163,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "a68b5fdc9cc1224529bb7ee8f799368a",
-        "bytes": 9801,
-        "fields": 4,
-        "rows": 144
-      },
       "title": "Betreuungsquote von Kindern bis unter 6 Jahren mit und ohne Zuwanderungsgeschichte in Kindertagesbetreuung (B1)"
     },
     {
+      "path": "2-1-1/data.csv",
       "name": "2-1-1",
       "profile": "tabular-data-resource",
-      "path": "2-1-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -1476,29 +1274,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "25625b1f859a5fe4ac61a7f96ea30864",
-        "bytes": 198754,
-        "fields": 5,
-        "rows": 2585
-      },
       "title": "Aufenthaltstitel in Niedersachsen (A5)"
     },
     {
+      "path": "6-1-1/data.csv",
       "name": "6-1-1",
       "profile": "tabular-data-resource",
-      "path": "6-1-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -1540,29 +1325,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "dbb86d85841d9643317bdb0dd3f2a13e",
-        "bytes": 5944,
-        "fields": 4,
-        "rows": 120
-      },
       "title": "Armutsgefährdungsquoten in Niedersachsen und Deutschland (D1)"
     },
     {
+      "path": "7-1-1/data.csv",
       "name": "7-1-1",
       "profile": "tabular-data-resource",
-      "path": "7-1-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -1589,30 +1361,17 @@
             "title": "Value"
           }
         ]
-      },
-      "stats": {
-        "hash": "27e51f73d13b4f762413a2a1d55f136c",
-        "bytes": 72,
-        "fields": 3,
-        "rows": 6
       },
       "title": "Mittlere Wohnfläche in m² und mittlere Bruttokaltmiete in Niedersachsen nach Zuwanderungsgeschichte (D5)"
     },
     {
+      "path": "2-3-1/data.csv",
       "name": "2-3-1",
       "profile": "tabular-data-resource",
-      "path": "2-3-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -1640,29 +1399,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "4c71177a8bcdac21bb3e2f37dfa9a837",
-        "bytes": 73,
-        "fields": 3,
-        "rows": 6
-      },
       "title": "Einbürgerungen nach Niedersachsen (A15)"
     },
     {
+      "path": "4-1-2/data.csv",
       "name": "4-1-2",
       "profile": "tabular-data-resource",
-      "path": "4-1-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -1732,29 +1478,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "e4f4ddc5f7fc1a23bdeb17d4e94ff9b6",
-        "bytes": 135154,
-        "fields": 5,
-        "rows": 1767
-      },
       "title": "Verteilung der Schülerinnen und Schüler im 8. Schuljahrgang (B4)"
     },
     {
+      "path": "6-2-1/data.csv",
       "name": "6-2-1",
       "profile": "tabular-data-resource",
-      "path": "6-2-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -1782,29 +1515,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "27e51f73d13b4f762413a2a1d55f136c",
-        "bytes": 72,
-        "fields": 3,
-        "rows": 6
-      },
       "title": "Empfängerinnen und Empfänger von Mindestsicherungsleistungen (D2)"
     },
     {
+      "path": "1-2-3/data.csv",
       "name": "1-2-3",
       "profile": "tabular-data-resource",
-      "path": "1-2-3/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -1915,29 +1635,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "66d4066d45aca234e88ab219b90f9385",
-        "bytes": 737887,
-        "fields": 6,
-        "rows": 15813
-      },
       "title": "Ausländerinnen und Ausländer in Niedersachsen nach Aufenthaltsdauer (A3)"
     },
     {
+      "path": "2-1-2/data.csv",
       "name": "2-1-2",
       "profile": "tabular-data-resource",
-      "path": "2-1-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -2029,29 +1736,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "bb91cc2552c3934b32f86cb8fdc5bfc5",
-        "bytes": 19417,
-        "fields": 5,
-        "rows": 253
-      },
       "title": "Geflüchtete und geduldete Personen in Niedersachsen (A9)"
     },
     {
+      "path": "1-2-5/data.csv",
       "name": "1-2-5",
       "profile": "tabular-data-resource",
-      "path": "1-2-5/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -2078,30 +1772,17 @@
             "title": "Value"
           }
         ]
-      },
-      "stats": {
-        "hash": "0e0bdd4f7f55490f80db9d4e940858ea",
-        "bytes": 72,
-        "fields": 3,
-        "rows": 6
       },
       "title": "Ausländerinnen und Ausländer in Niedersachsen nach ausgewählten Staatsangehörigkeiten und Geschlecht (A6)"
     },
     {
+      "path": "7-2-1/data.csv",
       "name": "7-2-1",
       "profile": "tabular-data-resource",
-      "path": "7-2-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -2129,29 +1810,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "f4ab8bc6079d35ca6969b3580ce63123",
-        "bytes": 74,
-        "fields": 3,
-        "rows": 6
-      },
       "title": "Paare ohne Kinder und Familien nach Paar-Familientyp und Zuwanderungsgeschichte sowie Familien nach Zahl der Kinder (D7)"
     },
     {
+      "path": "4-1-3/data.csv",
       "name": "4-1-3",
       "profile": "tabular-data-resource",
-      "path": "4-1-3/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -2211,29 +1879,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "1cc35dd9c4b2758041e39c6197ee4103",
-        "bytes": 849,
-        "fields": 4,
-        "rows": 30
-      },
       "title": "Schulabgängerinnen und Schulabgänger ohne Hauptschulabschluss nach Nationalität (B5)"
     },
     {
+      "path": "2-1-6/data.csv",
       "name": "2-1-6",
       "profile": "tabular-data-resource",
-      "path": "2-1-6/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -2325,29 +1980,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "07af86fe96c9fab8987359098517dc66",
-        "bytes": 22257,
-        "fields": 5,
-        "rows": 253
-      },
       "title": "Dringende persönliche oder humanintäre Gründe und Härtefälle"
     },
     {
+      "path": "2-2-4/data.csv",
       "name": "2-2-4",
       "profile": "tabular-data-resource",
-      "path": "2-2-4/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -2373,29 +2015,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "aacc6ba9b3ec987436dca2f5563290f5",
-        "bytes": 144,
-        "fields": 3,
-        "rows": 5
-      },
       "title": "In Niedersachsen gestellte Ansylanträge"
     },
     {
+      "path": "1-3-1/data.csv",
       "name": "1-3-1",
       "profile": "tabular-data-resource",
-      "path": "1-3-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -2487,29 +2116,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "762a630667e169ebd49ec4cf4f1b5b23",
-        "bytes": 120614,
-        "fields": 5,
-        "rows": 1323
-      },
       "title": "Menschen mit Migrationshintergrund (A10)"
     },
     {
+      "path": "5-3-2/data.csv",
       "name": "5-3-2",
       "profile": "tabular-data-resource",
-      "path": "5-3-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -2563,29 +2179,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "019d8cd8dbfbb52a9df5a63f6b3bbeda",
-        "bytes": 23973,
-        "fields": 5,
-        "rows": 252
-      },
       "title": "Entwicklung der Arbeitslosenquote (C6)"
     },
     {
+      "path": "1-4-3/data.csv",
       "name": "1-4-3",
       "profile": "tabular-data-resource",
-      "path": "1-4-3/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -2612,30 +2215,17 @@
             "title": "Value"
           }
         ]
-      },
-      "stats": {
-        "hash": "0e0bdd4f7f55490f80db9d4e940858ea",
-        "bytes": 72,
-        "fields": 3,
-        "rows": 6
       },
       "title": "Saldo der Zu- und Fortzüge über die Bundesgrenzen von und nach Niedersachsen nach ausgewählten Staatsangehörigkeiten (A20)"
     },
     {
+      "path": "4-4-1/data.csv",
       "name": "4-4-1",
       "profile": "tabular-data-resource",
-      "path": "4-4-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -2663,29 +2253,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "0e0bdd4f7f55490f80db9d4e940858ea",
-        "bytes": 72,
-        "fields": 3,
-        "rows": 6
-      },
       "title": "Anerkennungsverfahren nach dem Berufsqualifikationsfeststellungsgesetz (BQFG) sowie dem Niedersächsischen Berufsqualifikationsfeststellungsgesetz (NBQFG) (C8)"
     },
     {
+      "path": "1-2-4/data.csv",
       "name": "1-2-4",
       "profile": "tabular-data-resource",
-      "path": "1-2-4/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -2783,29 +2360,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "cf9022aeb5fd4c2d69f730885784d3f6",
-        "bytes": 13254,
-        "fields": 5,
-        "rows": 312
-      },
       "title": "Ausländerinnen und Ausländer in Niedersachsen nach ausgewählten Staatsangehörigkeiten (A4)"
     },
     {
+      "path": "1-4-1/data.csv",
       "name": "1-4-1",
       "profile": "tabular-data-resource",
-      "path": "1-4-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -2833,29 +2397,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "0e0bdd4f7f55490f80db9d4e940858ea",
-        "bytes": 72,
-        "fields": 3,
-        "rows": 6
-      },
       "title": "Zuzüge über die Bundesgrenze nach Niedersachsen (A18)"
     },
     {
+      "path": "2-2-2/data.csv",
       "name": "2-2-2",
       "profile": "tabular-data-resource",
-      "path": "2-2-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -2882,29 +2433,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "5674746aa4f37022cbd29a39752d8909",
-        "bytes": 404,
-        "fields": 3,
-        "rows": 12
-      },
       "title": "Durchschnittliche Bewohnerzahl in der Landesaufnahmebehörde Niedersachsen (LAB NI)"
     },
     {
+      "path": "2-1-8/data.csv",
       "name": "2-1-8",
       "profile": "tabular-data-resource",
-      "path": "2-1-8/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -2996,29 +2534,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "44a3e1537ae0b6c5f0d609300bba02b7",
-        "bytes": 2297,
-        "fields": 5,
-        "rows": 51
-      },
       "title": "Familiennachzug"
     },
     {
+      "path": "2-1-4/data.csv",
       "name": "2-1-4",
       "profile": "tabular-data-resource",
-      "path": "2-1-4/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -3110,29 +2635,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "8199c3dd31cf077e956e5fff9f31c5c2",
-        "bytes": 17702,
-        "fields": 5,
-        "rows": 253
-      },
       "title": "Aufenthaltsgestattung zum Asylverfahren"
     },
     {
+      "path": "5-3-1/data.csv",
       "name": "5-3-1",
       "profile": "tabular-data-resource",
-      "path": "5-3-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -3200,29 +2712,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "2f2dc07c2f562d280175356b18fccab8",
-        "bytes": 24957,
-        "fields": 6,
-        "rows": 486
-      },
       "title": "Erwerbslosenanteil nach Zuwanderungsgeschichte (C3)"
     },
     {
+      "path": "2-1-9/data.csv",
       "name": "2-1-9",
       "profile": "tabular-data-resource",
-      "path": "2-1-9/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -3314,29 +2813,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "e896419f36676adc14f4464adad730b7",
-        "bytes": 13718,
-        "fields": 5,
-        "rows": 255
-      },
       "title": "Niederlassungserlaubnis"
     },
     {
+      "path": "1-2-1/data.csv",
       "name": "1-2-1",
       "profile": "tabular-data-resource",
-      "path": "1-2-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -3418,29 +2904,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "fb0a186d60f8487d40ddea428a0146fa",
-        "bytes": 25645,
-        "fields": 4,
-        "rows": 832
-      },
       "title": "Ausländerinnen und Ausländer in Niedersachsen (A2)"
     },
     {
+      "path": "2-2-3/data.csv",
       "name": "2-2-3",
       "profile": "tabular-data-resource",
-      "path": "2-2-3/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -3467,29 +2940,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "71260a540a98157396b1b20dba67c98c",
-        "bytes": 583,
-        "fields": 3,
-        "rows": 14
-      },
       "title": "Abschiebungen und Überstellungen nach der Dublin III VO"
     },
     {
+      "path": "7-1-2/data.csv",
       "name": "7-1-2",
       "profile": "tabular-data-resource",
-      "path": "7-1-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -3516,30 +2976,17 @@
             "title": "Value"
           }
         ]
-      },
-      "stats": {
-        "hash": "27e51f73d13b4f762413a2a1d55f136c",
-        "bytes": 72,
-        "fields": 3,
-        "rows": 6
       },
       "title": "Wohneigentum"
     },
     {
+      "path": "6-3-1/data.csv",
       "name": "6-3-1",
       "profile": "tabular-data-resource",
-      "path": "6-3-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -3548,48 +2995,79 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Überwiegender Lebensunterhalt",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                "G",
+                "Insgesamt",
+                "eigene Erwerbs-/ Berufstätigkeit",
+                "Arbeitslosengeld I",
+                "Rente und Pension",
+                "Einkünfte von Angehörigen",
+                "eigenes Vermögen  Vermietung  Zinsen  Altenteil",
+                "lfd. Hilfe zum Lebensunterhalt2)",
+                "Leistungen nach dem SGB II",
+                "sonstige Unterstützungen (z.B. BAföG  Elterngeld)",
+                "Elterngeld",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Überwiegender Lebensunterhalt"
+          },
+          {
+            "name": "Migrationsstatus",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "ohne Migrationshintergrund",
+                "mit Migrationshintergrund",
+                ""
+              ]
+            },
+            "title": "Migrationsstatus"
+          },
+          {
+            "name": "Geschlecht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "Männer",
+                "Frauen",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
       },
-      "stats": {
-        "hash": "dadff7da799fd475173c099f715143c7",
-        "bytes": 73,
-        "fields": 3,
-        "rows": 6
-      },
       "title": "Bevölkerung am Ort der Hauptwohnung nach Zuwanderungsgeschichte und überwiegendem Lebensunterhalt (D6)"
     },
     {
+      "path": "2-2-1/data.csv",
       "name": "2-2-1",
       "profile": "tabular-data-resource",
-      "path": "2-2-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -3615,29 +3093,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "bd55362d2baa5156fc2457ad88561d81",
-        "bytes": 201,
-        "fields": 3,
-        "rows": 7
-      },
       "title": "EASY-Zugänge in Niedersachsen"
     },
     {
+      "path": "1-4-2/data.csv",
       "name": "1-4-2",
       "profile": "tabular-data-resource",
-      "path": "1-4-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -3665,29 +3130,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "0e0bdd4f7f55490f80db9d4e940858ea",
-        "bytes": 72,
-        "fields": 3,
-        "rows": 6
-      },
       "title": "Fortzüge über die Bundesgrenze aus Niedersachsen (A19)"
     },
     {
+      "path": "4-1-6/data.csv",
       "name": "4-1-6",
       "profile": "tabular-data-resource",
-      "path": "4-1-6/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -3751,29 +3203,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "34169cae8f95fc7be6b9f6799af5e6b9",
-        "bytes": 7872,
-        "fields": 6,
-        "rows": 150
-      },
       "title": "Frühe Schulabgängerinnen und Schulabgänger nach Geschlecht, Zuwanderungsgeschichte und eigener Migrationserfahrung (B13)"
     },
     {
+      "path": "5-2-2/data.csv",
       "name": "5-2-2",
       "profile": "tabular-data-resource",
-      "path": "5-2-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -3801,29 +3240,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "d35f80c42b9c941190ac3aa1666a7d82",
-        "bytes": 71,
-        "fields": 3,
-        "rows": 6
-      },
       "title": "Sozialversicherungspflichtig beschäftigte Ausländerinnen und Ausländer nach Art der Ausbildung (C4)"
     },
     {
+      "path": "5-1-1/data.csv",
       "name": "5-1-1",
       "profile": "tabular-data-resource",
-      "path": "5-1-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -3891,29 +3317,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "247578a85d30857214eb5a6ad63744d8",
-        "bytes": 33819,
-        "fields": 5,
-        "rows": 363
-      },
       "title": "Erwerbstätige Menschen mit Zuwanderungsgeschichte in Niedersachsen nach Wirtschaftsabschnitten und Geschlecht (C1)"
     },
     {
+      "path": "2-1-5/data.csv",
       "name": "2-1-5",
       "profile": "tabular-data-resource",
-      "path": "2-1-5/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -4005,29 +3418,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "b0f4d22afad9ff1c14438b2d6b8cdb01",
-        "bytes": 31876,
-        "fields": 5,
-        "rows": 253
-      },
       "title": "Bleiberecht (Aufenthaltsgewährung) und Opfer von Menschenhandel sowie organisierter Schwarzarbeit"
     },
     {
+      "path": "1-4-5/data.csv",
       "name": "1-4-5",
       "profile": "tabular-data-resource",
-      "path": "1-4-5/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -4055,29 +3455,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "0e0bdd4f7f55490f80db9d4e940858ea",
-        "bytes": 72,
-        "fields": 3,
-        "rows": 6
-      },
       "title": "Ausländerinnen und Ausländer in Niedersachsen nach ausgewählten Staatsangehörigkeiten und Geschlecht (A6)"
     },
     {
+      "path": "3-1-2/data.csv",
       "name": "3-1-2",
       "profile": "tabular-data-resource",
-      "path": "3-1-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -4171,29 +3558,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "a53750524acf454ca486e4f8b920a784",
-        "bytes": 129107,
-        "fields": 5,
-        "rows": 1352
-      },
       "title": "Anteil der betreuten Kinder bis unter 6 Jahren mit Zuwanderungsgeschichte in Tageseinrichtungen (B2)"
     },
     {
+      "path": "1-1-3/data.csv",
       "name": "1-1-3",
       "profile": "tabular-data-resource",
-      "path": "1-1-3/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -4275,29 +3649,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "da7f48ce4d8099eb8486f34fb793877a",
-        "bytes": 23421,
-        "fields": 4,
-        "rows": 780
-      },
       "title": "Bevölkerungsentwicklung in Niedersachsen (Veränderung in Prozent gegenüber denm Vorjahr)"
     },
     {
+      "path": "6-2-2/data.csv",
       "name": "6-2-2",
       "profile": "tabular-data-resource",
-      "path": "6-2-2/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -4325,29 +3686,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "27e51f73d13b4f762413a2a1d55f136c",
-        "bytes": 72,
-        "fields": 3,
-        "rows": 6
-      },
       "title": "Empfängerinnen und Empfänger von Mindestsicherungsleistungen nach Altersgruppen (D3)"
     },
     {
+      "path": "1-3-3/data.csv",
       "name": "1-3-3",
       "profile": "tabular-data-resource",
-      "path": "1-3-3/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -4406,29 +3754,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "0f745403c39c75d86ef424ac975a149b",
-        "bytes": 22653,
-        "fields": 5,
-        "rows": 540
-      },
       "title": "Menschen mit Migrationshintergrund nach Altersgruppen und Geschlecht (A12)"
     },
     {
+      "path": "2-1-3/data.csv",
       "name": "2-1-3",
       "profile": "tabular-data-resource",
-      "path": "2-1-3/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -4520,29 +3855,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "0d7368f1105a7f9aadb5f24acfae27e2",
-        "bytes": 17224,
-        "fields": 5,
-        "rows": 255
-      },
       "title": "Asylberechtigte und GfK-Flüchtlinge"
     },
     {
+      "path": "1-1-1/data.csv",
       "name": "1-1-1",
       "profile": "tabular-data-resource",
-      "path": "1-1-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -4624,29 +3946,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "c0cffc37a66e9dd292281b8cc9a06d09",
-        "bytes": 27080,
-        "fields": 4,
-        "rows": 833
-      },
       "title": "Bevölkerung in Niedersachsen (A1)"
     },
     {
+      "path": "5-3-3/data.csv",
       "name": "5-3-3",
       "profile": "tabular-data-resource",
-      "path": "5-3-3/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -4674,29 +3983,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "0e0bdd4f7f55490f80db9d4e940858ea",
-        "bytes": 72,
-        "fields": 3,
-        "rows": 6
-      },
       "title": "Arbeitslose nach Zuwanderungsgeschichte, Rechtskreis und Geschlecht (C7)"
     },
     {
+      "path": "4-3-1/data.csv",
       "name": "4-3-1",
       "profile": "tabular-data-resource",
-      "path": "4-3-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -4746,29 +4042,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "2206382d1245eb527dfc52cd265a7ab1",
-        "bytes": 64371,
-        "fields": 4,
-        "rows": 810
-      },
       "title": "Ausländische Studentinnen und Studenten nach Land des Erwerbs der Studienberechtigung (B11)"
     },
     {
+      "path": "4-1-1/data.csv",
       "name": "4-1-1",
       "profile": "tabular-data-resource",
-      "path": "4-1-1/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -4839,29 +4122,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "59d789ece4b59258bbf4a2268ee0e327",
-        "bytes": 159008,
-        "fields": 5,
-        "rows": 2000
-      },
       "title": "Schulabgängerinnen und Schulabgänger an berufsbildenden Schulen nach Schulart und Schulabschluss (B8)"
     },
     {
+      "path": "1-3-4/data.csv",
       "name": "1-3-4",
       "profile": "tabular-data-resource",
-      "path": "1-3-4/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -4946,29 +4216,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "8739d9c35a0f6963c42eeb3973b33130",
-        "bytes": 17386,
-        "fields": 5,
-        "rows": 426
-      },
       "title": "Menschen mit Migrationshintergrund nach Herkunftsland und Geschlecht (A13)"
     },
     {
+      "path": "3-1-3/data.csv",
       "name": "3-1-3",
       "profile": "tabular-data-resource",
-      "path": "3-1-3/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -5074,29 +4331,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "1e904ad1f00cc3d839456b8044b3e2bb",
-        "bytes": 254921,
-        "fields": 6,
-        "rows": 1872
-      },
       "title": "Betreute Kinder bis unter 3 Jahren und von 3 bis unter 6 Jahren mit Zuwanderungsgeschichte in Kindertagesbetreuung (B3)"
     },
     {
+      "path": "1-2-6/data.csv",
       "name": "1-2-6",
       "profile": "tabular-data-resource",
-      "path": "1-2-6/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -5124,29 +4368,16 @@
           }
         ]
       },
-      "stats": {
-        "hash": "0e0bdd4f7f55490f80db9d4e940858ea",
-        "bytes": 72,
-        "fields": 3,
-        "rows": 6
-      },
       "title": "Ausländerinnen und Ausländer in Niedersachsen nach Altersgruppen (A7)"
     },
     {
+      "path": "4-1-4/data.csv",
       "name": "4-1-4",
       "profile": "tabular-data-resource",
-      "path": "4-1-4/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -5160,30 +4391,17 @@
             "title": "Value"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "Schulabgängerinnen und Schulabgänger nach Nationalität und Abschlussart (B6)"
     },
     {
+      "path": "4-1-5/data.csv",
       "name": "4-1-5",
       "profile": "tabular-data-resource",
-      "path": "4-1-5/data.csv",
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "control": {
-        "newline": ""
-      },
-      "dialect": {},
-      "query": {},
       "schema": {
         "fields": [
           {
@@ -5197,12 +4415,6 @@
             "title": "Value"
           }
         ]
-      },
-      "stats": {
-        "hash": "a50caf6f1372a6649c53e48c80bbf9f1",
-        "bytes": 11,
-        "fields": 2,
-        "rows": 0
       },
       "title": "Höchster Schulabschluss an allgemein bildenden Schulen nach Zuwanderungsgeschichte und Altersgruppen (B7)"
     }

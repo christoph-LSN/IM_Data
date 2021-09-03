@@ -1,11 +1,13 @@
 {
-  "profile": "data-package",
   "resources": [
     {
       "path": "data.csv",
-      "control": {
-        "newline": ""
-      },
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -32,25 +34,10 @@
             "title": "Value"
           }
         ]
-      },
-      "name": "data",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "dialect": {},
-      "query": {},
-      "stats": {
-        "hash": "d35f80c42b9c941190ac3aa1666a7d82",
-        "bytes": 71,
-        "fields": 3,
-        "rows": 6
       }
     }
   ],
+  "profile": "data-package",
   "name": "4-2-1",
   "title": "Ausbildungsbeteiligungsquote im dualen System nach Geschlecht und Nationalität (B10)"
 }

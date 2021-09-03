@@ -1,11 +1,13 @@
 {
-  "profile": "data-package",
   "resources": [
     {
       "path": "data.csv",
-      "control": {
-        "newline": ""
-      },
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -13,41 +15,67 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Überwiegender Lebensunterhalt",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                "G",
+                "Insgesamt",
+                "eigene Erwerbs-/ Berufstätigkeit",
+                "Arbeitslosengeld I",
+                "Rente und Pension",
+                "Einkünfte von Angehörigen",
+                "eigenes Vermögen  Vermietung  Zinsen  Altenteil",
+                "lfd. Hilfe zum Lebensunterhalt2)",
+                "Leistungen nach dem SGB II",
+                "sonstige Unterstützungen (z.B. BAföG  Elterngeld)",
+                "Elterngeld",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Migrationsstatus",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "ohne Migrationshintergrund",
+                "mit Migrationshintergrund",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geschlecht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "Männer",
+                "Frauen",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "string"
           }
         ]
-      },
-      "name": "data",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "dialect": {},
-      "query": {},
-      "stats": {
-        "hash": "dadff7da799fd475173c099f715143c7",
-        "bytes": 73,
-        "fields": 3,
-        "rows": 6
       }
     }
   ],
+  "profile": "data-package",
   "name": "6-3-1",
   "title": "global_indicators.6-3-1-title"
 }

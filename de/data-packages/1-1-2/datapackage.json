@@ -1,11 +1,13 @@
 {
-  "profile": "data-package",
   "resources": [
     {
       "path": "data.csv",
-      "control": {
-        "newline": ""
-      },
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -85,25 +87,10 @@
             "title": "Value"
           }
         ]
-      },
-      "name": "data",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "compression": "no",
-      "compressionPath": "",
-      "dialect": {},
-      "query": {},
-      "stats": {
-        "hash": "c5aac6a60b36032e6c7ba79aae21a8fd",
-        "bytes": 6567,
-        "fields": 4,
-        "rows": 153
       }
     }
   ],
+  "profile": "data-package",
   "name": "1-1-2",
   "title": "Bevölkerungsentwicklung in Niedersachsen (Veränderung in Prozent) (A1x)"
 }
