@@ -1,13 +1,11 @@
 {
+  "profile": "data-package",
   "resources": [
     {
       "path": "data.csv",
-      "name": "data",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
+      "control": {
+        "newline": ""
+      },
       "schema": {
         "fields": [
           {
@@ -86,10 +84,25 @@
             "title": "Value"
           }
         ]
+      },
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "compression": "no",
+      "compressionPath": "",
+      "dialect": {},
+      "query": {},
+      "stats": {
+        "hash": "152945a39fa93eb09dc4f9be6ce6a1c0",
+        "bytes": 101715,
+        "fields": 6,
+        "rows": 1377
       }
     }
   ],
-  "profile": "data-package",
   "name": "1-3-2",
   "title": "Menschen mit Migrationshintergrund in den regionalen Anpassungsschichten (A11)"
 }

@@ -1,13 +1,11 @@
 {
+  "profile": "data-package",
   "resources": [
     {
       "path": "data.csv",
-      "name": "data",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
+      "control": {
+        "newline": ""
+      },
       "schema": {
         "fields": [
           {
@@ -93,10 +91,25 @@
             "type": "integer"
           }
         ]
+      },
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "compression": "no",
+      "compressionPath": "",
+      "dialect": {},
+      "query": {},
+      "stats": {
+        "hash": "8199c3dd31cf077e956e5fff9f31c5c2",
+        "bytes": 17702,
+        "fields": 5,
+        "rows": 253
       }
     }
   ],
-  "profile": "data-package",
   "name": "2-1-4",
   "title": "global_indicators.2-1-4-title"
 }

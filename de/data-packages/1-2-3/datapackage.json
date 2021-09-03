@@ -1,13 +1,11 @@
 {
+  "profile": "data-package",
   "resources": [
     {
       "path": "data.csv",
-      "name": "data",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
+      "control": {
+        "newline": ""
+      },
       "schema": {
         "fields": [
           {
@@ -117,10 +115,25 @@
             "title": "Value"
           }
         ]
+      },
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "compression": "no",
+      "compressionPath": "",
+      "dialect": {},
+      "query": {},
+      "stats": {
+        "hash": "66d4066d45aca234e88ab219b90f9385",
+        "bytes": 737887,
+        "fields": 6,
+        "rows": 15813
       }
     }
   ],
-  "profile": "data-package",
   "name": "1-2-3",
   "title": "Ausländerinnen und Ausländer in Niedersachsen nach Aufenthaltsdauer (A3)"
 }
