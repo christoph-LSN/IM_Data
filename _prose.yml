@@ -206,5 +206,16 @@ prose:
             label: "Datenherkunft"
             translation_key: metadata_fields.data_source
             scope: source_1
-
+      - name: "data_source_link"
+        field:
+            element: text
+            label: "Link zur Datenquelle"
+            translation_key: metadata_fields.data_source_link
+            scope: source_1
+      - name: "data_source"
+        field:
+            element: text
+            label: "Linkt zur Datenquelle Text"
+            translation_key: metadata_fields.data_source_linktext
+            scope: source_1
   ignore: ['/scripts', '/.github']
