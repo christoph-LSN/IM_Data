@@ -28,19 +28,22 @@ prose:
             label: "Layout"
             translation_key: metadata_fields.layout
             scope: page
-    ######### Global Metadata Indikator Beschreibung #########
+    ######### Global Metadata Indikator Beschreibung  #########
+    #######Definition des Indikators#########
       - name: "national_indicator_description"
         field:
             element: textarea
             label: "Definition des Indikators"
             translation_key: metadata_fields.national_indicator_description
             scope: national
+  #######Methodische Hinweise#######
       - name: "computation_calculations"
         field:
             element: textarea
             label: "Methodische Hinweise"
             translation_key: metadata_fields.computation_calculations
             scope: national
+########Weiterführende Informaitonen########
       - name: "other_info"
         field:
             element: textarea
