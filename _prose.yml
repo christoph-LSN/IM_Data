@@ -200,6 +200,11 @@ prose:
             label: "Other information"
             translation_key: metadata_fields.source_other_info_1
             scope: source_1
-
+      - name: "data_source"
+        field:
+            element: textarea
+            label: "Datenherkunft"
+            translation_key: metadata_fields.data_source
+            scope: source_1
 
   ignore: ['/scripts', '/.github']
