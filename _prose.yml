@@ -244,7 +244,7 @@ prose:
         field:
             element: text
             label: "Link to data source text"
-            translation_key: metadata_fields.source_url_text_1
+            translation_key: metadata_fields.source_url_text_2
             value: "Link to Source"
             scope: source_2
   ignore: ['/scripts', '/.github']
