@@ -233,7 +233,7 @@ prose:
             label: Source 2 active
             translation_key: metadata_fields.source_active_1
             help: Whether or not to display this source
-            value: true
+            value: false
       - name: "source_url_2"
         field:
             element: text
