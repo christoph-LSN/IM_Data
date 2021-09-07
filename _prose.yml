@@ -85,6 +85,13 @@ prose:
             translation_key: metadata_fields.data_footnote
             help: Footnotes appear under the chart and by data tables
             scope: data
+      - name: data_footnotes
+        field:
+            element: text
+            label: Fußnoten
+            translation_key: metadata_fields.data_footnotes
+            help: Footnotes appear under the chart and by data tables
+            scope: data
       - name: copyright
         field:
             element: text
