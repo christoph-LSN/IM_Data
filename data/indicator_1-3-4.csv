@@ -143,14 +143,14 @@ Year,Herkunftsland,Migrationshintergrund,Units,Value
 2014,Insgesamt,Insgesamt,in 1000,1356
 2019,Europa,dav. Männer,in 1000,540.302
 2019,Bulgarien,dav. Männer,in 1000,12.865
-2019,Frankreich,dav. Männer,in 1000,/
+2019,Frankreich,dav. Männer,in 1000, 
 2019,Griechenland,dav. Männer,in 1000,14.11
 2019,Italien,dav. Männer,in 1000,22.067
 2019,Kroatien,dav. Männer,in 1000,8.937
 2019,Niederlande,dav. Männer,in 1000,25.547
 2019,Österreich,dav. Männer,in 1000,6.445
 2019,Polen,dav. Männer,in 1000,120.11
-2019,Portugal,dav. Männer,in 1000,/
+2019,Portugal,dav. Männer,in 1000, 
 2019,Rumänien,dav. Männer,in 1000,23.337
 2019,Spanien,dav. Männer,in 1000,10.167
 2019,Vereinigtes Königreich,dav. Männer,in 1000,12.516
@@ -163,7 +163,7 @@ Year,Herkunftsland,Migrationshintergrund,Units,Value
 2019,Ukraine,dav. Männer,in 1000,12.117
 2019,EU-Staaten,dav. Männer,in 1000,286.367
 2019,Afrika,dav. Männer,in 1000,34.247
-2019,Marokko,dav. Männer,in 1000,/
+2019,Marokko,dav. Männer,in 1000, 
 2019,Ägypten Algerien Libyen Tunesien,dav. Männer,in 1000,9.355
 2019,Amerika,dav. Männer,in 1000,17.595
 2019,Asien Australien und Ozeanien,dav. Männer,in 1000,246.272
@@ -285,14 +285,14 @@ Year,Herkunftsland,Migrationshintergrund,Units,Value
 2014,Insgesamt,dav. Männer,in 1000,682
 2019,Europa,dav. Frauen,in 1000,529.266
 2019,Bulgarien,dav. Frauen,in 1000,11.125
-2019,Frankreich,dav. Frauen,in 1000,/
+2019,Frankreich,dav. Frauen,in 1000, 
 2019,Griechenland,dav. Frauen,in 1000,10.549
 2019,Italien,dav. Frauen,in 1000,15.278
 2019,Kroatien,dav. Frauen,in 1000,7.31
 2019,Niederlande,dav. Frauen,in 1000,15.845
 2019,Österreich,dav. Frauen,in 1000,6.7
 2019,Polen,dav. Frauen,in 1000,125.143
-2019,Portugal,dav. Frauen,in 1000,/
+2019,Portugal,dav. Frauen,in 1000, 
 2019,Rumänien,dav. Frauen,in 1000,20.759
 2019,Spanien,dav. Frauen,in 1000,7.147
 2019,Vereinigtes Königreich,dav. Frauen,in 1000,7.297
@@ -305,8 +305,8 @@ Year,Herkunftsland,Migrationshintergrund,Units,Value
 2019,Ukraine,dav. Frauen,in 1000,15.472
 2019,EU-Staaten,dav. Frauen,in 1000,260.904
 2019,Afrika,dav. Frauen,in 1000,19.84
-2019,Marokko,dav. Frauen,in 1000,/
-2019,Ägypten Algerien Libyen Tunesien,dav. Frauen,in 1000,/
+2019,Marokko,dav. Frauen,in 1000, 
+2019,Ägypten Algerien Libyen Tunesien,dav. Frauen,in 1000, 
 2019,Amerika,dav. Frauen,in 1000,18.329
 2019,Asien Australien und Ozeanien,dav. Frauen,in 1000,221.828
 2019,Irak,dav. Frauen,in 1000,17.496
@@ -333,7 +333,7 @@ Year,Herkunftsland,Migrationshintergrund,Units,Value
 2018,Ukraine,dav. Frauen,in 1000,17
 2018,EU-Staaten,dav. Frauen,in 1000,268
 2018,Afrika,dav. Frauen,in 1000,16
-2018,Ägypten Algerien Libyen Tunesien,dav. Frauen,in 1000,/
+2018,Ägypten Algerien Libyen Tunesien,dav. Frauen,in 1000, 
 2018,Amerika,dav. Frauen,in 1000,20
 2018,Asien Australien und Ozeanien,dav. Frauen,in 1000,223
 2018,Irak,dav. Frauen,in 1000,11
@@ -352,7 +352,7 @@ Year,Herkunftsland,Migrationshintergrund,Units,Value
 2017,Polen,dav. Frauen,in 1000,126.1
 2017,Rumänien,dav. Frauen,in 1000,17.7
 2017,Spanien,dav. Frauen,in 1000,8.1
-2017,Vereinigtes Königreich,dav. Frauen,in 1000,/
+2017,Vereinigtes Königreich,dav. Frauen,in 1000, 
 2017,Kosovo,dav. Frauen,in 1000,18
 2017,Russische Föderation,dav. Frauen,in 1000,107.1
 2017,Serbien,dav. Frauen,in 1000,10.1
@@ -413,7 +413,7 @@ Year,Herkunftsland,Migrationshintergrund,Units,Value
 2014,Spanien,dav. Frauen,in 1000,5.9
 2014,Vereinigtes Königreich,dav. Frauen,in 1000,5
 2014,Kroatien,dav. Frauen,in 1000,5.2
-2014,Österreich,dav. Frauen,in 1000,/
+2014,Österreich,dav. Frauen,in 1000, 
 2014,EU-Staaten,dav. Frauen,in 1000,182
 2014,Afrika,dav. Frauen,in 1000,12
 2014,Amerika,dav. Frauen,in 1000,13
@@ -422,6 +422,6 @@ Year,Herkunftsland,Migrationshintergrund,Units,Value
 2014,Vietnam,dav. Frauen,in 1000,9.8
 2014,Libanon,dav. Frauen,in 1000,8.7
 2014,Iran,dav. Frauen,in 1000,6.7
-2014,Syrien,dav. Frauen,in 1000,/
+2014,Syrien,dav. Frauen,in 1000, 
 2014,Ohne Angabe,dav. Frauen,in 1000,64
 2014,Insgesamt,dav. Frauen,in 1000,674
