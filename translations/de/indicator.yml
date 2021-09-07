@@ -34,8 +34,8 @@ no_data_hint: Aufgrund der bereits getroffenen Auswahl sind keine weiteren Auswa
 select_all: Alle auswählen
 series: Reihe
 series_help: Wählen Sie eine oder mehrere Kategorien aus, um die Tabelle/Grafik anzupassen.
-source: Datenquelle (source)
-sources: Datenquellen (sources)
+source: Datenquelle
+sources: Datenquellen
 sub_categories: Kategorien
 table: Tabelle
 unit_of_measurement: Einheit
