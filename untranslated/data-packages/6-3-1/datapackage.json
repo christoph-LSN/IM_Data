@@ -15,61 +15,20 @@
             "type": "integer"
           },
           {
-            "name": "Überwiegender Lebensunterhalt",
+            "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "Insgesamt",
-                "eigene Erwerbs-/ Berufstätigkeit",
-                "Arbeitslosengeld I",
-                "Rente und Pension",
-                "Einkünfte von Angehörigen",
-                "eigenes Vermögen  Vermietung  Zinsen  Altenteil",
-                "lfd. Hilfe zum Lebensunterhalt2)",
-                "Leistungen nach dem SGB II",
-                "sonstige Unterstützungen (z.B. BAföG  Elterngeld)",
-                "Elterngeld",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Migrationsstatus",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Insgesamt",
-                "ohne Migrationshintergrund",
-                "mit Migrationshintergrund",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Geschlecht",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Insgesamt",
-                "Männer",
-                "Frauen",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
+                "A",
+                "B",
+                "G",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "integer"
           }
         ]
       }

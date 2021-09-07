@@ -214,7 +214,7 @@
             "constraints": {
               "enum": [
                 "Männer",
-                "Frauen ",
+                "Frauen",
                 "Insgesamt",
                 ""
               ]
@@ -1297,7 +1297,7 @@
             "constraints": {
               "enum": [
                 "deutsche Staatsangehörigkeit",
-                "nichtdeutsche Staatsangehörigkeit  ",
+                "nichtdeutsche Staatsangehörigkeit",
                 "mit Migrationshintergrund",
                 "ohne Migrationshintergrund",
                 "Insgesamt",
@@ -2995,65 +2995,21 @@
             "title": "Year"
           },
           {
-            "name": "Überwiegender Lebensunterhalt",
+            "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "Insgesamt",
-                "eigene Erwerbs-/ Berufstätigkeit",
-                "Arbeitslosengeld I",
-                "Rente und Pension",
-                "Einkünfte von Angehörigen",
-                "eigenes Vermögen  Vermietung  Zinsen  Altenteil",
-                "lfd. Hilfe zum Lebensunterhalt2)",
-                "Leistungen nach dem SGB II",
-                "sonstige Unterstützungen (z.B. BAföG  Elterngeld)",
-                "Elterngeld",
+                "A",
+                "B",
+                "G",
                 ""
               ]
             },
-            "title": "Überwiegender Lebensunterhalt"
-          },
-          {
-            "name": "Migrationsstatus",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Insgesamt",
-                "ohne Migrationshintergrund",
-                "mit Migrationshintergrund",
-                ""
-              ]
-            },
-            "title": "Migrationsstatus"
-          },
-          {
-            "name": "Geschlecht",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Insgesamt",
-                "Männer",
-                "Frauen",
-                ""
-              ]
-            },
-            "title": "Geschlecht"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
+            "title": "Group"
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
