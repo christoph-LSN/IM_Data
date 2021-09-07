@@ -78,6 +78,17 @@
             "title": "Gebietseinheit"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
