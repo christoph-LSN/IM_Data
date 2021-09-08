@@ -16,21 +16,47 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Kategorie",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                "G",
+                "Wohnfläche",
+                "Bruttokaltmiete",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Kategorie"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "qm",
+                "€",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Migrationsstatus",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "ohne Migrationshintergrund",
+                "mit Migrationshintergrund",
+                "dav. mit eigener Migrationserfahrung",
+                "dav.ohne eigene Migrationserfahrung",
+                ""
+              ]
+            },
+            "title": "Migrationsstatus"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
