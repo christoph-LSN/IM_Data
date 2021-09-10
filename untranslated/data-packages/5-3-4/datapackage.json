@@ -12,8 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Year"
+            "type": "integer"
           },
           {
             "name": "Group",
@@ -25,19 +24,17 @@
                 "G",
                 ""
               ]
-            },
-            "title": "Group"
+            }
           },
           {
             "name": "Value",
-            "type": "integer",
-            "title": "Value"
+            "type": "integer"
           }
         ]
       }
     }
   ],
   "profile": "data-package",
-  "name": "5-3-3",
-  "title": "Entwicklung der Abstände der Arbeitslosenquoten nach Nationalität"
+  "name": "5-3-4",
+  "title": "global_indicators.5-3-4-title"
 }
