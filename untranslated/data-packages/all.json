@@ -1263,15 +1263,26 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
+          },
+          {
+            "name": "Kategorie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Wohnfläche",
+                "Bruttokaltmiete",
+                ""
+              ]
+            }
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Wohnfläche in qm",
-                "Bruttokaltmiete in €",
+                "qm",
+                "€",
                 ""
               ]
             }
