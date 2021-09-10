@@ -1266,23 +1266,12 @@
             "type": "integer"
           },
           {
-            "name": "Kategorie",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Wohnfläche",
-                "Bruttokaltmiete",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "qm",
-                "€",
+                "Wohnfläche in qm",
+                "Bruttokaltmiete in €",
                 ""
               ]
             }
