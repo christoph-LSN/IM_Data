@@ -2100,6 +2100,7 @@
                 "Abstand der Arbeitslosenquote von Ausländerinnen und Ausländern zu Insgesamt",
                 "Arbeitslosenquote (Insgesamt) der bis unter 25-Jährigen",
                 "Arbeitslosenquote der Ausländerinnen und Ausländer bis unter 25 Jahren",
+                "Abstand der Arbeitslosenquote von Ausländerinnen und Ausländern zu Insgesamt (bis unter 25 Jahren)",
                 ""
               ]
             }
@@ -2109,19 +2110,23 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Insgesamt",
                 "Männer",
                 "Frauen",
+                "15 bis unter 20 Jahre",
+                "20 bis unter 25 Jahre",
                 ""
               ]
             }
           },
           {
-            "name": "Altersgruppe",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "15 bis unter 20 Jahre",
-                "20 bis unter 25 Jahre",
+                "% ",
+                "Prozentpunkte",
+                "%",
                 ""
               ]
             }
