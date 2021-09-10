@@ -12,7 +12,54 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Altersgruppe",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "18 – 25",
+                "25 – 35",
+                "15 – 65",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Schulabschluss",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ohne Abschluss",
+                "Hauptschulabschluss",
+                "Realschulabschluss",
+                "(Fach-)Hochschulreife",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Migrationsstatus",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "mit Migrationshintergrund",
+                "ohne Migrationshintergrund",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
