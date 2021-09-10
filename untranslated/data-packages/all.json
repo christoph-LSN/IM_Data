@@ -2124,9 +2124,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "% ",
-                "Prozentpunkte",
                 "%",
+                "Prozentpunkte",
                 ""
               ]
             }
