@@ -22,15 +22,14 @@
               "enum": [
                 "Geisteswissenschaften",
                 "Sport",
-                "Rechts- Wirtschafts- und Sozialwissenschaften",
+                "Rechts- Wirtschafts-und  Sozialwissenschaften",
                 "Mathematik und Natruwissenschaften",
                 "Humanmedizin und Gesundheitswissenschaften",
-                "Agrar- Forst-  Ernährungswissenschaften und Veterinärmedizin",
+                "Agrar- Forst- Ernährungswissenschaften Veterinärmedizin",
                 "Ingenieurwissenschaften",
                 "Kunst und Kunstwissenschaften",
-                "Fächergruppen zusammen",
-                "Sprach- und Kulturwissenschaften",
-                "Veterinärmedizin",
+                "Außerhalb der Studienbereichsgliederung",
+                "Fächerguppen zusammen",
                 ""
               ]
             },
@@ -67,8 +66,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "%",
                 "Anzahl",
+                "%",
                 ""
               ]
             },
