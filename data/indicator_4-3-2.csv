@@ -1,367 +1,1837 @@
-Year,Kategorie,Staat,GeoCode,Value
-2019,insgesamt,Albanien,121,6120
-2019,insgesamt,Belgien,124,1300
-2019,insgesamt,Bosnien und Herzegowina,122,7860
-2019,insgesamt,Bulgarien,125,28360
-2019,insgesamt,Dänemark,126,1450
-2019,insgesamt,Estland,127,515
-2019,insgesamt,Finnland,128,1050
-2019,insgesamt,Frankreich,129,4800
-2019,insgesamt,Griechenland,134,18815
-2019,insgesamt,Irland,135,740
-2019,insgesamt,Island,136,140
-2019,insgesamt,Italien,137,28825
-2019,insgesamt,Serbien u.Montenegro Ehem.Jugosla,132,1690
-2019,insgesamt,Serbien (einschl. Kosovo),133,470
-2019,insgesamt,Serbien,170,19115
-2019,insgesamt,Montenegro,140,4405
-2019,insgesamt,Kroatien,130,11915
-2019,insgesamt,Kosovo,150,16475
-2019,insgesamt,Lettland,139,5590
-2019,insgesamt,Litauen,142,7745
-2019,insgesamt,Luxemburg,143,240
-2019,insgesamt,Malta,145,40
-2019,insgesamt,Mazedonien,144,6105
-2019,insgesamt,Moldau Republik,146,2825
-2019,insgesamt,Monaco,147,5
-2019,insgesamt,Niederlande,148,29865
-2019,insgesamt,Norwegen,149,525
-2019,insgesamt,Österreich,151,6680
-2019,insgesamt,Polen,152,98015
-2019,insgesamt,Portugal,153,8740
-2019,insgesamt,Rumänien,154,58980
-2019,insgesamt,Russische Föderation,160,22260
-2019,insgesamt,Schweden,157,1565
-2019,insgesamt,Schweiz,158,2385
-2019,insgesamt,Slowakei,155,2835
-2019,insgesamt,Slowenien,131,915
-2019,insgesamt,ehem. Sowjetunion,159,85
-2019,insgesamt,Spanien,161,11970
-2019,insgesamt,ehem. Tschechoslowakei,162,90
-2019,insgesamt,Tschechische Republik,164,2180
-2019,insgesamt,Türkei,163,88735
-2019,insgesamt,Ukraine,166,11345
-2019,insgesamt,Ungarn,165,9465
-2019,insgesamt,Vereinigtes Königreich GB u.Nordir,168,6750
-2019,insgesamt,Weißrußland,169,2070
-2019,insgesamt,Zypern,181,115
-2019,insgesamt,übrige europäische Staaten,,5
-2019,insgesamt,Europa insgesamt,,542155
-2019,insgesamt,Algerien,221,1380
-2019,insgesamt,Angola,223,235
-2019,insgesamt,Ägypten,287,2095
-2019,insgesamt,Äthiopien,225,375
-2019,insgesamt,Benin,229,125
-2019,insgesamt,Burkina Faso,258,100
-2019,insgesamt,Cote d'Ivoire,231,3040
-2019,insgesamt,Eritrea,224,3800
-2019,insgesamt,Gambia,237,880
-2019,insgesamt,Ghana,238,2945
-2019,insgesamt,Kamerun,262,2005
-2019,insgesamt,Kenia,243,665
-2019,insgesamt,Liberia,247,645
-2019,insgesamt,Marokko,252,2380
-2019,insgesamt,Nigeria,232,2835
-2019,insgesamt,Senegal,269,265
-2019,insgesamt,Sierra Leone,272,125
-2019,insgesamt,Somalia,273,3205
-2019,insgesamt,Südafrika,263,515
-2019,insgesamt,Sudan (einschl. Südsudan) (bis 201,276,240
-2019,insgesamt,Sudan (ab 2011),277,4425
-2019,insgesamt,Südsudan (ab 2011),278,185
-2019,insgesamt,Togo,283,575
-2019,insgesamt,Tunesien,285,3725
-2019,insgesamt,Kongo Dem. Volksrepublik (ehem.Za,246,255
-2019,insgesamt,übrige afrikanische Staaten,,4990
-2019,insgesamt,Afrika insgesamt,,42015
-2019,insgesamt,Argentinien,323,395
-2019,insgesamt,Bolivien,326,145
-2019,insgesamt,Brasilien,327,3190
-2019,insgesamt,Chile,332,555
-2019,insgesamt,Dominikanische Republik,335,455
-2019,insgesamt,Kanada,348,1020
-2019,insgesamt,Kolumbien,349,1875
-2019,insgesamt,Kuba,351,390
-2019,insgesamt,Mexiko,353,1705
-2019,insgesamt,Peru,361,750
-2019,insgesamt,Venezuela,367,360
-2019,insgesamt,Vereinigte Staaten,368,5390
-2019,insgesamt,übrige amerikanische Staaten,,1355
-2019,insgesamt,Amerika insgesamt,,17580
-2019,insgesamt,Afghanistan,423,21190
-2019,insgesamt,Armenien,422,1515
-2019,insgesamt,Aserbaidschan,425,1620
-2019,insgesamt,Bangladesch,460,375
-2019,insgesamt,China,479,10490
-2019,insgesamt,Georgien,430,2640
-2019,insgesamt,Indien,436,7025
-2019,insgesamt,Indonesien,437,1585
-2019,insgesamt,Israel,441,695
-2019,insgesamt,Irak,438,41035
-2019,insgesamt,Iran Islamische Republik,439,10780
-2019,insgesamt,Japan,442,1465
-2019,insgesamt,Jordanien,445,970
-2019,insgesamt,Kasachstan,444,4825
-2019,insgesamt,Korea Republik,467,1550
-2019,insgesamt,Libanon,451,6740
-2019,insgesamt,Malaysia,482,565
-2019,insgesamt,Nepal,458,755
-2019,insgesamt,Pakistan,461,4295
-2019,insgesamt,Die Palästinänsischen Gebiete,459,1030
-2019,insgesamt,Philippinen,462,1870
-2019,insgesamt,Sri Lanka,431,1250
-2019,insgesamt,Syrien Arabische Republik,475,84805
-2019,insgesamt,Taiwan,465,460
-2019,insgesamt,Thailand,476,4190
-2019,insgesamt,Vietnam,432,8760
-2019,insgesamt,übrige asiatische Staaten,,3570
-2019,insgesamt,Asien insgesamt,,226045
-2019,insgesamt,Australien und Ozeanien,,1065
-2019,insgesamt,staatenlos,997,3540
-2019,insgesamt,ungeklärtoh.Angabeunbekannt,,8730
-2019,insgesamt,Britische Überseegebiete,185,35
-2019,insgesamt,Ausländer insgesamt,,841165
-2019,männlich,Albanien,121,3530
-2019,männlich,Belgien,124,665
-2019,männlich,Bosnien und Herzegowina,122,4255
-2019,männlich,Bulgarien,125,15555
-2019,männlich,Dänemark,126,585
-2019,männlich,Estland,127,185
-2019,männlich,Finnland,128,295
-2019,männlich,Frankreich,129,2270
-2019,männlich,Griechenland,134,10670
-2019,männlich,Irland,135,450
-2019,männlich,Island,136,85
-2019,männlich,Italien,137,17460
-2019,männlich,Serbien u.Montenegro Ehem.Jugosla,132,935
-2019,männlich,Serbien (einschl. Kosovo),133,230
-2019,männlich,Serbien,170,9740
-2019,männlich,Montenegro,140,2385
-2019,männlich,Kroatien,130,6790
-2019,männlich,Kosovo,150,8550
-2019,männlich,Lettland,139,2985
-2019,männlich,Litauen,142,3825
-2019,männlich,Luxemburg,143,120
-2019,männlich,Malta,145,20
-2019,männlich,Mazedonien,144,3250
-2019,männlich,Moldau Republik,146,1160
-2019,männlich,Monaco,147,0
-2019,männlich,Niederlande,148,16910
-2019,männlich,Norwegen,149,250
-2019,männlich,Österreich,151,3515
-2019,männlich,Polen,152,53655
-2019,männlich,Portugal,153,4730
-2019,männlich,Rumänien,154,35745
-2019,männlich,Russische Föderation,160,8180
-2019,männlich,Schweden,157,735
-2019,männlich,Schweiz,158,1110
-2019,männlich,Slowakei,155,1480
-2019,männlich,Slowenien,131,515
-2019,männlich,ehem. Sowjetunion,159,30
-2019,männlich,Spanien,161,6320
-2019,männlich,ehem. Tschechoslowakei,162,35
-2019,männlich,Tschechische Republik,164,975
-2019,männlich,Türkei,163,45520
-2019,männlich,Ukraine,166,4195
-2019,männlich,Ungarn,165,5690
-2019,männlich,Vereinigtes Königreich GB u.Nordir,168,4715
-2019,männlich,Weißrußland,169,605
-2019,männlich,Zypern,181,60
-2019,männlich,übrige europäische Staaten,,5
-2019,männlich,Europa insgesamt,,290985
-2019,männlich,Algerien,221,1015
-2019,männlich,Angola,223,130
-2019,männlich,Ägypten,287,1415
-2019,männlich,Äthiopien,225,180
-2019,männlich,Benin,229,80
-2019,männlich,Burkina Faso,258,65
-2019,männlich,Cote d'Ivoire,231,2230
-2019,männlich,Eritrea,224,2585
-2019,männlich,Gambia,237,710
-2019,männlich,Ghana,238,1475
-2019,männlich,Kamerun,262,1110
-2019,männlich,Kenia,243,205
-2019,männlich,Liberia,247,520
-2019,männlich,Marokko,252,1345
-2019,männlich,Nigeria,232,1635
-2019,männlich,Senegal,269,165
-2019,männlich,Sierra Leone,272,90
-2019,männlich,Somalia,273,1995
-2019,männlich,Südafrika,263,240
-2019,männlich,Sudan (einschl. Südsudan) (bis 201,276,210
-2019,männlich,Sudan (ab 2011),277,3555
-2019,männlich,Südsudan (ab 2011),278,155
-2019,männlich,Togo,283,260
-2019,männlich,Tunesien,285,2425
-2019,männlich,Kongo Dem. Volksrepublik (ehem.Za,246,135
-2019,männlich,übrige afrikanische Staaten,,2935
-2019,männlich,Afrika insgesamt,,26865
-2019,männlich,Argentinien,323,195
-2019,männlich,Bolivien,326,55
-2019,männlich,Brasilien,327,1205
-2019,männlich,Chile,332,285
-2019,männlich,Dominikanische Republik,335,165
-2019,männlich,Kanada,348,490
-2019,männlich,Kolumbien,349,840
-2019,männlich,Kuba,351,135
-2019,männlich,Mexiko,353,785
-2019,männlich,Peru,361,280
-2019,männlich,Venezuela,367,160
-2019,männlich,Vereinigte Staaten,368,2820
-2019,männlich,übrige amerikanische Staaten,,605
-2019,männlich,Amerika insgesamt,,8020
-2019,männlich,Afghanistan,423,13435
-2019,männlich,Armenien,422,710
-2019,männlich,Aserbaidschan,425,800
-2019,männlich,Bangladesch,460,250
-2019,männlich,China,479,5300
-2019,männlich,Georgien,430,1240
-2019,männlich,Indien,436,4325
-2019,männlich,Indonesien,437,665
-2019,männlich,Israel,441,420
-2019,männlich,Irak,438,22650
-2019,männlich,Iran Islamische Republik,439,6185
-2019,männlich,Japan,442,575
-2019,männlich,Jordanien,445,585
-2019,männlich,Kasachstan,444,2200
-2019,männlich,Korea Republik,467,590
-2019,männlich,Libanon,451,3885
-2019,männlich,Malaysia,482,285
-2019,männlich,Nepal,458,400
-2019,männlich,Pakistan,461,2980
-2019,männlich,Die Palästinänsischen Gebiete,459,630
-2019,männlich,Philippinen,462,425
-2019,männlich,Sri Lanka,431,585
-2019,männlich,Syrien Arabische Republik,475,48260
-2019,männlich,Taiwan,465,125
-2019,männlich,Thailand,476,400
-2019,männlich,Vietnam,432,3970
-2019,männlich,übrige asiatische Staaten,,1825
-2019,männlich,Asien insgesamt,,123710
-2019,männlich,Australien und Ozeanien,,600
-2019,männlich,staatenlos,997,2005
-2019,männlich,ungeklärtoh.Angabeunbekannt,,5110
-2019,männlich,Britische Überseegebiete,185,15
-2019,männlich,Ausländer insgesamt,,457315
-2019,weiblich,Albanien,121,2590
-2019,weiblich,Belgien,124,640
-2019,weiblich,Bosnien und Herzegowina,122,3605
-2019,weiblich,Bulgarien,125,12800
-2019,weiblich,Dänemark,126,865
-2019,weiblich,Estland,127,330
-2019,weiblich,Finnland,128,750
-2019,weiblich,Frankreich,129,2530
-2019,weiblich,Griechenland,134,8145
-2019,weiblich,Irland,135,295
-2019,weiblich,Island,136,55
-2019,weiblich,Italien,137,11360
-2019,weiblich,Serbien u.Montenegro Ehem.Jugosla,132,750
-2019,weiblich,Serbien (einschl. Kosovo),133,240
-2019,weiblich,Serbien,170,9375
-2019,weiblich,Montenegro,140,2020
-2019,weiblich,Kroatien,130,5120
-2019,weiblich,Kosovo,150,7925
-2019,weiblich,Lettland,139,2600
-2019,weiblich,Litauen,142,3915
-2019,weiblich,Luxemburg,143,120
-2019,weiblich,Malta,145,20
-2019,weiblich,Mazedonien,144,2855
-2019,weiblich,Moldau Republik,146,1665
-2019,weiblich,Monaco,147,0
-2019,weiblich,Niederlande,148,12955
-2019,weiblich,Norwegen,149,275
-2019,weiblich,Österreich,151,3165
-2019,weiblich,Polen,152,44365
-2019,weiblich,Portugal,153,4010
-2019,weiblich,Rumänien,154,23235
-2019,weiblich,Russische Föderation,160,14075
-2019,weiblich,Schweden,157,830
-2019,weiblich,Schweiz,158,1275
-2019,weiblich,Slowakei,155,1355
-2019,weiblich,Slowenien,131,405
-2019,weiblich,ehem. Sowjetunion,159,55
-2019,weiblich,Spanien,161,5650
-2019,weiblich,ehem. Tschechoslowakei,162,55
-2019,weiblich,Tschechische Republik,164,1205
-2019,weiblich,Türkei,163,43215
-2019,weiblich,Ukraine,166,7150
-2019,weiblich,Ungarn,165,3775
-2019,weiblich,Vereinigtes Königreich GB u.Nordir,168,2030
-2019,weiblich,Weißrußland,169,1465
-2019,weiblich,Zypern,181,55
-2019,weiblich,übrige europäische Staaten,,0
-2019,weiblich,Europa insgesamt,,251170
-2019,weiblich,Algerien,221,370
-2019,weiblich,Angola,223,105
-2019,weiblich,Ägypten,287,680
-2019,weiblich,Äthiopien,225,195
-2019,weiblich,Benin,229,50
-2019,weiblich,Burkina Faso,258,35
-2019,weiblich,Cote d'Ivoire,231,815
-2019,weiblich,Eritrea,224,1220
-2019,weiblich,Gambia,237,175
-2019,weiblich,Ghana,238,1465
-2019,weiblich,Kamerun,262,895
-2019,weiblich,Kenia,243,460
-2019,weiblich,Liberia,247,125
-2019,weiblich,Marokko,252,1035
-2019,weiblich,Nigeria,232,1200
-2019,weiblich,Senegal,269,100
-2019,weiblich,Sierra Leone,272,35
-2019,weiblich,Somalia,273,1210
-2019,weiblich,Südafrika,263,275
-2019,weiblich,Sudan (einschl. Südsudan) (bis 201,276,30
-2019,weiblich,Sudan (ab 2011),277,870
-2019,weiblich,Südsudan (ab 2011),278,30
-2019,weiblich,Togo,283,315
-2019,weiblich,Tunesien,285,1295
-2019,weiblich,Kongo Dem. Volksrepublik (ehem.Za,246,120
-2019,weiblich,übrige afrikanische Staaten,,2055
-2019,weiblich,Afrika insgesamt,,15155
-2019,weiblich,Argentinien,323,200
-2019,weiblich,Bolivien,326,85
-2019,weiblich,Brasilien,327,1985
-2019,weiblich,Chile,332,270
-2019,weiblich,Dominikanische Republik,335,285
-2019,weiblich,Kanada,348,530
-2019,weiblich,Kolumbien,349,1040
-2019,weiblich,Kuba,351,255
-2019,weiblich,Mexiko,353,920
-2019,weiblich,Peru,361,475
-2019,weiblich,Venezuela,367,195
-2019,weiblich,Vereinigte Staaten,368,2570
-2019,weiblich,übrige amerikanische Staaten,,745
-2019,weiblich,Amerika insgesamt,,9560
-2019,weiblich,Afghanistan,423,7755
-2019,weiblich,Armenien,422,810
-2019,weiblich,Aserbaidschan,425,815
-2019,weiblich,Bangladesch,460,125
-2019,weiblich,China,479,5195
-2019,weiblich,Georgien,430,1400
-2019,weiblich,Indien,436,2700
-2019,weiblich,Indonesien,437,920
-2019,weiblich,Israel,441,275
-2019,weiblich,Irak,438,18385
-2019,weiblich,Iran Islamische Republik,439,4595
-2019,weiblich,Japan,442,890
-2019,weiblich,Jordanien,445,385
-2019,weiblich,Kasachstan,444,2625
-2019,weiblich,Korea Republik,467,960
-2019,weiblich,Libanon,451,2850
-2019,weiblich,Malaysia,482,280
-2019,weiblich,Nepal,458,355
-2019,weiblich,Pakistan,461,1315
-2019,weiblich,Die Palästinänsischen Gebiete,459,400
-2019,weiblich,Philippinen,462,1445
-2019,weiblich,Sri Lanka,431,665
-2019,weiblich,Syrien Arabische Republik,475,36545
-2019,weiblich,Taiwan,465,335
-2019,weiblich,Thailand,476,3790
-2019,weiblich,Vietnam,432,4790
-2019,weiblich,übrige asiatische Staaten,,1740
-2019,weiblich,Asien insgesamt,,102335
-2019,weiblich,Australien und Ozeanien,,460
-2019,weiblich,staatenlos,997,1530
-2019,weiblich,ungeklärtoh.Angabeunbekannt,,3620
-2019,weiblich,Britische Überseegebiete,185,20
-2019,weiblich,Ausländer insgesamt,,383850
+﻿Year,Fächergruppe,Nationalität,Geschlecht,Units,Value
+2020,Geisteswissenschaften,Insgesamt,Insgesamt,%,10.2896634102641
+2020,Sport,Insgesamt,Insgesamt,%,1.0323791647114
+2020,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Insgesamt,%,39.4394437097393
+2020,Mathematik, Natruwissenschaften,Insgesamt,Insgesamt,%,9.74787765027089
+2020,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Insgesamt,%,5.7420758500064
+2020,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Insgesamt,%,6.18574292905593
+2020,Ingenieurwissenschaften,Insgesamt,Insgesamt,%,23.6466021074186
+2020,Kunst, Kunstwissenschaften,Insgesamt,Insgesamt,%,3.91621517853334
+2020,Fächergruppen zusammen,Insgesamt,Insgesamt,%,100
+2019,Sprach- und Kulturwissenschaften,Insgesamt,Insgesamt,%,10.2545155993432
+2019,Sport,Insgesamt,Insgesamt,%,1.00985221674877
+2019,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Insgesamt,%,39.6633825944171
+2019,Mathematik, Natruwissenschaften,Insgesamt,Insgesamt,%,9.72495894909688
+2019,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Insgesamt,%,5.83333333333333
+2019,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Insgesamt,%,5.4679802955665
+2019,Ingenieurwissenschaften,Insgesamt,Insgesamt,%,24.1133004926108
+2019,Kunst, Kunstwissenschaften,Insgesamt,Insgesamt,%,3.93267651888342
+2019,Fächergruppen zusammen,Insgesamt,Insgesamt,%,100
+2018,Sprach- und Kulturwissenschaften,Insgesamt,Insgesamt,%,10.394747916842
+2018,Sport,Insgesamt,Insgesamt,%,1.07314199141486
+2018,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Insgesamt,%,39.8409224812726
+2018,Mathematik, Natruwissenschaften,Insgesamt,Insgesamt,%,9.70457032236344
+2018,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Insgesamt,%,5.81600875347193
+2018,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Insgesamt,%,5.31100075751199
+2018,Ingenieurwissenschaften,Insgesamt,Insgesamt,%,24.2361754061106
+2018,Kunst, Kunstwissenschaften,Insgesamt,Insgesamt,%,3.62343237101254
+2018,Fächergruppen zusammen,Insgesamt,Insgesamt,%,100
+2017,Sprach- und Kulturwissenschaften,Insgesamt,Insgesamt,%,10.4459036092872
+2017,Sport,Insgesamt,Insgesamt,%,1.06862366422042
+2017,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Insgesamt,%,39.6420754474057
+2017,Mathematik, Natruwissenschaften,Insgesamt,Insgesamt,%,9.3043217029312
+2017,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Insgesamt,%,5.79374275782155
+2017,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Insgesamt,%,5.34740998240419
+2017,Ingenieurwissenschaften,Insgesamt,Insgesamt,%,24.2393030342045
+2017,Kunst, Kunstwissenschaften,Insgesamt,Insgesamt,%,4.15861980172525
+2017,Fächergruppen zusammen,Insgesamt,Insgesamt,%,100
+2016,Sprach- und Kulturwissenschaften,Insgesamt,Insgesamt,%,10.6598545202633
+2016,Sport,Insgesamt,Insgesamt,%,1.14738482854174
+2016,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Insgesamt,%,38.2923449948043
+2016,Mathematik, Natruwissenschaften,Insgesamt,Insgesamt,%,9.51246969172151
+2016,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Insgesamt,%,5.75424315898857
+2016,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Insgesamt,%,5.17405611361275
+2016,Ingenieurwissenschaften,Insgesamt,Insgesamt,%,25.2554554901282
+2016,Kunst, Kunstwissenschaften,Insgesamt,Insgesamt,%,4.20419120193973
+2016,Fächergruppen zusammen,Insgesamt,Insgesamt,%,100
+2015,Sprach- und Kulturwissenschaften,Insgesamt,Insgesamt,%,14.8248093891887
+2015,Sport,Insgesamt,Insgesamt,%,1.21648248093892
+2015,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Insgesamt,%,32.4381050286987
+2015,Mathematik, Natruwissenschaften,Insgesamt,Insgesamt,%,14.3150860961193
+2015,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Insgesamt,%,5.42705388503384
+2015,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Insgesamt,%,5.19146748907736
+2015,Ingenieurwissenschaften,Insgesamt,Insgesamt,%,22.1622547759788
+2015,Kunst, Kunstwissenschaften,Insgesamt,Insgesamt,%,4.42474085496445
+2015,Fächergruppen zusammen,Insgesamt,Insgesamt,%,100
+2014,Sprach- und Kulturwissenschaften,Insgesamt,Insgesamt,%,17.4308981057179
+2014,Sport,Insgesamt,Insgesamt,%,1.20545226350661
+2014,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Insgesamt,%,27.9472286273022
+2014,Mathematik, Natruwissenschaften,Insgesamt,Insgesamt,%,17.7578004144654
+2014,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Insgesamt,%,5.47561367152155
+2014,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Insgesamt,%,5.37345670003794
+2014,Ingenieurwissenschaften,Insgesamt,Insgesamt,%,20.9129914480021
+2014,Kunst, Kunstwissenschaften,Insgesamt,Insgesamt,%,3.89655876944631
+2014,Fächergruppen zusammen,Insgesamt,Insgesamt,%,100
+2013,Sprach- und Kulturwissenschaften,Insgesamt,Insgesamt,%,16.5074975152327
+2013,Sport,Insgesamt,Insgesamt,%,1.20997363985999
+2013,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Insgesamt,%,31.8352707316019
+2013,Mathematik, Natruwissenschaften,Insgesamt,Insgesamt,%,12.8257205825159
+2013,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Insgesamt,%,5.31092001209974
+2013,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Insgesamt,%,4.74050386759431
+2013,Ingenieurwissenschaften,Insgesamt,Insgesamt,%,22.9376431442029
+2013,Kunst, Kunstwissenschaften,Insgesamt,Insgesamt,%,4.63247050689253
+2013,Fächergruppen zusammen,Insgesamt,Insgesamt,%,100
+2012,Sprach- und Kulturwissenschaften,Insgesamt,Insgesamt,%,17.3993147585494
+2012,Sport,Insgesamt,Insgesamt,%,1.08927532484323
+2012,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Insgesamt,%,28.1595448962441
+2012,Mathematik, Natruwissenschaften,Insgesamt,Insgesamt,%,17.7290063998966
+2012,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Insgesamt,%,6.1574762428082
+2012,Veterinärmedizin,Insgesamt,Insgesamt,%,1.25735341651044
+2012,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Insgesamt,%,4.32154631844334
+2012,Ingenieurwissenschaften,Insgesamt,Insgesamt,%,19.5002909043894
+2012,Kunst, Kunstwissenschaften,Insgesamt,Insgesamt,%,4.38619173831534
+2012,Fächergruppen zusammen,Insgesamt,Insgesamt,%,100
+2011,Sprach- und Kulturwissenschaften,Insgesamt,Insgesamt,%,18.1359299182597
+2011,Sport,Insgesamt,Insgesamt,%,1.14306184257661
+2011,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Insgesamt,%,30.0192138600319
+2011,Mathematik, Natruwissenschaften,Insgesamt,Insgesamt,%,17.4162243136744
+2011,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Insgesamt,%,5.93675709121699
+2011,Veterinärmedizin,Insgesamt,Insgesamt,%,1.2212199172827
+2011,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Insgesamt,%,4.25961507148207
+2011,Ingenieurwissenschaften,Insgesamt,Insgesamt,%,17.7939883414205
+2011,Kunst, Kunstwissenschaften,Insgesamt,Insgesamt,%,4.0739896440551
+2011,Fächergruppen zusammen,Insgesamt,Insgesamt,%,100
+2010,Sprach- und Kulturwissenschaften,Insgesamt,Insgesamt,%,19.1743973514502
+2010,Sport,Insgesamt,Insgesamt,%,1.32082629237507
+2010,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Insgesamt,%,31.3618650205194
+2010,Mathematik, Natruwissenschaften,Insgesamt,Insgesamt,%,18.3984550125875
+2010,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Insgesamt,%,6.08338793668311
+2010,Veterinärmedizin,Insgesamt,Insgesamt,%,1.08287064179053
+2010,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Insgesamt,%,4.43839017829431
+2010,Ingenieurwissenschaften,Insgesamt,Insgesamt,%,14.1842259544091
+2010,Kunst, Kunstwissenschaften,Insgesamt,Insgesamt,%,3.95558161189089
+2010,Fächergruppen zusammen,Insgesamt,Insgesamt,%,100
+2020,Geisteswissenschaften,Insgesamt,Männer,%,5.33564480400655
+2020,Sport,Insgesamt,Männer,%,1.21352210343831
+2020,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Männer,%,32.0042376962342
+2020,Mathematik, Natruwissenschaften,Insgesamt,Männer,%,9.44813637676972
+2020,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Männer,%,3.30347683713763
+2020,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Männer,%,5.44158720986227
+2020,Ingenieurwissenschaften,Insgesamt,Männer,%,40.296638736396
+2020,Kunst, Kunstwissenschaften,Insgesamt,Männer,%,2.95675623615525
+2020,Fächergruppen zusammen,Insgesamt,Männer,%,100
+2019,Sprach- und Kulturwissenschaften,Insgesamt,Männer,%,5.52024695841656
+2019,Sport,Insgesamt,Männer,%,1.08952242600327
+2019,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Männer,%,31.6052297076448
+2019,Mathematik, Natruwissenschaften,Insgesamt,Männer,%,9.27909932812784
+2019,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Männer,%,3.22317051025967
+2019,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Männer,%,5.42037406936626
+2019,Ingenieurwissenschaften,Insgesamt,Männer,%,40.9388051570728
+2019,Kunst, Kunstwissenschaften,Insgesamt,Männer,%,2.92355184310877
+2019,Fächergruppen zusammen,Insgesamt,Männer,%,100
+2018,Sprach- und Kulturwissenschaften,Insgesamt,Männer,%,5.18705946141334
+2018,Sport,Insgesamt,Männer,%,1.18380625338876
+2018,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Männer,%,31.7639616844388
+2018,Mathematik, Natruwissenschaften,Insgesamt,Männer,%,9.56081691668173
+2018,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Männer,%,3.36164829206579
+2018,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Männer,%,5.68407735405747
+2018,Ingenieurwissenschaften,Insgesamt,Männer,%,40.7825772636906
+2018,Kunst, Kunstwissenschaften,Insgesamt,Männer,%,2.47605277426351
+2018,Fächergruppen zusammen,Insgesamt,Männer,%,100
+2017,Sprach- und Kulturwissenschaften,Insgesamt,Männer,%,5.29472401836754
+2017,Sport,Insgesamt,Männer,%,1.25573985568363
+2017,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Männer,%,31.7777153031581
+2017,Mathematik, Natruwissenschaften,Insgesamt,Männer,%,8.95886046293693
+2017,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Männer,%,3.18620560397339
+2017,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Männer,%,5.4821478774248
+2017,Ingenieurwissenschaften,Insgesamt,Männer,%,41.0458251335395
+2017,Kunst, Kunstwissenschaften,Insgesamt,Männer,%,2.99878174491613
+2017,Fächergruppen zusammen,Insgesamt,Männer,%,100
+2016,Sprach- und Kulturwissenschaften,Insgesamt,Männer,%,5.55965332841601
+2016,Sport,Insgesamt,Männer,%,1.36455836252997
+2016,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Männer,%,30.4536234556519
+2016,Mathematik, Natruwissenschaften,Insgesamt,Männer,%,8.99870920154896
+2016,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Männer,%,3.14401622718053
+2016,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Männer,%,5.22773372671953
+2016,Ingenieurwissenschaften,Insgesamt,Männer,%,42.5041489950212
+2016,Kunst, Kunstwissenschaften,Insgesamt,Männer,%,2.74755670293196
+2016,Fächergruppen zusammen,Insgesamt,Männer,%,100
+2015,Sprach- und Kulturwissenschaften,Insgesamt,Männer,%,6.12006120061201
+2015,Sport,Insgesamt,Männer,%,1.260012600126
+2015,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Männer,%,27.8012780127801
+2015,Mathematik, Natruwissenschaften,Insgesamt,Männer,%,17.2981729817298
+2015,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Männer,%,2.9520295202952
+2015,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Männer,%,5.22005220052201
+2015,Ingenieurwissenschaften,Insgesamt,Männer,%,36.4593645936459
+2015,Kunst, Kunstwissenschaften,Insgesamt,Männer,%,2.8890288902889
+2015,Fächergruppen zusammen,Insgesamt,Männer,%,100
+2014,Sprach- und Kulturwissenschaften,Insgesamt,Männer,%,7.74398208621011
+2014,Sport,Insgesamt,Männer,%,1.02631087889532
+2014,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Männer,%,25.4898301922
+2014,Mathematik, Natruwissenschaften,Insgesamt,Männer,%,19.8420103253094
+2014,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Männer,%,3.58275797723456
+2014,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Männer,%,4.99471294395721
+2014,Ingenieurwissenschaften,Insgesamt,Männer,%,34.9381103439696
+2014,Kunst, Kunstwissenschaften,Insgesamt,Männer,%,2.38228525222367
+2014,Fächergruppen zusammen,Insgesamt,Männer,%,100
+2013,Sprach- und Kulturwissenschaften,Insgesamt,Männer,%,6.96389093588799
+2013,Sport,Insgesamt,Männer,%,1.19749447310243
+2013,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Männer,%,27.5607958732498
+2013,Mathematik, Natruwissenschaften,Insgesamt,Männer,%,15.9266764922623
+2013,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Männer,%,3.42667649226234
+2013,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Männer,%,4.38467207074429
+2013,Ingenieurwissenschaften,Insgesamt,Männer,%,37.7855563743552
+2013,Kunst, Kunstwissenschaften,Insgesamt,Männer,%,2.75423728813559
+2013,Fächergruppen zusammen,Insgesamt,Männer,%,100
+2012,Sprach- und Kulturwissenschaften,Insgesamt,Männer,%,7.7680067001675
+2012,Sport,Insgesamt,Männer,%,1.03294249022892
+2012,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Männer,%,26.5843104410944
+2012,Mathematik, Natruwissenschaften,Insgesamt,Männer,%,20.4704075935232
+2012,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Männer,%,4.34812953657175
+2012,Veterinärmedizin,Insgesamt,Männer,%,0.481574539363484
+2012,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Männer,%,4.32021217197097
+2012,Ingenieurwissenschaften,Insgesamt,Männer,%,32.2794528196538
+2012,Kunst, Kunstwissenschaften,Insgesamt,Männer,%,2.71496370742602
+2012,Fächergruppen zusammen,Insgesamt,Männer,%,100
+2011,Sprach- und Kulturwissenschaften,Insgesamt,Männer,%,8.36205077712919
+2011,Sport,Insgesamt,Männer,%,1.05492650678669
+2011,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Männer,%,28.5603769604051
+2011,Mathematik, Natruwissenschaften,Insgesamt,Männer,%,19.7904212673184
+2011,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Männer,%,4.2759687741754
+2011,Veterinärmedizin,Insgesamt,Männer,%,0.386806385821788
+2011,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Männer,%,4.92299036500457
+2011,Ingenieurwissenschaften,Insgesamt,Männer,%,30.1427667205851
+2011,Kunst, Kunstwissenschaften,Insgesamt,Männer,%,2.50369224277375
+2011,Fächergruppen zusammen,Insgesamt,Männer,%,100
+2010,Sprach- und Kulturwissenschaften,Insgesamt,Männer,%,9.05865478976372
+2010,Sport,Insgesamt,Männer,%,1.32105382350721
+2010,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Männer,%,31.335396693591
+2010,Mathematik, Natruwissenschaften,Insgesamt,Männer,%,21.099116781158
+2010,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Männer,%,4.55197403185627
+2010,Veterinärmedizin,Insgesamt,Männer,%,0.452932739488186
+2010,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Männer,%,5.17853098814826
+2010,Ingenieurwissenschaften,Insgesamt,Männer,%,24.4281724163962
+2010,Kunst, Kunstwissenschaften,Insgesamt,Männer,%,2.57416773609119
+2010,Fächergruppen zusammen,Insgesamt,Männer,%,100
+2020,Geisteswissenschaften,Insgesamt,Frauen,%,14.2288252412314
+2020,Sport,Insgesamt,Frauen,%,0.888344310001532
+2020,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Frauen,%,45.3515086536989
+2020,Mathematik, Natruwissenschaften,Insgesamt,Frauen,%,9.98621534691377
+2020,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Frauen,%,7.68111502527186
+2020,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Frauen,%,6.77745443406341
+2020,Ingenieurwissenschaften,Insgesamt,Frauen,%,10.4074130801042
+2020,Kunst, Kunstwissenschaften,Insgesamt,Frauen,%,4.67912390871496
+2020,Fächergruppen zusammen,Insgesamt,Frauen,%,100
+2019,Sprach- und Kulturwissenschaften,Insgesamt,Frauen,%,14.1615465307957
+2019,Sport,Insgesamt,Frauen,%,0.94410310205305
+2019,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Frauen,%,46.3135021729357
+2019,Mathematik, Natruwissenschaften,Insgesamt,Frauen,%,10.0929117338528
+2019,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Frauen,%,7.98741195863929
+2019,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Frauen,%,5.50726809530946
+2019,Ingenieurwissenschaften,Insgesamt,Frauen,%,10.2277836055747
+2019,Kunst, Kunstwissenschaften,Insgesamt,Frauen,%,4.7654728008392
+2019,Fächergruppen zusammen,Insgesamt,Frauen,%,100
+2018,Sprach- und Kulturwissenschaften,Insgesamt,Frauen,%,14.9338374291115
+2018,Sport,Insgesamt,Frauen,%,0.976685570258349
+2018,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Frauen,%,46.8809073724008
+2018,Mathematik, Natruwissenschaften,Insgesamt,Frauen,%,9.82986767485822
+2018,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Frauen,%,7.95526149968494
+2018,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Frauen,%,4.98582230623818
+2018,Ingenieurwissenschaften,Insgesamt,Frauen,%,9.81411468178954
+2018,Kunst, Kunstwissenschaften,Insgesamt,Frauen,%,4.62350346565848
+2018,Fächergruppen zusammen,Insgesamt,Frauen,%,100
+2017,Sprach- und Kulturwissenschaften,Insgesamt,Frauen,%,14.7980997624703
+2017,Sport,Insgesamt,Frauen,%,0.910530482977039
+2017,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Frauen,%,46.2866191607284
+2017,Mathematik, Natruwissenschaften,Insgesamt,Frauen,%,9.59619952494062
+2017,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Frauen,%,7.99683293745051
+2017,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Frauen,%,5.23357086302454
+2017,Ingenieurwissenschaften,Insgesamt,Frauen,%,10.0395882818686
+2017,Kunst, Kunstwissenschaften,Insgesamt,Frauen,%,5.13855898653998
+2017,Fächergruppen zusammen,Insgesamt,Frauen,%,100
+2016,Sprach- und Kulturwissenschaften,Insgesamt,Frauen,%,15.1755102040816
+2016,Sport,Insgesamt,Frauen,%,0.955102040816327
+2016,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Frauen,%,45.2326530612245
+2016,Mathematik, Natruwissenschaften,Insgesamt,Frauen,%,9.96734693877551
+2016,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Frauen,%,8.06530612244898
+2016,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Frauen,%,5.1265306122449
+2016,Ingenieurwissenschaften,Insgesamt,Frauen,%,9.98367346938775
+2016,Kunst, Kunstwissenschaften,Insgesamt,Frauen,%,5.49387755102041
+2016,Fächergruppen zusammen,Insgesamt,Frauen,%,100
+2015,Sprach- und Kulturwissenschaften,Insgesamt,Frauen,%,22.7298733142624
+2015,Sport,Insgesamt,Frauen,%,1.17695136902329
+2015,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Frauen,%,36.648957907642
+2015,Mathematik, Natruwissenschaften,Insgesamt,Frauen,%,11.606048222313
+2015,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Frauen,%,7.6747037188394
+2015,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Frauen,%,5.1655087862689
+2015,Ingenieurwissenschaften,Insgesamt,Frauen,%,9.17858602370249
+2015,Kunst, Kunstwissenschaften,Insgesamt,Frauen,%,5.81937065794851
+2015,Fächergruppen zusammen,Insgesamt,Frauen,%,100
+2014,Sprach- und Kulturwissenschaften,Insgesamt,Frauen,%,25.9953805543335
+2014,Sport,Insgesamt,Frauen,%,1.36383633963924
+2014,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Frauen,%,30.1198856137264
+2014,Mathematik, Natruwissenschaften,Insgesamt,Frauen,%,15.9150901891773
+2014,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Frauen,%,7.14914210294765
+2014,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Frauen,%,5.70831500219974
+2014,Ingenieurwissenschaften,Insgesamt,Frauen,%,8.51297844258689
+2014,Kunst, Kunstwissenschaften,Insgesamt,Frauen,%,5.23537175538935
+2014,Fächergruppen zusammen,Insgesamt,Frauen,%,100
+2013,Sprach- und Kulturwissenschaften,Insgesamt,Frauen,%,24.9409849409849
+2013,Sport,Insgesamt,Frauen,%,1.22100122100122
+2013,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Frauen,%,35.6125356125356
+2013,Mathematik, Natruwissenschaften,Insgesamt,Frauen,%,10.0854700854701
+2013,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Frauen,%,6.97598697598698
+2013,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Frauen,%,5.05494505494505
+2013,Ingenieurwissenschaften,Insgesamt,Frauen,%,9.81684981684982
+2013,Kunst, Kunstwissenschaften,Insgesamt,Frauen,%,6.29222629222629
+2013,Fächergruppen zusammen,Insgesamt,Frauen,%,100
+2012,Sprach- und Kulturwissenschaften,Insgesamt,Frauen,%,25.7074051776039
+2012,Sport,Insgesamt,Frauen,%,1.13786875376279
+2012,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Frauen,%,29.5183624322697
+2012,Mathematik, Natruwissenschaften,Insgesamt,Frauen,%,15.364238410596
+2012,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Frauen,%,7.71824202287778
+2012,Veterinärmedizin,Insgesamt,Frauen,%,1.92655027092113
+2012,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Frauen,%,4.32269717037929
+2012,Ingenieurwissenschaften,Insgesamt,Frauen,%,8.47682119205298
+2012,Kunst, Kunstwissenschaften,Insgesamt,Frauen,%,5.82781456953642
+2012,Fächergruppen zusammen,Insgesamt,Frauen,%,100
+2011,Sprach- und Kulturwissenschaften,Insgesamt,Frauen,%,26.5647743813683
+2011,Sport,Insgesamt,Frauen,%,1.21906841339156
+2011,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Frauen,%,31.2772925764192
+2011,Mathematik, Natruwissenschaften,Insgesamt,Frauen,%,15.3687530325085
+2011,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Frauen,%,7.36899563318777
+2011,Veterinärmedizin,Insgesamt,Frauen,%,1.94080543425522
+2011,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Frauen,%,3.68753032508491
+2011,Ingenieurwissenschaften,Insgesamt,Frauen,%,7.14459000485201
+2011,Kunst, Kunstwissenschaften,Insgesamt,Frauen,%,5.42819019893256
+2011,Fächergruppen zusammen,Insgesamt,Frauen,%,100
+2010,Sprach- und Kulturwissenschaften,Insgesamt,Frauen,%,27.6825396825397
+2010,Sport,Insgesamt,Frauen,%,1.32063492063492
+2010,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Frauen,%,31.384126984127
+2010,Mathematik, Natruwissenschaften,Insgesamt,Frauen,%,16.1269841269841
+2010,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Frauen,%,7.37142857142857
+2010,Veterinärmedizin,Insgesamt,Frauen,%,1.61269841269841
+2010,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Frauen,%,3.81587301587302
+2010,Ingenieurwissenschaften,Insgesamt,Frauen,%,5.56825396825397
+2010,Kunst, Kunstwissenschaften,Insgesamt,Frauen,%,5.11746031746032
+2010,Fächergruppen zusammen,Insgesamt,Frauen,%,100
+2020,Geisteswissenschaften,Deutsche,Insgesamt,%,10.5047318611987
+2020,Sport,Deutsche,Insgesamt,%,1.06804867057233
+2020,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Insgesamt,%,40.410094637224
+2020,Mathematik, Natruwissenschaften,Deutsche,Insgesamt,%,9.80621901757548
+2020,Humanmedizin, Gesundheitswissenschaften,Deutsche,Insgesamt,%,5.83145561063542
+2020,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Insgesamt,%,6.29112212708427
+2020,Ingenieurwissenschaften,Deutsche,Insgesamt,%,22.3569175304191
+2020,Kunst, Kunstwissenschaften,Deutsche,Insgesamt,%,3.73141054529067
+2020,Fächergruppen zusammen,Deutsche,Insgesamt,%,100
+2019,Sprach- und Kulturwissenschaften,Deutsche,Insgesamt,%,10.389834158949
+2019,Sport,Deutsche,Insgesamt,%,1.03381434417403
+2019,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Insgesamt,%,40.3876803790653
+2019,Mathematik, Natruwissenschaften,Deutsche,Insgesamt,%,9.83846650872281
+2019,Humanmedizin, Gesundheitswissenschaften,Deutsche,Insgesamt,%,5.87981908248977
+2019,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Insgesamt,%,5.60844281714409
+2019,Ingenieurwissenschaften,Deutsche,Insgesamt,%,23.0626749946156
+2019,Kunst, Kunstwissenschaften,Deutsche,Insgesamt,%,3.79926771483954
+2019,Fächergruppen zusammen,Deutsche,Insgesamt,%,100
+2018,Sprach- und Kulturwissenschaften,Deutsche,Insgesamt,%,10.481598873041
+2018,Sport,Deutsche,Insgesamt,%,1.12255678816693
+2018,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Insgesamt,%,40.3724247226624
+2018,Mathematik, Natruwissenschaften,Deutsche,Insgesamt,%,9.81246698362388
+2018,Humanmedizin, Gesundheitswissenschaften,Deutsche,Insgesamt,%,5.83289311498503
+2018,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Insgesamt,%,5.44990315196337
+2018,Ingenieurwissenschaften,Deutsche,Insgesamt,%,23.3932030287022
+2018,Kunst, Kunstwissenschaften,Deutsche,Insgesamt,%,3.53495333685508
+2018,Fächergruppen zusammen,Deutsche,Insgesamt,%,100
+2017,Sprach- und Kulturwissenschaften,Deutsche,Insgesamt,%,10.5669178327951
+2017,Sport,Deutsche,Insgesamt,%,1.10782203085755
+2017,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Insgesamt,%,40.2852529601722
+2017,Mathematik, Natruwissenschaften,Deutsche,Insgesamt,%,9.38284894151417
+2017,Humanmedizin, Gesundheitswissenschaften,Deutsche,Insgesamt,%,5.85306781485468
+2017,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Insgesamt,%,5.45389307499103
+2017,Ingenieurwissenschaften,Deutsche,Insgesamt,%,23.3898457122354
+2017,Kunst, Kunstwissenschaften,Deutsche,Insgesamt,%,3.96035163257984
+2017,Fächergruppen zusammen,Deutsche,Insgesamt,%,100
+2016,Sprach- und Kulturwissenschaften,Deutsche,Insgesamt,%,10.790452854161
+2016,Sport,Deutsche,Insgesamt,%,1.18885561303204
+2016,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Insgesamt,%,38.8283873309738
+2016,Mathematik, Natruwissenschaften,Deutsche,Insgesamt,%,9.58798439059806
+2016,Humanmedizin, Gesundheitswissenschaften,Deutsche,Insgesamt,%,5.80361194300753
+2016,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Insgesamt,%,5.31354932389509
+2016,Ingenieurwissenschaften,Deutsche,Insgesamt,%,24.430529086124
+2016,Kunst, Kunstwissenschaften,Deutsche,Insgesamt,%,4.05662945820855
+2016,Fächergruppen zusammen,Deutsche,Insgesamt,%,100
+2015,Sprach- und Kulturwissenschaften,Deutsche,Insgesamt,%,15.0618612157074
+2015,Sport,Deutsche,Insgesamt,%,1.26412049488973
+2015,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Insgesamt,%,32.8402366863905
+2015,Mathematik, Natruwissenschaften,Deutsche,Insgesamt,%,14.4522144522145
+2015,Humanmedizin, Gesundheitswissenschaften,Deutsche,Insgesamt,%,5.45095929711314
+2015,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Insgesamt,%,5.33889187735342
+2015,Ingenieurwissenschaften,Deutsche,Insgesamt,%,21.4676349291734
+2015,Kunst, Kunstwissenschaften,Deutsche,Insgesamt,%,4.12408104715797
+2015,Fächergruppen zusammen,Deutsche,Insgesamt,%,100
+2014,Sprach- und Kulturwissenschaften,Deutsche,Insgesamt,%,18.096168389211
+2014,Sport,Deutsche,Insgesamt,%,1.27615326443156
+2014,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Insgesamt,%,28.4566422989665
+2014,Mathematik, Natruwissenschaften,Deutsche,Insgesamt,%,17.5762540962944
+2014,Humanmedizin, Gesundheitswissenschaften,Deutsche,Insgesamt,%,5.63082934207209
+2014,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Insgesamt,%,5.25586085202924
+2014,Ingenieurwissenschaften,Deutsche,Insgesamt,%,19.9710108394253
+2014,Kunst, Kunstwissenschaften,Deutsche,Insgesamt,%,3.73708091756995
+2014,Fächergruppen zusammen,Deutsche,Insgesamt,%,100
+2013,Sprach- und Kulturwissenschaften,Deutsche,Insgesamt,%,16.7935104589163
+2013,Sport,Deutsche,Insgesamt,%,1.26236157316684
+2013,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Insgesamt,%,32.2243995807319
+2013,Mathematik, Natruwissenschaften,Deutsche,Insgesamt,%,12.9517385954519
+2013,Humanmedizin, Gesundheitswissenschaften,Deutsche,Insgesamt,%,5.3228820124869
+2013,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Insgesamt,%,4.84892676479971
+2013,Ingenieurwissenschaften,Deutsche,Insgesamt,%,22.202980449346
+2013,Kunst, Kunstwissenschaften,Deutsche,Insgesamt,%,4.39320056510049
+2013,Fächergruppen zusammen,Deutsche,Insgesamt,%,100
+2012,Sprach- und Kulturwissenschaften,Deutsche,Insgesamt,%,17.9514956667599
+2012,Sport,Deutsche,Insgesamt,%,1.16368465194297
+2012,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Insgesamt,%,28.6098686049762
+2012,Mathematik, Natruwissenschaften,Deutsche,Insgesamt,%,17.6474699468829
+2012,Humanmedizin, Gesundheitswissenschaften,Deutsche,Insgesamt,%,6.32163824433883
+2012,Veterinärmedizin,Deutsche,Insgesamt,%,1.27551020408163
+2012,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Insgesamt,%,4.33324014537322
+2012,Ingenieurwissenschaften,Deutsche,Insgesamt,%,18.4826670394185
+2012,Kunst, Kunstwissenschaften,Deutsche,Insgesamt,%,4.21442549622589
+2012,Fächergruppen zusammen,Deutsche,Insgesamt,%,100
+2011,Sprach- und Kulturwissenschaften,Deutsche,Insgesamt,%,18.7451286048324
+2011,Sport,Deutsche,Insgesamt,%,1.22227733295543
+2011,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Insgesamt,%,30.489619499752
+2011,Mathematik, Natruwissenschaften,Deutsche,Insgesamt,%,17.327995465174
+2011,Humanmedizin, Gesundheitswissenschaften,Deutsche,Insgesamt,%,6.21058598455325
+2011,Veterinärmedizin,Deutsche,Insgesamt,%,1.25416282859775
+2011,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Insgesamt,%,4.27265641607029
+2011,Ingenieurwissenschaften,Deutsche,Insgesamt,%,16.6725713880819
+2011,Kunst, Kunstwissenschaften,Deutsche,Insgesamt,%,3.80500247998299
+2011,Fächergruppen zusammen,Deutsche,Insgesamt,%,100
+2010,Sprach- und Kulturwissenschaften,Deutsche,Insgesamt,%,19.6808510638298
+2010,Sport,Deutsche,Insgesamt,%,1.41594246329038
+2010,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Insgesamt,%,31.9823194486065
+2010,Mathematik, Natruwissenschaften,Deutsche,Insgesamt,%,18.1562780940965
+2010,Humanmedizin, Gesundheitswissenschaften,Deutsche,Insgesamt,%,6.33053640994906
+2010,Veterinärmedizin,Deutsche,Insgesamt,%,1.12376385975427
+2010,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Insgesamt,%,4.51003895714714
+2010,Ingenieurwissenschaften,Deutsche,Insgesamt,%,13.0206772550195
+2010,Kunst, Kunstwissenschaften,Deutsche,Insgesamt,%,3.77959244830686
+2010,Fächergruppen zusammen,Deutsche,Insgesamt,%,100
+2020,Geisteswissenschaften,Deutsche,Männer,%,5.52815454171804
+2020,Sport,Deutsche,Männer,%,1.24332100287711
+2020,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Männer,%,33.3230579531443
+2020,Mathematik, Natruwissenschaften,Deutsche,Männer,%,9.41224825318537
+2020,Humanmedizin, Gesundheitswissenschaften,Deutsche,Männer,%,3.27784628031237
+2020,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Männer,%,5.66173448417591
+2020,Ingenieurwissenschaften,Deutsche,Männer,%,38.7279079325935
+2020,Kunst, Kunstwissenschaften,Deutsche,Männer,%,2.82572955199342
+2020,Fächergruppen zusammen,Deutsche,Männer,%,100
+2019,Sprach- und Kulturwissenschaften,Deutsche,Männer,%,5.59433872047432
+2019,Sport,Deutsche,Männer,%,1.12843071626662
+2019,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Männer,%,32.5332313282968
+2019,Mathematik, Natruwissenschaften,Deutsche,Männer,%,9.43865353351822
+2019,Humanmedizin, Gesundheitswissenschaften,Deutsche,Männer,%,3.22272162188008
+2019,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Männer,%,5.63259060916133
+2019,Ingenieurwissenschaften,Deutsche,Männer,%,39.6576455962513
+2019,Kunst, Kunstwissenschaften,Deutsche,Männer,%,2.79238787415129
+2019,Fächergruppen zusammen,Deutsche,Männer,%,100
+2018,Sprach- und Kulturwissenschaften,Deutsche,Männer,%,5.23629489603025
+2018,Sport,Deutsche,Männer,%,1.23818525519849
+2018,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Männer,%,32.4102079395085
+2018,Mathematik, Natruwissenschaften,Deutsche,Männer,%,9.62192816635161
+2018,Humanmedizin, Gesundheitswissenschaften,Deutsche,Männer,%,3.30812854442344
+2018,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Männer,%,5.84120982986767
+2018,Ingenieurwissenschaften,Deutsche,Männer,%,39.8960302457467
+2018,Kunst, Kunstwissenschaften,Deutsche,Männer,%,2.44801512287335
+2018,Fächergruppen zusammen,Deutsche,Männer,%,100
+2017,Sprach- und Kulturwissenschaften,Deutsche,Männer,%,5.32823079187518
+2017,Sport,Deutsche,Männer,%,1.29526052399176
+2017,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Männer,%,32.6268275929742
+2017,Mathematik, Natruwissenschaften,Deutsche,Männer,%,9.00794818957904
+2017,Humanmedizin, Gesundheitswissenschaften,Deutsche,Männer,%,3.15965067216171
+2017,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Männer,%,5.65204592287312
+2017,Ingenieurwissenschaften,Deutsche,Männer,%,40.1138259248356
+2017,Kunst, Kunstwissenschaften,Deutsche,Männer,%,2.81621038170935
+2017,Fächergruppen zusammen,Deutsche,Männer,%,100
+2016,Sprach- und Kulturwissenschaften,Deutsche,Männer,%,5.56146629267821
+2016,Sport,Deutsche,Männer,%,1.4218009478673
+2016,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Männer,%,31.1538833542896
+2016,Mathematik, Natruwissenschaften,Deutsche,Männer,%,9.13047683528388
+2016,Humanmedizin, Gesundheitswissenschaften,Deutsche,Männer,%,3.1144211238998
+2016,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Männer,%,5.42605667859561
+2016,Ingenieurwissenschaften,Deutsche,Männer,%,41.599767869233
+2016,Kunst, Kunstwissenschaften,Deutsche,Männer,%,2.59212689815263
+2016,Fächergruppen zusammen,Deutsche,Männer,%,100
+2015,Sprach- und Kulturwissenschaften,Deutsche,Männer,%,6.21522210695086
+2015,Sport,Deutsche,Männer,%,1.32038102423842
+2015,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Männer,%,28.4447797793077
+2015,Mathematik, Natruwissenschaften,Deutsche,Männer,%,17.5139111572197
+2015,Humanmedizin, Gesundheitswissenschaften,Deutsche,Männer,%,2.92370083938508
+2015,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Männer,%,5.41356219937753
+2015,Ingenieurwissenschaften,Deutsche,Männer,%,35.4899556729228
+2015,Kunst, Kunstwissenschaften,Deutsche,Männer,%,2.67848722059794
+2015,Fächergruppen zusammen,Deutsche,Männer,%,100
+2014,Sprach- und Kulturwissenschaften,Deutsche,Männer,%,8.02490019622437
+2014,Sport,Deutsche,Männer,%,1.08261722714663
+2014,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Männer,%,26.4429257730564
+2014,Mathematik, Natruwissenschaften,Deutsche,Männer,%,19.8389606874619
+2014,Humanmedizin, Gesundheitswissenschaften,Deutsche,Männer,%,3.65383314161987
+2014,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Männer,%,4.87177752215982
+2014,Ingenieurwissenschaften,Deutsche,Männer,%,33.8656201366804
+2014,Kunst, Kunstwissenschaften,Deutsche,Männer,%,2.21936531565059
+2014,Fächergruppen zusammen,Deutsche,Männer,%,100
+2013,Sprach- und Kulturwissenschaften,Deutsche,Männer,%,7.19417475728155
+2013,Sport,Deutsche,Männer,%,1.25242718446602
+2013,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Männer,%,28.1359223300971
+2013,Mathematik, Natruwissenschaften,Deutsche,Männer,%,16.1165048543689
+2013,Humanmedizin, Gesundheitswissenschaften,Deutsche,Männer,%,3.29126213592233
+2013,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Männer,%,4.51456310679612
+2013,Ingenieurwissenschaften,Deutsche,Männer,%,36.9029126213592
+2013,Kunst, Kunstwissenschaften,Deutsche,Männer,%,2.59223300970874
+2013,Fächergruppen zusammen,Deutsche,Männer,%,100
+2012,Sprach- und Kulturwissenschaften,Deutsche,Männer,%,8.13882994846923
+2012,Sport,Deutsche,Männer,%,1.10639587753865
+2012,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Männer,%,27.4173992118824
+2012,Mathematik, Natruwissenschaften,Deutsche,Männer,%,20.3773870869961
+2012,Humanmedizin, Gesundheitswissenschaften,Deutsche,Männer,%,4.3573810245529
+2012,Veterinärmedizin,Deutsche,Männer,%,0.439527129433162
+2012,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Männer,%,4.38011518642013
+2012,Ingenieurwissenschaften,Deutsche,Männer,%,31.191270081843
+2012,Kunst, Kunstwissenschaften,Deutsche,Männer,%,2.5916944528645
+2012,Fächergruppen zusammen,Deutsche,Männer,%,100
+2011,Sprach- und Kulturwissenschaften,Deutsche,Männer,%,8.74884579870729
+2011,Sport,Deutsche,Männer,%,1.13881194213604
+2011,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Männer,%,29.6552785472453
+2011,Mathematik, Natruwissenschaften,Deutsche,Männer,%,19.5829485995691
+2011,Humanmedizin, Gesundheitswissenschaften,Deutsche,Männer,%,4.43982763927362
+2011,Veterinärmedizin,Deutsche,Männer,%,0.392428439519852
+2011,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Männer,%,5.00153893505694
+2011,Ingenieurwissenschaften,Deutsche,Männer,%,28.7934749153586
+2011,Kunst, Kunstwissenschaften,Deutsche,Männer,%,2.24684518313327
+2011,Fächergruppen zusammen,Deutsche,Männer,%,100
+2010,Sprach- und Kulturwissenschaften,Deutsche,Männer,%,9.49508305098752
+2010,Sport,Deutsche,Männer,%,1.42963391455252
+2010,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Männer,%,32.5675564002975
+2010,Mathematik, Natruwissenschaften,Deutsche,Männer,%,20.8081976696141
+2010,Humanmedizin, Gesundheitswissenschaften,Deutsche,Männer,%,4.70209073630279
+2010,Veterinärmedizin,Deutsche,Männer,%,0.413188992645236
+2010,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Männer,%,5.33013800512354
+2010,Ingenieurwissenschaften,Deutsche,Männer,%,22.9237253119577
+2010,Kunst, Kunstwissenschaften,Deutsche,Männer,%,2.33038591851913
+2010,Fächergruppen zusammen,Deutsche,Männer,%,100
+2020,Geisteswissenschaften,Deutsche,Frauen,%,14.3923583239685
+2020,Sport,Deutsche,Frauen,%,0.931128592069353
+2020,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Frauen,%,45.9463798362498
+2020,Mathematik, Natruwissenschaften,Deutsche,Frauen,%,10.1139829828223
+2020,Humanmedizin, Gesundheitswissenschaften,Deutsche,Frauen,%,7.82629635575534
+2020,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Frauen,%,6.78279017498796
+2020,Ingenieurwissenschaften,Deutsche,Frauen,%,9.56814898057473
+2020,Kunst, Kunstwissenschaften,Deutsche,Frauen,%,4.438914753572
+2020,Fächergruppen zusammen,Deutsche,Frauen,%,100
+2019,Sprach- und Kulturwissenschaften,Deutsche,Frauen,%,14.3204263991221
+2019,Sport,Deutsche,Frauen,%,0.95626273710613
+2019,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Frauen,%,46.8255212415739
+2019,Mathematik, Natruwissenschaften,Deutsche,Frauen,%,10.1661702461201
+2019,Humanmedizin, Gesundheitswissenschaften,Deutsche,Frauen,%,8.05768929299263
+2019,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Frauen,%,5.58865025866123
+2019,Ingenieurwissenschaften,Deutsche,Frauen,%,9.4607305220254
+2019,Kunst, Kunstwissenschaften,Deutsche,Frauen,%,4.6245493023985
+2019,Fächergruppen zusammen,Deutsche,Frauen,%,100
+2018,Sprach- und Kulturwissenschaften,Deutsche,Frauen,%,15.0543836519446
+2018,Sport,Deutsche,Frauen,%,1.02175346077785
+2018,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Frauen,%,47.313777191826
+2018,Mathematik, Natruwissenschaften,Deutsche,Frauen,%,9.97857613711272
+2018,Humanmedizin, Gesundheitswissenschaften,Deutsche,Frauen,%,8.03394858272907
+2018,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Frauen,%,5.10876730388925
+2018,Ingenieurwissenschaften,Deutsche,Frauen,%,9.0062623599209
+2018,Kunst, Kunstwissenschaften,Deutsche,Frauen,%,4.4825313117996
+2018,Fächergruppen zusammen,Deutsche,Frauen,%,100
+2017,Sprach- und Kulturwissenschaften,Deutsche,Frauen,%,14.9772821148286
+2017,Sport,Deutsche,Frauen,%,0.950020652622883
+2017,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Frauen,%,46.7327550598926
+2017,Mathematik, Natruwissenschaften,Deutsche,Frauen,%,9.69847170590665
+2017,Humanmedizin, Gesundheitswissenschaften,Deutsche,Frauen,%,8.12061131763734
+2017,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Frauen,%,5.28707145807518
+2017,Ingenieurwissenschaften,Deutsche,Frauen,%,9.31020239570426
+2017,Kunst, Kunstwissenschaften,Deutsche,Frauen,%,4.92358529533251
+2017,Fächergruppen zusammen,Deutsche,Frauen,%,100
+2016,Sprach- und Kulturwissenschaften,Deutsche,Frauen,%,15.4115736387725
+2016,Sport,Deutsche,Frauen,%,0.982989999145226
+2016,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Frauen,%,45.6107359603385
+2016,Mathematik, Natruwissenschaften,Deutsche,Frauen,%,9.9923070347893
+2016,Humanmedizin, Gesundheitswissenschaften,Deutsche,Frauen,%,8.18018634071288
+2016,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Frauen,%,5.2141208650312
+2016,Ingenieurwissenschaften,Deutsche,Frauen,%,9.25720147021113
+2016,Kunst, Kunstwissenschaften,Deutsche,Frauen,%,5.35088469099923
+2016,Fächergruppen zusammen,Deutsche,Frauen,%,100
+2015,Sprach- und Kulturwissenschaften,Deutsche,Frauen,%,23.0756087142247
+2015,Sport,Deutsche,Frauen,%,1.21315677061085
+2015,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Frauen,%,36.8218709953012
+2015,Mathematik, Natruwissenschaften,Deutsche,Frauen,%,11.6787697565143
+2015,Humanmedizin, Gesundheitswissenschaften,Deutsche,Frauen,%,7.7402819307988
+2015,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Frauen,%,5.27125160187954
+2015,Ingenieurwissenschaften,Deutsche,Frauen,%,8.76548483554037
+2015,Kunst, Kunstwissenschaften,Deutsche,Frauen,%,5.43357539513029
+2015,Fächergruppen zusammen,Deutsche,Frauen,%,100
+2014,Sprach- und Kulturwissenschaften,Deutsche,Frauen,%,26.8738574040219
+2014,Sport,Deutsche,Frauen,%,1.44483104322699
+2014,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Frauen,%,30.2117119773545
+2014,Mathematik, Natruwissenschaften,Deutsche,Frauen,%,15.6041752668514
+2014,Humanmedizin, Gesundheitswissenschaften,Deutsche,Frauen,%,7.35389514654715
+2014,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Frauen,%,5.59061154685381
+2014,Ingenieurwissenschaften,Deutsche,Frauen,%,7.86106032906764
+2014,Kunst, Kunstwissenschaften,Deutsche,Frauen,%,5.05985728607655
+2014,Fächergruppen zusammen,Deutsche,Frauen,%,100
+2013,Sprach- und Kulturwissenschaften,Deutsche,Frauen,%,25.2855793180452
+2013,Sport,Deutsche,Frauen,%,1.27115004723868
+2013,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Frauen,%,35.8412780211286
+2013,Mathematik, Natruwissenschaften,Deutsche,Frauen,%,10.1520226745684
+2013,Humanmedizin, Gesundheitswissenschaften,Deutsche,Frauen,%,7.12015803487074
+2013,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Frauen,%,5.14472215064846
+2013,Ingenieurwissenschaften,Deutsche,Frauen,%,9.1986601391394
+2013,Kunst, Kunstwissenschaften,Deutsche,Frauen,%,5.98642961436056
+2013,Fächergruppen zusammen,Deutsche,Frauen,%,100
+2012,Sprach- und Kulturwissenschaften,Deutsche,Frauen,%,26.348897535668
+2012,Sport,Deutsche,Frauen,%,1.21271076523995
+2012,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Frauen,%,29.6303501945525
+2012,Mathematik, Natruwissenschaften,Deutsche,Frauen,%,15.3112840466926
+2012,Humanmedizin, Gesundheitswissenschaften,Deutsche,Frauen,%,8.00259403372244
+2012,Veterinärmedizin,Deutsche,Frauen,%,1.99092088197147
+2012,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Frauen,%,4.29312581063554
+2012,Ingenieurwissenschaften,Deutsche,Frauen,%,7.60700389105058
+2012,Kunst, Kunstwissenschaften,Deutsche,Frauen,%,5.60311284046693
+2012,Fächergruppen zusammen,Deutsche,Frauen,%,100
+2011,Sprach- und Kulturwissenschaften,Deutsche,Frauen,%,27.2751149047932
+2011,Sport,Deutsche,Frauen,%,1.29349967170059
+2011,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Frauen,%,31.2015758371635
+2011,Mathematik, Natruwissenschaften,Deutsche,Frauen,%,15.4038082731451
+2011,Humanmedizin, Gesundheitswissenschaften,Deutsche,Frauen,%,7.72160210111622
+2011,Veterinärmedizin,Deutsche,Frauen,%,1.98949441891005
+2011,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Frauen,%,3.65068942875903
+2011,Ingenieurwissenschaften,Deutsche,Frauen,%,6.32961260669731
+2011,Kunst, Kunstwissenschaften,Deutsche,Frauen,%,5.13460275771504
+2011,Fächergruppen zusammen,Deutsche,Frauen,%,100
+2010,Sprach- und Kulturwissenschaften,Deutsche,Frauen,%,28.1260705721137
+2010,Sport,Deutsche,Frauen,%,1.40459061322371
+2010,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Frauen,%,31.4970880438506
+2010,Mathematik, Natruwissenschaften,Deutsche,Frauen,%,15.9575196985269
+2010,Humanmedizin, Gesundheitswissenschaften,Deutsche,Frauen,%,7.6807125727989
+2010,Veterinärmedizin,Deutsche,Frauen,%,1.71291538198013
+2010,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Frauen,%,3.83007879410757
+2010,Ingenieurwissenschaften,Deutsche,Frauen,%,4.80986639260021
+2010,Kunst, Kunstwissenschaften,Deutsche,Frauen,%,4.98115793079822
+2010,Fächergruppen zusammen,Deutsche,Frauen,%,100
+2020,Geisteswissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,6.47482014388489
+2020,Sport,Ausländerinnen und Ausländer,Insgesamt,%,0.399680255795364
+2020,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,22.2222222222222
+2020,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,8.71302957633893
+2020,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,4.15667466027178
+2020,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Insgesamt,%,4.31654676258993
+2020,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,46.5227817745803
+2020,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,7.19424460431655
+2020,Fächergruppen zusammen,Ausländerinnen und Ausländer,Insgesamt,%,100
+2019,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,7.51091703056769
+2019,Sport,Ausländerinnen und Ausländer,Insgesamt,%,0.524017467248908
+2019,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,24.9781659388646
+2019,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,7.4235807860262
+2019,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,4.89082969432314
+2019,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Insgesamt,%,2.62008733624454
+2019,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,45.4148471615721
+2019,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,6.63755458515284
+2019,Fächergruppen zusammen,Ausländerinnen und Ausländer,Insgesamt,%,100
+2018,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,8.50860420650096
+2018,Sport,Ausländerinnen und Ausländer,Insgesamt,%,-
+2018,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,28.2982791586998
+2018,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,7.36137667304015
+2018,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,5.44933078393882
+2018,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Insgesamt,%,2.29445506692161
+2018,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,42.5430210325048
+2018,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,5.54493307839388
+2018,Fächergruppen zusammen,Ausländerinnen und Ausländer,Insgesamt,%,100
+2017,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,7.76119402985075
+2017,Sport,Ausländerinnen und Ausländer,Insgesamt,%,0.199004975124378
+2017,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,25.3731343283582
+2017,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,7.56218905472637
+2017,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,4.47761194029851
+2017,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Insgesamt,%,2.98507462686567
+2017,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,43.0845771144279
+2017,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,8.55721393034826
+2017,Fächergruppen zusammen,Ausländerinnen und Ausländer,Insgesamt,%,100
+2016,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,7.93950850661626
+2016,Sport,Ausländerinnen und Ausländer,Insgesamt,%,0.283553875236295
+2016,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,27.1266540642722
+2016,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,7.93950850661626
+2016,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,4.72589792060491
+2016,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Insgesamt,%,2.26843100189036
+2016,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,42.4385633270321
+2016,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,7.27788279773157
+2016,Fächergruppen zusammen,Ausländerinnen und Ausländer,Insgesamt,%,100
+2015,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,9.73025048169557
+2015,Sport,Ausländerinnen und Ausländer,Insgesamt,%,0.192678227360308
+2015,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,23.7957610789981
+2015,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,11.3680154142582
+2015,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,4.91329479768786
+2015,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Insgesamt,%,2.02312138728324
+2015,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,37.0905587668593
+2015,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,10.8863198458574
+2015,Fächergruppen zusammen,Ausländerinnen und Ausländer,Insgesamt,%,100
+2014,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,9.06930693069307
+2014,Sport,Ausländerinnen und Ausländer,Insgesamt,%,0.316831683168317
+2014,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,21.5445544554455
+2014,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,20.039603960396
+2014,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,3.52475247524752
+2014,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Insgesamt,%,6.85148514851485
+2014,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,32.7524752475248
+2014,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,5.9009900990099
+2014,Fächergruppen zusammen,Ausländerinnen und Ausländer,Insgesamt,%,100
+2013,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,11.2687813021703
+2013,Sport,Ausländerinnen und Ausländer,Insgesamt,%,0.250417362270451
+2013,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,24.7078464106845
+2013,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,10.5175292153589
+2013,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,5.09181969949917
+2013,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Insgesamt,%,2.75459098497496
+2013,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,36.3939899833055
+2013,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,9.01502504173623
+2013,Fächergruppen zusammen,Ausländerinnen und Ausländer,Insgesamt,%,100
+2012,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,10.594315245478
+2012,Sport,Ausländerinnen und Ausländer,Insgesamt,%,0.172265288544358
+2012,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,22.609819121447
+2012,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,18.733850129199
+2012,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,4.1343669250646
+2012,Veterinärmedizin,Ausländerinnen und Ausländer,Insgesamt,%,1.03359173126615
+2012,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Insgesamt,%,4.17743324720069
+2012,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,32.0413436692506
+2012,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,6.50301464254953
+2012,Fächergruppen zusammen,Ausländerinnen und Ausländer,Insgesamt,%,100
+2011,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,11.205159209996
+2011,Sport,Ausländerinnen und Ausländer,Insgesamt,%,0.241837968561064
+2011,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,24.6674727932285
+2011,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,18.4199919387344
+2011,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,2.82144296654575
+2011,Veterinärmedizin,Ausländerinnen und Ausländer,Insgesamt,%,0.846432889963724
+2011,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Insgesamt,%,4.11124546553809
+2011,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,30.5521966948811
+2011,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,7.13422007255139
+2011,Fächergruppen zusammen,Ausländerinnen und Ausländer,Insgesamt,%,100
+2010,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,13.2985658409387
+2010,Sport,Ausländerinnen und Ausländer,Insgesamt,%,0.217296827466319
+2010,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,24.1634072142547
+2010,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,21.2081703607127
+2010,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,3.21599304650152
+2010,Veterinärmedizin,Ausländerinnen und Ausländer,Insgesamt,%,0.608431116905693
+2010,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Insgesamt,%,3.6071273359409
+2010,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,27.683615819209
+2010,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Insgesamt,%,5.9973924380704
+2010,Fächergruppen zusammen,Ausländerinnen und Ausländer,Insgesamt,%,100
+2020,Geisteswissenschaften,Ausländerinnen und Ausländer,Männer,%,2.45775729646697
+2020,Sport,Ausländerinnen und Ausländer,Männer,%,0.768049155145929
+2020,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Männer,%,12.2887864823349
+2020,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Männer,%,9.98463901689708
+2020,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Männer,%,3.68663594470046
+2020,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Männer,%,2.1505376344086
+2020,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Männer,%,63.7480798771121
+2020,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Männer,%,4.91551459293395
+2020,Fächergruppen zusammen,Ausländerinnen und Ausländer,Männer,%,100
+2019,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Männer,%,4.12926391382406
+2019,Sport,Ausländerinnen und Ausländer,Männer,%,0.359066427289048
+2019,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Männer,%,14.1831238779174
+2019,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Männer,%,6.28366247755835
+2019,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Männer,%,3.23159784560144
+2019,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Männer,%,1.43626570915619
+2019,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Männer,%,64.9910233393178
+2019,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Männer,%,5.38599640933573
+2019,Fächergruppen zusammen,Ausländerinnen und Ausländer,Männer,%,100
+2018,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Männer,%,4.11522633744856
+2018,Sport,Ausländerinnen und Ausländer,Männer,%,-
+2018,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Männer,%,17.6954732510288
+2018,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Männer,%,8.23045267489712
+2018,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Männer,%,4.52674897119342
+2018,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Männer,%,2.26337448559671
+2018,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Männer,%,60.082304526749
+2018,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Männer,%,3.08641975308642
+2018,Fächergruppen zusammen,Ausländerinnen und Ausländer,Männer,%,100
+2017,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Männer,%,4.58333333333333
+2017,Sport,Ausländerinnen und Ausländer,Männer,%,0.416666666666667
+2017,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Männer,%,13.75
+2017,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Männer,%,7.91666666666667
+2017,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Männer,%,3.75
+2017,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Männer,%,1.875
+2017,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Männer,%,60.8333333333333
+2017,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Männer,%,6.875
+2017,Fächergruppen zusammen,Ausländerinnen und Ausländer,Männer,%,100
+2016,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Männer,%,5.52268244575937
+2016,Sport,Ausländerinnen und Ausländer,Männer,%,0.19723865877712
+2016,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Männer,%,16.1735700197239
+2016,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Männer,%,6.31163708086785
+2016,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Männer,%,3.74753451676529
+2016,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Männer,%,1.18343195266272
+2016,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Männer,%,60.9467455621302
+2016,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Männer,%,5.91715976331361
+2016,Fächergruppen zusammen,Ausländerinnen und Ausländer,Männer,%,100
+2015,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Männer,%,4.13385826771654
+2015,Sport,Ausländerinnen und Ausländer,Männer,%,-
+2015,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Männer,%,14.3700787401575
+2015,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Männer,%,12.7952755905512
+2015,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Männer,%,3.54330708661417
+2015,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Männer,%,1.18110236220472
+2015,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Männer,%,56.6929133858268
+2015,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Männer,%,7.28346456692913
+2015,Fächergruppen zusammen,Ausländerinnen und Ausländer,Männer,%,100
+2014,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Männer,%,4.54545454545455
+2014,Sport,Ausländerinnen und Ausländer,Männer,%,0.385208012326656
+2014,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Männer,%,14.6379044684129
+2014,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Männer,%,19.8767334360555
+2014,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Männer,%,2.77349768875193
+2014,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Männer,%,6.3944530046225
+2014,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Männer,%,47.1494607087827
+2014,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Männer,%,4.23728813559322
+2014,Fächergruppen zusammen,Ausländerinnen und Ausländer,Männer,%,100
+2013,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Männer,%,2.69784172661871
+2013,Sport,Ausländerinnen und Ausländer,Männer,%,0.179856115107914
+2013,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Männer,%,16.9064748201439
+2013,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Männer,%,12.410071942446
+2013,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Männer,%,5.93525179856115
+2013,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Männer,%,1.97841726618705
+2013,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Männer,%,54.136690647482
+2013,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Männer,%,5.75539568345324
+2013,Fächergruppen zusammen,Ausländerinnen und Ausländer,Männer,%,100
+2012,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Männer,%,3.4452296819788
+2012,Sport,Ausländerinnen und Ausländer,Männer,%,0.176678445229682
+2012,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Männer,%,16.8727915194346
+2012,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Männer,%,21.5547703180212
+2012,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Männer,%,4.24028268551237
+2012,Veterinärmedizin,Ausländerinnen und Ausländer,Männer,%,0.971731448763251
+2012,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Männer,%,3.62190812720848
+2012,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Männer,%,44.9646643109541
+2012,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Männer,%,4.15194346289753
+2012,Fächergruppen zusammen,Ausländerinnen und Ausländer,Männer,%,100
+2011,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Männer,%,4.25183973834832
+2011,Sport,Ausländerinnen und Ausländer,Männer,%,0.163532297628782
+2011,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Männer,%,16.9255928045789
+2011,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Männer,%,21.9950940310711
+2011,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Männer,%,2.53475061324612
+2011,Veterinärmedizin,Ausländerinnen und Ausländer,Männer,%,0.327064595257563
+2011,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Männer,%,4.08830744071954
+2011,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Männer,%,44.4807849550286
+2011,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Männer,%,5.23303352412101
+2011,Fächergruppen zusammen,Ausländerinnen und Ausländer,Männer,%,100
+2010,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Männer,%,4.45026178010471
+2010,Sport,Ausländerinnen und Ausländer,Männer,%,0.174520069808028
+2010,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Männer,%,18.3246073298429
+2010,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Männer,%,24.1710296684119
+2010,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Männer,%,2.96684118673647
+2010,Veterinärmedizin,Ausländerinnen und Ausländer,Männer,%,0.87260034904014
+2010,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Männer,%,3.57766143106457
+2010,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Männer,%,40.3141361256545
+2010,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Männer,%,5.14834205933682
+2010,Fächergruppen zusammen,Ausländerinnen und Ausländer,Männer,%,100
+2020,Geisteswissenschaften,Ausländerinnen und Ausländer,Frauen,%,10.8333333333333
+2020,Sport,Ausländerinnen und Ausländer,Frauen,%,-
+2020,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Frauen,%,33
+2020,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Frauen,%,7.33333333333333
+2020,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Frauen,%,4.66666666666667
+2020,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Frauen,%,6.66666666666667
+2020,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Frauen,%,27.8333333333333
+2020,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Frauen,%,9.66666666666667
+2020,Fächergruppen zusammen,Ausländerinnen und Ausländer,Frauen,%,100
+2019,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Frauen,%,10.7142857142857
+2019,Sport,Ausländerinnen und Ausländer,Frauen,%,0.680272108843537
+2019,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Frauen,%,35.2040816326531
+2019,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Frauen,%,8.50340136054422
+2019,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Frauen,%,6.46258503401361
+2019,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Frauen,%,3.74149659863946
+2019,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Frauen,%,26.8707482993197
+2019,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Frauen,%,7.82312925170068
+2019,Fächergruppen zusammen,Ausländerinnen und Ausländer,Frauen,%,100
+2018,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Frauen,%,12.3214285714286
+2018,Sport,Ausländerinnen und Ausländer,Frauen,%,-
+2018,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Frauen,%,37.5
+2018,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Frauen,%,6.60714285714286
+2018,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Frauen,%,6.25
+2018,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Frauen,%,2.32142857142857
+2018,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Frauen,%,27.3214285714286
+2018,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Frauen,%,7.67857142857143
+2018,Fächergruppen zusammen,Ausländerinnen und Ausländer,Frauen,%,100
+2017,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Frauen,%,10.6666666666667
+2017,Sport,Ausländerinnen und Ausländer,Frauen,%,-
+2017,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Frauen,%,36
+2017,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Frauen,%,7.23809523809524
+2017,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Frauen,%,5.14285714285714
+2017,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Frauen,%,4
+2017,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Frauen,%,26.8571428571429
+2017,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Frauen,%,10.0952380952381
+2017,Fächergruppen zusammen,Ausländerinnen und Ausländer,Frauen,%,100
+2016,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Frauen,%,10.1449275362319
+2016,Sport,Ausländerinnen und Ausländer,Frauen,%,0.36231884057971
+2016,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Frauen,%,37.1376811594203
+2016,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Frauen,%,9.42028985507246
+2016,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Frauen,%,5.61594202898551
+2016,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Frauen,%,3.26086956521739
+2016,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Frauen,%,25.3623188405797
+2016,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Frauen,%,8.51449275362319
+2016,Fächergruppen zusammen,Ausländerinnen und Ausländer,Frauen,%,100
+2015,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Frauen,%,15.0943396226415
+2015,Sport,Ausländerinnen und Ausländer,Frauen,%,0.377358490566038
+2015,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Frauen,%,32.8301886792453
+2015,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Frauen,%,10
+2015,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Frauen,%,6.22641509433962
+2015,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Frauen,%,2.83018867924528
+2015,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Frauen,%,18.3018867924528
+2015,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Frauen,%,14.3396226415094
+2015,Fächergruppen zusammen,Ausländerinnen und Ausländer,Frauen,%,100
+2014,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Frauen,%,13.8549307253464
+2014,Sport,Ausländerinnen und Ausländer,Frauen,%,0.244498777506112
+2014,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Frauen,%,28.8508557457213
+2014,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Frauen,%,20.2118989405053
+2014,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Frauen,%,4.31947840260799
+2014,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Frauen,%,7.33496332518337
+2014,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Frauen,%,17.5224123879381
+2014,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Frauen,%,7.66096169519152
+2014,Fächergruppen zusammen,Ausländerinnen und Ausländer,Frauen,%,100
+2013,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Frauen,%,18.6915887850467
+2013,Sport,Ausländerinnen und Ausländer,Frauen,%,0.311526479750779
+2013,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Frauen,%,31.4641744548287
+2013,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Frauen,%,8.8785046728972
+2013,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Frauen,%,4.3613707165109
+2013,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Frauen,%,3.42679127725857
+2013,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Frauen,%,21.0280373831776
+2013,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Frauen,%,11.8380062305296
+2013,Fächergruppen zusammen,Ausländerinnen und Ausländer,Frauen,%,100
+2012,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Frauen,%,17.3949579831933
+2012,Sport,Ausländerinnen und Ausländer,Frauen,%,0.168067226890756
+2012,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Frauen,%,28.0672268907563
+2012,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Frauen,%,16.0504201680672
+2012,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Frauen,%,4.03361344537815
+2012,Veterinärmedizin,Ausländerinnen und Ausländer,Frauen,%,1.09243697478992
+2012,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Frauen,%,4.70588235294118
+2012,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Frauen,%,19.7478991596639
+2012,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Frauen,%,8.73949579831933
+2012,Fächergruppen zusammen,Ausländerinnen und Ausländer,Frauen,%,100
+2011,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Frauen,%,17.9650238473768
+2011,Sport,Ausländerinnen und Ausländer,Frauen,%,0.317965023847377
+2011,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Frauen,%,32.1939586645469
+2011,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Frauen,%,14.9443561208267
+2011,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Frauen,%,3.10015898251192
+2011,Veterinärmedizin,Ausländerinnen und Ausländer,Frauen,%,1.35135135135135
+2011,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Frauen,%,4.1335453100159
+2011,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Frauen,%,17.0111287758347
+2011,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Frauen,%,8.98251192368839
+2011,Fächergruppen zusammen,Ausländerinnen und Ausländer,Frauen,%,100
+2010,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Frauen,%,22.0779220779221
+2010,Sport,Ausländerinnen und Ausländer,Frauen,%,0.25974025974026
+2010,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Frauen,%,29.95670995671
+2010,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Frauen,%,18.2683982683983
+2010,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Frauen,%,3.46320346320346
+2010,Veterinärmedizin,Ausländerinnen und Ausländer,Frauen,%,0.346320346320346
+2010,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Frauen,%,3.63636363636364
+2010,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Frauen,%,15.1515151515152
+2010,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Frauen,%,6.83982683982684
+2010,Fächergruppen zusammen,Ausländerinnen und Ausländer,Frauen,%,100
+2020,Geisteswissenschaften,Insgesamt,Insgesamt,Anzahl,2412
+2020,Sport,Insgesamt,Insgesamt,Anzahl,242
+2020,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Insgesamt,Anzahl,9245
+2020,Mathematik, Natruwissenschaften,Insgesamt,Insgesamt,Anzahl,2285
+2020,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Insgesamt,Anzahl,1346
+2020,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Insgesamt,Anzahl,1450
+2020,Ingenieurwissenschaften,Insgesamt,Insgesamt,Anzahl,5543
+2020,Kunst, Kunstwissenschaften,Insgesamt,Insgesamt,Anzahl,918
+2020,Fächergruppen zusammen,Insgesamt,Insgesamt,Anzahl,23441
+2019,Sprach- und Kulturwissenschaften,Insgesamt,Insgesamt,Anzahl,2498
+2019,Sport,Insgesamt,Insgesamt,Anzahl,246
+2019,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Insgesamt,Anzahl,9662
+2019,Mathematik, Natruwissenschaften,Insgesamt,Insgesamt,Anzahl,2369
+2019,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Insgesamt,Anzahl,1421
+2019,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Insgesamt,Anzahl,1332
+2019,Ingenieurwissenschaften,Insgesamt,Insgesamt,Anzahl,5874
+2019,Kunst, Kunstwissenschaften,Insgesamt,Insgesamt,Anzahl,958
+2019,Fächergruppen zusammen,Insgesamt,Insgesamt,Anzahl,24360
+2018,Sprach- und Kulturwissenschaften,Insgesamt,Insgesamt,Anzahl,2470
+2018,Sport,Insgesamt,Insgesamt,Anzahl,255
+2018,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Insgesamt,Anzahl,9467
+2018,Mathematik, Natruwissenschaften,Insgesamt,Insgesamt,Anzahl,2306
+2018,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Insgesamt,Anzahl,1382
+2018,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Insgesamt,Anzahl,1262
+2018,Ingenieurwissenschaften,Insgesamt,Insgesamt,Anzahl,5759
+2018,Kunst, Kunstwissenschaften,Insgesamt,Insgesamt,Anzahl,861
+2018,Fächergruppen zusammen,Insgesamt,Insgesamt,Anzahl,23762
+2017,Sprach- und Kulturwissenschaften,Insgesamt,Insgesamt,Anzahl,2434
+2017,Sport,Insgesamt,Insgesamt,Anzahl,249
+2017,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Insgesamt,Anzahl,9237
+2017,Mathematik, Natruwissenschaften,Insgesamt,Insgesamt,Anzahl,2168
+2017,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Insgesamt,Anzahl,1350
+2017,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Insgesamt,Anzahl,1246
+2017,Ingenieurwissenschaften,Insgesamt,Insgesamt,Anzahl,5648
+2017,Kunst, Kunstwissenschaften,Insgesamt,Insgesamt,Anzahl,969
+2017,Fächergruppen zusammen,Insgesamt,Insgesamt,Anzahl,23301
+2016,Sprach- und Kulturwissenschaften,Insgesamt,Insgesamt,Anzahl,2462
+2016,Sport,Insgesamt,Insgesamt,Anzahl,265
+2016,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Insgesamt,Anzahl,8844
+2016,Mathematik, Natruwissenschaften,Insgesamt,Insgesamt,Anzahl,2197
+2016,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Insgesamt,Anzahl,1329
+2016,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Insgesamt,Anzahl,1195
+2016,Ingenieurwissenschaften,Insgesamt,Insgesamt,Anzahl,5833
+2016,Kunst, Kunstwissenschaften,Insgesamt,Insgesamt,Anzahl,971
+2016,Fächergruppen zusammen,Insgesamt,Insgesamt,Anzahl,23096
+2015,Sprach- und Kulturwissenschaften,Insgesamt,Insgesamt,Anzahl,3461
+2015,Sport,Insgesamt,Insgesamt,Anzahl,284
+2015,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Insgesamt,Anzahl,7573
+2015,Mathematik, Natruwissenschaften,Insgesamt,Insgesamt,Anzahl,3342
+2015,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Insgesamt,Anzahl,1267
+2015,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Insgesamt,Anzahl,1212
+2015,Ingenieurwissenschaften,Insgesamt,Insgesamt,Anzahl,5174
+2015,Kunst, Kunstwissenschaften,Insgesamt,Insgesamt,Anzahl,1033
+2015,Fächergruppen zusammen,Insgesamt,Insgesamt,Anzahl,23346
+2014,Sprach- und Kulturwissenschaften,Insgesamt,Insgesamt,Anzahl,5972
+2014,Sport,Insgesamt,Insgesamt,Anzahl,413
+2014,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Insgesamt,Anzahl,9575
+2014,Mathematik, Natruwissenschaften,Insgesamt,Insgesamt,Anzahl,6084
+2014,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Insgesamt,Anzahl,1876
+2014,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Insgesamt,Anzahl,1841
+2014,Ingenieurwissenschaften,Insgesamt,Insgesamt,Anzahl,7165
+2014,Kunst, Kunstwissenschaften,Insgesamt,Insgesamt,Anzahl,1335
+2014,Fächergruppen zusammen,Insgesamt,Insgesamt,Anzahl,34261
+2013,Sprach- und Kulturwissenschaften,Insgesamt,Insgesamt,Anzahl,3820
+2013,Sport,Insgesamt,Insgesamt,Anzahl,280
+2013,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Insgesamt,Anzahl,7367
+2013,Mathematik, Natruwissenschaften,Insgesamt,Insgesamt,Anzahl,2968
+2013,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Insgesamt,Anzahl,1229
+2013,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Insgesamt,Anzahl,1097
+2013,Ingenieurwissenschaften,Insgesamt,Insgesamt,Anzahl,5308
+2013,Kunst, Kunstwissenschaften,Insgesamt,Insgesamt,Anzahl,1072
+2013,Fächergruppen zusammen,Insgesamt,Insgesamt,Anzahl,23141
+2012,Sprach- und Kulturwissenschaften,Insgesamt,Insgesamt,Anzahl,5383
+2012,Sport,Insgesamt,Insgesamt,Anzahl,337
+2012,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Insgesamt,Anzahl,8712
+2012,Mathematik, Natruwissenschaften,Insgesamt,Insgesamt,Anzahl,5485
+2012,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Insgesamt,Anzahl,1905
+2012,Veterinärmedizin,Insgesamt,Insgesamt,Anzahl,389
+2012,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Insgesamt,Anzahl,1337
+2012,Ingenieurwissenschaften,Insgesamt,Insgesamt,Anzahl,6033
+2012,Kunst, Kunstwissenschaften,Insgesamt,Insgesamt,Anzahl,1357
+2012,Fächergruppen zusammen,Insgesamt,Insgesamt,Anzahl,30938
+2011,Sprach- und Kulturwissenschaften,Insgesamt,Insgesamt,Anzahl,5569
+2011,Sport,Insgesamt,Insgesamt,Anzahl,351
+2011,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Insgesamt,Anzahl,9218
+2011,Mathematik, Natruwissenschaften,Insgesamt,Insgesamt,Anzahl,5348
+2011,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Insgesamt,Anzahl,1823
+2011,Veterinärmedizin,Insgesamt,Insgesamt,Anzahl,375
+2011,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Insgesamt,Anzahl,1308
+2011,Ingenieurwissenschaften,Insgesamt,Insgesamt,Anzahl,5464
+2011,Kunst, Kunstwissenschaften,Insgesamt,Insgesamt,Anzahl,1251
+2011,Fächergruppen zusammen,Insgesamt,Insgesamt,Anzahl,30707
+2010,Sprach- und Kulturwissenschaften,Insgesamt,Insgesamt,Anzahl,5560
+2010,Sport,Insgesamt,Insgesamt,Anzahl,383
+2010,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Insgesamt,Anzahl,9094
+2010,Mathematik, Natruwissenschaften,Insgesamt,Insgesamt,Anzahl,5335
+2010,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Insgesamt,Anzahl,1764
+2010,Veterinärmedizin,Insgesamt,Insgesamt,Anzahl,314
+2010,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Insgesamt,Anzahl,1287
+2010,Ingenieurwissenschaften,Insgesamt,Insgesamt,Anzahl,4113
+2010,Kunst, Kunstwissenschaften,Insgesamt,Insgesamt,Anzahl,1147
+2010,Fächergruppen zusammen,Insgesamt,Insgesamt,Anzahl,28997
+2020,Geisteswissenschaften,Insgesamt,Männer,Anzahl,554
+2020,Sport,Insgesamt,Männer,Anzahl,126
+2020,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Männer,Anzahl,3323
+2020,Mathematik, Natruwissenschaften,Insgesamt,Männer,Anzahl,981
+2020,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Männer,Anzahl,343
+2020,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Männer,Anzahl,565
+2020,Ingenieurwissenschaften,Insgesamt,Männer,Anzahl,4184
+2020,Kunst, Kunstwissenschaften,Insgesamt,Männer,Anzahl,307
+2020,Fächergruppen zusammen,Insgesamt,Männer,Anzahl,10383
+2019,Sprach- und Kulturwissenschaften,Insgesamt,Männer,Anzahl,608
+2019,Sport,Insgesamt,Männer,Anzahl,120
+2019,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Männer,Anzahl,3481
+2019,Mathematik, Natruwissenschaften,Insgesamt,Männer,Anzahl,1022
+2019,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Männer,Anzahl,355
+2019,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Männer,Anzahl,597
+2019,Ingenieurwissenschaften,Insgesamt,Männer,Anzahl,4509
+2019,Kunst, Kunstwissenschaften,Insgesamt,Männer,Anzahl,322
+2019,Fächergruppen zusammen,Insgesamt,Männer,Anzahl,11014
+2018,Sprach- und Kulturwissenschaften,Insgesamt,Männer,Anzahl,574
+2018,Sport,Insgesamt,Männer,Anzahl,131
+2018,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Männer,Anzahl,3515
+2018,Mathematik, Natruwissenschaften,Insgesamt,Männer,Anzahl,1058
+2018,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Männer,Anzahl,372
+2018,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Männer,Anzahl,629
+2018,Ingenieurwissenschaften,Insgesamt,Männer,Anzahl,4513
+2018,Kunst, Kunstwissenschaften,Insgesamt,Männer,Anzahl,274
+2018,Fächergruppen zusammen,Insgesamt,Männer,Anzahl,11066
+2017,Sprach- und Kulturwissenschaften,Insgesamt,Männer,Anzahl,565
+2017,Sport,Insgesamt,Männer,Anzahl,134
+2017,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Männer,Anzahl,3391
+2017,Mathematik, Natruwissenschaften,Insgesamt,Männer,Anzahl,956
+2017,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Männer,Anzahl,340
+2017,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Männer,Anzahl,585
+2017,Ingenieurwissenschaften,Insgesamt,Männer,Anzahl,4380
+2017,Kunst, Kunstwissenschaften,Insgesamt,Männer,Anzahl,320
+2017,Fächergruppen zusammen,Insgesamt,Männer,Anzahl,10671
+2016,Sprach- und Kulturwissenschaften,Insgesamt,Männer,Anzahl,603
+2016,Sport,Insgesamt,Männer,Anzahl,148
+2016,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Männer,Anzahl,3303
+2016,Mathematik, Natruwissenschaften,Insgesamt,Männer,Anzahl,976
+2016,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Männer,Anzahl,341
+2016,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Männer,Anzahl,567
+2016,Ingenieurwissenschaften,Insgesamt,Männer,Anzahl,4610
+2016,Kunst, Kunstwissenschaften,Insgesamt,Männer,Anzahl,298
+2016,Fächergruppen zusammen,Insgesamt,Männer,Anzahl,10846
+2015,Sprach- und Kulturwissenschaften,Insgesamt,Männer,Anzahl,680
+2015,Sport,Insgesamt,Männer,Anzahl,140
+2015,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Männer,Anzahl,3089
+2015,Mathematik, Natruwissenschaften,Insgesamt,Männer,Anzahl,1922
+2015,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Männer,Anzahl,328
+2015,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Männer,Anzahl,580
+2015,Ingenieurwissenschaften,Insgesamt,Männer,Anzahl,4051
+2015,Kunst, Kunstwissenschaften,Insgesamt,Männer,Anzahl,321
+2015,Fächergruppen zusammen,Insgesamt,Männer,Anzahl,11111
+2014,Sprach- und Kulturwissenschaften,Insgesamt,Männer,Anzahl,1245
+2014,Sport,Insgesamt,Männer,Anzahl,165
+2014,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Männer,Anzahl,4098
+2014,Mathematik, Natruwissenschaften,Insgesamt,Männer,Anzahl,3190
+2014,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Männer,Anzahl,576
+2014,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Männer,Anzahl,803
+2014,Ingenieurwissenschaften,Insgesamt,Männer,Anzahl,5617
+2014,Kunst, Kunstwissenschaften,Insgesamt,Männer,Anzahl,383
+2014,Fächergruppen zusammen,Insgesamt,Männer,Anzahl,16077
+2013,Sprach- und Kulturwissenschaften,Insgesamt,Männer,Anzahl,756
+2013,Sport,Insgesamt,Männer,Anzahl,130
+2013,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Männer,Anzahl,2992
+2013,Mathematik, Natruwissenschaften,Insgesamt,Männer,Anzahl,1729
+2013,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Männer,Anzahl,372
+2013,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Männer,Anzahl,476
+2013,Ingenieurwissenschaften,Insgesamt,Männer,Anzahl,4102
+2013,Kunst, Kunstwissenschaften,Insgesamt,Männer,Anzahl,299
+2013,Fächergruppen zusammen,Insgesamt,Männer,Anzahl,10856
+2012,Sprach- und Kulturwissenschaften,Insgesamt,Männer,Anzahl,1113
+2012,Sport,Insgesamt,Männer,Anzahl,148
+2012,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Männer,Anzahl,3809
+2012,Mathematik, Natruwissenschaften,Insgesamt,Männer,Anzahl,2933
+2012,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Männer,Anzahl,623
+2012,Veterinärmedizin,Insgesamt,Männer,Anzahl,69
+2012,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Männer,Anzahl,619
+2012,Ingenieurwissenschaften,Insgesamt,Männer,Anzahl,4625
+2012,Kunst, Kunstwissenschaften,Insgesamt,Männer,Anzahl,389
+2012,Fächergruppen zusammen,Insgesamt,Männer,Anzahl,14328
+2011,Sprach- und Kulturwissenschaften,Insgesamt,Männer,Anzahl,1189
+2011,Sport,Insgesamt,Männer,Anzahl,150
+2011,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Männer,Anzahl,4061
+2011,Mathematik, Natruwissenschaften,Insgesamt,Männer,Anzahl,2814
+2011,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Männer,Anzahl,608
+2011,Veterinärmedizin,Insgesamt,Männer,Anzahl,55
+2011,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Männer,Anzahl,700
+2011,Ingenieurwissenschaften,Insgesamt,Männer,Anzahl,4286
+2011,Kunst, Kunstwissenschaften,Insgesamt,Männer,Anzahl,356
+2011,Fächergruppen zusammen,Insgesamt,Männer,Anzahl,14219
+2010,Sprach- und Kulturwissenschaften,Insgesamt,Männer,Anzahl,1200
+2010,Sport,Insgesamt,Männer,Anzahl,175
+2010,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Männer,Anzahl,4151
+2010,Mathematik, Natruwissenschaften,Insgesamt,Männer,Anzahl,2795
+2010,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Männer,Anzahl,603
+2010,Veterinärmedizin,Insgesamt,Männer,Anzahl,60
+2010,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Männer,Anzahl,686
+2010,Ingenieurwissenschaften,Insgesamt,Männer,Anzahl,3236
+2010,Kunst, Kunstwissenschaften,Insgesamt,Männer,Anzahl,341
+2010,Fächergruppen zusammen,Insgesamt,Männer,Anzahl,13247
+2020,Geisteswissenschaften,Insgesamt,Frauen,Anzahl,1858
+2020,Sport,Insgesamt,Frauen,Anzahl,116
+2020,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Frauen,Anzahl,5922
+2020,Mathematik, Natruwissenschaften,Insgesamt,Frauen,Anzahl,1304
+2020,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Frauen,Anzahl,1003
+2020,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Frauen,Anzahl,885
+2020,Ingenieurwissenschaften,Insgesamt,Frauen,Anzahl,1359
+2020,Kunst, Kunstwissenschaften,Insgesamt,Frauen,Anzahl,611
+2020,Fächergruppen zusammen,Insgesamt,Frauen,Anzahl,13058
+2019,Sprach- und Kulturwissenschaften,Insgesamt,Frauen,Anzahl,1890
+2019,Sport,Insgesamt,Frauen,Anzahl,126
+2019,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Frauen,Anzahl,6181
+2019,Mathematik, Natruwissenschaften,Insgesamt,Frauen,Anzahl,1347
+2019,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Frauen,Anzahl,1066
+2019,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Frauen,Anzahl,735
+2019,Ingenieurwissenschaften,Insgesamt,Frauen,Anzahl,1365
+2019,Kunst, Kunstwissenschaften,Insgesamt,Frauen,Anzahl,636
+2019,Fächergruppen zusammen,Insgesamt,Frauen,Anzahl,13346
+2018,Sprach- und Kulturwissenschaften,Insgesamt,Frauen,Anzahl,1896
+2018,Sport,Insgesamt,Frauen,Anzahl,124
+2018,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Frauen,Anzahl,5952
+2018,Mathematik, Natruwissenschaften,Insgesamt,Frauen,Anzahl,1248
+2018,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Frauen,Anzahl,1010
+2018,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Frauen,Anzahl,633
+2018,Ingenieurwissenschaften,Insgesamt,Frauen,Anzahl,1246
+2018,Kunst, Kunstwissenschaften,Insgesamt,Frauen,Anzahl,587
+2018,Fächergruppen zusammen,Insgesamt,Frauen,Anzahl,12696
+2017,Sprach- und Kulturwissenschaften,Insgesamt,Frauen,Anzahl,1869
+2017,Sport,Insgesamt,Frauen,Anzahl,115
+2017,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Frauen,Anzahl,5846
+2017,Mathematik, Natruwissenschaften,Insgesamt,Frauen,Anzahl,1212
+2017,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Frauen,Anzahl,1010
+2017,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Frauen,Anzahl,661
+2017,Ingenieurwissenschaften,Insgesamt,Frauen,Anzahl,1268
+2017,Kunst, Kunstwissenschaften,Insgesamt,Frauen,Anzahl,649
+2017,Fächergruppen zusammen,Insgesamt,Frauen,Anzahl,12630
+2016,Sprach- und Kulturwissenschaften,Insgesamt,Frauen,Anzahl,1859
+2016,Sport,Insgesamt,Frauen,Anzahl,117
+2016,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Frauen,Anzahl,5541
+2016,Mathematik, Natruwissenschaften,Insgesamt,Frauen,Anzahl,1221
+2016,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Frauen,Anzahl,988
+2016,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Frauen,Anzahl,628
+2016,Ingenieurwissenschaften,Insgesamt,Frauen,Anzahl,1223
+2016,Kunst, Kunstwissenschaften,Insgesamt,Frauen,Anzahl,673
+2016,Fächergruppen zusammen,Insgesamt,Frauen,Anzahl,12250
+2015,Sprach- und Kulturwissenschaften,Insgesamt,Frauen,Anzahl,2781
+2015,Sport,Insgesamt,Frauen,Anzahl,144
+2015,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Frauen,Anzahl,4484
+2015,Mathematik, Natruwissenschaften,Insgesamt,Frauen,Anzahl,1420
+2015,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Frauen,Anzahl,939
+2015,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Frauen,Anzahl,632
+2015,Ingenieurwissenschaften,Insgesamt,Frauen,Anzahl,1123
+2015,Kunst, Kunstwissenschaften,Insgesamt,Frauen,Anzahl,712
+2015,Fächergruppen zusammen,Insgesamt,Frauen,Anzahl,12235
+2014,Sprach- und Kulturwissenschaften,Insgesamt,Frauen,Anzahl,4727
+2014,Sport,Insgesamt,Frauen,Anzahl,248
+2014,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Frauen,Anzahl,5477
+2014,Mathematik, Natruwissenschaften,Insgesamt,Frauen,Anzahl,2894
+2014,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Frauen,Anzahl,1300
+2014,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Frauen,Anzahl,1038
+2014,Ingenieurwissenschaften,Insgesamt,Frauen,Anzahl,1548
+2014,Kunst, Kunstwissenschaften,Insgesamt,Frauen,Anzahl,952
+2014,Fächergruppen zusammen,Insgesamt,Frauen,Anzahl,18184
+2013,Sprach- und Kulturwissenschaften,Insgesamt,Frauen,Anzahl,3064
+2013,Sport,Insgesamt,Frauen,Anzahl,150
+2013,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Frauen,Anzahl,4375
+2013,Mathematik, Natruwissenschaften,Insgesamt,Frauen,Anzahl,1239
+2013,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Frauen,Anzahl,857
+2013,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Frauen,Anzahl,621
+2013,Ingenieurwissenschaften,Insgesamt,Frauen,Anzahl,1206
+2013,Kunst, Kunstwissenschaften,Insgesamt,Frauen,Anzahl,773
+2013,Fächergruppen zusammen,Insgesamt,Frauen,Anzahl,12285
+2012,Sprach- und Kulturwissenschaften,Insgesamt,Frauen,Anzahl,4270
+2012,Sport,Insgesamt,Frauen,Anzahl,189
+2012,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Frauen,Anzahl,4903
+2012,Mathematik, Natruwissenschaften,Insgesamt,Frauen,Anzahl,2552
+2012,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Frauen,Anzahl,1282
+2012,Veterinärmedizin,Insgesamt,Frauen,Anzahl,320
+2012,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Frauen,Anzahl,718
+2012,Ingenieurwissenschaften,Insgesamt,Frauen,Anzahl,1408
+2012,Kunst, Kunstwissenschaften,Insgesamt,Frauen,Anzahl,968
+2012,Fächergruppen zusammen,Insgesamt,Frauen,Anzahl,16610
+2011,Sprach- und Kulturwissenschaften,Insgesamt,Frauen,Anzahl,4380
+2011,Sport,Insgesamt,Frauen,Anzahl,201
+2011,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Frauen,Anzahl,5157
+2011,Mathematik, Natruwissenschaften,Insgesamt,Frauen,Anzahl,2534
+2011,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Frauen,Anzahl,1215
+2011,Veterinärmedizin,Insgesamt,Frauen,Anzahl,320
+2011,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Frauen,Anzahl,608
+2011,Ingenieurwissenschaften,Insgesamt,Frauen,Anzahl,1178
+2011,Kunst, Kunstwissenschaften,Insgesamt,Frauen,Anzahl,895
+2011,Fächergruppen zusammen,Insgesamt,Frauen,Anzahl,16488
+2010,Sprach- und Kulturwissenschaften,Insgesamt,Frauen,Anzahl,4360
+2010,Sport,Insgesamt,Frauen,Anzahl,208
+2010,Rechts-, Wirtschafts- und Sozialwissenschaften,Insgesamt,Frauen,Anzahl,4943
+2010,Mathematik, Natruwissenschaften,Insgesamt,Frauen,Anzahl,2540
+2010,Humanmedizin, Gesundheitswissenschaften,Insgesamt,Frauen,Anzahl,1161
+2010,Veterinärmedizin,Insgesamt,Frauen,Anzahl,254
+2010,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Insgesamt,Frauen,Anzahl,601
+2010,Ingenieurwissenschaften,Insgesamt,Frauen,Anzahl,877
+2010,Kunst, Kunstwissenschaften,Insgesamt,Frauen,Anzahl,806
+2010,Fächergruppen zusammen,Insgesamt,Frauen,Anzahl,15750
+2020,Geisteswissenschaften,Deutsche,Insgesamt,Anzahl,2331
+2020,Sport,Deutsche,Insgesamt,Anzahl,237
+2020,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Insgesamt,Anzahl,8967
+2020,Mathematik, Natruwissenschaften,Deutsche,Insgesamt,Anzahl,2176
+2020,Humanmedizin, Gesundheitswissenschaften,Deutsche,Insgesamt,Anzahl,1294
+2020,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Insgesamt,Anzahl,1396
+2020,Ingenieurwissenschaften,Deutsche,Insgesamt,Anzahl,4961
+2020,Kunst, Kunstwissenschaften,Deutsche,Insgesamt,Anzahl,828
+2020,Fächergruppen zusammen,Deutsche,Insgesamt,Anzahl,22190
+2019,Sprach- und Kulturwissenschaften,Deutsche,Insgesamt,Anzahl,2412
+2019,Sport,Deutsche,Insgesamt,Anzahl,240
+2019,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Insgesamt,Anzahl,9376
+2019,Mathematik, Natruwissenschaften,Deutsche,Insgesamt,Anzahl,2284
+2019,Humanmedizin, Gesundheitswissenschaften,Deutsche,Insgesamt,Anzahl,1365
+2019,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Insgesamt,Anzahl,1302
+2019,Ingenieurwissenschaften,Deutsche,Insgesamt,Anzahl,5354
+2019,Kunst, Kunstwissenschaften,Deutsche,Insgesamt,Anzahl,882
+2019,Fächergruppen zusammen,Deutsche,Insgesamt,Anzahl,23215
+2018,Sprach- und Kulturwissenschaften,Deutsche,Insgesamt,Anzahl,2381
+2018,Sport,Deutsche,Insgesamt,Anzahl,255
+2018,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Insgesamt,Anzahl,9171
+2018,Mathematik, Natruwissenschaften,Deutsche,Insgesamt,Anzahl,2229
+2018,Humanmedizin, Gesundheitswissenschaften,Deutsche,Insgesamt,Anzahl,1325
+2018,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Insgesamt,Anzahl,1238
+2018,Ingenieurwissenschaften,Deutsche,Insgesamt,Anzahl,5314
+2018,Kunst, Kunstwissenschaften,Deutsche,Insgesamt,Anzahl,803
+2018,Fächergruppen zusammen,Deutsche,Insgesamt,Anzahl,22716
+2017,Sprach- und Kulturwissenschaften,Deutsche,Insgesamt,Anzahl,2356
+2017,Sport,Deutsche,Insgesamt,Anzahl,247
+2017,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Insgesamt,Anzahl,8982
+2017,Mathematik, Natruwissenschaften,Deutsche,Insgesamt,Anzahl,2092
+2017,Humanmedizin, Gesundheitswissenschaften,Deutsche,Insgesamt,Anzahl,1305
+2017,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Insgesamt,Anzahl,1216
+2017,Ingenieurwissenschaften,Deutsche,Insgesamt,Anzahl,5215
+2017,Kunst, Kunstwissenschaften,Deutsche,Insgesamt,Anzahl,883
+2017,Fächergruppen zusammen,Deutsche,Insgesamt,Anzahl,22296
+2016,Sprach- und Kulturwissenschaften,Deutsche,Insgesamt,Anzahl,2378
+2016,Sport,Deutsche,Insgesamt,Anzahl,262
+2016,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Insgesamt,Anzahl,8557
+2016,Mathematik, Natruwissenschaften,Deutsche,Insgesamt,Anzahl,2113
+2016,Humanmedizin, Gesundheitswissenschaften,Deutsche,Insgesamt,Anzahl,1279
+2016,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Insgesamt,Anzahl,1171
+2016,Ingenieurwissenschaften,Deutsche,Insgesamt,Anzahl,5384
+2016,Kunst, Kunstwissenschaften,Deutsche,Insgesamt,Anzahl,894
+2016,Fächergruppen zusammen,Deutsche,Insgesamt,Anzahl,22038
+2015,Sprach- und Kulturwissenschaften,Deutsche,Insgesamt,Anzahl,3360
+2015,Sport,Deutsche,Insgesamt,Anzahl,282
+2015,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Insgesamt,Anzahl,7326
+2015,Mathematik, Natruwissenschaften,Deutsche,Insgesamt,Anzahl,3224
+2015,Humanmedizin, Gesundheitswissenschaften,Deutsche,Insgesamt,Anzahl,1216
+2015,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Insgesamt,Anzahl,1191
+2015,Ingenieurwissenschaften,Deutsche,Insgesamt,Anzahl,4789
+2015,Kunst, Kunstwissenschaften,Deutsche,Insgesamt,Anzahl,920
+2015,Fächergruppen zusammen,Deutsche,Insgesamt,Anzahl,22308
+2014,Sprach- und Kulturwissenschaften,Deutsche,Insgesamt,Anzahl,5743
+2014,Sport,Deutsche,Insgesamt,Anzahl,405
+2014,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Insgesamt,Anzahl,9031
+2014,Mathematik, Natruwissenschaften,Deutsche,Insgesamt,Anzahl,5578
+2014,Humanmedizin, Gesundheitswissenschaften,Deutsche,Insgesamt,Anzahl,1787
+2014,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Insgesamt,Anzahl,1668
+2014,Ingenieurwissenschaften,Deutsche,Insgesamt,Anzahl,6338
+2014,Kunst, Kunstwissenschaften,Deutsche,Insgesamt,Anzahl,1186
+2014,Fächergruppen zusammen,Deutsche,Insgesamt,Anzahl,31736
+2013,Sprach- und Kulturwissenschaften,Deutsche,Insgesamt,Anzahl,3685
+2013,Sport,Deutsche,Insgesamt,Anzahl,277
+2013,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Insgesamt,Anzahl,7071
+2013,Mathematik, Natruwissenschaften,Deutsche,Insgesamt,Anzahl,2842
+2013,Humanmedizin, Gesundheitswissenschaften,Deutsche,Insgesamt,Anzahl,1168
+2013,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Insgesamt,Anzahl,1064
+2013,Ingenieurwissenschaften,Deutsche,Insgesamt,Anzahl,4872
+2013,Kunst, Kunstwissenschaften,Deutsche,Insgesamt,Anzahl,964
+2013,Fächergruppen zusammen,Deutsche,Insgesamt,Anzahl,21943
+2012,Sprach- und Kulturwissenschaften,Deutsche,Insgesamt,Anzahl,5137
+2012,Sport,Deutsche,Insgesamt,Anzahl,333
+2012,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Insgesamt,Anzahl,8187
+2012,Mathematik, Natruwissenschaften,Deutsche,Insgesamt,Anzahl,5050
+2012,Humanmedizin, Gesundheitswissenschaften,Deutsche,Insgesamt,Anzahl,1809
+2012,Veterinärmedizin,Deutsche,Insgesamt,Anzahl,365
+2012,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Insgesamt,Anzahl,1240
+2012,Ingenieurwissenschaften,Deutsche,Insgesamt,Anzahl,5289
+2012,Kunst, Kunstwissenschaften,Deutsche,Insgesamt,Anzahl,1206
+2012,Fächergruppen zusammen,Deutsche,Insgesamt,Anzahl,28616
+2011,Sprach- und Kulturwissenschaften,Deutsche,Insgesamt,Anzahl,5291
+2011,Sport,Deutsche,Insgesamt,Anzahl,345
+2011,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Insgesamt,Anzahl,8606
+2011,Mathematik, Natruwissenschaften,Deutsche,Insgesamt,Anzahl,4891
+2011,Humanmedizin, Gesundheitswissenschaften,Deutsche,Insgesamt,Anzahl,1753
+2011,Veterinärmedizin,Deutsche,Insgesamt,Anzahl,354
+2011,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Insgesamt,Anzahl,1206
+2011,Ingenieurwissenschaften,Deutsche,Insgesamt,Anzahl,4706
+2011,Kunst, Kunstwissenschaften,Deutsche,Insgesamt,Anzahl,1074
+2011,Fächergruppen zusammen,Deutsche,Insgesamt,Anzahl,28226
+2010,Sprach- und Kulturwissenschaften,Deutsche,Insgesamt,Anzahl,5254
+2010,Sport,Deutsche,Insgesamt,Anzahl,378
+2010,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Insgesamt,Anzahl,8538
+2010,Mathematik, Natruwissenschaften,Deutsche,Insgesamt,Anzahl,4847
+2010,Humanmedizin, Gesundheitswissenschaften,Deutsche,Insgesamt,Anzahl,1690
+2010,Veterinärmedizin,Deutsche,Insgesamt,Anzahl,300
+2010,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Insgesamt,Anzahl,1204
+2010,Ingenieurwissenschaften,Deutsche,Insgesamt,Anzahl,3476
+2010,Kunst, Kunstwissenschaften,Deutsche,Insgesamt,Anzahl,1009
+2010,Fächergruppen zusammen,Deutsche,Insgesamt,Anzahl,26696
+2020,Geisteswissenschaften,Deutsche,Männer,Anzahl,538
+2020,Sport,Deutsche,Männer,Anzahl,121
+2020,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Männer,Anzahl,3243
+2020,Mathematik, Natruwissenschaften,Deutsche,Männer,Anzahl,916
+2020,Humanmedizin, Gesundheitswissenschaften,Deutsche,Männer,Anzahl,319
+2020,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Männer,Anzahl,551
+2020,Ingenieurwissenschaften,Deutsche,Männer,Anzahl,3769
+2020,Kunst, Kunstwissenschaften,Deutsche,Männer,Anzahl,275
+2020,Fächergruppen zusammen,Deutsche,Männer,Anzahl,9732
+2019,Sprach- und Kulturwissenschaften,Deutsche,Männer,Anzahl,585
+2019,Sport,Deutsche,Männer,Anzahl,118
+2019,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Männer,Anzahl,3402
+2019,Mathematik, Natruwissenschaften,Deutsche,Männer,Anzahl,987
+2019,Humanmedizin, Gesundheitswissenschaften,Deutsche,Männer,Anzahl,337
+2019,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Männer,Anzahl,589
+2019,Ingenieurwissenschaften,Deutsche,Männer,Anzahl,4147
+2019,Kunst, Kunstwissenschaften,Deutsche,Männer,Anzahl,292
+2019,Fächergruppen zusammen,Deutsche,Männer,Anzahl,10457
+2018,Sprach- und Kulturwissenschaften,Deutsche,Männer,Anzahl,554
+2018,Sport,Deutsche,Männer,Anzahl,131
+2018,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Männer,Anzahl,3429
+2018,Mathematik, Natruwissenschaften,Deutsche,Männer,Anzahl,1018
+2018,Humanmedizin, Gesundheitswissenschaften,Deutsche,Männer,Anzahl,350
+2018,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Männer,Anzahl,618
+2018,Ingenieurwissenschaften,Deutsche,Männer,Anzahl,4221
+2018,Kunst, Kunstwissenschaften,Deutsche,Männer,Anzahl,259
+2018,Fächergruppen zusammen,Deutsche,Männer,Anzahl,10580
+2017,Sprach- und Kulturwissenschaften,Deutsche,Männer,Anzahl,543
+2017,Sport,Deutsche,Männer,Anzahl,132
+2017,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Männer,Anzahl,3325
+2017,Mathematik, Natruwissenschaften,Deutsche,Männer,Anzahl,918
+2017,Humanmedizin, Gesundheitswissenschaften,Deutsche,Männer,Anzahl,322
+2017,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Männer,Anzahl,576
+2017,Ingenieurwissenschaften,Deutsche,Männer,Anzahl,4088
+2017,Kunst, Kunstwissenschaften,Deutsche,Männer,Anzahl,287
+2017,Fächergruppen zusammen,Deutsche,Männer,Anzahl,10191
+2016,Sprach- und Kulturwissenschaften,Deutsche,Männer,Anzahl,575
+2016,Sport,Deutsche,Männer,Anzahl,147
+2016,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Männer,Anzahl,3221
+2016,Mathematik, Natruwissenschaften,Deutsche,Männer,Anzahl,944
+2016,Humanmedizin, Gesundheitswissenschaften,Deutsche,Männer,Anzahl,322
+2016,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Männer,Anzahl,561
+2016,Ingenieurwissenschaften,Deutsche,Männer,Anzahl,4301
+2016,Kunst, Kunstwissenschaften,Deutsche,Männer,Anzahl,268
+2016,Fächergruppen zusammen,Deutsche,Männer,Anzahl,10339
+2015,Sprach- und Kulturwissenschaften,Deutsche,Männer,Anzahl,659
+2015,Sport,Deutsche,Männer,Anzahl,140
+2015,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Männer,Anzahl,3016
+2015,Mathematik, Natruwissenschaften,Deutsche,Männer,Anzahl,1857
+2015,Humanmedizin, Gesundheitswissenschaften,Deutsche,Männer,Anzahl,310
+2015,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Männer,Anzahl,574
+2015,Ingenieurwissenschaften,Deutsche,Männer,Anzahl,3763
+2015,Kunst, Kunstwissenschaften,Deutsche,Männer,Anzahl,284
+2015,Fächergruppen zusammen,Deutsche,Männer,Anzahl,10603
+2014,Sprach- und Kulturwissenschaften,Deutsche,Männer,Anzahl,1186
+2014,Sport,Deutsche,Männer,Anzahl,160
+2014,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Männer,Anzahl,3908
+2014,Mathematik, Natruwissenschaften,Deutsche,Männer,Anzahl,2932
+2014,Humanmedizin, Gesundheitswissenschaften,Deutsche,Männer,Anzahl,540
+2014,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Männer,Anzahl,720
+2014,Ingenieurwissenschaften,Deutsche,Männer,Anzahl,5005
+2014,Kunst, Kunstwissenschaften,Deutsche,Männer,Anzahl,328
+2014,Fächergruppen zusammen,Deutsche,Männer,Anzahl,14779
+2013,Sprach- und Kulturwissenschaften,Deutsche,Männer,Anzahl,741
+2013,Sport,Deutsche,Männer,Anzahl,129
+2013,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Männer,Anzahl,2898
+2013,Mathematik, Natruwissenschaften,Deutsche,Männer,Anzahl,1660
+2013,Humanmedizin, Gesundheitswissenschaften,Deutsche,Männer,Anzahl,339
+2013,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Männer,Anzahl,465
+2013,Ingenieurwissenschaften,Deutsche,Männer,Anzahl,3801
+2013,Kunst, Kunstwissenschaften,Deutsche,Männer,Anzahl,267
+2013,Fächergruppen zusammen,Deutsche,Männer,Anzahl,10300
+2012,Sprach- und Kulturwissenschaften,Deutsche,Männer,Anzahl,1074
+2012,Sport,Deutsche,Männer,Anzahl,146
+2012,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Männer,Anzahl,3618
+2012,Mathematik, Natruwissenschaften,Deutsche,Männer,Anzahl,2689
+2012,Humanmedizin, Gesundheitswissenschaften,Deutsche,Männer,Anzahl,575
+2012,Veterinärmedizin,Deutsche,Männer,Anzahl,58
+2012,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Männer,Anzahl,578
+2012,Ingenieurwissenschaften,Deutsche,Männer,Anzahl,4116
+2012,Kunst, Kunstwissenschaften,Deutsche,Männer,Anzahl,342
+2012,Fächergruppen zusammen,Deutsche,Männer,Anzahl,13196
+2011,Sprach- und Kulturwissenschaften,Deutsche,Männer,Anzahl,1137
+2011,Sport,Deutsche,Männer,Anzahl,148
+2011,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Männer,Anzahl,3854
+2011,Mathematik, Natruwissenschaften,Deutsche,Männer,Anzahl,2545
+2011,Humanmedizin, Gesundheitswissenschaften,Deutsche,Männer,Anzahl,577
+2011,Veterinärmedizin,Deutsche,Männer,Anzahl,51
+2011,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Männer,Anzahl,650
+2011,Ingenieurwissenschaften,Deutsche,Männer,Anzahl,3742
+2011,Kunst, Kunstwissenschaften,Deutsche,Männer,Anzahl,292
+2011,Fächergruppen zusammen,Deutsche,Männer,Anzahl,12996
+2010,Sprach- und Kulturwissenschaften,Deutsche,Männer,Anzahl,1149
+2010,Sport,Deutsche,Männer,Anzahl,173
+2010,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Männer,Anzahl,3941
+2010,Mathematik, Natruwissenschaften,Deutsche,Männer,Anzahl,2518
+2010,Humanmedizin, Gesundheitswissenschaften,Deutsche,Männer,Anzahl,569
+2010,Veterinärmedizin,Deutsche,Männer,Anzahl,50
+2010,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Männer,Anzahl,645
+2010,Ingenieurwissenschaften,Deutsche,Männer,Anzahl,2774
+2010,Kunst, Kunstwissenschaften,Deutsche,Männer,Anzahl,282
+2010,Fächergruppen zusammen,Deutsche,Männer,Anzahl,12101
+2020,Geisteswissenschaften,Deutsche,Frauen,Anzahl,1793
+2020,Sport,Deutsche,Frauen,Anzahl,116
+2020,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Frauen,Anzahl,5724
+2020,Mathematik, Natruwissenschaften,Deutsche,Frauen,Anzahl,1260
+2020,Humanmedizin, Gesundheitswissenschaften,Deutsche,Frauen,Anzahl,975
+2020,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Frauen,Anzahl,845
+2020,Ingenieurwissenschaften,Deutsche,Frauen,Anzahl,1192
+2020,Kunst, Kunstwissenschaften,Deutsche,Frauen,Anzahl,553
+2020,Fächergruppen zusammen,Deutsche,Frauen,Anzahl,12458
+2019,Sprach- und Kulturwissenschaften,Deutsche,Frauen,Anzahl,1827
+2019,Sport,Deutsche,Frauen,Anzahl,122
+2019,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Frauen,Anzahl,5974
+2019,Mathematik, Natruwissenschaften,Deutsche,Frauen,Anzahl,1297
+2019,Humanmedizin, Gesundheitswissenschaften,Deutsche,Frauen,Anzahl,1028
+2019,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Frauen,Anzahl,713
+2019,Ingenieurwissenschaften,Deutsche,Frauen,Anzahl,1207
+2019,Kunst, Kunstwissenschaften,Deutsche,Frauen,Anzahl,590
+2019,Fächergruppen zusammen,Deutsche,Frauen,Anzahl,12758
+2018,Sprach- und Kulturwissenschaften,Deutsche,Frauen,Anzahl,1827
+2018,Sport,Deutsche,Frauen,Anzahl,124
+2018,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Frauen,Anzahl,5742
+2018,Mathematik, Natruwissenschaften,Deutsche,Frauen,Anzahl,1211
+2018,Humanmedizin, Gesundheitswissenschaften,Deutsche,Frauen,Anzahl,975
+2018,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Frauen,Anzahl,620
+2018,Ingenieurwissenschaften,Deutsche,Frauen,Anzahl,1093
+2018,Kunst, Kunstwissenschaften,Deutsche,Frauen,Anzahl,544
+2018,Fächergruppen zusammen,Deutsche,Frauen,Anzahl,12136
+2017,Sprach- und Kulturwissenschaften,Deutsche,Frauen,Anzahl,1813
+2017,Sport,Deutsche,Frauen,Anzahl,115
+2017,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Frauen,Anzahl,5657
+2017,Mathematik, Natruwissenschaften,Deutsche,Frauen,Anzahl,1174
+2017,Humanmedizin, Gesundheitswissenschaften,Deutsche,Frauen,Anzahl,983
+2017,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Frauen,Anzahl,640
+2017,Ingenieurwissenschaften,Deutsche,Frauen,Anzahl,1127
+2017,Kunst, Kunstwissenschaften,Deutsche,Frauen,Anzahl,596
+2017,Fächergruppen zusammen,Deutsche,Frauen,Anzahl,12105
+2016,Sprach- und Kulturwissenschaften,Deutsche,Frauen,Anzahl,1803
+2016,Sport,Deutsche,Frauen,Anzahl,115
+2016,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Frauen,Anzahl,5336
+2016,Mathematik, Natruwissenschaften,Deutsche,Frauen,Anzahl,1169
+2016,Humanmedizin, Gesundheitswissenschaften,Deutsche,Frauen,Anzahl,957
+2016,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Frauen,Anzahl,610
+2016,Ingenieurwissenschaften,Deutsche,Frauen,Anzahl,1083
+2016,Kunst, Kunstwissenschaften,Deutsche,Frauen,Anzahl,626
+2016,Fächergruppen zusammen,Deutsche,Frauen,Anzahl,11699
+2015,Sprach- und Kulturwissenschaften,Deutsche,Frauen,Anzahl,2701
+2015,Sport,Deutsche,Frauen,Anzahl,142
+2015,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Frauen,Anzahl,4310
+2015,Mathematik, Natruwissenschaften,Deutsche,Frauen,Anzahl,1367
+2015,Humanmedizin, Gesundheitswissenschaften,Deutsche,Frauen,Anzahl,906
+2015,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Frauen,Anzahl,617
+2015,Ingenieurwissenschaften,Deutsche,Frauen,Anzahl,1026
+2015,Kunst, Kunstwissenschaften,Deutsche,Frauen,Anzahl,636
+2015,Fächergruppen zusammen,Deutsche,Frauen,Anzahl,11705
+2014,Sprach- und Kulturwissenschaften,Deutsche,Frauen,Anzahl,4557
+2014,Sport,Deutsche,Frauen,Anzahl,245
+2014,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Frauen,Anzahl,5123
+2014,Mathematik, Natruwissenschaften,Deutsche,Frauen,Anzahl,2646
+2014,Humanmedizin, Gesundheitswissenschaften,Deutsche,Frauen,Anzahl,1247
+2014,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Frauen,Anzahl,948
+2014,Ingenieurwissenschaften,Deutsche,Frauen,Anzahl,1333
+2014,Kunst, Kunstwissenschaften,Deutsche,Frauen,Anzahl,858
+2014,Fächergruppen zusammen,Deutsche,Frauen,Anzahl,16957
+2013,Sprach- und Kulturwissenschaften,Deutsche,Frauen,Anzahl,2944
+2013,Sport,Deutsche,Frauen,Anzahl,148
+2013,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Frauen,Anzahl,4173
+2013,Mathematik, Natruwissenschaften,Deutsche,Frauen,Anzahl,1182
+2013,Humanmedizin, Gesundheitswissenschaften,Deutsche,Frauen,Anzahl,829
+2013,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Frauen,Anzahl,599
+2013,Ingenieurwissenschaften,Deutsche,Frauen,Anzahl,1071
+2013,Kunst, Kunstwissenschaften,Deutsche,Frauen,Anzahl,697
+2013,Fächergruppen zusammen,Deutsche,Frauen,Anzahl,11643
+2012,Sprach- und Kulturwissenschaften,Deutsche,Frauen,Anzahl,4063
+2012,Sport,Deutsche,Frauen,Anzahl,187
+2012,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Frauen,Anzahl,4569
+2012,Mathematik, Natruwissenschaften,Deutsche,Frauen,Anzahl,2361
+2012,Humanmedizin, Gesundheitswissenschaften,Deutsche,Frauen,Anzahl,1234
+2012,Veterinärmedizin,Deutsche,Frauen,Anzahl,307
+2012,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Frauen,Anzahl,662
+2012,Ingenieurwissenschaften,Deutsche,Frauen,Anzahl,1173
+2012,Kunst, Kunstwissenschaften,Deutsche,Frauen,Anzahl,864
+2012,Fächergruppen zusammen,Deutsche,Frauen,Anzahl,15420
+2011,Sprach- und Kulturwissenschaften,Deutsche,Frauen,Anzahl,4154
+2011,Sport,Deutsche,Frauen,Anzahl,197
+2011,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Frauen,Anzahl,4752
+2011,Mathematik, Natruwissenschaften,Deutsche,Frauen,Anzahl,2346
+2011,Humanmedizin, Gesundheitswissenschaften,Deutsche,Frauen,Anzahl,1176
+2011,Veterinärmedizin,Deutsche,Frauen,Anzahl,303
+2011,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Frauen,Anzahl,556
+2011,Ingenieurwissenschaften,Deutsche,Frauen,Anzahl,964
+2011,Kunst, Kunstwissenschaften,Deutsche,Frauen,Anzahl,782
+2011,Fächergruppen zusammen,Deutsche,Frauen,Anzahl,15230
+2010,Sprach- und Kulturwissenschaften,Deutsche,Frauen,Anzahl,4105
+2010,Sport,Deutsche,Frauen,Anzahl,205
+2010,Rechts-, Wirtschafts- und Sozialwissenschaften,Deutsche,Frauen,Anzahl,4597
+2010,Mathematik, Natruwissenschaften,Deutsche,Frauen,Anzahl,2329
+2010,Humanmedizin, Gesundheitswissenschaften,Deutsche,Frauen,Anzahl,1121
+2010,Veterinärmedizin,Deutsche,Frauen,Anzahl,250
+2010,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Deutsche,Frauen,Anzahl,559
+2010,Ingenieurwissenschaften,Deutsche,Frauen,Anzahl,702
+2010,Kunst, Kunstwissenschaften,Deutsche,Frauen,Anzahl,727
+2010,Fächergruppen zusammen,Deutsche,Frauen,Anzahl,14595
+2020,Geisteswissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,81
+2020,Sport,Ausländerinnen und Ausländer,Insgesamt,Anzahl,5
+2020,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,278
+2020,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,109
+2020,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,52
+2020,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Insgesamt,Anzahl,54
+2020,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,582
+2020,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,90
+2020,Fächergruppen zusammen,Ausländerinnen und Ausländer,Insgesamt,Anzahl,1251
+2019,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,86
+2019,Sport,Ausländerinnen und Ausländer,Insgesamt,Anzahl,6
+2019,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,286
+2019,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,85
+2019,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,56
+2019,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Insgesamt,Anzahl,30
+2019,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,520
+2019,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,76
+2019,Fächergruppen zusammen,Ausländerinnen und Ausländer,Insgesamt,Anzahl,1145
+2018,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,89
+2018,Sport,Ausländerinnen und Ausländer,Insgesamt,Anzahl,-
+2018,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,296
+2018,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,77
+2018,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,57
+2018,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Insgesamt,Anzahl,24
+2018,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,445
+2018,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,58
+2018,Fächergruppen zusammen,Ausländerinnen und Ausländer,Insgesamt,Anzahl,1046
+2017,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,78
+2017,Sport,Ausländerinnen und Ausländer,Insgesamt,Anzahl,2
+2017,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,255
+2017,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,76
+2017,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,45
+2017,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Insgesamt,Anzahl,30
+2017,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,433
+2017,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,86
+2017,Fächergruppen zusammen,Ausländerinnen und Ausländer,Insgesamt,Anzahl,1005
+2016,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,84
+2016,Sport,Ausländerinnen und Ausländer,Insgesamt,Anzahl,3
+2016,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,287
+2016,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,84
+2016,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,50
+2016,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Insgesamt,Anzahl,24
+2016,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,449
+2016,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,77
+2016,Fächergruppen zusammen,Ausländerinnen und Ausländer,Insgesamt,Anzahl,1058
+2015,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,101
+2015,Sport,Ausländerinnen und Ausländer,Insgesamt,Anzahl,2
+2015,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,247
+2015,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,118
+2015,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,51
+2015,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Insgesamt,Anzahl,21
+2015,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,385
+2015,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,113
+2015,Fächergruppen zusammen,Ausländerinnen und Ausländer,Insgesamt,Anzahl,1038
+2014,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,229
+2014,Sport,Ausländerinnen und Ausländer,Insgesamt,Anzahl,8
+2014,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,544
+2014,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,506
+2014,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,89
+2014,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Insgesamt,Anzahl,173
+2014,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,827
+2014,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,149
+2014,Fächergruppen zusammen,Ausländerinnen und Ausländer,Insgesamt,Anzahl,2525
+2013,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,135
+2013,Sport,Ausländerinnen und Ausländer,Insgesamt,Anzahl,3
+2013,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,296
+2013,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,126
+2013,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,61
+2013,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Insgesamt,Anzahl,33
+2013,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,436
+2013,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,108
+2013,Fächergruppen zusammen,Ausländerinnen und Ausländer,Insgesamt,Anzahl,1198
+2012,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,246
+2012,Sport,Ausländerinnen und Ausländer,Insgesamt,Anzahl,4
+2012,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,525
+2012,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,435
+2012,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,96
+2012,Veterinärmedizin,Ausländerinnen und Ausländer,Insgesamt,Anzahl,24
+2012,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Insgesamt,Anzahl,97
+2012,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,744
+2012,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,151
+2012,Fächergruppen zusammen,Ausländerinnen und Ausländer,Insgesamt,Anzahl,2322
+2011,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,278
+2011,Sport,Ausländerinnen und Ausländer,Insgesamt,Anzahl,6
+2011,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,612
+2011,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,457
+2011,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,70
+2011,Veterinärmedizin,Ausländerinnen und Ausländer,Insgesamt,Anzahl,21
+2011,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Insgesamt,Anzahl,102
+2011,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,758
+2011,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,177
+2011,Fächergruppen zusammen,Ausländerinnen und Ausländer,Insgesamt,Anzahl,2481
+2010,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,306
+2010,Sport,Ausländerinnen und Ausländer,Insgesamt,Anzahl,5
+2010,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,556
+2010,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,488
+2010,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,74
+2010,Veterinärmedizin,Ausländerinnen und Ausländer,Insgesamt,Anzahl,14
+2010,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Insgesamt,Anzahl,83
+2010,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,637
+2010,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Insgesamt,Anzahl,138
+2010,Fächergruppen zusammen,Ausländerinnen und Ausländer,Insgesamt,Anzahl,2301
+2020,Geisteswissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,16
+2020,Sport,Ausländerinnen und Ausländer,Männer,Anzahl,5
+2020,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,80
+2020,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,65
+2020,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,24
+2020,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Männer,Anzahl,14
+2020,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,415
+2020,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,32
+2020,Fächergruppen zusammen,Ausländerinnen und Ausländer,Männer,Anzahl,651
+2019,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,23
+2019,Sport,Ausländerinnen und Ausländer,Männer,Anzahl,2
+2019,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,79
+2019,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,35
+2019,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,18
+2019,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Männer,Anzahl,8
+2019,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,362
+2019,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,30
+2019,Fächergruppen zusammen,Ausländerinnen und Ausländer,Männer,Anzahl,557
+2018,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,20
+2018,Sport,Ausländerinnen und Ausländer,Männer,Anzahl,-
+2018,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,86
+2018,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,40
+2018,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,22
+2018,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Männer,Anzahl,11
+2018,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,292
+2018,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,15
+2018,Fächergruppen zusammen,Ausländerinnen und Ausländer,Männer,Anzahl,486
+2017,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,22
+2017,Sport,Ausländerinnen und Ausländer,Männer,Anzahl,2
+2017,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,66
+2017,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,38
+2017,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,18
+2017,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Männer,Anzahl,9
+2017,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,292
+2017,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,33
+2017,Fächergruppen zusammen,Ausländerinnen und Ausländer,Männer,Anzahl,480
+2016,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,28
+2016,Sport,Ausländerinnen und Ausländer,Männer,Anzahl,1
+2016,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,82
+2016,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,32
+2016,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,19
+2016,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Männer,Anzahl,6
+2016,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,309
+2016,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,30
+2016,Fächergruppen zusammen,Ausländerinnen und Ausländer,Männer,Anzahl,507
+2015,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,21
+2015,Sport,Ausländerinnen und Ausländer,Männer,Anzahl,-
+2015,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,73
+2015,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,65
+2015,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,18
+2015,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Männer,Anzahl,6
+2015,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,288
+2015,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,37
+2015,Fächergruppen zusammen,Ausländerinnen und Ausländer,Männer,Anzahl,508
+2014,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,59
+2014,Sport,Ausländerinnen und Ausländer,Männer,Anzahl,5
+2014,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,190
+2014,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,258
+2014,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,36
+2014,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Männer,Anzahl,83
+2014,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,612
+2014,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,55
+2014,Fächergruppen zusammen,Ausländerinnen und Ausländer,Männer,Anzahl,1298
+2013,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,15
+2013,Sport,Ausländerinnen und Ausländer,Männer,Anzahl,1
+2013,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,94
+2013,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,69
+2013,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,33
+2013,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Männer,Anzahl,11
+2013,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,301
+2013,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,32
+2013,Fächergruppen zusammen,Ausländerinnen und Ausländer,Männer,Anzahl,556
+2012,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,39
+2012,Sport,Ausländerinnen und Ausländer,Männer,Anzahl,2
+2012,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,191
+2012,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,244
+2012,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,48
+2012,Veterinärmedizin,Ausländerinnen und Ausländer,Männer,Anzahl,11
+2012,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Männer,Anzahl,41
+2012,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,509
+2012,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,47
+2012,Fächergruppen zusammen,Ausländerinnen und Ausländer,Männer,Anzahl,1132
+2011,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,52
+2011,Sport,Ausländerinnen und Ausländer,Männer,Anzahl,2
+2011,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,207
+2011,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,269
+2011,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,31
+2011,Veterinärmedizin,Ausländerinnen und Ausländer,Männer,Anzahl,4
+2011,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Männer,Anzahl,50
+2011,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,544
+2011,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,64
+2011,Fächergruppen zusammen,Ausländerinnen und Ausländer,Männer,Anzahl,1223
+2010,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,51
+2010,Sport,Ausländerinnen und Ausländer,Männer,Anzahl,2
+2010,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,210
+2010,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,277
+2010,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,34
+2010,Veterinärmedizin,Ausländerinnen und Ausländer,Männer,Anzahl,10
+2010,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Männer,Anzahl,41
+2010,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,462
+2010,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Männer,Anzahl,59
+2010,Fächergruppen zusammen,Ausländerinnen und Ausländer,Männer,Anzahl,1146
+2020,Geisteswissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,65
+2020,Sport,Ausländerinnen und Ausländer,Frauen,Anzahl,-
+2020,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,198
+2020,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,44
+2020,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,28
+2020,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Frauen,Anzahl,40
+2020,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,167
+2020,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,58
+2020,Fächergruppen zusammen,Ausländerinnen und Ausländer,Frauen,Anzahl,600
+2019,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,63
+2019,Sport,Ausländerinnen und Ausländer,Frauen,Anzahl,4
+2019,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,207
+2019,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,50
+2019,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,38
+2019,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Frauen,Anzahl,22
+2019,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,158
+2019,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,46
+2019,Fächergruppen zusammen,Ausländerinnen und Ausländer,Frauen,Anzahl,588
+2018,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,69
+2018,Sport,Ausländerinnen und Ausländer,Frauen,Anzahl,-
+2018,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,210
+2018,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,37
+2018,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,35
+2018,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Frauen,Anzahl,13
+2018,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,153
+2018,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,43
+2018,Fächergruppen zusammen,Ausländerinnen und Ausländer,Frauen,Anzahl,560
+2017,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,56
+2017,Sport,Ausländerinnen und Ausländer,Frauen,Anzahl,-
+2017,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,189
+2017,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,38
+2017,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,27
+2017,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Frauen,Anzahl,21
+2017,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,141
+2017,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,53
+2017,Fächergruppen zusammen,Ausländerinnen und Ausländer,Frauen,Anzahl,525
+2016,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,56
+2016,Sport,Ausländerinnen und Ausländer,Frauen,Anzahl,2
+2016,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,205
+2016,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,52
+2016,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,31
+2016,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Frauen,Anzahl,18
+2016,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,140
+2016,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,47
+2016,Fächergruppen zusammen,Ausländerinnen und Ausländer,Frauen,Anzahl,551
+2015,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,80
+2015,Sport,Ausländerinnen und Ausländer,Frauen,Anzahl,2
+2015,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,174
+2015,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,53
+2015,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,33
+2015,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Frauen,Anzahl,15
+2015,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,97
+2015,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,76
+2015,Fächergruppen zusammen,Ausländerinnen und Ausländer,Frauen,Anzahl,530
+2014,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,170
+2014,Sport,Ausländerinnen und Ausländer,Frauen,Anzahl,3
+2014,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,354
+2014,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,248
+2014,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,53
+2014,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Frauen,Anzahl,90
+2014,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,215
+2014,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,94
+2014,Fächergruppen zusammen,Ausländerinnen und Ausländer,Frauen,Anzahl,1227
+2013,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,120
+2013,Sport,Ausländerinnen und Ausländer,Frauen,Anzahl,2
+2013,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,202
+2013,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,57
+2013,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,28
+2013,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Frauen,Anzahl,22
+2013,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,135
+2013,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,76
+2013,Fächergruppen zusammen,Ausländerinnen und Ausländer,Frauen,Anzahl,642
+2012,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,207
+2012,Sport,Ausländerinnen und Ausländer,Frauen,Anzahl,2
+2012,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,334
+2012,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,191
+2012,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,48
+2012,Veterinärmedizin,Ausländerinnen und Ausländer,Frauen,Anzahl,13
+2012,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Frauen,Anzahl,56
+2012,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,235
+2012,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,104
+2012,Fächergruppen zusammen,Ausländerinnen und Ausländer,Frauen,Anzahl,1190
+2011,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,226
+2011,Sport,Ausländerinnen und Ausländer,Frauen,Anzahl,4
+2011,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,405
+2011,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,188
+2011,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,39
+2011,Veterinärmedizin,Ausländerinnen und Ausländer,Frauen,Anzahl,17
+2011,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Frauen,Anzahl,52
+2011,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,214
+2011,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,113
+2011,Fächergruppen zusammen,Ausländerinnen und Ausländer,Frauen,Anzahl,1258
+2010,Sprach- und Kulturwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,255
+2010,Sport,Ausländerinnen und Ausländer,Frauen,Anzahl,3
+2010,Rechts-, Wirtschafts- und Sozialwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,346
+2010,Mathematik, Natruwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,211
+2010,Humanmedizin, Gesundheitswissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,40
+2010,Veterinärmedizin,Ausländerinnen und Ausländer,Frauen,Anzahl,4
+2010,Agrar-, Forst-,  Ernährungswissenschaften und Veterinärmedizin,Ausländerinnen und Ausländer,Frauen,Anzahl,42
+2010,Ingenieurwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,175
+2010,Kunst, Kunstwissenschaften,Ausländerinnen und Ausländer,Frauen,Anzahl,79
+2010,Fächergruppen zusammen,Ausländerinnen und Ausländer,Frauen,Anzahl,1155
