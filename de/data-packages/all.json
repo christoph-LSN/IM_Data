@@ -3519,7 +3519,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "' Stadt",
+                " Stadt",
                 "K03102",
                 "K03103",
                 "K03151",
