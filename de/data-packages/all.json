@@ -3519,7 +3519,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Braunschweig. Stadt",
+                "Braunschweig Stadt",
                 "Salzgitter Stadt",
                 "Wolfsburg Stadt",
                 "Gifhorn",
@@ -3571,7 +3571,6 @@
                 "Wittmund",
                 "Statistische Region Weser-Ems",
                 "Niedersachsen",
-                "Braunschweig Stadt",
                 ""
               ]
             },
