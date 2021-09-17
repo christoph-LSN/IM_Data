@@ -78,16 +78,6 @@
             "title": "Gebietseinheit"
           },
           {
-            "name": "Geschlecht",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Geschlecht"
-          },
-          {
             "name": "Qualifikation",
             "type": "string",
             "constraints": {

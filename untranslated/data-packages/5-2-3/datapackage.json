@@ -76,15 +76,6 @@
             }
           },
           {
-            "name": "Geschlecht",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
             "name": "Qualifikation",
             "type": "string",
             "constraints": {
