@@ -91,26 +91,11 @@
             "title": "Geschlecht"
           },
           {
-            "name": "Qualifikation",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "hoch",
-                "mittel",
-                "niedrig",
-                "unbekannt",
-                ""
-              ]
-            },
-            "title": "Qualifikation"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
                 "Anzahl",
-                "%",
                 ""
               ]
             },
@@ -123,7 +108,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
