@@ -130,7 +130,7 @@
                 "Peine",
                 "Wolfenbüttel",
                 "Göttingen",
-                "Stat. Region Braunschweig",
+                "Statistische Region Braunschweig",
                 "Hannover  Region",
                 "dav. Hannover  Lhst.",
                 "dav. Hannover  Umland",
@@ -140,7 +140,7 @@
                 "Holzminden",
                 "Nienburg (Weser)",
                 "Schaumburg",
-                "Stat. Region Hannover",
+                "Statistische Region Hannover",
                 "Celle",
                 "Cuxhaven",
                 "Harburg",
@@ -152,7 +152,7 @@
                 "Stade",
                 "Uelzen",
                 "Verden",
-                "Stat. Region Lüneburg",
+                "Statistische Region Lüneburg",
                 "Delmenhorst  Stadt",
                 "Emden  Stadt",
                 "Oldenburg(Oldb)  Stadt",
@@ -170,7 +170,7 @@
                 "Vechta",
                 "Wesermarsch",
                 "Wittmund",
-                "Stat. Region Weser-Ems",
+                "Statistische Region Weser-Ems",
                 "Niedersachsen",
                 ""
               ]
@@ -186,7 +186,7 @@
           }
         ]
       },
-      "title": "global_indicators.1-2-2-title"
+      "title": "global_indicators.1-2-1-title"
     },
     {
       "path": "4-1-2/data.csv",
