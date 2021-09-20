@@ -109,7 +109,7 @@ map_layers:
     exclude_columns: ['Gebietseinheit']
 
   -
-    geojson_file: mzmap/NI_MZ.geojson #maps\NI_Kurz_Mikrozensus_Diss.geojson
+    geojson_file: NI_MZ.geojson #maps\NI_Kurz_Mikrozensus_Diss.geojson
     name_property: GENMZ
     id_property: AGSMZ
     output_subfolder: Mikrozensus
