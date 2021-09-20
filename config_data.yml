@@ -104,7 +104,7 @@ map_layers:
   - geojson_file: NI_Kurz_diss.geojson
     name_property: GEN
     id_property: AGS
-    output_subfolder: maps
+    output_subfolder: Niedersachsen
     filename_prefix: indicator_
     exclude_columns: ['Gebietseinheit']
 
@@ -112,7 +112,7 @@ map_layers:
     geojson_file: mzmap\NI_MZ.geojson #maps\NI_Kurz_Mikrozensus_Diss.geojson
     name_property: GENMZ
     id_property: AGSMZ
-    output_subfolder: maps
+    output_subfolder: Mikrozensus
     filename_prefix: indicator_
     exclude_columns: ['Gebietseinheit']
 
