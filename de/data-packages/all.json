@@ -2863,7 +2863,7 @@
                 "Peine",
                 "Wolfenbüttel",
                 "Göttingen",
-                "Stat. Region Braunschweig",
+                "Statistische Region Braunschweig",
                 "Hannover  Region",
                 "dav. Hannover  Lhst.",
                 "dav. Hannover  Umland",
@@ -2873,7 +2873,7 @@
                 "Holzminden",
                 "Nienburg (Weser)",
                 "Schaumburg",
-                "Stat. Region Hannover",
+                "Statistische Region Hannover",
                 "Celle",
                 "Cuxhaven",
                 "Harburg",
@@ -2885,7 +2885,7 @@
                 "Stade",
                 "Uelzen",
                 "Verden",
-                "Stat. Region Lüneburg",
+                "Statistische Region Lüneburg",
                 "Delmenhorst  Stadt",
                 "Emden  Stadt",
                 "Oldenburg(Oldb)  Stadt",
@@ -2903,7 +2903,7 @@
                 "Vechta",
                 "Wesermarsch",
                 "Wittmund",
-                "Stat. Region Weser-Ems",
+                "Statistische Region Weser-Ems",
                 "Niedersachsen",
                 ""
               ]
@@ -2934,7 +2934,7 @@
           }
         ]
       },
-      "title": "Lebendgeborene Ausländerinnen und Ausländer und Deutsche (A17)"
+      "title": "Lebendgeborene Ausländerinnen und Ausländer und Deutsche"
     },
     {
       "path": "2-1-5/data.csv",
@@ -4114,7 +4114,7 @@
           }
         ]
       },
-      "title": "Ausländerinnen und Ausländer in Niedersachsen nach Aufenthaltsdauer"
+      "title": "Ausländerinnen und Ausländer in Niedersachsen nach Aufenthaltsdauer und Geschlecht"
     },
     {
       "path": "2-1-4/data.csv",
