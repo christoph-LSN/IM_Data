@@ -101,7 +101,7 @@ reporting_status_extra_fields: []
 #    filename_prefix: indicator_
 
 map_layers:
-  - geojson_file: NI_Kurz_diss.geojson
+  - geojson_file: maps/NI_Kurz_diss.geojson
     name_property: GEN
     id_property: AGS
     output_subfolder: maps
