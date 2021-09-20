@@ -5,3 +5,5 @@
 <a href="https://www-genesis.destatis.de/" target="_blank">GENESIS-Online Datenbank</a>
 
 <a href="https://www.statistik.niedersachsen.de/startseite/veroffentlichungen/statistische_berichte/statistische-berichte-niedersachsen-87713.html" target="_blank">Statistische Berichte</a>
+
+<a href="https://www.statistik.niedersachsen.de/startseite/veroffentlichungen/statistische_monatshefte/statistische-monatshefte-niedersachsen-87704.html" target="_blank">Statistischen Monatsheften</a>
