@@ -6,7 +6,7 @@
             <meta http-equiv="X-UA-Compatible" content="IE=edge">
             <meta name="viewport" content="width=device-width, initial-scale=1">
 
-            <title>Overview - SDG data build documentation</title>
+            <title>Gebietseinheit: Wesermarsch - SDG data build documentation</title>
 
             <script defer src="https://use.fontawesome.com/releases/v5.15.1/js/all.js"></script>
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
@@ -61,52 +61,42 @@
             </nav>
             <main role="main">
                 <div class="container">
-                    <h1 style="margin:20px 0">Overview</h1>
+                    <h1 style="margin:20px 0">Gebietseinheit: Wesermarsch</h1>
                     <div>
-                        <p>This is a list of examples of endpoints and output that are available on this service. Click each of the links below for more information on the available output.</p><div class="row">
-        <div class="col-sm mt-4">
-            <div class="card">
-                <div class="card-body">
-                    <h5 class="card-title">Open SDG output</h5>
-                    <p class="card-text">This output includes a variety of endpoints designed to
-        support the <a href="https://open-sdg.readthedocs.io">Open SDG</a>
-        platform.</p>
-                    <a href="open-sdg-output.html" class="btn btn-primary">See examples of Open SDG output</a>
-                </div>
-            </div>
+                        
+        <div>
+            
+        <div class="my-3">
+            <a href="disaggregation-value--wesermarsch.csv" role="button" class="btn btn-primary" aria-describedby="disaggregation-value--wesermarsch">Download CSV of indicators using this disaggregation value</a>
+            <div id="disaggregation-value--wesermarsch" class="download-info">Size: 64 Bytes</div>
         </div>
         
-        <div class="col-sm mt-4">
-            <div class="card">
-                <div class="card-body">
-                    <h5 class="card-title">GeoJSON output - Niedersachsen</h5>
-                    <p class="card-text">This output contains GeoJSON for those indicators that have geocoded data.</p>
-                    <a href="geojson-output-niedersachsen.html" class="btn btn-primary">See examples of GeoJSON output - Niedersachsen</a>
+            
+                <div class="total-rows">
+                    Total rows: <span class="total">1</span>
                 </div>
-            </div>
+                <table border="1" class="dataframe table table-striped table-bordered" id="disaggregation-value-table">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Indicator</th>
+      <th>Disaggregation combinations using this value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>#1-3-1</td>
+      <td>3</td>
+    </tr>
+  </tbody>
+</table>
+            <script type="text/javascript">
+            var sdgBuild = sdgBuild || {};
+            sdgBuild.tables = sdgBuild.tables || {};
+            sdgBuild.tables['disaggregation-value-table'] = [{"Indicator":"#1-3-1","Disaggregation combinations using this value":3}];
+            </script>
+            
         </div>
         
-        <div class="col-sm mt-4">
-            <div class="card">
-                <div class="card-body">
-                    <h5 class="card-title">Data packages</h5>
-                    <p class="card-text">This output produces <a href="https://specs.frictionlessdata.io/data-package/">
-        data packages</a> for each indicator.</p>
-                    <a href="data-packages.html" class="btn btn-primary">See examples of Data packages</a>
-                </div>
-            </div>
-        </div>
-        </div><div class="row">
-        <div class="col-sm mt-4">
-            <div class="card">
-                <div class="card-body">
-                    <h5 class="card-title">Disaggregation report</h5>
-                    <p class="card-text">These tables show information about all the disaggregations used in the data.</p>
-                    <a href="disaggregations.html" class="btn btn-primary">See disaggregation report</a>
-                </div>
-            </div>
-        </div>
-        </div>
                     </div>
                 </div>
             </div>
