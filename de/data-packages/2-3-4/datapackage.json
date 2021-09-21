@@ -17,11 +17,9 @@
           },
           {
             "name": "Grade",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "A",
-                "B",
                 ""
               ]
             },
@@ -29,12 +27,9 @@
           },
           {
             "name": "Planet",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "Mercury",
-                "Venus",
-                "Earth",
                 ""
               ]
             },
@@ -42,12 +37,9 @@
           },
           {
             "name": "Fruit",
-            "type": "string",
+            "type": "number",
             "constraints": {
               "enum": [
-                "Apples",
-                "Oranges",
-                "Lemons",
                 ""
               ]
             },
