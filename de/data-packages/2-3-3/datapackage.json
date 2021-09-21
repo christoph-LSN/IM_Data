@@ -83,7 +83,7 @@
             "constraints": {
               "enum": [
                 "Anteil an allen Einwohnerinnen und Einwohnern",
-                "Anteil an allen Aussländerinnen und Ausländern",
+                "Anteil an allen Ausländerinnen und Ausländern",
                 ""
               ]
             },
