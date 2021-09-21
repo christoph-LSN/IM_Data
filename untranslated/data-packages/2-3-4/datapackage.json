@@ -1,0 +1,63 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Grade",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Planet",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mercury",
+                "Venus",
+                "Earth",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Fruit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Apples",
+                "Oranges",
+                "Lemons",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-3-4",
+  "title": "global_indicators.2-3-4-title"
+}
