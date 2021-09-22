@@ -1,23 +1,23 @@
-cookie_settings: Cookie settings
-all_required_notice: We use some essential cookies to make this service work. They always need to be on.
+cookie_settings: Cookie Einstellungen
+all_required_notice: Es werden zwei essentielle Cookies gespeichert.
 all_required_ok: OK
-acceptAll: Accept all
-acceptSelected: Accept selected
-close: Close
+acceptAll: Alle Akzeptieren
+acceptSelected: Ausgewählte Cookies akzeptieren
+close: Schließen
 consentModal_description: Here you can change which cookies you're happy for us to use.
-consentModal_title: Cookie settings
-consentNotice_changeDescription: The cookies used on this site have changed since you last visited, please renew your consent.
+consentModal_title: Cookie Einstellungen
+consentNotice_changeDescription: Die Cookie Einstellungen haben sich seit dem letzten Besuch geändert. Bitte erneut einstellen.
 consentNotice_description: We use some essential cookies to make this service work. We’d also like to use {purposes} so we can understand how you use the service and make improvements.
-consentNotice_learnMore: View cookies
+consentNotice_learnMore: Cookies ansehen
 consentNotice_testing: Testing mode!
-contextualConsent_acceptAlways: Always
-contextualConsent_acceptOnce: 'Yes'
+contextualConsent_acceptAlways: Immer
+contextualConsent_acceptOnce: 'ja'
 contextualConsent_description: Do you want to load external content supplied by {title}?
-decline: Reject additional cookies
-ok: Accept additional cookies
+decline: Weitere Cookies ablehnen
+ok: Cookies akzeptieren
 poweredBy: Realized with Klaro!
-privacyPolicy_name: privacy policy
-privacyPolicy_text: To learn more, please read our privacy policy.
+privacyPolicy_name: <a href="https://wohnungnds.github.io/IM_Site/imprint/">Impressum</a>
+privacyPolicy_text: <a href="https://wohnungnds.github.io/IM_Site/imprint/">Impressum</a>
 purposeItem_service: service
 purposeItem_services: services
 purposes_functional_description: Essential cookies keep your information secure, and do things like remember your preferences and the choices you make whilst you use the website. They always need to be on.
@@ -26,7 +26,7 @@ purposes_performance_description: These services process personal information to
 purposes_performance_title: Performance optimization
 purposes_analytics_description: These services collect information about how you use the website. We use this data to help make the website better.
 purposes_analytics_title: Analytics cookies
-save: Save
+save: Speichern
 service_disableAll_description: Use this switch to enable or disable all services.
 service_disableAll_title: Enable or disable all services
 service_optOut_description: This services is loaded by default (but you can opt out)
