@@ -9,17 +9,17 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2020,Peine,ausländische Herkunft mindestens eines Elternteils,%,K03157,25.252308353017
 2020,Wolfenbüttel,ausländische Herkunft mindestens eines Elternteils,%,K03158,16.7771545130036
 2020,Göttingen,ausländische Herkunft mindestens eines Elternteils,%,K03159,26.9834795023455
-2020,Stat. Region Braunschweig,ausländische Herkunft mindestens eines Elternteils,%,K031,26.2510108680645
+2020,Statistische Region Braunschweig,ausländische Herkunft mindestens eines Elternteils,%,K031,26.2510108680645
 2020,Hannover  Region,ausländische Herkunft mindestens eines Elternteils,%,K03241,38.3061442293032
 2020,dav. Hannover  Lhst.,ausländische Herkunft mindestens eines Elternteils,%,K03241001,47.3969156731926
-2020,dav. Hannover  Umland,ausländische Herkunft mindestens eines Elternteils,%,K03241999,30.4157964685779
+2021,dav. Hannover  Umland,ausländische Herkunft mindestens eines Elternteils,%,K03241999,30.4157964685779
 2020,Diepholz,ausländische Herkunft mindestens eines Elternteils,%,K03251,21.5260813335249
 2020,Hameln-Pyrmont,ausländische Herkunft mindestens eines Elternteils,%,K03252,33.3483754512635
 2020,Hildesheim,ausländische Herkunft mindestens eines Elternteils,%,K03254,29.0226813917587
 2020,Holzminden,ausländische Herkunft mindestens eines Elternteils,%,K03255,23.8916256157635
 2020,Nienburg (Weser),ausländische Herkunft mindestens eines Elternteils,%,K03256,21.5836526181354
 2020,Schaumburg,ausländische Herkunft mindestens eines Elternteils,%,K03257,26.9541206457094
-2020,Stat. Region Hannover,ausländische Herkunft mindestens eines Elternteils,%,K032,33.0769561294204
+2020,Statistische Region Hannover,ausländische Herkunft mindestens eines Elternteils,%,K032,33.0769561294204
 2020,Celle,ausländische Herkunft mindestens eines Elternteils,%,K03351,21.3195386702849
 2020,Cuxhaven,ausländische Herkunft mindestens eines Elternteils,%,K03352,16.3981496251396
 2020,Harburg,ausländische Herkunft mindestens eines Elternteils,%,K03353,22.5205479452055
@@ -31,7 +31,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2020,Stade,ausländische Herkunft mindestens eines Elternteils,%,K03359,15.81408944753
 2020,Uelzen,ausländische Herkunft mindestens eines Elternteils,%,K03360,22.4776003116478
 2020,Verden,ausländische Herkunft mindestens eines Elternteils,%,K03361,18.9267886855241
-2020,Stat. Region Lüneburg,ausländische Herkunft mindestens eines Elternteils,%,K033,19.4150953380488
+2020,Statistische Region Lüneburg,ausländische Herkunft mindestens eines Elternteils,%,K033,19.4150953380488
 2020,Delmenhorst  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03401,42.143906020558
 2020,Emden  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03402,26.3261296660118
 2020,Oldenburg(Oldb)  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03403,31.2421355383786
@@ -49,7 +49,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2020,Vechta,ausländische Herkunft mindestens eines Elternteils,%,K03460,24.9606712113267
 2020,Wesermarsch,ausländische Herkunft mindestens eines Elternteils,%,K03461,22.5081551286698
 2020,Wittmund,ausländische Herkunft mindestens eines Elternteils,%,K03462,12.2721749696233
-2020,Stat. Region Weser-Ems,ausländische Herkunft mindestens eines Elternteils,%,K034,22.1122190379195
+2020,Statistische Region Weser-Ems,ausländische Herkunft mindestens eines Elternteils,%,K034,22.1122190379195
 2020,Niedersachsen,ausländische Herkunft mindestens eines Elternteils,%,K030,25.2555865975166
 2019,Braunschweig  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03101,35.4681103921828
 2019,Salzgitter  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03102,43.2249758609591
@@ -61,7 +61,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2019,Peine,ausländische Herkunft mindestens eines Elternteils,%,K03157,24.0621531631521
 2019,Wolfenbüttel,ausländische Herkunft mindestens eines Elternteils,%,K03158,18.227915665866
 2019,Göttingen,ausländische Herkunft mindestens eines Elternteils,%,K03159,26.5962898431895
-2019,Stat. Region Braunschweig,ausländische Herkunft mindestens eines Elternteils,%,K031,26.9283662985884
+2019,Statistische Region Braunschweig,ausländische Herkunft mindestens eines Elternteils,%,K031,26.9283662985884
 2019,Hannover  Region,ausländische Herkunft mindestens eines Elternteils,%,K03241,38.2177343993355
 2019,dav. Hannover  Lhst.,ausländische Herkunft mindestens eines Elternteils,%,K03241001,47.5728155339806
 2019,dav. Hannover  Umland,ausländische Herkunft mindestens eines Elternteils,%,K03241999,29.9917069125323
@@ -71,7 +71,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2019,Holzminden,ausländische Herkunft mindestens eines Elternteils,%,K03255,24.4432936302434
 2019,Nienburg (Weser),ausländische Herkunft mindestens eines Elternteils,%,K03256,20.4234443583785
 2019,Schaumburg,ausländische Herkunft mindestens eines Elternteils,%,K03257,28.3376963350785
-2019,Stat. Region Hannover,ausländische Herkunft mindestens eines Elternteils,%,K032,32.8141225337487
+2019,Statistische Region Hannover,ausländische Herkunft mindestens eines Elternteils,%,K032,32.8141225337487
 2019,Celle,ausländische Herkunft mindestens eines Elternteils,%,K03351,20.2740201179327
 2019,Cuxhaven,ausländische Herkunft mindestens eines Elternteils,%,K03352,16.8186258547704
 2019,Harburg,ausländische Herkunft mindestens eines Elternteils,%,K03353,20.996559760293
@@ -83,7 +83,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2019,Stade,ausländische Herkunft mindestens eines Elternteils,%,K03359,18.9989317869678
 2019,Uelzen,ausländische Herkunft mindestens eines Elternteils,%,K03360,20.4148027653518
 2019,Verden,ausländische Herkunft mindestens eines Elternteils,%,K03361,23.7659574468085
-2019,Stat. Region Lüneburg,ausländische Herkunft mindestens eines Elternteils,%,K033,19.8624668868164
+2019,Statistische Region Lüneburg,ausländische Herkunft mindestens eines Elternteils,%,K033,19.8624668868164
 2019,Delmenhorst  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03401,43.3723196881092
 2019,Emden  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03402,27.1353482260184
 2019,Oldenburg(Oldb)  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03403,28.3744023538065
@@ -101,7 +101,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2019,Vechta,ausländische Herkunft mindestens eines Elternteils,%,K03460,23.0499723400332
 2019,Wesermarsch,ausländische Herkunft mindestens eines Elternteils,%,K03461,22.8970199924557
 2019,Wittmund,ausländische Herkunft mindestens eines Elternteils,%,K03462,9.35483870967742
-2019,Stat. Region Weser-Ems,ausländische Herkunft mindestens eines Elternteils,%,K034,22.2027367485057
+2019,Statistische Region Weser-Ems,ausländische Herkunft mindestens eines Elternteils,%,K034,22.2027367485057
 2019,Niedersachsen,ausländische Herkunft mindestens eines Elternteils,%,K030,25.4725192493255
 2018,Braunschweig  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03101,33.7655321447866
 2018,Salzgitter  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03102,42.4571805006588
@@ -113,7 +113,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2018,Peine,ausländische Herkunft mindestens eines Elternteils,%,K03157,23.5294117647059
 2018,Wolfenbüttel,ausländische Herkunft mindestens eines Elternteils,%,K03158,17.5356750823271
 2018,Göttingen,ausländische Herkunft mindestens eines Elternteils,%,K03159,25.1787968026925
-2018,Stat. Region Braunschweig,ausländische Herkunft mindestens eines Elternteils,%,K031,24.9650859822824
+2018,Statistische Region Braunschweig,ausländische Herkunft mindestens eines Elternteils,%,K031,24.9650859822824
 2018,Hannover  Region,ausländische Herkunft mindestens eines Elternteils,%,K03241,36.6283666262584
 2018,dav. Hannover  Lhst.,ausländische Herkunft mindestens eines Elternteils,%,K03241001,47.0732523135244
 2018,dav. Hannover  Umland,ausländische Herkunft mindestens eines Elternteils,%,K03241999,27.2640943622551
@@ -123,7 +123,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2018,Holzminden,ausländische Herkunft mindestens eines Elternteils,%,K03255,18.3551198257081
 2018,Nienburg (Weser),ausländische Herkunft mindestens eines Elternteils,%,K03256,19.717160728855
 2018,Schaumburg,ausländische Herkunft mindestens eines Elternteils,%,K03257,25.6931608133087
-2018,Stat. Region Hannover,ausländische Herkunft mindestens eines Elternteils,%,K032,30.9413127529299
+2018,Statistische Region Hannover,ausländische Herkunft mindestens eines Elternteils,%,K032,30.9413127529299
 2018,Celle,ausländische Herkunft mindestens eines Elternteils,%,K03351,18.6977406155488
 2018,Cuxhaven,ausländische Herkunft mindestens eines Elternteils,%,K03352,17.0699149007175
 2018,Harburg,ausländische Herkunft mindestens eines Elternteils,%,K03353,20.8797519237395
@@ -135,7 +135,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2018,Stade,ausländische Herkunft mindestens eines Elternteils,%,K03359,18.249354005168
 2018,Uelzen,ausländische Herkunft mindestens eines Elternteils,%,K03360,18.480909829407
 2018,Verden,ausländische Herkunft mindestens eines Elternteils,%,K03361,22.6231633535004
-2018,Stat. Region Lüneburg,ausländische Herkunft mindestens eines Elternteils,%,K033,19.1302232451955
+2018,Statistische Region Lüneburg,ausländische Herkunft mindestens eines Elternteils,%,K033,19.1302232451955
 2018,Delmenhorst  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03401,42.879177377892
 2018,Emden  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03402,24.6856386499007
 2018,Oldenburg(Oldb)  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03403,28.088207811624
@@ -153,7 +153,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2018,Vechta,ausländische Herkunft mindestens eines Elternteils,%,K03460,17.7441814203302
 2018,Wesermarsch,ausländische Herkunft mindestens eines Elternteils,%,K03461,22.3936770794129
 2018,Wittmund,ausländische Herkunft mindestens eines Elternteils,%,K03462,9.35251798561151
-2018,Stat. Region Weser-Ems,ausländische Herkunft mindestens eines Elternteils,%,K034,21.3400618924715
+2018,Statistische Region Weser-Ems,ausländische Herkunft mindestens eines Elternteils,%,K034,21.3400618924715
 2018,Niedersachsen,ausländische Herkunft mindestens eines Elternteils,%,K030,24.1640286130484
 2017,Braunschweig  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03101,33.4917187075753
 2017,Salzgitter  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03102,38.8376068376068
@@ -165,7 +165,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2017,Peine,ausländische Herkunft mindestens eines Elternteils,%,K03157,24.8746717593698
 2017,Wolfenbüttel,ausländische Herkunft mindestens eines Elternteils,%,K03158,15.4068925571966
 2017,Göttingen,ausländische Herkunft mindestens eines Elternteils,%,K03159,23.9836523983652
-2017,Stat. Region Braunschweig,ausländische Herkunft mindestens eines Elternteils,%,K031,24.1820860597131
+2017,Statistische Region Braunschweig,ausländische Herkunft mindestens eines Elternteils,%,K031,24.1820860597131
 2017,Hannover  Region,ausländische Herkunft mindestens eines Elternteils,%,K03241,35.1287992367453
 2017,dav. Hannover  Lhst.,ausländische Herkunft mindestens eines Elternteils,%,K03241001,45.5094643576319
 2017,dav. Hannover  Umland,ausländische Herkunft mindestens eines Elternteils,%,K03241999,25.7822213012847
@@ -175,7 +175,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2017,Holzminden,ausländische Herkunft mindestens eines Elternteils,%,K03255,17.0512099043331
 2017,Nienburg (Weser),ausländische Herkunft mindestens eines Elternteils,%,K03256,19.468776490534
 2017,Schaumburg,ausländische Herkunft mindestens eines Elternteils,%,K03257,26.3701923076923
-2017,Stat. Region Hannover,ausländische Herkunft mindestens eines Elternteils,%,K032,29.8940358193163
+2017,Statistische Region Hannover,ausländische Herkunft mindestens eines Elternteils,%,K032,29.8940358193163
 2017,Celle,ausländische Herkunft mindestens eines Elternteils,%,K03351,18.3124883330222
 2017,Cuxhaven,ausländische Herkunft mindestens eines Elternteils,%,K03352,16.675235646958
 2017,Harburg,ausländische Herkunft mindestens eines Elternteils,%,K03353,19.7957487234295
@@ -187,7 +187,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2017,Stade,ausländische Herkunft mindestens eines Elternteils,%,K03359,19.3359375
 2017,Uelzen,ausländische Herkunft mindestens eines Elternteils,%,K03360,16.7445813854654
 2017,Verden,ausländische Herkunft mindestens eines Elternteils,%,K03361,21.1819235225956
-2017,Stat. Region Lüneburg,ausländische Herkunft mindestens eines Elternteils,%,K033,18.0101514945256
+2017,Statistische Region Lüneburg,ausländische Herkunft mindestens eines Elternteils,%,K033,18.0101514945256
 2017,Delmenhorst  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03401,45.7128099173554
 2017,Emden  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03402,24.9664429530201
 2017,Oldenburg(Oldb)  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03403,26.64927320164
@@ -205,7 +205,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2017,Vechta,ausländische Herkunft mindestens eines Elternteils,%,K03460,22.2200431457148
 2017,Wesermarsch,ausländische Herkunft mindestens eines Elternteils,%,K03461,22.7519379844961
 2017,Wittmund,ausländische Herkunft mindestens eines Elternteils,%,K03462,11.6788321167883
-2017,Stat. Region Weser-Ems,ausländische Herkunft mindestens eines Elternteils,%,K034,21.4261200137279
+2017,Statistische Region Weser-Ems,ausländische Herkunft mindestens eines Elternteils,%,K034,21.4261200137279
 2017,Niedersachsen,ausländische Herkunft mindestens eines Elternteils,%,K030,23.5126262626263
 2016,Braunschweig  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03101,33.3378414931025
 2016,Salzgitter  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03102,41.2244897959184
@@ -217,7 +217,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2016,Peine,ausländische Herkunft mindestens eines Elternteils,%,K03157,21.782431052094
 2016,Wolfenbüttel,ausländische Herkunft mindestens eines Elternteils,%,K03158,14.1899766899767
 2016,Göttingen,ausländische Herkunft mindestens eines Elternteils,%,K03159,23.067659294942
-2016,Stat. Region Braunschweig,ausländische Herkunft mindestens eines Elternteils,%,K031,23.5531598677935
+2016,Statistische Region Braunschweig,ausländische Herkunft mindestens eines Elternteils,%,K031,23.5531598677935
 2016,Hannover  Region,ausländische Herkunft mindestens eines Elternteils,%,K03241,34.9055558632914
 2016,dav. Hannover  Lhst.,ausländische Herkunft mindestens eines Elternteils,%,K03241001,45.3255963894262
 2016,dav. Hannover  Umland,ausländische Herkunft mindestens eines Elternteils,%,K03241999,25.571016014702
@@ -227,7 +227,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2016,Holzminden,ausländische Herkunft mindestens eines Elternteils,%,K03255,15.5733029092983
 2016,Nienburg (Weser),ausländische Herkunft mindestens eines Elternteils,%,K03256,21.306146572104
 2016,Schaumburg,ausländische Herkunft mindestens eines Elternteils,%,K03257,23.8189463269849
-2016,Stat. Region Hannover,ausländische Herkunft mindestens eines Elternteils,%,K032,29.4978283612846
+2016,Statistische Region Hannover,ausländische Herkunft mindestens eines Elternteils,%,K032,29.4978283612846
 2016,Celle,ausländische Herkunft mindestens eines Elternteils,%,K03351,12.1152715153891
 2016,Cuxhaven,ausländische Herkunft mindestens eines Elternteils,%,K03352,14.6865565618895
 2016,Harburg,ausländische Herkunft mindestens eines Elternteils,%,K03353,20.1200097967181
@@ -239,7 +239,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2016,Stade,ausländische Herkunft mindestens eines Elternteils,%,K03359,16.8421052631579
 2016,Uelzen,ausländische Herkunft mindestens eines Elternteils,%,K03360,16.2363238512035
 2016,Verden,ausländische Herkunft mindestens eines Elternteils,%,K03361,22.744814278823
-2016,Stat. Region Lüneburg,ausländische Herkunft mindestens eines Elternteils,%,K033,16.9471153846154
+2016,Statistische Region Lüneburg,ausländische Herkunft mindestens eines Elternteils,%,K033,16.9471153846154
 2016,Delmenhorst  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03401,43.8743455497382
 2016,Emden  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03402,22.9485396383866
 2016,Oldenburg(Oldb)  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03403,25.769077107471
@@ -257,7 +257,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2016,Vechta,ausländische Herkunft mindestens eines Elternteils,%,K03460,27.3064250411862
 2016,Wesermarsch,ausländische Herkunft mindestens eines Elternteils,%,K03461,21.2011285771866
 2016,Wittmund,ausländische Herkunft mindestens eines Elternteils,%,K03462,12.0403749098774
-2016,Stat. Region Weser-Ems,ausländische Herkunft mindestens eines Elternteils,%,K034,20.6212831264217
+2016,Statistische Region Weser-Ems,ausländische Herkunft mindestens eines Elternteils,%,K034,20.6212831264217
 2016,Niedersachsen,ausländische Herkunft mindestens eines Elternteils,%,K030,22.8230151688919
 2015,Braunschweig  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03101,31.9907470404137
 2015,Salzgitter  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03102,39.9709302325581
@@ -269,7 +269,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2015,Peine,ausländische Herkunft mindestens eines Elternteils,%,K03157,20.514152168268
 2015,Wolfenbüttel,ausländische Herkunft mindestens eines Elternteils,%,K03158,12.7380952380952
 2015,Göttingen,ausländische Herkunft mindestens eines Elternteils,%,K03159,23.5031776117739
-2015,Stat. Region Braunschweig,ausländische Herkunft mindestens eines Elternteils,%,K031,23.3388310250559
+2015,Statistische Region Braunschweig,ausländische Herkunft mindestens eines Elternteils,%,K031,23.3388310250559
 2015,Hannover  Region,ausländische Herkunft mindestens eines Elternteils,%,K03241,34.5610193111686
 2015,dav. Hannover  Lhst.,ausländische Herkunft mindestens eines Elternteils,%,K03241001,44.3609911881247
 2015,dav. Hannover  Umland,ausländische Herkunft mindestens eines Elternteils,%,K03241999,25.4821389436774
@@ -279,7 +279,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2015,Holzminden,ausländische Herkunft mindestens eines Elternteils,%,K03255,17.4163783160323
 2015,Nienburg (Weser),ausländische Herkunft mindestens eines Elternteils,%,K03256,20.5425175251448
 2015,Schaumburg,ausländische Herkunft mindestens eines Elternteils,%,K03257,22.6044852191641
-2015,Stat. Region Hannover,ausländische Herkunft mindestens eines Elternteils,%,K032,28.7534003355541
+2015,Statistische Region Hannover,ausländische Herkunft mindestens eines Elternteils,%,K032,28.7534003355541
 2015,Celle,ausländische Herkunft mindestens eines Elternteils,%,K03351,13.3460803059273
 2015,Cuxhaven,ausländische Herkunft mindestens eines Elternteils,%,K03352,14.7889908256881
 2015,Harburg,ausländische Herkunft mindestens eines Elternteils,%,K03353,18.992443324937
@@ -291,7 +291,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2015,Stade,ausländische Herkunft mindestens eines Elternteils,%,K03359,16.5454237861614
 2015,Uelzen,ausländische Herkunft mindestens eines Elternteils,%,K03360,13.6786188579017
 2015,Verden,ausländische Herkunft mindestens eines Elternteils,%,K03361,21.0643564356436
-2015,Stat. Region Lüneburg,ausländische Herkunft mindestens eines Elternteils,%,K033,15.8792199112983
+2015,Statistische Region Lüneburg,ausländische Herkunft mindestens eines Elternteils,%,K033,15.8792199112983
 2015,Delmenhorst  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03401,30.9419496166484
 2015,Emden  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03402,21.3427561837456
 2015,Oldenburg(Oldb)  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03403,25.9328747133625
@@ -309,7 +309,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2015,Vechta,ausländische Herkunft mindestens eines Elternteils,%,K03460,26.0037445392136
 2015,Wesermarsch,ausländische Herkunft mindestens eines Elternteils,%,K03461,19.7551709582102
 2015,Wittmund,ausländische Herkunft mindestens eines Elternteils,%,K03462,11.7566643882433
-2015,Stat. Region Weser-Ems,ausländische Herkunft mindestens eines Elternteils,%,K034,19.4612363150124
+2015,Statistische Region Weser-Ems,ausländische Herkunft mindestens eines Elternteils,%,K034,19.4612363150124
 2015,Niedersachsen,ausländische Herkunft mindestens eines Elternteils,%,K030,21.9530475035821
 2014,Braunschweig  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03101,32.1311025781679
 2014,Salzgitter  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03102,38.3396226415094
@@ -321,7 +321,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2014,Peine,ausländische Herkunft mindestens eines Elternteils,%,K03157,21.1188436830835
 2014,Wolfenbüttel,ausländische Herkunft mindestens eines Elternteils,%,K03158,13.3213859020311
 2014,Göttingen,ausländische Herkunft mindestens eines Elternteils,%,K03159,22.5326925226333
-2014,Stat. Region Braunschweig,ausländische Herkunft mindestens eines Elternteils,%,K031,22.5864875398336
+2014,Statistische Region Braunschweig,ausländische Herkunft mindestens eines Elternteils,%,K031,22.5864875398336
 2014,Hannover  Region,ausländische Herkunft mindestens eines Elternteils,%,K03241,34.4615653491014
 2014,dav. Hannover  Lhst.,ausländische Herkunft mindestens eines Elternteils,%,K03241001,44.0917107583774
 2014,dav. Hannover  Umland,ausländische Herkunft mindestens eines Elternteils,%,K03241999,25.6093470483005
@@ -331,7 +331,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2014,Holzminden,ausländische Herkunft mindestens eines Elternteils,%,K03255,19.6951934349355
 2014,Nienburg (Weser),ausländische Herkunft mindestens eines Elternteils,%,K03256,21.2746305418719
 2014,Schaumburg,ausländische Herkunft mindestens eines Elternteils,%,K03257,20.3281209946168
-2014,Stat. Region Hannover,ausländische Herkunft mindestens eines Elternteils,%,K032,28.8160501981506
+2014,Statistische Region Hannover,ausländische Herkunft mindestens eines Elternteils,%,K032,28.8160501981506
 2014,Celle,ausländische Herkunft mindestens eines Elternteils,%,K03351,15.1035781544256
 2014,Cuxhaven,ausländische Herkunft mindestens eines Elternteils,%,K03352,14.8282097649186
 2014,Harburg,ausländische Herkunft mindestens eines Elternteils,%,K03353,18.6954288649204
@@ -343,7 +343,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2014,Stade,ausländische Herkunft mindestens eines Elternteils,%,K03359,14.441130022811
 2014,Uelzen,ausländische Herkunft mindestens eines Elternteils,%,K03360,14.5860709592641
 2014,Verden,ausländische Herkunft mindestens eines Elternteils,%,K03361,20.4665161775771
-2014,Stat. Region Lüneburg,ausländische Herkunft mindestens eines Elternteils,%,K033,16.0558428550988
+2014,Statistische Region Lüneburg,ausländische Herkunft mindestens eines Elternteils,%,K033,16.0558428550988
 2014,Delmenhorst  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03401,33.4269662921348
 2014,Emden  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03402,21.5282880235121
 2014,Oldenburg(Oldb)  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03403,17.3709917179868
@@ -361,7 +361,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2014,Vechta,ausländische Herkunft mindestens eines Elternteils,%,K03460,28.4783522488441
 2014,Wesermarsch,ausländische Herkunft mindestens eines Elternteils,%,K03461,18.4199584199584
 2014,Wittmund,ausländische Herkunft mindestens eines Elternteils,%,K03462,11.6978609625668
-2014,Stat. Region Weser-Ems,ausländische Herkunft mindestens eines Elternteils,%,K034,19.9458941554416
+2014,Statistische Region Weser-Ems,ausländische Herkunft mindestens eines Elternteils,%,K034,19.9458941554416
 2014,Niedersachsen,ausländische Herkunft mindestens eines Elternteils,%,K030,22.0079081017878
 2013,Braunschweig  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03101,31.8393480791618
 2013,Salzgitter  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03102,34.7126436781609
@@ -373,7 +373,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2013,Peine,ausländische Herkunft mindestens eines Elternteils,%,K03157,21.3510580575149
 2013,Wolfenbüttel,ausländische Herkunft mindestens eines Elternteils,%,K03158,14.2035130224107
 2013,Göttingen,ausländische Herkunft mindestens eines Elternteils,%,K03159,21.8642373069659
-2013,Stat. Region Braunschweig,ausländische Herkunft mindestens eines Elternteils,%,K031,22.1684954435559
+2013,Statistische Region Braunschweig,ausländische Herkunft mindestens eines Elternteils,%,K031,22.1684954435559
 2013,Hannover  Region,ausländische Herkunft mindestens eines Elternteils,%,K03241,34.5134355548808
 2013,dav. Hannover  Lhst.,ausländische Herkunft mindestens eines Elternteils,%,K03241001,44.771410173857
 2013,dav. Hannover  Umland,ausländische Herkunft mindestens eines Elternteils,%,K03241999,25.3605285837403
@@ -383,7 +383,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2013,Holzminden,ausländische Herkunft mindestens eines Elternteils,%,K03255,21.4199759326113
 2013,Nienburg (Weser),ausländische Herkunft mindestens eines Elternteils,%,K03256,22.2153273347813
 2013,Schaumburg,ausländische Herkunft mindestens eines Elternteils,%,K03257,20.5475946775844
-2013,Stat. Region Hannover,ausländische Herkunft mindestens eines Elternteils,%,K032,28.8573853989813
+2013,Statistische Region Hannover,ausländische Herkunft mindestens eines Elternteils,%,K032,28.8573853989813
 2013,Celle,ausländische Herkunft mindestens eines Elternteils,%,K03351,13.0543290458821
 2013,Cuxhaven,ausländische Herkunft mindestens eines Elternteils,%,K03352,15.0044923629829
 2013,Harburg,ausländische Herkunft mindestens eines Elternteils,%,K03353,18.1866809307301
@@ -395,7 +395,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2013,Stade,ausländische Herkunft mindestens eines Elternteils,%,K03359,16.2147505422993
 2013,Uelzen,ausländische Herkunft mindestens eines Elternteils,%,K03360,13.1377551020408
 2013,Verden,ausländische Herkunft mindestens eines Elternteils,%,K03361,20.7894736842105
-2013,Stat. Region Lüneburg,ausländische Herkunft mindestens eines Elternteils,%,K033,15.6697715216574
+2013,Statistische Region Lüneburg,ausländische Herkunft mindestens eines Elternteils,%,K033,15.6697715216574
 2013,Delmenhorst  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03401,26.1744966442953
 2013,Emden  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03402,20.193740685544
 2013,Oldenburg(Oldb)  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03403,25.9154315605929
@@ -413,7 +413,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2013,Vechta,ausländische Herkunft mindestens eines Elternteils,%,K03460,29.4398610508033
 2013,Wesermarsch,ausländische Herkunft mindestens eines Elternteils,%,K03461,20.8316511909568
 2013,Wittmund,ausländische Herkunft mindestens eines Elternteils,%,K03462,10.6169296987088
-2013,Stat. Region Weser-Ems,ausländische Herkunft mindestens eines Elternteils,%,K034,21.1702051097517
+2013,Statistische Region Weser-Ems,ausländische Herkunft mindestens eines Elternteils,%,K034,21.1702051097517
 2013,Niedersachsen,ausländische Herkunft mindestens eines Elternteils,%,K030,22.229823097235
 2012,Braunschweig  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03101,29.9747737052975
 2012,Salzgitter  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03102,41.844512195122
@@ -425,7 +425,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2012,Peine,ausländische Herkunft mindestens eines Elternteils,%,K03157,19.712865819989
 2012,Wolfenbüttel,ausländische Herkunft mindestens eines Elternteils,%,K03158,13.2786387116378
 2012,Göttingen,ausländische Herkunft mindestens eines Elternteils,%,K03159,22.4308522599505
-2012,Stat. Region Braunschweig,ausländische Herkunft mindestens eines Elternteils,%,K031,22.7859127077546
+2012,Statistische Region Braunschweig,ausländische Herkunft mindestens eines Elternteils,%,K031,22.7859127077546
 2012,Hannover  Region,ausländische Herkunft mindestens eines Elternteils,%,K03241,34.6284362255222
 2012,dav. Hannover  Lhst.,ausländische Herkunft mindestens eines Elternteils,%,K03241001,44.030099220883
 2012,dav. Hannover  Umland,ausländische Herkunft mindestens eines Elternteils,%,K03241999,26.3739476145931
@@ -435,7 +435,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2012,Holzminden,ausländische Herkunft mindestens eines Elternteils,%,K03255,23.7144585601936
 2012,Nienburg (Weser),ausländische Herkunft mindestens eines Elternteils,%,K03256,22.7373068432671
 2012,Schaumburg,ausländische Herkunft mindestens eines Elternteils,%,K03257,21.6772554002541
-2012,Stat. Region Hannover,ausländische Herkunft mindestens eines Elternteils,%,K032,28.6192135045668
+2012,Statistische Region Hannover,ausländische Herkunft mindestens eines Elternteils,%,K032,28.6192135045668
 2012,Celle,ausländische Herkunft mindestens eines Elternteils,%,K03351,12.9960317460317
 2012,Cuxhaven,ausländische Herkunft mindestens eines Elternteils,%,K03352,15.0072939460248
 2012,Harburg,ausländische Herkunft mindestens eines Elternteils,%,K03353,17.8777703156481
@@ -447,7 +447,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2012,Stade,ausländische Herkunft mindestens eines Elternteils,%,K03359,19.1187453323376
 2012,Uelzen,ausländische Herkunft mindestens eines Elternteils,%,K03360,14.5161290322581
 2012,Verden,ausländische Herkunft mindestens eines Elternteils,%,K03361,23.3907284768212
-2012,Stat. Region Lüneburg,ausländische Herkunft mindestens eines Elternteils,%,K033,16.398146573712
+2012,Statistische Region Lüneburg,ausländische Herkunft mindestens eines Elternteils,%,K033,16.398146573712
 2012,Delmenhorst  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03401,33.6338028169014
 2012,Emden  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03402,20.8204334365325
 2012,Oldenburg(Oldb)  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03403,27.238475177305
@@ -465,7 +465,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2012,Vechta,ausländische Herkunft mindestens eines Elternteils,%,K03460,28.4045835169678
 2012,Wesermarsch,ausländische Herkunft mindestens eines Elternteils,%,K03461,20.7492795389049
 2012,Wittmund,ausländische Herkunft mindestens eines Elternteils,%,K03462,9.78502594514455
-2012,Stat. Region Weser-Ems,ausländische Herkunft mindestens eines Elternteils,%,K034,22.2313854853911
+2012,Statistische Region Weser-Ems,ausländische Herkunft mindestens eines Elternteils,%,K034,22.2313854853911
 2012,Niedersachsen,ausländische Herkunft mindestens eines Elternteils,%,K030,22.7784259676752
 2011,Braunschweig  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03101,27.0960488274976
 2011,Salzgitter  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03102,39.96
@@ -477,7 +477,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2011,Peine,ausländische Herkunft mindestens eines Elternteils,%,K03157,18.1050912060986
 2011,Wolfenbüttel,ausländische Herkunft mindestens eines Elternteils,%,K03158,12.2854561878952
 2011,Göttingen,ausländische Herkunft mindestens eines Elternteils,%,K03159,20.8141674333027
-2011,Stat. Region Braunschweig,ausländische Herkunft mindestens eines Elternteils,%,K031,21.1136496208439
+2011,Statistische Region Braunschweig,ausländische Herkunft mindestens eines Elternteils,%,K031,21.1136496208439
 2011,Hannover  Region,ausländische Herkunft mindestens eines Elternteils,%,K03241,33.6115504997812
 2011,dav. Hannover  Lhst.,ausländische Herkunft mindestens eines Elternteils,%,K03241001,44.4193006788817
 2011,dav. Hannover  Umland,ausländische Herkunft mindestens eines Elternteils,%,K03241999,24.3661795928563
@@ -487,7 +487,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2011,Holzminden,ausländische Herkunft mindestens eines Elternteils,%,K03255,21.0623841877702
 2011,Nienburg (Weser),ausländische Herkunft mindestens eines Elternteils,%,K03256,20.5470737913486
 2011,Schaumburg,ausländische Herkunft mindestens eines Elternteils,%,K03257,18.9087251697259
-2011,Stat. Region Hannover,ausländische Herkunft mindestens eines Elternteils,%,K032,27.0541266512124
+2011,Statistische Region Hannover,ausländische Herkunft mindestens eines Elternteils,%,K032,27.0541266512124
 2011,Celle,ausländische Herkunft mindestens eines Elternteils,%,K03351,19.2472024415056
 2011,Cuxhaven,ausländische Herkunft mindestens eines Elternteils,%,K03352,15.3028289348775
 2011,Harburg,ausländische Herkunft mindestens eines Elternteils,%,K03353,16.5273775216138
@@ -499,7 +499,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2011,Stade,ausländische Herkunft mindestens eines Elternteils,%,K03359,17.8717598908595
 2011,Uelzen,ausländische Herkunft mindestens eines Elternteils,%,K03360,13.3844073907165
 2011,Verden,ausländische Herkunft mindestens eines Elternteils,%,K03361,20.8573784006595
-2011,Stat. Region Lüneburg,ausländische Herkunft mindestens eines Elternteils,%,K033,16.6817389769945
+2011,Statistische Region Lüneburg,ausländische Herkunft mindestens eines Elternteils,%,K033,16.6817389769945
 2011,Delmenhorst  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03401,41.7670682730924
 2011,Emden  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03402,19.9364575059571
 2011,Oldenburg(Oldb)  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03403,26.4349416876286
@@ -517,7 +517,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2011,Vechta,ausländische Herkunft mindestens eines Elternteils,%,K03460,27.3773889016809
 2011,Wesermarsch,ausländische Herkunft mindestens eines Elternteils,%,K03461,21.5513442044954
 2011,Wittmund,ausländische Herkunft mindestens eines Elternteils,%,K03462,10.6495468277946
-2011,Stat. Region Weser-Ems,ausländische Herkunft mindestens eines Elternteils,%,K034,21.563014605168
+2011,Statistische Region Weser-Ems,ausländische Herkunft mindestens eines Elternteils,%,K034,21.563014605168
 2011,Niedersachsen,ausländische Herkunft mindestens eines Elternteils,%,K030,21.848094377393
 2010,Braunschweig  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03101,27.0960488274976
 2010,Salzgitter  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03102,39.96
@@ -529,7 +529,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2010,Peine,ausländische Herkunft mindestens eines Elternteils,%,K03157,18.1050912060986
 2010,Wolfenbüttel,ausländische Herkunft mindestens eines Elternteils,%,K03158,12.2854561878952
 2010,Göttingen,ausländische Herkunft mindestens eines Elternteils,%,K03159,20.8141674333027
-2010,Stat. Region Braunschweig,ausländische Herkunft mindestens eines Elternteils,%,K031,21.1136496208439
+2010,Statistische Region Braunschweig,ausländische Herkunft mindestens eines Elternteils,%,K031,21.1136496208439
 2010,Hannover  Region,ausländische Herkunft mindestens eines Elternteils,%,K03241,33.6115504997812
 2010,dav. Hannover  Lhst.,ausländische Herkunft mindestens eines Elternteils,%,K03241001,44.4193006788817
 2010,dav. Hannover  Umland,ausländische Herkunft mindestens eines Elternteils,%,K03241999,24.3661795928563
@@ -539,7 +539,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2010,Holzminden,ausländische Herkunft mindestens eines Elternteils,%,K03255,21.0623841877702
 2010,Nienburg (Weser),ausländische Herkunft mindestens eines Elternteils,%,K03256,20.5470737913486
 2010,Schaumburg,ausländische Herkunft mindestens eines Elternteils,%,K03257,18.9087251697259
-2010,Stat. Region Hannover,ausländische Herkunft mindestens eines Elternteils,%,K032,27.0541266512124
+2010,Statistische Region Hannover,ausländische Herkunft mindestens eines Elternteils,%,K032,27.0541266512124
 2010,Celle,ausländische Herkunft mindestens eines Elternteils,%,K03351,19.2472024415056
 2010,Cuxhaven,ausländische Herkunft mindestens eines Elternteils,%,K03352,15.3028289348775
 2010,Harburg,ausländische Herkunft mindestens eines Elternteils,%,K03353,16.5273775216138
@@ -551,7 +551,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2010,Stade,ausländische Herkunft mindestens eines Elternteils,%,K03359,17.8717598908595
 2010,Uelzen,ausländische Herkunft mindestens eines Elternteils,%,K03360,13.3844073907165
 2010,Verden,ausländische Herkunft mindestens eines Elternteils,%,K03361,20.8573784006595
-2010,Stat. Region Lüneburg,ausländische Herkunft mindestens eines Elternteils,%,K033,16.6817389769945
+2010,Statistische Region Lüneburg,ausländische Herkunft mindestens eines Elternteils,%,K033,16.6817389769945
 2010,Delmenhorst  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03401,41.7670682730924
 2010,Emden  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03402,19.9364575059571
 2010,Oldenburg(Oldb)  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03403,26.4349416876286
@@ -569,7 +569,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2010,Vechta,ausländische Herkunft mindestens eines Elternteils,%,K03460,27.3773889016809
 2010,Wesermarsch,ausländische Herkunft mindestens eines Elternteils,%,K03461,21.5513442044954
 2010,Wittmund,ausländische Herkunft mindestens eines Elternteils,%,K03462,10.6495468277946
-2010,Stat. Region Weser-Ems,ausländische Herkunft mindestens eines Elternteils,%,K034,21.563014605168
+2010,Statistische Region Weser-Ems,ausländische Herkunft mindestens eines Elternteils,%,K034,21.563014605168
 2010,Niedersachsen,ausländische Herkunft mindestens eines Elternteils,%,K030,21.848094377393
 2009,Braunschweig  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03101,26.4349930843707
 2009,Salzgitter  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03102,40.2629416598192
@@ -581,7 +581,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2009,Peine,ausländische Herkunft mindestens eines Elternteils,%,K03157,17.5310642895732
 2009,Wolfenbüttel,ausländische Herkunft mindestens eines Elternteils,%,K03158,12.2313048743566
 2009,Göttingen,ausländische Herkunft mindestens eines Elternteils,%,K03159,21.341250436605
-2009,Stat. Region Braunschweig,ausländische Herkunft mindestens eines Elternteils,%,K031,21.2103832630975
+2009,Statistische Region Braunschweig,ausländische Herkunft mindestens eines Elternteils,%,K031,21.2103832630975
 2009,Hannover  Region,ausländische Herkunft mindestens eines Elternteils,%,K03241,32.5686348251222
 2009,dav. Hannover  Lhst.,ausländische Herkunft mindestens eines Elternteils,%,K03241001,44.5988820063454
 2009,dav. Hannover  Umland,ausländische Herkunft mindestens eines Elternteils,%,K03241999,22.6219474111548
@@ -591,7 +591,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2009,Holzminden,ausländische Herkunft mindestens eines Elternteils,%,K03255,20.3411244472521
 2009,Nienburg (Weser),ausländische Herkunft mindestens eines Elternteils,%,K03256,21.4736143378692
 2009,Schaumburg,ausländische Herkunft mindestens eines Elternteils,%,K03257,17.2156459083891
-2009,Stat. Region Hannover,ausländische Herkunft mindestens eines Elternteils,%,K032,26.260177646188
+2009,Statistische Region Hannover,ausländische Herkunft mindestens eines Elternteils,%,K032,26.260177646188
 2009,Celle,ausländische Herkunft mindestens eines Elternteils,%,K03351,18.2844243792325
 2009,Cuxhaven,ausländische Herkunft mindestens eines Elternteils,%,K03352,14.855623100304
 2009,Harburg,ausländische Herkunft mindestens eines Elternteils,%,K03353,16.1107802263252
@@ -603,7 +603,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2009,Stade,ausländische Herkunft mindestens eines Elternteils,%,K03359,17.0058968993723
 2009,Uelzen,ausländische Herkunft mindestens eines Elternteils,%,K03360,12.6230975828111
 2009,Verden,ausländische Herkunft mindestens eines Elternteils,%,K03361,22.2829055161114
-2009,Stat. Region Lüneburg,ausländische Herkunft mindestens eines Elternteils,%,K033,16.3085787170409
+2009,Statistische Region Lüneburg,ausländische Herkunft mindestens eines Elternteils,%,K033,16.3085787170409
 2009,Delmenhorst  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03401,38.2857142857143
 2009,Emden  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03402,19.1780821917808
 2009,Oldenburg(Oldb)  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03403,26.5776699029126
@@ -621,7 +621,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2009,Vechta,ausländische Herkunft mindestens eines Elternteils,%,K03460,27.5338626809902
 2009,Wesermarsch,ausländische Herkunft mindestens eines Elternteils,%,K03461,16.2872154115587
 2009,Wittmund,ausländische Herkunft mindestens eines Elternteils,%,K03462,11.0112359550562
-2009,Stat. Region Weser-Ems,ausländische Herkunft mindestens eines Elternteils,%,K034,20.4942313688806
+2009,Statistische Region Weser-Ems,ausländische Herkunft mindestens eines Elternteils,%,K034,20.4942313688806
 2009,Niedersachsen,ausländische Herkunft mindestens eines Elternteils,%,K030,21.2302950587958
 2008,Braunschweig  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03101,27.0159857904085
 2008,Salzgitter  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03102,35.8024691358025
@@ -633,7 +633,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2008,Peine,ausländische Herkunft mindestens eines Elternteils,%,K03157,18.8958451906659
 2008,Wolfenbüttel,ausländische Herkunft mindestens eines Elternteils,%,K03158,12.6597687157638
 2008,Göttingen,ausländische Herkunft mindestens eines Elternteils,%,K03159,20.2432464039294
-2008,Stat. Region Braunschweig,ausländische Herkunft mindestens eines Elternteils,%,K031,20.6573595138854
+2008,Statistische Region Braunschweig,ausländische Herkunft mindestens eines Elternteils,%,K031,20.6573595138854
 2008,Hannover  Region,ausländische Herkunft mindestens eines Elternteils,%,K03241,31.5101153535991
 2008,dav. Hannover  Lhst.,ausländische Herkunft mindestens eines Elternteils,%,K03241001,43.9634818196128
 2008,dav. Hannover  Umland,ausländische Herkunft mindestens eines Elternteils,%,K03241999,21.5049004110022
@@ -643,7 +643,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2008,Holzminden,ausländische Herkunft mindestens eines Elternteils,%,K03255,17.2068355922216
 2008,Nienburg (Weser),ausländische Herkunft mindestens eines Elternteils,%,K03256,20.0886766712142
 2008,Schaumburg,ausländische Herkunft mindestens eines Elternteils,%,K03257,17.5351938750309
-2008,Stat. Region Hannover,ausländische Herkunft mindestens eines Elternteils,%,K032,25.4955710955711
+2008,Statistische Region Hannover,ausländische Herkunft mindestens eines Elternteils,%,K032,25.4955710955711
 2008,Celle,ausländische Herkunft mindestens eines Elternteils,%,K03351,18.3796104434314
 2008,Cuxhaven,ausländische Herkunft mindestens eines Elternteils,%,K03352,14.105504587156
 2008,Harburg,ausländische Herkunft mindestens eines Elternteils,%,K03353,14.7098114887932
@@ -655,7 +655,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2008,Stade,ausländische Herkunft mindestens eines Elternteils,%,K03359,15.8412168428863
 2008,Uelzen,ausländische Herkunft mindestens eines Elternteils,%,K03360,12.4456048738033
 2008,Verden,ausländische Herkunft mindestens eines Elternteils,%,K03361,19.9943197955126
-2008,Stat. Region Lüneburg,ausländische Herkunft mindestens eines Elternteils,%,K033,15.2521279196391
+2008,Statistische Region Lüneburg,ausländische Herkunft mindestens eines Elternteils,%,K033,15.2521279196391
 2008,Delmenhorst  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03401,37.4449339207048
 2008,Emden  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03402,21.76
 2008,Oldenburg(Oldb)  Stadt,ausländische Herkunft mindestens eines Elternteils,%,K03403,25.5271084337349
@@ -673,7 +673,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2008,Vechta,ausländische Herkunft mindestens eines Elternteils,%,K03460,27.3364485981308
 2008,Wesermarsch,ausländische Herkunft mindestens eines Elternteils,%,K03461,15.9678102498941
 2008,Wittmund,ausländische Herkunft mindestens eines Elternteils,%,K03462,8.86075949367089
-2008,Stat. Region Weser-Ems,ausländische Herkunft mindestens eines Elternteils,%,K034,20.1549527853476
+2008,Statistische Region Weser-Ems,ausländische Herkunft mindestens eines Elternteils,%,K034,20.1549527853476
 2008,Niedersachsen,ausländische Herkunft mindestens eines Elternteils,%,K030,20.5805600206386
 2020,Braunschweig  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03101,22.0567097870116
 2020,Salzgitter  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03102,34.5045900601456
@@ -685,17 +685,17 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2020,Peine,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03157,10.7150526089757
 2020,Wolfenbüttel,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03158,9.63793982661907
 2020,Göttingen,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03159,18.4580868855803
-2020,Stat. Region Braunschweig,in der Familie wird vorrangig nicht deutsch gesprochen,%,K031,15.9707292057043
+2020,Statistische Region Braunschweig,in der Familie wird vorrangig nicht deutsch gesprochen,%,K031,15.9707292057043
 2020,Hannover  Region,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03241,25.2172587284647
 2020,dav. Hannover  Lhst.,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03241001,32.4182434649459
-2020,dav. Hannover  Umland,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03241999,18.9671539775964
+2021,dav. Hannover  Umland,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03241999,18.9671539775964
 2020,Diepholz,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03251,15.7924989222589
 2020,Hameln-Pyrmont,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03252,21.3447653429603
 2020,Hildesheim,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03254,18.5726160788505
 2020,Holzminden,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03255,14.6305418719212
 2020,Nienburg (Weser),in der Familie wird vorrangig nicht deutsch gesprochen,%,K03256,13.0523627075351
 2020,Schaumburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03257,18.5853865760408
-2020,Stat. Region Hannover,in der Familie wird vorrangig nicht deutsch gesprochen,%,K032,21.7934946074851
+2020,Statistische Region Hannover,in der Familie wird vorrangig nicht deutsch gesprochen,%,K032,21.7934946074851
 2020,Celle,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03351,15.9769335142469
 2020,Cuxhaven,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03352,10.0334981655766
 2020,Harburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03353,12.5369863013699
@@ -707,7 +707,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2020,Stade,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03359,8.59397836889798
 2020,Uelzen,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03360,10.2454226723802
 2020,Verden,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03361,11.1480865224626
-2020,Stat. Region Lüneburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K033,11.5375795953645
+2020,Statistische Region Lüneburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K033,11.5375795953645
 2020,Delmenhorst  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03401,31.8159569260891
 2020,Emden  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03402,18.1401440733464
 2020,Oldenburg(Oldb)  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03403,21.1037210138415
@@ -725,7 +725,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2020,Vechta,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03460,16.2733787799336
 2020,Wesermarsch,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03461,14.9691917361363
 2020,Wittmund,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03462,6.86512758201701
-2020,Stat. Region Weser-Ems,in der Familie wird vorrangig nicht deutsch gesprochen,%,K034,14.6656876909595
+2020,Statistische Region Weser-Ems,in der Familie wird vorrangig nicht deutsch gesprochen,%,K034,14.6656876909595
 2020,Niedersachsen,in der Familie wird vorrangig nicht deutsch gesprochen,%,K030,16.1427539527542
 2019,Braunschweig  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03101,21.365376997227
 2019,Salzgitter  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03102,30.5761184422272
@@ -737,7 +737,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2019,Peine,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03157,11.542730299667
 2019,Wolfenbüttel,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03158,10.3282626100881
 2019,Göttingen,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03159,18.6020293122886
-2019,Stat. Region Braunschweig,in der Familie wird vorrangig nicht deutsch gesprochen,%,K031,16.9275573352748
+2019,Statistische Region Braunschweig,in der Familie wird vorrangig nicht deutsch gesprochen,%,K031,16.9275573352748
 2019,Hannover  Region,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03241,24.8883812688194
 2019,dav. Hannover  Lhst.,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03241001,31.9889042995839
 2019,dav. Hannover  Umland,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03241999,18.644811942046
@@ -747,7 +747,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2019,Holzminden,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03255,14.396685655101
 2019,Nienburg (Weser),in der Familie wird vorrangig nicht deutsch gesprochen,%,K03256,12.3934934159566
 2019,Schaumburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03257,19.7643979057592
-2019,Stat. Region Hannover,in der Familie wird vorrangig nicht deutsch gesprochen,%,K032,21.6459713629649
+2019,Statistische Region Hannover,in der Familie wird vorrangig nicht deutsch gesprochen,%,K032,21.6459713629649
 2019,Celle,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03351,11.2903225806452
 2019,Cuxhaven,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03352,9.98046239010094
 2019,Harburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03353,11.56364443458
@@ -759,7 +759,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2019,Stade,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03359,10.5142682740729
 2019,Uelzen,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03360,9.31272875152501
 2019,Verden,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03361,13.9574468085106
-2019,Stat. Region Lüneburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K033,11.4036360997206
+2019,Statistische Region Lüneburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K033,11.4036360997206
 2019,Delmenhorst  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03401,30.5068226120858
 2019,Emden  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03402,19.1852825229961
 2019,Oldenburg(Oldb)  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03403,19.7131298271423
@@ -777,7 +777,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2019,Vechta,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03460,14.9732620320856
 2019,Wesermarsch,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03461,15.3904187099208
 2019,Wittmund,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03462,4.70967741935484
-2019,Stat. Region Weser-Ems,in der Familie wird vorrangig nicht deutsch gesprochen,%,K034,14.400039519834
+2019,Statistische Region Weser-Ems,in der Familie wird vorrangig nicht deutsch gesprochen,%,K034,14.400039519834
 2019,Niedersachsen,in der Familie wird vorrangig nicht deutsch gesprochen,%,K030,16.193064335086
 2018,Braunschweig  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03101,18.7871420853593
 2018,Salzgitter  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03102,30.5006587615283
@@ -789,7 +789,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2018,Peine,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03157,11.3740808823529
 2018,Wolfenbüttel,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03158,9.5225027442371
 2018,Göttingen,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03159,15.5763567522087
-2018,Stat. Region Braunschweig,in der Familie wird vorrangig nicht deutsch gesprochen,%,K031,14.774361646691
+2018,Statistische Region Braunschweig,in der Familie wird vorrangig nicht deutsch gesprochen,%,K031,14.774361646691
 2018,Hannover  Region,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03241,23.4069467137511
 2018,dav. Hannover  Lhst.,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03241001,32.0715798862749
 2018,dav. Hannover  Umland,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03241999,15.6387445021991
@@ -799,7 +799,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2018,Holzminden,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03255,10.4030501089325
 2018,Nienburg (Weser),in der Familie wird vorrangig nicht deutsch gesprochen,%,K03256,11.3679630133261
 2018,Schaumburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03257,15.2264325323475
-2018,Stat. Region Hannover,in der Familie wird vorrangig nicht deutsch gesprochen,%,K032,19.3106768365152
+2018,Statistische Region Hannover,in der Familie wird vorrangig nicht deutsch gesprochen,%,K032,19.3106768365152
 2018,Celle,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03351,10.6208859633517
 2018,Cuxhaven,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03352,10.2953445686634
 2018,Harburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03353,11.2782818421959
@@ -811,7 +811,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2018,Stade,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03359,10.3682170542636
 2018,Uelzen,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03360,8.93582453290008
 2018,Verden,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03361,13.4399308556612
-2018,Stat. Region Lüneburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K033,10.5466045397556
+2018,Statistische Region Lüneburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K033,10.5466045397556
 2018,Delmenhorst  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03401,31.2082262210797
 2018,Emden  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03402,16.0820648577101
 2018,Oldenburg(Oldb)  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03403,19.6038123715193
@@ -829,7 +829,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2018,Vechta,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03460,11.9952257807838
 2018,Wesermarsch,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03461,14.1889348889725
 2018,Wittmund,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03462,5.10137344669719
-2018,Stat. Region Weser-Ems,in der Familie wird vorrangig nicht deutsch gesprochen,%,K034,13.3068813642025
+2018,Statistische Region Weser-Ems,in der Familie wird vorrangig nicht deutsch gesprochen,%,K034,13.3068813642025
 2018,Niedersachsen,in der Familie wird vorrangig nicht deutsch gesprochen,%,K030,14.6169871664456
 2017,Braunschweig  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03101,17.5400488732012
 2017,Salzgitter  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03102,29.3675213675214
@@ -841,7 +841,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2017,Peine,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03157,14.8961566006207
 2017,Wolfenbüttel,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03158,8.68809730668984
 2017,Göttingen,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03159,14.8634114863411
-2017,Stat. Region Braunschweig,in der Familie wird vorrangig nicht deutsch gesprochen,%,K031,14.2327858907137
+2017,Statistische Region Braunschweig,in der Familie wird vorrangig nicht deutsch gesprochen,%,K031,14.2327858907137
 2017,Hannover  Region,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03241,22.665939757394
 2017,dav. Hannover  Lhst.,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03241001,31.2697773430758
 2017,dav. Hannover  Umland,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03241999,14.9191877331123
@@ -851,7 +851,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2017,Holzminden,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03255,9.6229600450197
 2017,Nienburg (Weser),in der Familie wird vorrangig nicht deutsch gesprochen,%,K03256,10.5679570500141
 2017,Schaumburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03257,14.3269230769231
-2017,Stat. Region Hannover,in der Familie wird vorrangig nicht deutsch gesprochen,%,K032,18.5709617688705
+2017,Statistische Region Hannover,in der Familie wird vorrangig nicht deutsch gesprochen,%,K032,18.5709617688705
 2017,Celle,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03351,10.7709538921038
 2017,Cuxhaven,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03352,9.51156812339332
 2017,Harburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03353,10.6163163519772
@@ -863,7 +863,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2017,Stade,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03359,10.8235677083333
 2017,Uelzen,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03360,8.62728431789205
 2017,Verden,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03361,12.2595596755504
-2017,Stat. Region Lüneburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K033,10.3148519087532
+2017,Statistische Region Lüneburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K033,10.3148519087532
 2017,Delmenhorst  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03401,32.7995867768595
 2017,Emden  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03402,17.9194630872483
 2017,Oldenburg(Oldb)  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03403,17.2008945210585
@@ -881,7 +881,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2017,Vechta,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03460,14.6303196705236
 2017,Wesermarsch,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03461,15.1937984496124
 2017,Wittmund,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03462,6.70205706702057
-2017,Stat. Region Weser-Ems,in der Familie wird vorrangig nicht deutsch gesprochen,%,K034,12.370970722564
+2017,Statistische Region Weser-Ems,in der Familie wird vorrangig nicht deutsch gesprochen,%,K034,12.370970722564
 2017,Niedersachsen,in der Familie wird vorrangig nicht deutsch gesprochen,%,K030,13.9646464646465
 2016,Braunschweig  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03101,17.1355152826616
 2016,Salzgitter  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03102,29.4557823129252
@@ -893,7 +893,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2016,Peine,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03157,10.291113381001
 2016,Wolfenbüttel,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03158,7.75058275058275
 2016,Göttingen,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03159,13.7836654258813
-2016,Stat. Region Braunschweig,in der Familie wird vorrangig nicht deutsch gesprochen,%,K031,13.2494842616623
+2016,Statistische Region Braunschweig,in der Familie wird vorrangig nicht deutsch gesprochen,%,K031,13.2494842616623
 2016,Hannover  Region,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03241,21.608596909101
 2016,dav. Hannover  Lhst.,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03241001,29.9923802825157
 2016,dav. Hannover  Umland,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03241999,14.0981885009189
@@ -903,7 +903,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2016,Holzminden,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03255,8.72789503707929
 2016,Nienburg (Weser),in der Familie wird vorrangig nicht deutsch gesprochen,%,K03256,9.69267139479905
 2016,Schaumburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03257,11.3529557259461
-2016,Stat. Region Hannover,in der Familie wird vorrangig nicht deutsch gesprochen,%,K032,17.5189423960942
+2016,Statistische Region Hannover,in der Familie wird vorrangig nicht deutsch gesprochen,%,K032,17.5189423960942
 2016,Celle,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03351,4.97941580082337
 2016,Cuxhaven,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03352,8.27561711951696
 2016,Harburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03353,10.2620622091599
@@ -915,7 +915,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2016,Stade,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03359,8.67167919799499
 2016,Uelzen,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03360,6.78336980306346
 2016,Verden,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03361,11.2156295224313
-2016,Stat. Region Lüneburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K033,8.7119391025641
+2016,Statistische Region Lüneburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K033,8.7119391025641
 2016,Delmenhorst  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03401,31.3089005235602
 2016,Emden  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03402,15.3685674547983
 2016,Oldenburg(Oldb)  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03403,15.5213743507791
@@ -933,7 +933,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2016,Vechta,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03460,15.4242174629325
 2016,Wesermarsch,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03461,12.1725110842402
 2016,Wittmund,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03462,6.63302090843547
-2016,Stat. Region Weser-Ems,in der Familie wird vorrangig nicht deutsch gesprochen,%,K034,11.2033763599989
+2016,Statistische Region Weser-Ems,in der Familie wird vorrangig nicht deutsch gesprochen,%,K034,11.2033763599989
 2016,Niedersachsen,in der Familie wird vorrangig nicht deutsch gesprochen,%,K030,12.788609265791
 2015,Braunschweig  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03101,15.9749625799429
 2015,Salzgitter  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03102,27.0712209302326
@@ -945,7 +945,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2015,Peine,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03157,9.94546870942612
 2015,Wolfenbüttel,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03158,6.81547619047619
 2015,Göttingen,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03159,12.7996432155201
-2015,Stat. Region Braunschweig,in der Familie wird vorrangig nicht deutsch gesprochen,%,K031,12.3449537967963
+2015,Statistische Region Braunschweig,in der Familie wird vorrangig nicht deutsch gesprochen,%,K031,12.3449537967963
 2015,Hannover  Region,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03241,20.8754017235005
 2015,dav. Hannover  Lhst.,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03241001,28.7066059494944
 2015,dav. Hannover  Umland,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03241999,13.6204251588867
@@ -955,7 +955,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2015,Holzminden,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03255,7.55478662053057
 2015,Nienburg (Weser),in der Familie wird vorrangig nicht deutsch gesprochen,%,K03256,8.71685461749467
 2015,Schaumburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03257,11.2640163098879
-2015,Stat. Region Hannover,in der Familie wird vorrangig nicht deutsch gesprochen,%,K032,16.5268524702318
+2015,Statistische Region Hannover,in der Familie wird vorrangig nicht deutsch gesprochen,%,K032,16.5268524702318
 2015,Celle,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03351,5.04780114722753
 2015,Cuxhaven,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03352,8.09174311926606
 2015,Harburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03353,9.20654911838791
@@ -967,7 +967,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2015,Stade,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03359,8.45880561664693
 2015,Uelzen,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03360,4.82514386896857
 2015,Verden,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03361,9.28217821782178
-2015,Stat. Region Lüneburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K033,7.45053565280787
+2015,Statistische Region Lüneburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K033,7.45053565280787
 2015,Delmenhorst  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03401,19.8247535596933
 2015,Emden  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03402,11.7314487632509
 2015,Oldenburg(Oldb)  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03403,15.4888471961643
@@ -985,7 +985,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2015,Vechta,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03460,12.9394632827127
 2015,Wesermarsch,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03461,11.9881806669481
 2015,Wittmund,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03462,7.04032809295967
-2015,Stat. Region Weser-Ems,in der Familie wird vorrangig nicht deutsch gesprochen,%,K034,10.0913725380951
+2015,Statistische Region Weser-Ems,in der Familie wird vorrangig nicht deutsch gesprochen,%,K034,10.0913725380951
 2015,Niedersachsen,in der Familie wird vorrangig nicht deutsch gesprochen,%,K030,11.6980050699879
 2014,Braunschweig  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03101,16.716950082282
 2014,Salzgitter  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03102,25.8867924528302
@@ -997,7 +997,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2014,Peine,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03157,11.4293361884368
 2014,Wolfenbüttel,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03158,7.25806451612903
 2014,Göttingen,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03159,12.6634626131664
-2014,Stat. Region Braunschweig,in der Familie wird vorrangig nicht deutsch gesprochen,%,K031,12.3363671794402
+2014,Statistische Region Braunschweig,in der Familie wird vorrangig nicht deutsch gesprochen,%,K031,12.3363671794402
 2014,Hannover  Region,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03241,19.9848533395474
 2014,dav. Hannover  Lhst.,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03241001,28.1517971173144
 2014,dav. Hannover  Umland,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03241999,12.4776386404293
@@ -1007,7 +1007,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2014,Holzminden,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03255,7.62016412661196
 2014,Nienburg (Weser),in der Familie wird vorrangig nicht deutsch gesprochen,%,K03256,9.79064039408867
 2014,Schaumburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03257,9.02332735196104
-2014,Stat. Region Hannover,in der Familie wird vorrangig nicht deutsch gesprochen,%,K032,15.8834214002642
+2014,Statistische Region Hannover,in der Familie wird vorrangig nicht deutsch gesprochen,%,K032,15.8834214002642
 2014,Celle,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03351,8.70056497175141
 2014,Cuxhaven,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03352,6.9620253164557
 2014,Harburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03353,9.02670775552131
@@ -1019,7 +1019,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2014,Stade,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03359,7.68555886997719
 2014,Uelzen,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03360,4.46780551905388
 2014,Verden,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03361,9.004263857537
-2014,Stat. Region Lüneburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K033,7.63853402285224
+2014,Statistische Region Lüneburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K033,7.63853402285224
 2014,Delmenhorst  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03401,21.0674157303371
 2014,Emden  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03402,9.55180014695077
 2014,Oldenburg(Oldb)  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03403,8.5793162030155
@@ -1037,7 +1037,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2014,Vechta,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03460,13.7662883564523
 2014,Wesermarsch,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03461,10.1039501039501
 2014,Wittmund,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03462,6.68449197860963
-2014,Stat. Region Weser-Ems,in der Familie wird vorrangig nicht deutsch gesprochen,%,K034,10.001127205095
+2014,Statistische Region Weser-Ems,in der Familie wird vorrangig nicht deutsch gesprochen,%,K034,10.001127205095
 2014,Niedersachsen,in der Familie wird vorrangig nicht deutsch gesprochen,%,K030,11.5296732329498
 2013,Braunschweig  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03101,16.5308498253783
 2013,Salzgitter  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03102,24.5593869731801
@@ -1049,7 +1049,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2013,Peine,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03157,11.7200217037439
 2013,Wolfenbüttel,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03158,7.38946093276802
 2013,Göttingen,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03159,12.0764359515609
-2013,Stat. Region Braunschweig,in der Familie wird vorrangig nicht deutsch gesprochen,%,K031,11.9792635298494
+2013,Statistische Region Braunschweig,in der Familie wird vorrangig nicht deutsch gesprochen,%,K031,11.9792635298494
 2013,Hannover  Region,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03241,19.7904964323668
 2013,dav. Hannover  Lhst.,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03241001,28.6735350933677
 2013,dav. Hannover  Umland,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03241999,11.864406779661
@@ -1059,7 +1059,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2013,Holzminden,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03255,7.70156438026474
 2013,Nienburg (Weser),in der Familie wird vorrangig nicht deutsch gesprochen,%,K03256,8.65653118212845
 2013,Schaumburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03257,8.34186284544524
-2013,Stat. Region Hannover,in der Familie wird vorrangig nicht deutsch gesprochen,%,K032,15.5687606112054
+2013,Statistische Region Hannover,in der Familie wird vorrangig nicht deutsch gesprochen,%,K032,15.5687606112054
 2013,Celle,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03351,4.58821270877328
 2013,Cuxhaven,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03352,6.88230008984726
 2013,Harburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03353,9.0532227868414
@@ -1071,7 +1071,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2013,Stade,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03359,7.57411424439624
 2013,Uelzen,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03360,5.4421768707483
 2013,Verden,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03361,10.5263157894737
-2013,Stat. Region Lüneburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K033,7.30963618896454
+2013,Statistische Region Lüneburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K033,7.30963618896454
 2013,Delmenhorst  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03401,16.2192393736018
 2013,Emden  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03402,10.2086438152012
 2013,Oldenburg(Oldb)  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03403,14.1455972101133
@@ -1089,7 +1089,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2013,Vechta,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03460,15.0890143291359
 2013,Wesermarsch,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03461,10.0524828421478
 2013,Wittmund,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03462,2.36728837876614
-2013,Stat. Region Weser-Ems,in der Familie wird vorrangig nicht deutsch gesprochen,%,K034,10.7088880892407
+2013,Statistische Region Weser-Ems,in der Familie wird vorrangig nicht deutsch gesprochen,%,K034,10.7088880892407
 2013,Niedersachsen,in der Familie wird vorrangig nicht deutsch gesprochen,%,K030,11.5212543267981
 2012,Braunschweig  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03101,14.8389968838107
 2012,Salzgitter  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03102,30.4115853658537
@@ -1101,7 +1101,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2012,Peine,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03157,9.11098840419658
 2012,Wolfenbüttel,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03158,6.56335460346399
 2012,Göttingen,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03159,13.3123454013942
-2012,Stat. Region Braunschweig,in der Familie wird vorrangig nicht deutsch gesprochen,%,K031,12.4111304675361
+2012,Statistische Region Braunschweig,in der Familie wird vorrangig nicht deutsch gesprochen,%,K031,12.4111304675361
 2012,Hannover  Region,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03241,19.8810746863423
 2012,dav. Hannover  Lhst.,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03241001,28.501032163548
 2012,dav. Hannover  Umland,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03241999,12.3129092609916
@@ -1111,7 +1111,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2012,Holzminden,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03255,9.92135511191773
 2012,Nienburg (Weser),in der Familie wird vorrangig nicht deutsch gesprochen,%,K03256,8.60927152317881
 2012,Schaumburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03257,8.66581956797967
-2012,Stat. Region Hannover,in der Familie wird vorrangig nicht deutsch gesprochen,%,K032,15.5392641120297
+2012,Statistische Region Hannover,in der Familie wird vorrangig nicht deutsch gesprochen,%,K032,15.5392641120297
 2012,Celle,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03351,6.36904761904762
 2012,Cuxhaven,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03352,6.67396061269147
 2012,Harburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03353,8.07253190060443
@@ -1123,7 +1123,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2012,Stade,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03359,9.97012696041822
 2012,Uelzen,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03360,5.10026155187446
 2012,Verden,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03361,11.9470198675497
-2012,Stat. Region Lüneburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K033,7.66026186022785
+2012,Statistische Region Lüneburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K033,7.66026186022785
 2012,Delmenhorst  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03401,21.5211267605634
 2012,Emden  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03402,12.3065015479876
 2012,Oldenburg(Oldb)  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03403,15.7579787234043
@@ -1141,7 +1141,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2012,Vechta,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03460,15.0727192595857
 2012,Wesermarsch,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03461,11.6508851379168
 2012,Wittmund,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03462,6.1527057079318
-2012,Stat. Region Weser-Ems,in der Familie wird vorrangig nicht deutsch gesprochen,%,K034,11.5810556079171
+2012,Statistische Region Weser-Ems,in der Familie wird vorrangig nicht deutsch gesprochen,%,K034,11.5810556079171
 2012,Niedersachsen,in der Familie wird vorrangig nicht deutsch gesprochen,%,K030,11.949109604005
 2011,Braunschweig  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03101,13.9094121426277
 2011,Salzgitter  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03102,25.92
@@ -1153,7 +1153,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2011,Peine,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03157,9.58344677375442
 2011,Wolfenbüttel,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03158,5.75127973501957
 2011,Göttingen,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03159,11.2580496780129
-2011,Stat. Region Braunschweig,in der Familie wird vorrangig nicht deutsch gesprochen,%,K031,11.0587205910947
+2011,Statistische Region Braunschweig,in der Familie wird vorrangig nicht deutsch gesprochen,%,K031,11.0587205910947
 2011,Hannover  Region,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03241,21.0009086931646
 2011,dav. Hannover  Lhst.,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03241001,29.9145923060077
 2011,dav. Hannover  Umland,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03241999,13.3757961783439
@@ -1163,7 +1163,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2011,Holzminden,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03255,14.0210006176652
 2011,Nienburg (Weser),in der Familie wird vorrangig nicht deutsch gesprochen,%,K03256,9.28753180661578
 2011,Schaumburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03257,8.6497359818959
-2011,Stat. Region Hannover,in der Familie wird vorrangig nicht deutsch gesprochen,%,K032,15.9951429517607
+2011,Statistische Region Hannover,in der Familie wird vorrangig nicht deutsch gesprochen,%,K032,15.9951429517607
 2011,Celle,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03351,9.48118006103764
 2011,Cuxhaven,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03352,7.53749762673249
 2011,Harburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03353,8.55907780979827
@@ -1175,7 +1175,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2011,Stade,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03359,8.90664587799649
 2011,Uelzen,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03360,5.54303740423614
 2011,Verden,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03361,11.0469909315746
-2011,Stat. Region Lüneburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K033,8.24271566270375
+2011,Statistische Region Lüneburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K033,8.24271566270375
 2011,Delmenhorst  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03401,24.8422260470453
 2011,Emden  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03402,10.3256552819698
 2011,Oldenburg(Oldb)  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03403,16.2588611936885
@@ -1193,7 +1193,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2011,Vechta,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03460,14.506101772968
 2011,Wesermarsch,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03461,10.3129131776113
 2011,Wittmund,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03462,5.58912386706949
-2011,Stat. Region Weser-Ems,in der Familie wird vorrangig nicht deutsch gesprochen,%,K034,11.2947658402204
+2011,Statistische Region Weser-Ems,in der Familie wird vorrangig nicht deutsch gesprochen,%,K034,11.2947658402204
 2011,Niedersachsen,in der Familie wird vorrangig nicht deutsch gesprochen,%,K030,11.8166093327891
 2010,Braunschweig  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03101,13.9094121426277
 2010,Salzgitter  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03102,25.92
@@ -1205,7 +1205,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2010,Peine,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03157,9.58344677375442
 2010,Wolfenbüttel,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03158,5.75127973501957
 2010,Göttingen,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03159,11.2580496780129
-2010,Stat. Region Braunschweig,in der Familie wird vorrangig nicht deutsch gesprochen,%,K031,11.0587205910947
+2010,Statistische Region Braunschweig,in der Familie wird vorrangig nicht deutsch gesprochen,%,K031,11.0587205910947
 2010,Hannover  Region,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03241,21.0009086931646
 2010,dav. Hannover  Lhst.,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03241001,29.9145923060077
 2010,dav. Hannover  Umland,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03241999,13.3757961783439
@@ -1215,7 +1215,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2010,Holzminden,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03255,14.0210006176652
 2010,Nienburg (Weser),in der Familie wird vorrangig nicht deutsch gesprochen,%,K03256,9.28753180661578
 2010,Schaumburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03257,8.6497359818959
-2010,Stat. Region Hannover,in der Familie wird vorrangig nicht deutsch gesprochen,%,K032,15.9951429517607
+2010,Statistische Region Hannover,in der Familie wird vorrangig nicht deutsch gesprochen,%,K032,15.9951429517607
 2010,Celle,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03351,9.48118006103764
 2010,Cuxhaven,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03352,7.53749762673249
 2010,Harburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03353,8.55907780979827
@@ -1227,7 +1227,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2010,Stade,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03359,8.90664587799649
 2010,Uelzen,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03360,5.54303740423614
 2010,Verden,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03361,11.0469909315746
-2010,Stat. Region Lüneburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K033,8.24271566270375
+2010,Statistische Region Lüneburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K033,8.24271566270375
 2010,Delmenhorst  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03401,24.8422260470453
 2010,Emden  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03402,10.3256552819698
 2010,Oldenburg(Oldb)  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03403,16.2588611936885
@@ -1245,7 +1245,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2010,Vechta,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03460,14.506101772968
 2010,Wesermarsch,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03461,10.3129131776113
 2010,Wittmund,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03462,5.58912386706949
-2010,Stat. Region Weser-Ems,in der Familie wird vorrangig nicht deutsch gesprochen,%,K034,11.2947658402204
+2010,Statistische Region Weser-Ems,in der Familie wird vorrangig nicht deutsch gesprochen,%,K034,11.2947658402204
 2010,Niedersachsen,in der Familie wird vorrangig nicht deutsch gesprochen,%,K030,11.8166093327891
 2009,Braunschweig  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03101,13.3817427385892
 2009,Salzgitter  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03102,26.0065735414955
@@ -1257,7 +1257,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2009,Peine,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03157,11.0210696920583
 2009,Wolfenbüttel,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03158,6.29730547986679
 2009,Göttingen,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03159,11.3866573524275
-2009,Stat. Region Braunschweig,in der Familie wird vorrangig nicht deutsch gesprochen,%,K031,11.547764506396
+2009,Statistische Region Braunschweig,in der Familie wird vorrangig nicht deutsch gesprochen,%,K031,11.547764506396
 2009,Hannover  Region,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03241,19.8502512906424
 2009,dav. Hannover  Lhst.,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03241001,28.9998489197764
 2009,dav. Hannover  Umland,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03241999,12.2853038536007
@@ -1267,7 +1267,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2009,Holzminden,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03255,11.3076437144662
 2009,Nienburg (Weser),in der Familie wird vorrangig nicht deutsch gesprochen,%,K03256,8.13143046797212
 2009,Schaumburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03257,7.90015440041173
-2009,Stat. Region Hannover,in der Familie wird vorrangig nicht deutsch gesprochen,%,K032,15.0277572168764
+2009,Statistische Region Hannover,in der Familie wird vorrangig nicht deutsch gesprochen,%,K032,15.0277572168764
 2009,Celle,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03351,8.16745331418018
 2009,Cuxhaven,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03352,8.16869300911854
 2009,Harburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03353,8.38296605122096
@@ -1279,7 +1279,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2009,Stade,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03359,8.88339357047746
 2009,Uelzen,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03360,5.23724261414503
 2009,Verden,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03361,10.1856908793009
-2009,Stat. Region Lüneburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K033,8.06852417918325
+2009,Statistische Region Lüneburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K033,8.06852417918325
 2009,Delmenhorst  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03401,23.5428571428571
 2009,Emden  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03402,10.958904109589
 2009,Oldenburg(Oldb)  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03403,15.5582524271845
@@ -1297,7 +1297,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2009,Vechta,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03460,14.4325081737506
 2009,Wesermarsch,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03461,8.84413309982487
 2009,Wittmund,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03462,7.04119850187266
-2009,Stat. Region Weser-Ems,in der Familie wird vorrangig nicht deutsch gesprochen,%,K034,10.6376676021204
+2009,Statistische Region Weser-Ems,in der Familie wird vorrangig nicht deutsch gesprochen,%,K034,10.6376676021204
 2009,Niedersachsen,in der Familie wird vorrangig nicht deutsch gesprochen,%,K030,11.4077622254069
 2008,Braunschweig  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03101,14.6003552397869
 2008,Salzgitter  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03102,23.2921810699588
@@ -1309,7 +1309,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2008,Peine,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03157,11.7529880478088
 2008,Wolfenbüttel,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03158,6.11685940353013
 2008,Göttingen,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03159,10.6537247105602
-2008,Stat. Region Braunschweig,in der Familie wird vorrangig nicht deutsch gesprochen,%,K031,11.1535178024406
+2008,Statistische Region Braunschweig,in der Familie wird vorrangig nicht deutsch gesprochen,%,K031,11.1535178024406
 2008,Hannover  Region,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03241,18.2707478699905
 2008,dav. Hannover  Lhst.,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03241001,27.0738233905242
 2008,dav. Hannover  Umland,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03241999,11.1982295289282
@@ -1319,7 +1319,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2008,Holzminden,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03255,8.72127283441367
 2008,Nienburg (Weser),in der Familie wird vorrangig nicht deutsch gesprochen,%,K03256,8.69713506139154
 2008,Schaumburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03257,8.96517658681156
-2008,Stat. Region Hannover,in der Familie wird vorrangig nicht deutsch gesprochen,%,K032,14.2041958041958
+2008,Statistische Region Hannover,in der Familie wird vorrangig nicht deutsch gesprochen,%,K032,14.2041958041958
 2008,Celle,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03351,10.9821798590966
 2008,Cuxhaven,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03352,7.62614678899083
 2008,Harburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03353,7.39201424966602
@@ -1331,7 +1331,7 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2008,Stade,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03359,8.19884993507698
 2008,Uelzen,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03360,4.0905134899913
 2008,Verden,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03361,10.6219823913661
-2008,Stat. Region Lüneburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K033,8.007200480032
+2008,Statistische Region Lüneburg,in der Familie wird vorrangig nicht deutsch gesprochen,%,K033,8.007200480032
 2008,Delmenhorst  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03401,23.6784140969163
 2008,Emden  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03402,11.44
 2008,Oldenburg(Oldb)  Stadt,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03403,15.1857429718875
@@ -1349,5 +1349,5 @@ Year,Gebietseinheit,Kinderbetreuung,Units,GeoCode,Value
 2008,Vechta,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03460,14.9065420560748
 2008,Wesermarsch,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03461,9.06395595086828
 2008,Wittmund,in der Familie wird vorrangig nicht deutsch gesprochen,%,K03462,3.64854802680566
-2008,Stat. Region Weser-Ems,in der Familie wird vorrangig nicht deutsch gesprochen,%,K034,10.3460295329235
+2008,Statistische Region Weser-Ems,in der Familie wird vorrangig nicht deutsch gesprochen,%,K034,10.3460295329235
 2008,Niedersachsen,in der Familie wird vorrangig nicht deutsch gesprochen,%,K030,11.0099025619654
