@@ -2195,7 +2195,7 @@
             "title": "Altersgruppe"
           },
           {
-            "name": "Units",
+            "name": "units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2204,7 +2204,7 @@
                 ""
               ]
             },
-            "title": "Units"
+            "title": "units"
           },
           {
             "name": "Geschlecht",
