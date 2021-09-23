@@ -88,7 +88,7 @@
             }
           },
           {
-            "name": "Nationalität",
+            "name": "Nationalität/Geschlecht",
             "type": "string",
             "constraints": {
               "enum": [

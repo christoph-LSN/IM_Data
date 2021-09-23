@@ -2631,7 +2631,7 @@
             "title": "Wanderung"
           },
           {
-            "name": "Nationalität",
+            "name": "Nationalität/Geschlecht",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2643,7 +2643,7 @@
                 ""
               ]
             },
-            "title": "Nationalität"
+            "title": "Nationalität/Geschlecht"
           },
           {
             "name": "Units",
