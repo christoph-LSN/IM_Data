@@ -16,17 +16,46 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Kategorie",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                "G",
+                "Zuzüge",
+                "Fortzüge",
+                "Saldo",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Kategorie"
+          },
+          {
+            "name": "Altersgruppe",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "0 - 5",
+                "5 - 15",
+                "15 - 20",
+                "20 - 40",
+                "40 - 65",
+                "65 - 80",
+                "80 u.ä.",
+                ""
+              ]
+            },
+            "title": "Altersgruppe"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Anzahl",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
