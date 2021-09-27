@@ -1,4 +1,449 @@
-Year,Grade,Planet,Fruit,Value
-2010,,,,15.15
-2011,,,,16.3583
-2012,,,,16.2244
+Year,Land der Staatsabgehörigkeit,Value
+2005,Europa insgesamt,7178
+2005,Griechenland,71
+2005,Italien,71
+2005,Kosovo,x
+2005,Polen,914
+2005,Rumänien,72
+2005,Russische Föderation,496
+2005,Serbien 1),1630
+2005,Türkei,2897
+2005,Ukraine,322
+2005,Vereinigtes Königreich GB Nordirland,50
+2005,EU Staaten,1533
+2005,Afrika insgesamt,568
+2005,Tunesien,111
+2005,Amerika insgesamt,213
+2005,Asien insgesamt,2704
+2005,Afganistan,236
+2005,Libanon,395
+2005,Indien,52
+2005,Irak,516
+2005,Iran Islamische Republik,348
+2005,Pakistan,87
+2005,Syrien Arabische Republik,171
+2005,Vietnam,137
+2005,Australien und Ozeanien,1
+2005,Sonstige Ziele,222
+2005,staatenlos,150
+2005,Insgesamt,10886
+2006,Europa insgesamt,7567
+2006,Griechenland,96
+2006,Italien,85
+2006,Kosovo,x
+2006,Polen,864
+2006,Rumänien,90
+2006,Russische Föderation,475
+2006,Serbien 1),1800
+2006,Türkei,2944
+2006,Ukraine,492
+2006,Vereinigtes Königreich GB Nordirland,41
+2006,EU Staaten,1534
+2006,Afrika insgesamt,525
+2006,Tunesien,81
+2006,Amerika insgesamt,250
+2006,Asien insgesamt,2851
+2006,Afganistan,227
+2006,Libanon,454
+2006,Indien,44
+2006,Irak,251
+2006,Iran Islamische Republik,386
+2006,Pakistan,76
+2006,Syrien Arabische Republik,183
+2006,Vietnam,160
+2006,Australien und Ozeanien,2
+2006,Sonstige Ziele,246
+2006,staatenlos,171
+2006,Insgesamt,11441
+2007,Europa insgesamt,5866
+2007,Griechenland,109
+2007,Italien,70
+2007,Kosovo,x
+2007,Polen,583
+2007,Rumänien,209
+2007,Russische Föderation,405
+2007,Serbien 1),1198
+2007,Türkei,2162
+2007,Ukraine,493
+2007,Vereinigtes Königreich GB Nordirland,36
+2007,EU Staaten,1289
+2007,Afrika insgesamt,521
+2007,Tunesien,112
+2007,Amerika insgesamt,266
+2007,Asien insgesamt,2375
+2007,Afganistan,230
+2007,Libanon,377
+2007,Indien,33
+2007,Irak,286
+2007,Iran Islamische Republik,362
+2007,Pakistan,46
+2007,Syrien Arabische Republik,210
+2007,Vietnam,158
+2007,Australien und Ozeanien,1
+2007,Sonstige Ziele,222
+2007,staatenlos,136
+2007,Insgesamt,9251
+2008,Europa insgesamt,4488
+2008,Griechenland,98
+2008,Italien,88
+2008,Kosovo,x
+2008,Polen,548
+2008,Rumänien,124
+2008,Russische Föderation,188
+2008,Serbien 1),540
+2008,Türkei,2020
+2008,Ukraine,185
+2008,Vereinigtes Königreich GB Nordirland,39
+2008,EU Staaten,1232
+2008,Afrika insgesamt,564
+2008,Tunesien,76
+2008,Amerika insgesamt,233
+2008,Asien insgesamt,2272
+2008,Afganistan,219
+2008,Libanon,367
+2008,Indien,38
+2008,Irak,306
+2008,Iran Islamische Republik,303
+2008,Pakistan,52
+2008,Syrien Arabische Republik,208
+2008,Vietnam,110
+2008,Australien und Ozeanien,0
+2008,Sonstige Ziele,147
+2008,staatenlos,99
+2008,Insgesamt,7704
+2009,Europa insgesamt,3947
+2009,Griechenland,69
+2009,Italien,53
+2009,Kosovo,34
+2009,Polen,434
+2009,Rumänien,119
+2009,Russische Föderation,257
+2009,Serbien 1),109
+2009,Türkei,2170
+2009,Ukraine,143
+2009,Vereinigtes Königreich GB Nordirland,24
+2009,EU Staaten,1017
+2009,Afrika insgesamt,542
+2009,Tunesien,73
+2009,Amerika insgesamt,211
+2009,Asien insgesamt,2338
+2009,Afganistan,210
+2009,Libanon,335
+2009,Indien,34
+2009,Irak,361
+2009,Iran Islamische Republik,323
+2009,Pakistan,67
+2009,Syrien Arabische Republik,225
+2009,Vietnam,227
+2009,Australien und Ozeanien,1
+2009,Sonstige Ziele,184
+2009,staatenlos,125
+2009,Insgesamt,7223
+2010,Europa insgesamt,4205
+2010,Griechenland,72
+2010,Italien,52
+2010,Kosovo,170
+2010,Polen,422
+2010,Rumänien,136
+2010,Russische Föderation,304
+2010,Serbien 1),187
+2010,Türkei,1892
+2010,Ukraine,268
+2010,Vereinigtes Königreich GB Nordirland,21
+2010,EU Staaten,1165
+2010,Afrika insgesamt,489
+2010,Tunesien,89
+2010,Amerika insgesamt,225
+2010,Asien insgesamt,2290
+2010,Afganistan,161
+2010,Libanon,295
+2010,Indien,41
+2010,Irak,392
+2010,Iran Islamische Republik,245
+2010,Pakistan,33
+2010,Syrien Arabische Republik,219
+2010,Vietnam,280
+2010,Australien und Ozeanien,2
+2010,Sonstige Ziele,152
+2010,staatenlos,125
+2010,Insgesamt,7363
+2011,Europa insgesamt,4595
+2011,Griechenland,126
+2011,Italien,77
+2011,Kosovo,221
+2011,Polen,477
+2011,Rumänien,132
+2011,Russische Föderation,283
+2011,Serbien 1),258
+2011,Türkei,2010
+2011,Ukraine,380
+2011,Vereinigtes Königreich GB Nordirland,28
+2011,EU Staaten,1263
+2011,Afrika insgesamt,599
+2011,Tunesien,96
+2011,Amerika insgesamt,211
+2011,Asien insgesamt,2443
+2011,Afganistan,124
+2011,Libanon,240
+2011,Indien,44
+2011,Irak,434
+2011,Iran Islamische Republik,255
+2011,Pakistan,47
+2011,Syrien Arabische Republik,219
+2011,Vietnam,419
+2011,Australien und Ozeanien,3
+2011,Sonstige Ziele,144
+2011,staatenlos,99
+2011,Insgesamt,7995
+2012,Europa insgesamt,5096
+2012,Griechenland,344
+2012,Italien,89
+2012,Kosovo,181
+2012,Polen,518
+2012,Rumänien,81
+2012,Russische Föderation,299
+2012,Serbien 1),225
+2012,Türkei,2361
+2012,Ukraine,325
+2012,Vereinigtes Königreich GB Nordirland,20
+2012,EU Staaten,1482
+2012,Afrika insgesamt,596
+2012,Tunesien,110
+2012,Amerika insgesamt,211
+2012,Asien insgesamt,2488
+2012,Afganistan,121
+2012,Libanon,209
+2012,Indien,64
+2012,Irak,273
+2012,Iran Islamische Republik,227
+2012,Pakistan,49
+2012,Syrien Arabische Republik,208
+2012,Vietnam,667
+2012,Australien und Ozeanien,2
+2012,Sonstige Ziele,133
+2012,staatenlos,117
+2012,Insgesamt,8526
+2013,Europa insgesamt,4900
+2013,Griechenland,231
+2013,Italien,114
+2013,Kosovo,222
+2013,Polen,655
+2013,Rumänien,115
+2013,Russische Föderation,245
+2013,Serbien 1),215
+2013,Türkei,1864
+2013,Ukraine,382
+2013,Vereinigtes Königreich GB Nordirland,55
+2013,EU Staaten,1739
+2013,Afrika insgesamt,589
+2013,Tunesien,111
+2013,Amerika insgesamt,228
+2013,Asien insgesamt,2348
+2013,Afganistan,129
+2013,Libanon,243
+2013,Indien,61
+2013,Irak,326
+2013,Iran Islamische Republik,227
+2013,Pakistan,40
+2013,Syrien Arabische Republik,247
+2013,Vietnam,387
+2013,Australien und Ozeanien,1
+2013,Sonstige Ziele,150
+2013,staatenlos,113
+2013,Insgesamt,8216
+2014,Europa insgesamt,4399
+2014,Griechenland,195
+2014,Italien,128
+2014,Kosovo,216
+2014,Polen,576
+2014,Rumänien,113
+2014,Russische Föderation,251
+2014,Serbien 1),174
+2014,Türkei,1657
+2014,Ukraine,148
+2014,Vereinigtes Königreich GB Nordirland,64
+2014,EU Staaten,1769
+2014,Afrika insgesamt,596
+2014,Tunesien,119
+2014,Amerika insgesamt,256
+2014,Asien insgesamt,2364
+2014,Afganistan,129
+2014,Libanon,254
+2014,Indien,63
+2014,Irak,317
+2014,Iran Islamische Republik,262
+2014,Pakistan,61
+2014,Syrien Arabische Republik,300
+2014,Vietnam,277
+2014,Australien und Ozeanien,0
+2014,Sonstige Ziele,107
+2014,staatenlos,83
+2014,Insgesamt,7722
+2015,Europa insgesamt,4598
+2015,Griechenland,191
+2015,Italien,139
+2015,Kosovo,242
+2015,Polen,559
+2015,Rumänien,156
+2015,Russische Föderation,168
+2015,Serbien 1),162
+2015,Türkei,1709
+2015,Ukraine,328
+2015,Vereinigtes Königreich GB Nordirland,63
+2015,EU Staaten,1765
+2015,Afrika insgesamt,625
+2015,Tunesien,112
+2015,Amerika insgesamt,260
+2015,Asien insgesamt,2392
+2015,Afganistan,129
+2015,Libanon,259
+2015,Indien,65
+2015,Irak,313
+2015,Iran Islamische Republik,221
+2015,Pakistan,66
+2015,Syrien Arabische Republik,398
+2015,Vietnam,266
+2015,Australien und Ozeanien,1
+2015,Sonstige Ziele,112
+2015,staatenlos,80
+2015,Insgesamt,7988
+2016,Europa insgesamt,4880
+2016,Griechenland,222
+2016,Italien,160
+2016,Kosovo,215
+2016,Polen,650
+2016,Rumänien,193
+2016,Russische Föderation,225
+2016,Serbien 1),214
+2016,Türkei,1278
+2016,Ukraine,449
+2016,Vereinigtes Königreich GB Nordirland,295
+2016,EU Staaten,2262
+2016,Afrika insgesamt,647
+2016,Tunesien,134
+2016,Amerika insgesamt,270
+2016,Asien insgesamt,2614
+2016,Afganistan,150
+2016,Libanon,303
+2016,Indien,96
+2016,Irak,430
+2016,Iran Islamische Republik,255
+2016,Pakistan,77
+2016,Syrien Arabische Republik,368
+2016,Vietnam,265
+2016,Australien und Ozeanien,0
+2016,Sonstige Ziele,108
+2016,staatenlos,70
+2016,Insgesamt,8519
+2017,Europa insgesamt,5044
+2017,Griechenland,224
+2017,Italien,226
+2017,Kosovo,247
+2017,Polen,664
+2017,Rumänien,241
+2017,Russische Föderation,157
+2017,Serbien 1),142
+2017,Türkei,1208
+2017,Ukraine,238
+2017,Vereinigtes Königreich GB Nordirland,672
+2017,EU Staaten,2787
+2017,Afrika insgesamt,673
+2017,Tunesien,108
+2017,Amerika insgesamt,296
+2017,Asien insgesamt,2599
+2017,Afganistan,158
+2017,Libanon,238
+2017,Indien,103
+2017,Irak,403
+2017,Iran Islamische Republik,260
+2017,Pakistan,60
+2017,Syrien Arabische Republik,444
+2017,Vietnam,259
+2017,Australien und Ozeanien,2
+2017,Sonstige Ziele,171
+2017,staatenlos,138
+2017,Insgesamt,8785
+2018,Europa insgesamt,4743
+2018,Griechenland,206
+2018,Italien,199
+2018,Kosovo,217
+2018,Polen,598
+2018,Rumänien,239
+2018,Russische Föderation,132
+2018,Serbien 1),254
+2018,Türkei,1185
+2018,Ukraine,180
+2018,Vereinigtes Königreich GB Nordirland,582
+2018,EU Staaten,2501
+2018,Afrika insgesamt,658
+2018,Tunesien,119
+2018,Amerika insgesamt,247
+2018,Asien insgesamt,2694
+2018,Afganistan,131
+2018,Libanon,233
+2018,Indien,73
+2018,Irak,389
+2018,Iran Islamische Republik,243
+2018,Pakistan,57
+2018,Syrien Arabische Republik,664
+2018,Vietnam,290
+2018,Australien und Ozeanien,1
+2018,Sonstige Ziele,127
+2018,staatenlos,104
+2018,Insgesamt,8470
+2019,Europa insgesamt,6722
+2019,Griechenland,157
+2019,Italien,170
+2019,Kosovo,188
+2019,Polen,644
+2019,Rumänien,337
+2019,Russische Föderation,149
+2019,Serbien 1),275
+2019,Türkei,1331
+2019,Ukraine,303
+2019,Vereinigtes Königreich GB Nordirland,2217
+2019,EU Staaten,4241
+2019,Afrika insgesamt,661
+2019,Tunesien,124
+2019,Amerika insgesamt,288
+2019,Asien insgesamt,3120
+2019,Afganistan,167
+2019,Libanon,209
+2019,Indien,157
+2019,Irak,465
+2019,Iran Islamische Republik,308
+2019,Pakistan,77
+2019,Syrien Arabische Republik,857
+2019,Vietnam,224
+2019,Australien und Ozeanien,3
+2019,Sonstige Ziele,137
+2019,staatenlos,115
+2019,Insgesamt,10932
+2020,Europa insgesamt,4041
+2020,Griechenland,127
+2020,Italien,153
+2020,Kosovo,171
+2020,Polen,572
+2020,Rumänien,369
+2020,Russische Föderation,131
+2020,Serbien 1),268
+2020,Türkei,783
+2020,Ukraine,164
+2020,Vereinigtes Königreich GB Nordirland,441
+2020,EU Staaten,2376
+2020,Afrika insgesamt,744
+2020,Tunesien,150
+2020,Amerika insgesamt,272
+2020,Asien insgesamt,3645
+2020,Afganistan,184
+2020,Libanon,194
+2020,Indien,117
+2020,Irak,477
+2020,Iran Islamische Republik,336
+2020,Pakistan,120
+2020,Syrien Arabische Republik,1414
+2020,Vietnam,199
+2020,Australien und Ozeanien,5
+2020,Sonstige Ziele,171
+2020,staatenlos,146
+2020,Insgesamt,8878

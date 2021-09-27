@@ -277,35 +277,45 @@
             "type": "integer"
           },
           {
-            "name": "Grade",
-            "type": "number",
+            "name": "Land der Staatsabgehörigkeit",
+            "type": "string",
             "constraints": {
               "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Planet",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Fruit",
-            "type": "number",
-            "constraints": {
-              "enum": [
+                "Europa insgesamt",
+                "Griechenland",
+                "Italien",
+                "Kosovo",
+                "Polen",
+                "Rumänien",
+                "Russische Föderation",
+                "Serbien 1)",
+                "Türkei",
+                "Ukraine",
+                "Vereinigtes Königreich GB Nordirland",
+                "EU Staaten",
+                "Afrika insgesamt",
+                "Tunesien",
+                "Amerika insgesamt",
+                "Asien insgesamt",
+                "Afganistan",
+                "Libanon",
+                "Indien",
+                "Irak",
+                "Iran Islamische Republik",
+                "Pakistan",
+                "Syrien Arabische Republik",
+                "Vietnam",
+                "Australien und Ozeanien",
+                "Sonstige Ziele",
+                "staatenlos",
+                "Insgesamt",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       },
