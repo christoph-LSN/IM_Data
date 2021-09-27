@@ -27,7 +27,7 @@
                 "Polen",
                 "Rumänien",
                 "Russische Föderation",
-                "Serbien 1)",
+                "Serbien 2)",
                 "Türkei",
                 "Ukraine",
                 "Vereinigtes Königreich GB Nordirland",
@@ -55,7 +55,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
