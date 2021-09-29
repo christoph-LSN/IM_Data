@@ -105,6 +105,11 @@
             "title": "Units"
           },
           {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -115,5 +120,5 @@
   ],
   "profile": "data-package",
   "name": "1-2-4",
-  "title": "Ausländerinnen und Ausländer in Niedersachsen nach ausgewählten Staatsangehörigkeiten (A4)"
+  "title": "Ausländerinnen und Ausländer in Niedersachsen nach ausgewählten Staatsangehörigkeiten"
 }

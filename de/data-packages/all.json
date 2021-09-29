@@ -1436,13 +1436,18 @@
             "title": "Units"
           },
           {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           }
         ]
       },
-      "title": "Ausländerinnen und Ausländer in Niedersachsen nach ausgewählten Staatsangehörigkeiten (A4)"
+      "title": "Ausländerinnen und Ausländer in Niedersachsen nach ausgewählten Staatsangehörigkeiten"
     },
     {
       "path": "8-1-1/data.csv",
@@ -3645,7 +3650,7 @@
           }
         ]
       },
-      "title": "Einbürgerungen nach Niedersachsen (A15)"
+      "title": "Einbürgerungen nach Niedersachsen"
     },
     {
       "path": "2-2-1/data.csv",
