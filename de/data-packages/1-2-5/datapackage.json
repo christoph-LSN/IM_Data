@@ -335,16 +335,6 @@
             "title": "Ausländerinnen und Ausländer"
           },
           {
-            "name": "Geschlecht",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Geschlecht"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
