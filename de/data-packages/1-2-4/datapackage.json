@@ -20,8 +20,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Niedersachsen",
-                "Stat. Region Braunschweig",
                 "Braunschweig  Stadt",
                 "Salzgitter  Stadt",
                 "Wolfsburg  Stadt",
@@ -32,7 +30,7 @@
                 "Peine",
                 "Wolfenbüttel",
                 "Göttingen",
-                "Stat. Region Hannover",
+                "Statistische Region Braunschweig",
                 "Hannover  Region",
                 "dav. Hannover  Lhst.",
                 "dav. Hannover  Umland",
@@ -42,7 +40,7 @@
                 "Holzminden",
                 "Nienburg (Weser)",
                 "Schaumburg",
-                "Stat. Region Lüneburg",
+                "Statistische Region Hannover",
                 "Celle",
                 "Cuxhaven",
                 "Harburg",
@@ -54,7 +52,7 @@
                 "Stade",
                 "Uelzen",
                 "Verden",
-                "Stat. Region Weser-Ems",
+                "Statistische Region Lüneburg",
                 "Delmenhorst  Stadt",
                 "Emden  Stadt",
                 "Oldenburg(Oldb)  Stadt",
@@ -72,31 +70,39 @@
                 "Vechta",
                 "Wesermarsch",
                 "Wittmund",
+                "Statistische Region Weser-Ems",
+                "Niedersachsen",
                 ""
               ]
             },
             "title": "Gebietseinheit"
           },
           {
-            "name": "Aufenthaltsdauer in Jahren",
+            "name": "Land der Staatsangehörigkeit",
             "type": "string",
             "constraints": {
               "enum": [
-                "0 Jahre",
-                "1 - 3 Jahre",
-                "4 - 5 Jahre",
-                "6 - 7 Jahre",
-                "8 - 9 Jahre",
-                "10 u. mehr Jahre",
+                "Polen",
+                "Türkei",
+                "Syrien",
+                "Rumänien",
+                "Irak",
                 ""
               ]
             },
-            "title": "Aufenthaltsdauer in Jahren"
+            "title": "Land der Staatsangehörigkeit"
           },
           {
-            "name": "GeoCode",
+            "name": "Units",
             "type": "string",
-            "title": "GeoCode"
+            "constraints": {
+              "enum": [
+                "Anzahl",
+                "Veränderung gegenüber 2005 in %",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
