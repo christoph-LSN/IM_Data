@@ -10,4 +10,8 @@
 
 <a href="https://www.statistik.niedersachsen.de/startseite/veroffentlichungen/statistische_monatshefte/statistische-monatshefte-niedersachsen-87704.html" target="_blank">Statistischen Monatsheften</a>
 
+<<<<<<< Updated upstream
 <a href="https://www.destatis.de" target="_blank">Statistisches Bundesamt</a>
+=======
+<a href="https://www.statistik.niedersachsen.de/startseite/themen/bildung/" target="_blank">Themenbereich Bildung</a>
+>>>>>>> Stashed changes
