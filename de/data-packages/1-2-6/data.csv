@@ -376,7 +376,7 @@ Year,Gebietseinheit,Altersgruppe,GeoCode,Value
 2013,Statistische Region Braunschweig,Insgesamt,K031,104490
 2013,Hannover  Region,Insgesamt,K03241,126962
 2013,dav. Hannover  Lhst.,Insgesamt,K03241001,82727
-2013,Niedersachsen,Insgesamt,K030,44235
+2013,dav. Hannover  Umland,Insgesamt,K03241999,44235
 2013,Diepholz,Insgesamt,K03251,10761
 2013,Hameln-Pyrmont,Insgesamt,K03252,10719
 2013,Hildesheim,Insgesamt,K03254,15353
@@ -428,7 +428,7 @@ Year,Gebietseinheit,Altersgruppe,GeoCode,Value
 2012,Statistische Region Braunschweig,Insgesamt,K031,97758
 2012,Hannover  Region,Insgesamt,K03241,119366
 2012,dav. Hannover  Lhst.,Insgesamt,K03241001,78442
-2012,Niedersachsen,Insgesamt,K030,40924
+2012,dav. Hannover  Umland,Insgesamt,K03241999,40924
 2012,Diepholz,Insgesamt,K03251,9184
 2012,Hameln-Pyrmont,Insgesamt,K03252,10342
 2012,Hildesheim,Insgesamt,K03254,14417
@@ -844,7 +844,7 @@ Year,Gebietseinheit,Altersgruppe,GeoCode,Value
 2013,Statistische Region Braunschweig,0 - 6,K031,3346
 2013,Hannover  Region,0 - 6,K03241,3603
 2013,dav. Hannover  Lhst.,0 - 6,K03241001,2311
-2013,Niedersachsen,0 - 6,K030,1292
+2013,dav. Hannover  Umland,0 - 6,K03241999,1292
 2013,Diepholz,0 - 6,K03251,424
 2013,Hameln-Pyrmont,0 - 6,K03252,318
 2013,Hildesheim,0 - 6,K03254,494
@@ -896,7 +896,7 @@ Year,Gebietseinheit,Altersgruppe,GeoCode,Value
 2012,Statistische Region Braunschweig,0 - 6,K031,2838
 2012,Hannover  Region,0 - 6,K03241,3231
 2012,dav. Hannover  Lhst.,0 - 6,K03241001,2208
-2012,Niedersachsen,0 - 6,K030,1023
+2012,dav. Hannover  Umland,0 - 6,K03241999,1023
 2012,Diepholz,0 - 6,K03251,359
 2012,Hameln-Pyrmont,0 - 6,K03252,236
 2012,Hildesheim,0 - 6,K03254,448
@@ -1312,7 +1312,7 @@ Year,Gebietseinheit,Altersgruppe,GeoCode,Value
 2013,Statistische Region Braunschweig,6 - 15,K031,5817
 2013,Hannover  Region,6 - 15,K03241,7175
 2013,dav. Hannover  Lhst.,6 - 15,K03241001,4201
-2013,Niedersachsen,6 - 15,K030,2974
+2013,dav. Hannover  Umland,6 - 15,K03241999,2974
 2013,Diepholz,6 - 15,K03251,779
 2013,Hameln-Pyrmont,6 - 15,K03252,758
 2013,Hildesheim,6 - 15,K03254,1019
@@ -1364,7 +1364,7 @@ Year,Gebietseinheit,Altersgruppe,GeoCode,Value
 2012,Statistische Region Braunschweig,6 - 15,K031,5901
 2012,Hannover  Region,6 - 15,K03241,7298
 2012,dav. Hannover  Lhst.,6 - 15,K03241001,4366
-2012,Niedersachsen,6 - 15,K030,2932
+2012,dav. Hannover  Umland,6 - 15,K03241999,2932
 2012,Diepholz,6 - 15,K03251,753
 2012,Hameln-Pyrmont,6 - 15,K03252,808
 2012,Hildesheim,6 - 15,K03254,1025
@@ -1780,7 +1780,7 @@ Year,Gebietseinheit,Altersgruppe,GeoCode,Value
 2013,Statistische Region Braunschweig,15 - 20,K031,6051
 2013,Hannover  Region,15 - 20,K03241,7174
 2013,dav. Hannover  Lhst.,15 - 20,K03241001,4350
-2013,Niedersachsen,15 - 20,K030,2824
+2013,dav. Hannover  Umland,15 - 20,K03241999,2824
 2013,Diepholz,15 - 20,K03251,644
 2013,Hameln-Pyrmont,15 - 20,K03252,700
 2013,Hildesheim,15 - 20,K03254,905
@@ -1832,7 +1832,7 @@ Year,Gebietseinheit,Altersgruppe,GeoCode,Value
 2012,Statistische Region Braunschweig,15 - 20,K031,5890
 2012,Hannover  Region,15 - 20,K03241,6824
 2012,dav. Hannover  Lhst.,15 - 20,K03241001,4175
-2012,Niedersachsen,15 - 20,K030,2649
+2012,dav. Hannover  Umland,15 - 20,K03241999,2649
 2012,Diepholz,15 - 20,K03251,598
 2012,Hameln-Pyrmont,15 - 20,K03252,717
 2012,Hildesheim,15 - 20,K03254,843
@@ -2248,7 +2248,7 @@ Year,Gebietseinheit,Altersgruppe,GeoCode,Value
 2013,Statistische Region Braunschweig,20 - 40,K031,43631
 2013,Hannover  Region,20 - 40,K03241,50768
 2013,dav. Hannover  Lhst.,20 - 40,K03241001,34735
-2013,Niedersachsen,20 - 40,K030,16033
+2013,dav. Hannover  Umland,20 - 40,K03241999,16033
 2013,Diepholz,20 - 40,K03251,4190
 2013,Hameln-Pyrmont,20 - 40,K03252,3349
 2013,Hildesheim,20 - 40,K03254,5909
@@ -2300,7 +2300,7 @@ Year,Gebietseinheit,Altersgruppe,GeoCode,Value
 2012,Statistische Region Braunschweig,20 - 40,K031,40027
 2012,Hannover  Region,20 - 40,K03241,47267
 2012,dav. Hannover  Lhst.,20 - 40,K03241001,32499
-2012,Niedersachsen,20 - 40,K030,14768
+2012,dav. Hannover  Umland,20 - 40,K03241999,14768
 2012,Diepholz,20 - 40,K03251,3430
 2012,Hameln-Pyrmont,20 - 40,K03252,3202
 2012,Hildesheim,20 - 40,K03254,5453
@@ -2716,7 +2716,7 @@ Year,Gebietseinheit,Altersgruppe,GeoCode,Value
 2013,Statistische Region Braunschweig,40 - 65 ,K031,34815
 2013,Hannover  Region,40 - 65 ,K03241,44012
 2013,dav. Hannover  Lhst.,40 - 65 ,K03241001,27536
-2013,Niedersachsen,40 - 65 ,K030,16476
+2013,dav. Hannover  Umland,40 - 65 ,K03241999,16476
 2013,Diepholz,40 - 65 ,K03251,4001
 2013,Hameln-Pyrmont,40 - 65 ,K03252,4106
 2013,Hildesheim,40 - 65 ,K03254,5383
@@ -2768,7 +2768,7 @@ Year,Gebietseinheit,Altersgruppe,GeoCode,Value
 2012,Statistische Region Braunschweig,40 - 65 ,K031,33033
 2012,Hannover  Region,40 - 65 ,K03241,41593
 2012,dav. Hannover  Lhst.,40 - 65 ,K03241001,26335
-2012,Niedersachsen,40 - 65 ,K030,15258
+2012,dav. Hannover  Umland,40 - 65 ,K03241999,15258
 2012,Diepholz,40 - 65 ,K03251,3390
 2012,Hameln-Pyrmont,40 - 65 ,K03252,4022
 2012,Hildesheim,40 - 65 ,K03254,5091
@@ -3184,7 +3184,7 @@ Year,Gebietseinheit,Altersgruppe,GeoCode,Value
 2013,Statistische Region Braunschweig,65 - 80,K031,9521
 2013,Hannover  Region,65 - 80,K03241,12172
 2013,dav. Hannover  Lhst.,65 - 80,K03241001,8150
-2013,Niedersachsen,65 - 80,K030,4022
+2013,dav. Hannover  Umland,65 - 80,K03241999,4022
 2013,Diepholz,65 - 80,K03251,646
 2013,Hameln-Pyrmont,65 - 80,K03252,1278
 2013,Hildesheim,65 - 80,K03254,1447
@@ -3236,7 +3236,7 @@ Year,Gebietseinheit,Altersgruppe,GeoCode,Value
 2012,Statistische Region Braunschweig,65 - 80,K031,8896
 2012,Hannover  Region,65 - 80,K03241,11345
 2012,dav. Hannover  Lhst.,65 - 80,K03241001,7607
-2012,Niedersachsen,65 - 80,K030,3738
+2012,dav. Hannover  Umland,65 - 80,K03241999,3738
 2012,Diepholz,65 - 80,K03251,585
 2012,Hameln-Pyrmont,65 - 80,K03252,1166
 2012,Hildesheim,65 - 80,K03254,1375
@@ -3652,7 +3652,7 @@ Year,Gebietseinheit,Altersgruppe,GeoCode,Value
 2013,Statistische Region Braunschweig,80 und älter,K031,1309
 2013,Hannover  Region,80 und älter,K03241,2058
 2013,dav. Hannover  Lhst.,80 und älter,K03241001,1444
-2013,Niedersachsen,80 und älter,K030,614
+2013,dav. Hannover  Umland,80 und älter,K03241999,614
 2013,Diepholz,80 und älter,K03251,77
 2013,Hameln-Pyrmont,80 und älter,K03252,210
 2013,Hildesheim,80 und älter,K03254,196
@@ -3704,7 +3704,7 @@ Year,Gebietseinheit,Altersgruppe,GeoCode,Value
 2012,Statistische Region Braunschweig,80 und älter,K031,1173
 2012,Hannover  Region,80 und älter,K03241,1808
 2012,dav. Hannover  Lhst.,80 und älter,K03241001,1252
-2012,Niedersachsen,80 und älter,K030,556
+2012,dav. Hannover  Umland,80 und älter,K03241999,556
 2012,Diepholz,80 und älter,K03251,69
 2012,Hameln-Pyrmont,80 und älter,K03252,191
 2012,Hildesheim,80 und älter,K03254,182
