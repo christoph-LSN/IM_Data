@@ -63,8 +63,8 @@
             "constraints": {
               "enum": [
                 "Insgesamt",
-                "Männer",
-                "Frauen",
+                "Männer in Prozent",
+                "Frauen in Prozent",
                 "Veränderung in Prozent ggegenüber 2005",
                 ""
               ]
