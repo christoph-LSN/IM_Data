@@ -12,11 +12,40 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Abschlussart",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hochschulreife",
+                "Fachhochschulreife1) ",
+                "Realschulabschluss",
+                "Hauptschulabschluss",
+                "Abschluss Förderschule2)",
+                "Ohne Abschluss",
+                "Insgesamt",
+                "Hochschulreife3)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Nationalität",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "Deutsche",
+                "Ausländerinnen und Ausländer",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }
