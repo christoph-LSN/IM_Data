@@ -102,36 +102,12 @@ reporting_status_extra_fields: []
 
 
 map_layers:
-  -
-    # This can be a local relative path or a remote URL.
-    geojson_file: NI_Kurz_diss.geojson
-    # This is the property in the GeoJSON that holds the name of the region.
+  - geojson_file: NI_Kurz_diss.geojson
     name_property: GEN
-    # This is the property in the GeoJSON that holds the "geocode" of the region.
     id_property: AGS
-    # This controls the subfolder that the GeoJSON file will be created in.
     output_subfolder: map
-    # This adds a prefix to all the GeoJSON filenames.
     filename_prefix: indicator_
-
-
-
-
-
-
-
-
-
-#map_layers:
-#  - geojson_file: NI_Kurz_diss.geojson
-#    name_property: GEN
-#    id_property: AGS
-#    output_subfolder: map
-#    filename_prefix: indicator_
-#    exclude_columns: ['Gebietseinheit']
-
-  -
-    geojson_file: NI_MZ.geojson #maps\NI_Kurz_Mikrozensus_Diss.geojson
+  - geojson_file: NI_MZ.geojson #maps\NI_Kurz_Mikrozensus_Diss.geojson
     name_property: GENMZ
     id_property: AGSMZ
     output_subfolder: Mikrozensus
