@@ -88,7 +88,7 @@
             }
           },
           {
-            "name": "in 1000",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
