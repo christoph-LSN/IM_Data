@@ -4,16 +4,15 @@ Indicator,Disaggregations,Number of disaggregations
 #1-1-3,Gebietseinheit,1
 #1-2-1,Gebietseinheit,1
 #1-2-2,Gebietseinheit,1
-#1-2-3,"Gebietseinheit, Geschlecht, Aufenthaltsdauer",3
+#1-2-3,"Geschlecht, Gebietseinheit, Aufenthaltsdauer",3
 #1-2-4,"Gebietseinheit, Land der Staatsangehörigkeit",2
 #1-2-5,"Land der Staatsangehörigkeit, Ausländerinnen und Ausländer",2
-#1-2-6,"Gebietseinheit, Altersgruppe",2
+#1-2-6,"Altersgruppe, Gebietseinheit",2
 #1-2-8,"Gebietseinheit, Nationalität",2
-#1-3-1,"Gebietseinheit, Migrationshintergrund",2
 #1-3-2,"Gebietseinheit, Nationalität, Migrationserfahrung",3
-#1-3-3,"Geschlecht, Altersgruppe",2
-#1-3-4,"Migrationshintergrund, Herkunftsland",2
-#1-4-4,"Kategorie, Altersgruppe",2
+#1-3-3,"Altersgruppe, Geschlecht",2
+#1-3-4,"Herkunftsland, Migrationshintergrund",2
+#1-4-4,"Altersgruppe, Kategorie",2
 #1-4-5,"Gebietseinheit, Wanderung, Nationalität/Geschlecht",3
 #2-1-1,"Gebietseinheit, Aufenthaltstitel",2
 #2-1-10,"Gebietseinheit, Aufenthaltstitel",2
@@ -38,19 +37,19 @@ Indicator,Disaggregations,Number of disaggregations
 #3-1-3,"Gebietseinheit, Kinderbetreuung",2
 #4-1-1,"Staatsangehörigkeit, Erreichter Abschluss, Besuchte Schule",3
 #4-1-4,"Nationalität, Abschlussart",2
-#4-1-5,"Migrationsstatus, Altersgruppe, Schulabschluss",3
+#4-1-5,"Altersgruppe, Migrationsstatus, Schulabschluss",3
 #4-1-6,"Geschlecht, Migrationshuntergrund, Migrationserfahrung",3
-#4-3-1,"Land der Staatsangehörigkeit, Kategorie",2
-#4-3-2,"Geschlecht, Fächergruppe, Nationalität",3
+#4-3-1,"Kategorie, Land der Staatsangehörigkeit",2
+#4-3-2,"Geschlecht, Nationalität, Fächergruppe",3
 #4-4-2,"Geschlecht, Migrationshintergrund, Höchster Beruflicher Abschluss",3
-#5-1-1,"Wirtschaftsabschnitte (WZ 2008) Zusammenfassungen, Geschlecht",2
-#5-2-1,"Geschlecht, Migrationsstatus, Kategorie",3
-#5-2-2,"Gebietseinheit, Geschlecht",2
+#5-1-1,"Geschlecht, Wirtschaftsabschnitte (WZ 2008) Zusammenfassungen",2
+#5-2-1,"Geschlecht, Kategorie, Migrationsstatus",3
+#5-2-2,"Geschlecht, Gebietseinheit",2
 #5-2-3,"Gebietseinheit, Qualifikation",2
-#5-3-1,"Geschlecht, Migrationsstatus, Altersgruppe",3
+#5-3-1,"Altersgruppe, Geschlecht, Migrationsstatus",3
 #5-3-2,"Geschlecht, Kategorie",2
 #5-3-3,"Geschlecht, Kategorie",2
 #6-1-1,"Gebietseinheit, Nationalität / Migrationshintergrund",2
 #6-3-1,Group,1
 #7-1-1,Migrationsstatus,1
-#8-1-1,"Geschlecht, Altersgruppe",2
+#8-1-1,"Altersgruppe, Geschlecht",2
