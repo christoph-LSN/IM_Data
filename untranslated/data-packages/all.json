@@ -3105,6 +3105,17 @@
             "type": "integer"
           },
           {
+            "name": "Nationalität",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ausländerinnen und Ausländer",
+                "Deutsche",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Gebietseinheit",
             "type": "string",
             "constraints": {
@@ -3119,17 +3130,17 @@
                 "Peine",
                 "Wolfenbüttel",
                 "Göttingen",
-                "Statistische Region Braunschweig",
+                "Stat. Region Braunschweig",
                 "Hannover  Region",
-                "dav. Hannover  Lhst.",
-                "dav. Hannover  Umland",
+                "   dav. Hannover  Lhst.",
+                "   dav. Hannover  Umland",
                 "Diepholz",
                 "Hameln-Pyrmont",
                 "Hildesheim",
                 "Holzminden",
                 "Nienburg (Weser)",
                 "Schaumburg",
-                "Statistische Region Hannover",
+                "Stat. Region Hannover",
                 "Celle",
                 "Cuxhaven",
                 "Harburg",
@@ -3141,7 +3152,7 @@
                 "Stade",
                 "Uelzen",
                 "Verden",
-                "Statistische Region Lüneburg",
+                "Stat. Region Lüneburg",
                 "Delmenhorst  Stadt",
                 "Emden  Stadt",
                 "Oldenburg(Oldb)  Stadt",
@@ -3159,19 +3170,8 @@
                 "Vechta",
                 "Wesermarsch",
                 "Wittmund",
-                "Statistische Region Weser-Ems",
+                "Stat. Region Weser-Ems",
                 "Niedersachsen",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Nationalität",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ausländerinnen und Ausländer",
-                "Deutsche",
                 ""
               ]
             }
