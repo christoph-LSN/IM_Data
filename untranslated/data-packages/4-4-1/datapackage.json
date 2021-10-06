@@ -15,20 +15,51 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Berufsgruppe",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                "G",
+                "alle Berufsgruppen",
+                "darunter medizinische Gesundheitsberufe",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geschlecht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Männer",
+                "Frauen",
+                "Insgesamt",
+                "insgesamt",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Kategorie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "abgeschlossene Verfahren",
+                "positiv volle Gleichwertigkeit",
+                "Auflage einer Ausgleichsmaßnahme1)",
+                "positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2)",
+                "teilweise Gleichwertigkeit3)",
+                "positive partieller Berufszugang4)",
+                "negativ",
+                "sonstige Erledigung - Verfahren ohne Bescheid beendet",
+                "Noch keine Entscheidung",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }
