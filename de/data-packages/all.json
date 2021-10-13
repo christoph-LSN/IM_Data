@@ -1234,7 +1234,22 @@
             "title": "Year"
           },
           {
-            "name": "Staatsangehörigkeit",
+            "name": "Gebietseinheit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Statistische Region Braunschweig",
+                "Statistische Region Hannover",
+                "Statistische Region Lüneburg",
+                "Statistische Region Weser-Ems",
+                "Niedersachsen",
+                ""
+              ]
+            },
+            "title": "Gebietseinheit"
+          },
+          {
+            "name": "Nationalität",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1243,54 +1258,45 @@
                 ""
               ]
             },
-            "title": "Staatsangehörigkeit"
+            "title": "Nationalität"
           },
           {
-            "name": "Erreichter Abschluss",
+            "name": "Schulform",
             "type": "string",
             "constraints": {
               "enum": [
-                "Allgemeine Hochschulreife",
-                "Fachhochschulreife",
-                "Schulischer Teil der Fachhochschulreife",
-                "Realschulabschluss",
-                "Hauptschulabschluss",
-                "Erfolgreicher Besuch",
-                "Entlassungen aus dem Berufsvorbereitungsjahr",
-                "Ohne erfolgreichen Besuch/Abschluss",
-                "   nachrichtlich: Abbruch im laufenden Schuljahr",
-                "erfolgreicher Besuch",
-                "Entlassung aus dem Berufsvorbereitungsjahr",
-                "ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.",
-                "ohne erfolgreichen Besuch/Abschluss",
-                "nachrichtlich: Abbruch im laufenden Schuljahr",
-                "ohne erfolgr. Besuch m. gle",
+                "Hauptschule",
+                "Realschule",
+                "Oberschule",
+                "Gymnasium",
+                "Integrierte Gesamtschule",
+                "Förderschule",
+                "Insgesamt",
                 ""
               ]
             },
-            "title": "Erreichter Abschluss"
+            "title": "Schulform"
           },
           {
-            "name": "Besuchte Schule",
+            "name": "Unit",
             "type": "string",
             "constraints": {
               "enum": [
-                "Berufsschule (Teilzeit)",
-                "Berufsgrundbildungsjahr schulisch",
-                "Berufseinstiegsklasse",
-                "Berufsvorbereitungsjahr",
-                "Berufsfachschule",
-                "Fachoberschule",
-                "Berufsoberschule",
-                "Berufl. Gymnasium",
+                "Prozent",
+                "Anzahl",
                 ""
               ]
             },
-            "title": "Besuchte Schule"
+            "title": "Unit"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]
