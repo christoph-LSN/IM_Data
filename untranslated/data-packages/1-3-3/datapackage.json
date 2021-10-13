@@ -33,7 +33,7 @@
             }
           },
           {
-            "name": "Units",
+            "name": "units",
             "type": "string",
             "constraints": {
               "enum": [
