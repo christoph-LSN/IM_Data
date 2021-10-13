@@ -16,21 +16,69 @@
             "title": "Year"
           },
           {
-            "name": "Group",
+            "name": "Gebietseinheit",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                "G",
+                "Statistische Region Braunschweig",
+                "Statistische Region Hannover",
+                "Statistische Region Lüneburg",
+                "Statistische Region Weser-Ems",
+                "Niedersachsen",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Gebietseinheit"
+          },
+          {
+            "name": "Nationalität",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Deutsche",
+                "Ausländerinnen und Ausländer",
+                ""
+              ]
+            },
+            "title": "Nationalität"
+          },
+          {
+            "name": "Schulform",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hauptschule",
+                "Realschule",
+                "Oberschule",
+                "Gymnasium",
+                "Integrierte Gesamtschule",
+                "Förderschule",
+                "Insgesamt",
+                ""
+              ]
+            },
+            "title": "Schulform"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prozent",
+                "Anzahl",
+                ""
+              ]
+            },
+            "title": "Unit"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
