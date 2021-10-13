@@ -42,28 +42,38 @@
             "title": "Geschlecht"
           },
           {
-            "name": "Kategorie",
+            "name": "Verfahren",
             "type": "string",
             "constraints": {
               "enum": [
                 "Insgesamt",
                 "abgeschlossene Verfahren",
+                "sonstige Erledigung - Verfahren ohne Bescheid beendet",
+                "Noch keine Entscheidung",
+                ""
+              ]
+            },
+            "title": "Verfahren"
+          },
+          {
+            "name": "Entscheidung vor Rechtsbehelf",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "positiv volle Gleichwertigkeit",
                 "Auflage einer Ausgleichsmaßnahme1)",
                 "positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2)",
                 "teilweise Gleichwertigkeit3)",
                 "positive partieller Berufszugang4)",
                 "negativ",
-                "sonstige Erledigung - Verfahren ohne Bescheid beendet",
-                "Noch keine Entscheidung",
                 ""
               ]
             },
-            "title": "Kategorie"
+            "title": "Entscheidung vor Rechtsbehelf"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]

@@ -2422,18 +2422,12 @@
             }
           },
           {
-            "name": "Kategorie",
+            "name": "Verfahren",
             "type": "string",
             "constraints": {
               "enum": [
                 "Insgesamt",
                 "abgeschlossene Verfahren",
-                "positiv volle Gleichwertigkeit",
-                "Auflage einer Ausgleichsmaßnahme1)",
-                "positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2)",
-                "teilweise Gleichwertigkeit3)",
-                "positive partieller Berufszugang4)",
-                "negativ",
                 "sonstige Erledigung - Verfahren ohne Bescheid beendet",
                 "Noch keine Entscheidung",
                 ""
@@ -2441,8 +2435,23 @@
             }
           },
           {
+            "name": "Entscheidung vor Rechtsbehelf",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "positiv volle Gleichwertigkeit",
+                "Auflage einer Ausgleichsmaßnahme1)",
+                "positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2)",
+                "teilweise Gleichwertigkeit3)",
+                "positive partieller Berufszugang4)",
+                "negativ",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       },
