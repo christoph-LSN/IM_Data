@@ -115,8 +115,8 @@ map_layers:
     filename_prefix: indicator_
     exclude_columns: ['Gebietseinheit']
   - geojson_file: StatRegion.geojson #maps\NI_Kurz_Mikrozensus_Diss.geojson
-    name_property: GEN
-    id_property: AGS
+    name_property: GENSR
+    id_property: AGSSR
     output_subfolder: Statistische Region
     filename_prefix: indicator_
     exclude_columns: ['Gebietseinheit']
