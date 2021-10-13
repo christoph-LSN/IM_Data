@@ -984,7 +984,7 @@
           }
         ]
       },
-      "title": "Mittlere Wohnfläche in m² und mittlere Bruttokaltmiete in Niedersachsen nach Zuwanderungsgeschichte (D5)"
+      "title": "Mittlere Wohnfläche in m² und mittlere Bruttokaltmiete in Niedersachsen nach Zuwanderungsgeschichte"
     },
     {
       "path": "1-3-3/data.csv",
@@ -2610,7 +2610,7 @@
           }
         ]
       },
-      "title": "Anerkennungsverfahren nach dem Berufsqualifikationsfeststellungsgesetz (BQFG) sowie dem Niedersächsischen Berufsqualifikationsfeststellungsgesetz (NBQFG) (C8)"
+      "title": "Anerkennungsverfahren nach dem Berufsqualifikationsfeststellungsgesetz (BQFG) sowie dem Niedersächsischen Berufsqualifikationsfeststellungsgesetz (NBQFG)"
     },
     {
       "path": "1-4-3/data.csv",
@@ -4961,13 +4961,24 @@
             "title": "Geschlecht"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prozent",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
           }
         ]
       },
-      "title": "Ausbildungsbeteiligungsquote im dualen System nach Geschlecht und Nationalität (B10)"
+      "title": "Ausbildungsbeteiligungsquote im dualen System nach Geschlecht und Nationalität"
     },
     {
       "path": "4-1-6/data.csv",

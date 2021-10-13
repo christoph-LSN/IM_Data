@@ -42,6 +42,17 @@
             "title": "Geschlecht"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prozent",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -52,5 +63,5 @@
   ],
   "profile": "data-package",
   "name": "4-2-1",
-  "title": "Ausbildungsbeteiligungsquote im dualen System nach Geschlecht und Nationalität (B10)"
+  "title": "Ausbildungsbeteiligungsquote im dualen System nach Geschlecht und Nationalität"
 }
