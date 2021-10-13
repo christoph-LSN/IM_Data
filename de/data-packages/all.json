@@ -15,7 +15,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Altersgruppe",
@@ -79,7 +79,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Gebietseinheit",
@@ -170,7 +170,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Wirtschaftsabschnitte (WZ 2008) Zusammenfassungen",
@@ -247,7 +247,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Gebietseinheit",
@@ -338,7 +338,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Kategorie",
@@ -414,7 +414,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Gebietseinheit",
@@ -515,7 +515,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Gebietseinheit",
@@ -616,7 +616,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Herkunftsland",
@@ -710,7 +710,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Gebietseinheit",
@@ -811,7 +811,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Altersgruppe",
@@ -888,7 +888,7 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Kategorie",
@@ -948,7 +948,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -999,7 +999,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Altersgruppe",
@@ -1067,7 +1067,7 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Land der Staatsangehörigkeit",
@@ -1128,7 +1128,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Nationalität",
@@ -1231,7 +1231,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Gebietseinheit",
@@ -1316,7 +1316,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Group",
@@ -1353,7 +1353,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Staatsangehörigkeit",
@@ -1433,7 +1433,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Gebietseinheit",
@@ -1548,7 +1548,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Gebietseinheit",
@@ -1611,7 +1611,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Gebietseinheit",
@@ -1713,7 +1713,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Gebietseinheit",
@@ -1824,7 +1824,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Gebietseinheit",
@@ -1940,7 +1940,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Land der Staatsangehörigkeit",
@@ -2022,7 +2022,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Gebietseinheit",
@@ -2123,7 +2123,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Durchschnittliche Bewohnerzahl in der Landesaufnahmebehörde Niedersachsen (LAB NI)",
@@ -2159,7 +2159,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Gebietseinheit",
@@ -2274,7 +2274,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Asylanträge",
@@ -2309,7 +2309,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Gebietseinheit",
@@ -2410,7 +2410,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Land der Staatsangehörigkeit",
@@ -2472,7 +2472,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Höchster Beruflicher Abschluss",
@@ -2546,7 +2546,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Berufsgruppe",
@@ -2625,7 +2625,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Group",
@@ -2662,7 +2662,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Gebietseinheit",
@@ -2776,7 +2776,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Abschiebungen",
@@ -2812,7 +2812,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Group",
@@ -2849,7 +2849,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Gebietseinheit",
@@ -2969,7 +2969,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Fächergruppe",
@@ -3051,7 +3051,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Gebietseinheit",
@@ -3169,7 +3169,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Gebietseinheit",
@@ -3270,7 +3270,7 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Gebietseinheit",
@@ -3361,7 +3361,7 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Kategorie",
@@ -3423,7 +3423,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Group",
@@ -3460,7 +3460,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Gebietseinheit",
@@ -3551,7 +3551,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Kategorie",
@@ -3617,7 +3617,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Gebietseinheit",
@@ -3747,7 +3747,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Group",
@@ -3784,7 +3784,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Abschlussart",
@@ -3838,7 +3838,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Gebietseinheit",
@@ -3939,7 +3939,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Nationalität / Migrationshintergrund",
@@ -3990,7 +3990,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Gebietseinheit",
@@ -4099,7 +4099,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Gebietseinheit",
@@ -4200,7 +4200,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Group",
@@ -4237,7 +4237,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Units",
@@ -4352,7 +4352,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Altersgruppe",
@@ -4427,7 +4427,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Gebietseinheit",
@@ -4518,7 +4518,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Group",
@@ -4555,7 +4555,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Group",
@@ -4592,7 +4592,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Gebietseinheit",
@@ -4693,7 +4693,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Gebietseinheit",
@@ -4728,7 +4728,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Gebietseinheit",
@@ -4842,7 +4842,7 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Gebietseinheit",
@@ -4932,7 +4932,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Nationalität",
@@ -4993,7 +4993,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Migrationshuntergrund",
@@ -5066,7 +5066,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Gebietseinheit",
@@ -5155,7 +5155,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Gebietseinheit",
@@ -5271,7 +5271,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Group",
@@ -5308,7 +5308,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Jahr"
           },
           {
             "name": "Group",
