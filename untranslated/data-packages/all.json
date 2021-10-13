@@ -960,7 +960,7 @@
             }
           },
           {
-            "name": "units",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
