@@ -4995,13 +4995,13 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Group²",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "A²",
                 "B",
-                "G",
+                "G²",
                 ""
               ]
             }

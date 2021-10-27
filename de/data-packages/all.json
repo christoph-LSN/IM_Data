@@ -5313,17 +5313,17 @@
             "title": "Jahr"
           },
           {
-            "name": "Group",
+            "name": "Group²",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
+                "A²",
                 "B",
-                "G",
+                "G²",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Group²"
           },
           {
             "name": "Value",
