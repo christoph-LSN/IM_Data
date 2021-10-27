@@ -14,7 +14,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2019,Ausländerinnen und Ausländer,Schulischer Teil der Fachhochschulreife,Insgesamt,54.0
 2019,Ausländerinnen und Ausländer,Realschulabschluss,Insgesamt,1002.0
 2019,Ausländerinnen und Ausländer,Hauptschulabschluss,Insgesamt,1567.0
-2019,Ausländerinnen und Ausländer,Erfolgreicher Besuch,Insgesamt,2209.0
+2019,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Insgesamt,2209.0
 2019,Ausländerinnen und Ausländer,Entlassungen aus dem Berufsvorbereitungsjahr,Insgesamt,2953.0
 2019,Ausländerinnen und Ausländer,Ohne erfolgreichen Besuch/Abschluss,Insgesamt,1351.0
 2019,Ausländerinnen und Ausländer,Erreichte Abschlüsse insgesamt,Insgesamt,9712.0
@@ -24,7 +24,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2018,Deutsche,Schulischer Teil der Fachhochschulreife,Insgesamt,1162.0
 2018,Deutsche,Realschulabschluss,Insgesamt,13211.0
 2018,Deutsche,Hauptschulabschluss,Insgesamt,2845.0
-2018,Deutsche,Erfolgreicher Besuch,Insgesamt,45797.0
+2018,Deutsche,Erfolgreicher Besuch²,Insgesamt,45797.0
 2018,Deutsche,Entlassungen aus dem Berufsvorbereitungsjahr,Insgesamt,3328.0
 2018,Deutsche,Ohne erfolgreichen Besuch/Abschluss,Insgesamt,9019.0
 2018,Deutsche,Erreichte Abschlüsse insgesamt,Insgesamt,93254.0
@@ -34,7 +34,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2018,Ausländerinnen und Ausländer,Schulischer Teil der Fachhochschulreife,Insgesamt,50.0
 2018,Ausländerinnen und Ausländer,Realschulabschluss,Insgesamt,821.0
 2018,Ausländerinnen und Ausländer,Hauptschulabschluss,Insgesamt,1662.0
-2018,Ausländerinnen und Ausländer,Erfolgreicher Besuch,Insgesamt,2058.0
+2018,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Insgesamt,2058.0
 2018,Ausländerinnen und Ausländer,Entlassungen aus dem Berufsvorbereitungsjahr,Insgesamt,4343.0
 2018,Ausländerinnen und Ausländer,Ohne erfolgreichen Besuch/Abschluss,Insgesamt,1352.0
 2018,Ausländerinnen und Ausländer,Erreichte Abschlüsse insgesamt,Insgesamt,11028.0
@@ -44,7 +44,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2017,Deutsche,Schulischer Teil der Fachhochschulreife,Insgesamt,1182.0
 2017,Deutsche,Realschulabschluss,Insgesamt,15537.0
 2017,Deutsche,Hauptschulabschluss,Insgesamt,2792.0
-2017,Deutsche,Erfolgreicher Besuch,Insgesamt,47119.0
+2017,Deutsche,Erfolgreicher Besuch²,Insgesamt,47119.0
 2017,Deutsche,Entlassungen aus dem Berufsvorbereitungsjahr,Insgesamt,3554.0
 2017,Deutsche,Ohne erfolgreichen Besuch/Abschluss,Insgesamt,9362.0
 2017,Deutsche,Erreichte Abschlüsse insgesamt,Insgesamt,98520.0
@@ -54,7 +54,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2017,Ausländerinnen und Ausländer,Schulischer Teil der Fachhochschulreife,Insgesamt,62.0
 2017,Ausländerinnen und Ausländer,Realschulabschluss,Insgesamt,824.0
 2017,Ausländerinnen und Ausländer,Hauptschulabschluss,Insgesamt,955.0
-2017,Ausländerinnen und Ausländer,Erfolgreicher Besuch,Insgesamt,1895.0
+2017,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Insgesamt,1895.0
 2017,Ausländerinnen und Ausländer,Entlassungen aus dem Berufsvorbereitungsjahr,Insgesamt,5186.0
 2017,Ausländerinnen und Ausländer,Ohne erfolgreichen Besuch/Abschluss,Insgesamt,1167.0
 2017,Ausländerinnen und Ausländer,Erreichte Abschlüsse insgesamt,Insgesamt,10785.0
@@ -63,7 +63,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2015,Deutsche,Fachhochschulreife,Insgesamt,14006.0
 2015,Deutsche,Realschulabschluss,Insgesamt,17626.0
 2015,Deutsche,Hauptschulabschluss,Insgesamt,3121.0
-2015,Deutsche,erfolgreicher Besuch,Insgesamt,49608.0
+2015,Deutsche,Erfolgreicher Besuch²,Insgesamt,49608.0
 2015,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Insgesamt,3839.0
 2015,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Insgesamt,
 2015,Deutsche,ohne erfolgreichen Besuch/Abschluss,Insgesamt,9936.0
@@ -73,7 +73,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2015,Ausländerinnen und Ausländer,Fachhochschulreife,Insgesamt,467.0
 2015,Ausländerinnen und Ausländer,Realschulabschluss,Insgesamt,860.0
 2015,Ausländerinnen und Ausländer,Hauptschulabschluss,Insgesamt,422.0
-2015,Ausländerinnen und Ausländer,erfolgreicher Besuch,Insgesamt,1709.0
+2015,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Insgesamt,1709.0
 2015,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Insgesamt,988.0
 2015,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Insgesamt,
 2015,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Insgesamt,1021.0
@@ -83,7 +83,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2014,Deutsche,Fachhochschulreife,Insgesamt,13626.0
 2014,Deutsche,Realschulabschluss,Insgesamt,19207.0
 2014,Deutsche,Hauptschulabschluss,Insgesamt,3722.0
-2014,Deutsche,erfolgreicher Besuch,Insgesamt,52108.0
+2014,Deutsche,Erfolgreicher Besuch²,Insgesamt,52108.0
 2014,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Insgesamt,3936.0
 2014,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Insgesamt,
 2014,Deutsche,ohne erfolgreichen Besuch/Abschluss,Insgesamt,10820.0
@@ -93,7 +93,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2014,Ausländerinnen und Ausländer,Fachhochschulreife,Insgesamt,516.0
 2014,Ausländerinnen und Ausländer,Realschulabschluss,Insgesamt,816.0
 2014,Ausländerinnen und Ausländer,Hauptschulabschluss,Insgesamt,399.0
-2014,Ausländerinnen und Ausländer,erfolgreicher Besuch,Insgesamt,1713.0
+2014,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Insgesamt,1713.0
 2014,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Insgesamt,659.0
 2014,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Insgesamt,
 2014,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Insgesamt,950.0
@@ -103,7 +103,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2012,Deutsche,Fachhochschulreife,Insgesamt,14040.0
 2012,Deutsche,Realschulabschluss,Insgesamt,17810.0
 2012,Deutsche,Hauptschulabschluss,Insgesamt,3695.0
-2012,Deutsche,erfolgreicher Besuch,Insgesamt,50738.0
+2012,Deutsche,Erfolgreicher Besuch²,Insgesamt,50738.0
 2012,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Insgesamt,2978.0
 2012,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Insgesamt,
 2012,Deutsche,ohne erfolgreichen Besuch/Abschluss,Insgesamt,12136.0
@@ -113,7 +113,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2012,Ausländerinnen und Ausländer,Fachhochschulreife,Insgesamt,509.0
 2012,Ausländerinnen und Ausländer,Realschulabschluss,Insgesamt,806.0
 2012,Ausländerinnen und Ausländer,Hauptschulabschluss,Insgesamt,348.0
-2012,Ausländerinnen und Ausländer,erfolgreicher Besuch,Insgesamt,1682.0
+2012,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Insgesamt,1682.0
 2012,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Insgesamt,598.0
 2012,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Insgesamt,
 2012,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Insgesamt,1086.0
@@ -123,7 +123,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2011,Deutsche,Fachhochschulreife,Insgesamt,13619.0
 2011,Deutsche,Realschulabschluss,Insgesamt,18302.0
 2011,Deutsche,Hauptschulabschluss,Insgesamt,4056.0
-2011,Deutsche,erfolgreicher Besuch,Insgesamt,52869.0
+2011,Deutsche,Erfolgreicher Besuch²,Insgesamt,52869.0
 2011,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Insgesamt,3221.0
 2011,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Insgesamt,
 2011,Deutsche,ohne erfolgreichen Besuch/Abschluss,Insgesamt,12385.0
@@ -133,7 +133,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2011,Ausländerinnen und Ausländer,Fachhochschulreife,Insgesamt,468.0
 2011,Ausländerinnen und Ausländer,Realschulabschluss,Insgesamt,766.0
 2011,Ausländerinnen und Ausländer,Hauptschulabschluss,Insgesamt,332.0
-2011,Ausländerinnen und Ausländer,erfolgreicher Besuch,Insgesamt,1784.0
+2011,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Insgesamt,1784.0
 2011,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Insgesamt,479.0
 2011,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Insgesamt,
 2011,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Insgesamt,1022.0
@@ -143,7 +143,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2010,Deutsche,Fachhochschulreife,Insgesamt,12306.0
 2010,Deutsche,Realschulabschluss,Insgesamt,19365.0
 2010,Deutsche,Hauptschulabschluss,Insgesamt,4139.0
-2010,Deutsche,erfolgreicher Besuch,Insgesamt,56051.0
+2010,Deutsche,Erfolgreicher Besuch²,Insgesamt,56051.0
 2010,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Insgesamt,3283.0
 2010,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Insgesamt,
 2010,Deutsche,ohne erfolgreichen Besuch/Abschluss,Insgesamt,12940.0
@@ -153,7 +153,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2010,Ausländerinnen und Ausländer,Fachhochschulreife,Insgesamt,363.0
 2010,Ausländerinnen und Ausländer,Realschulabschluss,Insgesamt,794.0
 2010,Ausländerinnen und Ausländer,Hauptschulabschluss,Insgesamt,368.0
-2010,Ausländerinnen und Ausländer,erfolgreicher Besuch,Insgesamt,1746.0
+2010,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Insgesamt,1746.0
 2010,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Insgesamt,432.0
 2010,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Insgesamt,
 2010,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Insgesamt,1047.0
@@ -163,7 +163,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2006,Deutsche,Fachhochschulreife,Insgesamt,10031.0
 2006,Deutsche,Realschulabschluss,Insgesamt,20611.0
 2006,Deutsche,Hauptschulabschluss,Insgesamt,2599.0
-2006,Deutsche,erfolgreicher Besuch,Insgesamt,56167.0
+2006,Deutsche,Erfolgreicher Besuch²,Insgesamt,56167.0
 2006,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Insgesamt,5147.0
 2006,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Insgesamt,2.0
 2006,Deutsche,ohne erfolgreichen Besuch/Abschluss,Insgesamt,15452.0
@@ -173,7 +173,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2006,Ausländerinnen und Ausländer,Fachhochschulreife,Insgesamt,239.0
 2006,Ausländerinnen und Ausländer,Realschulabschluss,Insgesamt,783.0
 2006,Ausländerinnen und Ausländer,Hauptschulabschluss,Insgesamt,249.0
-2006,Ausländerinnen und Ausländer,erfolgreicher Besuch,Insgesamt,1809.0
+2006,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Insgesamt,1809.0
 2006,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Insgesamt,790.0
 2006,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Insgesamt,
 2006,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Insgesamt,1246.0
@@ -183,7 +183,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2005,Deutsche,Fachhochschulreife,Insgesamt,10311.0
 2005,Deutsche,Realschulabschluss,Insgesamt,20155.0
 2005,Deutsche,Hauptschulabschluss,Insgesamt,2705.0
-2005,Deutsche,erfolgreicher Besuch,Insgesamt,56327.0
+2005,Deutsche,Erfolgreicher Besuch²,Insgesamt,56327.0
 2005,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Insgesamt,5113.0
 2005,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Insgesamt,16.0
 2005,Deutsche,ohne erfolgreichen Besuch/Abschluss,Insgesamt,15275.0
@@ -193,7 +193,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2005,Ausländerinnen und Ausländer,Fachhochschulreife,Insgesamt,267.0
 2005,Ausländerinnen und Ausländer,Realschulabschluss,Insgesamt,870.0
 2005,Ausländerinnen und Ausländer,Hauptschulabschluss,Insgesamt,314.0
-2005,Ausländerinnen und Ausländer,erfolgreicher Besuch,Insgesamt,1939.0
+2005,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Insgesamt,1939.0
 2005,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Insgesamt,872.0
 2005,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Insgesamt,
 2005,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Insgesamt,1298.0
@@ -204,7 +204,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2019,Deutsche,Schulischer Teil der Fachhochschulreife,Berufsschule (Teilzeit),
 2019,Deutsche,Realschulabschluss,Berufsschule (Teilzeit),7003.0
 2019,Deutsche,Hauptschulabschluss,Berufsschule (Teilzeit),308.0
-2019,Deutsche,Erfolgreicher Besuch,Berufsschule (Teilzeit),29580.0
+2019,Deutsche,Erfolgreicher Besuch²,Berufsschule (Teilzeit),29580.0
 2019,Deutsche,Entlassungen aus dem Berufsvorbereitungsjahr,Berufsschule (Teilzeit),744.0
 2019,Deutsche,Ohne erfolgreichen Besuch/Abschluss,Berufsschule (Teilzeit),2821.0
 2019,Deutsche,Erreichte Abschlüsse insgesamt,Berufsschule (Teilzeit),40544.0
@@ -214,7 +214,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2019,Ausländerinnen und Ausländer,Schulischer Teil der Fachhochschulreife,Berufsschule (Teilzeit),
 2019,Ausländerinnen und Ausländer,Realschulabschluss,Berufsschule (Teilzeit),526.0
 2019,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsschule (Teilzeit),39.0
-2019,Ausländerinnen und Ausländer,Erfolgreicher Besuch,Berufsschule (Teilzeit),1073.0
+2019,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsschule (Teilzeit),1073.0
 2019,Ausländerinnen und Ausländer,Entlassungen aus dem Berufsvorbereitungsjahr,Berufsschule (Teilzeit),23.0
 2019,Ausländerinnen und Ausländer,Ohne erfolgreichen Besuch/Abschluss,Berufsschule (Teilzeit),374.0
 2019,Ausländerinnen und Ausländer,Erreichte Abschlüsse insgesamt,Berufsschule (Teilzeit),2037.0
@@ -224,7 +224,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2018,Deutsche,Schulischer Teil der Fachhochschulreife,Berufsschule (Teilzeit),
 2018,Deutsche,Realschulabschluss,Berufsschule (Teilzeit),
 2018,Deutsche,Hauptschulabschluss,Berufsschule (Teilzeit),
-2018,Deutsche,Erfolgreicher Besuch,Berufsschule (Teilzeit),
+2018,Deutsche,Erfolgreicher Besuch²,Berufsschule (Teilzeit),
 2018,Deutsche,Entlassungen aus dem Berufsvorbereitungsjahr,Berufsschule (Teilzeit),
 2018,Deutsche,Ohne erfolgreichen Besuch/Abschluss,Berufsschule (Teilzeit),
 2018,Deutsche,Erreichte Abschlüsse insgesamt,Berufsschule (Teilzeit),
@@ -234,7 +234,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2018,Ausländerinnen und Ausländer,Schulischer Teil der Fachhochschulreife,Berufsschule (Teilzeit),
 2018,Ausländerinnen und Ausländer,Realschulabschluss,Berufsschule (Teilzeit),
 2018,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsschule (Teilzeit),
-2018,Ausländerinnen und Ausländer,Erfolgreicher Besuch,Berufsschule (Teilzeit),
+2018,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsschule (Teilzeit),
 2018,Ausländerinnen und Ausländer,Entlassungen aus dem Berufsvorbereitungsjahr,Berufsschule (Teilzeit),
 2018,Ausländerinnen und Ausländer,Ohne erfolgreichen Besuch/Abschluss,Berufsschule (Teilzeit),
 2018,Ausländerinnen und Ausländer,Erreichte Abschlüsse insgesamt,Berufsschule (Teilzeit),
@@ -244,7 +244,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2017,Deutsche,Schulischer Teil der Fachhochschulreife,Berufsschule (Teilzeit),
 2017,Deutsche,Realschulabschluss,Berufsschule (Teilzeit),8889.0
 2017,Deutsche,Hauptschulabschluss,Berufsschule (Teilzeit),256.0
-2017,Deutsche,Erfolgreicher Besuch,Berufsschule (Teilzeit),31093.0
+2017,Deutsche,Erfolgreicher Besuch²,Berufsschule (Teilzeit),31093.0
 2017,Deutsche,Entlassungen aus dem Berufsvorbereitungsjahr,Berufsschule (Teilzeit),811.0
 2017,Deutsche,Ohne erfolgreichen Besuch/Abschluss,Berufsschule (Teilzeit),2981.0
 2017,Deutsche,Erreichte Abschlüsse insgesamt,Berufsschule (Teilzeit),44137.0
@@ -254,7 +254,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2017,Ausländerinnen und Ausländer,Schulischer Teil der Fachhochschulreife,Berufsschule (Teilzeit),
 2017,Ausländerinnen und Ausländer,Realschulabschluss,Berufsschule (Teilzeit),428.0
 2017,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsschule (Teilzeit),15.0
-2017,Ausländerinnen und Ausländer,Erfolgreicher Besuch,Berufsschule (Teilzeit),1009.0
+2017,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsschule (Teilzeit),1009.0
 2017,Ausländerinnen und Ausländer,Entlassungen aus dem Berufsvorbereitungsjahr,Berufsschule (Teilzeit),32.0
 2017,Ausländerinnen und Ausländer,Ohne erfolgreichen Besuch/Abschluss,Berufsschule (Teilzeit),267.0
 2017,Ausländerinnen und Ausländer,Erreichte Abschlüsse insgesamt,Berufsschule (Teilzeit),1754.0
@@ -263,7 +263,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2015,Deutsche,Fachhochschulreife,Berufsschule (Teilzeit),105.0
 2015,Deutsche,Realschulabschluss,Berufsschule (Teilzeit),9671.0
 2015,Deutsche,Hauptschulabschluss,Berufsschule (Teilzeit),257.0
-2015,Deutsche,erfolgreicher Besuch,Berufsschule (Teilzeit),31960.0
+2015,Deutsche,Erfolgreicher Besuch²,Berufsschule (Teilzeit),31960.0
 2015,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufsschule (Teilzeit),933.0
 2015,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsschule (Teilzeit),
 2015,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufsschule (Teilzeit),3359.0
@@ -273,7 +273,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2015,Ausländerinnen und Ausländer,Fachhochschulreife,Berufsschule (Teilzeit),3.0
 2015,Ausländerinnen und Ausländer,Realschulabschluss,Berufsschule (Teilzeit),411.0
 2015,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsschule (Teilzeit),12.0
-2015,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufsschule (Teilzeit),917.0
+2015,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsschule (Teilzeit),917.0
 2015,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufsschule (Teilzeit),26.0
 2015,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsschule (Teilzeit),
 2015,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufsschule (Teilzeit),264.0
@@ -283,7 +283,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2014,Deutsche,Fachhochschulreife,Berufsschule (Teilzeit),82.0
 2014,Deutsche,Realschulabschluss,Berufsschule (Teilzeit),10671.0
 2014,Deutsche,Hauptschulabschluss,Berufsschule (Teilzeit),319.0
-2014,Deutsche,erfolgreicher Besuch,Berufsschule (Teilzeit),33547.0
+2014,Deutsche,Erfolgreicher Besuch²,Berufsschule (Teilzeit),33547.0
 2014,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufsschule (Teilzeit),542.0
 2014,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsschule (Teilzeit),
 2014,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufsschule (Teilzeit),3518.0
@@ -293,7 +293,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2014,Ausländerinnen und Ausländer,Fachhochschulreife,Berufsschule (Teilzeit),1.0
 2014,Ausländerinnen und Ausländer,Realschulabschluss,Berufsschule (Teilzeit),366.0
 2014,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsschule (Teilzeit),10.0
-2014,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufsschule (Teilzeit),873.0
+2014,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsschule (Teilzeit),873.0
 2014,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufsschule (Teilzeit),12.0
 2014,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsschule (Teilzeit),
 2014,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufsschule (Teilzeit),243.0
@@ -303,7 +303,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2012,Deutsche,Fachhochschulreife,Berufsschule (Teilzeit),79.0
 2012,Deutsche,Realschulabschluss,Berufsschule (Teilzeit),10795.0
 2012,Deutsche,Hauptschulabschluss,Berufsschule (Teilzeit),402.0
-2012,Deutsche,erfolgreicher Besuch,Berufsschule (Teilzeit),31944.0
+2012,Deutsche,Erfolgreicher Besuch²,Berufsschule (Teilzeit),31944.0
 2012,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufsschule (Teilzeit),
 2012,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsschule (Teilzeit),
 2012,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufsschule (Teilzeit),3581.0
@@ -313,7 +313,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2012,Ausländerinnen und Ausländer,Fachhochschulreife,Berufsschule (Teilzeit),
 2012,Ausländerinnen und Ausländer,Realschulabschluss,Berufsschule (Teilzeit),390.0
 2012,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsschule (Teilzeit),15.0
-2012,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufsschule (Teilzeit),871.0
+2012,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsschule (Teilzeit),871.0
 2012,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufsschule (Teilzeit),
 2012,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsschule (Teilzeit),
 2012,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufsschule (Teilzeit),258.0
@@ -323,7 +323,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2011,Deutsche,Fachhochschulreife,Berufsschule (Teilzeit),89.0
 2011,Deutsche,Realschulabschluss,Berufsschule (Teilzeit),11039.0
 2011,Deutsche,Hauptschulabschluss,Berufsschule (Teilzeit),449.0
-2011,Deutsche,erfolgreicher Besuch,Berufsschule (Teilzeit),32624.0
+2011,Deutsche,Erfolgreicher Besuch²,Berufsschule (Teilzeit),32624.0
 2011,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufsschule (Teilzeit),
 2011,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsschule (Teilzeit),
 2011,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufsschule (Teilzeit),3198.0
@@ -333,7 +333,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2011,Ausländerinnen und Ausländer,Fachhochschulreife,Berufsschule (Teilzeit),7.0
 2011,Ausländerinnen und Ausländer,Realschulabschluss,Berufsschule (Teilzeit),355.0
 2011,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsschule (Teilzeit),23.0
-2011,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufsschule (Teilzeit),921.0
+2011,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsschule (Teilzeit),921.0
 2011,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufsschule (Teilzeit),
 2011,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsschule (Teilzeit),
 2011,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufsschule (Teilzeit),191.0
@@ -343,7 +343,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2010,Deutsche,Fachhochschulreife,Berufsschule (Teilzeit),86.0
 2010,Deutsche,Realschulabschluss,Berufsschule (Teilzeit),11028.0
 2010,Deutsche,Hauptschulabschluss,Berufsschule (Teilzeit),415.0
-2010,Deutsche,erfolgreicher Besuch,Berufsschule (Teilzeit),33962.0
+2010,Deutsche,Erfolgreicher Besuch²,Berufsschule (Teilzeit),33962.0
 2010,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufsschule (Teilzeit),
 2010,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsschule (Teilzeit),
 2010,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufsschule (Teilzeit),3052.0
@@ -353,7 +353,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2010,Ausländerinnen und Ausländer,Fachhochschulreife,Berufsschule (Teilzeit),1.0
 2010,Ausländerinnen und Ausländer,Realschulabschluss,Berufsschule (Teilzeit),328.0
 2010,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsschule (Teilzeit),5.0
-2010,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufsschule (Teilzeit),801.0
+2010,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsschule (Teilzeit),801.0
 2010,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufsschule (Teilzeit),
 2010,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsschule (Teilzeit),
 2010,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufsschule (Teilzeit),134.0
@@ -363,7 +363,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2006,Deutsche,Fachhochschulreife,Berufsschule (Teilzeit),97.0
 2006,Deutsche,Realschulabschluss,Berufsschule (Teilzeit),10884.0
 2006,Deutsche,Hauptschulabschluss,Berufsschule (Teilzeit),434.0
-2006,Deutsche,erfolgreicher Besuch,Berufsschule (Teilzeit),29076.0
+2006,Deutsche,Erfolgreicher Besuch²,Berufsschule (Teilzeit),29076.0
 2006,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufsschule (Teilzeit),
 2006,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsschule (Teilzeit),
 2006,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufsschule (Teilzeit),3724.0
@@ -373,7 +373,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2006,Ausländerinnen und Ausländer,Fachhochschulreife,Berufsschule (Teilzeit),1.0
 2006,Ausländerinnen und Ausländer,Realschulabschluss,Berufsschule (Teilzeit),319.0
 2006,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsschule (Teilzeit),10.0
-2006,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufsschule (Teilzeit),777.0
+2006,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsschule (Teilzeit),777.0
 2006,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufsschule (Teilzeit),
 2006,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsschule (Teilzeit),
 2006,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufsschule (Teilzeit),194.0
@@ -383,7 +383,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2005,Deutsche,Fachhochschulreife,Berufsschule (Teilzeit),96.0
 2005,Deutsche,Realschulabschluss,Berufsschule (Teilzeit),10698.0
 2005,Deutsche,Hauptschulabschluss,Berufsschule (Teilzeit),429.0
-2005,Deutsche,erfolgreicher Besuch,Berufsschule (Teilzeit),28999.0
+2005,Deutsche,Erfolgreicher Besuch²,Berufsschule (Teilzeit),28999.0
 2005,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufsschule (Teilzeit),
 2005,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsschule (Teilzeit),
 2005,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufsschule (Teilzeit),4273.0
@@ -393,7 +393,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2005,Ausländerinnen und Ausländer,Fachhochschulreife,Berufsschule (Teilzeit),8.0
 2005,Ausländerinnen und Ausländer,Realschulabschluss,Berufsschule (Teilzeit),419.0
 2005,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsschule (Teilzeit),27.0
-2005,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufsschule (Teilzeit),817.0
+2005,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsschule (Teilzeit),817.0
 2005,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufsschule (Teilzeit),
 2005,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsschule (Teilzeit),
 2005,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufsschule (Teilzeit),318.0
@@ -404,7 +404,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2019,Deutsche,Schulischer Teil der Fachhochschulreife,Berufsgrundbildungsjahr schulisch,
 2019,Deutsche,Realschulabschluss,Berufsgrundbildungsjahr schulisch,
 2019,Deutsche,Hauptschulabschluss,Berufsgrundbildungsjahr schulisch,
-2019,Deutsche,Erfolgreicher Besuch,Berufsgrundbildungsjahr schulisch,
+2019,Deutsche,Erfolgreicher Besuch²,Berufsgrundbildungsjahr schulisch,
 2019,Deutsche,Entlassungen aus dem Berufsvorbereitungsjahr,Berufsgrundbildungsjahr schulisch,
 2019,Deutsche,Ohne erfolgreichen Besuch/Abschluss,Berufsgrundbildungsjahr schulisch,
 2019,Deutsche,Erreichte Abschlüsse insgesamt,Berufsgrundbildungsjahr schulisch,
@@ -414,7 +414,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2019,Ausländerinnen und Ausländer,Schulischer Teil der Fachhochschulreife,Berufsgrundbildungsjahr schulisch,
 2019,Ausländerinnen und Ausländer,Realschulabschluss,Berufsgrundbildungsjahr schulisch,
 2019,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsgrundbildungsjahr schulisch,
-2019,Ausländerinnen und Ausländer,Erfolgreicher Besuch,Berufsgrundbildungsjahr schulisch,
+2019,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsgrundbildungsjahr schulisch,
 2019,Ausländerinnen und Ausländer,Entlassungen aus dem Berufsvorbereitungsjahr,Berufsgrundbildungsjahr schulisch,
 2019,Ausländerinnen und Ausländer,Ohne erfolgreichen Besuch/Abschluss,Berufsgrundbildungsjahr schulisch,
 2019,Ausländerinnen und Ausländer,Erreichte Abschlüsse insgesamt,Berufsgrundbildungsjahr schulisch,
@@ -424,7 +424,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2018,Deutsche,Schulischer Teil der Fachhochschulreife,Berufsgrundbildungsjahr schulisch,
 2018,Deutsche,Realschulabschluss,Berufsgrundbildungsjahr schulisch,7352.0
 2018,Deutsche,Hauptschulabschluss,Berufsgrundbildungsjahr schulisch,263.0
-2018,Deutsche,Erfolgreicher Besuch,Berufsgrundbildungsjahr schulisch,30491.0
+2018,Deutsche,Erfolgreicher Besuch²,Berufsgrundbildungsjahr schulisch,30491.0
 2018,Deutsche,Entlassungen aus dem Berufsvorbereitungsjahr,Berufsgrundbildungsjahr schulisch,700.0
 2018,Deutsche,Ohne erfolgreichen Besuch/Abschluss,Berufsgrundbildungsjahr schulisch,2815.0
 2018,Deutsche,Erreichte Abschlüsse insgesamt,Berufsgrundbildungsjahr schulisch,41723.0
@@ -434,7 +434,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2018,Ausländerinnen und Ausländer,Schulischer Teil der Fachhochschulreife,Berufsgrundbildungsjahr schulisch,
 2018,Ausländerinnen und Ausländer,Realschulabschluss,Berufsgrundbildungsjahr schulisch,422.0
 2018,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsgrundbildungsjahr schulisch,22.0
-2018,Ausländerinnen und Ausländer,Erfolgreicher Besuch,Berufsgrundbildungsjahr schulisch,1051.0
+2018,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsgrundbildungsjahr schulisch,1051.0
 2018,Ausländerinnen und Ausländer,Entlassungen aus dem Berufsvorbereitungsjahr,Berufsgrundbildungsjahr schulisch,23.0
 2018,Ausländerinnen und Ausländer,Ohne erfolgreichen Besuch/Abschluss,Berufsgrundbildungsjahr schulisch,287.0
 2018,Ausländerinnen und Ausländer,Erreichte Abschlüsse insgesamt,Berufsgrundbildungsjahr schulisch,1810.0
@@ -444,7 +444,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2017,Deutsche,Schulischer Teil der Fachhochschulreife,Berufsgrundbildungsjahr schulisch,
 2017,Deutsche,Realschulabschluss,Berufsgrundbildungsjahr schulisch,
 2017,Deutsche,Hauptschulabschluss,Berufsgrundbildungsjahr schulisch,
-2017,Deutsche,Erfolgreicher Besuch,Berufsgrundbildungsjahr schulisch,
+2017,Deutsche,Erfolgreicher Besuch²,Berufsgrundbildungsjahr schulisch,
 2017,Deutsche,Entlassungen aus dem Berufsvorbereitungsjahr,Berufsgrundbildungsjahr schulisch,
 2017,Deutsche,Ohne erfolgreichen Besuch/Abschluss,Berufsgrundbildungsjahr schulisch,
 2017,Deutsche,Erreichte Abschlüsse insgesamt,Berufsgrundbildungsjahr schulisch,
@@ -454,7 +454,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2017,Ausländerinnen und Ausländer,Schulischer Teil der Fachhochschulreife,Berufsgrundbildungsjahr schulisch,
 2017,Ausländerinnen und Ausländer,Realschulabschluss,Berufsgrundbildungsjahr schulisch,
 2017,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsgrundbildungsjahr schulisch,
-2017,Ausländerinnen und Ausländer,Erfolgreicher Besuch,Berufsgrundbildungsjahr schulisch,
+2017,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsgrundbildungsjahr schulisch,
 2017,Ausländerinnen und Ausländer,Entlassungen aus dem Berufsvorbereitungsjahr,Berufsgrundbildungsjahr schulisch,
 2017,Ausländerinnen und Ausländer,Ohne erfolgreichen Besuch/Abschluss,Berufsgrundbildungsjahr schulisch,
 2017,Ausländerinnen und Ausländer,Erreichte Abschlüsse insgesamt,Berufsgrundbildungsjahr schulisch,
@@ -463,7 +463,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2015,Deutsche,Fachhochschulreife,Berufsgrundbildungsjahr schulisch,
 2015,Deutsche,Realschulabschluss,Berufsgrundbildungsjahr schulisch,
 2015,Deutsche,Hauptschulabschluss,Berufsgrundbildungsjahr schulisch,
-2015,Deutsche,erfolgreicher Besuch,Berufsgrundbildungsjahr schulisch,
+2015,Deutsche,Erfolgreicher Besuch²,Berufsgrundbildungsjahr schulisch,
 2015,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufsgrundbildungsjahr schulisch,
 2015,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsgrundbildungsjahr schulisch,
 2015,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufsgrundbildungsjahr schulisch,
@@ -473,7 +473,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2015,Ausländerinnen und Ausländer,Fachhochschulreife,Berufsgrundbildungsjahr schulisch,
 2015,Ausländerinnen und Ausländer,Realschulabschluss,Berufsgrundbildungsjahr schulisch,
 2015,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsgrundbildungsjahr schulisch,
-2015,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufsgrundbildungsjahr schulisch,
+2015,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsgrundbildungsjahr schulisch,
 2015,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufsgrundbildungsjahr schulisch,
 2015,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsgrundbildungsjahr schulisch,
 2015,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufsgrundbildungsjahr schulisch,
@@ -483,7 +483,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2014,Deutsche,Fachhochschulreife,Berufsgrundbildungsjahr schulisch,
 2014,Deutsche,Realschulabschluss,Berufsgrundbildungsjahr schulisch,
 2014,Deutsche,Hauptschulabschluss,Berufsgrundbildungsjahr schulisch,
-2014,Deutsche,erfolgreicher Besuch,Berufsgrundbildungsjahr schulisch,
+2014,Deutsche,Erfolgreicher Besuch²,Berufsgrundbildungsjahr schulisch,
 2014,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufsgrundbildungsjahr schulisch,
 2014,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsgrundbildungsjahr schulisch,
 2014,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufsgrundbildungsjahr schulisch,
@@ -493,7 +493,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2014,Ausländerinnen und Ausländer,Fachhochschulreife,Berufsgrundbildungsjahr schulisch,
 2014,Ausländerinnen und Ausländer,Realschulabschluss,Berufsgrundbildungsjahr schulisch,
 2014,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsgrundbildungsjahr schulisch,
-2014,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufsgrundbildungsjahr schulisch,
+2014,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsgrundbildungsjahr schulisch,
 2014,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufsgrundbildungsjahr schulisch,
 2014,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsgrundbildungsjahr schulisch,
 2014,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufsgrundbildungsjahr schulisch,
@@ -503,7 +503,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2012,Deutsche,Fachhochschulreife,Berufsgrundbildungsjahr schulisch,
 2012,Deutsche,Realschulabschluss,Berufsgrundbildungsjahr schulisch,
 2012,Deutsche,Hauptschulabschluss,Berufsgrundbildungsjahr schulisch,
-2012,Deutsche,erfolgreicher Besuch,Berufsgrundbildungsjahr schulisch,
+2012,Deutsche,Erfolgreicher Besuch²,Berufsgrundbildungsjahr schulisch,
 2012,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufsgrundbildungsjahr schulisch,
 2012,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsgrundbildungsjahr schulisch,
 2012,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufsgrundbildungsjahr schulisch,
@@ -513,7 +513,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2012,Ausländerinnen und Ausländer,Fachhochschulreife,Berufsgrundbildungsjahr schulisch,
 2012,Ausländerinnen und Ausländer,Realschulabschluss,Berufsgrundbildungsjahr schulisch,
 2012,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsgrundbildungsjahr schulisch,
-2012,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufsgrundbildungsjahr schulisch,
+2012,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsgrundbildungsjahr schulisch,
 2012,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufsgrundbildungsjahr schulisch,
 2012,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsgrundbildungsjahr schulisch,
 2012,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufsgrundbildungsjahr schulisch,
@@ -523,7 +523,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2011,Deutsche,Fachhochschulreife,Berufsgrundbildungsjahr schulisch,
 2011,Deutsche,Realschulabschluss,Berufsgrundbildungsjahr schulisch,
 2011,Deutsche,Hauptschulabschluss,Berufsgrundbildungsjahr schulisch,
-2011,Deutsche,erfolgreicher Besuch,Berufsgrundbildungsjahr schulisch,
+2011,Deutsche,Erfolgreicher Besuch²,Berufsgrundbildungsjahr schulisch,
 2011,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufsgrundbildungsjahr schulisch,
 2011,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsgrundbildungsjahr schulisch,
 2011,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufsgrundbildungsjahr schulisch,
@@ -533,7 +533,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2011,Ausländerinnen und Ausländer,Fachhochschulreife,Berufsgrundbildungsjahr schulisch,
 2011,Ausländerinnen und Ausländer,Realschulabschluss,Berufsgrundbildungsjahr schulisch,
 2011,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsgrundbildungsjahr schulisch,
-2011,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufsgrundbildungsjahr schulisch,
+2011,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsgrundbildungsjahr schulisch,
 2011,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufsgrundbildungsjahr schulisch,
 2011,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsgrundbildungsjahr schulisch,
 2011,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufsgrundbildungsjahr schulisch,
@@ -543,7 +543,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2010,Deutsche,Fachhochschulreife,Berufsgrundbildungsjahr schulisch,
 2010,Deutsche,Realschulabschluss,Berufsgrundbildungsjahr schulisch,
 2010,Deutsche,Hauptschulabschluss,Berufsgrundbildungsjahr schulisch,
-2010,Deutsche,erfolgreicher Besuch,Berufsgrundbildungsjahr schulisch,
+2010,Deutsche,Erfolgreicher Besuch²,Berufsgrundbildungsjahr schulisch,
 2010,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufsgrundbildungsjahr schulisch,
 2010,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsgrundbildungsjahr schulisch,
 2010,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufsgrundbildungsjahr schulisch,
@@ -553,7 +553,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2010,Ausländerinnen und Ausländer,Fachhochschulreife,Berufsgrundbildungsjahr schulisch,
 2010,Ausländerinnen und Ausländer,Realschulabschluss,Berufsgrundbildungsjahr schulisch,
 2010,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsgrundbildungsjahr schulisch,
-2010,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufsgrundbildungsjahr schulisch,
+2010,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsgrundbildungsjahr schulisch,
 2010,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufsgrundbildungsjahr schulisch,
 2010,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsgrundbildungsjahr schulisch,
 2010,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufsgrundbildungsjahr schulisch,
@@ -563,7 +563,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2006,Deutsche,Fachhochschulreife,Berufsgrundbildungsjahr schulisch,
 2006,Deutsche,Realschulabschluss,Berufsgrundbildungsjahr schulisch,
 2006,Deutsche,Hauptschulabschluss,Berufsgrundbildungsjahr schulisch,741.0
-2006,Deutsche,erfolgreicher Besuch,Berufsgrundbildungsjahr schulisch,6868.0
+2006,Deutsche,Erfolgreicher Besuch²,Berufsgrundbildungsjahr schulisch,6868.0
 2006,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufsgrundbildungsjahr schulisch,
 2006,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsgrundbildungsjahr schulisch,1.0
 2006,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufsgrundbildungsjahr schulisch,2928.0
@@ -573,7 +573,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2006,Ausländerinnen und Ausländer,Fachhochschulreife,Berufsgrundbildungsjahr schulisch,
 2006,Ausländerinnen und Ausländer,Realschulabschluss,Berufsgrundbildungsjahr schulisch,
 2006,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsgrundbildungsjahr schulisch,65.0
-2006,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufsgrundbildungsjahr schulisch,232.0
+2006,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsgrundbildungsjahr schulisch,232.0
 2006,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufsgrundbildungsjahr schulisch,
 2006,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsgrundbildungsjahr schulisch,
 2006,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufsgrundbildungsjahr schulisch,237.0
@@ -583,7 +583,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2005,Deutsche,Fachhochschulreife,Berufsgrundbildungsjahr schulisch,
 2005,Deutsche,Realschulabschluss,Berufsgrundbildungsjahr schulisch,
 2005,Deutsche,Hauptschulabschluss,Berufsgrundbildungsjahr schulisch,856.0
-2005,Deutsche,erfolgreicher Besuch,Berufsgrundbildungsjahr schulisch,6893.0
+2005,Deutsche,Erfolgreicher Besuch²,Berufsgrundbildungsjahr schulisch,6893.0
 2005,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufsgrundbildungsjahr schulisch,
 2005,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsgrundbildungsjahr schulisch,14.0
 2005,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufsgrundbildungsjahr schulisch,2882.0
@@ -593,7 +593,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2005,Ausländerinnen und Ausländer,Fachhochschulreife,Berufsgrundbildungsjahr schulisch,
 2005,Ausländerinnen und Ausländer,Realschulabschluss,Berufsgrundbildungsjahr schulisch,
 2005,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsgrundbildungsjahr schulisch,86.0
-2005,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufsgrundbildungsjahr schulisch,230.0
+2005,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsgrundbildungsjahr schulisch,230.0
 2005,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufsgrundbildungsjahr schulisch,
 2005,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsgrundbildungsjahr schulisch,
 2005,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufsgrundbildungsjahr schulisch,236.0
@@ -604,7 +604,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2019,Deutsche,Schulischer Teil der Fachhochschulreife,Berufseinstiegsklasse,
 2019,Deutsche,Realschulabschluss,Berufseinstiegsklasse,
 2019,Deutsche,Hauptschulabschluss,Berufseinstiegsklasse,1259.0
-2019,Deutsche,Erfolgreicher Besuch,Berufseinstiegsklasse,195.0
+2019,Deutsche,Erfolgreicher Besuch²,Berufseinstiegsklasse,195.0
 2019,Deutsche,Entlassungen aus dem Berufsvorbereitungsjahr,Berufseinstiegsklasse,
 2019,Deutsche,Ohne erfolgreichen Besuch/Abschluss,Berufseinstiegsklasse,721.0
 2019,Deutsche,Erreichte Abschlüsse insgesamt,Berufseinstiegsklasse,2175.0
@@ -614,7 +614,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2019,Ausländerinnen und Ausländer,Schulischer Teil der Fachhochschulreife,Berufseinstiegsklasse,
 2019,Ausländerinnen und Ausländer,Realschulabschluss,Berufseinstiegsklasse,
 2019,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufseinstiegsklasse,1055.0
-2019,Ausländerinnen und Ausländer,Erfolgreicher Besuch,Berufseinstiegsklasse,70.0
+2019,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufseinstiegsklasse,70.0
 2019,Ausländerinnen und Ausländer,Entlassungen aus dem Berufsvorbereitungsjahr,Berufseinstiegsklasse,
 2019,Ausländerinnen und Ausländer,Ohne erfolgreichen Besuch/Abschluss,Berufseinstiegsklasse,343.0
 2019,Ausländerinnen und Ausländer,Erreichte Abschlüsse insgesamt,Berufseinstiegsklasse,1468.0
@@ -624,7 +624,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2018,Deutsche,Schulischer Teil der Fachhochschulreife,Berufseinstiegsklasse,
 2018,Deutsche,Realschulabschluss,Berufseinstiegsklasse,
 2018,Deutsche,Hauptschulabschluss,Berufseinstiegsklasse,1493.0
-2018,Deutsche,Erfolgreicher Besuch,Berufseinstiegsklasse,159.0
+2018,Deutsche,Erfolgreicher Besuch²,Berufseinstiegsklasse,159.0
 2018,Deutsche,Entlassungen aus dem Berufsvorbereitungsjahr,Berufseinstiegsklasse,
 2018,Deutsche,Ohne erfolgreichen Besuch/Abschluss,Berufseinstiegsklasse,784.0
 2018,Deutsche,Erreichte Abschlüsse insgesamt,Berufseinstiegsklasse,2436.0
@@ -634,7 +634,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2018,Ausländerinnen und Ausländer,Schulischer Teil der Fachhochschulreife,Berufseinstiegsklasse,
 2018,Ausländerinnen und Ausländer,Realschulabschluss,Berufseinstiegsklasse,
 2018,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufseinstiegsklasse,1227.0
-2018,Ausländerinnen und Ausländer,Erfolgreicher Besuch,Berufseinstiegsklasse,58.0
+2018,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufseinstiegsklasse,58.0
 2018,Ausländerinnen und Ausländer,Entlassungen aus dem Berufsvorbereitungsjahr,Berufseinstiegsklasse,
 2018,Ausländerinnen und Ausländer,Ohne erfolgreichen Besuch/Abschluss,Berufseinstiegsklasse,445.0
 2018,Ausländerinnen und Ausländer,Erreichte Abschlüsse insgesamt,Berufseinstiegsklasse,1730.0
@@ -644,7 +644,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2017,Deutsche,Schulischer Teil der Fachhochschulreife,Berufseinstiegsklasse,
 2017,Deutsche,Realschulabschluss,Berufseinstiegsklasse,
 2017,Deutsche,Hauptschulabschluss,Berufseinstiegsklasse,1473.0
-2017,Deutsche,Erfolgreicher Besuch,Berufseinstiegsklasse,181.0
+2017,Deutsche,Erfolgreicher Besuch²,Berufseinstiegsklasse,181.0
 2017,Deutsche,Entlassungen aus dem Berufsvorbereitungsjahr,Berufseinstiegsklasse,
 2017,Deutsche,Ohne erfolgreichen Besuch/Abschluss,Berufseinstiegsklasse,806.0
 2017,Deutsche,Erreichte Abschlüsse insgesamt,Berufseinstiegsklasse,2460.0
@@ -654,7 +654,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2017,Ausländerinnen und Ausländer,Schulischer Teil der Fachhochschulreife,Berufseinstiegsklasse,
 2017,Ausländerinnen und Ausländer,Realschulabschluss,Berufseinstiegsklasse,
 2017,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufseinstiegsklasse,588.0
-2017,Ausländerinnen und Ausländer,Erfolgreicher Besuch,Berufseinstiegsklasse,92.0
+2017,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufseinstiegsklasse,92.0
 2017,Ausländerinnen und Ausländer,Entlassungen aus dem Berufsvorbereitungsjahr,Berufseinstiegsklasse,
 2017,Ausländerinnen und Ausländer,Ohne erfolgreichen Besuch/Abschluss,Berufseinstiegsklasse,235.0
 2017,Ausländerinnen und Ausländer,Erreichte Abschlüsse insgesamt,Berufseinstiegsklasse,915.0
@@ -663,7 +663,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2015,Deutsche,Fachhochschulreife,Berufseinstiegsklasse,
 2015,Deutsche,Realschulabschluss,Berufseinstiegsklasse,
 2015,Deutsche,Hauptschulabschluss,Berufseinstiegsklasse,1500.0
-2015,Deutsche,erfolgreicher Besuch,Berufseinstiegsklasse,268.0
+2015,Deutsche,Erfolgreicher Besuch²,Berufseinstiegsklasse,268.0
 2015,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufseinstiegsklasse,
 2015,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufseinstiegsklasse,
 2015,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufseinstiegsklasse,790.0
@@ -673,7 +673,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2015,Ausländerinnen und Ausländer,Fachhochschulreife,Berufseinstiegsklasse,
 2015,Ausländerinnen und Ausländer,Realschulabschluss,Berufseinstiegsklasse,
 2015,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufseinstiegsklasse,254.0
-2015,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufseinstiegsklasse,31.0
+2015,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufseinstiegsklasse,31.0
 2015,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufseinstiegsklasse,
 2015,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufseinstiegsklasse,
 2015,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufseinstiegsklasse,161.0
@@ -683,7 +683,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2014,Deutsche,Fachhochschulreife,Berufseinstiegsklasse,
 2014,Deutsche,Realschulabschluss,Berufseinstiegsklasse,
 2014,Deutsche,Hauptschulabschluss,Berufseinstiegsklasse,1825.0
-2014,Deutsche,erfolgreicher Besuch,Berufseinstiegsklasse,323.0
+2014,Deutsche,Erfolgreicher Besuch²,Berufseinstiegsklasse,323.0
 2014,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufseinstiegsklasse,
 2014,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufseinstiegsklasse,
 2014,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufseinstiegsklasse,969.0
@@ -693,7 +693,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2014,Ausländerinnen und Ausländer,Fachhochschulreife,Berufseinstiegsklasse,
 2014,Ausländerinnen und Ausländer,Realschulabschluss,Berufseinstiegsklasse,
 2014,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufseinstiegsklasse,260.0
-2014,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufseinstiegsklasse,40.0
+2014,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufseinstiegsklasse,40.0
 2014,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufseinstiegsklasse,
 2014,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufseinstiegsklasse,
 2014,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufseinstiegsklasse,124.0
@@ -703,7 +703,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2012,Deutsche,Fachhochschulreife,Berufseinstiegsklasse,
 2012,Deutsche,Realschulabschluss,Berufseinstiegsklasse,
 2012,Deutsche,Hauptschulabschluss,Berufseinstiegsklasse,1824.0
-2012,Deutsche,erfolgreicher Besuch,Berufseinstiegsklasse,383.0
+2012,Deutsche,Erfolgreicher Besuch²,Berufseinstiegsklasse,383.0
 2012,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufseinstiegsklasse,
 2012,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufseinstiegsklasse,
 2012,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufseinstiegsklasse,965.0
@@ -713,7 +713,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2012,Ausländerinnen und Ausländer,Fachhochschulreife,Berufseinstiegsklasse,
 2012,Ausländerinnen und Ausländer,Realschulabschluss,Berufseinstiegsklasse,
 2012,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufseinstiegsklasse,222.0
-2012,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufseinstiegsklasse,38.0
+2012,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufseinstiegsklasse,38.0
 2012,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufseinstiegsklasse,
 2012,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufseinstiegsklasse,
 2012,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufseinstiegsklasse,123.0
@@ -723,7 +723,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2011,Deutsche,Fachhochschulreife,Berufseinstiegsklasse,
 2011,Deutsche,Realschulabschluss,Berufseinstiegsklasse,
 2011,Deutsche,Hauptschulabschluss,Berufseinstiegsklasse,2034.0
-2011,Deutsche,erfolgreicher Besuch,Berufseinstiegsklasse,353.0
+2011,Deutsche,Erfolgreicher Besuch²,Berufseinstiegsklasse,353.0
 2011,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufseinstiegsklasse,
 2011,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufseinstiegsklasse,
 2011,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufseinstiegsklasse,1111.0
@@ -733,7 +733,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2011,Ausländerinnen und Ausländer,Fachhochschulreife,Berufseinstiegsklasse,
 2011,Ausländerinnen und Ausländer,Realschulabschluss,Berufseinstiegsklasse,
 2011,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufseinstiegsklasse,204.0
-2011,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufseinstiegsklasse,42.0
+2011,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufseinstiegsklasse,42.0
 2011,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufseinstiegsklasse,
 2011,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufseinstiegsklasse,
 2011,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufseinstiegsklasse,144.0
@@ -743,7 +743,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2010,Deutsche,Fachhochschulreife,Berufseinstiegsklasse,
 2010,Deutsche,Realschulabschluss,Berufseinstiegsklasse,
 2010,Deutsche,Hauptschulabschluss,Berufseinstiegsklasse,2112.0
-2010,Deutsche,erfolgreicher Besuch,Berufseinstiegsklasse,441.0
+2010,Deutsche,Erfolgreicher Besuch²,Berufseinstiegsklasse,441.0
 2010,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufseinstiegsklasse,
 2010,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufseinstiegsklasse,
 2010,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufseinstiegsklasse,1183.0
@@ -753,7 +753,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2010,Ausländerinnen und Ausländer,Fachhochschulreife,Berufseinstiegsklasse,
 2010,Ausländerinnen und Ausländer,Realschulabschluss,Berufseinstiegsklasse,
 2010,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufseinstiegsklasse,256.0
-2010,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufseinstiegsklasse,42.0
+2010,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufseinstiegsklasse,42.0
 2010,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufseinstiegsklasse,
 2010,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufseinstiegsklasse,
 2010,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufseinstiegsklasse,169.0
@@ -763,7 +763,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2006,Deutsche,Fachhochschulreife,Berufseinstiegsklasse,
 2006,Deutsche,Realschulabschluss,Berufseinstiegsklasse,
 2006,Deutsche,Hauptschulabschluss,Berufseinstiegsklasse,
-2006,Deutsche,erfolgreicher Besuch,Berufseinstiegsklasse,
+2006,Deutsche,Erfolgreicher Besuch²,Berufseinstiegsklasse,
 2006,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufseinstiegsklasse,
 2006,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufseinstiegsklasse,
 2006,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufseinstiegsklasse,
@@ -773,7 +773,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2006,Ausländerinnen und Ausländer,Fachhochschulreife,Berufseinstiegsklasse,
 2006,Ausländerinnen und Ausländer,Realschulabschluss,Berufseinstiegsklasse,
 2006,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufseinstiegsklasse,
-2006,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufseinstiegsklasse,
+2006,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufseinstiegsklasse,
 2006,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufseinstiegsklasse,
 2006,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufseinstiegsklasse,
 2006,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufseinstiegsklasse,
@@ -783,7 +783,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2005,Deutsche,Fachhochschulreife,Berufseinstiegsklasse,
 2005,Deutsche,Realschulabschluss,Berufseinstiegsklasse,
 2005,Deutsche,Hauptschulabschluss,Berufseinstiegsklasse,
-2005,Deutsche,erfolgreicher Besuch,Berufseinstiegsklasse,
+2005,Deutsche,Erfolgreicher Besuch²,Berufseinstiegsklasse,
 2005,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufseinstiegsklasse,
 2005,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufseinstiegsklasse,
 2005,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufseinstiegsklasse,
@@ -793,7 +793,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2005,Ausländerinnen und Ausländer,Fachhochschulreife,Berufseinstiegsklasse,
 2005,Ausländerinnen und Ausländer,Realschulabschluss,Berufseinstiegsklasse,
 2005,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufseinstiegsklasse,
-2005,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufseinstiegsklasse,
+2005,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufseinstiegsklasse,
 2005,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufseinstiegsklasse,
 2005,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufseinstiegsklasse,
 2005,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufseinstiegsklasse,
@@ -804,7 +804,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2019,Deutsche,Schulischer Teil der Fachhochschulreife,Berufsvorbereitungsjahr,
 2019,Deutsche,Realschulabschluss,Berufsvorbereitungsjahr,
 2019,Deutsche,Hauptschulabschluss,Berufsvorbereitungsjahr,469.0
-2019,Deutsche,Erfolgreicher Besuch,Berufsvorbereitungsjahr,
+2019,Deutsche,Erfolgreicher Besuch²,Berufsvorbereitungsjahr,
 2019,Deutsche,Entlassungen aus dem Berufsvorbereitungsjahr,Berufsvorbereitungsjahr,2627.0
 2019,Deutsche,Ohne erfolgreichen Besuch/Abschluss,Berufsvorbereitungsjahr,
 2019,Deutsche,Erreichte Abschlüsse insgesamt,Berufsvorbereitungsjahr,3096.0
@@ -814,7 +814,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2019,Ausländerinnen und Ausländer,Schulischer Teil der Fachhochschulreife,Berufsvorbereitungsjahr,
 2019,Ausländerinnen und Ausländer,Realschulabschluss,Berufsvorbereitungsjahr,
 2019,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsvorbereitungsjahr,311.0
-2019,Ausländerinnen und Ausländer,Erfolgreicher Besuch,Berufsvorbereitungsjahr,
+2019,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsvorbereitungsjahr,
 2019,Ausländerinnen und Ausländer,Entlassungen aus dem Berufsvorbereitungsjahr,Berufsvorbereitungsjahr,2930.0
 2019,Ausländerinnen und Ausländer,Ohne erfolgreichen Besuch/Abschluss,Berufsvorbereitungsjahr,
 2019,Ausländerinnen und Ausländer,Erreichte Abschlüsse insgesamt,Berufsvorbereitungsjahr,3241.0
@@ -824,7 +824,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2018,Deutsche,Schulischer Teil der Fachhochschulreife,Berufsvorbereitungsjahr,
 2018,Deutsche,Realschulabschluss,Berufsvorbereitungsjahr,
 2018,Deutsche,Hauptschulabschluss,Berufsvorbereitungsjahr,413.0
-2018,Deutsche,Erfolgreicher Besuch,Berufsvorbereitungsjahr,
+2018,Deutsche,Erfolgreicher Besuch²,Berufsvorbereitungsjahr,
 2018,Deutsche,Entlassungen aus dem Berufsvorbereitungsjahr,Berufsvorbereitungsjahr,2628.0
 2018,Deutsche,Ohne erfolgreichen Besuch/Abschluss,Berufsvorbereitungsjahr,
 2018,Deutsche,Erreichte Abschlüsse insgesamt,Berufsvorbereitungsjahr,3041.0
@@ -834,7 +834,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2018,Ausländerinnen und Ausländer,Schulischer Teil der Fachhochschulreife,Berufsvorbereitungsjahr,
 2018,Ausländerinnen und Ausländer,Realschulabschluss,Berufsvorbereitungsjahr,
 2018,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsvorbereitungsjahr,307.0
-2018,Ausländerinnen und Ausländer,Erfolgreicher Besuch,Berufsvorbereitungsjahr,
+2018,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsvorbereitungsjahr,
 2018,Ausländerinnen und Ausländer,Entlassungen aus dem Berufsvorbereitungsjahr,Berufsvorbereitungsjahr,4320.0
 2018,Ausländerinnen und Ausländer,Ohne erfolgreichen Besuch/Abschluss,Berufsvorbereitungsjahr,
 2018,Ausländerinnen und Ausländer,Erreichte Abschlüsse insgesamt,Berufsvorbereitungsjahr,4627.0
@@ -844,7 +844,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2017,Deutsche,Schulischer Teil der Fachhochschulreife,Berufsvorbereitungsjahr,
 2017,Deutsche,Realschulabschluss,Berufsvorbereitungsjahr,
 2017,Deutsche,Hauptschulabschluss,Berufsvorbereitungsjahr,374.0
-2017,Deutsche,Erfolgreicher Besuch,Berufsvorbereitungsjahr,
+2017,Deutsche,Erfolgreicher Besuch²,Berufsvorbereitungsjahr,
 2017,Deutsche,Entlassungen aus dem Berufsvorbereitungsjahr,Berufsvorbereitungsjahr,2743.0
 2017,Deutsche,Ohne erfolgreichen Besuch/Abschluss,Berufsvorbereitungsjahr,
 2017,Deutsche,Erreichte Abschlüsse insgesamt,Berufsvorbereitungsjahr,3117.0
@@ -854,7 +854,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2017,Ausländerinnen und Ausländer,Schulischer Teil der Fachhochschulreife,Berufsvorbereitungsjahr,
 2017,Ausländerinnen und Ausländer,Realschulabschluss,Berufsvorbereitungsjahr,
 2017,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsvorbereitungsjahr,277.0
-2017,Ausländerinnen und Ausländer,Erfolgreicher Besuch,Berufsvorbereitungsjahr,
+2017,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsvorbereitungsjahr,
 2017,Ausländerinnen und Ausländer,Entlassungen aus dem Berufsvorbereitungsjahr,Berufsvorbereitungsjahr,5154.0
 2017,Ausländerinnen und Ausländer,Ohne erfolgreichen Besuch/Abschluss,Berufsvorbereitungsjahr,
 2017,Ausländerinnen und Ausländer,Erreichte Abschlüsse insgesamt,Berufsvorbereitungsjahr,5431.0
@@ -863,7 +863,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2015,Deutsche,Fachhochschulreife,Berufsvorbereitungsjahr,
 2015,Deutsche,Realschulabschluss,Berufsvorbereitungsjahr,
 2015,Deutsche,Hauptschulabschluss,Berufsvorbereitungsjahr,492.0
-2015,Deutsche,erfolgreicher Besuch,Berufsvorbereitungsjahr,
+2015,Deutsche,Erfolgreicher Besuch²,Berufsvorbereitungsjahr,
 2015,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufsvorbereitungsjahr,2906.0
 2015,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsvorbereitungsjahr,
 2015,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufsvorbereitungsjahr,0.0
@@ -873,7 +873,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2015,Ausländerinnen und Ausländer,Fachhochschulreife,Berufsvorbereitungsjahr,
 2015,Ausländerinnen und Ausländer,Realschulabschluss,Berufsvorbereitungsjahr,
 2015,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsvorbereitungsjahr,69.0
-2015,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufsvorbereitungsjahr,0.0
+2015,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsvorbereitungsjahr,0.0
 2015,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufsvorbereitungsjahr,962.0
 2015,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsvorbereitungsjahr,
 2015,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufsvorbereitungsjahr,
@@ -883,7 +883,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2014,Deutsche,Fachhochschulreife,Berufsvorbereitungsjahr,
 2014,Deutsche,Realschulabschluss,Berufsvorbereitungsjahr,
 2014,Deutsche,Hauptschulabschluss,Berufsvorbereitungsjahr,494.0
-2014,Deutsche,erfolgreicher Besuch,Berufsvorbereitungsjahr,
+2014,Deutsche,Erfolgreicher Besuch²,Berufsvorbereitungsjahr,
 2014,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufsvorbereitungsjahr,3394.0
 2014,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsvorbereitungsjahr,
 2014,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufsvorbereitungsjahr,
@@ -893,7 +893,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2014,Ausländerinnen und Ausländer,Fachhochschulreife,Berufsvorbereitungsjahr,
 2014,Ausländerinnen und Ausländer,Realschulabschluss,Berufsvorbereitungsjahr,
 2014,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsvorbereitungsjahr,55.0
-2014,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufsvorbereitungsjahr,
+2014,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsvorbereitungsjahr,
 2014,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufsvorbereitungsjahr,647.0
 2014,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsvorbereitungsjahr,
 2014,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufsvorbereitungsjahr,
@@ -903,7 +903,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2012,Deutsche,Fachhochschulreife,Berufsvorbereitungsjahr,
 2012,Deutsche,Realschulabschluss,Berufsvorbereitungsjahr,
 2012,Deutsche,Hauptschulabschluss,Berufsvorbereitungsjahr,436.0
-2012,Deutsche,erfolgreicher Besuch,Berufsvorbereitungsjahr,
+2012,Deutsche,Erfolgreicher Besuch²,Berufsvorbereitungsjahr,
 2012,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufsvorbereitungsjahr,2978.0
 2012,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsvorbereitungsjahr,
 2012,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufsvorbereitungsjahr,
@@ -913,7 +913,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2012,Ausländerinnen und Ausländer,Fachhochschulreife,Berufsvorbereitungsjahr,
 2012,Ausländerinnen und Ausländer,Realschulabschluss,Berufsvorbereitungsjahr,
 2012,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsvorbereitungsjahr,61.0
-2012,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufsvorbereitungsjahr,
+2012,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsvorbereitungsjahr,
 2012,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufsvorbereitungsjahr,598.0
 2012,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsvorbereitungsjahr,
 2012,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufsvorbereitungsjahr,
@@ -923,7 +923,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2011,Deutsche,Fachhochschulreife,Berufsvorbereitungsjahr,
 2011,Deutsche,Realschulabschluss,Berufsvorbereitungsjahr,
 2011,Deutsche,Hauptschulabschluss,Berufsvorbereitungsjahr,448.0
-2011,Deutsche,erfolgreicher Besuch,Berufsvorbereitungsjahr,
+2011,Deutsche,Erfolgreicher Besuch²,Berufsvorbereitungsjahr,
 2011,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufsvorbereitungsjahr,3221.0
 2011,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsvorbereitungsjahr,
 2011,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufsvorbereitungsjahr,
@@ -933,7 +933,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2011,Ausländerinnen und Ausländer,Fachhochschulreife,Berufsvorbereitungsjahr,
 2011,Ausländerinnen und Ausländer,Realschulabschluss,Berufsvorbereitungsjahr,
 2011,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsvorbereitungsjahr,39.0
-2011,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufsvorbereitungsjahr,
+2011,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsvorbereitungsjahr,
 2011,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufsvorbereitungsjahr,479.0
 2011,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsvorbereitungsjahr,
 2011,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufsvorbereitungsjahr,
@@ -943,7 +943,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2010,Deutsche,Fachhochschulreife,Berufsvorbereitungsjahr,
 2010,Deutsche,Realschulabschluss,Berufsvorbereitungsjahr,
 2010,Deutsche,Hauptschulabschluss,Berufsvorbereitungsjahr,447.0
-2010,Deutsche,erfolgreicher Besuch,Berufsvorbereitungsjahr,
+2010,Deutsche,Erfolgreicher Besuch²,Berufsvorbereitungsjahr,
 2010,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufsvorbereitungsjahr,3283.0
 2010,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsvorbereitungsjahr,
 2010,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufsvorbereitungsjahr,
@@ -953,7 +953,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2010,Ausländerinnen und Ausländer,Fachhochschulreife,Berufsvorbereitungsjahr,
 2010,Ausländerinnen und Ausländer,Realschulabschluss,Berufsvorbereitungsjahr,
 2010,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsvorbereitungsjahr,47.0
-2010,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufsvorbereitungsjahr,
+2010,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsvorbereitungsjahr,
 2010,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufsvorbereitungsjahr,432.0
 2010,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsvorbereitungsjahr,
 2010,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufsvorbereitungsjahr,
@@ -963,7 +963,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2006,Deutsche,Fachhochschulreife,Berufsvorbereitungsjahr,
 2006,Deutsche,Realschulabschluss,Berufsvorbereitungsjahr,
 2006,Deutsche,Hauptschulabschluss,Berufsvorbereitungsjahr,614.0
-2006,Deutsche,erfolgreicher Besuch,Berufsvorbereitungsjahr,
+2006,Deutsche,Erfolgreicher Besuch²,Berufsvorbereitungsjahr,
 2006,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufsvorbereitungsjahr,5147.0
 2006,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsvorbereitungsjahr,
 2006,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufsvorbereitungsjahr,
@@ -973,7 +973,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2006,Ausländerinnen und Ausländer,Fachhochschulreife,Berufsvorbereitungsjahr,
 2006,Ausländerinnen und Ausländer,Realschulabschluss,Berufsvorbereitungsjahr,
 2006,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsvorbereitungsjahr,73.0
-2006,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufsvorbereitungsjahr,
+2006,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsvorbereitungsjahr,
 2006,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufsvorbereitungsjahr,790.0
 2006,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsvorbereitungsjahr,
 2006,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufsvorbereitungsjahr,
@@ -983,7 +983,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2005,Deutsche,Fachhochschulreife,Berufsvorbereitungsjahr,
 2005,Deutsche,Realschulabschluss,Berufsvorbereitungsjahr,
 2005,Deutsche,Hauptschulabschluss,Berufsvorbereitungsjahr,581.0
-2005,Deutsche,erfolgreicher Besuch,Berufsvorbereitungsjahr,0.0
+2005,Deutsche,Erfolgreicher Besuch²,Berufsvorbereitungsjahr,0.0
 2005,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufsvorbereitungsjahr,5113.0
 2005,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsvorbereitungsjahr,
 2005,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufsvorbereitungsjahr,
@@ -993,7 +993,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2005,Ausländerinnen und Ausländer,Fachhochschulreife,Berufsvorbereitungsjahr,
 2005,Ausländerinnen und Ausländer,Realschulabschluss,Berufsvorbereitungsjahr,
 2005,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsvorbereitungsjahr,85.0
-2005,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufsvorbereitungsjahr,
+2005,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsvorbereitungsjahr,
 2005,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufsvorbereitungsjahr,872.0
 2005,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsvorbereitungsjahr,
 2005,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufsvorbereitungsjahr,
@@ -1004,7 +1004,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2019,Deutsche,Schulischer Teil der Fachhochschulreife,Berufsfachschule,145.0
 2019,Deutsche,Realschulabschluss,Berufsfachschule,5601.0
 2019,Deutsche,Hauptschulabschluss,Berufsfachschule,717.0
-2019,Deutsche,Erfolgreicher Besuch,Berufsfachschule,13022.0
+2019,Deutsche,Erfolgreicher Besuch²,Berufsfachschule,13022.0
 2019,Deutsche,Entlassungen aus dem Berufsvorbereitungsjahr,Berufsfachschule,
 2019,Deutsche,Ohne erfolgreichen Besuch/Abschluss,Berufsfachschule,3913.0
 2019,Deutsche,Erreichte Abschlüsse insgesamt,Berufsfachschule,23514.0
@@ -1014,7 +1014,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2019,Ausländerinnen und Ausländer,Schulischer Teil der Fachhochschulreife,Berufsfachschule,12.0
 2019,Ausländerinnen und Ausländer,Realschulabschluss,Berufsfachschule,476.0
 2019,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsfachschule,162.0
-2019,Ausländerinnen und Ausländer,Erfolgreicher Besuch,Berufsfachschule,1046.0
+2019,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsfachschule,1046.0
 2019,Ausländerinnen und Ausländer,Entlassungen aus dem Berufsvorbereitungsjahr,Berufsfachschule,
 2019,Ausländerinnen und Ausländer,Ohne erfolgreichen Besuch/Abschluss,Berufsfachschule,557.0
 2019,Ausländerinnen und Ausländer,Erreichte Abschlüsse insgesamt,Berufsfachschule,2257.0
@@ -1024,7 +1024,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2018,Deutsche,Schulischer Teil der Fachhochschulreife,Berufsfachschule,188.0
 2018,Deutsche,Realschulabschluss,Berufsfachschule,5851.0
 2018,Deutsche,Hauptschulabschluss,Berufsfachschule,676.0
-2018,Deutsche,Erfolgreicher Besuch,Berufsfachschule,13501.0
+2018,Deutsche,Erfolgreicher Besuch²,Berufsfachschule,13501.0
 2018,Deutsche,Entlassungen aus dem Berufsvorbereitungsjahr,Berufsfachschule,
 2018,Deutsche,Ohne erfolgreichen Besuch/Abschluss,Berufsfachschule,4369.0
 2018,Deutsche,Erreichte Abschlüsse insgesamt,Berufsfachschule,24682.0
@@ -1034,7 +1034,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2018,Ausländerinnen und Ausländer,Schulischer Teil der Fachhochschulreife,Berufsfachschule,12.0
 2018,Ausländerinnen und Ausländer,Realschulabschluss,Berufsfachschule,399.0
 2018,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsfachschule,106.0
-2018,Ausländerinnen und Ausländer,Erfolgreicher Besuch,Berufsfachschule,928.0
+2018,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsfachschule,928.0
 2018,Ausländerinnen und Ausländer,Entlassungen aus dem Berufsvorbereitungsjahr,Berufsfachschule,
 2018,Ausländerinnen und Ausländer,Ohne erfolgreichen Besuch/Abschluss,Berufsfachschule,529.0
 2018,Ausländerinnen und Ausländer,Erreichte Abschlüsse insgesamt,Berufsfachschule,1982.0
@@ -1044,7 +1044,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2017,Deutsche,Schulischer Teil der Fachhochschulreife,Berufsfachschule,236.0
 2017,Deutsche,Realschulabschluss,Berufsfachschule,6635.0
 2017,Deutsche,Hauptschulabschluss,Berufsfachschule,689.0
-2017,Deutsche,Erfolgreicher Besuch,Berufsfachschule,14253.0
+2017,Deutsche,Erfolgreicher Besuch²,Berufsfachschule,14253.0
 2017,Deutsche,Entlassungen aus dem Berufsvorbereitungsjahr,Berufsfachschule,
 2017,Deutsche,Ohne erfolgreichen Besuch/Abschluss,Berufsfachschule,4430.0
 2017,Deutsche,Erreichte Abschlüsse insgesamt,Berufsfachschule,26340.0
@@ -1054,7 +1054,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2017,Ausländerinnen und Ausländer,Schulischer Teil der Fachhochschulreife,Berufsfachschule,11.0
 2017,Ausländerinnen und Ausländer,Realschulabschluss,Berufsfachschule,395.0
 2017,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsfachschule,75.0
-2017,Ausländerinnen und Ausländer,Erfolgreicher Besuch,Berufsfachschule,780.0
+2017,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsfachschule,780.0
 2017,Ausländerinnen und Ausländer,Entlassungen aus dem Berufsvorbereitungsjahr,Berufsfachschule,
 2017,Ausländerinnen und Ausländer,Ohne erfolgreichen Besuch/Abschluss,Berufsfachschule,552.0
 2017,Ausländerinnen und Ausländer,Erreichte Abschlüsse insgesamt,Berufsfachschule,1814.0
@@ -1063,7 +1063,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2015,Deutsche,Fachhochschulreife,Berufsfachschule,132.0
 2015,Deutsche,Realschulabschluss,Berufsfachschule,7271.0
 2015,Deutsche,Hauptschulabschluss,Berufsfachschule,872.0
-2015,Deutsche,erfolgreicher Besuch,Berufsfachschule,15554.0
+2015,Deutsche,Erfolgreicher Besuch²,Berufsfachschule,15554.0
 2015,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufsfachschule,
 2015,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsfachschule,
 2015,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufsfachschule,4838.0
@@ -1073,7 +1073,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2015,Ausländerinnen und Ausländer,Fachhochschulreife,Berufsfachschule,4.0
 2015,Ausländerinnen und Ausländer,Realschulabschluss,Berufsfachschule,419.0
 2015,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsfachschule,87.0
-2015,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufsfachschule,745.0
+2015,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsfachschule,745.0
 2015,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufsfachschule,0.0
 2015,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsfachschule,
 2015,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufsfachschule,514.0
@@ -1083,7 +1083,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2014,Deutsche,Fachhochschulreife,Berufsfachschule,107.0
 2014,Deutsche,Realschulabschluss,Berufsfachschule,7719.0
 2014,Deutsche,Hauptschulabschluss,Berufsfachschule,1084.0
-2014,Deutsche,erfolgreicher Besuch,Berufsfachschule,16613.0
+2014,Deutsche,Erfolgreicher Besuch²,Berufsfachschule,16613.0
 2014,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufsfachschule,
 2014,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsfachschule,
 2014,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufsfachschule,5388.0
@@ -1093,7 +1093,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2014,Ausländerinnen und Ausländer,Fachhochschulreife,Berufsfachschule,3.0
 2014,Ausländerinnen und Ausländer,Realschulabschluss,Berufsfachschule,424.0
 2014,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsfachschule,74.0
-2014,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufsfachschule,785.0
+2014,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsfachschule,785.0
 2014,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufsfachschule,
 2014,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsfachschule,
 2014,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufsfachschule,504.0
@@ -1103,7 +1103,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2012,Deutsche,Fachhochschulreife,Berufsfachschule,573.0
 2012,Deutsche,Realschulabschluss,Berufsfachschule,6995.0
 2012,Deutsche,Hauptschulabschluss,Berufsfachschule,1033.0
-2012,Deutsche,erfolgreicher Besuch,Berufsfachschule,16681.0
+2012,Deutsche,Erfolgreicher Besuch²,Berufsfachschule,16681.0
 2012,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufsfachschule,
 2012,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsfachschule,
 2012,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufsfachschule,5581.0
@@ -1113,7 +1113,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2012,Ausländerinnen und Ausländer,Fachhochschulreife,Berufsfachschule,15.0
 2012,Ausländerinnen und Ausländer,Realschulabschluss,Berufsfachschule,416.0
 2012,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsfachschule,50.0
-2012,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufsfachschule,755.0
+2012,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsfachschule,755.0
 2012,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufsfachschule,
 2012,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsfachschule,
 2012,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufsfachschule,565.0
@@ -1123,7 +1123,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2011,Deutsche,Fachhochschulreife,Berufsfachschule,501.0
 2011,Deutsche,Realschulabschluss,Berufsfachschule,7257.0
 2011,Deutsche,Hauptschulabschluss,Berufsfachschule,1125.0
-2011,Deutsche,erfolgreicher Besuch,Berufsfachschule,18136.0
+2011,Deutsche,Erfolgreicher Besuch²,Berufsfachschule,18136.0
 2011,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufsfachschule,
 2011,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsfachschule,
 2011,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufsfachschule,6028.0
@@ -1133,7 +1133,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2011,Ausländerinnen und Ausländer,Fachhochschulreife,Berufsfachschule,11.0
 2011,Ausländerinnen und Ausländer,Realschulabschluss,Berufsfachschule,411.0
 2011,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsfachschule,66.0
-2011,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufsfachschule,797.0
+2011,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsfachschule,797.0
 2011,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufsfachschule,
 2011,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsfachschule,
 2011,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufsfachschule,552.0
@@ -1143,7 +1143,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2010,Deutsche,Fachhochschulreife,Berufsfachschule,507.0
 2010,Deutsche,Realschulabschluss,Berufsfachschule,8333.0
 2010,Deutsche,Hauptschulabschluss,Berufsfachschule,1165.0
-2010,Deutsche,erfolgreicher Besuch,Berufsfachschule,19835.0
+2010,Deutsche,Erfolgreicher Besuch²,Berufsfachschule,19835.0
 2010,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufsfachschule,
 2010,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsfachschule,
 2010,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufsfachschule,6644.0
@@ -1153,7 +1153,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2010,Ausländerinnen und Ausländer,Fachhochschulreife,Berufsfachschule,15.0
 2010,Ausländerinnen und Ausländer,Realschulabschluss,Berufsfachschule,466.0
 2010,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsfachschule,60.0
-2010,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufsfachschule,875.0
+2010,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsfachschule,875.0
 2010,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufsfachschule,
 2010,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsfachschule,
 2010,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufsfachschule,614.0
@@ -1163,7 +1163,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2006,Deutsche,Fachhochschulreife,Berufsfachschule,427.0
 2006,Deutsche,Realschulabschluss,Berufsfachschule,9727.0
 2006,Deutsche,Hauptschulabschluss,Berufsfachschule,810.0
-2006,Deutsche,erfolgreicher Besuch,Berufsfachschule,17904.0
+2006,Deutsche,Erfolgreicher Besuch²,Berufsfachschule,17904.0
 2006,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufsfachschule,
 2006,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsfachschule,1.0
 2006,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufsfachschule,6707.0
@@ -1173,7 +1173,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2006,Ausländerinnen und Ausländer,Fachhochschulreife,Berufsfachschule,7.0
 2006,Ausländerinnen und Ausländer,Realschulabschluss,Berufsfachschule,464.0
 2006,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsfachschule,101.0
-2006,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufsfachschule,756.0
+2006,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsfachschule,756.0
 2006,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufsfachschule,
 2006,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsfachschule,
 2006,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufsfachschule,690.0
@@ -1183,7 +1183,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2005,Deutsche,Fachhochschulreife,Berufsfachschule,382.0
 2005,Deutsche,Realschulabschluss,Berufsfachschule,9457.0
 2005,Deutsche,Hauptschulabschluss,Berufsfachschule,839.0
-2005,Deutsche,erfolgreicher Besuch,Berufsfachschule,16887.0
+2005,Deutsche,Erfolgreicher Besuch²,Berufsfachschule,16887.0
 2005,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufsfachschule,
 2005,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsfachschule,2.0
 2005,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufsfachschule,6224.0
@@ -1193,7 +1193,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2005,Ausländerinnen und Ausländer,Fachhochschulreife,Berufsfachschule,17.0
 2005,Ausländerinnen und Ausländer,Realschulabschluss,Berufsfachschule,451.0
 2005,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsfachschule,116.0
-2005,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufsfachschule,827.0
+2005,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsfachschule,827.0
 2005,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufsfachschule,
 2005,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsfachschule,
 2005,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufsfachschule,645.0
@@ -1204,7 +1204,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2019,Deutsche,Schulischer Teil der Fachhochschulreife,Fachoberschule,
 2019,Deutsche,Realschulabschluss,Fachoberschule,
 2019,Deutsche,Hauptschulabschluss,Fachoberschule,
-2019,Deutsche,Erfolgreicher Besuch,Fachoberschule,
+2019,Deutsche,Erfolgreicher Besuch²,Fachoberschule,
 2019,Deutsche,Entlassungen aus dem Berufsvorbereitungsjahr,Fachoberschule,
 2019,Deutsche,Ohne erfolgreichen Besuch/Abschluss,Fachoberschule,852.0
 2019,Deutsche,Erreichte Abschlüsse insgesamt,Fachoberschule,7798.0
@@ -1214,7 +1214,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2019,Ausländerinnen und Ausländer,Schulischer Teil der Fachhochschulreife,Fachoberschule,
 2019,Ausländerinnen und Ausländer,Realschulabschluss,Fachoberschule,
 2019,Ausländerinnen und Ausländer,Hauptschulabschluss,Fachoberschule,
-2019,Ausländerinnen und Ausländer,Erfolgreicher Besuch,Fachoberschule,
+2019,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Fachoberschule,
 2019,Ausländerinnen und Ausländer,Entlassungen aus dem Berufsvorbereitungsjahr,Fachoberschule,
 2019,Ausländerinnen und Ausländer,Ohne erfolgreichen Besuch/Abschluss,Fachoberschule,72.0
 2019,Ausländerinnen und Ausländer,Erreichte Abschlüsse insgesamt,Fachoberschule,436.0
@@ -1224,7 +1224,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2018,Deutsche,Schulischer Teil der Fachhochschulreife,Fachoberschule,
 2018,Deutsche,Realschulabschluss,Fachoberschule,
 2018,Deutsche,Hauptschulabschluss,Fachoberschule,
-2018,Deutsche,Erfolgreicher Besuch,Fachoberschule,
+2018,Deutsche,Erfolgreicher Besuch²,Fachoberschule,
 2018,Deutsche,Entlassungen aus dem Berufsvorbereitungsjahr,Fachoberschule,
 2018,Deutsche,Ohne erfolgreichen Besuch/Abschluss,Fachoberschule,852.0
 2018,Deutsche,Erreichte Abschlüsse insgesamt,Fachoberschule,8658.0
@@ -1234,7 +1234,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2018,Ausländerinnen und Ausländer,Schulischer Teil der Fachhochschulreife,Fachoberschule,
 2018,Ausländerinnen und Ausländer,Realschulabschluss,Fachoberschule,
 2018,Ausländerinnen und Ausländer,Hauptschulabschluss,Fachoberschule,
-2018,Ausländerinnen und Ausländer,Erfolgreicher Besuch,Fachoberschule,
+2018,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Fachoberschule,
 2018,Ausländerinnen und Ausländer,Entlassungen aus dem Berufsvorbereitungsjahr,Fachoberschule,
 2018,Ausländerinnen und Ausländer,Ohne erfolgreichen Besuch/Abschluss,Fachoberschule,80.0
 2018,Ausländerinnen und Ausländer,Erreichte Abschlüsse insgesamt,Fachoberschule,538.0
@@ -1244,7 +1244,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2017,Deutsche,Schulischer Teil der Fachhochschulreife,Fachoberschule,
 2017,Deutsche,Realschulabschluss,Fachoberschule,
 2017,Deutsche,Hauptschulabschluss,Fachoberschule,
-2017,Deutsche,Erfolgreicher Besuch,Fachoberschule,
+2017,Deutsche,Erfolgreicher Besuch²,Fachoberschule,
 2017,Deutsche,Entlassungen aus dem Berufsvorbereitungsjahr,Fachoberschule,
 2017,Deutsche,Ohne erfolgreichen Besuch/Abschluss,Fachoberschule,924.0
 2017,Deutsche,Erreichte Abschlüsse insgesamt,Fachoberschule,9166.0
@@ -1254,7 +1254,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2017,Ausländerinnen und Ausländer,Schulischer Teil der Fachhochschulreife,Fachoberschule,
 2017,Ausländerinnen und Ausländer,Realschulabschluss,Fachoberschule,
 2017,Ausländerinnen und Ausländer,Hauptschulabschluss,Fachoberschule,
-2017,Ausländerinnen und Ausländer,Erfolgreicher Besuch,Fachoberschule,
+2017,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Fachoberschule,
 2017,Ausländerinnen und Ausländer,Entlassungen aus dem Berufsvorbereitungsjahr,Fachoberschule,
 2017,Ausländerinnen und Ausländer,Ohne erfolgreichen Besuch/Abschluss,Fachoberschule,95.0
 2017,Ausländerinnen und Ausländer,Erreichte Abschlüsse insgesamt,Fachoberschule,556.0
@@ -1263,7 +1263,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2015,Deutsche,Fachhochschulreife,Fachoberschule,8995.0
 2015,Deutsche,Realschulabschluss,Fachoberschule,
 2015,Deutsche,Hauptschulabschluss,Fachoberschule,
-2015,Deutsche,erfolgreicher Besuch,Fachoberschule,
+2015,Deutsche,Erfolgreicher Besuch²,Fachoberschule,
 2015,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Fachoberschule,
 2015,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Fachoberschule,
 2015,Deutsche,ohne erfolgreichen Besuch/Abschluss,Fachoberschule,725.0
@@ -1273,7 +1273,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2015,Ausländerinnen und Ausländer,Fachhochschulreife,Fachoberschule,387.0
 2015,Ausländerinnen und Ausländer,Realschulabschluss,Fachoberschule,
 2015,Ausländerinnen und Ausländer,Hauptschulabschluss,Fachoberschule,
-2015,Ausländerinnen und Ausländer,erfolgreicher Besuch,Fachoberschule,
+2015,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Fachoberschule,
 2015,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Fachoberschule,
 2015,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Fachoberschule,
 2015,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Fachoberschule,75.0
@@ -1283,7 +1283,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2014,Deutsche,Fachhochschulreife,Fachoberschule,9164.0
 2014,Deutsche,Realschulabschluss,Fachoberschule,3.0
 2014,Deutsche,Hauptschulabschluss,Fachoberschule,
-2014,Deutsche,erfolgreicher Besuch,Fachoberschule,
+2014,Deutsche,Erfolgreicher Besuch²,Fachoberschule,
 2014,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Fachoberschule,
 2014,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Fachoberschule,
 2014,Deutsche,ohne erfolgreichen Besuch/Abschluss,Fachoberschule,776.0
@@ -1293,7 +1293,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2014,Ausländerinnen und Ausländer,Fachhochschulreife,Fachoberschule,450.0
 2014,Ausländerinnen und Ausländer,Realschulabschluss,Fachoberschule,
 2014,Ausländerinnen und Ausländer,Hauptschulabschluss,Fachoberschule,
-2014,Ausländerinnen und Ausländer,erfolgreicher Besuch,Fachoberschule,
+2014,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Fachoberschule,
 2014,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Fachoberschule,
 2014,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Fachoberschule,
 2014,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Fachoberschule,74.0
@@ -1303,7 +1303,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2012,Deutsche,Fachhochschulreife,Fachoberschule,8625.0
 2012,Deutsche,Realschulabschluss,Fachoberschule,
 2012,Deutsche,Hauptschulabschluss,Fachoberschule,
-2012,Deutsche,erfolgreicher Besuch,Fachoberschule,
+2012,Deutsche,Erfolgreicher Besuch²,Fachoberschule,
 2012,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Fachoberschule,
 2012,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Fachoberschule,
 2012,Deutsche,ohne erfolgreichen Besuch/Abschluss,Fachoberschule,1357.0
@@ -1313,7 +1313,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2012,Ausländerinnen und Ausländer,Fachhochschulreife,Fachoberschule,407.0
 2012,Ausländerinnen und Ausländer,Realschulabschluss,Fachoberschule,
 2012,Ausländerinnen und Ausländer,Hauptschulabschluss,Fachoberschule,
-2012,Ausländerinnen und Ausländer,erfolgreicher Besuch,Fachoberschule,
+2012,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Fachoberschule,
 2012,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Fachoberschule,
 2012,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Fachoberschule,
 2012,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Fachoberschule,110.0
@@ -1323,7 +1323,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2011,Deutsche,Fachhochschulreife,Fachoberschule,8610.0
 2011,Deutsche,Realschulabschluss,Fachoberschule,
 2011,Deutsche,Hauptschulabschluss,Fachoberschule,
-2011,Deutsche,erfolgreicher Besuch,Fachoberschule,
+2011,Deutsche,Erfolgreicher Besuch²,Fachoberschule,
 2011,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Fachoberschule,
 2011,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Fachoberschule,
 2011,Deutsche,ohne erfolgreichen Besuch/Abschluss,Fachoberschule,1311.0
@@ -1333,7 +1333,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2011,Ausländerinnen und Ausländer,Fachhochschulreife,Fachoberschule,377.0
 2011,Ausländerinnen und Ausländer,Realschulabschluss,Fachoberschule,
 2011,Ausländerinnen und Ausländer,Hauptschulabschluss,Fachoberschule,
-2011,Ausländerinnen und Ausländer,erfolgreicher Besuch,Fachoberschule,
+2011,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Fachoberschule,
 2011,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Fachoberschule,
 2011,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Fachoberschule,
 2011,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Fachoberschule,107.0
@@ -1343,7 +1343,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2010,Deutsche,Fachhochschulreife,Fachoberschule,7893.0
 2010,Deutsche,Realschulabschluss,Fachoberschule,
 2010,Deutsche,Hauptschulabschluss,Fachoberschule,
-2010,Deutsche,erfolgreicher Besuch,Fachoberschule,
+2010,Deutsche,Erfolgreicher Besuch²,Fachoberschule,
 2010,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Fachoberschule,
 2010,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Fachoberschule,
 2010,Deutsche,ohne erfolgreichen Besuch/Abschluss,Fachoberschule,1376.0
@@ -1353,7 +1353,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2010,Ausländerinnen und Ausländer,Fachhochschulreife,Fachoberschule,290.0
 2010,Ausländerinnen und Ausländer,Realschulabschluss,Fachoberschule,
 2010,Ausländerinnen und Ausländer,Hauptschulabschluss,Fachoberschule,
-2010,Ausländerinnen und Ausländer,erfolgreicher Besuch,Fachoberschule,
+2010,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Fachoberschule,
 2010,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Fachoberschule,
 2010,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Fachoberschule,
 2010,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Fachoberschule,93.0
@@ -1363,7 +1363,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2006,Deutsche,Fachhochschulreife,Fachoberschule,6384.0
 2006,Deutsche,Realschulabschluss,Fachoberschule,
 2006,Deutsche,Hauptschulabschluss,Fachoberschule,
-2006,Deutsche,erfolgreicher Besuch,Fachoberschule,
+2006,Deutsche,Erfolgreicher Besuch²,Fachoberschule,
 2006,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Fachoberschule,
 2006,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Fachoberschule,
 2006,Deutsche,ohne erfolgreichen Besuch/Abschluss,Fachoberschule,1335.0
@@ -1373,7 +1373,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2006,Ausländerinnen und Ausländer,Fachhochschulreife,Fachoberschule,161.0
 2006,Ausländerinnen und Ausländer,Realschulabschluss,Fachoberschule,
 2006,Ausländerinnen und Ausländer,Hauptschulabschluss,Fachoberschule,
-2006,Ausländerinnen und Ausländer,erfolgreicher Besuch,Fachoberschule,
+2006,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Fachoberschule,
 2006,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Fachoberschule,
 2006,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Fachoberschule,
 2006,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Fachoberschule,96.0
@@ -1383,7 +1383,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2005,Deutsche,Fachhochschulreife,Fachoberschule,6470.0
 2005,Deutsche,Realschulabschluss,Fachoberschule,
 2005,Deutsche,Hauptschulabschluss,Fachoberschule,
-2005,Deutsche,erfolgreicher Besuch,Fachoberschule,
+2005,Deutsche,Erfolgreicher Besuch²,Fachoberschule,
 2005,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Fachoberschule,
 2005,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Fachoberschule,
 2005,Deutsche,ohne erfolgreichen Besuch/Abschluss,Fachoberschule,1226.0
@@ -1393,7 +1393,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2005,Ausländerinnen und Ausländer,Fachhochschulreife,Fachoberschule,171.0
 2005,Ausländerinnen und Ausländer,Realschulabschluss,Fachoberschule,
 2005,Ausländerinnen und Ausländer,Hauptschulabschluss,Fachoberschule,
-2005,Ausländerinnen und Ausländer,erfolgreicher Besuch,Fachoberschule,
+2005,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Fachoberschule,
 2005,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Fachoberschule,
 2005,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Fachoberschule,
 2005,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Fachoberschule,67.0
@@ -1404,7 +1404,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2019,Deutsche,Schulischer Teil der Fachhochschulreife,Berufsoberschule,
 2019,Deutsche,Realschulabschluss,Berufsoberschule,
 2019,Deutsche,Hauptschulabschluss,Berufsoberschule,
-2019,Deutsche,Erfolgreicher Besuch,Berufsoberschule,
+2019,Deutsche,Erfolgreicher Besuch²,Berufsoberschule,
 2019,Deutsche,Entlassungen aus dem Berufsvorbereitungsjahr,Berufsoberschule,
 2019,Deutsche,Ohne erfolgreichen Besuch/Abschluss,Berufsoberschule,
 2019,Deutsche,Erreichte Abschlüsse insgesamt,Berufsoberschule,
@@ -1414,7 +1414,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2019,Ausländerinnen und Ausländer,Schulischer Teil der Fachhochschulreife,Berufsoberschule,
 2019,Ausländerinnen und Ausländer,Realschulabschluss,Berufsoberschule,
 2019,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsoberschule,
-2019,Ausländerinnen und Ausländer,Erfolgreicher Besuch,Berufsoberschule,
+2019,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsoberschule,
 2019,Ausländerinnen und Ausländer,Entlassungen aus dem Berufsvorbereitungsjahr,Berufsoberschule,
 2019,Ausländerinnen und Ausländer,Ohne erfolgreichen Besuch/Abschluss,Berufsoberschule,
 2019,Ausländerinnen und Ausländer,Erreichte Abschlüsse insgesamt,Berufsoberschule,
@@ -1424,7 +1424,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2018,Deutsche,Schulischer Teil der Fachhochschulreife,Berufsoberschule,
 2018,Deutsche,Realschulabschluss,Berufsoberschule,
 2018,Deutsche,Hauptschulabschluss,Berufsoberschule,
-2018,Deutsche,Erfolgreicher Besuch,Berufsoberschule,
+2018,Deutsche,Erfolgreicher Besuch²,Berufsoberschule,
 2018,Deutsche,Entlassungen aus dem Berufsvorbereitungsjahr,Berufsoberschule,
 2018,Deutsche,Ohne erfolgreichen Besuch/Abschluss,Berufsoberschule,
 2018,Deutsche,Erreichte Abschlüsse insgesamt,Berufsoberschule,77.0
@@ -1434,7 +1434,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2018,Ausländerinnen und Ausländer,Schulischer Teil der Fachhochschulreife,Berufsoberschule,
 2018,Ausländerinnen und Ausländer,Realschulabschluss,Berufsoberschule,
 2018,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsoberschule,
-2018,Ausländerinnen und Ausländer,Erfolgreicher Besuch,Berufsoberschule,
+2018,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsoberschule,
 2018,Ausländerinnen und Ausländer,Entlassungen aus dem Berufsvorbereitungsjahr,Berufsoberschule,
 2018,Ausländerinnen und Ausländer,Ohne erfolgreichen Besuch/Abschluss,Berufsoberschule,
 2018,Ausländerinnen und Ausländer,Erreichte Abschlüsse insgesamt,Berufsoberschule,4.0
@@ -1444,7 +1444,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2017,Deutsche,Schulischer Teil der Fachhochschulreife,Berufsoberschule,
 2017,Deutsche,Realschulabschluss,Berufsoberschule,
 2017,Deutsche,Hauptschulabschluss,Berufsoberschule,
-2017,Deutsche,Erfolgreicher Besuch,Berufsoberschule,
+2017,Deutsche,Erfolgreicher Besuch²,Berufsoberschule,
 2017,Deutsche,Entlassungen aus dem Berufsvorbereitungsjahr,Berufsoberschule,
 2017,Deutsche,Ohne erfolgreichen Besuch/Abschluss,Berufsoberschule,4.0
 2017,Deutsche,Erreichte Abschlüsse insgesamt,Berufsoberschule,118.0
@@ -1454,7 +1454,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2017,Ausländerinnen und Ausländer,Schulischer Teil der Fachhochschulreife,Berufsoberschule,
 2017,Ausländerinnen und Ausländer,Realschulabschluss,Berufsoberschule,
 2017,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsoberschule,
-2017,Ausländerinnen und Ausländer,Erfolgreicher Besuch,Berufsoberschule,
+2017,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsoberschule,
 2017,Ausländerinnen und Ausländer,Entlassungen aus dem Berufsvorbereitungsjahr,Berufsoberschule,
 2017,Ausländerinnen und Ausländer,Ohne erfolgreichen Besuch/Abschluss,Berufsoberschule,
 2017,Ausländerinnen und Ausländer,Erreichte Abschlüsse insgesamt,Berufsoberschule,4.0
@@ -1463,7 +1463,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2015,Deutsche,Fachhochschulreife,Berufsoberschule,
 2015,Deutsche,Realschulabschluss,Berufsoberschule,
 2015,Deutsche,Hauptschulabschluss,Berufsoberschule,
-2015,Deutsche,erfolgreicher Besuch,Berufsoberschule,
+2015,Deutsche,Erfolgreicher Besuch²,Berufsoberschule,
 2015,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufsoberschule,
 2015,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsoberschule,
 2015,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufsoberschule,5.0
@@ -1473,7 +1473,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2015,Ausländerinnen und Ausländer,Fachhochschulreife,Berufsoberschule,
 2015,Ausländerinnen und Ausländer,Realschulabschluss,Berufsoberschule,
 2015,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsoberschule,
-2015,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufsoberschule,
+2015,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsoberschule,
 2015,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufsoberschule,
 2015,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsoberschule,
 2015,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufsoberschule,
@@ -1483,7 +1483,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2014,Deutsche,Fachhochschulreife,Berufsoberschule,
 2014,Deutsche,Realschulabschluss,Berufsoberschule,
 2014,Deutsche,Hauptschulabschluss,Berufsoberschule,
-2014,Deutsche,erfolgreicher Besuch,Berufsoberschule,
+2014,Deutsche,Erfolgreicher Besuch²,Berufsoberschule,
 2014,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufsoberschule,
 2014,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsoberschule,
 2014,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufsoberschule,6.0
@@ -1493,7 +1493,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2014,Ausländerinnen und Ausländer,Fachhochschulreife,Berufsoberschule,
 2014,Ausländerinnen und Ausländer,Realschulabschluss,Berufsoberschule,
 2014,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsoberschule,
-2014,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufsoberschule,
+2014,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsoberschule,
 2014,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufsoberschule,
 2014,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsoberschule,
 2014,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufsoberschule,
@@ -1503,7 +1503,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2012,Deutsche,Fachhochschulreife,Berufsoberschule,
 2012,Deutsche,Realschulabschluss,Berufsoberschule,
 2012,Deutsche,Hauptschulabschluss,Berufsoberschule,
-2012,Deutsche,erfolgreicher Besuch,Berufsoberschule,
+2012,Deutsche,Erfolgreicher Besuch²,Berufsoberschule,
 2012,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufsoberschule,
 2012,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsoberschule,
 2012,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufsoberschule,10.0
@@ -1513,7 +1513,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2012,Ausländerinnen und Ausländer,Fachhochschulreife,Berufsoberschule,
 2012,Ausländerinnen und Ausländer,Realschulabschluss,Berufsoberschule,
 2012,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsoberschule,
-2012,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufsoberschule,
+2012,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsoberschule,
 2012,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufsoberschule,
 2012,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsoberschule,
 2012,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufsoberschule,
@@ -1523,7 +1523,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2011,Deutsche,Fachhochschulreife,Berufsoberschule,
 2011,Deutsche,Realschulabschluss,Berufsoberschule,
 2011,Deutsche,Hauptschulabschluss,Berufsoberschule,
-2011,Deutsche,erfolgreicher Besuch,Berufsoberschule,
+2011,Deutsche,Erfolgreicher Besuch²,Berufsoberschule,
 2011,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufsoberschule,
 2011,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsoberschule,
 2011,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufsoberschule,16.0
@@ -1533,7 +1533,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2011,Ausländerinnen und Ausländer,Fachhochschulreife,Berufsoberschule,
 2011,Ausländerinnen und Ausländer,Realschulabschluss,Berufsoberschule,
 2011,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsoberschule,
-2011,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufsoberschule,
+2011,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsoberschule,
 2011,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufsoberschule,
 2011,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsoberschule,
 2011,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufsoberschule,
@@ -1543,7 +1543,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2010,Deutsche,Fachhochschulreife,Berufsoberschule,
 2010,Deutsche,Realschulabschluss,Berufsoberschule,
 2010,Deutsche,Hauptschulabschluss,Berufsoberschule,
-2010,Deutsche,erfolgreicher Besuch,Berufsoberschule,
+2010,Deutsche,Erfolgreicher Besuch²,Berufsoberschule,
 2010,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufsoberschule,
 2010,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsoberschule,
 2010,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufsoberschule,12.0
@@ -1553,7 +1553,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2010,Ausländerinnen und Ausländer,Fachhochschulreife,Berufsoberschule,
 2010,Ausländerinnen und Ausländer,Realschulabschluss,Berufsoberschule,
 2010,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsoberschule,
-2010,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufsoberschule,
+2010,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsoberschule,
 2010,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufsoberschule,
 2010,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsoberschule,
 2010,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufsoberschule,
@@ -1563,7 +1563,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2006,Deutsche,Fachhochschulreife,Berufsoberschule,
 2006,Deutsche,Realschulabschluss,Berufsoberschule,
 2006,Deutsche,Hauptschulabschluss,Berufsoberschule,
-2006,Deutsche,erfolgreicher Besuch,Berufsoberschule,
+2006,Deutsche,Erfolgreicher Besuch²,Berufsoberschule,
 2006,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufsoberschule,
 2006,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsoberschule,
 2006,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufsoberschule,22.0
@@ -1573,7 +1573,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2006,Ausländerinnen und Ausländer,Fachhochschulreife,Berufsoberschule,
 2006,Ausländerinnen und Ausländer,Realschulabschluss,Berufsoberschule,
 2006,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsoberschule,
-2006,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufsoberschule,
+2006,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsoberschule,
 2006,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufsoberschule,
 2006,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsoberschule,
 2006,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufsoberschule,
@@ -1583,7 +1583,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2005,Deutsche,Fachhochschulreife,Berufsoberschule,
 2005,Deutsche,Realschulabschluss,Berufsoberschule,
 2005,Deutsche,Hauptschulabschluss,Berufsoberschule,
-2005,Deutsche,erfolgreicher Besuch,Berufsoberschule,
+2005,Deutsche,Erfolgreicher Besuch²,Berufsoberschule,
 2005,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufsoberschule,
 2005,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsoberschule,
 2005,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufsoberschule,24.0
@@ -1593,7 +1593,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2005,Ausländerinnen und Ausländer,Fachhochschulreife,Berufsoberschule,
 2005,Ausländerinnen und Ausländer,Realschulabschluss,Berufsoberschule,
 2005,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufsoberschule,
-2005,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufsoberschule,
+2005,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufsoberschule,
 2005,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufsoberschule,
 2005,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufsoberschule,
 2005,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufsoberschule,1.0
@@ -1604,7 +1604,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2019,Deutsche,Schulischer Teil der Fachhochschulreife,Berufl. Gymnasium,845.0
 2019,Deutsche,Realschulabschluss,Berufl. Gymnasium,
 2019,Deutsche,Hauptschulabschluss,Berufl. Gymnasium,
-2019,Deutsche,Erfolgreicher Besuch,Berufl. Gymnasium,
+2019,Deutsche,Erfolgreicher Besuch²,Berufl. Gymnasium,
 2019,Deutsche,Entlassungen aus dem Berufsvorbereitungsjahr,Berufl. Gymnasium,
 2019,Deutsche,Ohne erfolgreichen Besuch/Abschluss,Berufl. Gymnasium,111.0
 2019,Deutsche,Erreichte Abschlüsse insgesamt,Berufl. Gymnasium,6085.0
@@ -1614,7 +1614,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2019,Ausländerinnen und Ausländer,Schulischer Teil der Fachhochschulreife,Berufl. Gymnasium,42.0
 2019,Ausländerinnen und Ausländer,Realschulabschluss,Berufl. Gymnasium,
 2019,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufl. Gymnasium,
-2019,Ausländerinnen und Ausländer,Erfolgreicher Besuch,Berufl. Gymnasium,
+2019,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufl. Gymnasium,
 2019,Ausländerinnen und Ausländer,Entlassungen aus dem Berufsvorbereitungsjahr,Berufl. Gymnasium,
 2019,Ausländerinnen und Ausländer,Ohne erfolgreichen Besuch/Abschluss,Berufl. Gymnasium,5.0
 2019,Ausländerinnen und Ausländer,Erreichte Abschlüsse insgesamt,Berufl. Gymnasium,182.0
@@ -1624,7 +1624,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2018,Deutsche,Schulischer Teil der Fachhochschulreife,Berufl. Gymnasium,974.0
 2018,Deutsche,Realschulabschluss,Berufl. Gymnasium,
 2018,Deutsche,Hauptschulabschluss,Berufl. Gymnasium,
-2018,Deutsche,Erfolgreicher Besuch,Berufl. Gymnasium,
+2018,Deutsche,Erfolgreicher Besuch²,Berufl. Gymnasium,
 2018,Deutsche,Entlassungen aus dem Berufsvorbereitungsjahr,Berufl. Gymnasium,
 2018,Deutsche,Ohne erfolgreichen Besuch/Abschluss,Berufl. Gymnasium,106.0
 2018,Deutsche,Erreichte Abschlüsse insgesamt,Berufl. Gymnasium,6466.0
@@ -1634,7 +1634,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2018,Ausländerinnen und Ausländer,Schulischer Teil der Fachhochschulreife,Berufl. Gymnasium,38.0
 2018,Ausländerinnen und Ausländer,Realschulabschluss,Berufl. Gymnasium,
 2018,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufl. Gymnasium,
-2018,Ausländerinnen und Ausländer,Erfolgreicher Besuch,Berufl. Gymnasium,
+2018,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufl. Gymnasium,
 2018,Ausländerinnen und Ausländer,Entlassungen aus dem Berufsvorbereitungsjahr,Berufl. Gymnasium,
 2018,Ausländerinnen und Ausländer,Ohne erfolgreichen Besuch/Abschluss,Berufl. Gymnasium,6.0
 2018,Ausländerinnen und Ausländer,Erreichte Abschlüsse insgesamt,Berufl. Gymnasium,224.0
@@ -1644,7 +1644,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2017,Deutsche,Schulischer Teil der Fachhochschulreife,Berufl. Gymnasium,946.0
 2017,Deutsche,Realschulabschluss,Berufl. Gymnasium,13.0
 2017,Deutsche,Hauptschulabschluss,Berufl. Gymnasium,
-2017,Deutsche,Erfolgreicher Besuch,Berufl. Gymnasium,
+2017,Deutsche,Erfolgreicher Besuch²,Berufl. Gymnasium,
 2017,Deutsche,Entlassungen aus dem Berufsvorbereitungsjahr,Berufl. Gymnasium,
 2017,Deutsche,Ohne erfolgreichen Besuch/Abschluss,Berufl. Gymnasium,145.0
 2017,Deutsche,Erreichte Abschlüsse insgesamt,Berufl. Gymnasium,6911.0
@@ -1654,7 +1654,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2017,Ausländerinnen und Ausländer,Schulischer Teil der Fachhochschulreife,Berufl. Gymnasium,51.0
 2017,Ausländerinnen und Ausländer,Realschulabschluss,Berufl. Gymnasium,1.0
 2017,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufl. Gymnasium,
-2017,Ausländerinnen und Ausländer,Erfolgreicher Besuch,Berufl. Gymnasium,
+2017,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufl. Gymnasium,
 2017,Ausländerinnen und Ausländer,Entlassungen aus dem Berufsvorbereitungsjahr,Berufl. Gymnasium,
 2017,Ausländerinnen und Ausländer,Ohne erfolgreichen Besuch/Abschluss,Berufl. Gymnasium,15.0
 2017,Ausländerinnen und Ausländer,Erreichte Abschlüsse insgesamt,Berufl. Gymnasium,233.0
@@ -1663,7 +1663,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2015,Deutsche,Fachhochschulreife,Berufl. Gymnasium,149.0
 2015,Deutsche,Realschulabschluss,Berufl. Gymnasium,684.0
 2015,Deutsche,Hauptschulabschluss,Berufl. Gymnasium,
-2015,Deutsche,erfolgreicher Besuch,Berufl. Gymnasium,
+2015,Deutsche,Erfolgreicher Besuch²,Berufl. Gymnasium,
 2015,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufl. Gymnasium,
 2015,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufl. Gymnasium,
 2015,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufl. Gymnasium,116.0
@@ -1673,7 +1673,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2015,Ausländerinnen und Ausländer,Fachhochschulreife,Berufl. Gymnasium,4.0
 2015,Ausländerinnen und Ausländer,Realschulabschluss,Berufl. Gymnasium,30.0
 2015,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufl. Gymnasium,
-2015,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufl. Gymnasium,
+2015,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufl. Gymnasium,
 2015,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufl. Gymnasium,
 2015,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufl. Gymnasium,
 2015,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufl. Gymnasium,6.0
@@ -1683,7 +1683,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2014,Deutsche,Fachhochschulreife,Berufl. Gymnasium,81.0
 2014,Deutsche,Realschulabschluss,Berufl. Gymnasium,814.0
 2014,Deutsche,Hauptschulabschluss,Berufl. Gymnasium,
-2014,Deutsche,erfolgreicher Besuch,Berufl. Gymnasium,
+2014,Deutsche,Erfolgreicher Besuch²,Berufl. Gymnasium,
 2014,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufl. Gymnasium,
 2014,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufl. Gymnasium,
 2014,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufl. Gymnasium,78.0
@@ -1693,7 +1693,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2014,Ausländerinnen und Ausländer,Fachhochschulreife,Berufl. Gymnasium,3.0
 2014,Ausländerinnen und Ausländer,Realschulabschluss,Berufl. Gymnasium,26.0
 2014,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufl. Gymnasium,
-2014,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufl. Gymnasium,
+2014,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufl. Gymnasium,
 2014,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufl. Gymnasium,
 2014,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufl. Gymnasium,
 2014,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufl. Gymnasium,4.0
@@ -1703,7 +1703,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2012,Deutsche,Fachhochschulreife,Berufl. Gymnasium,765.0
 2012,Deutsche,Realschulabschluss,Berufl. Gymnasium,20.0
 2012,Deutsche,Hauptschulabschluss,Berufl. Gymnasium,
-2012,Deutsche,erfolgreicher Besuch,Berufl. Gymnasium,
+2012,Deutsche,Erfolgreicher Besuch²,Berufl. Gymnasium,
 2012,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufl. Gymnasium,
 2012,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufl. Gymnasium,
 2012,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufl. Gymnasium,540.0
@@ -1713,7 +1713,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2012,Ausländerinnen und Ausländer,Fachhochschulreife,Berufl. Gymnasium,33.0
 2012,Ausländerinnen und Ausländer,Realschulabschluss,Berufl. Gymnasium,
 2012,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufl. Gymnasium,
-2012,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufl. Gymnasium,
+2012,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufl. Gymnasium,
 2012,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufl. Gymnasium,
 2012,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufl. Gymnasium,
 2012,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufl. Gymnasium,28.0
@@ -1723,7 +1723,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2011,Deutsche,Fachhochschulreife,Berufl. Gymnasium,646.0
 2011,Deutsche,Realschulabschluss,Berufl. Gymnasium,6.0
 2011,Deutsche,Hauptschulabschluss,Berufl. Gymnasium,
-2011,Deutsche,erfolgreicher Besuch,Berufl. Gymnasium,
+2011,Deutsche,Erfolgreicher Besuch²,Berufl. Gymnasium,
 2011,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufl. Gymnasium,
 2011,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufl. Gymnasium,
 2011,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufl. Gymnasium,611.0
@@ -1733,7 +1733,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2011,Ausländerinnen und Ausländer,Fachhochschulreife,Berufl. Gymnasium,19.0
 2011,Ausländerinnen und Ausländer,Realschulabschluss,Berufl. Gymnasium,
 2011,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufl. Gymnasium,
-2011,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufl. Gymnasium,
+2011,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufl. Gymnasium,
 2011,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufl. Gymnasium,
 2011,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufl. Gymnasium,
 2011,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufl. Gymnasium,27.0
@@ -1743,7 +1743,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2010,Deutsche,Fachhochschulreife,Berufl. Gymnasium,764.0
 2010,Deutsche,Realschulabschluss,Berufl. Gymnasium,4.0
 2010,Deutsche,Hauptschulabschluss,Berufl. Gymnasium,
-2010,Deutsche,erfolgreicher Besuch,Berufl. Gymnasium,
+2010,Deutsche,Erfolgreicher Besuch²,Berufl. Gymnasium,
 2010,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufl. Gymnasium,
 2010,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufl. Gymnasium,
 2010,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufl. Gymnasium,567.0
@@ -1753,7 +1753,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2010,Ausländerinnen und Ausländer,Fachhochschulreife,Berufl. Gymnasium,22.0
 2010,Ausländerinnen und Ausländer,Realschulabschluss,Berufl. Gymnasium,
 2010,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufl. Gymnasium,
-2010,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufl. Gymnasium,
+2010,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufl. Gymnasium,
 2010,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufl. Gymnasium,
 2010,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufl. Gymnasium,
 2010,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufl. Gymnasium,35.0
@@ -1763,7 +1763,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2006,Deutsche,Fachhochschulreife,Berufl. Gymnasium,642.0
 2006,Deutsche,Realschulabschluss,Berufl. Gymnasium,
 2006,Deutsche,Hauptschulabschluss,Berufl. Gymnasium,
-2006,Deutsche,erfolgreicher Besuch,Berufl. Gymnasium,
+2006,Deutsche,Erfolgreicher Besuch²,Berufl. Gymnasium,
 2006,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufl. Gymnasium,
 2006,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufl. Gymnasium,
 2006,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufl. Gymnasium,520.0
@@ -1773,7 +1773,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2006,Ausländerinnen und Ausländer,Fachhochschulreife,Berufl. Gymnasium,26.0
 2006,Ausländerinnen und Ausländer,Realschulabschluss,Berufl. Gymnasium,
 2006,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufl. Gymnasium,
-2006,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufl. Gymnasium,
+2006,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufl. Gymnasium,
 2006,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufl. Gymnasium,
 2006,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufl. Gymnasium,
 2006,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufl. Gymnasium,22.0
@@ -1783,7 +1783,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2005,Deutsche,Fachhochschulreife,Berufl. Gymnasium,1060.0
 2005,Deutsche,Realschulabschluss,Berufl. Gymnasium,
 2005,Deutsche,Hauptschulabschluss,Berufl. Gymnasium,
-2005,Deutsche,erfolgreicher Besuch,Berufl. Gymnasium,
+2005,Deutsche,Erfolgreicher Besuch²,Berufl. Gymnasium,
 2005,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Berufl. Gymnasium,
 2005,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufl. Gymnasium,
 2005,Deutsche,ohne erfolgreichen Besuch/Abschluss,Berufl. Gymnasium,360.0
@@ -1793,7 +1793,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2005,Ausländerinnen und Ausländer,Fachhochschulreife,Berufl. Gymnasium,38.0
 2005,Ausländerinnen und Ausländer,Realschulabschluss,Berufl. Gymnasium,
 2005,Ausländerinnen und Ausländer,Hauptschulabschluss,Berufl. Gymnasium,
-2005,Ausländerinnen und Ausländer,erfolgreicher Besuch,Berufl. Gymnasium,
+2005,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Berufl. Gymnasium,
 2005,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Berufl. Gymnasium,
 2005,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Berufl. Gymnasium,
 2005,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Berufl. Gymnasium,22.0
@@ -1804,7 +1804,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2019,Deutsche,Schulischer Teil der Fachhochschulreife,Fachschule,
 2019,Deutsche,Realschulabschluss,Fachschule,
 2019,Deutsche,Hauptschulabschluss,Fachschule,
-2019,Deutsche,Erfolgreicher Besuch,Fachschule,1576.0
+2019,Deutsche,Erfolgreicher Besuch²,Fachschule,1576.0
 2019,Deutsche,Entlassungen aus dem Berufsvorbereitungsjahr,Fachschule,
 2019,Deutsche,Ohne erfolgreichen Besuch/Abschluss,Fachschule,
 2019,Deutsche,Erreichte Abschlüsse insgesamt,Fachschule,6005.0
@@ -1814,7 +1814,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2019,Ausländerinnen und Ausländer,Schulischer Teil der Fachhochschulreife,Fachschule,
 2019,Ausländerinnen und Ausländer,Realschulabschluss,Fachschule,
 2019,Ausländerinnen und Ausländer,Hauptschulabschluss,Fachschule,
-2019,Ausländerinnen und Ausländer,Erfolgreicher Besuch,Fachschule,20.0
+2019,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Fachschule,20.0
 2019,Ausländerinnen und Ausländer,Entlassungen aus dem Berufsvorbereitungsjahr,Fachschule,
 2019,Ausländerinnen und Ausländer,Ohne erfolgreichen Besuch/Abschluss,Fachschule,
 2019,Ausländerinnen und Ausländer,Erreichte Abschlüsse insgesamt,Fachschule,91.0
@@ -1824,7 +1824,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2018,Deutsche,Schulischer Teil der Fachhochschulreife,Fachschule,
 2018,Deutsche,Realschulabschluss,Fachschule,
 2018,Deutsche,Hauptschulabschluss,Fachschule,
-2018,Deutsche,Erfolgreicher Besuch,Fachschule,1646.0
+2018,Deutsche,Erfolgreicher Besuch²,Fachschule,1646.0
 2018,Deutsche,Entlassungen aus dem Berufsvorbereitungsjahr,Fachschule,
 2018,Deutsche,Ohne erfolgreichen Besuch/Abschluss,Fachschule,91.0
 2018,Deutsche,Erreichte Abschlüsse insgesamt,Fachschule,6161.0
@@ -1834,7 +1834,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2018,Ausländerinnen und Ausländer,Schulischer Teil der Fachhochschulreife,Fachschule,
 2018,Ausländerinnen und Ausländer,Realschulabschluss,Fachschule,
 2018,Ausländerinnen und Ausländer,Hauptschulabschluss,Fachschule,
-2018,Ausländerinnen und Ausländer,Erfolgreicher Besuch,Fachschule,21.0
+2018,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Fachschule,21.0
 2018,Ausländerinnen und Ausländer,Entlassungen aus dem Berufsvorbereitungsjahr,Fachschule,
 2018,Ausländerinnen und Ausländer,Ohne erfolgreichen Besuch/Abschluss,Fachschule,5.0
 2018,Ausländerinnen und Ausländer,Erreichte Abschlüsse insgesamt,Fachschule,113.0
@@ -1844,7 +1844,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2017,Deutsche,Schulischer Teil der Fachhochschulreife,Fachschule,
 2017,Deutsche,Realschulabschluss,Fachschule,
 2017,Deutsche,Hauptschulabschluss,Fachschule,
-2017,Deutsche,Erfolgreicher Besuch,Fachschule,1592.0
+2017,Deutsche,Erfolgreicher Besuch²,Fachschule,1592.0
 2017,Deutsche,Entlassungen aus dem Berufsvorbereitungsjahr,Fachschule,
 2017,Deutsche,Ohne erfolgreichen Besuch/Abschluss,Fachschule,72.0
 2017,Deutsche,Erreichte Abschlüsse insgesamt,Fachschule,6271.0
@@ -1854,7 +1854,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2017,Ausländerinnen und Ausländer,Schulischer Teil der Fachhochschulreife,Fachschule,
 2017,Ausländerinnen und Ausländer,Realschulabschluss,Fachschule,
 2017,Ausländerinnen und Ausländer,Hauptschulabschluss,Fachschule,
-2017,Ausländerinnen und Ausländer,Erfolgreicher Besuch,Fachschule,14.0
+2017,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Fachschule,14.0
 2017,Ausländerinnen und Ausländer,Entlassungen aus dem Berufsvorbereitungsjahr,Fachschule,
 2017,Ausländerinnen und Ausländer,Ohne erfolgreichen Besuch/Abschluss,Fachschule,3.0
 2017,Ausländerinnen und Ausländer,Erreichte Abschlüsse insgesamt,Fachschule,78.0
@@ -1863,7 +1863,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2015,Deutsche,Fachhochschulreife,Fachschule,4625.0
 2015,Deutsche,Realschulabschluss,Fachschule,
 2015,Deutsche,Hauptschulabschluss,Fachschule,
-2015,Deutsche,erfolgreicher Besuch,Fachschule,1826.0
+2015,Deutsche,Erfolgreicher Besuch²,Fachschule,1826.0
 2015,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Fachschule,
 2015,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Fachschule,
 2015,Deutsche,ohne erfolgreichen Besuch/Abschluss,Fachschule,103.0
@@ -1873,7 +1873,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2015,Ausländerinnen und Ausländer,Fachhochschulreife,Fachschule,69.0
 2015,Ausländerinnen und Ausländer,Realschulabschluss,Fachschule,
 2015,Ausländerinnen und Ausländer,Hauptschulabschluss,Fachschule,
-2015,Ausländerinnen und Ausländer,erfolgreicher Besuch,Fachschule,16.0
+2015,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Fachschule,16.0
 2015,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Fachschule,
 2015,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Fachschule,
 2015,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Fachschule,1.0
@@ -1883,7 +1883,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2014,Deutsche,Fachhochschulreife,Fachschule,4192.0
 2014,Deutsche,Realschulabschluss,Fachschule,
 2014,Deutsche,Hauptschulabschluss,Fachschule,
-2014,Deutsche,erfolgreicher Besuch,Fachschule,1625.0
+2014,Deutsche,Erfolgreicher Besuch²,Fachschule,1625.0
 2014,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Fachschule,
 2014,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Fachschule,
 2014,Deutsche,ohne erfolgreichen Besuch/Abschluss,Fachschule,85.0
@@ -1893,7 +1893,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2014,Ausländerinnen und Ausländer,Fachhochschulreife,Fachschule,59.0
 2014,Ausländerinnen und Ausländer,Realschulabschluss,Fachschule,
 2014,Ausländerinnen und Ausländer,Hauptschulabschluss,Fachschule,
-2014,Ausländerinnen und Ausländer,erfolgreicher Besuch,Fachschule,15.0
+2014,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Fachschule,15.0
 2014,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Fachschule,
 2014,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Fachschule,
 2014,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Fachschule,1.0
@@ -1903,7 +1903,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2012,Deutsche,Fachhochschulreife,Fachschule,3998.0
 2012,Deutsche,Realschulabschluss,Fachschule,
 2012,Deutsche,Hauptschulabschluss,Fachschule,
-2012,Deutsche,erfolgreicher Besuch,Fachschule,1730.0
+2012,Deutsche,Erfolgreicher Besuch²,Fachschule,1730.0
 2012,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Fachschule,
 2012,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Fachschule,
 2012,Deutsche,ohne erfolgreichen Besuch/Abschluss,Fachschule,102.0
@@ -1913,7 +1913,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2012,Ausländerinnen und Ausländer,Fachhochschulreife,Fachschule,54.0
 2012,Ausländerinnen und Ausländer,Realschulabschluss,Fachschule,
 2012,Ausländerinnen und Ausländer,Hauptschulabschluss,Fachschule,
-2012,Ausländerinnen und Ausländer,erfolgreicher Besuch,Fachschule,18.0
+2012,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Fachschule,18.0
 2012,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Fachschule,
 2012,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Fachschule,
 2012,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Fachschule,2.0
@@ -1923,7 +1923,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2011,Deutsche,Fachhochschulreife,Fachschule,3773.0
 2011,Deutsche,Realschulabschluss,Fachschule,
 2011,Deutsche,Hauptschulabschluss,Fachschule,
-2011,Deutsche,erfolgreicher Besuch,Fachschule,1756.0
+2011,Deutsche,Erfolgreicher Besuch²,Fachschule,1756.0
 2011,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Fachschule,
 2011,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Fachschule,
 2011,Deutsche,ohne erfolgreichen Besuch/Abschluss,Fachschule,110.0
@@ -1933,7 +1933,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2011,Ausländerinnen und Ausländer,Fachhochschulreife,Fachschule,54.0
 2011,Ausländerinnen und Ausländer,Realschulabschluss,Fachschule,
 2011,Ausländerinnen und Ausländer,Hauptschulabschluss,Fachschule,
-2011,Ausländerinnen und Ausländer,erfolgreicher Besuch,Fachschule,24.0
+2011,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Fachschule,24.0
 2011,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Fachschule,
 2011,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Fachschule,
 2011,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Fachschule,1.0
@@ -1943,7 +1943,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2010,Deutsche,Fachhochschulreife,Fachschule,3056.0
 2010,Deutsche,Realschulabschluss,Fachschule,
 2010,Deutsche,Hauptschulabschluss,Fachschule,
-2010,Deutsche,erfolgreicher Besuch,Fachschule,1813.0
+2010,Deutsche,Erfolgreicher Besuch²,Fachschule,1813.0
 2010,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Fachschule,
 2010,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Fachschule,
 2010,Deutsche,ohne erfolgreichen Besuch/Abschluss,Fachschule,106.0
@@ -1953,7 +1953,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2010,Ausländerinnen und Ausländer,Fachhochschulreife,Fachschule,35.0
 2010,Ausländerinnen und Ausländer,Realschulabschluss,Fachschule,
 2010,Ausländerinnen und Ausländer,Hauptschulabschluss,Fachschule,
-2010,Ausländerinnen und Ausländer,erfolgreicher Besuch,Fachschule,28.0
+2010,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Fachschule,28.0
 2010,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Fachschule,
 2010,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Fachschule,
 2010,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Fachschule,2.0
@@ -1963,7 +1963,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2006,Deutsche,Fachhochschulreife,Fachschule,2481.0
 2006,Deutsche,Realschulabschluss,Fachschule,
 2006,Deutsche,Hauptschulabschluss,Fachschule,
-2006,Deutsche,erfolgreicher Besuch,Fachschule,2319.0
+2006,Deutsche,Erfolgreicher Besuch²,Fachschule,2319.0
 2006,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Fachschule,
 2006,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Fachschule,
 2006,Deutsche,ohne erfolgreichen Besuch/Abschluss,Fachschule,216.0
@@ -1973,7 +1973,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2006,Ausländerinnen und Ausländer,Fachhochschulreife,Fachschule,44.0
 2006,Ausländerinnen und Ausländer,Realschulabschluss,Fachschule,
 2006,Ausländerinnen und Ausländer,Hauptschulabschluss,Fachschule,
-2006,Ausländerinnen und Ausländer,erfolgreicher Besuch,Fachschule,44.0
+2006,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Fachschule,44.0
 2006,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Fachschule,
 2006,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Fachschule,
 2006,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Fachschule,7.0
@@ -1983,7 +1983,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2005,Deutsche,Fachhochschulreife,Fachschule,2303.0
 2005,Deutsche,Realschulabschluss,Fachschule,
 2005,Deutsche,Hauptschulabschluss,Fachschule,
-2005,Deutsche,erfolgreicher Besuch,Fachschule,3548.0
+2005,Deutsche,Erfolgreicher Besuch²,Fachschule,3548.0
 2005,Deutsche,Entlassung aus dem Berufsvorbereitungsjahr,Fachschule,
 2005,Deutsche,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Fachschule,
 2005,Deutsche,ohne erfolgreichen Besuch/Abschluss,Fachschule,286.0
@@ -1993,7 +1993,7 @@ Year,Staatsangehörigkeit,Erreichter Abschluss,Besuchte Schule,Value
 2005,Ausländerinnen und Ausländer,Fachhochschulreife,Fachschule,33.0
 2005,Ausländerinnen und Ausländer,Realschulabschluss,Fachschule,
 2005,Ausländerinnen und Ausländer,Hauptschulabschluss,Fachschule,
-2005,Ausländerinnen und Ausländer,erfolgreicher Besuch,Fachschule,65.0
+2005,Ausländerinnen und Ausländer,Erfolgreicher Besuch²,Fachschule,65.0
 2005,Ausländerinnen und Ausländer,Entlassung aus dem Berufsvorbereitungsjahr,Fachschule,
 2005,Ausländerinnen und Ausländer,ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.,Fachschule,
 2005,Ausländerinnen und Ausländer,ohne erfolgreichen Besuch/Abschluss,Fachschule,9.0
