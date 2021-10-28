@@ -1131,18 +1131,6 @@
             "title": "Jahr"
           },
           {
-            "name": "Nationalität",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ausländerinnen und Ausländer",
-                "Deutsche",
-                ""
-              ]
-            },
-            "title": "Nationalität"
-          },
-          {
             "name": "Gebietseinheit",
             "type": "string",
             "constraints": {
@@ -1203,6 +1191,18 @@
               ]
             },
             "title": "Gebietseinheit"
+          },
+          {
+            "name": "Nationalität",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ausländerinnen und Ausländer",
+                "Deutsche",
+                ""
+              ]
+            },
+            "title": "Nationalität"
           },
           {
             "name": "GeoCode",
