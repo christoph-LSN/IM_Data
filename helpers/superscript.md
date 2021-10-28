@@ -1,3 +1,16 @@
+¹⁾
+²⁾
+³⁾
+⁴⁾
+⁵⁾
+⁶⁾
+⁷⁾
+⁸⁾
+
+
+
+
+
 ⁻	hochgestelltes Minus
 ⁺	hochgestelltes Plus
 ⁼	hochgestelltes Gleichheitszeichen
