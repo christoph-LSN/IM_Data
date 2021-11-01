@@ -46,8 +46,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mit eigene/r Migrationserfahrung",
-                "ohne eigene/r Migrationserfahrung",
+                "mit eigener Migrationserfahrung",
+                "ohne eigene Migrationserfahrung",
                 ""
               ]
             },
@@ -75,5 +75,5 @@
   ],
   "profile": "data-package",
   "name": "4-1-6",
-  "title": "Frühe Schulabgängerinnen und Schulabgänger nach Geschlecht, Zuwanderungsgeschichte und eigener Migrationserfahrung"
+  "title": "Frühe Schulabgängerinnen und Schulabgänger nach Geschlecht, Zuwanderungsgeschichte und eigener Migrationserfahrung (in Prozent)"
 }

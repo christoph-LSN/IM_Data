@@ -43,8 +43,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mit eigene/r Migrationserfahrung",
-                "ohne eigene/r Migrationserfahrung",
+                "mit eigener Migrationserfahrung",
+                "ohne eigene Migrationserfahrung",
                 ""
               ]
             }
