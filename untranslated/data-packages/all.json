@@ -3,8 +3,8 @@
   "title": "All indicators",
   "resources": [
     {
-      "path": "8-1-1/data.csv",
-      "name": "8-1-1",
+      "path": "1-4-3/data.csv",
+      "name": "1-4-3",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -17,53 +17,28 @@
             "type": "integer"
           },
           {
-            "name": "Altersgruppe",
+            "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "18 – 25",
-                "25 – 45",
-                "45 – 65",
-                "65 und älter",
-                "Insgesamt",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "in 1000",
-                "%",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Geschlecht",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Männlich",
-                "Weiblich",
-                "Insgesamt",
+                "A",
+                "B",
+                "G",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
-      "title": "global_indicators.8-1-1-title"
+      "title": "global_indicators.1-4-3-title"
     },
     {
-      "path": "1-2-1/data.csv",
-      "name": "1-2-1",
+      "path": "3-1-2/data.csv",
+      "name": "3-1-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -137,224 +112,12 @@
             }
           },
           {
-            "name": "GeoCode",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.1-2-1-title"
-    },
-    {
-      "path": "5-1-1/data.csv",
-      "name": "5-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Wirtschaftsabschnitte (WZ 2008) Zusammenfassungen",
+            "name": "Kinderbetreuung",
             "type": "string",
             "constraints": {
               "enum": [
-                "Land- und Forstwirtschaft  Fischerei",
-                "Bergbau und Gewinnung von Steinen und Erden; Verarbeitendes Gewerbe",
-                "Energieversorgung; Wasserversorgung  Entsorg.  Beseitig. v. Umweltverschmutzungen",
-                "Baugewerbe",
-                "Handel  Instandhaltung und Reparatur von Kfz",
-                "Verkehr und Lagerei; Information und Kommunikation",
-                "Gastgewerbe",
-                "Erbringung von Finanz- und Versicherungsleistungen; Grundstücks- und Wohnungswesen; Freiberufliche  wiss. u. techn. Dienstleistungen; sonst. wirt. Dienstleistungen",
-                "ÖffentlicheVerwaltung  Verteidigung  Sozialversicherung; Erziehung und Unterricht; Gesundheits- und Sozialwesen",
-                "Kunst  Unterhaltung und Erholung; Erbringung von sonstigen Dienstleistungen",
-                "Insgesamt (inkl. sonstiger Abschnitte)",
-                "Öff.Verwaltung  Verteidigung  Sozialversicherung; Erziehung und Unterricht; Gesundheits- und Sozialwesen",
-                "Land- und Forstwirtschaft; Fischerei und Fischzucht",
-                "Energie- und Wasserversorgung",
-                "Handel; Instandhaltung und Reparatur von Kraftfahrzeugen und Gebrauchsgütern",
-                "Verkehr und Nachrichtenübermittlung",
-                "Kredit- und Versicherungsgewerbe; Grundstücks- und Wohnungswesen  Vermietung beweglicher Sachen  Erbringung von wirt.Dienstleistungen  anderweitig nicht genannt",
-                "Öffentliche Verwaltung  Verteidigung  Sozialversicherung; Erziehung und Unterricht; Gesundheits-  Veterinär- und Sozialwesen",
-                "Erbringung von sonstigen öffentlichen und persönlichen Dienstleistungen",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Geschlecht",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Insgesamt",
-                "Männer",
-                "Frauen",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "in 1000",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.5-1-1-title"
-    },
-    {
-      "path": "1-2-2/data.csv",
-      "name": "1-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Gebietseinheit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Braunschweig  Stadt",
-                "Salzgitter  Stadt",
-                "Wolfsburg  Stadt",
-                "Gifhorn",
-                "Goslar",
-                "Helmstedt",
-                "Northeim",
-                "Peine",
-                "Wolfenbüttel",
-                "Göttingen",
-                "Statistische Region Braunschweig",
-                "Hannover  Region",
-                "dav. Hannover  Lhst.",
-                "dav. Hannover  Umland",
-                "Diepholz",
-                "Hameln-Pyrmont",
-                "Hildesheim",
-                "Holzminden",
-                "Nienburg (Weser)",
-                "Schaumburg",
-                "Statistische Region Hannover",
-                "Celle",
-                "Cuxhaven",
-                "Harburg",
-                "Lüchow-Dannenberg",
-                "Lüneburg",
-                "Osterholz",
-                "Rotenburg (Wümme)",
-                "Heidekreis",
-                "Stade",
-                "Uelzen",
-                "Verden",
-                "Statistische Region Lüneburg",
-                "Delmenhorst  Stadt",
-                "Emden  Stadt",
-                "Oldenburg(Oldb)  Stadt",
-                "Osnabrück  Stadt",
-                "Wilhelmshaven  Stadt",
-                "Ammerland",
-                "Aurich",
-                "Cloppenburg",
-                "Emsland",
-                "Friesland",
-                "Grafschaft Bentheim",
-                "Leer",
-                "Oldenburg",
-                "Osnabrück",
-                "Vechta",
-                "Wesermarsch",
-                "Wittmund",
-                "Statistische Region Weser-Ems",
-                "Niedersachsen",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.1-2-2-title"
-    },
-    {
-      "path": "5-2-1/data.csv",
-      "name": "5-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Kategorie",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Erwerbsquote",
-                "Erwerbstätigenquote",
-                "Erwerbslosenanteil",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Migrationsstatus",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Insgesamt",
-                "ohne Migrationshintergrund",
-                "mit Migrationshintergrund",
-                "mit Migrationshintergrund und eigener Migrationserfahrung",
-                "mit Migrationshintergrund und ohne eigene Migrationserfahrung",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Geschlecht",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Männer",
-                "Frauen",
-                "Insgesamt",
+                "ausländische Herkunft mindestens eines Elternteils",
+                "in der Familie wird vorrangig nicht deutsch gesprochen",
                 ""
               ]
             }
@@ -370,12 +133,16 @@
             }
           },
           {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
             "name": "Value",
             "type": "number"
           }
         ]
       },
-      "title": "global_indicators.5-2-1-title"
+      "title": "global_indicators.3-1-2-title"
     },
     {
       "path": "2-1-3/data.csv",
@@ -474,8 +241,158 @@
       "title": "global_indicators.2-1-3-title"
     },
     {
-      "path": "2-1-8/data.csv",
-      "name": "2-1-8",
+      "path": "5-1-1/data.csv",
+      "name": "5-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Wirtschaftsabschnitte (WZ 2008) Zusammenfassungen",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Land- und Forstwirtschaft  Fischerei",
+                "Bergbau und Gewinnung von Steinen und Erden; Verarbeitendes Gewerbe",
+                "Energieversorgung; Wasserversorgung  Entsorg.  Beseitig. v. Umweltverschmutzungen",
+                "Baugewerbe",
+                "Handel  Instandhaltung und Reparatur von Kfz",
+                "Verkehr und Lagerei; Information und Kommunikation",
+                "Gastgewerbe",
+                "Erbringung von Finanz- und Versicherungsleistungen; Grundstücks- und Wohnungswesen; Freiberufliche  wiss. u. techn. Dienstleistungen; sonst. wirt. Dienstleistungen",
+                "ÖffentlicheVerwaltung  Verteidigung  Sozialversicherung; Erziehung und Unterricht; Gesundheits- und Sozialwesen",
+                "Kunst  Unterhaltung und Erholung; Erbringung von sonstigen Dienstleistungen",
+                "Insgesamt (inkl. sonstiger Abschnitte)",
+                "Öff.Verwaltung  Verteidigung  Sozialversicherung; Erziehung und Unterricht; Gesundheits- und Sozialwesen",
+                "Land- und Forstwirtschaft; Fischerei und Fischzucht",
+                "Energie- und Wasserversorgung",
+                "Handel; Instandhaltung und Reparatur von Kraftfahrzeugen und Gebrauchsgütern",
+                "Verkehr und Nachrichtenübermittlung",
+                "Kredit- und Versicherungsgewerbe; Grundstücks- und Wohnungswesen  Vermietung beweglicher Sachen  Erbringung von wirt.Dienstleistungen  anderweitig nicht genannt",
+                "Öffentliche Verwaltung  Verteidigung  Sozialversicherung; Erziehung und Unterricht; Gesundheits-  Veterinär- und Sozialwesen",
+                "Erbringung von sonstigen öffentlichen und persönlichen Dienstleistungen",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geschlecht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "Männer",
+                "Frauen",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "in 1000",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.5-1-1-title"
+    },
+    {
+      "path": "4-1-2/data.csv",
+      "name": "4-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Gebietseinheit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Statistische Region Braunschweig",
+                "Statistische Region Hannover",
+                "Statistische Region Lüneburg",
+                "Statistische Region Weser-Ems",
+                "Niedersachsen",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Nationalität",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Deutsche",
+                "Ausländerinnen und Ausländer",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Schulform",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hauptschule",
+                "Realschule",
+                "Oberschule",
+                "Gymnasium",
+                "Integrierte Gesamtschule",
+                "Förderschule",
+                "Insgesamt",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prozent",
+                "Anzahl",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "string"
+          }
+        ]
+      },
+      "title": "global_indicators.4-1-2-title"
+    },
+    {
+      "path": "2-1-7/data.csv",
+      "name": "2-1-7",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -552,7 +469,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Familiennachzug",
+                "Duldung",
                 ""
               ]
             }
@@ -567,7 +484,261 @@
           }
         ]
       },
-      "title": "global_indicators.2-1-8-title"
+      "title": "global_indicators.2-1-7-title"
+    },
+    {
+      "path": "1-2-5/data.csv",
+      "name": "1-2-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Land der Staatsangehörigkeit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Europa",
+                "Türkei",
+                "Polen",
+                "Serbien",
+                "Niederlande",
+                "Rumänien",
+                "Italien",
+                "Russische Föderation",
+                "Griechenland",
+                "Bulgarien",
+                "Spanien",
+                "Ukraine",
+                "Vereinigtes Königreich",
+                "Portugal",
+                "Kroatien",
+                "Ungarn",
+                "EU Staaten",
+                "Afrika",
+                "Amerika",
+                "Asien",
+                "Syrien",
+                "Irak ",
+                "Afghanistan",
+                "China",
+                "Vietnam",
+                "Australien und Ozeanien",
+                "Staatenlos",
+                "Ungeklärt und ohne Angabe",
+                "Insgesamt",
+                "Österreich",
+                "Irak",
+                "Australien und Ozeanien ",
+                "Serbien2)",
+                "Bosnien und Herzegowina",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ausländerinnen und Ausländer",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "Männer in Prozent",
+                "Frauen in Prozent",
+                "Veränderung in Prozent gegenüber 2005",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.1-2-5-title"
+    },
+    {
+      "path": "5-3-3/data.csv",
+      "name": "5-3-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "Kategorie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Abstand der Arbeitslosenquote von Ausländerinnen und Ausländern zu Insgesamt",
+                "Abstand der Arbeitslosenquote von Ausländerinnen und Ausländern zu Insgesamt (bis unter 25 Jahren)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geschlecht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "Männer",
+                "Frauen",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prozentpunkte",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.5-3-3-title"
+    },
+    {
+      "path": "4-1-1/data.csv",
+      "name": "4-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Staatsangehörigkeit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Deutsche",
+                "Ausländerinnen und Ausländer",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Erreichter Abschluss",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Allgemeine Hochschulreife",
+                "Fachhochschulreife",
+                "Schulischer Teil der Fachhochschulreife",
+                "Realschulabschluss",
+                "Hauptschulabschluss",
+                "Erfolgreicher Besuch²",
+                "Entlassungen aus dem Berufsvorbereitungsjahr",
+                "Ohne erfolgreichen Besuch/Abschluss",
+                "Erreichte Abschlüsse insgesamt",
+                "nachrichtlich: Abbruch im laufenden Schuljahr",
+                "Entlassung aus dem Berufsvorbereitungsjahr",
+                "ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.",
+                "ohne erfolgreichen Besuch/Abschluss",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Besuchte Schule",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "Berufsschule (Teilzeit)",
+                "Berufsgrundbildungsjahr schulisch",
+                "Berufseinstiegsklasse",
+                "Berufsvorbereitungsjahr",
+                "Berufsfachschule",
+                "Fachoberschule",
+                "Berufsoberschule",
+                "Berufl. Gymnasium",
+                "Fachschule",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.4-1-1-title"
+    },
+    {
+      "path": "6-1-1/data.csv",
+      "name": "6-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Nationalität / Migrationshintergrund",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "deutsche Staatsangehörigkeit",
+                "nichtdeutsche Staatsangehörigkeit",
+                "mit Migrationshintergrund",
+                "ohne Migrationshintergrund",
+                "Insgesamt",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Gebietseinheit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Niedersachsen",
+                "Deutschland",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.6-1-1-title"
     },
     {
       "path": "1-3-4/data.csv",
@@ -657,6 +828,65 @@
         ]
       },
       "title": "global_indicators.1-3-4-title"
+    },
+    {
+      "path": "2-3-4/data.csv",
+      "name": "2-3-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Land der Staatsangehörigkeit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Europa insgesamt",
+                "Griechenland",
+                "Italien",
+                "Kosovo",
+                "Polen",
+                "Rumänien",
+                "Russische Föderation",
+                "Serbien 2)",
+                "Türkei",
+                "Ukraine",
+                "Vereinigtes Königreich GB Nordirland",
+                "EU Staaten",
+                "Afrika insgesamt",
+                "Tunesien",
+                "Amerika insgesamt",
+                "Asien insgesamt",
+                "Afganistan",
+                "Libanon",
+                "Indien",
+                "Irak",
+                "Iran Islamische Republik",
+                "Pakistan",
+                "Syrien Arabische Republik",
+                "Vietnam",
+                "Australien und Ozeanien",
+                "Sonstige Ziele",
+                "staatenlos",
+                "Insgesamt",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.2-3-4-title"
     },
     {
       "path": "2-1-5/data.csv",
@@ -755,6 +985,292 @@
       "title": "global_indicators.2-1-5-title"
     },
     {
+      "path": "1-3-2/data.csv",
+      "name": "1-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Gebietseinheit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ostniedersachsen",
+                "Südniedersachsen",
+                "Statistische Region Braunschweig",
+                "Region Hannover",
+                "dav. Hannover Landeshauptstadt",
+                "dav. Hannover Umland",
+                "Weser-Leine-Bergland",
+                "Mittelniedersachsen",
+                "Statistische Region Hannover",
+                "Nordniedersachsen",
+                "Nordostniedersachsen",
+                "Statistische Region Lüneburg",
+                "Ostfriesland-Nordseeküste",
+                "Oldenburger Raum",
+                "Westniedersachsen",
+                "Statistische Region Weser-Ems",
+                "Niedersachsen",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Migrationserfahrung",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "mit eigener Migrationserfahrung",
+                "ohne eigener Migrationserfahrung",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Nationalität",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ausländerinnen und Ausländer",
+                "(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",
+                "weitere Deutsche mit Migrationshintergrund",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "in 1000",
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.1-3-2-title"
+    },
+    {
+      "path": "5-3-4/data.csv",
+      "name": "5-3-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                "G",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.5-3-4-title"
+    },
+    {
+      "path": "2-3-1/data.csv",
+      "name": "2-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Gebietseinheit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Braunschweig  Stadt",
+                "Salzgitter  Stadt",
+                "Wolfsburg  Stadt",
+                "Gifhorn",
+                "Goslar",
+                "Helmstedt",
+                "Northeim",
+                "Peine",
+                "Wolfenbüttel",
+                "Göttingen",
+                "Statistische Region Braunschweig",
+                "Hannover  Region",
+                "dav. Hannover  Lhst.",
+                "dav. Hannover  Umland",
+                "Diepholz",
+                "Hameln-Pyrmont",
+                "Hildesheim",
+                "Holzminden",
+                "Nienburg (Weser)",
+                "Schaumburg",
+                "Statistische Region Hannover",
+                "Celle",
+                "Cuxhaven",
+                "Harburg",
+                "Lüchow-Dannenberg",
+                "Lüneburg",
+                "Osterholz",
+                "Rotenburg (Wümme)",
+                "Heidekreis",
+                "Stade",
+                "Uelzen",
+                "Verden",
+                "Statistische Region Lüneburg",
+                "Delmenhorst  Stadt",
+                "Emden  Stadt",
+                "Oldenburg(Oldb)  Stadt",
+                "Osnabrück  Stadt",
+                "Wilhelmshaven  Stadt",
+                "Ammerland",
+                "Aurich",
+                "Cloppenburg",
+                "Emsland",
+                "Friesland",
+                "Grafschaft Bentheim",
+                "Leer",
+                "Oldenburg",
+                "Osnabrück",
+                "Vechta",
+                "Wesermarsch",
+                "Wittmund",
+                "Statistische Region Weser-Ems",
+                "Niedersachsen",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.2-3-1-title"
+    },
+    {
+      "path": "2-2-4/data.csv",
+      "name": "2-2-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Asylanträge",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Asylanträge",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.2-2-4-title"
+    },
+    {
+      "path": "4-1-4/data.csv",
+      "name": "4-1-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Abschlussart",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hochschulreife",
+                "Fachhochschulreife1)",
+                "Realschulabschluss",
+                "Hauptschulabschluss",
+                "Abschluss Förderschule2)",
+                "Ohne Abschluss",
+                "Insgesamt",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Nationalität",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "Deutsche",
+                "Ausländerinnen und Ausländer",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.4-1-4-title"
+    },
+    {
       "path": "5-3-1/data.csv",
       "name": "5-3-1",
       "profile": "tabular-data-resource",
@@ -826,63 +1342,8 @@
       "title": "global_indicators.5-3-1-title"
     },
     {
-      "path": "5-3-3/data.csv",
-      "name": "5-3-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "Kategorie",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Abstand der Arbeitslosenquote von Ausländerinnen und Ausländern zu Insgesamt",
-                "Abstand der Arbeitslosenquote von Ausländerinnen und Ausländern zu Insgesamt (bis unter 25 Jahren)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Geschlecht",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Insgesamt",
-                "Männer",
-                "Frauen",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Prozentpunkte",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.5-3-3-title"
-    },
-    {
-      "path": "7-1-1/data.csv",
-      "name": "7-1-1",
+      "path": "2-1-2/data.csv",
+      "name": "2-1-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -895,37 +1356,240 @@
             "type": "integer"
           },
           {
-            "name": "Units",
+            "name": "Gebietseinheit",
             "type": "string",
             "constraints": {
               "enum": [
-                "Wohnfläche in qm",
-                "Bruttokaltmiete in €",
+                "Braunschweig Stadt",
+                "Salzgitter Stadt",
+                "Wolfsburg Stadt",
+                "Gifhorn",
+                "Goslar",
+                "Helmstedt",
+                "Northeim",
+                "Peine",
+                "Wolfenbüttel",
+                "Göttingen",
+                "Statistische Region Braunschweig",
+                "Hannover Region",
+                "Hannover Landeshauptstadt",
+                "Diepholz",
+                "Hameln-Pyrmont",
+                "Hildesheim",
+                "Holzminden",
+                "Nienburg (Weser)",
+                "Schaumburg",
+                "Statistische Region Hannover",
+                "Celle",
+                "Cuxhaven",
+                "Harburg",
+                "Lüchow-Dannenberg",
+                "Lüneburg",
+                "Osterholz",
+                "Rotenburg (Wümme)",
+                "Heidekreis",
+                "Stade",
+                "Uelzen",
+                "Verden",
+                "Statistische Region Lüneburg",
+                "Delmenhorst.Stadt",
+                "Emden Stadt",
+                "Oldenburg (Oldb) Stadt",
+                "Osnabrück Stadt",
+                "Wilhelmshaven Stadt",
+                "Ammerland",
+                "Aurich",
+                "Cloppenburg",
+                "Emsland",
+                "Friesland",
+                "Grafschaft Bentheim",
+                "Leer",
+                "Oldenburg",
+                "Osnabrück",
+                "Vechta",
+                "Wesermarsch",
+                "Wittmund",
+                "Statistische Region Weser-Ems",
+                "Niedersachsen",
                 ""
               ]
             }
           },
           {
-            "name": "Migrationsstatus",
+            "name": "Aufenthaltstitel",
             "type": "string",
             "constraints": {
               "enum": [
-                "Insgesamt",
-                "ohne Migrationshintergrund",
-                "mit Migrationshintergrund",
-                "dav. mit eigener Migrationserfahrung",
-                "dav.ohne eigene Migrationserfahrung",
+                "Geflüchtete und geduldete Personen insgesamt",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.2-1-2-title"
+    },
+    {
+      "path": "2-3-2/data.csv",
+      "name": "2-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "Gebietseinheit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Braunschweig  Stadt",
+                "Salzgitter  Stadt",
+                "Wolfsburg  Stadt",
+                "Gifhorn",
+                "Goslar",
+                "Helmstedt",
+                "Northeim",
+                "Peine",
+                "Wolfenbüttel",
+                "Göttingen",
+                "Statistische Region Braunschweig",
+                "Hannover  Region",
+                "dav. Hannover  Lhst.",
+                "dav. Hannover  Umland",
+                "Diepholz",
+                "Hameln-Pyrmont",
+                "Hildesheim",
+                "Holzminden",
+                "Nienburg (Weser)",
+                "Schaumburg",
+                "Statistische Region Hannover",
+                "Celle",
+                "Cuxhaven",
+                "Harburg",
+                "Lüchow-Dannenberg",
+                "Lüneburg",
+                "Osterholz",
+                "Rotenburg (Wümme)",
+                "Heidekreis",
+                "Stade",
+                "Uelzen",
+                "Verden",
+                "Statistische Region Lüneburg",
+                "Delmenhorst  Stadt",
+                "Emden  Stadt",
+                "Oldenburg(Oldb)  Stadt",
+                "Osnabrück  Stadt",
+                "Wilhelmshaven  Stadt",
+                "Ammerland",
+                "Aurich",
+                "Cloppenburg",
+                "Emsland",
+                "Friesland",
+                "Grafschaft Bentheim",
+                "Leer",
+                "Oldenburg",
+                "Osnabrück",
+                "Vechta",
+                "Wesermarsch",
+                "Wittmund",
+                "Statistische Region Weser-Ems",
+                "Niedersachsen",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.2-3-2-title"
+    },
+    {
+      "path": "2-2-3/data.csv",
+      "name": "2-2-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Abschiebungen",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Abschiebungen insgesamt",
+                "Überstellung nach der Dublin III-VO",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
-      "title": "global_indicators.7-1-1-title"
+      "title": "global_indicators.2-2-3-title"
+    },
+    {
+      "path": "7-1-2/data.csv",
+      "name": "7-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                "G",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.7-1-2-title"
     },
     {
       "path": "1-3-3/data.csv",
@@ -991,8 +1655,8 @@
       "title": "global_indicators.1-3-3-title"
     },
     {
-      "path": "4-3-1/data.csv",
-      "name": "4-3-1",
+      "path": "4-2-1/data.csv",
+      "name": "4-2-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1002,50 +1666,49 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "Land der Staatsangehörigkeit",
+            "name": "Nationalität",
             "type": "string",
             "constraints": {
               "enum": [
-                "China",
-                "Türkei",
-                "Syrien  Arab. Republik",
-                "Indien",
-                "Iran  Islamische Republik",
-                "Staaten insgesamt",
-                "Syrien Arab. Republik",
-                "Iran Islamische Republik",
+                "Insgesamt",
+                "Deutsche",
+                "Ausländerinnen und Ausländer",
                 ""
               ]
             }
           },
           {
-            "name": "Kategorie",
+            "name": "Geschlecht",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ausländische Studierende (Insgesamt)",
-                "Ausländische Studierende (Männer)",
-                "Ausländische Studierende (Frauen)",
-                "Bildungsausländerinnen und Bildungsausländer (Insgesamt)",
-                "Bildungsausländerinnen und Bildungsausländer (Männer)",
-                "Bildungsausländerinnen und Bildungsausländer (Frauen)",
-                "Bildungsinländerinnen und Bildungsinländer (Insgesamt)",
-                "Bildungsinländerinnen und Bildungsinländer (Männer)",
-                "Bildungsinländerinnen und Bildungsinländer (Frauen)",
+                "Insgesamt",
+                "Männer",
+                "Frauen",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prozent",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
-      "title": "global_indicators.4-3-1-title"
+      "title": "global_indicators.4-2-1-title"
     },
     {
       "path": "1-2-8/data.csv",
@@ -1146,8 +1809,8 @@
       "title": "global_indicators.1-2-8-title"
     },
     {
-      "path": "4-1-2/data.csv",
-      "name": "4-1-2",
+      "path": "7-2-1/data.csv",
+      "name": "7-2-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1160,165 +1823,41 @@
             "type": "integer"
           },
           {
-            "name": "Gebietseinheit",
+            "name": "Migrationsstatus der Familie",
             "type": "string",
             "constraints": {
               "enum": [
-                "Statistische Region Braunschweig",
-                "Statistische Region Hannover",
-                "Statistische Region Lüneburg",
-                "Statistische Region Weser-Ems",
-                "Niedersachsen",
+                "Insgesamt                              ",
+                " ohne Migrationshintergrund            ",
+                " mit Migrationshintergrund             ",
+                "  ein Partner mit Migrationshintergr.  ",
+                "  beide Partner mit Migrationshintergr.",
                 ""
               ]
             }
           },
           {
-            "name": "Nationalität",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Deutsche",
-                "Ausländerinnen und Ausländer",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Schulform",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Hauptschule",
-                "Realschule",
-                "Oberschule",
-                "Gymnasium",
-                "Integrierte Gesamtschule",
-                "Förderschule",
-                "Insgesamt",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Prozent",
-                "Anzahl",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "string"
-          }
-        ]
-      },
-      "title": "global_indicators.4-1-2-title"
-    },
-    {
-      "path": "6-2-2/data.csv",
-      "name": "6-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                "G",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.6-2-2-title"
-    },
-    {
-      "path": "4-1-1/data.csv",
-      "name": "4-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Staatsangehörigkeit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Deutsche",
-                "Ausländerinnen und Ausländer",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Erreichter Abschluss",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Allgemeine Hochschulreife",
-                "Fachhochschulreife",
-                "Schulischer Teil der Fachhochschulreife",
-                "Realschulabschluss",
-                "Hauptschulabschluss",
-                "Erfolgreicher Besuch²",
-                "Entlassungen aus dem Berufsvorbereitungsjahr",
-                "Ohne erfolgreichen Besuch/Abschluss",
-                "Erreichte Abschlüsse insgesamt",
-                "nachrichtlich: Abbruch im laufenden Schuljahr",
-                "Entlassung aus dem Berufsvorbereitungsjahr",
-                "ohne erfolgr. Besuch m. gleichz. erworb. Hauptschulabschl.",
-                "ohne erfolgreichen Besuch/Abschluss",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Besuchte Schule",
+            "name": "LeCensform",
             "type": "string",
             "constraints": {
               "enum": [
                 "Insgesamt",
-                "Berufsschule (Teilzeit)",
-                "Berufsgrundbildungsjahr schulisch",
-                "Berufseinstiegsklasse",
-                "Berufsvorbereitungsjahr",
-                "Berufsfachschule",
-                "Fachoberschule",
-                "Berufsoberschule",
-                "Berufl. Gymnasium",
-                "Fachschule",
+                "Ehepaare",
+                "Lebensgemeinschaften",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "mit ledigen Kindern",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ohne ledige Kinder",
+                "Mit ledigen Kindern",
+                "1 Kind",
+                "2 Kinder",
+                "3 und mehr Kinder",
                 ""
               ]
             }
@@ -1329,7 +1868,175 @@
           }
         ]
       },
-      "title": "global_indicators.4-1-1-title"
+      "title": "global_indicators.7-2-1-title"
+    },
+    {
+      "path": "8-1-1/data.csv",
+      "name": "8-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Altersgruppe",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "18 – 25",
+                "25 – 45",
+                "45 – 65",
+                "65 und älter",
+                "Insgesamt",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "in 1000",
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geschlecht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Männlich",
+                "Weiblich",
+                "Insgesamt",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.8-1-1-title"
+    },
+    {
+      "path": "3-1-3/data.csv",
+      "name": "3-1-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Anzahl",
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Gebietseinheit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Braunschweig  Stadt",
+                "Salzgitter  Stadt",
+                "Wolfsburg  Stadt",
+                "Gifhorn",
+                "Goslar",
+                "Helmstedt",
+                "Northeim",
+                "Peine",
+                "Wolfenbüttel",
+                "Göttingen",
+                "Stat. Region Braunschweig",
+                "Hannover  Region",
+                "dav. Hannover  Lhst.",
+                "dav. Hannover  Umland",
+                "Diepholz",
+                "Hameln-Pyrmont",
+                "Hildesheim",
+                "Holzminden",
+                "Nienburg (Weser)",
+                "Schaumburg",
+                "Stat. Region Hannover",
+                "Celle",
+                "Cuxhaven",
+                "Harburg",
+                "Lüchow-Dannenberg",
+                "Lüneburg",
+                "Osterholz",
+                "Rotenburg (Wümme)",
+                "Heidekreis",
+                "Stade",
+                "Uelzen",
+                "Verden",
+                "Stat. Region Lüneburg",
+                "Delmenhorst  Stadt",
+                "Emden  Stadt",
+                "Oldenburg(Oldb)  Stadt",
+                "Osnabrück  Stadt",
+                "Wilhelmshaven  Stadt",
+                "Ammerland",
+                "Aurich",
+                "Cloppenburg",
+                "Emsland",
+                "Friesland",
+                "Grafschaft Bentheim",
+                "Leer",
+                "Oldenburg",
+                "Osnabrück",
+                "Vechta",
+                "Wesermarsch",
+                "Wittmund",
+                "Stat. Region Weser-Ems",
+                "Niedersachsen",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Kinderbetreuung",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kinder im Alter von unter 3 Jahren mit ausländischer Herkunft mindestens eines Elternteils",
+                "Kinder im Alter von 3 bis unter 6 Jahren mit ausländischer Herkunft mindestens eines Elternteils",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.3-1-3-title"
     },
     {
       "path": "4-1-3/data.csv",
@@ -1441,161 +2148,6 @@
       "title": "global_indicators.4-1-3-title"
     },
     {
-      "path": "3-1-1/data.csv",
-      "name": "3-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Gebietseinheit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Niedersachsen",
-                "Deutschland",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Kategorie",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Insgesamt bis unter 3 Jahre",
-                "Insgesamt 3 bis unter 6 Jahre",
-                "Kinder mit Migrationshintergrund bis unter 3 Jahre",
-                "Kinder mit Migrationshintergrund 3 bis unter 6 Jahre",
-                "Kinder ohne Migrationshintergrund bis unter 3 Jahre",
-                "Kinder ohne Migrationshintergrund 3 bis unter 6 Jahre",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.3-1-1-title"
-    },
-    {
-      "path": "1-1-3/data.csv",
-      "name": "1-1-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Gebietseinheit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Braunschweig Stadt",
-                "Salzgitter Stadt",
-                "Wolfsburg Stadt",
-                "Gifhorn",
-                "Goslar",
-                "Helmstedt",
-                "Northeim",
-                "Peine",
-                "Wolfenbüttel",
-                "Göttingen",
-                "Statistische Region Braunschweig",
-                "Hannover Region",
-                "Hannover Landeshauptstadt",
-                "Hannover Umland",
-                "Diepholz",
-                "Hameln-Pyrmont",
-                "Hildesheim",
-                "Holzminden",
-                "Nienburg (Weser)",
-                "Schaumburg",
-                "Statistische Region Hannover",
-                "Celle",
-                "Cuxhaven",
-                "Harburg",
-                "Lüchow-Dannenberg",
-                "Lüneburg",
-                "Osterholz",
-                "Rotenburg (Wümme)",
-                "Heidekreis",
-                "Stade",
-                "Uelzen",
-                "Verden",
-                "Statistische Region Lüneburg",
-                "Delmenhorst.Stadt",
-                "Emden Stadt",
-                "Oldenburg (Oldb) Stadt",
-                "Osnabrück Stadt",
-                "Wilhelmshaven Stadt",
-                "Ammerland",
-                "Aurich",
-                "Cloppenburg",
-                "Emsland",
-                "Friesland",
-                "Grafschaft Bentheim",
-                "Leer",
-                "Oldenburg",
-                "Osnabrück",
-                "Vechta",
-                "Wesermarsch",
-                "Wittmund",
-                "Statistische Region Weser-Ems",
-                "Niedersachsen",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.1-1-3-title"
-    },
-    {
       "path": "2-1-1/data.csv",
       "name": "2-1-1",
       "profile": "tabular-data-resource",
@@ -1700,6 +2252,300 @@
         ]
       },
       "title": "global_indicators.2-1-1-title"
+    },
+    {
+      "path": "2-2-1/data.csv",
+      "name": "2-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Gebietseinheit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Niedersachsen",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.2-2-1-title"
+    },
+    {
+      "path": "1-1-1/data.csv",
+      "name": "1-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Gebietseinheit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Braunschweig Stadt",
+                "Salzgitter Stadt",
+                "Wolfsburg Stadt",
+                "Gifhorn",
+                "Goslar",
+                "Helmstedt",
+                "Northeim",
+                "Peine",
+                "Wolfenbüttel",
+                "Göttingen",
+                "Statistische Region Braunschweig",
+                "Hannover Region",
+                "Hannover Landeshauptstadt",
+                "Hannover Umland",
+                "Diepholz",
+                "Hameln-Pyrmont",
+                "Hildesheim",
+                "Holzminden",
+                "Nienburg (Weser)",
+                "Schaumburg",
+                "Statistische Region Hannover",
+                "Celle",
+                "Cuxhaven",
+                "Harburg",
+                "Lüchow-Dannenberg",
+                "Lüneburg",
+                "Osterholz",
+                "Rotenburg (Wümme)",
+                "Heidekreis",
+                "Stade",
+                "Uelzen",
+                "Verden",
+                "Statistische Region Lüneburg",
+                "Delmenhorst Stadt",
+                "Emden Stadt",
+                "Oldenburg (Oldb) Stadt",
+                "Osnabrück Stadt",
+                "Wilhelmshaven Stadt",
+                "Ammerland",
+                "Aurich",
+                "Cloppenburg",
+                "Emsland",
+                "Friesland",
+                "Grafschaft Bentheim",
+                "Leer",
+                "Oldenburg",
+                "Osnabrück",
+                "Vechta",
+                "Wesermarsch",
+                "Wittmund",
+                "Statistische Region Weser-Ems",
+                "Niedersachsen",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.1-1-1-title"
+    },
+    {
+      "path": "2-3-3/data.csv",
+      "name": "2-3-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Gebietseinheit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Braunschweig  Stadt",
+                "Salzgitter  Stadt",
+                "Wolfsburg  Stadt",
+                "Gifhorn",
+                "Goslar",
+                "Helmstedt",
+                "Northeim",
+                "Peine",
+                "Wolfenbüttel",
+                "Göttingen",
+                "Statistische Region Braunschweig",
+                "Hannover  Region",
+                "dav. Hannover  Lhst.",
+                "dav. Hannover  Umland",
+                "Diepholz",
+                "Hameln-Pyrmont",
+                "Hildesheim",
+                "Holzminden",
+                "Nienburg (Weser)",
+                "Schaumburg",
+                "Statistische Region Hannover",
+                "Celle",
+                "Cuxhaven",
+                "Harburg",
+                "Lüchow-Dannenberg",
+                "Lüneburg",
+                "Osterholz",
+                "Rotenburg (Wümme)",
+                "Heidekreis",
+                "Stade",
+                "Uelzen",
+                "Verden",
+                "Statistische Region Lüneburg",
+                "Delmenhorst  Stadt",
+                "Emden  Stadt",
+                "Oldenburg(Oldb)  Stadt",
+                "Osnabrück  Stadt",
+                "Wilhelmshaven  Stadt",
+                "Ammerland",
+                "Aurich",
+                "Cloppenburg",
+                "Emsland",
+                "Friesland",
+                "Grafschaft Bentheim",
+                "Leer",
+                "Oldenburg",
+                "Osnabrück",
+                "Vechta",
+                "Wesermarsch",
+                "Wittmund",
+                "Statistische Region Weser-Ems",
+                "Niedersachsen",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Kategorie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Anteil an allen Einwohnerinnen und Einwohnern",
+                "Anteil an allen Ausländerinnen und Ausländern",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.2-3-3-title"
+    },
+    {
+      "path": "4-1-6/data.csv",
+      "name": "4-1-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Migrationshuntergrund",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "mit und ohne Migrationshintergrund",
+                "ohne Migrationshintergrund",
+                "mit Migrationshintergrund",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geschlecht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "Männer",
+                "Frauen",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Migrationserfahrung",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "mit eigener Migrationserfahrung",
+                "ohne eigene Migrationserfahrung",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.4-1-6-title"
     },
     {
       "path": "1-3-1/data.csv",
@@ -1812,8 +2658,8 @@
       "title": "global_indicators.1-3-1-title"
     },
     {
-      "path": "1-2-5/data.csv",
-      "name": "1-2-5",
+      "path": "3-1-1/data.csv",
+      "name": "3-1-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1826,57 +2672,37 @@
             "type": "integer"
           },
           {
-            "name": "Land der Staatsangehörigkeit",
+            "name": "Gebietseinheit",
             "type": "string",
             "constraints": {
               "enum": [
-                "Europa",
-                "Türkei",
-                "Polen",
-                "Serbien",
-                "Niederlande",
-                "Rumänien",
-                "Italien",
-                "Russische Föderation",
-                "Griechenland",
-                "Bulgarien",
-                "Spanien",
-                "Ukraine",
-                "Vereinigtes Königreich",
-                "Portugal",
-                "Kroatien",
-                "Ungarn",
-                "EU Staaten",
-                "Afrika",
-                "Amerika",
-                "Asien",
-                "Syrien",
-                "Irak ",
-                "Afghanistan",
-                "China",
-                "Vietnam",
-                "Australien und Ozeanien",
-                "Staatenlos",
-                "Ungeklärt und ohne Angabe",
-                "Insgesamt",
-                "Österreich",
-                "Irak",
-                "Australien und Ozeanien ",
-                "Serbien2)",
-                "Bosnien und Herzegowina",
+                "Niedersachsen",
+                "Deutschland",
                 ""
               ]
             }
           },
           {
-            "name": "Ausländerinnen und Ausländer",
+            "name": "Kategorie",
             "type": "string",
             "constraints": {
               "enum": [
-                "Insgesamt",
-                "Männer in Prozent",
-                "Frauen in Prozent",
-                "Veränderung in Prozent gegenüber 2005",
+                "Insgesamt bis unter 3 Jahre",
+                "Insgesamt 3 bis unter 6 Jahre",
+                "Kinder mit Migrationshintergrund bis unter 3 Jahre",
+                "Kinder mit Migrationshintergrund 3 bis unter 6 Jahre",
+                "Kinder ohne Migrationshintergrund bis unter 3 Jahre",
+                "Kinder ohne Migrationshintergrund 3 bis unter 6 Jahre",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
                 ""
               ]
             }
@@ -1887,11 +2713,11 @@
           }
         ]
       },
-      "title": "global_indicators.1-2-5-title"
+      "title": "global_indicators.3-1-1-title"
     },
     {
-      "path": "2-1-2/data.csv",
-      "name": "2-1-2",
+      "path": "2-1-8/data.csv",
+      "name": "2-1-8",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1968,7 +2794,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Geflüchtete und geduldete Personen insgesamt",
+                "Familiennachzug",
                 ""
               ]
             }
@@ -1983,7 +2809,850 @@
           }
         ]
       },
-      "title": "global_indicators.2-1-2-title"
+      "title": "global_indicators.2-1-8-title"
+    },
+    {
+      "path": "1-2-7/data.csv",
+      "name": "1-2-7",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                "G",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.1-2-7-title"
+    },
+    {
+      "path": "4-4-1/data.csv",
+      "name": "4-4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Berufsgruppe",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "alle Berufsgruppen",
+                "darunter medizinische Gesundheitsberufe",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geschlecht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Männer",
+                "Frauen",
+                "Insgesamt",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Verfahren",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "abgeschlossene Verfahren",
+                "sonstige Erledigung - Verfahren ohne Bescheid beendet",
+                "Noch keine Entscheidung",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Entscheidung vor Rechtsbehelf",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "positiv volle Gleichwertigkeit",
+                "Auflage einer Ausgleichsmaßnahme1)",
+                "positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2)",
+                "teilweise Gleichwertigkeit3)",
+                "positive partieller Berufszugang4)",
+                "negativ",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "string"
+          }
+        ]
+      },
+      "title": "global_indicators.4-4-1-title"
+    },
+    {
+      "path": "7-1-1/data.csv",
+      "name": "7-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Wohnfläche in qm",
+                "Bruttokaltmiete in €",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Migrationsstatus",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "ohne Migrationshintergrund",
+                "mit Migrationshintergrund",
+                "dav. mit eigener Migrationserfahrung",
+                "dav.ohne eigene Migrationserfahrung",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.7-1-1-title"
+    },
+    {
+      "path": "1-4-5/data.csv",
+      "name": "1-4-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Gebietseinheit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Braunschweig  Stadt",
+                "Salzgitter  Stadt",
+                "Wolfsburg  Stadt",
+                "Gifhorn",
+                "Goslar",
+                "Helmstedt",
+                "Northeim",
+                "Peine",
+                "Wolfenbüttel",
+                "Göttingen",
+                "Statistische Region Braunschweig",
+                "Hannover  Region",
+                "dav. Hannover  Lhst.",
+                "dav. Hannover  Umland",
+                "Diepholz",
+                "Hameln-Pyrmont",
+                "Hildesheim",
+                "Holzminden",
+                "Nienburg (Weser)",
+                "Schaumburg",
+                "Statistische Region Hannover",
+                "Celle",
+                "Cuxhaven",
+                "Harburg",
+                "Lüchow-Dannenberg",
+                "Lüneburg",
+                "Osterholz",
+                "Rotenburg (Wümme)",
+                "Heidekreis",
+                "Stade",
+                "Uelzen",
+                "Verden",
+                "Statistische Region Lüneburg",
+                "Delmenhorst  Stadt",
+                "Emden  Stadt",
+                "Oldenburg(Oldb)  Stadt",
+                "Osnabrück  Stadt",
+                "Wilhelmshaven  Stadt",
+                "Ammerland",
+                "Aurich",
+                "Cloppenburg",
+                "Emsland",
+                "Friesland",
+                "Grafschaft Bentheim",
+                "Leer",
+                "Oldenburg",
+                "Osnabrück",
+                "Vechta",
+                "Wesermarsch",
+                "Wittmund",
+                "Statistische Region Weser-Ems",
+                "Niedersachsen",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Wanderung",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Zuzüge",
+                "Fortzüge",
+                "Saldo der Zu- und Fortzüge",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Nationalität/Geschlecht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "Deutsche",
+                "Ausländerinnen und Ausländer",
+                "Männer",
+                "Frauen",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Anzahl",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.1-4-5-title"
+    },
+    {
+      "path": "1-4-4/data.csv",
+      "name": "1-4-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Kategorie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Zuzüge",
+                "Fortzüge",
+                "Saldo",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Altersgruppe",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "0 - 5",
+                "5 - 15",
+                "15 - 20",
+                "20 - 40",
+                "40 - 65",
+                "65 - 80",
+                "80 u.ä.",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Anzahl",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.1-4-4-title"
+    },
+    {
+      "path": "4-4-2/data.csv",
+      "name": "4-4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Höchster Beruflicher Abschluss",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ohne Abschluss1)",
+                "Abgeschlossene Berufsausbildung",
+                "Tertiärer Abschluss",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Migrationshintergrund",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "mit und ohne Migrationshintergrund",
+                "mit Migrationshintergrund3)",
+                "ohne Migrationshintergrund",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geschlecht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "Männer",
+                "Frauen",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.4-4-2-title"
+    },
+    {
+      "path": "6-2-2/data.csv",
+      "name": "6-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "B",
+                "G",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.6-2-2-title"
+    },
+    {
+      "path": "1-1-2/data.csv",
+      "name": "1-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "Gebietseinheit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Braunschweig  Stadt",
+                "Salzgitter  Stadt",
+                "Wolfsburg  Stadt",
+                "Gifhorn",
+                "Goslar",
+                "Helmstedt",
+                "Northeim",
+                "Peine",
+                "Wolfenbüttel",
+                "Göttingen",
+                "Statistische Region Braunschweig",
+                "Hannover  Region",
+                "dav. Hannover  Lhst.",
+                "dav. Hannover  Umland",
+                "Diepholz",
+                "Hameln-Pyrmont",
+                "Hildesheim",
+                "Holzminden",
+                "Nienburg (Weser)",
+                "Schaumburg",
+                "Statistische Region Hannover",
+                "Celle",
+                "Cuxhaven",
+                "Harburg",
+                "Lüchow-Dannenberg",
+                "Lüneburg",
+                "Osterholz",
+                "Rotenburg (Wümme)",
+                "Heidekreis",
+                "Stade",
+                "Uelzen",
+                "Verden",
+                "Statistische Region Lüneburg",
+                "Delmenhorst  Stadt",
+                "Emden  Stadt",
+                "Oldenburg(Oldb)  Stadt",
+                "Osnabrück  Stadt",
+                "Wilhelmshaven  Stadt",
+                "Ammerland",
+                "Aurich",
+                "Cloppenburg",
+                "Emsland",
+                "Friesland",
+                "Grafschaft Bentheim",
+                "Leer",
+                "Oldenburg",
+                "Osnabrück",
+                "Vechta",
+                "Wesermarsch",
+                "Wittmund",
+                "Statistische Region Weser-Ems",
+                "Niedersachsen",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.1-1-2-title"
+    },
+    {
+      "path": "6-3-1/data.csv",
+      "name": "6-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Group²",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A¹",
+                "B²",
+                "F³",
+                "H⁴",
+                "I⁵",
+                "J⁶",
+                "K⁷",
+                "L⁸",
+                "M⁹",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.6-3-1-title"
+    },
+    {
+      "path": "1-2-6/data.csv",
+      "name": "1-2-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Gebietseinheit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Braunschweig  Stadt",
+                "Salzgitter  Stadt",
+                "Wolfsburg  Stadt",
+                "Gifhorn",
+                "Goslar",
+                "Helmstedt",
+                "Northeim",
+                "Peine",
+                "Wolfenbüttel",
+                "Göttingen",
+                "Statistische Region Braunschweig",
+                "Hannover  Region",
+                "dav. Hannover  Lhst.",
+                "dav. Hannover  Umland",
+                "Diepholz",
+                "Hameln-Pyrmont",
+                "Hildesheim",
+                "Holzminden",
+                "Nienburg (Weser)",
+                "Schaumburg",
+                "Statistische Region Hannover",
+                "Celle",
+                "Cuxhaven",
+                "Harburg",
+                "Lüchow-Dannenberg",
+                "Lüneburg",
+                "Osterholz",
+                "Rotenburg (Wümme)",
+                "Heidekreis",
+                "Stade",
+                "Uelzen",
+                "Verden",
+                "Statistische Region Lüneburg",
+                "Delmenhorst  Stadt",
+                "Emden  Stadt",
+                "Oldenburg(Oldb)  Stadt",
+                "Osnabrück  Stadt",
+                "Wilhelmshaven  Stadt",
+                "Ammerland",
+                "Aurich",
+                "Cloppenburg",
+                "Emsland",
+                "Friesland",
+                "Grafschaft Bentheim",
+                "Leer",
+                "Oldenburg",
+                "Osnabrück",
+                "Vechta",
+                "Wesermarsch",
+                "Wittmund",
+                "Statistische Region Weser-Ems",
+                "Niedersachsen",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Altersgruppe",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "0 - 6",
+                "6 - 15",
+                "15 - 20",
+                "20 - 40",
+                "40 - 65 ",
+                "65 - 80",
+                "80 und älter",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.1-2-6-title"
+    },
+    {
+      "path": "2-1-10/data.csv",
+      "name": "2-1-10",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Gebietseinheit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Braunschweig Stadt",
+                "Salzgitter Stadt",
+                "Wolfsburg Stadt",
+                "Gifhorn",
+                "Goslar",
+                "Helmstedt",
+                "Northeim",
+                "Peine",
+                "Wolfenbüttel",
+                "Göttingen",
+                "Statistische Region Braunschweig",
+                "Hannover Region",
+                "Hannover Landeshauptstadt",
+                "Diepholz",
+                "Hameln-Pyrmont",
+                "Hildesheim",
+                "Holzminden",
+                "Nienburg (Weser)",
+                "Schaumburg",
+                "Statistische Region Hannover",
+                "Celle",
+                "Cuxhaven",
+                "Harburg",
+                "Lüchow-Dannenberg",
+                "Lüneburg",
+                "Osterholz",
+                "Rotenburg (Wümme)",
+                "Heidekreis",
+                "Stade",
+                "Uelzen",
+                "Verden",
+                "Statistische Region Lüneburg",
+                "Delmenhorst.Stadt",
+                "Emden Stadt",
+                "Oldenburg (Oldb) Stadt",
+                "Osnabrück Stadt",
+                "Wilhelmshaven Stadt",
+                "Ammerland",
+                "Aurich",
+                "Cloppenburg",
+                "Emsland",
+                "Friesland",
+                "Grafschaft Bentheim",
+                "Leer",
+                "Oldenburg",
+                "Osnabrück",
+                "Vechta",
+                "Wesermarsch",
+                "Wittmund",
+                "Statistische Region Weser-Ems",
+                "Niedersachsen",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Aufenthaltstitel",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Unmöglichkeit d. Ausreise aus rechtl. oder tats. Gründen",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.11-2-9-title"
+    },
+    {
+      "path": "4-3-2/data.csv",
+      "name": "4-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Fächergruppe",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Geisteswissenschaften",
+                "Sport",
+                "Rechts- Wirtschafts-und  Sozialwissenschaften",
+                "Mathematik und Natruwissenschaften",
+                "Humanmedizin und Gesundheitswissenschaften",
+                "Agrar- Forst- Ernährungswissenschaften Veterinärmedizin",
+                "Ingenieurwissenschaften",
+                "Kunst und Kunstwissenschaften",
+                "Außerhalb der Studienbereichsgliederung",
+                "Fächergruppen zusammen",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Nationalität",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "Deutsche",
+                "Ausländerinnen und Ausländer",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geschlecht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "Männer",
+                "Frauen",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Anzahl",
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "string"
+          }
+        ]
+      },
+      "title": "global_indicators.4-3-2-title"
     },
     {
       "path": "2-2-2/data.csv",
@@ -2128,8 +3797,8 @@
       "title": "global_indicators.5-2-2-title"
     },
     {
-      "path": "2-2-4/data.csv",
-      "name": "2-2-4",
+      "path": "1-4-2/data.csv",
+      "name": "1-4-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2142,11 +3811,13 @@
             "type": "integer"
           },
           {
-            "name": "Asylanträge",
+            "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "Asylanträge",
+                "A",
+                "B",
+                "G",
                 ""
               ]
             }
@@ -2157,11 +3828,317 @@
           }
         ]
       },
-      "title": "global_indicators.2-2-4-title"
+      "title": "global_indicators.1-4-2-title"
     },
     {
-      "path": "2-1-6/data.csv",
-      "name": "2-1-6",
+      "path": "5-2-1/data.csv",
+      "name": "5-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Kategorie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Erwerbsquote",
+                "Erwerbstätigenquote",
+                "Erwerbslosenanteil",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Migrationsstatus",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "ohne Migrationshintergrund",
+                "mit Migrationshintergrund",
+                "mit Migrationshintergrund und eigener Migrationserfahrung",
+                "mit Migrationshintergrund und ohne eigene Migrationserfahrung",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geschlecht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Männer",
+                "Frauen",
+                "Insgesamt",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.5-2-1-title"
+    },
+    {
+      "path": "5-2-3/data.csv",
+      "name": "5-2-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Gebietseinheit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Braunschweig  Stadt",
+                "Salzgitter  Stadt",
+                "Wolfsburg  Stadt",
+                "Gifhorn",
+                "Goslar",
+                "Helmstedt",
+                "Northeim",
+                "Peine",
+                "Wolfenbüttel",
+                "Göttingen",
+                "Stat. Region Braunschweig",
+                "Hannover  Region",
+                "dav. Hannover  Lhst.",
+                "dav. Hannover  Umland",
+                "Diepholz",
+                "Hameln-Pyrmont",
+                "Hildesheim",
+                "Holzminden",
+                "Nienburg (Weser)",
+                "Schaumburg",
+                "Stat. Region Hannover",
+                "Celle",
+                "Cuxhaven",
+                "Harburg",
+                "Lüchow-Dannenberg",
+                "Lüneburg",
+                "Osterholz",
+                "Rotenburg (Wümme)",
+                "Heidekreis",
+                "Stade",
+                "Uelzen",
+                "Verden",
+                "Stat. Region Lüneburg",
+                "Delmenhorst  Stadt",
+                "Emden  Stadt",
+                "Oldenburg(Oldb)  Stadt",
+                "Osnabrück  Stadt",
+                "Wilhelmshaven  Stadt",
+                "Ammerland",
+                "Aurich",
+                "Cloppenburg",
+                "Emsland",
+                "Friesland",
+                "Grafschaft Bentheim",
+                "Leer",
+                "Oldenburg",
+                "Osnabrück",
+                "Vechta",
+                "Wesermarsch",
+                "Wittmund",
+                "Stat. Region Weser-Ems",
+                "Niedersachsen",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Qualifikation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "hoch",
+                "mittel",
+                "niedrig",
+                "unbekannt",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "string"
+          }
+        ]
+      },
+      "title": "global_indicators.5-2-3-title"
+    },
+    {
+      "path": "4-1-5/data.csv",
+      "name": "4-1-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Altersgruppe",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "18 – 25",
+                "25 – 35",
+                "15 – 65",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Schulabschluss",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ohne Abschluss2)",
+                "Hauptschulabschluss",
+                "Realschulabschluss",
+                "(Fach-)Hochschulreife",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Migrationsstatus",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "mit Migrationshintergrund",
+                "ohne Migrationshintergrund",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.4-1-5-title"
+    },
+    {
+      "path": "5-3-2/data.csv",
+      "name": "5-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "Kategorie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Arbeitslosenquote Insgesamt (alle Erwerbspersonen)",
+                "Arbeitslosenquote von Ausländerinnen und Ausländern (alle Erwerbspersonen)",
+                "Arbeitslosenquote (Insgesamt) der bis unter 25-Jährigen",
+                "Arbeitslosenquote der Ausländerinnen und Ausländer bis unter 25 Jahren",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geschlecht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "Männer",
+                "Frauen",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.5-3-2-title"
+    },
+    {
+      "path": "2-1-4/data.csv",
+      "name": "2-1-4",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2238,7 +4215,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Dringende persönliche o. humanitäre Gründe Härtefälle",
+                "Aufenthaltsgestattung zum Asylverfahren",
                 ""
               ]
             }
@@ -2253,606 +4230,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-1-6-title"
-    },
-    {
-      "path": "2-3-4/data.csv",
-      "name": "2-3-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Land der Staatsangehörigkeit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Europa insgesamt",
-                "Griechenland",
-                "Italien",
-                "Kosovo",
-                "Polen",
-                "Rumänien",
-                "Russische Föderation",
-                "Serbien 2)",
-                "Türkei",
-                "Ukraine",
-                "Vereinigtes Königreich GB Nordirland",
-                "EU Staaten",
-                "Afrika insgesamt",
-                "Tunesien",
-                "Amerika insgesamt",
-                "Asien insgesamt",
-                "Afganistan",
-                "Libanon",
-                "Indien",
-                "Irak",
-                "Iran Islamische Republik",
-                "Pakistan",
-                "Syrien Arabische Republik",
-                "Vietnam",
-                "Australien und Ozeanien",
-                "Sonstige Ziele",
-                "staatenlos",
-                "Insgesamt",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.2-3-4-title"
-    },
-    {
-      "path": "4-4-2/data.csv",
-      "name": "4-4-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Höchster Beruflicher Abschluss",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ohne Abschluss1)",
-                "Abgeschlossene Berufsausbildung",
-                "Tertiärer Abschluss",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Migrationshintergrund",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "mit und ohne Migrationshintergrund",
-                "mit Migrationshintergrund3)",
-                "ohne Migrationshintergrund",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Geschlecht",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Insgesamt",
-                "Männer",
-                "Frauen",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.4-4-2-title"
-    },
-    {
-      "path": "4-4-1/data.csv",
-      "name": "4-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Berufsgruppe",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "alle Berufsgruppen",
-                "darunter medizinische Gesundheitsberufe",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Geschlecht",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Männer",
-                "Frauen",
-                "Insgesamt",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Verfahren",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Insgesamt",
-                "abgeschlossene Verfahren",
-                "sonstige Erledigung - Verfahren ohne Bescheid beendet",
-                "Noch keine Entscheidung",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Entscheidung vor Rechtsbehelf",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "positiv volle Gleichwertigkeit",
-                "Auflage einer Ausgleichsmaßnahme1)",
-                "positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2)",
-                "teilweise Gleichwertigkeit3)",
-                "positive partieller Berufszugang4)",
-                "negativ",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "string"
-          }
-        ]
-      },
-      "title": "global_indicators.4-4-1-title"
-    },
-    {
-      "path": "1-4-3/data.csv",
-      "name": "1-4-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                "G",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.1-4-3-title"
-    },
-    {
-      "path": "2-3-3/data.csv",
-      "name": "2-3-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Gebietseinheit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Braunschweig  Stadt",
-                "Salzgitter  Stadt",
-                "Wolfsburg  Stadt",
-                "Gifhorn",
-                "Goslar",
-                "Helmstedt",
-                "Northeim",
-                "Peine",
-                "Wolfenbüttel",
-                "Göttingen",
-                "Statistische Region Braunschweig",
-                "Hannover  Region",
-                "dav. Hannover  Lhst.",
-                "dav. Hannover  Umland",
-                "Diepholz",
-                "Hameln-Pyrmont",
-                "Hildesheim",
-                "Holzminden",
-                "Nienburg (Weser)",
-                "Schaumburg",
-                "Statistische Region Hannover",
-                "Celle",
-                "Cuxhaven",
-                "Harburg",
-                "Lüchow-Dannenberg",
-                "Lüneburg",
-                "Osterholz",
-                "Rotenburg (Wümme)",
-                "Heidekreis",
-                "Stade",
-                "Uelzen",
-                "Verden",
-                "Statistische Region Lüneburg",
-                "Delmenhorst  Stadt",
-                "Emden  Stadt",
-                "Oldenburg(Oldb)  Stadt",
-                "Osnabrück  Stadt",
-                "Wilhelmshaven  Stadt",
-                "Ammerland",
-                "Aurich",
-                "Cloppenburg",
-                "Emsland",
-                "Friesland",
-                "Grafschaft Bentheim",
-                "Leer",
-                "Oldenburg",
-                "Osnabrück",
-                "Vechta",
-                "Wesermarsch",
-                "Wittmund",
-                "Statistische Region Weser-Ems",
-                "Niedersachsen",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Kategorie",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Anteil an allen Einwohnerinnen und Einwohnern",
-                "Anteil an allen Ausländerinnen und Ausländern",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.2-3-3-title"
-    },
-    {
-      "path": "2-2-3/data.csv",
-      "name": "2-2-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Abschiebungen",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Abschiebungen insgesamt",
-                "Überstellung nach der Dublin III-VO",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.2-2-3-title"
-    },
-    {
-      "path": "1-4-2/data.csv",
-      "name": "1-4-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                "G",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.1-4-2-title"
-    },
-    {
-      "path": "1-2-3/data.csv",
-      "name": "1-2-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Gebietseinheit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Braunschweig  Stadt",
-                "Salzgitter  Stadt",
-                "Wolfsburg  Stadt",
-                "Gifhorn",
-                "Goslar",
-                "Helmstedt",
-                "Northeim",
-                "Peine",
-                "Wolfenbüttel",
-                "Göttingen",
-                "Statistische Region Braunschweig",
-                "Hannover  Region",
-                "dav. Hannover  Lhst.",
-                "dav. Hannover  Umland",
-                "Diepholz",
-                "Hameln-Pyrmont",
-                "Hildesheim",
-                "Holzminden",
-                "Nienburg (Weser)",
-                "Schaumburg",
-                "Statistische Region Hannover",
-                "Celle",
-                "Cuxhaven",
-                "Harburg",
-                "Lüchow-Dannenberg",
-                "Lüneburg",
-                "Osterholz",
-                "Rotenburg (Wümme)",
-                "Heidekreis",
-                "Stade",
-                "Uelzen",
-                "Verden",
-                "Statistische Region Lüneburg",
-                "Delmenhorst  Stadt",
-                "Emden  Stadt",
-                "Oldenburg(Oldb)  Stadt",
-                "Osnabrück  Stadt",
-                "Wilhelmshaven  Stadt",
-                "Ammerland",
-                "Aurich",
-                "Cloppenburg",
-                "Emsland",
-                "Friesland",
-                "Grafschaft Bentheim",
-                "Leer",
-                "Oldenburg",
-                "Osnabrück",
-                "Vechta",
-                "Wesermarsch",
-                "Wittmund",
-                "Statistische Region Weser-Ems",
-                "Niedersachsen",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Aufenthaltsdauer in Jahren",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "unter 1",
-                "1 - 4",
-                "4 - 6",
-                "6 - 8",
-                "8 - 10",
-                "10 und mehr",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Geschlecht",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Insgesamt",
-                "männlich",
-                "weiblich",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.1-2-3-title"
-    },
-    {
-      "path": "4-3-2/data.csv",
-      "name": "4-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Fächergruppe",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Geisteswissenschaften",
-                "Sport",
-                "Rechts- Wirtschafts-und  Sozialwissenschaften",
-                "Mathematik und Natruwissenschaften",
-                "Humanmedizin und Gesundheitswissenschaften",
-                "Agrar- Forst- Ernährungswissenschaften Veterinärmedizin",
-                "Ingenieurwissenschaften",
-                "Kunst und Kunstwissenschaften",
-                "Außerhalb der Studienbereichsgliederung",
-                "Fächergruppen zusammen",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Nationalität",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Insgesamt",
-                "Deutsche",
-                "Ausländerinnen und Ausländer",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Geschlecht",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Insgesamt",
-                "Männer",
-                "Frauen",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Anzahl",
-                "%",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "string"
-          }
-        ]
-      },
-      "title": "global_indicators.4-3-2-title"
+      "title": "global_indicators.2-1-4-title"
     },
     {
       "path": "1-2-4/data.csv",
@@ -2965,280 +4343,6 @@
         ]
       },
       "title": "global_indicators.1-2-4-title"
-    },
-    {
-      "path": "2-1-10/data.csv",
-      "name": "2-1-10",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Gebietseinheit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Braunschweig Stadt",
-                "Salzgitter Stadt",
-                "Wolfsburg Stadt",
-                "Gifhorn",
-                "Goslar",
-                "Helmstedt",
-                "Northeim",
-                "Peine",
-                "Wolfenbüttel",
-                "Göttingen",
-                "Statistische Region Braunschweig",
-                "Hannover Region",
-                "Hannover Landeshauptstadt",
-                "Diepholz",
-                "Hameln-Pyrmont",
-                "Hildesheim",
-                "Holzminden",
-                "Nienburg (Weser)",
-                "Schaumburg",
-                "Statistische Region Hannover",
-                "Celle",
-                "Cuxhaven",
-                "Harburg",
-                "Lüchow-Dannenberg",
-                "Lüneburg",
-                "Osterholz",
-                "Rotenburg (Wümme)",
-                "Heidekreis",
-                "Stade",
-                "Uelzen",
-                "Verden",
-                "Statistische Region Lüneburg",
-                "Delmenhorst.Stadt",
-                "Emden Stadt",
-                "Oldenburg (Oldb) Stadt",
-                "Osnabrück Stadt",
-                "Wilhelmshaven Stadt",
-                "Ammerland",
-                "Aurich",
-                "Cloppenburg",
-                "Emsland",
-                "Friesland",
-                "Grafschaft Bentheim",
-                "Leer",
-                "Oldenburg",
-                "Osnabrück",
-                "Vechta",
-                "Wesermarsch",
-                "Wittmund",
-                "Statistische Region Weser-Ems",
-                "Niedersachsen",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Aufenthaltstitel",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Unmöglichkeit d. Ausreise aus rechtl. oder tats. Gründen",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.11-2-9-title"
-    },
-    {
-      "path": "2-3-2/data.csv",
-      "name": "2-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "Gebietseinheit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Braunschweig  Stadt",
-                "Salzgitter  Stadt",
-                "Wolfsburg  Stadt",
-                "Gifhorn",
-                "Goslar",
-                "Helmstedt",
-                "Northeim",
-                "Peine",
-                "Wolfenbüttel",
-                "Göttingen",
-                "Statistische Region Braunschweig",
-                "Hannover  Region",
-                "dav. Hannover  Lhst.",
-                "dav. Hannover  Umland",
-                "Diepholz",
-                "Hameln-Pyrmont",
-                "Hildesheim",
-                "Holzminden",
-                "Nienburg (Weser)",
-                "Schaumburg",
-                "Statistische Region Hannover",
-                "Celle",
-                "Cuxhaven",
-                "Harburg",
-                "Lüchow-Dannenberg",
-                "Lüneburg",
-                "Osterholz",
-                "Rotenburg (Wümme)",
-                "Heidekreis",
-                "Stade",
-                "Uelzen",
-                "Verden",
-                "Statistische Region Lüneburg",
-                "Delmenhorst  Stadt",
-                "Emden  Stadt",
-                "Oldenburg(Oldb)  Stadt",
-                "Osnabrück  Stadt",
-                "Wilhelmshaven  Stadt",
-                "Ammerland",
-                "Aurich",
-                "Cloppenburg",
-                "Emsland",
-                "Friesland",
-                "Grafschaft Bentheim",
-                "Leer",
-                "Oldenburg",
-                "Osnabrück",
-                "Vechta",
-                "Wesermarsch",
-                "Wittmund",
-                "Statistische Region Weser-Ems",
-                "Niedersachsen",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.2-3-2-title"
-    },
-    {
-      "path": "5-3-2/data.csv",
-      "name": "5-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "Kategorie",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Arbeitslosenquote Insgesamt (alle Erwerbspersonen)",
-                "Arbeitslosenquote von Ausländerinnen und Ausländern (alle Erwerbspersonen)",
-                "Arbeitslosenquote (Insgesamt) der bis unter 25-Jährigen",
-                "Arbeitslosenquote der Ausländerinnen und Ausländer bis unter 25 Jahren",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Geschlecht",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Insgesamt",
-                "Männer",
-                "Frauen",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.5-3-2-title"
-    },
-    {
-      "path": "1-2-7/data.csv",
-      "name": "1-2-7",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                "G",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.1-2-7-title"
     },
     {
       "path": "6-2-10/data.csv",
@@ -3363,8 +4467,65 @@
       "title": "6-2-10"
     },
     {
-      "path": "1-1-1/data.csv",
-      "name": "1-1-1",
+      "path": "4-3-1/data.csv",
+      "name": "4-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "Land der Staatsangehörigkeit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "China",
+                "Türkei",
+                "Syrien  Arab. Republik",
+                "Indien",
+                "Iran  Islamische Republik",
+                "Staaten insgesamt",
+                "Syrien Arab. Republik",
+                "Iran Islamische Republik",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Kategorie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ausländische Studierende (Insgesamt)",
+                "Ausländische Studierende (Männer)",
+                "Ausländische Studierende (Frauen)",
+                "Bildungsausländerinnen und Bildungsausländer (Insgesamt)",
+                "Bildungsausländerinnen und Bildungsausländer (Männer)",
+                "Bildungsausländerinnen und Bildungsausländer (Frauen)",
+                "Bildungsinländerinnen und Bildungsinländer (Insgesamt)",
+                "Bildungsinländerinnen und Bildungsinländer (Männer)",
+                "Bildungsinländerinnen und Bildungsinländer (Frauen)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.4-3-1-title"
+    },
+    {
+      "path": "1-1-3/data.csv",
+      "name": "1-1-3",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3414,7 +4575,7 @@
                 "Uelzen",
                 "Verden",
                 "Statistische Region Lüneburg",
-                "Delmenhorst Stadt",
+                "Delmenhorst.Stadt",
                 "Emden Stadt",
                 "Oldenburg (Oldb) Stadt",
                 "Osnabrück Stadt",
@@ -3438,20 +4599,30 @@
             }
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            }
+          },
+          {
             "name": "GeoCode",
             "type": "string"
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
-      "title": "global_indicators.1-1-1-title"
+      "title": "global_indicators.1-1-3-title"
     },
     {
-      "path": "1-4-4/data.csv",
-      "name": "1-4-4",
+      "path": "1-4-1/data.csv",
+      "name": "1-4-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3464,40 +4635,13 @@
             "type": "integer"
           },
           {
-            "name": "Kategorie",
+            "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "Zuzüge",
-                "Fortzüge",
-                "Saldo",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Altersgruppe",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Insgesamt",
-                "0 - 5",
-                "5 - 15",
-                "15 - 20",
-                "20 - 40",
-                "40 - 65",
-                "65 - 80",
-                "80 u.ä.",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Anzahl",
+                "A",
+                "B",
+                "G",
                 ""
               ]
             }
@@ -3508,11 +4652,11 @@
           }
         ]
       },
-      "title": "global_indicators.1-4-4-title"
+      "title": "global_indicators.1-4-1-title"
     },
     {
-      "path": "1-4-5/data.csv",
-      "name": "1-4-5",
+      "path": "1-2-2/data.csv",
+      "name": "1-2-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -3586,37 +4730,88 @@
             }
           },
           {
-            "name": "Wanderung",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Zuzüge",
-                "Fortzüge",
-                "Saldo der Zu- und Fortzüge",
-                ""
-              ]
-            }
+            "name": "GeoCode",
+            "type": "string"
           },
           {
-            "name": "Nationalität/Geschlecht",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Insgesamt",
-                "Deutsche",
-                "Ausländerinnen und Ausländer",
-                "Männer",
-                "Frauen",
-                ""
-              ]
-            }
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.1-2-2-title"
+    },
+    {
+      "path": "1-2-1/data.csv",
+      "name": "1-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
           },
           {
-            "name": "Units",
+            "name": "Gebietseinheit",
             "type": "string",
             "constraints": {
               "enum": [
-                "Anzahl",
+                "Braunschweig  Stadt",
+                "Salzgitter  Stadt",
+                "Wolfsburg  Stadt",
+                "Gifhorn",
+                "Goslar",
+                "Helmstedt",
+                "Northeim",
+                "Peine",
+                "Wolfenbüttel",
+                "Göttingen",
+                "Statistische Region Braunschweig",
+                "Hannover  Region",
+                "dav. Hannover  Lhst.",
+                "dav. Hannover  Umland",
+                "Diepholz",
+                "Hameln-Pyrmont",
+                "Hildesheim",
+                "Holzminden",
+                "Nienburg (Weser)",
+                "Schaumburg",
+                "Statistische Region Hannover",
+                "Celle",
+                "Cuxhaven",
+                "Harburg",
+                "Lüchow-Dannenberg",
+                "Lüneburg",
+                "Osterholz",
+                "Rotenburg (Wümme)",
+                "Heidekreis",
+                "Stade",
+                "Uelzen",
+                "Verden",
+                "Statistische Region Lüneburg",
+                "Delmenhorst  Stadt",
+                "Emden  Stadt",
+                "Oldenburg(Oldb)  Stadt",
+                "Osnabrück  Stadt",
+                "Wilhelmshaven  Stadt",
+                "Ammerland",
+                "Aurich",
+                "Cloppenburg",
+                "Emsland",
+                "Friesland",
+                "Grafschaft Bentheim",
+                "Leer",
+                "Oldenburg",
+                "Osnabrück",
+                "Vechta",
+                "Wesermarsch",
+                "Wittmund",
+                "Statistische Region Weser-Ems",
+                "Niedersachsen",
                 ""
               ]
             }
@@ -3631,7 +4826,121 @@
           }
         ]
       },
-      "title": "global_indicators.1-4-5-title"
+      "title": "global_indicators.1-2-1-title"
+    },
+    {
+      "path": "1-2-3/data.csv",
+      "name": "1-2-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Gebietseinheit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Braunschweig  Stadt",
+                "Salzgitter  Stadt",
+                "Wolfsburg  Stadt",
+                "Gifhorn",
+                "Goslar",
+                "Helmstedt",
+                "Northeim",
+                "Peine",
+                "Wolfenbüttel",
+                "Göttingen",
+                "Statistische Region Braunschweig",
+                "Hannover  Region",
+                "dav. Hannover  Lhst.",
+                "dav. Hannover  Umland",
+                "Diepholz",
+                "Hameln-Pyrmont",
+                "Hildesheim",
+                "Holzminden",
+                "Nienburg (Weser)",
+                "Schaumburg",
+                "Statistische Region Hannover",
+                "Celle",
+                "Cuxhaven",
+                "Harburg",
+                "Lüchow-Dannenberg",
+                "Lüneburg",
+                "Osterholz",
+                "Rotenburg (Wümme)",
+                "Heidekreis",
+                "Stade",
+                "Uelzen",
+                "Verden",
+                "Statistische Region Lüneburg",
+                "Delmenhorst  Stadt",
+                "Emden  Stadt",
+                "Oldenburg(Oldb)  Stadt",
+                "Osnabrück  Stadt",
+                "Wilhelmshaven  Stadt",
+                "Ammerland",
+                "Aurich",
+                "Cloppenburg",
+                "Emsland",
+                "Friesland",
+                "Grafschaft Bentheim",
+                "Leer",
+                "Oldenburg",
+                "Osnabrück",
+                "Vechta",
+                "Wesermarsch",
+                "Wittmund",
+                "Statistische Region Weser-Ems",
+                "Niedersachsen",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Aufenthaltsdauer in Jahren",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "unter 1",
+                "1 - 4",
+                "4 - 6",
+                "6 - 8",
+                "8 - 10",
+                "10 und mehr",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geschlecht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "männlich",
+                "weiblich",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "global_indicators.1-2-3-title"
     },
     {
       "path": "6-2-1/data.csv",
@@ -3745,56 +5054,6 @@
       "title": "global_indicators.6-2-1-title"
     },
     {
-      "path": "4-1-4/data.csv",
-      "name": "4-1-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Abschlussart",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Hochschulreife",
-                "Fachhochschulreife1)",
-                "Realschulabschluss",
-                "Hauptschulabschluss",
-                "Abschluss Förderschule2)",
-                "Ohne Abschluss",
-                "Insgesamt",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Nationalität",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Insgesamt",
-                "Deutsche",
-                "Ausländerinnen und Ausländer",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.4-1-4-title"
-    },
-    {
       "path": "2-1-9/data.csv",
       "name": "2-1-9",
       "profile": "tabular-data-resource",
@@ -3891,159 +5150,8 @@
       "title": "global_indicators.2-1-9-title"
     },
     {
-      "path": "6-1-1/data.csv",
-      "name": "6-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Nationalität / Migrationshintergrund",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "deutsche Staatsangehörigkeit",
-                "nichtdeutsche Staatsangehörigkeit",
-                "mit Migrationshintergrund",
-                "ohne Migrationshintergrund",
-                "Insgesamt",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Gebietseinheit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Niedersachsen",
-                "Deutschland",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.6-1-1-title"
-    },
-    {
-      "path": "1-2-6/data.csv",
-      "name": "1-2-6",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Gebietseinheit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Braunschweig  Stadt",
-                "Salzgitter  Stadt",
-                "Wolfsburg  Stadt",
-                "Gifhorn",
-                "Goslar",
-                "Helmstedt",
-                "Northeim",
-                "Peine",
-                "Wolfenbüttel",
-                "Göttingen",
-                "Statistische Region Braunschweig",
-                "Hannover  Region",
-                "dav. Hannover  Lhst.",
-                "dav. Hannover  Umland",
-                "Diepholz",
-                "Hameln-Pyrmont",
-                "Hildesheim",
-                "Holzminden",
-                "Nienburg (Weser)",
-                "Schaumburg",
-                "Statistische Region Hannover",
-                "Celle",
-                "Cuxhaven",
-                "Harburg",
-                "Lüchow-Dannenberg",
-                "Lüneburg",
-                "Osterholz",
-                "Rotenburg (Wümme)",
-                "Heidekreis",
-                "Stade",
-                "Uelzen",
-                "Verden",
-                "Statistische Region Lüneburg",
-                "Delmenhorst  Stadt",
-                "Emden  Stadt",
-                "Oldenburg(Oldb)  Stadt",
-                "Osnabrück  Stadt",
-                "Wilhelmshaven  Stadt",
-                "Ammerland",
-                "Aurich",
-                "Cloppenburg",
-                "Emsland",
-                "Friesland",
-                "Grafschaft Bentheim",
-                "Leer",
-                "Oldenburg",
-                "Osnabrück",
-                "Vechta",
-                "Wesermarsch",
-                "Wittmund",
-                "Statistische Region Weser-Ems",
-                "Niedersachsen",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Altersgruppe",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Insgesamt",
-                "0 - 6",
-                "6 - 15",
-                "15 - 20",
-                "20 - 40",
-                "40 - 65 ",
-                "65 - 80",
-                "80 und älter",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.1-2-6-title"
-    },
-    {
-      "path": "2-1-4/data.csv",
-      "name": "2-1-4",
+      "path": "2-1-6/data.csv",
+      "name": "2-1-6",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -4120,7 +5228,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Aufenthaltsgestattung zum Asylverfahren",
+                "Dringende persönliche o. humanitäre Gründe Härtefälle",
                 ""
               ]
             }
@@ -4135,1126 +5243,7 @@
           }
         ]
       },
-      "title": "global_indicators.2-1-4-title"
-    },
-    {
-      "path": "7-1-2/data.csv",
-      "name": "7-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                "G",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.7-1-2-title"
-    },
-    {
-      "path": "3-1-3/data.csv",
-      "name": "3-1-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Anzahl",
-                "%",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Gebietseinheit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Braunschweig  Stadt",
-                "Salzgitter  Stadt",
-                "Wolfsburg  Stadt",
-                "Gifhorn",
-                "Goslar",
-                "Helmstedt",
-                "Northeim",
-                "Peine",
-                "Wolfenbüttel",
-                "Göttingen",
-                "Stat. Region Braunschweig",
-                "Hannover  Region",
-                "dav. Hannover  Lhst.",
-                "dav. Hannover  Umland",
-                "Diepholz",
-                "Hameln-Pyrmont",
-                "Hildesheim",
-                "Holzminden",
-                "Nienburg (Weser)",
-                "Schaumburg",
-                "Stat. Region Hannover",
-                "Celle",
-                "Cuxhaven",
-                "Harburg",
-                "Lüchow-Dannenberg",
-                "Lüneburg",
-                "Osterholz",
-                "Rotenburg (Wümme)",
-                "Heidekreis",
-                "Stade",
-                "Uelzen",
-                "Verden",
-                "Stat. Region Lüneburg",
-                "Delmenhorst  Stadt",
-                "Emden  Stadt",
-                "Oldenburg(Oldb)  Stadt",
-                "Osnabrück  Stadt",
-                "Wilhelmshaven  Stadt",
-                "Ammerland",
-                "Aurich",
-                "Cloppenburg",
-                "Emsland",
-                "Friesland",
-                "Grafschaft Bentheim",
-                "Leer",
-                "Oldenburg",
-                "Osnabrück",
-                "Vechta",
-                "Wesermarsch",
-                "Wittmund",
-                "Stat. Region Weser-Ems",
-                "Niedersachsen",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Kinderbetreuung",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Kinder im Alter von unter 3 Jahren mit ausländischer Herkunft mindestens eines Elternteils",
-                "Kinder im Alter von 3 bis unter 6 Jahren mit ausländischer Herkunft mindestens eines Elternteils",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.3-1-3-title"
-    },
-    {
-      "path": "4-1-5/data.csv",
-      "name": "4-1-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Altersgruppe",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "18 – 25",
-                "25 – 35",
-                "15 – 65",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Schulabschluss",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ohne Abschluss2)",
-                "Hauptschulabschluss",
-                "Realschulabschluss",
-                "(Fach-)Hochschulreife",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Migrationsstatus",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Insgesamt",
-                "mit Migrationshintergrund",
-                "ohne Migrationshintergrund",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.4-1-5-title"
-    },
-    {
-      "path": "2-3-1/data.csv",
-      "name": "2-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Gebietseinheit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Braunschweig  Stadt",
-                "Salzgitter  Stadt",
-                "Wolfsburg  Stadt",
-                "Gifhorn",
-                "Goslar",
-                "Helmstedt",
-                "Northeim",
-                "Peine",
-                "Wolfenbüttel",
-                "Göttingen",
-                "Statistische Region Braunschweig",
-                "Hannover  Region",
-                "dav. Hannover  Lhst.",
-                "dav. Hannover  Umland",
-                "Diepholz",
-                "Hameln-Pyrmont",
-                "Hildesheim",
-                "Holzminden",
-                "Nienburg (Weser)",
-                "Schaumburg",
-                "Statistische Region Hannover",
-                "Celle",
-                "Cuxhaven",
-                "Harburg",
-                "Lüchow-Dannenberg",
-                "Lüneburg",
-                "Osterholz",
-                "Rotenburg (Wümme)",
-                "Heidekreis",
-                "Stade",
-                "Uelzen",
-                "Verden",
-                "Statistische Region Lüneburg",
-                "Delmenhorst  Stadt",
-                "Emden  Stadt",
-                "Oldenburg(Oldb)  Stadt",
-                "Osnabrück  Stadt",
-                "Wilhelmshaven  Stadt",
-                "Ammerland",
-                "Aurich",
-                "Cloppenburg",
-                "Emsland",
-                "Friesland",
-                "Grafschaft Bentheim",
-                "Leer",
-                "Oldenburg",
-                "Osnabrück",
-                "Vechta",
-                "Wesermarsch",
-                "Wittmund",
-                "Statistische Region Weser-Ems",
-                "Niedersachsen",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.2-3-1-title"
-    },
-    {
-      "path": "5-3-4/data.csv",
-      "name": "5-3-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                "G",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.5-3-4-title"
-    },
-    {
-      "path": "1-4-1/data.csv",
-      "name": "1-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Group",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                "B",
-                "G",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.1-4-1-title"
-    },
-    {
-      "path": "2-1-7/data.csv",
-      "name": "2-1-7",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Gebietseinheit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Braunschweig Stadt",
-                "Salzgitter Stadt",
-                "Wolfsburg Stadt",
-                "Gifhorn",
-                "Goslar",
-                "Helmstedt",
-                "Northeim",
-                "Peine",
-                "Wolfenbüttel",
-                "Göttingen",
-                "Statistische Region Braunschweig",
-                "Hannover Region",
-                "Hannover Landeshauptstadt",
-                "Diepholz",
-                "Hameln-Pyrmont",
-                "Hildesheim",
-                "Holzminden",
-                "Nienburg (Weser)",
-                "Schaumburg",
-                "Statistische Region Hannover",
-                "Celle",
-                "Cuxhaven",
-                "Harburg",
-                "Lüchow-Dannenberg",
-                "Lüneburg",
-                "Osterholz",
-                "Rotenburg (Wümme)",
-                "Heidekreis",
-                "Stade",
-                "Uelzen",
-                "Verden",
-                "Statistische Region Lüneburg",
-                "Delmenhorst.Stadt",
-                "Emden Stadt",
-                "Oldenburg (Oldb) Stadt",
-                "Osnabrück Stadt",
-                "Wilhelmshaven Stadt",
-                "Ammerland",
-                "Aurich",
-                "Cloppenburg",
-                "Emsland",
-                "Friesland",
-                "Grafschaft Bentheim",
-                "Leer",
-                "Oldenburg",
-                "Osnabrück",
-                "Vechta",
-                "Wesermarsch",
-                "Wittmund",
-                "Statistische Region Weser-Ems",
-                "Niedersachsen",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Aufenthaltstitel",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Duldung",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.2-1-7-title"
-    },
-    {
-      "path": "2-2-1/data.csv",
-      "name": "2-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Gebietseinheit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Niedersachsen",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.2-2-1-title"
-    },
-    {
-      "path": "3-1-2/data.csv",
-      "name": "3-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Gebietseinheit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Braunschweig  Stadt",
-                "Salzgitter  Stadt",
-                "Wolfsburg  Stadt",
-                "Gifhorn",
-                "Goslar",
-                "Helmstedt",
-                "Northeim",
-                "Peine",
-                "Wolfenbüttel",
-                "Göttingen",
-                "Statistische Region Braunschweig",
-                "Hannover  Region",
-                "dav. Hannover  Lhst.",
-                "dav. Hannover  Umland",
-                "Diepholz",
-                "Hameln-Pyrmont",
-                "Hildesheim",
-                "Holzminden",
-                "Nienburg (Weser)",
-                "Schaumburg",
-                "Statistische Region Hannover",
-                "Celle",
-                "Cuxhaven",
-                "Harburg",
-                "Lüchow-Dannenberg",
-                "Lüneburg",
-                "Osterholz",
-                "Rotenburg (Wümme)",
-                "Heidekreis",
-                "Stade",
-                "Uelzen",
-                "Verden",
-                "Statistische Region Lüneburg",
-                "Delmenhorst  Stadt",
-                "Emden  Stadt",
-                "Oldenburg(Oldb)  Stadt",
-                "Osnabrück  Stadt",
-                "Wilhelmshaven  Stadt",
-                "Ammerland",
-                "Aurich",
-                "Cloppenburg",
-                "Emsland",
-                "Friesland",
-                "Grafschaft Bentheim",
-                "Leer",
-                "Oldenburg",
-                "Osnabrück",
-                "Vechta",
-                "Wesermarsch",
-                "Wittmund",
-                "Statistische Region Weser-Ems",
-                "Niedersachsen",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Kinderbetreuung",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ausländische Herkunft mindestens eines Elternteils",
-                "in der Familie wird vorrangig nicht deutsch gesprochen",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.3-1-2-title"
-    },
-    {
-      "path": "1-1-2/data.csv",
-      "name": "1-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string"
-          },
-          {
-            "name": "Gebietseinheit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Braunschweig  Stadt",
-                "Salzgitter  Stadt",
-                "Wolfsburg  Stadt",
-                "Gifhorn",
-                "Goslar",
-                "Helmstedt",
-                "Northeim",
-                "Peine",
-                "Wolfenbüttel",
-                "Göttingen",
-                "Statistische Region Braunschweig",
-                "Hannover  Region",
-                "dav. Hannover  Lhst.",
-                "dav. Hannover  Umland",
-                "Diepholz",
-                "Hameln-Pyrmont",
-                "Hildesheim",
-                "Holzminden",
-                "Nienburg (Weser)",
-                "Schaumburg",
-                "Statistische Region Hannover",
-                "Celle",
-                "Cuxhaven",
-                "Harburg",
-                "Lüchow-Dannenberg",
-                "Lüneburg",
-                "Osterholz",
-                "Rotenburg (Wümme)",
-                "Heidekreis",
-                "Stade",
-                "Uelzen",
-                "Verden",
-                "Statistische Region Lüneburg",
-                "Delmenhorst  Stadt",
-                "Emden  Stadt",
-                "Oldenburg(Oldb)  Stadt",
-                "Osnabrück  Stadt",
-                "Wilhelmshaven  Stadt",
-                "Ammerland",
-                "Aurich",
-                "Cloppenburg",
-                "Emsland",
-                "Friesland",
-                "Grafschaft Bentheim",
-                "Leer",
-                "Oldenburg",
-                "Osnabrück",
-                "Vechta",
-                "Wesermarsch",
-                "Wittmund",
-                "Statistische Region Weser-Ems",
-                "Niedersachsen",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.1-1-2-title"
-    },
-    {
-      "path": "4-2-1/data.csv",
-      "name": "4-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Nationalität",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Insgesamt",
-                "Deutsche",
-                "Ausländerinnen und Ausländer",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Geschlecht",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Insgesamt",
-                "Männer",
-                "Frauen",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Prozent",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.4-2-1-title"
-    },
-    {
-      "path": "4-1-6/data.csv",
-      "name": "4-1-6",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Migrationshuntergrund",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "mit und ohne Migrationshintergrund",
-                "ohne Migrationshintergrund",
-                "mit Migrationshintergrund",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Geschlecht",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Insgesamt",
-                "Männer",
-                "Frauen",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Migrationserfahrung",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "mit eigener Migrationserfahrung",
-                "ohne eigene Migrationserfahrung",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.4-1-6-title"
-    },
-    {
-      "path": "1-3-2/data.csv",
-      "name": "1-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Gebietseinheit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ostniedersachsen",
-                "Südniedersachsen",
-                "Statistische Region Braunschweig",
-                "Region Hannover",
-                "dav. Hannover Landeshauptstadt",
-                "dav. Hannover Umland",
-                "Weser-Leine-Bergland",
-                "Mittelniedersachsen",
-                "Statistische Region Hannover",
-                "Nordniedersachsen",
-                "Nordostniedersachsen",
-                "Statistische Region Lüneburg",
-                "Ostfriesland-Nordseeküste",
-                "Oldenburger Raum",
-                "Westniedersachsen",
-                "Statistische Region Weser-Ems",
-                "Niedersachsen",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Migrationserfahrung",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Insgesamt",
-                "mit eigener Migrationserfahrung",
-                "ohne eigener Migrationserfahrung",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Nationalität",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ausländerinnen und Ausländer",
-                "(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",
-                "weitere Deutsche mit Migrationshintergrund",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "in 1000",
-                "%",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.1-3-2-title"
-    },
-    {
-      "path": "5-2-3/data.csv",
-      "name": "5-2-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Gebietseinheit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Braunschweig  Stadt",
-                "Salzgitter  Stadt",
-                "Wolfsburg  Stadt",
-                "Gifhorn",
-                "Goslar",
-                "Helmstedt",
-                "Northeim",
-                "Peine",
-                "Wolfenbüttel",
-                "Göttingen",
-                "Stat. Region Braunschweig",
-                "Hannover  Region",
-                "dav. Hannover  Lhst.",
-                "dav. Hannover  Umland",
-                "Diepholz",
-                "Hameln-Pyrmont",
-                "Hildesheim",
-                "Holzminden",
-                "Nienburg (Weser)",
-                "Schaumburg",
-                "Stat. Region Hannover",
-                "Celle",
-                "Cuxhaven",
-                "Harburg",
-                "Lüchow-Dannenberg",
-                "Lüneburg",
-                "Osterholz",
-                "Rotenburg (Wümme)",
-                "Heidekreis",
-                "Stade",
-                "Uelzen",
-                "Verden",
-                "Stat. Region Lüneburg",
-                "Delmenhorst  Stadt",
-                "Emden  Stadt",
-                "Oldenburg(Oldb)  Stadt",
-                "Osnabrück  Stadt",
-                "Wilhelmshaven  Stadt",
-                "Ammerland",
-                "Aurich",
-                "Cloppenburg",
-                "Emsland",
-                "Friesland",
-                "Grafschaft Bentheim",
-                "Leer",
-                "Oldenburg",
-                "Osnabrück",
-                "Vechta",
-                "Wesermarsch",
-                "Wittmund",
-                "Stat. Region Weser-Ems",
-                "Niedersachsen",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Qualifikation",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "hoch",
-                "mittel",
-                "niedrig",
-                "unbekannt",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "GeoCode",
-            "type": "string"
-          },
-          {
-            "name": "Value",
-            "type": "string"
-          }
-        ]
-      },
-      "title": "global_indicators.5-2-3-title"
-    },
-    {
-      "path": "7-2-1/data.csv",
-      "name": "7-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Migrationsstatus der Familie",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Insgesamt                              ",
-                " ohne Migrationshintergrund            ",
-                " mit Migrationshintergrund             ",
-                "  ein Partner mit Migrationshintergr.  ",
-                "  beide Partner mit Migrationshintergr.",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Lebensform",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Insgesamt                              ",
-                " ohne Migrationshintergrund            ",
-                " mit Migrationshintergrund             ",
-                "  ein Partner mit Migrationshintergr.  ",
-                "  beide Partner mit Migrationshintergr.",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "mit ledigen Kindern",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ohne ledige Kinder",
-                "Mit ledigen Kindern",
-                "1 Kind",
-                "2 Kinder",
-                "3 und mehr Kinder",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unnamed: 5",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.7-2-1-title"
-    },
-    {
-      "path": "6-3-1/data.csv",
-      "name": "6-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Group²",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A¹",
-                "B²",
-                "F³",
-                "H⁴",
-                "I⁵",
-                "J⁶",
-                "K⁷",
-                "L⁸",
-                "M⁹",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "global_indicators.6-3-1-title"
+      "title": "global_indicators.2-1-6-title"
     }
   ]
 }

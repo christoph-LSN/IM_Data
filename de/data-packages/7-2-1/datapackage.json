@@ -31,19 +31,17 @@
             "title": "Migrationsstatus der Familie"
           },
           {
-            "name": "Lebensform",
+            "name": "LeCensform",
             "type": "string",
             "constraints": {
               "enum": [
-                "Insgesamt                              ",
-                " ohne Migrationshintergrund            ",
-                " mit Migrationshintergrund             ",
-                "  ein Partner mit Migrationshintergr.  ",
-                "  beide Partner mit Migrationshintergr.",
+                "Insgesamt",
+                "Ehepaare",
+                "Lebensgemeinschaften",
                 ""
               ]
             },
-            "title": "Lebensform"
+            "title": "LeCensform"
           },
           {
             "name": "mit ledigen Kindern",
@@ -59,16 +57,6 @@
               ]
             },
             "title": "mit ledigen Kindern"
-          },
-          {
-            "name": "Unnamed: 5",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Unnamed: 5"
           },
           {
             "name": "Value",
