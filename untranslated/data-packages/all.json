@@ -3710,17 +3710,6 @@
             }
           },
           {
-            "name": "Kategorie",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Empfängerinnen und Empfänger",
-                "Empfängerinnen und Empfänger je 1000 Einwohnerinnen und Einwohner der betreffenden Bevölkerungsgruppe",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Nationalität",
             "type": "string",
             "constraints": {
