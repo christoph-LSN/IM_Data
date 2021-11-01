@@ -5483,21 +5483,63 @@
             "title": "Jahr"
           },
           {
-            "name": "Group",
+            "name": "Migrationsstatus der Familie",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                "G",
+                "Insgesamt                              ",
+                " ohne Migrationshintergrund            ",
+                " mit Migrationshintergrund             ",
+                "  ein Partner mit Migrationshintergr.  ",
+                "  beide Partner mit Migrationshintergr.",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Migrationsstatus der Familie"
+          },
+          {
+            "name": "Lebensform",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt                              ",
+                " ohne Migrationshintergrund            ",
+                " mit Migrationshintergrund             ",
+                "  ein Partner mit Migrationshintergr.  ",
+                "  beide Partner mit Migrationshintergr.",
+                ""
+              ]
+            },
+            "title": "Lebensform"
+          },
+          {
+            "name": "mit ledigen Kindern",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ohne ledige Kinder",
+                "Mit ledigen Kindern",
+                "1 Kind",
+                "2 Kinder",
+                "3 und mehr Kinder",
+                ""
+              ]
+            },
+            "title": "mit ledigen Kindern"
+          },
+          {
+            "name": "Unnamed: 5",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Unnamed: 5"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
