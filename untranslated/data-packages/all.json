@@ -17,20 +17,45 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Wanderungsziel",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                "G",
+                "Europa insgesamt",
+                "Bulgarien",
+                "Griechenland",
+                "Italien",
+                "Kroatien",
+                "Litauen",
+                "Moldau  Republik",
+                "Niederlande",
+                "Österreich",
+                "Polen",
+                "Rumänien",
+                "Schweiz",
+                "Serbien (ab 2008)",
+                "Spanien",
+                "Türkei",
+                "Ukraine",
+                "Ungarn",
+                "Vereinigtes Königreich  Nordirland",
+                "EU Staaten",
+                "Afrika insgesamt",
+                "Amerika insgesamt",
+                "Vereinigte Staaten",
+                "Asien insgesamt",
+                "China",
+                "Australien und Ozeanien",
+                "Sonstige Ziele",
+                "ohne Angabe",
+                "Insgesamt",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "string"
           }
         ]
       },
