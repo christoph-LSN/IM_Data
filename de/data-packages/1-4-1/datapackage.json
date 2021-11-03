@@ -16,21 +16,46 @@
             "title": "Jahr"
           },
           {
-            "name": "Group",
+            "name": "Wanderungsherkunft",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                "G",
+                "Europa insgesamt",
+                "Bulgarien",
+                "Griechenland",
+                "Italien",
+                "Kroatien",
+                "Litauen",
+                "Moldau   Republik",
+                "Niederlande",
+                "Polen",
+                "Rumänien",
+                "Russische Föderation",
+                "Serbien (ab 2008)",
+                "Spanien",
+                "Türkei",
+                "Ukraine",
+                "Ungarn",
+                "Vereinigtes Königreich",
+                "EU Staaten",
+                "Afrika insgesamt",
+                "Amerika insgesamt",
+                "Asien insgesamt",
+                "Irak",
+                "Kasachstan",
+                "Syrien   Arabische Republik",
+                "Australien und Ozeanien",
+                "Sonstige Ziele",
+                "ohne Angabe",
+                "Insgesamt",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Wanderungsherkunft"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -39,5 +64,5 @@
   ],
   "profile": "data-package",
   "name": "1-4-1",
-  "title": "Zuzüge über die Bundesgrenze nach Niedersachsen (A18)"
+  "title": "Zuzüge über die Bundesgrenze nach Niedersachsen"
 }
