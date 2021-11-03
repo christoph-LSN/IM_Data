@@ -32,13 +32,6 @@
                 "Kunst  Unterhaltung und Erholung; Erbringung von sonstigen Dienstleistungen",
                 "Insgesamt (inkl. sonstiger Abschnitte)",
                 "Öff.Verwaltung  Verteidigung  Sozialversicherung; Erziehung und Unterricht; Gesundheits- und Sozialwesen",
-                "Land- und Forstwirtschaft; Fischerei und Fischzucht",
-                "Energie- und Wasserversorgung",
-                "Handel; Instandhaltung und Reparatur von Kraftfahrzeugen und Gebrauchsgütern",
-                "Verkehr und Nachrichtenübermittlung",
-                "Kredit- und Versicherungsgewerbe; Grundstücks- und Wohnungswesen  Vermietung beweglicher Sachen  Erbringung von wirt.Dienstleistungen  anderweitig nicht genannt",
-                "Öffentliche Verwaltung  Verteidigung  Sozialversicherung; Erziehung und Unterricht; Gesundheits-  Veterinär- und Sozialwesen",
-                "Erbringung von sonstigen öffentlichen und persönlichen Dienstleistungen",
                 ""
               ]
             },
@@ -70,7 +63,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]
