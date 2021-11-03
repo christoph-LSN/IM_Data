@@ -1,7 +1,449 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,G,200
+﻿Year,Wanderungsziel,Value
+2005,Europa insgesamt,41701
+2005,Bulgarien,396
+2005,Griechenland,1008
+2005,Italien,1375
+2005,Kroatien,438
+2005,Litauen,321
+2005,Moldau  Republik,34
+2005,Niederlande,1191
+2005,Österreich,804
+2005,Polen,20880
+2005,Rumänien,584
+2005,Schweiz,771
+2005,Serbien (ab 2008),x
+2005,Spanien,1446
+2005,Türkei,2012
+2005,Ukraine,441
+2005,Ungarn,1435
+2005,Vereinigtes Königreich  Nordirland,1329
+2005,EU Staaten,35054
+2005,Afrika insgesamt,1545
+2005,Amerika insgesamt,3678
+2005,Vereinigte Staaten,1677
+2005,Asien insgesamt,5059
+2005,China,962
+2005,Australien und Ozeanien,396
+2005,Sonstige Ziele,2997
+2005,ohne Angabe,0
+2005,Insgesamt,55376
+2006,Europa insgesamt,44056
+2006,Bulgarien,304
+2006,Griechenland,904
+2006,Italien,1280
+2006,Kroatien,352
+2006,Litauen,495
+2006,Moldau  Republik,41
+2006,Niederlande,1342
+2006,Österreich,852
+2006,Polen,22721
+2006,Rumänien,726
+2006,Schweiz,1060
+2006,Serbien (ab 2008),x
+2006,Spanien,1649
+2006,Türkei,2046
+2006,Ukraine,395
+2006,Ungarn,1719
+2006,Vereinigtes Königreich  Nordirland,1428
+2006,EU Staaten,37538
+2006,Afrika insgesamt,1512
+2006,Amerika insgesamt,3627
+2006,Vereinigte Staaten,1584
+2006,Asien insgesamt,4600
+2006,China,937
+2006,Australien und Ozeanien,413
+2006,Sonstige Ziele,2129
+2006,ohne Angabe,7
+2006,Insgesamt,56337
+2007,Europa insgesamt,46198
+2007,Bulgarien,592
+2007,Griechenland,832
+2007,Italien,1226
+2007,Kroatien,435
+2007,Litauen,571
+2007,Moldau  Republik,30
+2007,Niederlande,1555
+2007,Österreich,897
+2007,Polen,23694
+2007,Rumänien,1668
+2007,Schweiz,1264
+2007,Serbien (ab 2008),x
+2007,Spanien,1504
+2007,Türkei,1889
+2007,Ukraine,329
+2007,Ungarn,2058
+2007,Vereinigtes Königreich  Nordirland,1242
+2007,EU Staaten,40122
+2007,Afrika insgesamt,1367
+2007,Amerika insgesamt,4031
+2007,Vereinigte Staaten,1604
+2007,Asien insgesamt,4615
+2007,China,858
+2007,Australien und Ozeanien,502
+2007,Sonstige Ziele,2314
+2007,ohne Angabe,2
+2007,Insgesamt,59027
+2008,Europa insgesamt,52345
+2008,Bulgarien,1232
+2008,Griechenland,1049
+2008,Italien,1359
+2008,Kroatien,395
+2008,Litauen,535
+2008,Moldau  Republik,31
+2008,Niederlande,1676
+2008,Österreich,1127
+2008,Polen,23944
+2008,Rumänien,3399
+2008,Schweiz,1828
+2008,Serbien (ab 2008),193
+2008,Spanien,1707
+2008,Türkei,2159
+2008,Ukraine,451
+2008,Ungarn,2415
+2008,Vereinigtes Königreich  Nordirland,1434
+2008,EU Staaten,44373
+2008,Afrika insgesamt,1598
+2008,Amerika insgesamt,5228
+2008,Vereinigte Staaten,1972
+2008,Asien insgesamt,5596
+2008,China,1235
+2008,Australien und Ozeanien,608
+2008,Sonstige Ziele,2739
+2008,ohne Angabe,8
+2008,Insgesamt,68114
+2009,Europa insgesamt,51736
+2009,Bulgarien,1841
+2009,Griechenland,954
+2009,Italien,1320
+2009,Kroatien,485
+2009,Litauen,424
+2009,Moldau  Republik,38
+2009,Niederlande,1647
+2009,Österreich,1025
+2009,Polen,22459
+2009,Rumänien,5282
+2009,Schweiz,1510
+2009,Serbien (ab 2008),717
+2009,Spanien,1486
+2009,Türkei,2076
+2009,Ukraine,293
+2009,Ungarn,2632
+2009,Vereinigtes Königreich  Nordirland,1435
+2009,EU Staaten,44947
+2009,Afrika insgesamt,1348
+2009,Amerika insgesamt,4375
+2009,Vereinigte Staaten,1844
+2009,Asien insgesamt,5258
+2009,China,1033
+2009,Australien und Ozeanien,562
+2009,Sonstige Ziele,3003
+2009,ohne Angabe,19
+2009,Insgesamt,66282
+2010,Europa insgesamt,48102
+2010,Bulgarien,2242
+2010,Griechenland,698
+2010,Italien,1232
+2010,Kroatien,312
+2010,Litauen,423
+2010,Moldau  Republik,29
+2010,Niederlande,1520
+2010,Österreich,859
+2010,Polen,20217
+2010,Rumänien,6223
+2010,Schweiz,1285
+2010,Serbien (ab 2008),907
+2010,Spanien,1320
+2010,Türkei,1817
+2010,Ukraine,242
+2010,Ungarn,2054
+2010,Vereinigtes Königreich  Nordirland,1176
+2010,EU Staaten,41807
+2010,Afrika insgesamt,1208
+2010,Amerika insgesamt,4047
+2010,Vereinigte Staaten,1698
+2010,Asien insgesamt,5517
+2010,China,1166
+2010,Australien und Ozeanien,547
+2010,Sonstige Ziele,2904
+2010,ohne Angabe,9
+2010,Insgesamt,62325
+2011,Europa insgesamt,53877
+2011,Bulgarien,2627
+2011,Griechenland,582
+2011,Italien,1460
+2011,Kroatien,384
+2011,Litauen,688
+2011,Moldau  Republik,44
+2011,Niederlande,1579
+2011,Österreich,896
+2011,Polen,21030
+2011,Rumänien,8799
+2011,Schweiz,1391
+2011,Serbien (ab 2008),1116
+2011,Spanien,1320
+2011,Türkei,1727
+2011,Ukraine,293
+2011,Ungarn,2534
+2011,Vereinigtes Königreich  Nordirland,1276
+2011,EU Staaten,47208
+2011,Afrika insgesamt,1259
+2011,Amerika insgesamt,4034
+2011,Vereinigte Staaten,1785
+2011,Asien insgesamt,5517
+2011,China,1113
+2011,Australien und Ozeanien,535
+2011,Sonstige Ziele,2615
+2011,ohne Angabe,43
+2011,Insgesamt,67837
+2012,Europa insgesamt,57738
+2012,Bulgarien,2688
+2012,Griechenland,732
+2012,Italien,1227
+2012,Kroatien,375
+2012,Litauen,779
+2012,Moldau  Republik,44
+2012,Niederlande,1576
+2012,Österreich,845
+2012,Polen,23197
+2012,Rumänien,10064
+2012,Schweiz,1204
+2012,Serbien (ab 2008),1262
+2012,Spanien,1276
+2012,Türkei,1743
+2012,Ukraine,261
+2012,Ungarn,2651
+2012,Vereinigtes Königreich  Nordirland,1177
+2012,EU Staaten,50761
+2012,Afrika insgesamt,1257
+2012,Amerika insgesamt,3832
+2012,Vereinigte Staaten,1767
+2012,Asien insgesamt,5342
+2012,China,1087
+2012,Australien und Ozeanien,500
+2012,Sonstige Ziele,2812
+2012,ohne Angabe,57
+2012,Insgesamt,71481
+2013,Europa insgesamt,63077
+2013,Bulgarien,2956
+2013,Griechenland,822
+2013,Italien,1448
+2013,Kroatien,533
+2013,Litauen,873
+2013,Moldau  Republik,65
+2013,Niederlande,1538
+2013,Österreich,901
+2013,Polen,24637
+2013,Rumänien,11001
+2013,Schweiz,1163
+2013,Serbien (ab 2008),1248
+2013,Spanien,1655
+2013,Türkei,1809
+2013,Ukraine,252
+2013,Ungarn,3419
+2013,Vereinigtes Königreich  Nordirland,1227
+2013,EU Staaten,55590
+2013,Afrika insgesamt,1355
+2013,Amerika insgesamt,3847
+2013,Vereinigte Staaten,1641
+2013,Asien insgesamt,5163
+2013,China,1087
+2013,Australien und Ozeanien,554
+2013,Sonstige Ziele,1990
+2013,ohne Angabe,61
+2013,Insgesamt,75986
+2014,Europa insgesamt,70667
+2014,Bulgarien,3884
+2014,Griechenland,1251
+2014,Italien,2196
+2014,Kroatien,672
+2014,Litauen,983
+2014,Moldau  Republik,98
+2014,Niederlande,1661
+2014,Österreich,904
+2014,Polen,24817
+2014,Rumänien,13262
+2014,Schweiz,1121
+2014,Serbien (ab 2008),1655
+2014,Spanien,1957
+2014,Türkei,1821
+2014,Ukraine,284
+2014,Ungarn,3489
+2014,Vereinigtes Königreich  Nordirland,1531
+2014,EU Staaten,61810
+2014,Afrika insgesamt,2023
+2014,Amerika insgesamt,4067
+2014,Vereinigte Staaten,1828
+2014,Asien insgesamt,5882
+2014,China,1287
+2014,Australien und Ozeanien,572
+2014,Sonstige Ziele,1927
+2014,ohne Angabe,20
+2014,Insgesamt,85138
+2015,Europa insgesamt,71404
+2015,Bulgarien,3816
+2015,Griechenland,915
+2015,Italien,2040
+2015,Kroatien,871
+2015,Litauen,735
+2015,Moldau  Republik,157
+2015,Niederlande,1615
+2015,Österreich,793
+2015,Polen,22535
+2015,Rumänien,14396
+2015,Schweiz,1078
+2015,Serbien (ab 2008),2648
+2015,Spanien,1623
+2015,Türkei,1644
+2015,Ukraine,317
+2015,Ungarn,2997
+2015,Vereinigtes Königreich  Nordirland,1497
+2015,EU Staaten,58568
+2015,Afrika insgesamt,2438
+2015,Amerika insgesamt,3859
+2015,Vereinigte Staaten,1637
+2015,Asien insgesamt,5817
+2015,China,1371
+2015,Australien und Ozeanien,531
+2015,Sonstige Ziele,3002
+2015,ohne Angabe,1548
+2015,Insgesamt,87051
+2016,Europa insgesamt,88788
+2016,Bulgarien,5272
+2016,Griechenland,1336
+2016,Italien,2521
+2016,Kroatien,1119
+2016,Litauen,978
+2016,Moldau  Republik,369
+2016,Niederlande,1744
+2016,Österreich,902
+2016,Polen,23500
+2016,Rumänien,19889
+2016,Schweiz,930
+2016,Serbien (ab 2008),3256
+2016,Spanien,1936
+2016,Türkei,1926
+2016,Ukraine,478
+2016,Ungarn,3035
+2016,Vereinigtes Königreich  Nordirland,1339
+2016,EU Staaten,68721
+2016,Afrika insgesamt,6689
+2016,Amerika insgesamt,4286
+2016,Vereinigte Staaten,1847
+2016,Asien insgesamt,7351
+2016,China,1499
+2016,Australien und Ozeanien,593
+2016,Sonstige Ziele,29314
+2016,ohne Angabe,26271
+2016,Insgesamt,137021
+2017,Europa insgesamt,74075
+2017,Bulgarien,4786
+2017,Griechenland,1197
+2017,Italien,2241
+2017,Kroatien,974
+2017,Litauen,907
+2017,Moldau  Republik,466
+2017,Niederlande,1657
+2017,Österreich,887
+2017,Polen,19715
+2017,Rumänien,20284
+2017,Schweiz,906
+2017,Serbien (ab 2008),1385
+2017,Spanien,1568
+2017,Türkei,1636
+2017,Ukraine,708
+2017,Ungarn,2765
+2017,Vereinigtes Königreich  Nordirland,1090
+2017,EU Staaten,62569
+2017,Afrika insgesamt,4200
+2017,Amerika insgesamt,3611
+2017,Vereinigte Staaten,1556
+2017,Asien insgesamt,5946
+2017,China,1469
+2017,Australien und Ozeanien,566
+2017,Sonstige Ziele,18898
+2017,ohne Angabe,17357
+2017,Insgesamt,107296
+2018,Europa insgesamt,78856
+2018,Bulgarien,5917
+2018,Griechenland,1253
+2018,Italien,2369
+2018,Kroatien,1302
+2018,Litauen,1106
+2018,Moldau  Republik,844
+2018,Niederlande,1725
+2018,Österreich,932
+2018,Polen,19819
+2018,Rumänien,24730
+2018,Schweiz,826
+2018,Serbien (ab 2008),1235
+2018,Spanien,1715
+2018,Türkei,1901
+2018,Ukraine,683
+2018,Ungarn,2578
+2018,Vereinigtes Königreich  Nordirland,1193
+2018,EU Staaten,69033
+2018,Afrika insgesamt,2701
+2018,Amerika insgesamt,3577
+2018,Vereinigte Staaten,1446
+2018,Asien insgesamt,6360
+2018,China,1522
+2018,Australien und Ozeanien,524
+2018,Sonstige Ziele,17345
+2018,ohne Angabe,16512
+2018,Insgesamt,109363
+2019,Europa insgesamt,81579
+2019,Bulgarien,6733
+2019,Griechenland,1378
+2019,Italien,2546
+2019,Kroatien,1489
+2019,Litauen,1408
+2019,Moldau  Republik,1098
+2019,Niederlande,1891
+2019,Österreich,974
+2019,Polen,19712
+2019,Rumänien,25445
+2019,Schweiz,984
+2019,Serbien (ab 2008),1152
+2019,Spanien,1641
+2019,Türkei,1769
+2019,Ukraine,1070
+2019,Ungarn,2332
+2019,Vereinigtes Königreich  Nordirland,1200
+2019,EU Staaten,71647
+2019,Afrika insgesamt,2560
+2019,Amerika insgesamt,3820
+2019,Vereinigte Staaten,1482
+2019,Asien insgesamt,6229
+2019,China,1559
+2019,Australien und Ozeanien,497
+2019,Sonstige Ziele,18248
+2019,ohne Angabe,17373
+2019,Insgesamt,112933
+2020,Europa insgesamt,62401
+2020,Bulgarien,5255
+2020,Griechenland,1150
+2020,Italien,1734
+2020,Kroatien,1049
+2020,Litauen,1351
+2020,Moldau  Republik,958
+2020,Niederlande,1498
+2020,Österreich,861
+2020,Polen,14364
+2020,Rumänien,19738
+2020,Schweiz,770
+2020,Serbien (ab 2008),805
+2020,Spanien,1173
+2020,Türkei,1395
+2020,Ukraine,752
+2020,Ungarn,2020
+2020,Vereinigtes Königreich  Nordirland,887
+2020,EU Staaten,55071
+2020,Afrika insgesamt,2013
+2020,Amerika insgesamt,2624
+2020,Vereinigte Staaten,958
+2020,Asien insgesamt,4526
+2020,China,1309
+2020,Australien und Ozeanien,287
+2020,Sonstige Ziele,14276
+2020,ohne Angabe,13852
+2020,Insgesamt,86127
