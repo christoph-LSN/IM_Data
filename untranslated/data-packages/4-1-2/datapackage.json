@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
           },
           {
             "name": "Gebietseinheit",
@@ -24,6 +24,15 @@
                 "Statistische Region Lüneburg",
                 "Statistische Region Weser-Ems",
                 "Niedersachsen",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unnamed: 2",
+            "type": "number",
+            "constraints": {
+              "enum": [
                 ""
               ]
             }

@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Jahr"
           },
           {
@@ -29,6 +29,16 @@
               ]
             },
             "title": "Gebietseinheit"
+          },
+          {
+            "name": "Unnamed: 2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Unnamed: 2"
           },
           {
             "name": "Nationalität",
