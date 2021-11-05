@@ -576,7 +576,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Insgesamt",
                 "Männer",
                 "Frauen",
                 ""
@@ -588,6 +587,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Anzahl",
                 "Geschlecht in Prozent",
                 "Veränderung ggegnüber 2005 in Prozentpunkten",
                 ""
