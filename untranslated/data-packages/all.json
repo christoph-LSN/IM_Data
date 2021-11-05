@@ -1864,7 +1864,7 @@
             }
           },
           {
-            "name": "LeCensform",
+            "name": "Lebensform",
             "type": "string",
             "constraints": {
               "enum": [

@@ -1985,7 +1985,7 @@
             "title": "Migrationsstatus der Familie"
           },
           {
-            "name": "LeCensform",
+            "name": "Lebensform",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1995,7 +1995,7 @@
                 ""
               ]
             },
-            "title": "LeCensform"
+            "title": "Lebensform"
           },
           {
             "name": "mit ledigen Kindern",
