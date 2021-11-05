@@ -79,7 +79,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Anzahl",
                 "Geschlecht in Prozent",
                 "Veränderung ggegnüber 2005 in Prozentpunkten",
                 ""
