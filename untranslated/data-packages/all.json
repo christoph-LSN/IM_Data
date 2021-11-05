@@ -564,6 +564,7 @@
                 "Österreich",
                 "Irak",
                 "Australien und Ozeanien ",
+                "EU-Staaten",
                 "Serbien2)",
                 "Bosnien und Herzegowina",
                 ""
@@ -576,9 +577,21 @@
             "constraints": {
               "enum": [
                 "Insgesamt",
-                "Männer in Prozent",
-                "Frauen in Prozent",
+                "Männer",
+                "Frauen",
                 "Veränderung in Prozent gegenüber 2005",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Anzahl",
+                "Geschlecht in Prozent",
+                "Veränderung ggegnüber 2005 in Prozentpunkten",
                 ""
               ]
             }
