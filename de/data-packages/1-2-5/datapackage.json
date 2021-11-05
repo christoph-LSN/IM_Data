@@ -61,7 +61,7 @@
             "title": "Land der Staatsangehörigkeit"
           },
           {
-            "name": "Ausländerinnen und Ausländer",
+            "name": "Männer / Frauen",
             "type": "string",
             "constraints": {
               "enum": [
@@ -70,7 +70,7 @@
                 ""
               ]
             },
-            "title": "Ausländerinnen und Ausländer"
+            "title": "Männer / Frauen"
           },
           {
             "name": "Units",

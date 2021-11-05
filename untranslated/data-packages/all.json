@@ -572,7 +572,7 @@
             }
           },
           {
-            "name": "Ausländerinnen und Ausländer",
+            "name": "Männer / Frauen",
             "type": "string",
             "constraints": {
               "enum": [
