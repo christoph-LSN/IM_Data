@@ -1,3 +1,4 @@
 From,To
-Staatsangehörigkeit,Erreichter Abschluss
-Erreichter Abschluss,Besuchte Schule
+Nationalität,Schulart
+Schulart,Erreichter Abschluss
+Erreichter Abschluss,Unit
