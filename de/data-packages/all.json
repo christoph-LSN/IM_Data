@@ -1251,31 +1251,47 @@
             "title": "Jahr"
           },
           {
-            "name": "Units",
+            "name": "Migrationsstatus der Familie",
             "type": "string",
             "constraints": {
               "enum": [
-                "Wohnfläche in qm",
-                "Bruttokaltmiete in €",
+                "Insgesamt                              ",
+                " ohne Migrationshintergrund            ",
+                " mit Migrationshintergrund             ",
+                "dav. ein Partner mit Migrationshintergr.",
+                "dav. beide Partner mit Migrationshintergr.",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Migrationsstatus der Familie"
           },
           {
-            "name": "Migrationsstatus",
+            "name": "Lebensform",
             "type": "string",
             "constraints": {
               "enum": [
                 "Insgesamt",
-                "ohne Migrationshintergrund",
-                "mit Migrationshintergrund",
-                "dav. mit eigener Migrationserfahrung",
-                "dav.ohne eigene Migrationserfahrung",
+                "Ehepaare",
+                "Lebensgemeinschaften",
                 ""
               ]
             },
-            "title": "Migrationsstatus"
+            "title": "Lebensform"
+          },
+          {
+            "name": "mit ledigen Kindern",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ohne ledige Kinder",
+                "Mit ledigen Kindern",
+                "1 Kind",
+                "2 Kinder",
+                "3 und mehr Kinder",
+                ""
+              ]
+            },
+            "title": "mit ledigen Kindern"
           },
           {
             "name": "Value",
@@ -3277,47 +3293,31 @@
             "title": "Jahr"
           },
           {
-            "name": "Migrationsstatus der Familie",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Insgesamt                              ",
-                " ohne Migrationshintergrund            ",
-                " mit Migrationshintergrund             ",
-                "dav. ein Partner mit Migrationshintergr.",
-                "dav. beide Partner mit Migrationshintergr.",
+                "Wohnfläche in qm",
+                "Bruttokaltmiete in €",
                 ""
               ]
             },
-            "title": "Migrationsstatus der Familie"
+            "title": "Units"
           },
           {
-            "name": "Lebensform",
+            "name": "Migrationsstatus",
             "type": "string",
             "constraints": {
               "enum": [
                 "Insgesamt",
-                "Ehepaare",
-                "Lebensgemeinschaften",
+                "ohne Migrationshintergrund",
+                "mit Migrationshintergrund",
+                "dav. mit eigener Migrationserfahrung",
+                "dav.ohne eigene Migrationserfahrung",
                 ""
               ]
             },
-            "title": "Lebensform"
-          },
-          {
-            "name": "mit ledigen Kindern",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ohne ledige Kinder",
-                "Mit ledigen Kindern",
-                "1 Kind",
-                "2 Kinder",
-                "3 und mehr Kinder",
-                ""
-              ]
-            },
-            "title": "mit ledigen Kindern"
+            "title": "Migrationsstatus"
           },
           {
             "name": "Value",
