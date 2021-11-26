@@ -5756,30 +5756,6 @@
       "title": "Schulabgängerinnen und Schulabgänger nach Nationalität und Abschlussart (in Prozet)"
     },
     {
-      "path": "7-1-20/data.csv",
-      "name": "7-1-20",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Jahr"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Paare ohne Kinder und Familien nach Paar-Familientyp und Zuwanderungsgeschichte sowie Familien nach Zahl der Kinder (in 1000)"
-    },
-    {
       "path": "7-2-2/data.csv",
       "name": "7-2-2",
       "profile": "tabular-data-resource",
