@@ -1284,7 +1284,7 @@
           }
         ]
       },
-      "title": "7-1-1"
+      "title": "Paare ohne Kinder und Familien nach Paar-Familientyp und Zuwanderungsgeschichte sowie Familien nach Zahl der Kinder (in 1000)"
     },
     {
       "path": "4-4-2/data.csv",
@@ -5756,8 +5756,8 @@
       "title": "Schulabgängerinnen und Schulabgänger nach Nationalität und Abschlussart (in Prozet)"
     },
     {
-      "path": "7-2-1_pause/data.csv",
-      "name": "7-2-1_pause",
+      "path": "7-1-20/data.csv",
+      "name": "7-1-20",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -5777,7 +5777,7 @@
           }
         ]
       },
-      "title": "Mittlere Wohnfläche in m² und mittlere Bruttokaltmiete in Niedersachsen nach Zuwanderungsgeschichte"
+      "title": "Paare ohne Kinder und Familien nach Paar-Familientyp und Zuwanderungsgeschichte sowie Familien nach Zahl der Kinder (in 1000)"
     }
   ]
 }

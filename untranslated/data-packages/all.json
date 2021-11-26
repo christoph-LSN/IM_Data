@@ -1208,7 +1208,7 @@
           }
         ]
       },
-      "title": "7-1-1"
+      "title": "global_indicators.7-1-1-title"
     },
     {
       "path": "4-4-2/data.csv",
@@ -5418,8 +5418,8 @@
       "title": "global_indicators.4-1-4-title"
     },
     {
-      "path": "7-2-1_pause/data.csv",
-      "name": "7-2-1_pause",
+      "path": "7-1-20/data.csv",
+      "name": "7-1-20",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -5437,7 +5437,7 @@
           }
         ]
       },
-      "title": "global_indicators.7-2-1-title"
+      "title": "global_indicators.7-1-1-title"
     }
   ]
 }
