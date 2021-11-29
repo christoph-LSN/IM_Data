@@ -960,6 +960,73 @@
       "title": "global_indicators.5-2-2-title"
     },
     {
+      "path": "4-1-5/data.csv",
+      "name": "4-1-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Migrationshuntergrund",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "mit und ohne Migrationshintergrund",
+                "ohne Migrationshintergrund",
+                "mit Migrationshintergrund",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geschlecht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "Männer",
+                "Frauen",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Migrationserfahrung",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "mit eigener Migrationserfahrung",
+                "ohne eigene Migrationserfahrung",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.4-1-5-title"
+    },
+    {
       "path": "5-3-2/data.csv",
       "name": "5-3-2",
       "profile": "tabular-data-resource",
@@ -4064,73 +4131,6 @@
         ]
       },
       "title": "global_indicators.1-2-1-title"
-    },
-    {
-      "path": "4-1-6/data.csv",
-      "name": "4-1-6",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Migrationshuntergrund",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "mit und ohne Migrationshintergrund",
-                "ohne Migrationshintergrund",
-                "mit Migrationshintergrund",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Geschlecht",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Insgesamt",
-                "Männer",
-                "Frauen",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Migrationserfahrung",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "mit eigener Migrationserfahrung",
-                "ohne eigene Migrationserfahrung",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "%",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.4-1-6-title"
     },
     {
       "path": "2-1-6/data.csv",
