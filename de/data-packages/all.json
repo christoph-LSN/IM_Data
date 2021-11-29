@@ -1944,7 +1944,7 @@
           }
         ]
       },
-      "title": "4-1-7"
+      "title": "Schulabgängerinnen und Schulabgänger an berufsbildenden Schulen nach Schulart und Schulabschluss (B8)"
     },
     {
       "path": "1-4-1/data.csv",
@@ -5754,30 +5754,6 @@
         ]
       },
       "title": "Schulabgängerinnen und Schulabgänger nach Nationalität und Abschlussart (in Prozet)"
-    },
-    {
-      "path": "4-1-1/data.csv",
-      "name": "4-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Jahr"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Schulabgängerinnen und Schulabgänger an berufsbildenden Schulen nach Schulart und Schulabschluss (B8)"
     }
   ]
 }
