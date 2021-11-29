@@ -12,71 +12,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Nationalität",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Deutsche",
-                "Ausländerinnen und Ausländer",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Schulart",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Insgesamt",
-                "Berufsschule (Teilzeit)",
-                "Berufseinstiegsklasse2)",
-                "Berufsvorbereitungsjahr2)",
-                "Berufseinstiegsschule3)",
-                "Berufsfachschule",
-                "Fachoberschule",
-                "Berufsoberschule",
-                "Berufl. Gymnasium",
-                "Fachschule",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Erreichter Abschluss",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Insgesamt",
-                "Allgemeine Hochschulreife ¹⁾",
-                "Fachhochschulreife",
-                "Schulischer Teil der Fachhochschulreife",
-                "Realschulabschluss",
-                "Hauptschulabschluss",
-                "Erfolgreicher Besuch",
-                "Entlassungen aus BVJ bzw. aus den BS V-Bildungslehrgängen",
-                "Ohne erfolgreichen Besuch/Abschluss",
-                "nachrichtlich: Abbruch im laufenden Schuljahr",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Anzahl",
-                "Prozent",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       }
@@ -84,5 +24,5 @@
   ],
   "profile": "data-package",
   "name": "4-1-1",
-  "title": "global_indicators.4-1-1-title"
+  "title": "global_indicators.4-1-7-title"
 }
