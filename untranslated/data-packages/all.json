@@ -1748,88 +1748,6 @@
       "title": "global_indicators.2-1-3-title"
     },
     {
-      "path": "4-1-7/data.csv",
-      "name": "4-1-7",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Nationalität",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Deutsche",
-                "Ausländerinnen und Ausländer",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Schulart",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Insgesamt",
-                "Berufsschule (Teilzeit)",
-                "Berufseinstiegsklasse2)",
-                "Berufsvorbereitungsjahr2)",
-                "Berufseinstiegsschule3)",
-                "Berufsfachschule",
-                "Fachoberschule",
-                "Berufsoberschule",
-                "Berufl. Gymnasium",
-                "Fachschule",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Erreichter Abschluss",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Insgesamt",
-                "Allgemeine Hochschulreife ¹⁾",
-                "Fachhochschulreife",
-                "Schulischer Teil der Fachhochschulreife",
-                "Realschulabschluss",
-                "Hauptschulabschluss",
-                "Erfolgreicher Besuch",
-                "Entlassungen aus BVJ bzw. aus den BS V-Bildungslehrgängen",
-                "Ohne erfolgreichen Besuch/Abschluss",
-                "nachrichtlich: Abbruch im laufenden Schuljahr",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Anzahl",
-                "Prozent",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "string"
-          }
-        ]
-      },
-      "title": "global_indicators.4-1-7-title"
-    },
-    {
       "path": "1-4-1/data.csv",
       "name": "1-4-1",
       "profile": "tabular-data-resource",
@@ -4131,6 +4049,88 @@
         ]
       },
       "title": "global_indicators.1-2-1-title"
+    },
+    {
+      "path": "4-1-6/data.csv",
+      "name": "4-1-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Nationalität",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Deutsche",
+                "Ausländerinnen und Ausländer",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Schulart",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "Berufsschule (Teilzeit)",
+                "Berufseinstiegsklasse2)",
+                "Berufsvorbereitungsjahr2)",
+                "Berufseinstiegsschule3)",
+                "Berufsfachschule",
+                "Fachoberschule",
+                "Berufsoberschule",
+                "Berufl. Gymnasium",
+                "Fachschule",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Erreichter Abschluss",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "Allgemeine Hochschulreife ¹⁾",
+                "Fachhochschulreife",
+                "Schulischer Teil der Fachhochschulreife",
+                "Realschulabschluss",
+                "Hauptschulabschluss",
+                "Erfolgreicher Besuch",
+                "Entlassungen aus BVJ bzw. aus den BS V-Bildungslehrgängen",
+                "Ohne erfolgreichen Besuch/Abschluss",
+                "nachrichtlich: Abbruch im laufenden Schuljahr",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Anzahl",
+                "Prozent",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "string"
+          }
+        ]
+      },
+      "title": "global_indicators.4-1-6-title"
     },
     {
       "path": "2-1-6/data.csv",
