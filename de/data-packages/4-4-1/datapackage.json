@@ -1,0 +1,85 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Berufsgruppe",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "alle Berufsgruppen",
+                "darunter medizinische Gesundheitsberufe",
+                ""
+              ]
+            },
+            "title": "Berufsgruppe"
+          },
+          {
+            "name": "Geschlecht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Männer",
+                "Frauen",
+                "Insgesamt",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
+          },
+          {
+            "name": "Verfahren",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "abgeschlossene Verfahren",
+                "sonstige Erledigung - Verfahren ohne Bescheid beendet",
+                "Noch keine Entscheidung",
+                ""
+              ]
+            },
+            "title": "Verfahren"
+          },
+          {
+            "name": "Entscheidung vor Rechtsbehelf",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "positiv volle Gleichwertigkeit",
+                "Auflage einer Ausgleichsmaßnahme1)",
+                "positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2)",
+                "teilweise Gleichwertigkeit3)",
+                "positive partieller Berufszugang4)",
+                "negativ",
+                ""
+              ]
+            },
+            "title": "Entscheidung vor Rechtsbehelf"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-4-1",
+  "title": "Anerkennungsverfahren nach dem Berufsqualifikationsfeststellungsgesetz (BQFG) sowie dem Niedersächsischen Berufsqualifikationsfeststellungsgesetz (NBQFG)"
+}
