@@ -2986,21 +2986,71 @@
             "title": "Jahr"
           },
           {
-            "name": "Group",
+            "name": "Bundesland",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                "G",
+                "Niedersachsen",
+                "Deutschland",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Bundesland"
+          },
+          {
+            "name": "Geschlecht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "männlich",
+                "weiblich",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
+          },
+          {
+            "name": "Bezugspersonen mit selbst bewohntem Wohneigentum",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bezugspersonen mit selbst bewohntem Wohneigentum",
+                "Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum",
+                ""
+              ]
+            },
+            "title": "Bezugspersonen mit selbst bewohntem Wohneigentum"
+          },
+          {
+            "name": "Migrationsstatus",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "mit Migrationshintergrund",
+                "ohne Migrationshintergrund",
+                "Deutsche mit Migrationshintergrund",
+                "Ausländerinnen und Ausländer mit Migrationshintergrund",
+                ""
+              ]
+            },
+            "title": "Migrationsstatus"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "in 1000",
+                "Prozent",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
