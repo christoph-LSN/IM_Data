@@ -17,4 +17,5 @@
 
 =======
 <a href="https://www.statistik.niedersachsen.de/startseite/themen/bildung/" target="_blank">Themenbereich Bildung</a>
+<a href="https://www.integrationsmonitoring-laender.de/indikatoren/g1" target="_blank">Themenbereich Bildung</a>
 >>>>>>> Stashed changes
