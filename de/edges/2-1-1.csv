@@ -1,2 +1,5 @@
 From,To
-Gebietseinheit,Aufenthaltstitel
+Gebietseinheit,Geschlecht
+Geschlecht,Aufenthalstitel
+Aufenthalstitel,Aufenthaltsstatus
+Aufenthaltsstatus,Geocode

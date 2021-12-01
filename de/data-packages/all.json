@@ -2017,9 +2017,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Braunschweig Stadt",
-                "Salzgitter Stadt",
-                "Wolfsburg Stadt",
+                "Braunschweig  Stadt",
+                "Salzgitter  Stadt",
+                "Wolfsburg  Stadt",
                 "Gifhorn",
                 "Goslar",
                 "Helmstedt",
@@ -2028,8 +2028,7 @@
                 "Wolfenbüttel",
                 "Göttingen",
                 "Statistische Region Braunschweig",
-                "Hannover Region",
-                "Hannover Landeshauptstadt",
+                "Hannover  Region",
                 "Diepholz",
                 "Hameln-Pyrmont",
                 "Hildesheim",
@@ -2049,11 +2048,11 @@
                 "Uelzen",
                 "Verden",
                 "Statistische Region Lüneburg",
-                "Delmenhorst.Stadt",
-                "Emden Stadt",
-                "Oldenburg (Oldb) Stadt",
-                "Osnabrück Stadt",
-                "Wilhelmshaven Stadt",
+                "Delmenhorst  Stadt",
+                "Emden  Stadt",
+                "Oldenburg(Oldb)  Stadt",
+                "Osnabrück  Stadt",
+                "Wilhelmshaven  Stadt",
                 "Ammerland",
                 "Aurich",
                 "Cloppenburg",
@@ -2074,34 +2073,119 @@
             "title": "Gebietseinheit"
           },
           {
-            "name": "Aufenthaltstitel",
+            "name": "Geschlecht",
             "type": "string",
             "constraints": {
               "enum": [
-                "Geflüchtete und geduldete Personen insgesamt",
-                "Niederlassungserlaubnis",
-                "Asylberechtigte und GFK-Flüchtlinge",
-                "Aufnahmeerklärung vor Schutz Resettlement Kontingentflüchtlinge",
-                "Verbot der Abschiebung Subsidiärer Schutz1)",
-                "Unmöglichkeit d. Ausreise aus rechtl. oder tats. Gründen",
-                "Bleiberecht (Aufenthaltsgewährung) und Opfer von Menschenhandel und organisierter Schwarzarbeit",
-                "Dringende persönliche o. humanitäre Gründe Härtefälle",
-                "Aufenthaltsgestattung zum Asylverfahren",
-                "Duldung",
-                "Familiennachzug",
+                "männlich",
+                "weiblich",
+                "insgesamt",
                 ""
               ]
             },
-            "title": "Aufenthaltstitel"
+            "title": "Geschlecht"
           },
           {
-            "name": "GeoCode",
+            "name": "Aufenthalstitel",
             "type": "string",
-            "title": "GeoCode"
+            "constraints": {
+              "enum": [
+                "kein Aufenthaltstitel erforderlich",
+                "Aufenthaltstitel erforderlich",
+                ""
+              ]
+            },
+            "title": "Aufenthalstitel"
+          },
+          {
+            "name": "Aufenthaltsstatus",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "mit Freizügigkeit nach EU-Recht",
+                "von Erfordernis auf einen Aufenthaltstitel befreit - heimatlose Ausländer",
+                "insgesamt",
+                "zeitlich unbefristet",
+                "zeitlich befristet",
+                "zeitlich befristet zum Zweck der Ausbildung",
+                "zeitlich befristet zum Zweck der Erwerbstätigkeit",
+                "zeitlich befristet völkerrechtliche o. humanitäre o. politische Gründe",
+                "zeitlich befristet familiäre Gründe",
+                "zeitlich befristet besondere Aufenthaltsrechte",
+                "Antrag auf Aufenthaltstitel gestellt",
+                "ohne Aufenthaltstitel insgesamt",
+                "ohne Aufenthaltstitel Duldung",
+                "ohne Aufenthaltstitel Aufenthaltsgestattung",
+                "ohne Aufenthaltstitel Ohne Duldung oder Gestattung ",
+                "ohne Aufenthaltstitel Ohne Duldung oder Gestattung",
+                ""
+              ]
+            },
+            "title": "Aufenthaltsstatus"
+          },
+          {
+            "name": "Geocode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "K03101",
+                "K03102",
+                "K03103",
+                "K03151",
+                "K03153",
+                "K03154",
+                "K03155",
+                "K03157",
+                "K03158",
+                "K03159",
+                "K031",
+                "K03241",
+                "K03251",
+                "K03252",
+                "K03254",
+                "K03255",
+                "K03256",
+                "K03257",
+                "K032",
+                "K03351",
+                "K03352",
+                "K03353",
+                "K03354",
+                "K03355",
+                "K03356",
+                "K03357",
+                "K03358",
+                "K03359",
+                "K03360",
+                "K03361",
+                "K033",
+                "K03401",
+                "K03402",
+                "K03403",
+                "K03404",
+                "K03405",
+                "K03451",
+                "K03452",
+                "K03453",
+                "K03454",
+                "K03455",
+                "K03456",
+                "K03457",
+                "K03458",
+                "K03459",
+                "K03460",
+                "K03461",
+                "K03462",
+                "K034",
+                "K030",
+                ""
+              ]
+            },
+            "title": "Geocode"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]

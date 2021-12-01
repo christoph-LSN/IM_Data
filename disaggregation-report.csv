@@ -3,8 +3,10 @@ Abschiebungen,1,2
 Abschlussart,1,7
 Altersgruppe,7,32
 Asylanträge,1,1
+Aufenthalstitel,1,2
 Aufenthaltsdauer in Jahren,1,6
-Aufenthaltstitel,10,11
+Aufenthaltsstatus,1,16
+Aufenthaltstitel,9,9
 Berufsgruppe,1,2
 Bezugspersonen mit selbst bewohntem Wohneigentum,1,2
 Bundesland,1,2
@@ -13,7 +15,8 @@ Entscheidung vor Rechtsbehelf,1,6
 Erreichter Abschluss,1,10
 Fächergruppe,1,10
 Gebietseinheit,37,72
-Geschlecht,15,7
+Geocode,1,50
+Geschlecht,16,8
 Group²,1,9
 Herkunftsland,1,36
 Höchster Beruflicher Abschluss,1,3
