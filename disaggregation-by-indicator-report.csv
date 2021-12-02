@@ -11,18 +11,18 @@ Indicator,Disaggregations,Number of disaggregations
 #1-2-8,"Gebietseinheit, Nationalität",2
 #1-3-1,"Gebietseinheit, Migrationshintergrund",2
 #1-3-2,"Gebietseinheit, Migrationserfahrung, Nationalität",3
-#1-3-3,"Geschlecht, Altersgruppe",2
-#1-3-4,"Migrationshintergrund, Herkunftsland",2
+#1-3-3,"Altersgruppe, Geschlecht",2
+#1-3-4,"Herkunftsland, Migrationshintergrund",2
 #1-4-1,Wanderungsherkunft,1
 #1-4-2,Wanderungsziel,1
 #1-4-3,Land,1
 #1-4-4,"Kategorie, Altersgruppe",2
 #1-4-5,"Gebietseinheit, Wanderung, Nationalität/Geschlecht",3
-#2-1-1,"Gebietseinheit, Geschlecht, Aufenthalstitel, Aufenthaltsstatus",4
+#2-1-1,"Gebietseinheit, Geschlecht, Aufenthalstitel",3
 #2-1-10,"Gebietseinheit, Aufenthaltstitel",2
-#2-1-2,"Gebietseinheit, Aufenthaltstitel",2
-#2-1-3,"Gebietseinheit, Aufenthaltstitel",2
-#2-1-4,"Gebietseinheit, Aufenthaltstitel",2
+#2-1-2,"Gebietseinheit, Geschlecht, Befristeter und unbefristeter Aufenthaltsstatus",3
+#2-1-3,"Gebietseinheit, Geschlecht, zeitlich begristeter Aufenthaltsstatus",3
+#2-1-4,"Gebietseinheit, Geschlecht, ohne Aufenthaltstitel",3
 #2-1-5,"Gebietseinheit, Aufenthaltstitel",2
 #2-1-6,"Gebietseinheit, Aufenthaltstitel",2
 #2-1-7,"Gebietseinheit, Aufenthaltstitel",2
@@ -45,7 +45,7 @@ Indicator,Disaggregations,Number of disaggregations
 #4-1-4,"Gebietseinheit, Nationalität",2
 #4-1-5,"Migrationserfahrung, Geschlecht, Migrationshuntergrund",3
 #4-1-6,"Nationalität, Schulart, Erreichter Abschluss",3
-#4-2-1,"Migrationshintergrund, Geschlecht, Höchster Beruflicher Abschluss",3
+#4-2-1,"Geschlecht, Migrationshintergrund, Höchster Beruflicher Abschluss",3
 #4-2-2,"Nationalität, Geschlecht",2
 #4-3-1,"Land der Staatsangehörigkeit, Kategorie",2
 #4-3-2,"Nationalität, Geschlecht, Fächergruppe",3
@@ -54,7 +54,7 @@ Indicator,Disaggregations,Number of disaggregations
 #5-2-1,"Kategorie, Geschlecht, Migrationsstatus",3
 #5-2-2,"Gebietseinheit, Geschlecht",2
 #5-2-3,"Gebietseinheit, Qualifikation",2
-#5-3-1,"Geschlecht, Altersgruppe, Migrationsstatus",3
+#5-3-1,"Altersgruppe, Geschlecht, Migrationsstatus",3
 #5-3-2,"Kategorie, Geschlecht",2
 #5-3-3,"Kategorie, Geschlecht",2
 #6-1-1,"Gebietseinheit, Nationalität / Migrationshintergrund",2
@@ -65,4 +65,4 @@ Indicator,Disaggregations,Number of disaggregations
 #7-1-1,"Migrationsstatus der Familie, Lebensform, mit ledigen Kindern",3
 #7-2-1,Migrationsstatus,1
 #7-2-2,"Geschlecht, Migrationsstatus, Bundesland, Bezugspersonen mit selbst bewohntem Wohneigentum",4
-#8-1-1,"Geschlecht, Altersgruppe",2
+#8-1-1,"Altersgruppe, Geschlecht",2
