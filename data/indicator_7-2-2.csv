@@ -1,7 +1,193 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,30
-2016,G,20
+﻿Year,Bundesland,Geschlecht,Bezugspersonen mit selbst bewohntem Wohneigentum,Migrationsstatus,Units,Value
+2018,Niedersachsen,Insgesamt,Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,in 1000,196.882205
+2018,Niedersachsen,männlich,Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,in 1000,160.612831
+2018,Niedersachsen,weiblich,Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,in 1000,36.269374
+2014,Niedersachsen,Insgesamt,Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,in 1000,160.990443
+2014,Niedersachsen,männlich,Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,in 1000,133.09289
+2014,Niedersachsen,weiblich,Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,in 1000,27.897553
+2010,Niedersachsen,Insgesamt,Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,in 1000,144.068745
+2010,Niedersachsen,männlich,Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,in 1000,118.871832
+2010,Niedersachsen,weiblich,Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,in 1000,25.196913
+2006,Niedersachsen,Insgesamt,Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,in 1000,110.189513
+2006,Niedersachsen,männlich,Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,in 1000,98.970125
+2006,Niedersachsen,weiblich,Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,in 1000,11.219388
+2018,Deutschland,Insgesamt,Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,in 1000,1844.834571
+2018,Deutschland,männlich,Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,in 1000,1468.516179
+2018,Deutschland,weiblich,Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,in 1000,376.318392
+2014,Deutschland,Insgesamt,Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,in 1000,1519.032565
+2014,Deutschland,männlich,Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,in 1000,1250.524459
+2014,Deutschland,weiblich,Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,in 1000,268.508106000001
+2010,Deutschland,Insgesamt,Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,in 1000,1390.63153000001
+2010,Deutschland,männlich,Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,in 1000,1168.85625500001
+2010,Deutschland,weiblich,Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,in 1000,221.775275000001
+2006,Deutschland,Insgesamt,Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,in 1000,1144.057913
+2006,Deutschland,männlich,Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,in 1000,990.034888999997
+2006,Deutschland,weiblich,Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,in 1000,154.023024
+2018,Niedersachsen,Insgesamt,Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,in 1000,1659.02401199999
+2018,Niedersachsen,männlich,Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,in 1000,1274.98131199998
+2018,Niedersachsen,weiblich,Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,in 1000,384.042700000001
+2014,Niedersachsen,Insgesamt,Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,in 1000,1757.135139
+2014,Niedersachsen,männlich,Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,in 1000,1355.337961
+2014,Niedersachsen,weiblich,Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,in 1000,401.797178
+2010,Niedersachsen,Insgesamt,Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,in 1000,1794.14181900001
+2010,Niedersachsen,männlich,Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,in 1000,1368.207535
+2010,Niedersachsen,weiblich,Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,in 1000,425.934284000001
+2006,Niedersachsen,Insgesamt,Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,in 1000,1663.630277
+2006,Niedersachsen,männlich,Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,in 1000,1313.993876
+2006,Niedersachsen,weiblich,Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,in 1000,349.636401
+2018,Deutschland,Insgesamt,Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,in 1000,14967.19434
+2018,Deutschland,männlich,Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,in 1000,11095.2072619999
+2018,Deutschland,weiblich,Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,in 1000,3871.98707800003
+2014,Deutschland,Insgesamt,Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,in 1000,15370.1097370003
+2014,Deutschland,männlich,Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,in 1000,11590.3900390002
+2014,Deutschland,weiblich,Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,in 1000,3779.719698
+2010,Deutschland,Insgesamt,Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,in 1000,15581.152609
+2010,Deutschland,männlich,Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,in 1000,11910.3338180002
+2010,Deutschland,weiblich,Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,in 1000,3670.81879099998
+2006,Deutschland,Insgesamt,Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,in 1000,14583.3154119998
+2006,Deutschland,männlich,Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,in 1000,11326.1628689999
+2006,Deutschland,weiblich,Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,in 1000,3257.15254300004
+2018,Niedersachsen,Insgesamt,Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,in 1000,132.119586
+2018,Niedersachsen,männlich,Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,in 1000,106.299102
+2018,Niedersachsen,weiblich,Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,in 1000,25.820484
+2014,Niedersachsen,Insgesamt,Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,in 1000,104.851972
+2014,Niedersachsen,männlich,Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,in 1000,85.3694880000001
+2014,Niedersachsen,weiblich,Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,in 1000,19.482484
+2010,Niedersachsen,Insgesamt,Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,in 1000,86.492799
+2010,Niedersachsen,männlich,Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,in 1000,72.5435599999999
+2010,Niedersachsen,weiblich,Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,in 1000,13.949239
+2006,Niedersachsen,Insgesamt,Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,in 1000,65.689379
+2006,Niedersachsen,männlich,Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,in 1000,59.325074
+2006,Niedersachsen,weiblich,Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,in 1000,6.364305
+2018,Deutschland,Insgesamt,Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,in 1000,1124.6086
+2018,Deutschland,männlich,Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,in 1000,882.187803
+2018,Deutschland,weiblich,Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,in 1000,242.420797
+2014,Deutschland,Insgesamt,Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,in 1000,886.112306999997
+2014,Deutschland,männlich,Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,in 1000,718.105166
+2014,Deutschland,weiblich,Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,in 1000,168.007141
+2010,Deutschland,Insgesamt,Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,in 1000,779.643794
+2010,Deutschland,männlich,Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,in 1000,645.880958999999
+2010,Deutschland,weiblich,Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,in 1000,133.762835
+2006,Deutschland,Insgesamt,Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,in 1000,630.461439999999
+2006,Deutschland,männlich,Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,in 1000,541.293926
+2006,Deutschland,weiblich,Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,in 1000,89.1675140000001
+2018,Niedersachsen,Insgesamt,Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,in 1000,64.762619
+2018,Niedersachsen,männlich,Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,in 1000,54.3137289999999
+2018,Niedersachsen,weiblich,Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,in 1000,10.44889
+2014,Niedersachsen,Insgesamt,Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,in 1000,56.1384709999999
+2014,Niedersachsen,männlich,Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,in 1000,47.723402
+2014,Niedersachsen,weiblich,Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,in 1000,8.415069
+2010,Niedersachsen,Insgesamt,Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,in 1000,57.575946
+2010,Niedersachsen,männlich,Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,in 1000,46.328272
+2010,Niedersachsen,weiblich,Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,in 1000,11.247674
+2006,Niedersachsen,Insgesamt,Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,in 1000,44.500134
+2006,Niedersachsen,männlich,Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,in 1000,39.645051
+2006,Niedersachsen,weiblich,Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,in 1000,4.855083
+2018,Deutschland,Insgesamt,Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,in 1000,720.225971
+2018,Deutschland,männlich,Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,in 1000,586.328376000001
+2018,Deutschland,weiblich,Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,in 1000,133.897595
+2014,Deutschland,Insgesamt,Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,in 1000,632.920258000001
+2014,Deutschland,männlich,Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,in 1000,532.419293000001
+2014,Deutschland,weiblich,Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,in 1000,100.500965
+2010,Deutschland,Insgesamt,Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,in 1000,610.987735999998
+2010,Deutschland,männlich,Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,in 1000,522.975295999999
+2010,Deutschland,weiblich,Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,in 1000,88.0124399999999
+2006,Deutschland,Insgesamt,Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,in 1000,513.596473
+2006,Deutschland,männlich,Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,in 1000,448.740963
+2006,Deutschland,weiblich,Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,in 1000,64.85551
+2018,Niedersachsen,Insgesamt,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,Prozent,29.0559675614358
+2018,Niedersachsen,männlich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,Prozent,32.1530053858929
+2018,Niedersachsen,weiblich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,Prozent,20.3680657809466
+2014,Niedersachsen,Insgesamt,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,Prozent,33.1196760431841
+2014,Niedersachsen,männlich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,Prozent,38.4608331344687
+2014,Niedersachsen,weiblich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,Prozent,19.9212527353958
+2010,Niedersachsen,Insgesamt,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,Prozent,30.651785591209
+2010,Niedersachsen,männlich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,Prozent,35.0551018073291
+2010,Niedersachsen,weiblich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,Prozent,19.2464033555785
+2006,Niedersachsen,Insgesamt,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,Prozent,25.4332746205013
+2006,Niedersachsen,männlich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,Prozent,30.0378528063061
+2006,Niedersachsen,weiblich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,Prozent,10.8123331736805
+2018,Deutschland,Insgesamt,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,Prozent,22.8248309626466
+2018,Deutschland,männlich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,Prozent,25.5058247184734
+2018,Deutschland,weiblich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,Prozent,16.1857002825021
+2014,Deutschland,Insgesamt,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,Prozent,26.2271541614716
+2014,Deutschland,männlich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,Prozent,30.2813181328742
+2014,Deutschland,weiblich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,Prozent,16.1543439855695
+2010,Deutschland,Insgesamt,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,Prozent,25.3998738408142
+2010,Deutschland,männlich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,Prozent,29.1968229858095
+2010,Deutschland,weiblich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,Prozent,15.0704883154193
+2006,Deutschland,Insgesamt,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,Prozent,21.4457826550879
+2006,Deutschland,männlich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,Prozent,24.6522780091026
+2006,Deutschland,weiblich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,mit Migrationshintergrund,Prozent,11.6803159649535
+2018,Niedersachsen,Insgesamt,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,Prozent,51.5065017853712
+2018,Niedersachsen,männlich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,Prozent,58.4587635076849
+2018,Niedersachsen,weiblich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,Prozent,36.9269485967577
+2014,Niedersachsen,Insgesamt,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,Prozent,55.2477231861181
+2014,Niedersachsen,männlich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,Prozent,62.3987591339801
+2014,Niedersachsen,weiblich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,Prozent,39.8447429661937
+2010,Niedersachsen,Insgesamt,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,Prozent,55.8543043514056
+2010,Niedersachsen,männlich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,Prozent,62.6501101961609
+2010,Niedersachsen,weiblich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,Prozent,41.4214112664925
+2006,Niedersachsen,Insgesamt,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,Prozent,50.8643358771688
+2006,Niedersachsen,männlich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,Prozent,58.0667320692905
+2006,Niedersachsen,weiblich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,Prozent,34.6924341125636
+2018,Deutschland,Insgesamt,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,Prozent,45.7723920342992
+2018,Deutschland,männlich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,Prozent,52.4238637917887
+2018,Deutschland,weiblich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,Prozent,33.5680090328596
+2014,Deutschland,Insgesamt,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,Prozent,47.1803039903445
+2014,Deutschland,männlich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,Prozent,53.9156507604092
+2014,Deutschland,weiblich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,Prozent,34.1126195922929
+2010,Deutschland,Insgesamt,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,Prozent,47.5721420721468
+2010,Deutschland,männlich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,Prozent,54.1916051811794
+2010,Deutschland,weiblich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,Prozent,34.069527987991
+2006,Deutschland,Insgesamt,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,Prozent,43.7660827990433
+2006,Deutschland,männlich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,Prozent,50.7081572029391
+2006,Deutschland,weiblich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,ohne Migrationshintergrund,Prozent,29.6507345629915
+2018,Niedersachsen,Insgesamt,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,Prozent,40.5432725946031
+2018,Niedersachsen,männlich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,Prozent,46.9234665042127
+2018,Niedersachsen,weiblich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,Prozent,25.9931227835225
+2014,Niedersachsen,Insgesamt,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,Prozent,40.2503542607554
+2014,Niedersachsen,männlich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,Prozent,47.3439525618404
+2014,Niedersachsen,weiblich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,Prozent,24.2978632005669
+2010,Niedersachsen,Insgesamt,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,Prozent,36.7415258215581
+2010,Niedersachsen,männlich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,Prozent,43.4005410837814
+2010,Niedersachsen,weiblich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,Prozent,20.4354925300025
+2006,Niedersachsen,Insgesamt,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,Prozent,31.9588519639382
+2006,Niedersachsen,männlich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,Prozent,39.0315120527712
+2006,Niedersachsen,weiblich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,Prozent,11.8846014934329
+2018,Deutschland,Insgesamt,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,Prozent,33.5293404450319
+2018,Deutschland,männlich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,Prozent,39.4554810454002
+2018,Deutschland,weiblich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,Prozent,21.679631580904
+2014,Deutschland,Insgesamt,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,Prozent,34.6980176025237
+2014,Deutschland,männlich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,Prozent,40.7321276426678
+2014,Deutschland,weiblich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,Prozent,21.2455032847636
+2010,Deutschland,Insgesamt,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,Prozent,32.5195013189355
+2010,Deutschland,männlich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,Prozent,37.8969350328981
+2010,Deutschland,weiblich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,Prozent,19.2976472653027
+2006,Deutschland,Insgesamt,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,Prozent,27.9333300607618
+2006,Deutschland,männlich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,Prozent,32.9510387579374
+2006,Deutschland,weiblich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Deutsche mit Migrationshintergrund,Prozent,14.5152986250349
+2018,Niedersachsen,Insgesamt,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,Prozent,18.4129383838921
+2018,Niedersachsen,männlich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,Prozent,19.895906824418
+2018,Niedersachsen,weiblich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,Prozent,13.2711329903581
+2014,Niedersachsen,Insgesamt,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,Prozent,24.885451880228
+2014,Niedersachsen,männlich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,Prozent,28.7958321378414
+2014,Niedersachsen,weiblich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,Prozent,14.0585584360449
+2010,Niedersachsen,Insgesamt,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,Prozent,24.5412742178596
+2010,Niedersachsen,männlich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,Prozent,26.9427217893249
+2010,Niedersachsen,weiblich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,Prozent,17.9509979411453
+2006,Niedersachsen,Insgesamt,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,Prozent,19.5428197261554
+2006,Niedersachsen,männlich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,Prozent,22.3362565198883
+2006,Niedersachsen,weiblich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,Prozent,9.66880709751196
+2018,Deutschland,Insgesamt,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,Prozent,15.2316781802493
+2018,Deutschland,männlich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,Prozent,16.6491809744353
+2018,Deutschland,weiblich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,Prozent,11.0951751390601
+2014,Deutschland,Insgesamt,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,Prozent,19.5463532176876
+2014,Deutschland,männlich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,Prozent,22.4963190590959
+2014,Deutschland,weiblich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,Prozent,11.5339027023587
+2010,Deutschland,Insgesamt,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,Prozent,19.8534494097465
+2010,Deutschland,männlich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,Prozent,22.7473656478765
+2010,Deutschland,weiblich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,Prozent,11.3063989626787
+2006,Deutschland,Insgesamt,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,Prozent,16.6880509727956
+2006,Deutschland,männlich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,Prozent,18.9080840437293
+2006,Deutschland,weiblich,Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum,Ausländerinnen und Ausländer mit Migrationshintergrund,Prozent,9.20779558057795
