@@ -86,7 +86,7 @@
             }
           },
           {
-            "name": "Aufenthalstitel",
+            "name": "Aufenthaltstitel",
             "type": "string",
             "constraints": {
               "enum": [

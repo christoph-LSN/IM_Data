@@ -1,4 +1,4 @@
-Year,Gebietseinheit,Geschlecht,Aufenthalstitel,GeoCode,Value
+Year,Gebietseinheit,Geschlecht,Aufenthaltstitel,GeoCode,Value
 2020,Braunschweig  Stadt,männlich,mit Freizügigkeit nach EU Recht,K03101,4950
 2020,Braunschweig  Stadt,weiblich,mit Freizügigkeit nach EU Recht,K03101,4635
 2020,Braunschweig  Stadt,insgesamt,mit Freizügigkeit nach EU Recht,K03101,9585
@@ -2294,26 +2294,26 @@ Year,Gebietseinheit,Geschlecht,Aufenthalstitel,GeoCode,Value
 2016,Salzgitter  Stadt,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03102,15
 2016,Salzgitter  Stadt,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03102,10
 2016,Salzgitter  Stadt,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03102,25
-2016,Wolfsburg  Stadt,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03103,. 
-2016,Wolfsburg  Stadt,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03103,. 
+2016,Wolfsburg  Stadt,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03103,.
+2016,Wolfsburg  Stadt,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03103,.
 2016,Wolfsburg  Stadt,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03103,5
 2016,Gifhorn,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03151,5
 2016,Gifhorn,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03151,5
 2016,Gifhorn,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03151,5
-2016,Goslar,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03153,. 
-2016,Goslar,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03153,. 
-2016,Goslar,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03153,. 
+2016,Goslar,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03153,.
+2016,Goslar,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03153,.
+2016,Goslar,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03153,.
 2016,Helmstedt,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03154,5
-2016,Helmstedt,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03154,. 
+2016,Helmstedt,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03154,.
 2016,Helmstedt,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03154,5
-2016,Northeim,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03155,. 
-2016,Northeim,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03155,. 
-2016,Northeim,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03155,. 
-2016,Peine,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03157,. 
-2016,Peine,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03157,. 
+2016,Northeim,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03155,.
+2016,Northeim,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03155,.
+2016,Northeim,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03155,.
+2016,Peine,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03157,.
+2016,Peine,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03157,.
 2016,Peine,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03157,5
 2016,Wolfenbüttel,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03158,5
-2016,Wolfenbüttel,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03158,. 
+2016,Wolfenbüttel,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03158,.
 2016,Wolfenbüttel,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03158,5
 2016,Göttingen,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03159,15
 2016,Göttingen,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03159,5
@@ -2324,89 +2324,89 @@ Year,Gebietseinheit,Geschlecht,Aufenthalstitel,GeoCode,Value
 2016,Hannover  Region,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03241,75
 2016,Hannover  Region,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03241,40
 2016,Hannover  Region,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03241,120
-2016,Diepholz,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03251,. 
-2016,Diepholz,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03251,. 
+2016,Diepholz,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03251,.
+2016,Diepholz,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03251,.
 2016,Diepholz,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03251,5
 2016,Hameln-Pyrmont,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03252,5
-2016,Hameln-Pyrmont,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03252,. 
+2016,Hameln-Pyrmont,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03252,.
 2016,Hameln-Pyrmont,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03252,5
 2016,Hildesheim,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03254,10
 2016,Hildesheim,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03254,5
 2016,Hildesheim,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03254,15
-2016,Holzminden,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03255,. 
-2016,Holzminden,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03255,. 
-2016,Holzminden,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03255,. 
+2016,Holzminden,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03255,.
+2016,Holzminden,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03255,.
+2016,Holzminden,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03255,.
 2016,Nienburg (Weser),männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03256,5
-2016,Nienburg (Weser),weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03256,. 
+2016,Nienburg (Weser),weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03256,.
 2016,Nienburg (Weser),insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03256,10
-2016,Schaumburg,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03257,. 
-2016,Schaumburg,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03257,. 
-2016,Schaumburg,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03257,. 
+2016,Schaumburg,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03257,.
+2016,Schaumburg,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03257,.
+2016,Schaumburg,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03257,.
 2016,Statistische Region Hannover,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K032,100
 2016,Statistische Region Hannover,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K032,55
 2016,Statistische Region Hannover,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K032,155
-2016,Celle,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03351,. 
+2016,Celle,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03351,.
 2016,Celle,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03351,5
 2016,Celle,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03351,5
-2016,Cuxhaven,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03352,. 
-2016,Cuxhaven,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03352,. 
-2016,Cuxhaven,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03352,. 
+2016,Cuxhaven,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03352,.
+2016,Cuxhaven,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03352,.
+2016,Cuxhaven,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03352,.
 2016,Harburg,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03353,10
 2016,Harburg,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03353,15
 2016,Harburg,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03353,20
-2016,Lüchow-Dannenberg,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03354,. 
-2016,Lüchow-Dannenberg,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03354,. 
-2016,Lüchow-Dannenberg,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03354,. 
+2016,Lüchow-Dannenberg,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03354,.
+2016,Lüchow-Dannenberg,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03354,.
+2016,Lüchow-Dannenberg,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03354,.
 2016,Lüneburg,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03355,30
 2016,Lüneburg,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03355,25
 2016,Lüneburg,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03355,60
-2016,Lüneburg,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03355,. 
-2016,Lüneburg,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03355,. 
+2016,Lüneburg,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03355,.
+2016,Lüneburg,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03355,.
 2016,Lüneburg,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03355,5
-2016,Osterholz,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03356,. 
-2016,Osterholz,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03356,. 
-2016,Osterholz,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03356,. 
+2016,Osterholz,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03356,.
+2016,Osterholz,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03356,.
+2016,Osterholz,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03356,.
 2016,Rotenburg (Wümme),männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03357,5
 2016,Rotenburg (Wümme),weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03357,5
 2016,Rotenburg (Wümme),insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03357,5
 2016,Heidekreis,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03358,10
-2016,Heidekreis,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03358,. 
+2016,Heidekreis,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03358,.
 2016,Heidekreis,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03358,10
-2016,Stade,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03359,. 
+2016,Stade,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03359,.
 2016,Stade,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03359,5
 2016,Stade,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03359,5
-2016,Uelzen,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03360,. 
-2016,Uelzen,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03360,. 
-2016,Uelzen,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03360,. 
-2016,Verden,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03361,. 
-2016,Verden,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03361,. 
-2016,Verden,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03361,. 
+2016,Uelzen,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03360,.
+2016,Uelzen,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03360,.
+2016,Uelzen,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03360,.
+2016,Verden,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03361,.
+2016,Verden,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03361,.
+2016,Verden,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03361,.
 2016,Statistische Region Lüneburg,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K033,30
 2016,Statistische Region Lüneburg,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K033,25
 2016,Statistische Region Lüneburg,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K033,60
 2016,Delmenhorst  Stadt,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03401,5
-2016,Delmenhorst  Stadt,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03401,. 
+2016,Delmenhorst  Stadt,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03401,.
 2016,Delmenhorst  Stadt,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03401,5
-2016,Emden  Stadt,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03402,. 
-2016,Emden  Stadt,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03402,. 
-2016,Emden  Stadt,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03402,. 
+2016,Emden  Stadt,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03402,.
+2016,Emden  Stadt,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03402,.
+2016,Emden  Stadt,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03402,.
 2016,Oldenburg(Oldb)  Stadt,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03403,5
-2016,Oldenburg(Oldb)  Stadt,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03403,. 
+2016,Oldenburg(Oldb)  Stadt,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03403,.
 2016,Oldenburg(Oldb)  Stadt,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03403,5
-2016,Wilhelmshaven  Stadt,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03405,. 
-2016,Wilhelmshaven  Stadt,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03405,. 
-2016,Wilhelmshaven  Stadt,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03405,. 
-2016,Ammerland,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03451,. 
+2016,Wilhelmshaven  Stadt,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03405,.
+2016,Wilhelmshaven  Stadt,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03405,.
+2016,Wilhelmshaven  Stadt,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03405,.
+2016,Ammerland,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03451,.
 2016,Ammerland,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03451,5
 2016,Ammerland,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03451,5
 2016,Aurich,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03452,5
-2016,Aurich,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03452,. 
+2016,Aurich,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03452,.
 2016,Aurich,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03452,5
-2016,Cloppenburg,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03453,. 
-2016,Cloppenburg,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03453,. 
-2016,Cloppenburg,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03453,. 
+2016,Cloppenburg,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03453,.
+2016,Cloppenburg,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03453,.
+2016,Cloppenburg,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03453,.
 2016,Emsland,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03454,5
-2016,Emsland,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03454,. 
+2016,Emsland,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03454,.
 2016,Emsland,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03454,5
 2016,Friesland,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03455,5
 2016,Friesland,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03455,10
@@ -2414,27 +2414,27 @@ Year,Gebietseinheit,Geschlecht,Aufenthalstitel,GeoCode,Value
 2016,Grafschaft Bentheim,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03456,10
 2016,Grafschaft Bentheim,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03456,5
 2016,Grafschaft Bentheim,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03456,15
-2016,Leer,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03457,. 
+2016,Leer,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03457,.
 2016,Leer,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03457,5
 2016,Leer,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03457,5
 2016,Oldenburg,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03458,5
 2016,Oldenburg,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03458,5
 2016,Oldenburg,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03458,10
 2016,Osnabrück,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03459,5
-2016,Osnabrück,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03459,. 
+2016,Osnabrück,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03459,.
 2016,Osnabrück,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03459,10
 2016,Osnabrück,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03459,15
 2016,Osnabrück,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03459,5
 2016,Osnabrück,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03459,20
 2016,Vechta,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03460,5
-2016,Vechta,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03460,. 
+2016,Vechta,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03460,.
 2016,Vechta,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03460,5
 2016,Wesermarsch,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03461,10
 2016,Wesermarsch,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03461,10
 2016,Wesermarsch,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03461,15
-2016,Wittmund,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03462,. 
-2016,Wittmund,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03462,. 
-2016,Wittmund,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03462,. 
+2016,Wittmund,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03462,.
+2016,Wittmund,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03462,.
+2016,Wittmund,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K03462,.
 2016,Statistische Region Weser-Ems,männlich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K034,75
 2016,Statistische Region Weser-Ems,weiblich,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K034,50
 2016,Statistische Region Weser-Ems,insgesamt,von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer,K034,125

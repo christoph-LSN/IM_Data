@@ -89,7 +89,7 @@
             "title": "Geschlecht"
           },
           {
-            "name": "Aufenthalstitel",
+            "name": "Aufenthaltstitel",
             "type": "string",
             "constraints": {
               "enum": [
@@ -98,7 +98,7 @@
                 ""
               ]
             },
-            "title": "Aufenthalstitel"
+            "title": "Aufenthaltstitel"
           },
           {
             "name": "GeoCode",

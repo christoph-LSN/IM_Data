@@ -86,7 +86,7 @@
             }
           },
           {
-            "name": "zeitlich begristeter Aufenthaltsstatus",
+            "name": "zeitlich befristeter Aufenthaltsstatus",
             "type": "string",
             "constraints": {
               "enum": [

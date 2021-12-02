@@ -535,7 +535,7 @@
             "title": "Geschlecht"
           },
           {
-            "name": "zeitlich begristeter Aufenthaltsstatus",
+            "name": "zeitlich befristeter Aufenthaltsstatus",
             "type": "string",
             "constraints": {
               "enum": [
@@ -547,7 +547,7 @@
                 ""
               ]
             },
-            "title": "zeitlich begristeter Aufenthaltsstatus"
+            "title": "zeitlich befristeter Aufenthaltsstatus"
           },
           {
             "name": "GeoCode",
@@ -5273,7 +5273,7 @@
             "title": "Geschlecht"
           },
           {
-            "name": "Aufenthalstitel",
+            "name": "Aufenthaltstitel",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5282,7 +5282,7 @@
                 ""
               ]
             },
-            "title": "Aufenthalstitel"
+            "title": "Aufenthaltstitel"
           },
           {
             "name": "GeoCode",
