@@ -4079,9 +4079,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Braunschweig Stadt",
-                "Salzgitter Stadt",
-                "Wolfsburg Stadt",
+                "Braunschweig  Stadt",
+                "Salzgitter  Stadt",
+                "Wolfsburg  Stadt",
                 "Gifhorn",
                 "Goslar",
                 "Helmstedt",
@@ -4090,8 +4090,7 @@
                 "Wolfenbüttel",
                 "Göttingen",
                 "Statistische Region Braunschweig",
-                "Hannover Region",
-                "Hannover Landeshauptstadt",
+                "Hannover  Region",
                 "Diepholz",
                 "Hameln-Pyrmont",
                 "Hildesheim",
@@ -4111,11 +4110,11 @@
                 "Uelzen",
                 "Verden",
                 "Statistische Region Lüneburg",
-                "Delmenhorst.Stadt",
-                "Emden Stadt",
-                "Oldenburg (Oldb) Stadt",
-                "Osnabrück Stadt",
-                "Wilhelmshaven Stadt",
+                "Delmenhorst  Stadt",
+                "Emden  Stadt",
+                "Oldenburg(Oldb)  Stadt",
+                "Osnabrück  Stadt",
+                "Wilhelmshaven  Stadt",
                 "Ammerland",
                 "Aurich",
                 "Cloppenburg",
@@ -4136,15 +4135,32 @@
             "title": "Gebietseinheit"
           },
           {
-            "name": "Aufenthaltstitel",
+            "name": "Geschlecht",
             "type": "string",
             "constraints": {
               "enum": [
-                "Dringende persönliche o. humanitäre Gründe Härtefälle",
+                "männlich",
+                "weiblich",
+                "insgesamt",
                 ""
               ]
             },
-            "title": "Aufenthaltstitel"
+            "title": "Geschlecht"
+          },
+          {
+            "name": "Grund der Befristung",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "zum Zweck der Ausbildung",
+                "zum Zweck der Erwerbstätigkeit",
+                "völkerrechtliche o. humnitäre o.politische Gründe",
+                "familiäre Gründe",
+                "besondere Aufenthaltsrechte",
+                ""
+              ]
+            },
+            "title": "Grund der Befristung"
           },
           {
             "name": "GeoCode",
@@ -4153,7 +4169,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "string",
             "title": "Value"
           }
         ]
