@@ -1131,6 +1131,16 @@
             }
           },
           {
+            "name": "Comment_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Staistisch unsicher",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "string"
           }
