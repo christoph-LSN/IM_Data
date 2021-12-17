@@ -1135,7 +1135,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Staistisch unsicher",
+                "Kein Wert",
+                "Statistisch unsicher",
                 ""
               ]
             }
