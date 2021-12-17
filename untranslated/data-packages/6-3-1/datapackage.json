@@ -33,7 +33,7 @@
             }
           },
           {
-            "name": "Comment_OBS",
+            "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
               "enum": [
