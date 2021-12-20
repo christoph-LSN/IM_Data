@@ -1158,7 +1158,7 @@
           }
         ]
       },
-      "title": "Höchster Schulabschluss an allgemein bildenden Schulen nach Zuwanderungsgeschichte und Altersgruppen"
+      "title": "Höchster Schulabschluss an allgemein bildenden Schulen nach Zuwanderungsgeschichte und Altersgruppen (in Prozent)"
     },
     {
       "path": "6-3-1/data.csv",
@@ -2663,7 +2663,7 @@
           }
         ]
       },
-      "title": "Schulabgängerinnen und Schulabgänger nach Nationalität und Abschlussart (in Prozet)"
+      "title": "Schulabgängerinnen und Schulabgänger nach Nationalität und Abschlussart"
     },
     {
       "path": "1-3-4/data.csv",
