@@ -1,57 +1,66 @@
 Value,Disaggregation combinations using this value,Number of indicators
-Ammerland,12,2
-Aurich,12,2
-Braunschweig  Stadt,12,2
-Celle,12,2
-Cloppenburg,12,2
-Cuxhaven,12,2
+Ammerland,177,31
+Aurich,177,31
+Braunschweig Stadt,6,6
+Braunschweig  Stadt,171,25
+Celle,177,31
+Cloppenburg,177,31
+Cuxhaven,177,31
 dav. Hannover Landeshauptstadt,9,1
-dav. Hannover  Lhst.,12,2
+dav. Hannover  Lhst.,108,19
 dav. Hannover Umland,9,1
 dav. Hannover  Umland,114,20
-Delmenhorst  Stadt,12,2
+Delmenhorst Stadt,1,1
+Delmenhorst  Stadt,171,25
+Delmenhorst.Stadt,5,5
 Deutschland,11,2
-Diepholz,12,2
+Diepholz,177,31
 Emden  Stadt / Leer,6,1
-Emden  Stadt,12,2
-Emsland,12,2
-Friesland,12,2
-Gifhorn,12,2
-Goslar,12,2
-Grafschaft Bentheim,12,2
-Göttingen,12,2
-Hameln-Pyrmont,12,2
-Hannover  Region,12,2
+Emden Stadt,6,6
+Emden  Stadt,171,25
+Emsland,177,31
+Friesland,177,31
+Gifhorn,177,31
+Goslar,177,31
+Grafschaft Bentheim,177,31
+Göttingen,177,31
+Hameln-Pyrmont,177,31
+Hannover Landeshauptstadt,6,6
+Hannover Region,6,6
+Hannover  Region,171,25
 Hannover Umland,2,2
-Harburg,12,2
-Heidekreis,12,2
-Helmstedt,12,2
-Hildesheim,12,2
-Holzminden,12,2
-Leer,12,2
-Lüchow-Dannenberg,12,2
-Lüneburg,12,2
+Harburg,177,31
+Heidekreis,177,31
+Helmstedt,177,31
+Hildesheim,177,31
+Holzminden,177,31
+Leer,177,31
+Lüchow-Dannenberg,177,31
+Lüneburg,177,31
 Mittelniedersachsen,9,1
 Niedersachsen,232,37
-Nienburg (Weser),12,2
+Nienburg (Weser),177,31
 Nordniedersachsen,9,1
 Nordostniedersachsen,9,1
-Northeim,12,2
-Oldenburg,12,2
+Northeim,177,31
+Oldenburg (Oldb) Stadt,6,6
+Oldenburg,177,31
 Oldenburger Raum,9,1
-Oldenburg(Oldb)  Stadt,12,2
-Osnabrück  Stadt,12,2
-Osnabrück,12,2
-Osterholz,12,2
+Oldenburg(Oldb)  Stadt,171,25
+Osnabrück Stadt,6,6
+Osnabrück  Stadt,171,25
+Osnabrück,177,31
+Osterholz,177,31
 Osterode,12,2
 Ostfriesland-Nordseeküste,9,1
 Ostniedersachsen,9,1
-Peine,12,2
+Peine,177,31
 Region Hannover,9,1
-Rotenburg (Wümme),12,2
-Salzgitter  Stadt,12,2
-Schaumburg,12,2
-Stade,12,2
+Rotenburg (Wümme),177,31
+Salzgitter Stadt,6,6
+Salzgitter  Stadt,171,25
+Schaumburg,177,31
+Stade,177,31
 Stat. Region Braunschweig,8,2
 Stat. Region Hannover,8,2
 Stat. Region Lüneburg,8,2
@@ -61,13 +70,15 @@ Statistische Region Hannover,184,31
 Statistische Region Lüneburg,184,31
 Statistische Region Weser-Ems,184,31
 Südniedersachsen,9,1
-Uelzen,12,2
-Vechta,12,2
-Verden,12,2
+Uelzen,177,31
+Vechta,177,31
+Verden,177,31
 Weser-Leine-Bergland,9,1
-Wesermarsch,12,2
+Wesermarsch,177,31
 Westniedersachsen,9,1
-Wilhelmshaven  Stadt,12,2
-Wittmund,12,2
-Wolfenbüttel,12,2
-Wolfsburg  Stadt,12,2
+Wilhelmshaven Stadt,6,6
+Wilhelmshaven  Stadt,171,25
+Wittmund,177,31
+Wolfenbüttel,177,31
+Wolfsburg Stadt,6,6
+Wolfsburg  Stadt,171,25
