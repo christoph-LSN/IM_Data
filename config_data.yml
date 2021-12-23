@@ -107,7 +107,7 @@ map_layers:
     id_property: AGS
     output_subfolder: map
     filename_prefix: indicator_
-   # exclude_columns: ['Gebietseinheit']
+    exclude_columns: ['Gebietseinheit']
   - geojson_file: NI_MZ.geojson #maps\NI_Kurz_Mikrozensus_Diss.geojson
     name_property: GENMZ
     id_property: AGSMZ
