@@ -16,7 +16,7 @@
             "title": "Jahr"
           },
           {
-            "name": "Altersgruppe",
+            "name": "Altersgruppe mit Komma, dazwischen",
             "type": "string",
             "constraints": {
               "enum": [
@@ -28,7 +28,7 @@
                 ""
               ]
             },
-            "title": "Altersgruppe"
+            "title": "Altersgruppe mit Komma, dazwischen"
           },
           {
             "name": "Units",
