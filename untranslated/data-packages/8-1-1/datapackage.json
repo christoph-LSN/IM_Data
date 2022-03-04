@@ -19,11 +19,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "18 – 25",
+                "18 –Komma,Komma 25",
                 "25 – 45",
                 "45 – 65",
                 "65 und älter",
                 "Insgesamt",
+                "18 – 25",
                 ""
               ]
             }
