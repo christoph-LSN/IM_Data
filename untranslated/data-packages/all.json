@@ -5088,8 +5088,22 @@
             }
           },
           {
+            "name": "Kategorie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Zugänge Insgesamt",
+                "Aufenthaltstitel nach §24 AufenthG",
+                "Funktionsbescheinnigung § 81 Abs.3 S.1 AufenthG",
+                "Schutzgesuch geäußert",
+                "Eingereiste ukrainische Staatsangehörige ohne bisheriges Schutzgesuch und Titelerteilung",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
