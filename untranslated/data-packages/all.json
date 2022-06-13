@@ -2256,19 +2256,41 @@
             "type": "string"
           },
           {
-            "name": "Gebietseinheit",
+            "name": "Altersgruppe",
             "type": "string",
             "constraints": {
               "enum": [
-                "Bundesgebiet",
-                "Niedersachsen",
+                "unter 1 Jahr",
+                "1 bis 2 Jahre",
+                "3 bis 5 Jahre",
+                "6 bis 11 Jahre",
+                "12 bis 13 Jahre",
+                "14 bis 17 Jahre",
+                "18 bis 26 Jahre",
+                "27 bis 63 Jahre",
+                "64 Jahre und älter",
+                "Alter unbekannt",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geschlecht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "männlich",
+                "weiblich",
+                "divers",
+                "unbekannt",
+                "insgesamt",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
