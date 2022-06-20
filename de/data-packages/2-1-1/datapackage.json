@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Braunschweig  Stadt",
-                "Salzgitter  Stadt",
-                "Wolfsburg  Stadt",
+                "Braunschweig, Stadt",
+                "Salzgitter, Stadt",
+                "Wolfsburg, Stadt",
                 "Gifhorn",
                 "Goslar",
                 "Helmstedt",
@@ -51,11 +51,11 @@
                 "Uelzen",
                 "Verden",
                 "Statistische Region Lüneburg",
-                "Delmenhorst  Stadt",
+                "Delmenhorst, Stadt",
                 "Emden  Stadt",
-                "Oldenburg(Oldb)  Stadt",
-                "Osnabrück  Stadt",
-                "Wilhelmshaven  Stadt",
+                "Oldenburg(Oldb), Stadt",
+                "Osnabrück, Stadt",
+                "Wilhelmshaven, Stadt",
                 "Ammerland",
                 "Aurich",
                 "Cloppenburg",
@@ -93,12 +93,25 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mit Freizügigkeit nach EU Recht",
-                "von Erfordernis auf einen Aufenthaltstitel befreit o. heimatlose Ausländer",
+                "kein Aufenthaltstitel erforderlich",
+                "Aufenthaltstitel erforderlich",
+                "Antrag auf Aufenthaltstitel gestellt",
+                "ohne Aufenthaltstitel",
                 ""
               ]
             },
             "title": "Aufenthaltstitel"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Anzahl",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "GeoCode",
@@ -107,7 +120,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
