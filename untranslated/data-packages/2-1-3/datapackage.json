@@ -19,9 +19,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Braunschweig  Stadt",
-                "Salzgitter  Stadt",
-                "Wolfsburg  Stadt",
+                "Braunschweig, Stadt",
+                "Salzgitter, Stadt",
+                "Wolfsburg, Stadt",
                 "Gifhorn",
                 "Goslar",
                 "Helmstedt",
@@ -50,11 +50,11 @@
                 "Uelzen",
                 "Verden",
                 "Statistische Region Lüneburg",
-                "Delmenhorst  Stadt",
+                "Delmenhorst, Stadt",
                 "Emden  Stadt",
-                "Oldenburg(Oldb)  Stadt",
-                "Osnabrück  Stadt",
-                "Wilhelmshaven  Stadt",
+                "Oldenburg(Oldb), Stadt",
+                "Osnabrück, Stadt",
+                "Wilhelmshaven, Stadt",
                 "Ammerland",
                 "Aurich",
                 "Cloppenburg",
@@ -74,6 +74,31 @@
             }
           },
           {
+            "name": "Aufenthaltstitel",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "zeitlich unbefristet",
+                "zeitlich befristet",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Grund der Befristung",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "zum Zeck der Ausbildung",
+                "zum Zweck der Erwerbstätigkeit",
+                "völkerrechtliche, humanitäre, politische Gründe",
+                "familiäre Gründe",
+                "besondere Aufenthaltsrechte",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Geschlecht",
             "type": "string",
             "constraints": {
@@ -86,15 +111,11 @@
             }
           },
           {
-            "name": "zeitlich befristeter Aufenthaltsstatus",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "zum Zweck der Ausbildung",
-                "zum Zweck der Erwerbstätigkeit",
-                "völkerrechtliche o. humanitäre o. politische Gründe",
-                "familiäre Gründe",
-                "besondere Aufenthaltsrechte",
+                "Anzahl",
                 ""
               ]
             }

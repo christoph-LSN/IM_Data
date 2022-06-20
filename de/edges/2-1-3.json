@@ -1,1 +1,1 @@
-{"From":["Gebietseinheit","Geschlecht"],"To":["Geschlecht","zeitlich befristeter Aufenthaltsstatus"]}
+{"From":["Gebietseinheit","Aufenthaltstitel","Geschlecht"],"To":["Aufenthaltstitel","Geschlecht","Grund der Befristung"]}

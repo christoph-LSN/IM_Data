@@ -3399,9 +3399,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Braunschweig  Stadt",
-                "Salzgitter  Stadt",
-                "Wolfsburg  Stadt",
+                "Braunschweig, Stadt",
+                "Salzgitter, Stadt",
+                "Wolfsburg, Stadt",
                 "Gifhorn",
                 "Goslar",
                 "Helmstedt",
@@ -3430,11 +3430,11 @@
                 "Uelzen",
                 "Verden",
                 "Statistische Region Lüneburg",
-                "Delmenhorst  Stadt",
+                "Delmenhorst, Stadt",
                 "Emden  Stadt",
-                "Oldenburg(Oldb)  Stadt",
-                "Osnabrück  Stadt",
-                "Wilhelmshaven  Stadt",
+                "Oldenburg(Oldb), Stadt",
+                "Osnabrück, Stadt",
+                "Wilhelmshaven, Stadt",
                 "Ammerland",
                 "Aurich",
                 "Cloppenburg",
@@ -3455,6 +3455,33 @@
             "title": "Gebietseinheit"
           },
           {
+            "name": "Aufenthaltstitel",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "zeitlich unbefristet",
+                "zeitlich befristet",
+                ""
+              ]
+            },
+            "title": "Aufenthaltstitel"
+          },
+          {
+            "name": "Grund der Befristung",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "zum Zeck der Ausbildung",
+                "zum Zweck der Erwerbstätigkeit",
+                "völkerrechtliche, humanitäre, politische Gründe",
+                "familiäre Gründe",
+                "besondere Aufenthaltsrechte",
+                ""
+              ]
+            },
+            "title": "Grund der Befristung"
+          },
+          {
             "name": "Geschlecht",
             "type": "string",
             "constraints": {
@@ -3468,19 +3495,15 @@
             "title": "Geschlecht"
           },
           {
-            "name": "zeitlich befristeter Aufenthaltsstatus",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "zum Zweck der Ausbildung",
-                "zum Zweck der Erwerbstätigkeit",
-                "völkerrechtliche o. humanitäre o. politische Gründe",
-                "familiäre Gründe",
-                "besondere Aufenthaltsrechte",
+                "Anzahl",
                 ""
               ]
             },
-            "title": "zeitlich befristeter Aufenthaltsstatus"
+            "title": "Units"
           },
           {
             "name": "GeoCode",
@@ -3494,7 +3517,7 @@
           }
         ]
       },
-      "title": "Zeitlich befristete und zeitlich unbefristete Aufenthalstitel Zeitlich befristete Aufenthaltstitel nach Grund der Befristung"
+      "title": "Zeitlich befristete und zeitlich unbefristete Aufenthalstitel nach Grund der Befristung"
     },
     {
       "path": "2-1-7/data.csv",
