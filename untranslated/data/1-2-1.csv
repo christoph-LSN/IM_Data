@@ -1,7 +1,7 @@
-Year,Gebietseinheit,GeoCode,Value
-2005,Braunschweig  Stadt,K03101,20275
-2005,Salzgitter  Stadt,K03102,10721
-2005,Wolfsburg  Stadt,K03103,11986
+Year,Gebietseinheit,Geocode,Value
+2005,"Braunschweig, Stadt",K03101,20275
+2005,"Salzgitter, Stadt",K03102,10721
+2005,"Wolfsburg, Stadt",K03103,11986
 2005,Gifhorn,K03151,7612
 2005,Goslar,K03153,7506
 2005,Helmstedt,K03154,3648
@@ -11,8 +11,8 @@ Year,Gebietseinheit,GeoCode,Value
 2005,Göttingen,K03159,20262
 2005,Statistische Region Braunschweig,K031,99536
 2005,Hannover  Region,K03241,115165
-2005,dav. Hannover  Lhst.,K03241001,75016
-2005,dav. Hannover  Umland,K03241999,40149
+2005,"dav. Hannover, Lhst.",K03241001,75016
+2005,"dav. Hannover, Umland",K03241999,40149
 2005,Diepholz,K03251,8256
 2005,Hameln-Pyrmont,K03252,11014
 2005,Hildesheim,K03254,14631
@@ -32,11 +32,11 @@ Year,Gebietseinheit,GeoCode,Value
 2005,Uelzen,K03360,2786
 2005,Verden,K03361,6736
 2005,Statistische Region Lüneburg,K033,69762
-2005,Delmenhorst  Stadt,K03401,6751
+2005,"Delmenhorst, Stadt",K03401,6751
 2005,Emden  Stadt,K03402,2783
-2005,Oldenburg(Oldb)  Stadt,K03403,9884
-2005,Osnabrück  Stadt,K03404,15137
-2005,Wilhelmshaven  Stadt,K03405,3851
+2005,"Oldenburg(Oldb), Stadt",K03403,9884
+2005,"Osnabrück, Stadt",K03404,15137
+2005,"Wilhelmshaven, Stadt",K03405,3851
 2005,Ammerland,K03451,3288
 2005,Aurich,K03452,5338
 2005,Cloppenburg,K03453,6341
@@ -51,9 +51,9 @@ Year,Gebietseinheit,GeoCode,Value
 2005,Wittmund,K03462,1327
 2005,Statistische Region Weser-Ems,K034,124593
 2005,Niedersachsen,K030,461486
-2006,Braunschweig  Stadt,K03101,20282
-2006,Salzgitter  Stadt,K03102,10474
-2006,Wolfsburg  Stadt,K03103,11941
+2006,"Braunschweig, Stadt",K03101,20282
+2006,"Salzgitter, Stadt",K03102,10474
+2006,"Wolfsburg, Stadt",K03103,11941
 2006,Gifhorn,K03151,7371
 2006,Goslar,K03153,7325
 2006,Helmstedt,K03154,3620
@@ -63,8 +63,8 @@ Year,Gebietseinheit,GeoCode,Value
 2006,Göttingen,K03159,19719
 2006,Statistische Region Braunschweig,K031,97675
 2006,Hannover  Region,K03241,115063
-2006,dav. Hannover  Lhst.,K03241001,74898
-2006,dav. Hannover  Umland,K03241999,40165
+2006,"dav. Hannover, Lhst.",K03241001,74898
+2006,"dav. Hannover, Umland",K03241999,40165
 2006,Diepholz,K03251,8139
 2006,Hameln-Pyrmont,K03252,10617
 2006,Hildesheim,K03254,14237
@@ -84,11 +84,11 @@ Year,Gebietseinheit,GeoCode,Value
 2006,Uelzen,K03360,2742
 2006,Verden,K03361,6710
 2006,Statistische Region Lüneburg,K033,68586
-2006,Delmenhorst  Stadt,K03401,6486
+2006,"Delmenhorst, Stadt",K03401,6486
 2006,Emden  Stadt,K03402,2664
-2006,Oldenburg(Oldb)  Stadt,K03403,9767
-2006,Osnabrück  Stadt,K03404,14718
-2006,Wilhelmshaven  Stadt,K03405,3710
+2006,"Oldenburg(Oldb), Stadt",K03403,9767
+2006,"Osnabrück, Stadt",K03404,14718
+2006,"Wilhelmshaven, Stadt",K03405,3710
 2006,Ammerland,K03451,3324
 2006,Aurich,K03452,5511
 2006,Cloppenburg,K03453,6549
@@ -103,9 +103,9 @@ Year,Gebietseinheit,GeoCode,Value
 2006,Wittmund,K03462,1262
 2006,Statistische Region Weser-Ems,K034,126626
 2006,Niedersachsen,K030,458757
-2007,Braunschweig  Stadt,K03101,19875
-2007,Salzgitter  Stadt,K03102,10224
-2007,Wolfsburg  Stadt,K03103,11772
+2007,"Braunschweig, Stadt",K03101,19875
+2007,"Salzgitter, Stadt",K03102,10224
+2007,"Wolfsburg, Stadt",K03103,11772
 2007,Gifhorn,K03151,7223
 2007,Goslar,K03153,7231
 2007,Helmstedt,K03154,3498
@@ -115,8 +115,8 @@ Year,Gebietseinheit,GeoCode,Value
 2007,Göttingen,K03159,19098
 2007,Statistische Region Braunschweig,K031,95376
 2007,Hannover  Region,K03241,114709
-2007,dav. Hannover  Lhst.,K03241001,74977
-2007,dav. Hannover  Umland,K03241999,39732
+2007,"dav. Hannover, Lhst.",K03241001,74977
+2007,"dav. Hannover, Umland",K03241999,39732
 2007,Diepholz,K03251,8229
 2007,Hameln-Pyrmont,K03252,10381
 2007,Hildesheim,K03254,13889
@@ -136,11 +136,11 @@ Year,Gebietseinheit,GeoCode,Value
 2007,Uelzen,K03360,2695
 2007,Verden,K03361,6576
 2007,Statistische Region Lüneburg,K033,67702
-2007,Delmenhorst  Stadt,K03401,6323
+2007,"Delmenhorst, Stadt",K03401,6323
 2007,Emden  Stadt,K03402,2663
-2007,Oldenburg(Oldb)  Stadt,K03403,9786
-2007,Osnabrück  Stadt,K03404,14631
-2007,Wilhelmshaven  Stadt,K03405,3676
+2007,"Oldenburg(Oldb), Stadt",K03403,9786
+2007,"Osnabrück, Stadt",K03404,14631
+2007,"Wilhelmshaven, Stadt",K03405,3676
 2007,Ammerland,K03451,3375
 2007,Aurich,K03452,5487
 2007,Cloppenburg,K03453,6898
@@ -155,9 +155,9 @@ Year,Gebietseinheit,GeoCode,Value
 2007,Wittmund,K03462,1242
 2007,Statistische Region Weser-Ems,K034,129389
 2007,Niedersachsen,K030,457099
-2008,Braunschweig  Stadt,K03101,19402
-2008,Salzgitter  Stadt,K03102,10191
-2008,Wolfsburg  Stadt,K03103,11824
+2008,"Braunschweig, Stadt",K03101,19402
+2008,"Salzgitter, Stadt",K03102,10191
+2008,"Wolfsburg, Stadt",K03103,11824
 2008,Gifhorn,K03151,7038
 2008,Goslar,K03153,7086
 2008,Helmstedt,K03154,3392
@@ -167,8 +167,8 @@ Year,Gebietseinheit,GeoCode,Value
 2008,Göttingen,K03159,18578
 2008,Statistische Region Braunschweig,K031,93595
 2008,Hannover  Region,K03241,112514
-2008,dav. Hannover  Lhst.,K03241001,74111
-2008,dav. Hannover  Umland,K03241999,38403
+2008,"dav. Hannover, Lhst.",K03241001,74111
+2008,"dav. Hannover, Umland",K03241999,38403
 2008,Diepholz,K03251,8105
 2008,Hameln-Pyrmont,K03252,10213
 2008,Hildesheim,K03254,13669
@@ -188,11 +188,11 @@ Year,Gebietseinheit,GeoCode,Value
 2008,Uelzen,K03360,2550
 2008,Verden,K03361,6545
 2008,Statistische Region Lüneburg,K033,67279
-2008,Delmenhorst  Stadt,K03401,6245
+2008,"Delmenhorst, Stadt",K03401,6245
 2008,Emden  Stadt,K03402,2585
-2008,Oldenburg(Oldb)  Stadt,K03403,9419
-2008,Osnabrück  Stadt,K03404,14584
-2008,Wilhelmshaven  Stadt,K03405,3618
+2008,"Oldenburg(Oldb), Stadt",K03403,9419
+2008,"Osnabrück, Stadt",K03404,14584
+2008,"Wilhelmshaven, Stadt",K03405,3618
 2008,Ammerland,K03451,3362
 2008,Aurich,K03452,5158
 2008,Cloppenburg,K03453,7296
@@ -207,9 +207,9 @@ Year,Gebietseinheit,GeoCode,Value
 2008,Wittmund,K03462,1235
 2008,Statistische Region Weser-Ems,K034,130858
 2008,Niedersachsen,K030,453141
-2009,Braunschweig  Stadt,K03101,19399
-2009,Salzgitter  Stadt,K03102,10062
-2009,Wolfsburg  Stadt,K03103,11796
+2009,"Braunschweig, Stadt",K03101,19399
+2009,"Salzgitter, Stadt",K03102,10062
+2009,"Wolfsburg, Stadt",K03103,11796
 2009,Gifhorn,K03151,7058
 2009,Goslar,K03153,7041
 2009,Helmstedt,K03154,3352
@@ -219,8 +219,8 @@ Year,Gebietseinheit,GeoCode,Value
 2009,Göttingen,K03159,18869
 2009,Statistische Region Braunschweig,K031,93485
 2009,Hannover  Region,K03241,111911
-2009,dav. Hannover  Lhst.,K03241001,73483
-2009,dav. Hannover  Umland,K03241999,38428
+2009,"dav. Hannover, Lhst.",K03241001,73483
+2009,"dav. Hannover, Umland",K03241999,38428
 2009,Diepholz,K03251,8099
 2009,Hameln-Pyrmont,K03252,10154
 2009,Hildesheim,K03254,13466
@@ -240,11 +240,11 @@ Year,Gebietseinheit,GeoCode,Value
 2009,Uelzen,K03360,2527
 2009,Verden,K03361,6485
 2009,Statistische Region Lüneburg,K033,67529
-2009,Delmenhorst  Stadt,K03401,6190
+2009,"Delmenhorst, Stadt",K03401,6190
 2009,Emden  Stadt,K03402,2360
-2009,Oldenburg(Oldb)  Stadt,K03403,9376
-2009,Osnabrück  Stadt,K03404,14554
-2009,Wilhelmshaven  Stadt,K03405,3769
+2009,"Oldenburg(Oldb), Stadt",K03403,9376
+2009,"Osnabrück, Stadt",K03404,14554
+2009,"Wilhelmshaven, Stadt",K03405,3769
 2009,Ammerland,K03451,3447
 2009,Aurich,K03452,5110
 2009,Cloppenburg,K03453,7715
@@ -259,9 +259,9 @@ Year,Gebietseinheit,GeoCode,Value
 2009,Wittmund,K03462,1231
 2009,Statistische Region Weser-Ems,K034,132319
 2009,Niedersachsen,K030,453636
-2010,Braunschweig  Stadt,K03101,19660
-2010,Salzgitter  Stadt,K03102,9810
-2010,Wolfsburg  Stadt,K03103,11804
+2010,"Braunschweig, Stadt",K03101,19660
+2010,"Salzgitter, Stadt",K03102,9810
+2010,"Wolfsburg, Stadt",K03103,11804
 2010,Gifhorn,K03151,7024
 2010,Goslar,K03153,6980
 2010,Helmstedt,K03154,3365
@@ -271,8 +271,8 @@ Year,Gebietseinheit,GeoCode,Value
 2010,Göttingen,K03159,18518
 2010,Statistische Region Braunschweig,K031,93067
 2010,Hannover  Region,K03241,112021
-2010,dav. Hannover  Lhst.,K03241001,73448
-2010,dav. Hannover  Umland,K03241999,38573
+2010,"dav. Hannover, Lhst.",K03241001,73448
+2010,"dav. Hannover, Umland",K03241999,38573
 2010,Diepholz,K03251,8183
 2010,Hameln-Pyrmont,K03252,10394
 2010,Hildesheim,K03254,13637
@@ -292,11 +292,11 @@ Year,Gebietseinheit,GeoCode,Value
 2010,Uelzen,K03360,2555
 2010,Verden,K03361,6525
 2010,Statistische Region Lüneburg,K033,67951
-2010,Delmenhorst  Stadt,K03401,6102
+2010,"Delmenhorst, Stadt",K03401,6102
 2010,Emden  Stadt,K03402,2454
-2010,Oldenburg(Oldb)  Stadt,K03403,9497
-2010,Osnabrück  Stadt,K03404,14707
-2010,Wilhelmshaven  Stadt,K03405,4274
+2010,"Oldenburg(Oldb), Stadt",K03403,9497
+2010,"Osnabrück, Stadt",K03404,14707
+2010,"Wilhelmshaven, Stadt",K03405,4274
 2010,Ammerland,K03451,3546
 2010,Aurich,K03452,5350
 2010,Cloppenburg,K03453,8442
@@ -311,9 +311,9 @@ Year,Gebietseinheit,GeoCode,Value
 2010,Wittmund,K03462,1306
 2010,Statistische Region Weser-Ems,K034,136335
 2010,Niedersachsen,K030,458153
-2011,Braunschweig  Stadt,K03101,20214
-2011,Salzgitter  Stadt,K03102,9804
-2011,Wolfsburg  Stadt,K03103,12080
+2011,"Braunschweig, Stadt",K03101,20214
+2011,"Salzgitter, Stadt",K03102,9804
+2011,"Wolfsburg, Stadt",K03103,12080
 2011,Gifhorn,K03151,7135
 2011,Goslar,K03153,7059
 2011,Helmstedt,K03154,3394
@@ -323,8 +323,8 @@ Year,Gebietseinheit,GeoCode,Value
 2011,Göttingen,K03159,18911
 2011,Statistische Region Braunschweig,K031,94569
 2011,Hannover  Region,K03241,115062
-2011,dav. Hannover  Lhst.,K03241001,75793
-2011,dav. Hannover  Umland,K03241999,39269
+2011,"dav. Hannover, Lhst.",K03241001,75793
+2011,"dav. Hannover, Umland",K03241999,39269
 2011,Diepholz,K03251,8386
 2011,Hameln-Pyrmont,K03252,10319
 2011,Hildesheim,K03254,13859
@@ -344,11 +344,11 @@ Year,Gebietseinheit,GeoCode,Value
 2011,Uelzen,K03360,2563
 2011,Verden,K03361,6554
 2011,Statistische Region Lüneburg,K033,69224
-2011,Delmenhorst  Stadt,K03401,6243
+2011,"Delmenhorst, Stadt",K03401,6243
 2011,Emden  Stadt,K03402,2487
-2011,Oldenburg(Oldb)  Stadt,K03403,9409
-2011,Osnabrück  Stadt,K03404,15209
-2011,Wilhelmshaven  Stadt,K03405,4277
+2011,"Oldenburg(Oldb), Stadt",K03403,9409
+2011,"Osnabrück, Stadt",K03404,15209
+2011,"Wilhelmshaven, Stadt",K03405,4277
 2011,Ammerland,K03451,3749
 2011,Aurich,K03452,5469
 2011,Cloppenburg,K03453,9052
@@ -363,9 +363,9 @@ Year,Gebietseinheit,GeoCode,Value
 2011,Wittmund,K03462,1409
 2011,Statistische Region Weser-Ems,K034,142571
 2011,Niedersachsen,K030,470683
-2012,Braunschweig  Stadt,K03101,20820
-2012,Salzgitter  Stadt,K03102,9918
-2012,Wolfsburg  Stadt,K03103,12680
+2012,"Braunschweig, Stadt",K03101,20820
+2012,"Salzgitter, Stadt",K03102,9918
+2012,"Wolfsburg, Stadt",K03103,12680
 2012,Gifhorn,K03151,7552
 2012,Goslar,K03153,7419
 2012,Helmstedt,K03154,3404
@@ -375,8 +375,8 @@ Year,Gebietseinheit,GeoCode,Value
 2012,Göttingen,K03159,19708
 2012,Statistische Region Braunschweig,K031,97812
 2012,Hannover  Region,K03241,119366
-2012,dav. Hannover  Lhst.,K03241001,78442
-2012,dav. Hannover  Umland,K03241999,40924
+2012,"dav. Hannover, Lhst.",K03241001,78442
+2012,"dav. Hannover, Umland",K03241999,40924
 2012,Diepholz,K03251,9184
 2012,Hameln-Pyrmont,K03252,10342
 2012,Hildesheim,K03254,14417
@@ -396,11 +396,11 @@ Year,Gebietseinheit,GeoCode,Value
 2012,Uelzen,K03360,2634
 2012,Verden,K03361,6669
 2012,Statistische Region Lüneburg,K033,71972
-2012,Delmenhorst  Stadt,K03401,6616
+2012,"Delmenhorst, Stadt",K03401,6616
 2012,Emden  Stadt,K03402,2784
-2012,Oldenburg(Oldb)  Stadt,K03403,10068
-2012,Osnabrück  Stadt,K03404,15985
-2012,Wilhelmshaven  Stadt,K03405,4499
+2012,"Oldenburg(Oldb), Stadt",K03403,10068
+2012,"Osnabrück, Stadt",K03404,15985
+2012,"Wilhelmshaven, Stadt",K03405,4499
 2012,Ammerland,K03451,4282
 2012,Aurich,K03452,5736
 2012,Cloppenburg,K03453,10700
@@ -415,9 +415,9 @@ Year,Gebietseinheit,GeoCode,Value
 2012,Wittmund,K03462,1446
 2012,Statistische Region Weser-Ems,K034,152042
 2012,Niedersachsen,K030,492072
-2013,Braunschweig  Stadt,K03101,22122
-2013,Salzgitter  Stadt,K03102,10596
-2013,Wolfsburg  Stadt,K03103,14017
+2013,"Braunschweig, Stadt",K03101,22122
+2013,"Salzgitter, Stadt",K03102,10596
+2013,"Wolfsburg, Stadt",K03103,14017
 2013,Gifhorn,K03151,7991
 2013,Goslar,K03153,7947
 2013,Helmstedt,K03154,3682
@@ -427,8 +427,8 @@ Year,Gebietseinheit,GeoCode,Value
 2013,Göttingen,K03159,20862
 2013,Statistische Region Braunschweig,K031,104548
 2013,Hannover  Region,K03241,126962
-2013,dav. Hannover  Lhst.,K03241001,82727
-2013,dav. Hannover  Umland,K03241999,44235
+2013,"dav. Hannover, Lhst.",K03241001,82727
+2013,"dav. Hannover, Umland",K03241999,44235
 2013,Diepholz,K03251,10761
 2013,Hameln-Pyrmont,K03252,10719
 2013,Hildesheim,K03254,15353
@@ -448,11 +448,11 @@ Year,Gebietseinheit,GeoCode,Value
 2013,Uelzen,K03360,3031
 2013,Verden,K03361,7060
 2013,Statistische Region Lüneburg,K033,77840
-2013,Delmenhorst  Stadt,K03401,7163
+2013,"Delmenhorst, Stadt",K03401,7163
 2013,Emden  Stadt,K03402,3219
-2013,Oldenburg(Oldb)  Stadt,K03403,10778
-2013,Osnabrück  Stadt,K03404,16602
-2013,Wilhelmshaven  Stadt,K03405,4440
+2013,"Oldenburg(Oldb), Stadt",K03403,10778
+2013,"Osnabrück, Stadt",K03404,16602
+2013,"Wilhelmshaven, Stadt",K03405,4440
 2013,Ammerland,K03451,4463
 2013,Aurich,K03452,6589
 2013,Cloppenburg,K03453,11292
@@ -467,9 +467,9 @@ Year,Gebietseinheit,GeoCode,Value
 2013,Wittmund,K03462,1651
 2013,Statistische Region Weser-Ems,K034,161729
 2013,Niedersachsen,K030,525689
-2014,Braunschweig  Stadt,K03101,23055
-2014,Salzgitter  Stadt,K03102,11620
-2014,Wolfsburg  Stadt,K03103,15224
+2014,"Braunschweig, Stadt",K03101,23055
+2014,"Salzgitter, Stadt",K03102,11620
+2014,"Wolfsburg, Stadt",K03103,15224
 2014,Gifhorn,K03151,8866
 2014,Goslar,K03153,8634
 2014,Helmstedt,K03154,4100
@@ -479,8 +479,8 @@ Year,Gebietseinheit,GeoCode,Value
 2014,Göttingen,K03159,22278
 2014,Statistische Region Braunschweig,K031,112534
 2014,Hannover  Region,K03241,136533
-2014,dav. Hannover  Lhst.,K03241001,88541
-2014,dav. Hannover  Umland,K03241999,47992
+2014,"dav. Hannover, Lhst.",K03241001,88541
+2014,"dav. Hannover, Umland",K03241999,47992
 2014,Diepholz,K03251,11631
 2014,Hameln-Pyrmont,K03252,11665
 2014,Hildesheim,K03254,16412
@@ -500,11 +500,11 @@ Year,Gebietseinheit,GeoCode,Value
 2014,Uelzen,K03360,3588
 2014,Verden,K03361,7644
 2014,Statistische Region Lüneburg,K033,85566
-2014,Delmenhorst  Stadt,K03401,8139
+2014,"Delmenhorst, Stadt",K03401,8139
 2014,Emden  Stadt,K03402,3641
-2014,Oldenburg(Oldb)  Stadt,K03403,11523
-2014,Osnabrück  Stadt,K03404,17648
-2014,Wilhelmshaven  Stadt,K03405,4698
+2014,"Oldenburg(Oldb), Stadt",K03403,11523
+2014,"Osnabrück, Stadt",K03404,17648
+2014,"Wilhelmshaven, Stadt",K03405,4698
 2014,Ammerland,K03451,4953
 2014,Aurich,K03452,7903
 2014,Cloppenburg,K03453,12969
@@ -519,9 +519,9 @@ Year,Gebietseinheit,GeoCode,Value
 2014,Wittmund,K03462,1965
 2014,Statistische Region Weser-Ems,K034,177691
 2014,Niedersachsen,K030,570988
-2015,Braunschweig  Stadt,K03101,26108
-2015,Salzgitter  Stadt,K03102,13554
-2015,Wolfsburg  Stadt,K03103,16966
+2015,"Braunschweig, Stadt",K03101,26108
+2015,"Salzgitter, Stadt",K03102,13554
+2015,"Wolfsburg, Stadt",K03103,16966
 2015,Gifhorn,K03151,9857
 2015,Goslar,K03153,10620
 2015,Helmstedt,K03154,5221
@@ -531,8 +531,8 @@ Year,Gebietseinheit,GeoCode,Value
 2015,Göttingen,K03159,25709
 2015,Statistische Region Braunschweig,K031,130933
 2015,Hannover  Region,K03241,154696
-2015,dav. Hannover  Lhst.,K03241001,97357
-2015,dav. Hannover  Umland,K03241999,57339
+2015,"dav. Hannover, Lhst.",K03241001,97357
+2015,"dav. Hannover, Umland",K03241999,57339
 2015,Diepholz,K03251,13826
 2015,Hameln-Pyrmont,K03252,13461
 2015,Hildesheim,K03254,19567
@@ -552,11 +552,11 @@ Year,Gebietseinheit,GeoCode,Value
 2015,Uelzen,K03360,4184
 2015,Verden,K03361,9177
 2015,Statistische Region Lüneburg,K033,101355
-2015,Delmenhorst  Stadt,K03401,10029
+2015,"Delmenhorst, Stadt",K03401,10029
 2015,Emden  Stadt,K03402,4576
-2015,Oldenburg(Oldb)  Stadt,K03403,13579
-2015,Osnabrück  Stadt,K03404,19421
-2015,Wilhelmshaven  Stadt,K03405,5979
+2015,"Oldenburg(Oldb), Stadt",K03403,13579
+2015,"Osnabrück, Stadt",K03404,19421
+2015,"Wilhelmshaven, Stadt",K03405,5979
 2015,Ammerland,K03451,6084
 2015,Aurich,K03452,9789
 2015,Cloppenburg,K03453,14893
@@ -571,9 +571,9 @@ Year,Gebietseinheit,GeoCode,Value
 2015,Wittmund,K03462,2558
 2015,Statistische Region Weser-Ems,K034,207956
 2015,Niedersachsen,K030,663817
-2016,Braunschweig  Stadt,K03101,28200
-2016,Salzgitter  Stadt,K03102,16885
-2016,Wolfsburg  Stadt,K03103,17770
+2016,"Braunschweig, Stadt",K03101,28200
+2016,"Salzgitter, Stadt",K03102,16885
+2016,"Wolfsburg, Stadt",K03103,17770
 2016,Gifhorn,K03151,10840
 2016,Goslar,K03153,11745
 2016,Helmstedt,K03154,6230
@@ -583,8 +583,8 @@ Year,Gebietseinheit,GeoCode,Value
 2016,Göttingen,K03159,28035
 2016,Statistische Region Braunschweig,K031,145155
 2016,Hannover  Region,K03241,168735
-2016,dav. Hannover  Lhst.,K03241001,104465
-2016,dav. Hannover  Umland,K03241999,64270
+2016,"dav. Hannover, Lhst.",K03241001,104465
+2016,"dav. Hannover, Umland",K03241999,64270
 2016,Diepholz,K03251,15540
 2016,Hameln-Pyrmont,K03252,15065
 2016,Hildesheim,K03254,21915
@@ -604,11 +604,11 @@ Year,Gebietseinheit,GeoCode,Value
 2016,Uelzen,K03360,5020
 2016,Verden,K03361,10055
 2016,Statistische Region Lüneburg,K033,116020
-2016,Delmenhorst  Stadt,K03401,11225
+2016,"Delmenhorst, Stadt",K03401,11225
 2016,Emden  Stadt,K03402,4955
-2016,Oldenburg(Oldb)  Stadt,K03403,15440
-2016,Osnabrück  Stadt,K03404,22855
-2016,Wilhelmshaven  Stadt,K03405,6925
+2016,"Oldenburg(Oldb), Stadt",K03403,15440
+2016,"Osnabrück, Stadt",K03404,22855
+2016,"Wilhelmshaven, Stadt",K03405,6925
 2016,Ammerland,K03451,7130
 2016,Aurich,K03452,11055
 2016,Cloppenburg,K03453,17345
@@ -623,9 +623,9 @@ Year,Gebietseinheit,GeoCode,Value
 2016,Wittmund,K03462,2560
 2016,Statistische Region Weser-Ems,K034,236470
 2016,Niedersachsen,K030,745185
-2017,Braunschweig  Stadt,K03101,28420
-2017,Salzgitter  Stadt,K03102,18835
-2017,Wolfsburg  Stadt,K03103,18420
+2017,"Braunschweig, Stadt",K03101,28420
+2017,"Salzgitter, Stadt",K03102,18835
+2017,"Wolfsburg, Stadt",K03103,18420
 2017,Gifhorn,K03151,11140
 2017,Goslar,K03153,12780
 2017,Helmstedt,K03154,6415
@@ -635,8 +635,8 @@ Year,Gebietseinheit,GeoCode,Value
 2017,Göttingen,K03159,28955
 2017,Statistische Region Braunschweig,K031,151170
 2017,Hannover  Region,K03241,175170
-2017,dav. Hannover  Lhst.,K03241001,107965
-2017,dav. Hannover  Umland,K03241999,67205
+2017,"dav. Hannover, Lhst.",K03241001,107965
+2017,"dav. Hannover, Umland",K03241999,67205
 2017,Diepholz,K03251,16065
 2017,Hameln-Pyrmont,K03252,15795
 2017,Hildesheim,K03254,22775
@@ -656,11 +656,11 @@ Year,Gebietseinheit,GeoCode,Value
 2017,Uelzen,K03360,5335
 2017,Verden,K03361,10510
 2017,Statistische Region Lüneburg,K033,120060
-2017,Delmenhorst  Stadt,K03401,12410
+2017,"Delmenhorst, Stadt",K03401,12410
 2017,Emden  Stadt,K03402,5420
-2017,Oldenburg(Oldb)  Stadt,K03403,16595
-2017,Osnabrück  Stadt,K03404,23915
-2017,Wilhelmshaven  Stadt,K03405,7820
+2017,"Oldenburg(Oldb), Stadt",K03403,16595
+2017,"Osnabrück, Stadt",K03404,23915
+2017,"Wilhelmshaven, Stadt",K03405,7820
 2017,Ammerland,K03451,7600
 2017,Aurich,K03452,11200
 2017,Cloppenburg,K03453,17050
@@ -675,9 +675,9 @@ Year,Gebietseinheit,GeoCode,Value
 2017,Wittmund,K03462,2595
 2017,Statistische Region Weser-Ems,K034,247925
 2017,Niedersachsen,K030,776860
-2018,Braunschweig  Stadt,K03101,29730
-2018,Salzgitter  Stadt,K03102,19850
-2018,Wolfsburg  Stadt,K03103,19325
+2018,"Braunschweig, Stadt",K03101,29730
+2018,"Salzgitter, Stadt",K03102,19850
+2018,"Wolfsburg, Stadt",K03103,19325
 2018,Gifhorn,K03151,11810
 2018,Goslar,K03153,13455
 2018,Helmstedt,K03154,6485
@@ -687,8 +687,8 @@ Year,Gebietseinheit,GeoCode,Value
 2018,Göttingen,K03159,30170
 2018,Statistische Region Braunschweig,K031,158180
 2018,Hannover  Region,K03241,181570
-2018,dav. Hannover  Lhst.,K03241001,111255
-2018,dav. Hannover  Umland,K03241999,70315
+2018,"dav. Hannover, Lhst.",K03241001,111255
+2018,"dav. Hannover, Umland",K03241999,70315
 2018,Diepholz,K03251,17565
 2018,Hameln-Pyrmont,K03252,16535
 2018,Hildesheim,K03254,24090
@@ -708,11 +708,11 @@ Year,Gebietseinheit,GeoCode,Value
 2018,Uelzen,K03360,5605
 2018,Verden,K03361,10975
 2018,Statistische Region Lüneburg,K033,126195
-2018,Delmenhorst  Stadt,K03401,12970
+2018,"Delmenhorst, Stadt",K03401,12970
 2018,Emden  Stadt,K03402,5530
-2018,Oldenburg(Oldb)  Stadt,K03403,17365
-2018,Osnabrück  Stadt,K03404,24470
-2018,Wilhelmshaven  Stadt,K03405,8410
+2018,"Oldenburg(Oldb), Stadt",K03403,17365
+2018,"Osnabrück, Stadt",K03404,24470
+2018,"Wilhelmshaven, Stadt",K03405,8410
 2018,Ammerland,K03451,8075
 2018,Aurich,K03452,11515
 2018,Cloppenburg,K03453,18915
@@ -727,9 +727,9 @@ Year,Gebietseinheit,GeoCode,Value
 2018,Wittmund,K03462,2675
 2018,Statistische Region Weser-Ems,K034,260205
 2018,Niedersachsen,K030,813080
-2019,Braunschweig  Stadt,K03101,31445
-2019,Salzgitter  Stadt,K03102,20175
-2019,Wolfsburg  Stadt,K03103,20160
+2019,"Braunschweig, Stadt",K03101,31445
+2019,"Salzgitter, Stadt",K03102,20175
+2019,"Wolfsburg, Stadt",K03103,20160
 2019,Gifhorn,K03151,12330
 2019,Goslar,K03153,14020
 2019,Helmstedt,K03154,6535
@@ -739,8 +739,8 @@ Year,Gebietseinheit,GeoCode,Value
 2019,Göttingen,K03159,32090
 2019,Statistische Region Braunschweig,K031,165000
 2019,Hannover  Region,K03241,185310
-2019,dav. Hannover  Lhst.,K03241001,113440
-2019,dav. Hannover  Umland,K03241999,71870
+2019,"dav. Hannover, Lhst.",K03241001,113440
+2019,"dav. Hannover, Umland",K03241999,71870
 2019,Diepholz,K03251,18545
 2019,Hameln-Pyrmont,K03252,16910
 2019,Hildesheim,K03254,24995
@@ -760,11 +760,11 @@ Year,Gebietseinheit,GeoCode,Value
 2019,Uelzen,K03360,5765
 2019,Verden,K03361,11175
 2019,Statistische Region Lüneburg,K033,132025
-2019,Delmenhorst  Stadt,K03401,13220
+2019,"Delmenhorst, Stadt",K03401,13220
 2019,Emden  Stadt,K03402,5675
-2019,Oldenburg(Oldb)  Stadt,K03403,18285
-2019,Osnabrück  Stadt,K03404,25290
-2019,Wilhelmshaven  Stadt,K03405,8785
+2019,"Oldenburg(Oldb), Stadt",K03403,18285
+2019,"Osnabrück, Stadt",K03404,25290
+2019,"Wilhelmshaven, Stadt",K03405,8785
 2019,Ammerland,K03451,8525
 2019,Aurich,K03452,11480
 2019,Cloppenburg,K03453,18890
@@ -779,9 +779,9 @@ Year,Gebietseinheit,GeoCode,Value
 2019,Wittmund,K03462,2745
 2019,Statistische Region Weser-Ems,K034,269505
 2019,Niedersachsen,K030,841165
-2020,Braunschweig  Stadt,K03101,30950
-2020,Salzgitter  Stadt,K03102,20785
-2020,Wolfsburg  Stadt,K03103,20265
+2020,"Braunschweig, Stadt",K03101,30950
+2020,"Salzgitter, Stadt",K03102,20785
+2020,"Wolfsburg, Stadt",K03103,20265
 2020,Gifhorn,K03151,12955
 2020,Goslar,K03153,13830
 2020,Helmstedt,K03154,6760
@@ -791,8 +791,8 @@ Year,Gebietseinheit,GeoCode,Value
 2020,Göttingen,K03159,32265
 2020,Statistische Region Braunschweig,K031,166960
 2020,Hannover  Region,K03241,185675
-2020,dav. Hannover  Lhst.,K03241001,112125
-2020,dav. Hannover  Umland,K03241999,73550
+2020,"dav. Hannover, Lhst.",K03241001,112125
+2020,"dav. Hannover, Umland",K03241999,73550
 2020,Diepholz,K03251,19395
 2020,Hameln-Pyrmont,K03252,17460
 2020,Hildesheim,K03254,25525
@@ -812,11 +812,11 @@ Year,Gebietseinheit,GeoCode,Value
 2020,Uelzen,K03360,6015
 2020,Verden,K03361,11465
 2020,Statistische Region Lüneburg,K033,135635
-2020,Delmenhorst  Stadt,K03401,13710
+2020,"Delmenhorst, Stadt",K03401,13710
 2020,Emden  Stadt,K03402,6040
-2020,Oldenburg(Oldb)  Stadt,K03403,19145
-2020,Osnabrück  Stadt,K03404,25420
-2020,Wilhelmshaven  Stadt,K03405,8800
+2020,"Oldenburg(Oldb), Stadt",K03403,19145
+2020,"Osnabrück, Stadt",K03404,25420
+2020,"Wilhelmshaven, Stadt",K03405,8800
 2020,Ammerland,K03451,8735
 2020,Aurich,K03452,11465
 2020,Cloppenburg,K03453,20565
@@ -831,3 +831,55 @@ Year,Gebietseinheit,GeoCode,Value
 2020,Wittmund,K03462,2915
 2020,Statistische Region Weser-Ems,K034,277435
 2020,Niedersachsen,K030,857895
+2021,"Braunschweig, Stadt",K03101,31265
+2021,"Salzgitter, Stadt",K03102,21720
+2021,"Wolfsburg, Stadt",K03103,20990
+2021,Gifhorn,K03151,13625
+2021,Goslar,K03153,13915
+2021,Helmstedt,K03154,7070
+2021,Northeim,K03155,9585
+2021,Peine,K03157,12765
+2021,Wolfenbüttel,K03158,8110
+2021,Göttingen,K03159,33150
+2021,Statistische Region Braunschweig,K031,172190
+2021,Hannover  Region,K03241,196980
+2021,"dav. Hannover, Lhst.",K03241001,115925
+2021,"dav. Hannover, Umland",K03241999,81055
+2021,Diepholz,K03251,20590
+2021,Hameln-Pyrmont,K03252,18305
+2021,Hildesheim,K03254,26280
+2021,Holzminden,K03255,4755
+2021,Nienburg (Weser),K03256,11150
+2021,Schaumburg,K03257,14965
+2021,Statistische Region Hannover,K032,293030
+2021,Celle,K03351,14805
+2021,Cuxhaven,K03352,13655
+2021,Harburg,K03353,24960
+2021,Lüchow-Dannenberg,K03354,3010
+2021,Lüneburg,K03355,13480
+2021,Osterholz,K03356,7280
+2021,Rotenburg (Wümme),K03357,12590
+2021,Heidekreis,K03358,13670
+2021,Stade,K03359,20585
+2021,Uelzen,K03360,6380
+2021,Verden,K03361,12145
+2021,Statistische Region Lüneburg,K033,142560
+2021,"Delmenhorst, Stadt",K03401,14365
+2021,Emden  Stadt,K03402,6105
+2021,"Oldenburg(Oldb), Stadt",K03403,19760
+2021,"Osnabrück, Stadt",K03404,26045
+2021,"Wilhelmshaven, Stadt",K03405,9220
+2021,Ammerland,K03451,8700
+2021,Aurich,K03452,11805
+2021,Cloppenburg,K03453,22630
+2021,Emsland,K03454,42740
+2021,Friesland,K03455,5110
+2021,Grafschaft Bentheim,K03456,23650
+2021,Leer,K03457,15790
+2021,Oldenburg,K03458,13260
+2021,Osnabrück,K03459,35350
+2021,Vechta,K03460,22130
+2021,Wesermarsch,K03461,7975
+2021,Wittmund,K03462,3085
+2021,Statistische Region Weser-Ems,K034,287715
+2021,Niedersachsen,K030,895490
