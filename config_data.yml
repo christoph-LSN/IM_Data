@@ -101,14 +101,15 @@ reporting_status_extra_fields: []
 #    filename_prefix: indicator_
 
 #    name_property: GEN
+    # name_from_data_column: Gebietseinheit
 
 map_layers:
   - geojson_file: NI_Kurz_diss.geojson
-    name_from_data_column: Gebietseinheit
+    name_property: GEN
     id_property: AGS
     output_subfolder: map
     filename_prefix: indicator_
-#    exclude_columns: ['Gebietseinheit']
+    exclude_columns: ['Gebietseinheit']
   - geojson_file: NI_MZ.geojson #maps\NI_Kurz_Mikrozensus_Diss.geojson
     name_property: GENMZ
     id_property: AGSMZ
