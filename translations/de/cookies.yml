@@ -1,10 +1,10 @@
 cookie_settings: Cookie Einstellungen
 all_required_notice: Es werden zwei essentielle Cookies gespeichert.
-all_required_ok: OK
+all_required_ok: Ok
 acceptAll: Alle Akzeptieren
 acceptSelected: Ausgewählte Cookies akzeptieren
 close: Schließen
-consentModal_description: Here you can change which cookies you're happy for us to use.
+consentModal_description: Hier können Sie die Cookie-Einstellungen ändern.
 consentModal_title: Cookie Einstellungen
 consentNotice_changeDescription: Die Cookie Einstellungen haben sich seit dem letzten Besuch geändert. Bitte erneut einstellen.
 consentNotice_description: We use some essential cookies to make this service work. We’d also like to use {purposes} so we can understand how you use the service and make improvements.
@@ -20,8 +20,8 @@ privacyPolicy_name: <a href="https://wohnungnds.github.io/IM_Site/imprint/">Impr
 privacyPolicy_text: <a href="https://wohnungnds.github.io/IM_Site/imprint/">Impressum</a>
 purposeItem_service: service
 purposeItem_services: services
-purposes_functional_description: Essential cookies keep your information secure, and do things like remember your preferences and the choices you make whilst you use the website. They always need to be on.
-purposes_functional_title: Essential cookies
+purposes_functional_description: Notwendige Cookies erleichtern die Nutzung der Seite und speichern lediglich die Auswahl des Hintergrundkontrastes.
+purposes_functional_title: Notwendige Cookies
 purposes_performance_description: These services process personal information to optimize the service that this website offers.
 purposes_performance_title: Performance optimization
 purposes_analytics_description: These services collect information about how you use the website. We use this data to help make the website better.
@@ -36,7 +36,7 @@ service_purposes: purposes
 service_required_description: This service is always required
 service_required_title: (always required)
 contrast_description: Retains active state of accessibility services
-contrast_title: Accessibility mode
+contrast_title: Hintergrundkontrast
 google_analytics_description: Collects information about page visits using Google Analytics
 google_analytics_title: Google Analytics
 cookie_settings_description: Saves your cookie consent settings
