@@ -18,8 +18,8 @@ ok: Cookies akzeptieren
 poweredBy: Realized with Klaro!
 privacyPolicy_name: <a href="https://wohnungnds.github.io/IM_Site/imprint/">Impressum</a>
 privacyPolicy_text: <a href="https://wohnungnds.github.io/IM_Site/imprint/">Impressum</a>
-purposeItem_service: service
-purposeItem_services: services
+purposeItem_service: Cookie
+purposeItem_services: Cookies
 purposes_functional_description: Notwendige Cookies erleichtern die Nutzung der Seite und speichern lediglich die Auswahl des Hintergrundkontrastes.
 purposes_functional_title: Notwendige Cookies
 purposes_performance_description: These services process personal information to optimize the service that this website offers.
@@ -31,11 +31,11 @@ service_disableAll_description: Use this switch to enable or disable all service
 service_disableAll_title: Enable or disable all services
 service_optOut_description: This services is loaded by default (but you can opt out)
 service_optOut_title: (opt-out)
-service_purpose: purpose
-service_purposes: purposes
+service_purpose: Zweck
+service_purposes: Zwecke
 service_required_description: This service is always required
-service_required_title: (always required)
-contrast_description: Retains active state of accessibility services
+service_required_title: (notwendig)
+contrast_description:
 contrast_title: Hintergrundkontrast
 google_analytics_description: Collects information about page visits using Google Analytics
 google_analytics_title: Google Analytics
