@@ -6,10 +6,10 @@ Bundesgebiet,6,2
 Celle,12,2
 Cloppenburg,12,2
 Cuxhaven,12,2
-dav. Hannover Landeshauptstadt,9,1
+"  dav. Hannover, Landeshauptstadt",1,1
 dav. Hannover  Lhst.,12,2
 dav. Hannover  Umland,18,3
-dav. Hannover Umland,9,1
+"  dav. Hannover, Umland",1,1
 Delmenhorst  Stadt,12,2
 Deutschland,11,2
 Diepholz,12,2
@@ -28,26 +28,27 @@ Heidekreis,12,2
 Helmstedt,12,2
 Hildesheim,12,2
 Holzminden,12,2
+in 1000,136,1
 Leer,12,2
 Lüchow-Dannenberg,12,2
 Lüneburg,12,2
-Mittelniedersachsen,9,1
-Niedersachsen,247,39
+Mittelniedersachsen,1,1
+Niedersachsen,248,39
 Nienburg (Weser),12,2
-Nordniedersachsen,9,1
-Nordostniedersachsen,9,1
+Nordniedersachsen,1,1
+Nordostniedersachsen,1,1
 Northeim,12,2
 Oldenburg,12,2
-Oldenburger Raum,9,1
+Oldenburger Raum,1,1
 Oldenburg(Oldb)  Stadt,12,2
 Osnabrück  Stadt,12,2
 Osnabrück,12,2
 Osterholz,12,2
 Osterode,12,2
-Ostfriesland-Nordseeküste,9,1
-Ostniedersachsen,9,1
+Ostfriesland-Nordseeküste,1,1
+Ostniedersachsen,1,1
 Peine,12,2
-Region Hannover,9,1
+Region Hannover,10,1
 Rotenburg (Wümme),12,2
 Salzgitter  Stadt,12,2
 Schaumburg,12,2
@@ -56,17 +57,17 @@ Stat. Region Braunschweig,8,2
 Stat. Region Hannover,8,2
 Stat. Region Lüneburg,8,2
 Stat. Region Weser-Ems,8,2
-Statistische Region Braunschweig,193,31
-Statistische Region Hannover,193,31
-Statistische Region Lüneburg,193,31
-Statistische Region Weser-Ems,193,31
-Südniedersachsen,9,1
+Statistische Region Braunschweig,194,31
+Statistische Region Hannover,194,31
+Statistische Region Lüneburg,194,31
+Statistische Region Weser-Ems,194,31
+Südniedersachsen,1,1
 Uelzen,12,2
 Vechta,12,2
 Verden,12,2
-Weser-Leine-Bergland,9,1
+Weser-Leine-Bergland,1,1
 Wesermarsch,12,2
-Westniedersachsen,9,1
+Westniedersachsen,1,1
 Wilhelmshaven  Stadt,12,2
 Wittmund,12,2
 Wolfenbüttel,12,2
