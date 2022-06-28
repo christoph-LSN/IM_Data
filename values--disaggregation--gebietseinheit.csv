@@ -1,50 +1,54 @@
 Value,Disaggregation combinations using this value,Number of indicators
-Ammerland,12,2
-Aurich,12,2
+Ammerland,15,3
+Aurich,15,3
+"Braunschweig, Stadt",3,1
 Braunschweig  Stadt,12,2
 Bundesgebiet,6,2
-Celle,12,2
-Cloppenburg,12,2
-Cuxhaven,12,2
+Celle,15,3
+Cloppenburg,15,3
+Cuxhaven,15,3
 dav. Hannover  Lhst.,12,2
 dav. Hannover  Umland,18,3
+"Delmenhorst, Stadt",3,1
 Delmenhorst  Stadt,12,2
 Deutschland,11,2
-Diepholz,12,2
+Diepholz,15,3
 Emden  Stadt / Leer,6,1
-Emden  Stadt,12,2
-Emsland,12,2
-Friesland,12,2
-Gifhorn,12,2
-Goslar,12,2
-Grafschaft Bentheim,12,2
-Göttingen,12,2
-Hameln-Pyrmont,12,2
-Hannover  Region,182,27
-Hannover Region,4,4
-Harburg,12,2
-Heidekreis,12,2
-Helmstedt,12,2
-Hildesheim,12,2
-Holzminden,12,2
-Leer,12,2
-Lüchow-Dannenberg,12,2
-Lüneburg,12,2
+Emden  Stadt,15,3
+Emsland,15,3
+Friesland,15,3
+Gifhorn,15,3
+Goslar,15,3
+Grafschaft Bentheim,15,3
+Göttingen,15,3
+Hameln-Pyrmont,15,3
+Hannover  Region,15,3
+Harburg,15,3
+Heidekreis,15,3
+Helmstedt,15,3
+Hildesheim,15,3
+Holzminden,15,3
+Leer,15,3
+Lüchow-Dannenberg,15,3
+Lüneburg,15,3
 Niedersachsen,250,40
-Nienburg (Weser),12,2
-Northeim,12,2
-Oldenburg,12,2
+Nienburg (Weser),15,3
+Northeim,15,3
+Oldenburg,15,3
+"Oldenburg(Oldb), Stadt",3,1
 Oldenburg(Oldb)  Stadt,12,2
+"Osnabrück, Stadt",3,1
 Osnabrück  Stadt,12,2
-Osnabrück,12,2
-Osterholz,12,2
+Osnabrück,15,3
+Osterholz,15,3
 Osterode,12,2
-Peine,12,2
+Peine,15,3
 Region Hannover,9,1
-Rotenburg (Wümme),12,2
+Rotenburg (Wümme),15,3
+"Salzgitter, Stadt",3,1
 Salzgitter  Stadt,12,2
-Schaumburg,12,2
-Stade,12,2
+Schaumburg,15,3
+Stade,15,3
 Stat. Region Braunschweig,8,2
 Stat. Region Hannover,8,2
 Stat. Region Lüneburg,8,2
@@ -53,11 +57,13 @@ Statistische Region Braunschweig,196,32
 Statistische Region Hannover,196,32
 Statistische Region Lüneburg,196,32
 Statistische Region Weser-Ems,196,32
-Uelzen,12,2
-Vechta,12,2
-Verden,12,2
-Wesermarsch,12,2
+Uelzen,15,3
+Vechta,15,3
+Verden,15,3
+Wesermarsch,15,3
+"Wilhelmshaven, Stadt",3,1
 Wilhelmshaven  Stadt,12,2
-Wittmund,12,2
-Wolfenbüttel,12,2
+Wittmund,15,3
+Wolfenbüttel,15,3
+"Wolfsburg, Stadt",3,1
 Wolfsburg  Stadt,12,2
