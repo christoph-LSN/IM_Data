@@ -3474,7 +3474,7 @@
       },
       "properties": {
         "AGSRH": "RH03359",
-        "GEN": "Stade"
+        "GENRH": "Stade"
       }
     },
     {
@@ -6560,7 +6560,7 @@
       },
       "properties": {
         "AGSRH": "RH03358",
-        "GEN": "Heidekreis"
+        "GENRH": "Heidekreis"
       }
     },
     {
@@ -9318,7 +9318,7 @@
       },
       "properties": {
         "AGSRH": "RH03357",
-        "GEN": "Rotenburg (Wümme)"
+        "GENRH": "Rotenburg (Wümme)"
       }
     },
     {
@@ -11180,7 +11180,7 @@
       },
       "properties": {
         "AGSRH": "RH03356",
-        "GEN": "Osterholz"
+        "GENRH": "Osterholz"
       }
     },
     {
@@ -13898,7 +13898,7 @@
       },
       "properties": {
         "AGSRH": "RH03355",
-        "GEN": "Lüneburg"
+        "GENRH": "Lüneburg"
       }
     },
     {
@@ -14630,7 +14630,7 @@
       },
       "properties": {
         "AGSRH": "RH04012",
-        "GEN": "Bremerhaven"
+        "GENRH": "Bremerhaven"
       }
     },
     {
@@ -16824,7 +16824,7 @@
       },
       "properties": {
         "AGSRH": "RH03354",
-        "GEN": "Lüchow-Dannenberg"
+        "GENRH": "Lüchow-Dannenberg"
       }
     },
     {
@@ -18712,7 +18712,7 @@
       },
       "properties": {
         "AGSRH": "RH04011",
-        "GEN": "Bremen"
+        "GENRH": "Bremen"
       }
     },
     {
@@ -20766,7 +20766,7 @@
       },
       "properties": {
         "AGSRH": "RH03353",
-        "GEN": "Harburg"
+        "GENRH": "Harburg"
       }
     },
     {
@@ -21776,7 +21776,7 @@
       },
       "properties": {
         "AGSRH": "RH03103",
-        "GEN": "Wolfsburg"
+        "GENRH": "Wolfsburg"
       }
     },
     {
@@ -25374,7 +25374,7 @@
       },
       "properties": {
         "AGSRH": "RH03459",
-        "GEN": "Osnabrück"
+        "GENRH": "Osnabrück"
       }
     },
     {
@@ -28742,7 +28742,7 @@
       },
       "properties": {
         "AGSRH": "RH03352",
-        "GEN": "Cuxhaven"
+        "GENRH": "Cuxhaven"
       }
     },
     {
@@ -29744,7 +29744,7 @@
       },
       "properties": {
         "AGSRH": "RH03102",
-        "GEN": "Salzgitter"
+        "GENRH": "Salzgitter"
       }
     },
     {
@@ -31562,7 +31562,7 @@
       },
       "properties": {
         "AGSRH": "RH03458",
-        "GEN": "Oldenburg"
+        "GENRH": "Oldenburg"
       }
     },
     {
@@ -33324,7 +33324,7 @@
       },
       "properties": {
         "AGSRH": "RH03351",
-        "GEN": "Celle"
+        "GENRH": "Celle"
       }
     },
     {
@@ -34314,7 +34314,7 @@
       },
       "properties": {
         "AGSRH": "RH03101",
-        "GEN": "Braunschweig"
+        "GENRH": "Braunschweig"
       }
     },
     {
@@ -36606,7 +36606,7 @@
       },
       "properties": {
         "AGSRH": "RH03457",
-        "GEN": "Leer"
+        "GENRH": "Leer"
       }
     },
     {
@@ -37884,7 +37884,7 @@
       },
       "properties": {
         "AGSRH": "RH03456",
-        "GEN": "Grafschaft Bentheim"
+        "GENRH": "Grafschaft Bentheim"
       }
     },
     {
@@ -40500,7 +40500,7 @@
       },
       "properties": {
         "AGSRH": "RH03455",
-        "GEN": "Friesland"
+        "GENRH": "Friesland"
       }
     },
     {
@@ -42506,7 +42506,7 @@
       },
       "properties": {
         "AGSRH": "RH03454",
-        "GEN": "Emsland"
+        "GENRH": "Emsland"
       }
     },
     {
@@ -46288,7 +46288,7 @@
       },
       "properties": {
         "AGSRH": "RH03241",
-        "GEN": "Region Hannover"
+        "GENRH": "Region Hannover"
       }
     },
     {
@@ -48634,7 +48634,7 @@
       },
       "properties": {
         "AGSRH": "RH03453",
-        "GEN": "Cloppenburg"
+        "GENRH": "Cloppenburg"
       }
     },
     {
@@ -52422,7 +52422,7 @@
       },
       "properties": {
         "AGSRH": "RH03452",
-        "GEN": "Aurich"
+        "GENRH": "Aurich"
       }
     },
     {
@@ -53668,7 +53668,7 @@
       },
       "properties": {
         "AGSRH": "RH03451",
-        "GEN": "Ammerland"
+        "GENRH": "Ammerland"
       }
     },
     {
@@ -56150,7 +56150,7 @@
       },
       "properties": {
         "AGSRH": "RH03361",
-        "GEN": "Verden"
+        "GENRH": "Verden"
       }
     },
     {
@@ -57482,7 +57482,7 @@
       },
       "properties": {
         "AGSRH": "RH03360",
-        "GEN": "Uelzen"
+        "GENRH": "Uelzen"
       }
     },
     {
@@ -62228,7 +62228,7 @@
       },
       "properties": {
         "AGSRH": "RH03159",
-        "GEN": "Göttingen"
+        "GENRH": "GöttinGENRH"
       }
     },
     {
@@ -64252,7 +64252,7 @@
       },
       "properties": {
         "AGSRH": "RH03158",
-        "GEN": "Wolfenbüttel"
+        "GENRH": "Wolfenbüttel"
       }
     },
     {
@@ -65710,7 +65710,7 @@
       },
       "properties": {
         "AGSRH": "RH03157",
-        "GEN": "Peine"
+        "GENRH": "Peine"
       }
     },
     {
@@ -67914,7 +67914,7 @@
       },
       "properties": {
         "AGSRH": "RH03155",
-        "GEN": "Northeim"
+        "GENRH": "Northeim"
       }
     },
     {
@@ -70432,7 +70432,7 @@
       },
       "properties": {
         "AGSRH": "RH03154",
-        "GEN": "Helmstedt"
+        "GENRH": "Helmstedt"
       }
     },
     {
@@ -73470,7 +73470,7 @@
       },
       "properties": {
         "AGSRH": "RH03153",
-        "GEN": "Goslar"
+        "GENRH": "Goslar"
       }
     },
     {
@@ -75900,7 +75900,7 @@
       },
       "properties": {
         "AGSRH": "RH03257",
-        "GEN": "Schaumburg"
+        "GENRH": "Schaumburg"
       }
     },
     {
@@ -78546,7 +78546,7 @@
       },
       "properties": {
         "AGSRH": "RH03151",
-        "GEN": "Gifhorn"
+        "GENRH": "Gifhorn"
       }
     },
     {
@@ -81608,7 +81608,7 @@
       },
       "properties": {
         "AGSRH": "RH03256",
-        "GEN": "Nienburg (Weser)"
+        "GENRH": "Nienburg (Weser)"
       }
     },
     {
@@ -82146,7 +82146,7 @@
       },
       "properties": {
         "AGSRH": "RH03405",
-        "GEN": "Wilhelmshaven"
+        "GENRH": "Wilhelmshaven"
       }
     },
     {
@@ -84232,7 +84232,7 @@
       },
       "properties": {
         "AGSRH": "RH03255",
-        "GEN": "Holzminden"
+        "GENRH": "Holzminden"
       }
     },
     {
@@ -84934,7 +84934,7 @@
       },
       "properties": {
         "AGSRH": "RH03404",
-        "GEN": "Osnabrück"
+        "GENRH": "Osnabrück"
       }
     },
     {
@@ -87304,7 +87304,7 @@
       },
       "properties": {
         "AGSRH": "RH03254",
-        "GEN": "Hildesheim"
+        "GENRH": "Hildesheim"
       }
     },
     {
@@ -87782,7 +87782,7 @@
       },
       "properties": {
         "AGSRH": "RH03403",
-        "GEN": "Oldenburg (Oldb)"
+        "GENRH": "Oldenburg (Oldb)"
       }
     },
     {
@@ -88216,7 +88216,7 @@
       },
       "properties": {
         "AGSRH": "RH03402",
-        "GEN": "Emden"
+        "GENRH": "Emden"
       }
     },
     {
@@ -90358,7 +90358,7 @@
       },
       "properties": {
         "AGSRH": "RH03252",
-        "GEN": "Hameln-Pyrmont"
+        "GENRH": "Hameln-Pyrmont"
       }
     },
     {
@@ -90808,7 +90808,7 @@
       },
       "properties": {
         "AGSRH": "RH03401",
-        "GEN": "Delmenhorst"
+        "GENRH": "Delmenhorst"
       }
     },
     {
@@ -93554,7 +93554,7 @@
       },
       "properties": {
         "AGSRH": "RH03251",
-        "GEN": "Diepholz"
+        "GENRH": "Diepholz"
       }
     },
     {
@@ -95986,7 +95986,7 @@
       },
       "properties": {
         "AGSRH": "RH03462",
-        "GEN": "Wittmund"
+        "GENRH": "Wittmund"
       }
     },
     {
@@ -98080,7 +98080,7 @@
       },
       "properties": {
         "AGSRH": "RH03461",
-        "GEN": "Wesermarsch"
+        "GENRH": "Wesermarsch"
       }
     },
     {
@@ -99658,7 +99658,7 @@
       },
       "properties": {
         "AGSRH": "RH03460",
-        "GEN": "Vechta"
+        "GENRH": "Vechta"
       }
     }
   ]
