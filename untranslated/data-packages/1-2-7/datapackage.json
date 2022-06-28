@@ -90,7 +90,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "%",
+                "Jahre",
                 ""
               ]
             }
