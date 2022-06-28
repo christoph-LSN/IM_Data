@@ -128,12 +128,12 @@ map_layers:
     output_subfolder: Regionale Anpassungsschichten
     filename_prefix: indicator_
     exclude_columns: ['Gebietseinheit']
-#  - geojson_file: NI_Region_Hannover.geojson #maps\NI_Kurz_Mikrozensus_Diss.geojson
-#    name_property: GEN
-#    id_property: AGSRH
-#    output_subfolder: NI_Hannover_Region
-#    filename_prefix: indicator_
-#    exclude_columns: ['Gebietseinheit']
+  - geojson_file: NI_Region_Hannover.geojson #maps\NI_Kurz_Mikrozensus_Diss.geojson
+    name_property: GEN
+    id_property: AGSRH
+    output_subfolder: NI_Hannover_Region
+    filename_prefix: indicator_
+    exclude_columns: ['Gebietseinheit']
 
 
 
