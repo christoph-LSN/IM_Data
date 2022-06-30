@@ -16,20 +16,19 @@
             "title": "Jahr"
           },
           {
-            "name": "Altersgruppe mit Komma, dazwischen",
+            "name": "Altersgruppe",
             "type": "string",
             "constraints": {
               "enum": [
-                "18 –Komma,Komma 25",
+                "18 – 25",
                 "25 – 45",
                 "45 – 65",
                 "65 und älter",
                 "Insgesamt",
-                "18 – 25",
                 ""
               ]
             },
-            "title": "Altersgruppe mit Komma, dazwischen"
+            "title": "Altersgruppe"
           },
           {
             "name": "Units",
