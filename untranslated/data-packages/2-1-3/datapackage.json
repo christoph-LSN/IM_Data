@@ -19,7 +19,56 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bissendorf",
+                "Braunschweig, Stadt",
+                "Salzgitter, Stadt",
+                "Wolfsburg, Stadt",
+                "Gifhorn",
+                "Goslar",
+                "Helmstedt",
+                "Northeim",
+                "Peine",
+                "Wolfenbüttel",
+                "Göttingen",
+                "Statistische Region Braunschweig",
+                "Hannover  Region",
+                "Diepholz",
+                "Hameln-Pyrmont",
+                "Hildesheim",
+                "Holzminden",
+                "Nienburg (Weser)",
+                "Schaumburg",
+                "Statistische Region Hannover",
+                "Celle",
+                "Cuxhaven",
+                "Harburg",
+                "Lüchow-Dannenberg",
+                "Lüneburg",
+                "Osterholz",
+                "Rotenburg (Wümme)",
+                "Heidekreis",
+                "Stade",
+                "Uelzen",
+                "Verden",
+                "Statistische Region Lüneburg",
+                "Delmenhorst, Stadt",
+                "Emden  Stadt",
+                "Oldenburg(Oldb), Stadt",
+                "Osnabrück, Stadt",
+                "Wilhelmshaven, Stadt",
+                "Ammerland",
+                "Aurich",
+                "Cloppenburg",
+                "Emsland",
+                "Friesland",
+                "Grafschaft Bentheim",
+                "Leer",
+                "Oldenburg",
+                "Osnabrück",
+                "Vechta",
+                "Wesermarsch",
+                "Wittmund",
+                "Statistische Region Weser-Ems",
+                "Niedersachsen",
                 ""
               ]
             }
@@ -29,25 +78,28 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "unbefristeter Aufenthalstitel",
-                "befristeter Aufenthalstitel",
+                "zeitlich unbefristet",
+                "zeitlich befristet",
                 ""
               ]
             }
           },
           {
-            "name": "GGrund der Befristung",
+            "name": "Grund der Befristung",
             "type": "string",
             "constraints": {
               "enum": [
-                "Frist A",
-                "Frist B",
+                "zum Zweck der Ausbildung",
+                "zum Zweck der Erwerbstätigkeit",
+                "Völkerrechtliche, humanitäre, politische Gründe",
+                "familiäre Gründe",
+                "besondere Aufenthalsrechte",
                 ""
               ]
             }
           },
           {
-            "name": "Geschlecht",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -59,22 +111,12 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Anzahl",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "string"
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "string"
           }
         ]
       }
