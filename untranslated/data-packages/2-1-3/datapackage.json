@@ -36,7 +36,7 @@
             }
           },
           {
-            "name": "Geschlecht",
+            "name": "GGrund der Befristung",
             "type": "string",
             "constraints": {
               "enum": [
@@ -47,7 +47,7 @@
             }
           },
           {
-            "name": "Grund der Befristung",
+            "name": "Geschlecht",
             "type": "string",
             "constraints": {
               "enum": [

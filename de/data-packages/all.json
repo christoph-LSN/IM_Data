@@ -5020,7 +5020,7 @@
             "title": "Aufenthaltstitel"
           },
           {
-            "name": "Geschlecht",
+            "name": "GGrund der Befristung",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5029,10 +5029,10 @@
                 ""
               ]
             },
-            "title": "Geschlecht"
+            "title": "GGrund der Befristung"
           },
           {
-            "name": "Grund der Befristung",
+            "name": "Geschlecht",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5042,7 +5042,7 @@
                 ""
               ]
             },
-            "title": "Grund der Befristung"
+            "title": "Geschlecht"
           },
           {
             "name": "Units",
