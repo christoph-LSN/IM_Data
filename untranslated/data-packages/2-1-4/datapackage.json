@@ -19,9 +19,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Braunschweig  Stadt",
-                "Salzgitter  Stadt",
-                "Wolfsburg  Stadt",
+                "Braunschweig, Stadt",
+                "Salzgitter, Stadt",
+                "Wolfsburg, Stadt",
                 "Gifhorn",
                 "Goslar",
                 "Helmstedt",
@@ -50,11 +50,11 @@
                 "Uelzen",
                 "Verden",
                 "Statistische Region Lüneburg",
-                "Delmenhorst  Stadt",
+                "Delmenhorst, Stadt",
                 "Emden  Stadt",
-                "Oldenburg(Oldb)  Stadt",
-                "Osnabrück  Stadt",
-                "Wilhelmshaven  Stadt",
+                "Oldenburg(Oldb), Stadt",
+                "Osnabrück, Stadt",
+                "Wilhelmshaven, Stadt",
                 "Ammerland",
                 "Aurich",
                 "Cloppenburg",
@@ -74,6 +74,19 @@
             }
           },
           {
+            "name": "Ohne Aufenthaltstitel",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesasmt",
+                "Duldung",
+                "Aufenthaltsgestattung",
+                "Ohne Duldung oder Gestattung",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Geschlecht",
             "type": "string",
             "constraints": {
@@ -86,14 +99,11 @@
             }
           },
           {
-            "name": "ohne Aufenthaltstitel",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "insgesamt",
-                "Duldung",
-                "Aufenthaltsgestattung",
-                "Ohne Duldung oder Gestattung",
+                "Anzahl",
                 ""
               ]
             }
