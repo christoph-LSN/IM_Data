@@ -89,18 +89,17 @@
             "title": "Geschlecht"
           },
           {
-            "name": "Aufenthaltstitel",
+            "name": "Aufenthaltsstatus",
             "type": "string",
             "constraints": {
               "enum": [
                 "kein Aufenthaltstitel erforderlich",
-                "Aufenthaltstitel erforderlich",
-                "Antrag auf Aufenthaltstitel gestellt",
+                "mit Aufenthaltstitel",
                 "ohne Aufenthaltstitel",
                 ""
               ]
             },
-            "title": "Aufenthaltstitel"
+            "title": "Aufenthaltsstatus"
           },
           {
             "name": "Units",
