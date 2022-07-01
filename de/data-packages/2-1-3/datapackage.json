@@ -20,56 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Braunschweig, Stadt",
-                "Salzgitter, Stadt",
-                "Wolfsburg, Stadt",
-                "Gifhorn",
-                "Goslar",
-                "Helmstedt",
-                "Northeim",
-                "Peine",
-                "Wolfenbüttel",
-                "Göttingen",
-                "Statistische Region Braunschweig",
-                "Hannover  Region",
-                "Diepholz",
-                "Hameln-Pyrmont",
-                "Hildesheim",
-                "Holzminden",
-                "Nienburg (Weser)",
-                "Schaumburg",
-                "Statistische Region Hannover",
-                "Celle",
-                "Cuxhaven",
-                "Harburg",
-                "Lüchow-Dannenberg",
-                "Lüneburg",
-                "Osterholz",
-                "Rotenburg (Wümme)",
-                "Heidekreis",
-                "Stade",
-                "Uelzen",
-                "Verden",
-                "Statistische Region Lüneburg",
-                "Delmenhorst, Stadt",
-                "Emden  Stadt",
-                "Oldenburg(Oldb), Stadt",
-                "Osnabrück, Stadt",
-                "Wilhelmshaven, Stadt",
-                "Ammerland",
-                "Aurich",
-                "Cloppenburg",
-                "Emsland",
-                "Friesland",
-                "Grafschaft Bentheim",
-                "Leer",
-                "Oldenburg",
-                "Osnabrück",
-                "Vechta",
-                "Wesermarsch",
-                "Wittmund",
-                "Statistische Region Weser-Ems",
-                "Niedersachsen",
+                "Bissendorf",
                 ""
               ]
             },
@@ -80,30 +31,27 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "zeitlich unbefristet",
-                "zeitlich befristet",
+                "unbefristeter Aufenthalstitel",
+                "befristeter Aufenthalstitel",
                 ""
               ]
             },
             "title": "Aufenthaltstitel"
           },
           {
-            "name": "Grund der Befristung",
+            "name": "Geschlecht",
             "type": "string",
             "constraints": {
               "enum": [
-                "zum Zeck der Ausbildung",
-                "zum Zweck der Erwerbstätigkeit",
-                "völkerrechtliche, humanitäre, politische Gründe",
-                "familiäre Gründe",
-                "besondere Aufenthaltsrechte",
+                "Frist A",
+                "Frist B",
                 ""
               ]
             },
-            "title": "Grund der Befristung"
+            "title": "Geschlecht"
           },
           {
-            "name": "Geschlecht",
+            "name": "Grund der Befristung",
             "type": "string",
             "constraints": {
               "enum": [
@@ -113,7 +61,7 @@
                 ""
               ]
             },
-            "title": "Geschlecht"
+            "title": "Grund der Befristung"
           },
           {
             "name": "Units",
@@ -133,7 +81,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "integer",
             "title": "Value"
           }
         ]
