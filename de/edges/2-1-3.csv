@@ -1,3 +1,4 @@
 From,To
-Gebietseinheit,Aufenthaltstitel
-Gebietseinheit,Grund der Befristung
+Gebietseinheit,Geschlecht
+Geschlecht,Aufenthaltstitel
+Aufenthaltstitel,Grund der Befristung

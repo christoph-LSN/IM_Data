@@ -74,6 +74,18 @@
             }
           },
           {
+            "name": "Geschlecht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "männlich",
+                "weiblich",
+                "insgesamt",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Aufenthaltstitel",
             "type": "string",
             "constraints": {
@@ -99,13 +111,10 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string",
+            "name": "Unnamed: 5",
+            "type": "number",
             "constraints": {
               "enum": [
-                "männlich",
-                "weiblich",
-                "insgesamt",
                 ""
               ]
             }

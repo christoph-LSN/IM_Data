@@ -76,6 +76,19 @@
             "title": "Gebietseinheit"
           },
           {
+            "name": "Geschlecht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "männlich",
+                "weiblich",
+                "insgesamt",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
+          },
+          {
             "name": "Aufenthaltstitel",
             "type": "string",
             "constraints": {
@@ -103,17 +116,14 @@
             "title": "Grund der Befristung"
           },
           {
-            "name": "Units",
-            "type": "string",
+            "name": "Unnamed: 5",
+            "type": "number",
             "constraints": {
               "enum": [
-                "männlich",
-                "weiblich",
-                "insgesamt",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unnamed: 5"
           },
           {
             "name": "GeoCode",
