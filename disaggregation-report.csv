@@ -5,7 +5,7 @@ Altersgruppe,8,42
 Asylanträge,1,1
 Aufenthaltsdauer in Jahren,1,6
 Aufenthaltsstatus,3,6
-Aufenthaltstitel,4,5
+Aufenthaltstitel,5,7
 Berufsgruppe,1,2
 Bezugspersonen mit selbst bewohntem Wohneigentum,1,2
 Bundesland,1,2
@@ -14,10 +14,10 @@ Durchschnittliche Bewohnerzahl in der Landesaufnahmebehörde Niedersachsen (LAB 
 Entscheidung vor Rechtsbehelf,1,6
 Erreichter Abschluss,1,10
 Fächergruppe,1,10
-Gebietseinheit,40,61
+Gebietseinheit,39,61
 Geschlecht,23,10
 Group²,1,9
-Grund der Befristung,3,7
+Grund der Befristung,3,9
 Herkunftsland,1,36
 Höchster Beruflicher Abschluss,1,3
 Kategorie,9,36
