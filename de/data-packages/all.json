@@ -3129,16 +3129,16 @@
             "title": "Geschlecht"
           },
           {
-            "name": "Aufenthaltstitel",
+            "name": "Aufenthaltsstatus",
             "type": "string",
             "constraints": {
               "enum": [
                 "mit Freizügigkeit nach EU-Recht",
-                " von Erfordernis auf einen Aufenthaltstitel befreit; heimatlose Ausländer",
+                "von Erfordernis auf einen Aufenthaltstitel befreit, heimatlose Ausländer",
                 ""
               ]
             },
-            "title": "Aufenthaltstitel"
+            "title": "Aufenthaltsstatus"
           },
           {
             "name": "Units",
@@ -3155,26 +3155,6 @@
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
-          },
-          {
-            "name": "Unnamed: 7",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Unnamed: 7"
-          },
-          {
-            "name": "Unnamed: 8",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Unnamed: 8"
           },
           {
             "name": "Value",
