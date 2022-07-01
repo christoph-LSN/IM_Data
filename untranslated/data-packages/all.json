@@ -5006,9 +5006,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Braunschweig Stadt",
-                "Salzgitter Stadt",
-                "Wolfsburg Stadt",
+                "Braunschweig, Stadt",
+                "Salzgitter, Stadt",
+                "Wolfsburg, Stadt",
                 "Gifhorn",
                 "Goslar",
                 "Helmstedt",
@@ -5017,8 +5017,7 @@
                 "Wolfenbüttel",
                 "Göttingen",
                 "Statistische Region Braunschweig",
-                "Hannover Region",
-                "Hannover Landeshauptstadt",
+                "Hannover  Region",
                 "Diepholz",
                 "Hameln-Pyrmont",
                 "Hildesheim",
@@ -5038,11 +5037,11 @@
                 "Uelzen",
                 "Verden",
                 "Statistische Region Lüneburg",
-                "Delmenhorst.Stadt",
-                "Emden Stadt",
-                "Oldenburg (Oldb) Stadt",
-                "Osnabrück Stadt",
-                "Wilhelmshaven Stadt",
+                "Delmenhorst, Stadt",
+                "Emden  Stadt",
+                "Oldenburg(Oldb), Stadt",
+                "Osnabrück, Stadt",
+                "Wilhelmshaven, Stadt",
                 "Ammerland",
                 "Aurich",
                 "Cloppenburg",
@@ -5062,11 +5061,38 @@
             }
           },
           {
-            "name": "Aufenthaltstitel",
+            "name": "Geschlecht",
             "type": "string",
             "constraints": {
               "enum": [
-                "Unmöglichkeit d. Ausreise aus rechtl. oder tats. Gründen",
+                "männlich",
+                "weiblich",
+                "insgesamt",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Grund der Befristung",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "zum Zweck der Ausbildung",
+                "zum Zweck der Erwerbstätigkeit",
+                "Völkerrechtliche, humanitäre, politische Gründe",
+                "familiäre Gründe",
+                "besondere Aufenthalsrechte",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "zeitlich unbefristet",
+                "zeitlich befristet",
                 ""
               ]
             }
@@ -5077,7 +5103,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "string"
           }
         ]
       },
