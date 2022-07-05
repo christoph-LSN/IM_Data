@@ -136,7 +136,7 @@
             "type": "integer"
           },
           {
-            "name": "Gebietseinheit",
+            "name": "Statisitsche Region",
             "type": "string",
             "constraints": {
               "enum": [
@@ -145,15 +145,6 @@
                 "Statistische Region Lüneburg",
                 "Statistische Region Weser-Ems",
                 "Niedersachsen",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unnamed: 2",
-            "type": "number",
-            "constraints": {
-              "enum": [
                 ""
               ]
             }
@@ -186,7 +177,7 @@
             }
           },
           {
-            "name": "Units",
+            "name": "Unit",
             "type": "string",
             "constraints": {
               "enum": [
@@ -202,7 +193,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       },

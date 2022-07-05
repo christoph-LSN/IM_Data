@@ -144,7 +144,7 @@
             "title": "Jahr"
           },
           {
-            "name": "Gebietseinheit",
+            "name": "Statisitsche Region",
             "type": "string",
             "constraints": {
               "enum": [
@@ -156,17 +156,7 @@
                 ""
               ]
             },
-            "title": "Gebietseinheit"
-          },
-          {
-            "name": "Unnamed: 2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Unnamed: 2"
+            "title": "Statisitsche Region"
           },
           {
             "name": "Nationalität",
@@ -198,7 +188,7 @@
             "title": "Schulform"
           },
           {
-            "name": "Units",
+            "name": "Unit",
             "type": "string",
             "constraints": {
               "enum": [
@@ -207,7 +197,7 @@
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "GeoCode",
@@ -216,7 +206,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]
