@@ -98,8 +98,6 @@
                 "Kein Aufenthaltstitel nach nationalem Recht erforderlich",
                 "Aufenthaltstitel nach nationalem Recht erforderlich",
                 "Ohne Aufenthalstitel",
-                "Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",
-                "Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",
                 "Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel",
                 ""
               ]
@@ -5111,7 +5109,7 @@
           }
         ]
       },
-      "title": "Zeitlich befristete und zeitlich unbefristete Aufenthalstitel nach Grund der Befristung"
+      "title": "Zeitlich befristete und zeitlich unbefristete Aufenthalstitel"
     },
     {
       "path": "9-2-1/data.csv",
