@@ -91,17 +91,20 @@
             "title": "Geschlecht"
           },
           {
-            "name": "Aufenthaltsstatus",
+            "name": "Kategorie",
             "type": "string",
             "constraints": {
               "enum": [
-                "kein Aufenthaltstitel erforderlich",
-                "mit Aufenthaltstitel",
-                "ohne Aufenthaltstitel",
+                "Kein Aufenthaltstitel nach nationalem Recht erforderlich",
+                "Aufenthaltstitel nach nationalem Recht erforderlich",
+                "Ohne Aufenthalstitel",
+                "Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",
+                "Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",
+                "Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel",
                 ""
               ]
             },
-            "title": "Aufenthaltsstatus"
+            "title": "Kategorie"
           },
           {
             "name": "Units",
@@ -109,6 +112,7 @@
             "constraints": {
               "enum": [
                 "Anzahl",
+                "Prozent",
                 ""
               ]
             },
@@ -121,7 +125,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
