@@ -86,7 +86,7 @@
             }
           },
           {
-            "name": "Aufenthaltstitel",
+            "name": "Befristung",
             "type": "string",
             "constraints": {
               "enum": [
@@ -97,24 +97,12 @@
             }
           },
           {
-            "name": "Grund der Befristung",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "zum Zweck der Ausbildung",
-                "zum Zweck der Erwerbstätigkeit",
-                "Völkerrechtliche, humanitäre, politische Gründe",
-                "familiäre Gründe",
-                "besondere Aufenthalsrechte",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unnamed: 5",
-            "type": "number",
-            "constraints": {
-              "enum": [
+                "Anzahl",
+                "Prozent",
                 ""
               ]
             }
@@ -125,7 +113,7 @@
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       }

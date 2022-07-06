@@ -5076,7 +5076,7 @@
             "title": "Geschlecht"
           },
           {
-            "name": "Aufenthaltstitel",
+            "name": "Befristung",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5085,32 +5085,19 @@
                 ""
               ]
             },
-            "title": "Aufenthaltstitel"
+            "title": "Befristung"
           },
           {
-            "name": "Grund der Befristung",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "zum Zweck der Ausbildung",
-                "zum Zweck der Erwerbstätigkeit",
-                "Völkerrechtliche, humanitäre, politische Gründe",
-                "familiäre Gründe",
-                "besondere Aufenthalsrechte",
+                "Anzahl",
+                "Prozent",
                 ""
               ]
             },
-            "title": "Grund der Befristung"
-          },
-          {
-            "name": "Unnamed: 5",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Unnamed: 5"
+            "title": "Units"
           },
           {
             "name": "GeoCode",
@@ -5119,7 +5106,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]

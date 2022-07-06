@@ -5,7 +5,8 @@ Altersgruppe,8,42
 Asylanträge,1,1
 Aufenthaltsdauer in Jahren,1,6
 Aufenthaltsstatus,1,2
-Aufenthaltstitel,5,7
+Aufenthaltstitel,4,5
+Befristung,1,2
 Berufsgruppe,1,2
 Bezugspersonen mit selbst bewohntem Wohneigentum,1,2
 Bundesland,1,2
@@ -17,7 +18,7 @@ Fächergruppe,1,10
 Gebietseinheit,38,61
 Geschlecht,24,10
 Group²,1,9
-Grund der Befristung,3,9
+Grund der Befristung,2,7
 Herkunftsland,1,36
 Höchster Beruflicher Abschluss,1,3
 Kategorie,11,44
