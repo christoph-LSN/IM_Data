@@ -1,1 +1,1 @@
-{"From":["Gebietseinheit","Geschlecht"],"To":["Geschlecht","Aufenthaltsstatus"]}
+{"From":["Gebietseinheit","Geschlecht","Kategorie"],"To":["Geschlecht","Kategorie","Geocode"]}
