@@ -21,7 +21,7 @@ Indicator,Disaggregations,Number of disaggregations
 #1-4-5,"Gebietseinheit, Wanderung, Nationalität/Geschlecht",3
 #2-1-1,"Geschlecht, Kategorie, Gebietseinheit",3
 #2-1-10,"Geschlecht, Aufenthaltstitel, Grund der Befristung",3
-#2-1-2,"Geschlecht, Kategorie, Gebietseinheit, Geocode",4
+#2-1-2,"Geschlecht, Kategorie, Gebietseinheit",3
 #2-1-3,"Geschlecht, Gebietseinheit, Aufenthaltstitel, Grund der Befristung",4
 #2-1-4,"Geschlecht, Gebietseinheit, Ohne Aufenthaltstitel",3
 #2-1-5,"Geschlecht, Gebietseinheit, Aufenthaltsstatus",3
