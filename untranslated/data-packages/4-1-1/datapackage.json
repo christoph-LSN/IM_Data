@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "Statisitsche Region",
+            "name": "Statistsche Region",
             "type": "string",
             "constraints": {
               "enum": [

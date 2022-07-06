@@ -144,7 +144,7 @@
             "title": "Jahr"
           },
           {
-            "name": "Statisitsche Region",
+            "name": "Statistsche Region",
             "type": "string",
             "constraints": {
               "enum": [
@@ -156,7 +156,7 @@
                 ""
               ]
             },
-            "title": "Statisitsche Region"
+            "title": "Statistsche Region"
           },
           {
             "name": "Nationalität",
