@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Braunschweig  Stadt",
-                "Salzgitter  Stadt",
-                "Wolfsburg  Stadt",
+                "Braunschweig, Stadt",
+                "Salzgitter, Stadt",
+                "Wolfsburg, Stadt",
                 "Gifhorn",
                 "Goslar",
                 "Helmstedt",
@@ -51,11 +51,11 @@
                 "Uelzen",
                 "Verden",
                 "Statistische Region Lüneburg",
-                "Delmenhorst  Stadt",
+                "Delmenhorst, Stadt",
                 "Emden  Stadt",
-                "Oldenburg(Oldb)  Stadt",
-                "Osnabrück  Stadt",
-                "Wilhelmshaven  Stadt",
+                "Oldenburg(Oldb), Stadt",
+                "Osnabrück, Stadt",
+                "Wilhelmshaven, Stadt",
                 "Ammerland",
                 "Aurich",
                 "Cloppenburg",
@@ -83,28 +83,37 @@
                 "männlich",
                 "weiblich",
                 "insgesamt",
+                "Männlich",
+                "Weiblich",
+                "Insgesamt",
                 ""
               ]
             },
             "title": "Geschlecht"
           },
           {
-            "name": "Aufenthaltsstatus",
+            "name": "ohne Aufenthaltstitel",
             "type": "string",
             "constraints": {
               "enum": [
-                "mit Freizügigkeit nach EU-Recht",
-                "völkerrechtlliche o. humanitäre o. politische Gründe",
+                "insgesamt",
+                "Duldung",
+                "Aufenthaltsgestattung",
+                "Ohne Duldung oder Gestattung",
+                "Anteil der Auslänäderinnen und Ausländer ohne Aufenthaltstite",
+                "Aufent-haltsge-stattung",
+                "Ohne Duldung oder Ge-stattung",
                 ""
               ]
             },
-            "title": "Aufenthaltsstatus"
+            "title": "ohne Aufenthaltstitel"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
+                "Anzahl",
                 "Prozent",
                 ""
               ]
@@ -118,7 +127,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -127,5 +136,5 @@
   ],
   "profile": "data-package",
   "name": "2-1-5",
-  "title": "Ausländerinnen und Ausländer Friezügikeit nach EU-Recht vs. Aufenthaltstatus aus völkerrechtlichen o. humanitären o. politischen Gründen in Prozent"
+  "title": "Menschen ohne Aufenthaltstitel"
 }

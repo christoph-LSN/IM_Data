@@ -4,7 +4,6 @@ Abschlussart,1,7
 Altersgruppe,8,42
 Asylanträge,1,1
 Aufenthaltsdauer in Jahren,1,6
-Aufenthaltsstatus,1,2
 Aufenthaltstitel,4,5
 Befristung,1,2
 Befristungsgrund,1,7
@@ -37,6 +36,7 @@ Männer / Frauen,1,2
 Nationalität / Migrationshintergrund,1,5
 Nationalität,11,5
 Nationalität/Geschlecht,1,5
+ohne Aufenthaltstitel,1,7
 Qualifikation,1,4
 Schulabschluss,1,4
 Schulart,1,10
