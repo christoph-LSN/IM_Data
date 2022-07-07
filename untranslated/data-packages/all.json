@@ -410,19 +410,6 @@
             }
           },
           {
-            "name": "Ohne Aufenthaltstitel",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Insgesasmt",
-                "Duldung",
-                "Aufenthaltsgestattung",
-                "Ohne Duldung oder Gestattung",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Geschlecht",
             "type": "string",
             "constraints": {
@@ -430,6 +417,25 @@
                 "männlich",
                 "weiblich",
                 "insgesamt",
+                "Männlich",
+                "Weiblich",
+                "Insgesamt",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Befristungsgrund",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "zum Zweck der Ausbildung",
+                "zum Zweck der Erwerbstätigkeit",
+                "völkerrechtliche, humanitäre, politische Gründe",
+                "familiäre Gründe",
+                "besondere Aufenthaltsrechte",
+                "familiäreGründe",
+                "besondere Aufent-halts-rechte",
                 ""
               ]
             }
@@ -450,7 +456,7 @@
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },

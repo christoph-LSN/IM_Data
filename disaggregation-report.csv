@@ -7,6 +7,7 @@ Aufenthaltsdauer in Jahren,1,6
 Aufenthaltsstatus,1,2
 Aufenthaltstitel,4,5
 Befristung,1,2
+Befristungsgrund,1,7
 Berufsgruppe,1,2
 Bezugspersonen mit selbst bewohntem Wohneigentum,1,2
 Bundesland,1,2
@@ -36,7 +37,6 @@ Männer / Frauen,1,2
 Nationalität / Migrationshintergrund,1,5
 Nationalität,11,5
 Nationalität/Geschlecht,1,5
-Ohne Aufenthaltstitel,1,4
 Qualifikation,1,4
 Schulabschluss,1,4
 Schulart,1,10
