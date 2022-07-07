@@ -473,6 +473,7 @@
             "constraints": {
               "enum": [
                 "Anzahl",
+                "Prozent",
                 ""
               ]
             },
