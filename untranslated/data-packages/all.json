@@ -4149,34 +4149,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "Migrationshuntergrund",
             "type": "string",
             "constraints": {
               "enum": [
-                "mit und ohne Migrationshintergrund",
-                "ohne Migrationshintergrund",
-                "mit Migrationshintergrund",
+                "insgesamt",
+                "männlich",
+                "weiblich",
                 ""
               ]
             }
           },
           {
             "name": "Geschlecht",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Insgesamt",
-                "Männer",
-                "Frauen",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Migrationserfahrung",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4187,7 +4175,7 @@
             }
           },
           {
-            "name": "Units",
+            "name": "Migrationserfahrung",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4197,8 +4185,30 @@
             }
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "10",
+                "9",
+                "8",
+                "12",
+                "11",
+                "20",
+                "19",
+                "18",
+                "30",
+                "31",
+                "(99",
+                "(19",
+                "/",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       },
