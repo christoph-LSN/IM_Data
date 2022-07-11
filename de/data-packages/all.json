@@ -2384,21 +2384,70 @@
             "title": "Jahr"
           },
           {
-            "name": "Group",
+            "name": "Geschlecht",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
-                "G",
+                "männlich",
+                "weiblich",
+                "insgesamt",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Geschlecht"
+          },
+          {
+            "name": "Rechtskreis",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "Rechtskreis SGB II3)",
+                "Rechtskreis SGB III3)",
+                ""
+              ]
+            },
+            "title": "Rechtskreis"
+          },
+          {
+            "name": "Migrationsstatus",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ohne Migrationshintergrund",
+                "mit Migrationshintergrund",
+                ""
+              ]
+            },
+            "title": "Migrationsstatus"
+          },
+          {
+            "name": "Migrationserfahrung",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "mit eigene/r Migrationserfahrung",
+                "ohne eigene/r Migrationserfahrung",
+                ""
+              ]
+            },
+            "title": "Migrationserfahrung"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Anzahl",
+                "Prozent",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
