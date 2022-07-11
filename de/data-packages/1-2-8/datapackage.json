@@ -16,13 +16,25 @@
             "title": "Jahr"
           },
           {
+            "name": "Nationalität",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ausländerinnen und Ausländer",
+                "Deutsche",
+                ""
+              ]
+            },
+            "title": "Nationalität"
+          },
+          {
             "name": "Gebietseinheit",
             "type": "string",
             "constraints": {
               "enum": [
-                "Braunschweig  Stadt",
-                "Salzgitter  Stadt",
-                "Wolfsburg  Stadt",
+                "Braunschweig, Stadt",
+                "Salzgitter, Stadt",
+                "Wolfsburg, Stadt",
                 "Gifhorn",
                 "Goslar",
                 "Helmstedt",
@@ -32,8 +44,8 @@
                 "Göttingen",
                 "Statistische Region Braunschweig",
                 "Hannover  Region",
-                "dav. Hannover  Lhst.",
-                "dav. Hannover  Umland",
+                "dav. Hannover, Lhst.",
+                "dav. Hannover, Umland",
                 "Diepholz",
                 "Hameln-Pyrmont",
                 "Hildesheim",
@@ -53,11 +65,11 @@
                 "Uelzen",
                 "Verden",
                 "Statistische Region Lüneburg",
-                "Delmenhorst  Stadt",
+                "Delmenhorst, Stadt",
                 "Emden  Stadt",
-                "Oldenburg(Oldb)  Stadt",
-                "Osnabrück  Stadt",
-                "Wilhelmshaven  Stadt",
+                "Oldenburg(Oldb), Stadt",
+                "Osnabrück, Stadt",
+                "Wilhelmshaven, Stadt",
                 "Ammerland",
                 "Aurich",
                 "Cloppenburg",
@@ -76,18 +88,6 @@
               ]
             },
             "title": "Gebietseinheit"
-          },
-          {
-            "name": "Nationalität",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ausländerinnen und Ausländer",
-                "Deutsche",
-                ""
-              ]
-            },
-            "title": "Nationalität"
           },
           {
             "name": "GeoCode",
