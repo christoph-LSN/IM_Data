@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Jahr"
           },
           {
@@ -20,9 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "insgesamt",
-                "männlich",
-                "weiblich",
+                "ohne Migrationshintergrund",
+                "mit Migrationshintergrund",
                 ""
               ]
             },
@@ -33,8 +32,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "mit eigener Migrationserfahrung",
-                "ohne eigene Migrationserfahrung",
+                "insgesamt",
+                "männlich",
+                "weiblich",
                 ""
               ]
             },
@@ -45,7 +45,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "%",
+                "mit eigener Migrationserfahrung",
+                "ohne eigene Migrationserfahrung",
                 ""
               ]
             },
@@ -56,19 +57,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "10",
-                "9",
-                "8",
-                "12",
-                "11",
-                "20",
-                "19",
-                "18",
-                "30",
-                "31",
-                "(99",
-                "(19",
-                "/",
+                "%",
                 ""
               ]
             },
