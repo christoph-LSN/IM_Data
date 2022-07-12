@@ -1350,7 +1350,7 @@
             "constraints": {
               "enum": [
                 "deutsche Staatsangehörigkeit",
-                "nichtdeutsche Staatsangehörigkeit",
+                "nichtdeutsche Staatsangehörigkeit  ",
                 "mit Migrationshintergrund",
                 "ohne Migrationshintergrund",
                 "Insgesamt",
@@ -1370,6 +1370,17 @@
               ]
             },
             "title": "Gebietseinheit"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prozent",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",

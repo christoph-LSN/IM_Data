@@ -20,7 +20,7 @@
             "constraints": {
               "enum": [
                 "deutsche Staatsangehörigkeit",
-                "nichtdeutsche Staatsangehörigkeit",
+                "nichtdeutsche Staatsangehörigkeit  ",
                 "mit Migrationshintergrund",
                 "ohne Migrationshintergrund",
                 "Insgesamt",
@@ -35,6 +35,16 @@
               "enum": [
                 "Niedersachsen",
                 "Deutschland",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prozent",
                 ""
               ]
             }
