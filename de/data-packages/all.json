@@ -5520,7 +5520,7 @@
             "title": "Jahr"
           },
           {
-            "name": "Statistsche Region",
+            "name": "Statistische Region",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5532,7 +5532,7 @@
                 ""
               ]
             },
-            "title": "Statistsche Region"
+            "title": "Statistische Region"
           },
           {
             "name": "Nationalität",
