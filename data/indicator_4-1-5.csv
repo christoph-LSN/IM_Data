@@ -1,21 +1,121 @@
-﻿Year,Migrationshuntergrund,Geschlecht,Migrationserfahrung,Units,Value
-2020,ohne Migrationshintergrund,insgesamt,,%,10.5
-2020,ohne Migrationshintergrund,männlich,,%,9.5
-2020,ohne Migrationshintergrund,weiblich,,%,8.5
-2019,ohne Migrationshintergrund,insgesamt,,%,12.5
-2019,ohne Migrationshintergrund,männlich,,%,11.5
-2019,ohne Migrationshintergrund,weiblich,,%,10.5
-2020,mit Migrationshintergrund,insgesamt,mit eigener Migrationserfahrung,%,20.5
-2020,mit Migrationshintergrund,männlich,mit eigener Migrationserfahrung,%,19.5
-2020,mit Migrationshintergrund,weiblich,mit eigener Migrationserfahrung,%,18.5
-2019,mit Migrationshintergrund,insgesamt,mit eigener Migrationserfahrung,%,30.5
-2019,mit Migrationshintergrund,männlich,mit eigener Migrationserfahrung,%,31.5
-2019,mit Migrationshintergrund,weiblich,mit eigener Migrationserfahrung,%,20.5
-2020,mit Migrationshintergrund,insgesamt,ohne eigene Migrationserfahrung,%,"("99.5)
-2020,mit Migrationshintergrund,männlich,ohne eigene Migrationserfahrung,%,(19.5)
-2020,mit Migrationshintergrund,weiblich,ohne eigene Migrationserfahrung,%,18.5
-2019,mit Migrationshintergrund,insgesamt,ohne eigene Migrationserfahrung,%,22
-2018,mit Migrationshintergrund,insgesamt,ohne eigene Migrationserfahrung,%,"/"
-2017,mit Migrationshintergrund,insgesamt,ohne eigene Migrationserfahrung,%,44
-2019,mit Migrationshintergrund,männlich,ohne eigene Migrationserfahrung,%,31.5
-2019,mit Migrationshintergrund,weiblich,ohne eigene Migrationserfahrung,%,20.5
+﻿Year,Migrationshintergrund,Migrationserfahrung,Geschlecht,Units,Value
+2019,ohne Migrationshintergrund,,Insgesamt,%,8.5
+2019,ohne Migrationshintergrund,,Männer,%,9.2
+2019,ohne Migrationshintergrund,,Frauen,%,7.7
+2018,ohne Migrationshintergrund,,Insgesamt,%,8.1
+2018,ohne Migrationshintergrund,,Männer,%,9.1
+2018,ohne Migrationshintergrund,,Frauen,%,7.0
+2017,ohne Migrationshintergrund,,Insgesamt,%,8.0
+2017,ohne Migrationshintergrund,,Männer,%,8.7
+2017,ohne Migrationshintergrund,,Frauen,%,7.3
+2016,ohne Migrationshintergrund,,Insgesamt,%,9.0
+2016,ohne Migrationshintergrund,,Männer,%,9.2
+2016,ohne Migrationshintergrund,,Frauen,%,8.9
+2015,ohne Migrationshintergrund,,Insgesamt,%,8.5
+2015,ohne Migrationshintergrund,,Männer,%,8.4
+2015,ohne Migrationshintergrund,,Frauen,%,8.6
+2014,ohne Migrationshintergrund,,Insgesamt,%,8.7
+2014,ohne Migrationshintergrund,,Männer,%,9.8
+2014,ohne Migrationshintergrund,,Frauen,%,7.5
+2013,ohne Migrationshintergrund,,Insgesamt,%,9.1
+2013,ohne Migrationshintergrund,,Männer,%,9.4
+2013,ohne Migrationshintergrund,,Frauen,%,8.7
+2012,ohne Migrationshintergrund,,Insgesamt,%,9.8
+2012,ohne Migrationshintergrund,,Männer,%,11.1
+2012,ohne Migrationshintergrund,,Frauen,%,8.4
+2011,ohne Migrationshintergrund,,Insgesamt,%,12.4
+2011,ohne Migrationshintergrund,,Männer,%,13.0
+2011,ohne Migrationshintergrund,,Frauen,%,11.9
+2005,ohne Migrationshintergrund,,Insgesamt,%,13.2
+2005,ohne Migrationshintergrund,,Männer,%,11.4
+2005,ohne Migrationshintergrund,,Frauen,%,15.2
+2019,mit Migrationshintergrund,,Insgesamt,%,21.1
+2019,mit Migrationshintergrund,,Männer,%,22.9
+2019,mit Migrationshintergrund,,Frauen,%,19.1
+2018,mit Migrationshintergrund,,Insgesamt,%,20.2
+2018,mit Migrationshintergrund,,Männer,%,20.9
+2018,mit Migrationshintergrund,,Frauen,%,19.3
+2017,mit Migrationshintergrund,,Insgesamt,%,21.2
+2017,mit Migrationshintergrund,,Männer,%,21.6
+2017,mit Migrationshintergrund,,Frauen,%,20.8
+2016,mit Migrationshintergrund,,Insgesamt,%,21.7
+2016,mit Migrationshintergrund,,Männer,%,22.3
+2016,mit Migrationshintergrund,,Frauen,%,20.9
+2015,mit Migrationshintergrund,,Insgesamt,%,18.8
+2015,mit Migrationshintergrund,,Männer,%,19.7
+2015,mit Migrationshintergrund,,Frauen,%,17.8
+2014,mit Migrationshintergrund,,Insgesamt,%,18.6
+2014,mit Migrationshintergrund,,Männer,%,18.3
+2014,mit Migrationshintergrund,,Frauen,%,18.9
+2013,mit Migrationshintergrund,,Insgesamt,%,16.5
+2013,mit Migrationshintergrund,,Männer,%,16.9
+2013,mit Migrationshintergrund,,Frauen,%,16.1
+2012,mit Migrationshintergrund,,Insgesamt,%,18.2
+2012,mit Migrationshintergrund,,Männer,%,20.3
+2012,mit Migrationshintergrund,,Frauen,%,15.8¹⁾
+2011,mit Migrationshintergrund,,Insgesamt,%,19.5
+2011,mit Migrationshintergrund,,Männer,%,18.8
+2011,mit Migrationshintergrund,,Frauen,%,20.2
+2005,mit Migrationshintergrund,,Insgesamt,%,25.3
+2005,mit Migrationshintergrund,,Männer,%,22.3
+2005,mit Migrationshintergrund,,Frauen,%,27.7
+2019,mit Migrationshintergrund,mit eigener Migrationserfahrung,Insgesamt,%,30
+2019,mit Migrationshintergrund,mit eigener Migrationserfahrung,Männer,%,29.7
+2019,mit Migrationshintergrund,mit eigener Migrationserfahrung,Frauen,%,30.4¹⁾
+2018,mit Migrationshintergrund,mit eigener Migrationserfahrung,Insgesamt,%,26.0
+2018,mit Migrationshintergrund,mit eigener Migrationserfahrung,Männer,%,25.9
+2018,mit Migrationshintergrund,mit eigener Migrationserfahrung,Frauen,%,26.2¹⁾
+2017,mit Migrationshintergrund,mit eigener Migrationserfahrung,Insgesamt,%,26.8
+2017,mit Migrationshintergrund,mit eigener Migrationserfahrung,Männer,%,27.0
+2017,mit Migrationshintergrund,mit eigener Migrationserfahrung,Frauen,%,26.5¹⁾
+2016,mit Migrationshintergrund,mit eigener Migrationserfahrung,Insgesamt,%,25.8
+2016,mit Migrationshintergrund,mit eigener Migrationserfahrung,Männer,%,24.1
+2016,mit Migrationshintergrund,mit eigener Migrationserfahrung,Frauen,%,28.0¹⁾
+2015,mit Migrationshintergrund,mit eigener Migrationserfahrung,Insgesamt,%,24.4
+2015,mit Migrationshintergrund,mit eigener Migrationserfahrung,Männer,%,24.7¹⁾
+2015,mit Migrationshintergrund,mit eigener Migrationserfahrung,Frauen,%,24.0¹⁾
+2014,mit Migrationshintergrund,mit eigener Migrationserfahrung,Insgesamt,%,22.4
+2014,mit Migrationshintergrund,mit eigener Migrationserfahrung,Männer,%,21.2¹⁾
+2014,mit Migrationshintergrund,mit eigener Migrationserfahrung,Frauen,%,23.6¹⁾
+2013,mit Migrationshintergrund,mit eigener Migrationserfahrung,Insgesamt,%,19.4
+2013,mit Migrationshintergrund,mit eigener Migrationserfahrung,Männer,%,18.4¹⁾
+2013,mit Migrationshintergrund,mit eigener Migrationserfahrung,Frauen,%,20.5¹⁾
+2012,mit Migrationshintergrund,mit eigener Migrationserfahrung,Insgesamt,%,20.5
+2012,mit Migrationshintergrund,mit eigener Migrationserfahrung,Männer,%,21.6¹⁾
+2012,mit Migrationshintergrund,mit eigener Migrationserfahrung,Frauen,%,19.4¹⁾
+2011,mit Migrationshintergrund,mit eigener Migrationserfahrung,Insgesamt,%,23.3
+2011,mit Migrationshintergrund,mit eigener Migrationserfahrung,Männer,%,22.3¹⁾
+2011,mit Migrationshintergrund,mit eigener Migrationserfahrung,Frauen,%,24.3¹⁾
+2005,mit Migrationshintergrund,mit eigener Migrationserfahrung,Insgesamt,%,25
+2005,mit Migrationshintergrund,mit eigener Migrationserfahrung,Männer,%,22
+2005,mit Migrationshintergrund,mit eigener Migrationserfahrung,Frauen,%,27.2
+2019,mit Migrationshintergrund,ohne eigene Migrationserfahrung,Insgesamt,%,14.9
+2019,mit Migrationshintergrund,ohne eigene Migrationserfahrung,Männer,%,18.2¹⁾
+2019,mit Migrationshintergrund,ohne eigene Migrationserfahrung,Frauen,%,/
+2018,mit Migrationshintergrund,ohne eigene Migrationserfahrung,Insgesamt,%,14.7
+2018,mit Migrationshintergrund,ohne eigene Migrationserfahrung,Männer,%,15.7¹⁾
+2018,mit Migrationshintergrund,ohne eigene Migrationserfahrung,Frauen,%,/
+2017,mit Migrationshintergrund,ohne eigene Migrationserfahrung,Insgesamt,%,15.8
+2017,mit Migrationshintergrund,ohne eigene Migrationserfahrung,Männer,%,15.8¹⁾
+2017,mit Migrationshintergrund,ohne eigene Migrationserfahrung,Frauen,%,15.8¹⁾
+2016,mit Migrationshintergrund,ohne eigene Migrationserfahrung,Insgesamt,%,17.4
+2016,mit Migrationshintergrund,ohne eigene Migrationserfahrung,Männer,%,20.5¹⁾
+2016,mit Migrationshintergrund,ohne eigene Migrationserfahrung,Frauen,%,/
+2015,mit Migrationshintergrund,ohne eigene Migrationserfahrung,Insgesamt,%,13.2¹⁾
+2015,mit Migrationshintergrund,ohne eigene Migrationserfahrung,Männer,%,/
+2015,mit Migrationshintergrund,ohne eigene Migrationserfahrung,Frauen,%,/
+2014,mit Migrationshintergrund,ohne eigene Migrationserfahrung,Insgesamt,%,14.7¹⁾
+2014,mit Migrationshintergrund,ohne eigene Migrationserfahrung,Männer,%,/
+2014,mit Migrationshintergrund,ohne eigene Migrationserfahrung,Frauen,%,/
+2013,mit Migrationshintergrund,ohne eigene Migrationserfahrung,Insgesamt,%,13.4¹⁾
+2013,mit Migrationshintergrund,ohne eigene Migrationserfahrung,Männer,%,/
+2013,mit Migrationshintergrund,ohne eigene Migrationserfahrung,Frauen,%,/
+2012,mit Migrationshintergrund,ohne eigene Migrationserfahrung,Insgesamt,%,15.2¹⁾
+2012,mit Migrationshintergrund,ohne eigene Migrationserfahrung,Männer,%,18.7¹⁾
+2012,mit Migrationshintergrund,ohne eigene Migrationserfahrung,Frauen,%,/
+2011,mit Migrationshintergrund,ohne eigene Migrationserfahrung,Insgesamt,%,14.2¹⁾
+2011,mit Migrationshintergrund,ohne eigene Migrationserfahrung,Männer,%,/
+2011,mit Migrationshintergrund,ohne eigene Migrationserfahrung,Frauen,%,/
+2005,mit Migrationshintergrund,ohne eigene Migrationserfahrung,Insgesamt,%,26.2
+2005,mit Migrationshintergrund,ohne eigene Migrationserfahrung,Männer,%,/
+2005,mit Migrationshintergrund,ohne eigene Migrationserfahrung,Frauen,%,/
