@@ -15,24 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "Migrationshuntergrund",
+            "name": "Migrationshintergrund",
             "type": "string",
             "constraints": {
               "enum": [
                 "ohne Migrationshintergrund",
                 "mit Migrationshintergrund",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Geschlecht",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "insgesamt",
-                "männlich",
-                "weiblich",
                 ""
               ]
             }
@@ -44,6 +32,18 @@
               "enum": [
                 "mit eigener Migrationserfahrung",
                 "ohne eigene Migrationserfahrung",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geschlecht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "Männer",
+                "Frauen",
                 ""
               ]
             }

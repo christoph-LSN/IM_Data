@@ -16,7 +16,7 @@
             "title": "Jahr"
           },
           {
-            "name": "Migrationshuntergrund",
+            "name": "Migrationshintergrund",
             "type": "string",
             "constraints": {
               "enum": [
@@ -25,20 +25,7 @@
                 ""
               ]
             },
-            "title": "Migrationshuntergrund"
-          },
-          {
-            "name": "Geschlecht",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "insgesamt",
-                "männlich",
-                "weiblich",
-                ""
-              ]
-            },
-            "title": "Geschlecht"
+            "title": "Migrationshintergrund"
           },
           {
             "name": "Migrationserfahrung",
@@ -51,6 +38,19 @@
               ]
             },
             "title": "Migrationserfahrung"
+          },
+          {
+            "name": "Geschlecht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "Männer",
+                "Frauen",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
           },
           {
             "name": "Units",
