@@ -89,7 +89,7 @@
             "title": "Geschlecht"
           },
           {
-            "name": "ohne Aufenthaltstitel",
+            "name": "ohne Aufenthaltstitell",
             "type": "string",
             "constraints": {
               "enum": [
@@ -97,11 +97,11 @@
                 "Duldung",
                 "Aufenthaltsgestattung",
                 "Ohne Duldung oder Gestattung",
-                "Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstite",
+                "Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel",
                 ""
               ]
             },
-            "title": "ohne Aufenthaltstitel"
+            "title": "ohne Aufenthaltstitell"
           },
           {
             "name": "Units",
