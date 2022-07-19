@@ -91,7 +91,7 @@
             "title": "Migrationshintergrund"
           },
           {
-            "name": "in 1000",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -100,7 +100,7 @@
                 ""
               ]
             },
-            "title": "in 1000"
+            "title": "Units"
           },
           {
             "name": "GeoCode",
