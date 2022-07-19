@@ -78,6 +78,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Niedersachsen",
                 "Braunschweig  Stadt",
                 "Salzgitter  Stadt",
                 "Wolfsburg  Stadt",
@@ -126,7 +127,6 @@
                 "Vechta",
                 "Wesermarsch",
                 "Statistische Region Weser-Ems",
-                "Niedersachsen",
                 ""
               ]
             }
@@ -147,7 +147,7 @@
             }
           },
           {
-            "name": "Units",
+            "name": "in 1000",
             "type": "string",
             "constraints": {
               "enum": [

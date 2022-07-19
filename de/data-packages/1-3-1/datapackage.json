@@ -20,6 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Niedersachsen",
                 "Braunschweig  Stadt",
                 "Salzgitter  Stadt",
                 "Wolfsburg  Stadt",
@@ -68,7 +69,6 @@
                 "Vechta",
                 "Wesermarsch",
                 "Statistische Region Weser-Ems",
-                "Niedersachsen",
                 ""
               ]
             },
@@ -91,7 +91,7 @@
             "title": "Migrationshintergrund"
           },
           {
-            "name": "Units",
+            "name": "in 1000",
             "type": "string",
             "constraints": {
               "enum": [
@@ -100,7 +100,7 @@
                 ""
               ]
             },
-            "title": "Units"
+            "title": "in 1000"
           },
           {
             "name": "GeoCode",

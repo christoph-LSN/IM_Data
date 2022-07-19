@@ -1,4 +1,6 @@
-Year,Gebietseinheit,Migrationshintergrund,Units,GeoCode,Value
+Year,Gebietseinheit,Migrationshintergrund,in 1000,GeoCode,Value
+2021,Niedersachsen,Bevölkerung insgesamt,in 1000,MZ030,7912.0
+2020,Niedersachsen,Bevölkerung insgesamt,in 1000,MZ030,7897.0
 2019,Braunschweig  Stadt,Bevölkerung insgesamt,in 1000,MZ03101,243.63571
 2019,Salzgitter  Stadt,Bevölkerung insgesamt,in 1000,MZ03102,102.74144
 2019,Wolfsburg  Stadt,Bevölkerung insgesamt,in 1000,MZ03103,121.79484
@@ -467,6 +469,8 @@ Year,Gebietseinheit,Migrationshintergrund,Units,GeoCode,Value
 2011,Friesland / Wittmund,Bevölkerung insgesamt,in 1000,MZ03455462,154.91853
 2011,Statistische Region Weser-Ems,Bevölkerung insgesamt,in 1000,MZ034,2438.20893
 2011,Niedersachsen,Bevölkerung insgesamt,in 1000,MZ030,7778.29854
+2021,Niedersachsen,Personen ohne Migrationshintergrund,in 1000,MZ030,6021.0
+2020,Niedersachsen,Personen ohne Migrationshintergrund,in 1000,MZ030,6098.0
 2019,Braunschweig  Stadt,Personen ohne Migrationshintergrund,in 1000,MZ03101,181.27089
 2019,Salzgitter  Stadt,Personen ohne Migrationshintergrund,in 1000,MZ03102,66.01907
 2019,Wolfsburg  Stadt,Personen ohne Migrationshintergrund,in 1000,MZ03103,75.22717
@@ -935,6 +939,8 @@ Year,Gebietseinheit,Migrationshintergrund,Units,GeoCode,Value
 2011,Friesland / Wittmund,Personen ohne Migrationshintergrund,in 1000,MZ03455462,146.12044
 2011,Statistische Region Weser-Ems,Personen ohne Migrationshintergrund,in 1000,MZ034,2017.76782
 2011,Niedersachsen,Personen ohne Migrationshintergrund,in 1000,MZ030,6510.69657
+2021,Niedersachsen,Personen mit Migrationshintergrund,in 1000,MZ030,1891.0
+2020,Niedersachsen,Personen mit Migrationshintergrund,in 1000,MZ030,1799.0
 2019,Braunschweig  Stadt,Personen mit Migrationshintergrund,in 1000,MZ03101,62.36482
 2019,Salzgitter  Stadt,Personen mit Migrationshintergrund,in 1000,MZ03102,36.72236
 2019,Wolfsburg  Stadt,Personen mit Migrationshintergrund,in 1000,MZ03103,46.56768
@@ -1403,6 +1409,8 @@ Year,Gebietseinheit,Migrationshintergrund,Units,GeoCode,Value
 2011,Friesland / Wittmund,Personen mit Migrationshintergrund,in 1000,MZ03455462,8.79809
 2011,Statistische Region Weser-Ems,Personen mit Migrationshintergrund,in 1000,MZ034,420.4411
 2011,Niedersachsen,Personen mit Migrationshintergrund,in 1000,MZ030,1267.60197
+2021,Niedersachsen,Anteil der Personen ohne Migrationshintergrund,%,MZ030,76.0995955510617
+2020,Niedersachsen,Anteil der Personen ohne Migrationshintergrund,%,MZ030,77.2191971634798
 2019,Braunschweig  Stadt,Anteil der Personen ohne Migrationshintergrund,%,MZ03101,74.4
 2019,Salzgitter  Stadt,Anteil der Personen ohne Migrationshintergrund,%,MZ03102,64.26
 2019,Wolfsburg  Stadt,Anteil der Personen ohne Migrationshintergrund,%,MZ03103,61.77
@@ -1871,6 +1879,8 @@ Year,Gebietseinheit,Migrationshintergrund,Units,GeoCode,Value
 2011,Friesland / Wittmund,Anteil der Personen ohne Migrationshintergrund,%,MZ03455462,94.32
 2011,Statistische Region Weser-Ems,Anteil der Personen ohne Migrationshintergrund,%,MZ034,82.76
 2011,Niedersachsen,Anteil der Personen ohne Migrationshintergrund,%,MZ030,83.7
+2021,Niedersachsen,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,%,MZ030,23.9004044489383
+2022,Niedersachsen,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,%,MZ030,22.7808028365202
 2019,Braunschweig  Stadt,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03101,25.6
 2019,Salzgitter  Stadt,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03102,35.74
 2019,Wolfsburg  Stadt,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03103,38.23
@@ -2339,6 +2349,8 @@ Year,Gebietseinheit,Migrationshintergrund,Units,GeoCode,Value
 2011,Friesland / Wittmund,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03455462,5.68
 2011,Statistische Region Weser-Ems,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,%,MZ034,17.24
 2011,Niedersachsen,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,%,MZ030,16.3
+2021,Niedersachsen,Anteil der Personen mit Migrationshintergrund im engeren Sinne,%,MZ030,22.093023255814
+2020,Niedersachsen,Anteil der Personen mit Migrationshintergrund im engeren Sinne,%,MZ030,20.7420539445359
 2019,Braunschweig  Stadt,Anteil der Personen mit Migrationshintergrund im engeren Sinne,%,MZ03101,23.47
 2019,Salzgitter  Stadt,Anteil der Personen mit Migrationshintergrund im engeren Sinne,%,MZ03102,33.75
 2019,Wolfsburg  Stadt,Anteil der Personen mit Migrationshintergrund im engeren Sinne,%,MZ03103,36.2
