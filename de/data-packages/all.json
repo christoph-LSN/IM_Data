@@ -200,9 +200,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Braunschweig  Stadt",
-                "Salzgitter  Stadt",
-                "Wolfsburg  Stadt",
+                "Braunschweig, Stadt",
+                "Salzgitter, Stadt",
+                "Wolfsburg, Stadt",
                 "Gifhorn",
                 "Goslar",
                 "Helmstedt",
@@ -212,8 +212,8 @@
                 "Göttingen",
                 "Statistische Region Braunschweig",
                 "Hannover  Region",
-                "dav. Hannover  Lhst.",
-                "dav. Hannover  Umland",
+                "dav. Hannover, Lhst.",
+                "dav. Hannover, Umland",
                 "Diepholz",
                 "Hameln-Pyrmont",
                 "Hildesheim",
@@ -233,11 +233,11 @@
                 "Uelzen",
                 "Verden",
                 "Statistische Region Lüneburg",
-                "Delmenhorst  Stadt",
+                "Delmenhorst, Stadt",
                 "Emden  Stadt",
-                "Oldenburg(Oldb)  Stadt",
-                "Osnabrück  Stadt",
-                "Wilhelmshaven  Stadt",
+                "Oldenburg(Oldb), Stadt",
+                "Osnabrück, Stadt",
+                "Wilhelmshaven, Stadt",
                 "Ammerland",
                 "Aurich",
                 "Cloppenburg",
@@ -1538,7 +1538,7 @@
           }
         ]
       },
-      "title": "Ausländerinnen und Ausländer nach Aufenthaltstitel"
+      "title": "Ausländerinnen und Ausländer mit und ohne Aufenthaltstitel"
     },
     {
       "path": "3-1-2/data.csv",
@@ -3879,7 +3879,7 @@
           }
         ]
       },
-      "title": "Ausländerinnen und Ausländer mit zeitlich befristeten und zeitlich unbefristete Aufenthalstiteln"
+      "title": "Ausländerinnen und Ausländer mit zeitlich befristeten und zeitlich unbefristeten Aufenthalstiteln"
     },
     {
       "path": "1-1-3/data.csv",
@@ -4167,9 +4167,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Braunschweig  Stadt",
-                "Salzgitter  Stadt",
-                "Wolfsburg  Stadt",
+                "Braunschweig, Stadt",
+                "Salzgitter, Stadt",
+                "Wolfsburg, Stadt",
                 "Gifhorn",
                 "Goslar",
                 "Helmstedt",
@@ -4177,17 +4177,17 @@
                 "Peine",
                 "Wolfenbüttel",
                 "Göttingen",
-                "Stat. Region Braunschweig",
+                "Statistische Region Braunschweig",
                 "Hannover  Region",
-                "dav. Hannover  Lhst.",
-                "dav. Hannover  Umland",
+                "dav. Hannover, Lhst.",
+                "dav. Hannover, Umland",
                 "Diepholz",
                 "Hameln-Pyrmont",
                 "Hildesheim",
                 "Holzminden",
                 "Nienburg (Weser)",
                 "Schaumburg",
-                "Stat. Region Hannover",
+                "Statistische Region Hannover",
                 "Celle",
                 "Cuxhaven",
                 "Harburg",
@@ -4199,12 +4199,12 @@
                 "Stade",
                 "Uelzen",
                 "Verden",
-                "Stat. Region Lüneburg",
-                "Delmenhorst  Stadt",
+                "Statistische Region Lüneburg",
+                "Delmenhorst, Stadt",
                 "Emden  Stadt",
-                "Oldenburg(Oldb)  Stadt",
-                "Osnabrück  Stadt",
-                "Wilhelmshaven  Stadt",
+                "Oldenburg(Oldb), Stadt",
+                "Osnabrück, Stadt",
+                "Wilhelmshaven, Stadt",
                 "Ammerland",
                 "Aurich",
                 "Cloppenburg",
@@ -4217,7 +4217,7 @@
                 "Vechta",
                 "Wesermarsch",
                 "Wittmund",
-                "Stat. Region Weser-Ems",
+                "Statistische Region Weser-Ems",
                 "Niedersachsen",
                 ""
               ]
@@ -4243,6 +4243,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Prozent",
                 "%",
                 ""
               ]
@@ -4250,9 +4251,66 @@
             "title": "Units"
           },
           {
-            "name": "GeoCode",
+            "name": "Geocode",
             "type": "string",
-            "title": "GeoCode"
+            "constraints": {
+              "enum": [
+                "K03101",
+                "K03102",
+                "K03103",
+                "K03151",
+                "K03153",
+                "K03154",
+                "K03155",
+                "K03157",
+                "K03158",
+                "K03159",
+                "K031",
+                "K03241",
+                "K03241001",
+                "K03241999",
+                "K03251",
+                "K03252",
+                "K03254",
+                "K03255",
+                "K03256",
+                "K03257",
+                "K032",
+                "K03351",
+                "K03352",
+                "K03353",
+                "K03354",
+                "K03355",
+                "K03356",
+                "K03357",
+                "K03358",
+                "K03359",
+                "K03360",
+                "K03361",
+                "K033",
+                "K03401",
+                "K03402",
+                "K03403",
+                "K03404",
+                "K03405",
+                "K03451",
+                "K03452",
+                "K03453",
+                "K03454",
+                "K03455",
+                "K03456",
+                "K03457",
+                "K03458",
+                "K03459",
+                "K03460",
+                "K03461",
+                "K03462",
+                "K034",
+                "K030",
+                ""
+              ]
+            },
+            "title": "Geocode"
           },
           {
             "name": "Value",
