@@ -48,7 +48,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "% ",
                 "%",
                 ""
               ]
