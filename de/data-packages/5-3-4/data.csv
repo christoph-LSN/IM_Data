@@ -1,9 +1,14 @@
 Year,Geschlecht,Rechtskreis,Migrationsstatus,Migrationserfahrung,Units,Value
-2020,männlich,Insgesamt,ohne Migrationshintergrund,,Anzahl,71909.0
-2020,weiblich,Insgesamt,ohne Migrationshintergrund,,Anzahl,53888.0
-2020,insgesamt,Insgesamt,ohne Migrationshintergrund,,Anzahl,125797.0
-2020,insgesamt,Rechtskreis SGB II3),ohne Migrationshintergrund,,Anzahl,69097.0
-2020,insgesamt,Rechtskreis SGB III3),ohne Migrationshintergrund,,Anzahl,56700.0
+2021,männlich,Insgesamt,ohne Migrationshintergrund,,Anzahl,68750.7200961425
+2021,weiblich,Insgesamt,ohne Migrationshintergrund,,Anzahl,52640.0589383119
+2021,insgesamt,Insgesamt,ohne Migrationshintergrund,,Anzahl,121390.779034455
+2021,insgesamt,Rechtskreis SGB II3),ohne Migrationshintergrund,,Anzahl,72553.4709786049
+2021,insgesamt,Rechtskreis SGB III3),ohne Migrationshintergrund,,Anzahl,48837.3080558526
+2020,männlich,Insgesamt,ohne Migrationshintergrund,,Anzahl,71909.046051579
+2020,weiblich,Insgesamt,ohne Migrationshintergrund,,Anzahl,53888.3535613721
+2020,insgesamt,Insgesamt,ohne Migrationshintergrund,,Anzahl,125797.399612954
+2020,insgesamt,Rechtskreis SGB II3),ohne Migrationshintergrund,,Anzahl,69097.2890106761
+2020,insgesamt,Rechtskreis SGB III3),ohne Migrationshintergrund,,Anzahl,56700.1106022755
 2019,männlich,Insgesamt,ohne Migrationshintergrund,,Anzahl,52374.0
 2019,weiblich,Insgesamt,ohne Migrationshintergrund,,Anzahl,40271.0
 2019,insgesamt,Insgesamt,ohne Migrationshintergrund,,Anzahl,92645.0
@@ -39,11 +44,16 @@ Year,Geschlecht,Rechtskreis,Migrationsstatus,Migrationserfahrung,Units,Value
 2013,insgesamt,Insgesamt,ohne Migrationshintergrund,,Anzahl,126571.0
 2013,insgesamt,Rechtskreis SGB II3),ohne Migrationshintergrund,,Anzahl,74801.0
 2013,insgesamt,Rechtskreis SGB III3),ohne Migrationshintergrund,,Anzahl,51770.0
-2020,männlich,Insgesamt,mit Migrationshintergrund,,Anzahl,53166.0
-2020,weiblich,Insgesamt,mit Migrationshintergrund,,Anzahl,41525.0
-2020,insgesamt,Insgesamt,mit Migrationshintergrund,,Anzahl,94692.0
-2020,insgesamt,Rechtskreis SGB II3),mit Migrationshintergrund,,Anzahl,67382.0
-2020,insgesamt,Rechtskreis SGB III3),mit Migrationshintergrund,,Anzahl,27309.0
+2021,männlich,Insgesamt,mit Migrationshintergrund,,Anzahl,53241.2799038511
+2021,weiblich,Insgesamt,mit Migrationshintergrund,,Anzahl,44718.9410616891
+2021,insgesamt,Insgesamt,mit Migrationshintergrund,,Anzahl,97960.2209655381
+2021,insgesamt,Rechtskreis SGB II3),mit Migrationshintergrund,,Anzahl,73349.5290213937
+2021,insgesamt,Rechtskreis SGB III3),mit Migrationshintergrund,,Anzahl,24610.6919441451
+2020,männlich,Insgesamt,mit Migrationshintergrund,,Anzahl,53166.9539484189
+2020,weiblich,Insgesamt,mit Migrationshintergrund,,Anzahl,41525.6464386264
+2020,insgesamt,Insgesamt,mit Migrationshintergrund,,Anzahl,94692.6003870447
+2020,insgesamt,Rechtskreis SGB II3),mit Migrationshintergrund,,Anzahl,67382.7109893213
+2020,insgesamt,Rechtskreis SGB III3),mit Migrationshintergrund,,Anzahl,27309.8893977239
 2019,männlich,Insgesamt,mit Migrationshintergrund,,Anzahl,42680.0
 2019,weiblich,Insgesamt,mit Migrationshintergrund,,Anzahl,33556.0
 2019,insgesamt,Insgesamt,mit Migrationshintergrund,,Anzahl,76236.0
@@ -79,11 +89,16 @@ Year,Geschlecht,Rechtskreis,Migrationsstatus,Migrationserfahrung,Units,Value
 2013,insgesamt,Insgesamt,mit Migrationshintergrund,,Anzahl,64850.0
 2013,insgesamt,Rechtskreis SGB II3),mit Migrationshintergrund,,Anzahl,49154.0
 2013,insgesamt,Rechtskreis SGB III3),mit Migrationshintergrund,,Anzahl,15696.0
-2020,männlich,Insgesamt,mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Anzahl,41093.0
-2020,weiblich,Insgesamt,mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Anzahl,33025.0
-2020,insgesamt,Insgesamt,mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Anzahl,74119.0
-2020,insgesamt,Rechtskreis SGB II3),mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Anzahl,53081.0
-2020,insgesamt,Rechtskreis SGB III3),mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Anzahl,21037.0
+2021,männlich,Insgesamt,mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Anzahl,40887.8233092949
+2021,weiblich,Insgesamt,mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Anzahl,35575.6155487621
+2021,insgesamt,Insgesamt,mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Anzahl,76463.4388580554
+2021,insgesamt,Rechtskreis SGB II3),mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Anzahl,57382.6953735325
+2021,insgesamt,Rechtskreis SGB III3),mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Anzahl,19080.7434845241
+2020,männlich,Insgesamt,mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Anzahl,41093.840530638
+2020,weiblich,Insgesamt,mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Anzahl,33025.2649433979
+2020,insgesamt,Insgesamt,mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Anzahl,74119.1054740355
+2020,insgesamt,Rechtskreis SGB II3),mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Anzahl,53081.2674039863
+2020,insgesamt,Rechtskreis SGB III3),mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Anzahl,21037.8380700494
 2019,männlich,Insgesamt,mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Anzahl,33210.0
 2019,weiblich,Insgesamt,mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Anzahl,26851.0
 2019,insgesamt,Insgesamt,mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Anzahl,60061.0
@@ -119,11 +134,16 @@ Year,Geschlecht,Rechtskreis,Migrationsstatus,Migrationserfahrung,Units,Value
 2013,insgesamt,Insgesamt,mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Anzahl,51339.0
 2013,insgesamt,Rechtskreis SGB II3),mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Anzahl,39109.0
 2013,insgesamt,Rechtskreis SGB III3),mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Anzahl,12230.0
-2020,männlich,Insgesamt,mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Anzahl,41093.0
-2020,weiblich,Insgesamt,mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Anzahl,33025.0
-2020,insgesamt,Insgesamt,mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Anzahl,74119.0
-2020,insgesamt,Rechtskreis SGB II3),mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Anzahl,53081.0
-2020,insgesamt,Rechtskreis SGB III3),mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Anzahl,21038.0
+2021,männlich,Insgesamt,mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Anzahl,40887.8233092949
+2021,weiblich,Insgesamt,mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Anzahl,35575.6155487621
+2021,insgesamt,Insgesamt,mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Anzahl,76463.4388580554
+2021,insgesamt,Rechtskreis SGB II3),mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Anzahl,57382.6953735325
+2021,insgesamt,Rechtskreis SGB III3),mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Anzahl,19080.7434845241
+2020,männlich,Insgesamt,mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Anzahl,41093.840530638
+2020,weiblich,Insgesamt,mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Anzahl,33025.2649433979
+2020,insgesamt,Insgesamt,mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Anzahl,74119.1054740355
+2020,insgesamt,Rechtskreis SGB II3),mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Anzahl,53081.2674039863
+2020,insgesamt,Rechtskreis SGB III3),mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Anzahl,21037.8380700494
 2019,männlich,Insgesamt,mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Anzahl,33210.0
 2019,weiblich,Insgesamt,mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Anzahl,26851.0
 2019,insgesamt,Insgesamt,mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Anzahl,60061.0
@@ -159,6 +179,11 @@ Year,Geschlecht,Rechtskreis,Migrationsstatus,Migrationserfahrung,Units,Value
 2013,insgesamt,Insgesamt,mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Anzahl,51339.0
 2013,insgesamt,Rechtskreis SGB II3),mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Anzahl,39109.0
 2013,insgesamt,Rechtskreis SGB III3),mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Anzahl,12230.0
+2021,männlich,Insgesamt,ohne Migrationshintergrund,,Prozent,56.3567447833842
+2021,weiblich,Insgesamt,ohne Migrationshintergrund,,Prozent,54.0679946777508
+2021,insgesamt,Insgesamt,ohne Migrationshintergrund,,Prozent,55.3408824370342
+2021,insgesamt,Rechtskreis SGB II3),ohne Migrationshintergrund,,Prozent,49.7271961362039
+2021,insgesamt,Rechtskreis SGB III3),ohne Migrationshintergrund,,Prozent,66.4923592961743
 2020,männlich,Insgesamt,ohne Migrationshintergrund,,Prozent,57.4922815340914
 2020,weiblich,Insgesamt,ohne Migrationshintergrund,,Prozent,56.4784555320739
 2020,insgesamt,Insgesamt,ohne Migrationshintergrund,,Prozent,57.0535623443035
@@ -199,6 +224,11 @@ Year,Geschlecht,Rechtskreis,Migrationsstatus,Migrationserfahrung,Units,Value
 2013,insgesamt,Insgesamt,ohne Migrationshintergrund,,Prozent,66.1217943694788
 2013,insgesamt,Rechtskreis SGB II3),ohne Migrationshintergrund,,Prozent,60.3452865959421
 2013,insgesamt,Rechtskreis SGB III3),ohne Migrationshintergrund,,Prozent,76.7349479737942
+2021,männlich,Insgesamt,mit Migrationshintergrund,,Prozent,43.6432552166158
+2021,weiblich,Insgesamt,mit Migrationshintergrund,,Prozent,45.9320053222492
+2021,insgesamt,Insgesamt,mit Migrationshintergrund,,Prozent,44.6591175629658
+2021,insgesamt,Rechtskreis SGB II3),mit Migrationshintergrund,,Prozent,50.2728038637961
+2021,insgesamt,Rechtskreis SGB III3),mit Migrationshintergrund,,Prozent,33.5076407038257
 2020,männlich,Insgesamt,mit Migrationshintergrund,,Prozent,42.5077184659086
 2020,weiblich,Insgesamt,mit Migrationshintergrund,,Prozent,43.5215444679261
 2020,insgesamt,Insgesamt,mit Migrationshintergrund,,Prozent,42.9464376556965
@@ -239,6 +269,11 @@ Year,Geschlecht,Rechtskreis,Migrationsstatus,Migrationserfahrung,Units,Value
 2013,insgesamt,Insgesamt,mit Migrationshintergrund,,Prozent,33.8782056305212
 2013,insgesamt,Rechtskreis SGB II3),mit Migrationshintergrund,,Prozent,39.6547134040579
 2013,insgesamt,Rechtskreis SGB III3),mit Migrationshintergrund,,Prozent,23.2650520262058
+2021,männlich,Insgesamt,mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Prozent,33.5168070933316
+2021,weiblich,Insgesamt,mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Prozent,36.540654226894
+2021,insgesamt,Insgesamt,mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Prozent,34.8589424520781
+2021,insgesamt,Rechtskreis SGB II3),mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Prozent,39.3293457800957
+2021,insgesamt,Rechtskreis SGB III3),mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Prozent,25.9785746167693
 2020,männlich,Insgesamt,mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Prozent,32.8550965258232
 2020,weiblich,Insgesamt,mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Prozent,34.6125987207312
 2020,insgesamt,Insgesamt,mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Prozent,33.6156313093727
@@ -279,6 +314,11 @@ Year,Geschlecht,Rechtskreis,Migrationsstatus,Migrationserfahrung,Units,Value
 2013,insgesamt,Insgesamt,mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Prozent,26.8199413857414
 2013,insgesamt,Rechtskreis SGB II3),mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Prozent,31.5509660763987
 2013,insgesamt,Rechtskreis SGB III3),mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Prozent,18.1276494827024
+2021,männlich,Insgesamt,mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Prozent,9.07563669597718
+2021,weiblich,Insgesamt,mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Prozent,8.07533356946231
+2021,insgesamt,Insgesamt,mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Prozent,8.63165188581278
+2021,insgesamt,Rechtskreis SGB II3),mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Prozent,9.55024948470322
+2021,insgesamt,Rechtskreis SGB III3),mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Prozent,6.80687591545368
 2020,männlich,Insgesamt,mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Prozent,8.61413416439515
 2020,weiblich,Insgesamt,mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Prozent,7.67335614195824
 2020,insgesamt,Insgesamt,mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Prozent,8.20702547813806
