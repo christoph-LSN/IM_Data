@@ -51,15 +51,41 @@
                 .table-striped tbody tr:nth-of-type(2n+1) {
                     background-color: #f3f2f1;
                 }
+                #skiplink {
+                    position: absolute;
+                    top: 0;
+                    left: 50%;
+                    z-index: 10000;
+                    width: 250px;
+                    margin-left: -125px;
+                    padding: 10px;
+                    background: white;
+                    text-align: center;
+                    border: 1px solid #0b0c0c;
+                    color: #0b0c0c;
+                    display: block;
+                }
+                .sr-only-focusable:not(:focus):not(:focus-within) {
+                    position: absolute !important;
+                    width: 1px !important;
+                    height: 1px !important;
+                    padding: 0 !important;
+                    margin: -1px !important;
+                    overflow: hidden !important;
+                    clip: rect(0, 0, 0, 0) !important;
+                    white-space: nowrap !important;
+                    border: 0 !important;
+                }
             </style>
         </head>
         <body>
+            <a class="sr-only-focusable" id="skiplink" href="#main-content" tabindex="0">Skip to main content</a>
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
                 <div class="container">
                     <a class="navbar-brand" href="index.html">SDG data build documentation</a>
                 </div>
             </nav>
-            <main role="main">
+            <main id="main-content" role="main">
                 <div class="container">
                     <h1 style="margin:20px 0">Disaggregation: Herkunftsland</h1>
                     <div>
@@ -93,7 +119,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="disaggregation-value--afghanistan_.html">Afghanistan</a></td>
+      <td><a href="disaggregation-value--afghanistan.html">Afghanistan</a></td>
       <td>3</td>
       <td>1</td>
     </tr>
@@ -148,7 +174,7 @@
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--irak_.html">Irak</a></td>
+      <td><a href="disaggregation-value--irak.html">Irak</a></td>
       <td>3</td>
       <td>1</td>
     </tr>
@@ -163,12 +189,12 @@
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--kasachstan_.html">Kasachstan</a></td>
+      <td><a href="disaggregation-value--kasachstan.html">Kasachstan</a></td>
       <td>3</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--kosovo_.html">Kosovo</a></td>
+      <td><a href="disaggregation-value--kosovo.html">Kosovo</a></td>
       <td>3</td>
       <td>1</td>
     </tr>
@@ -178,7 +204,7 @@
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--libanon_.html">Libanon</a></td>
+      <td><a href="disaggregation-value--libanon.html">Libanon</a></td>
       <td>3</td>
       <td>1</td>
     </tr>
@@ -213,7 +239,7 @@
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--russische-föderation_.html">Russische Föderation</a></td>
+      <td><a href="disaggregation-value--russische-föderation.html">Russische Föderation</a></td>
       <td>3</td>
       <td>1</td>
     </tr>
@@ -238,7 +264,7 @@
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--syrien_.html">Syrien</a></td>
+      <td><a href="disaggregation-value--syrien.html">Syrien</a></td>
       <td>3</td>
       <td>1</td>
     </tr>
@@ -277,7 +303,7 @@
             <script type="text/javascript">
             var sdgBuild = sdgBuild || {};
             sdgBuild.tables = sdgBuild.tables || {};
-            sdgBuild.tables['values-table'] = [{"Value":"<a href=\"disaggregation-value--afghanistan_.html\">Afghanistan<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--afrika.html\">Afrika<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--amerika.html\">Amerika<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--asien-australien-und-ozeanien.html\">Asien Australien und Ozeanien<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--bosnien-und-herzegowina.html\">Bosnien und Herzegowina<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--bulgarien_.html\">Bulgarien<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--eu-staaten_.html\">EU-Staaten<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--europa.html\">Europa<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--frankreich.html\">Frankreich<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--griechenland_.html\">Griechenland<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--insgesamt_.html\">Insgesamt<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--irak_.html\">Irak<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--iran.html\">Iran<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--italien_.html\">Italien<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--kasachstan_.html\">Kasachstan<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--kosovo_.html\">Kosovo<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--kroatien_.html\">Kroatien<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--libanon_.html\">Libanon<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--marokko.html\">Marokko<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--niederlande_.html\">Niederlande<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--ohne-angabe_.html\">Ohne Angabe<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--polen_.html\">Polen<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--portugal.html\">Portugal<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--rum\u00e4nien_.html\">Rum\u00e4nien<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--russische-f\u00f6deration_.html\">Russische F\u00f6deration<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--serbien.html\">Serbien<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--sonstiges-europa.html\">Sonstiges Europa<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--sowjetunion.html\">Sowjetunion<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--spanien_.html\">Spanien<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--syrien_.html\">Syrien<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--t\u00fcrkei_.html\">T\u00fcrkei<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--ukraine_.html\">Ukraine<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--vereinigtes-k\u00f6nigreich.html\">Vereinigtes K\u00f6nigreich<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--vietnam.html\">Vietnam<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--\u00e4gypten-algerien-libyen-tunesien.html\">\u00c4gypten Algerien Libyen Tunesien<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--\u00f6sterreich_.html\">\u00d6sterreich<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1}];
+            sdgBuild.tables['values-table'] = [{"Value":"<a href=\"disaggregation-value--afghanistan.html\">Afghanistan<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--afrika.html\">Afrika<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--amerika.html\">Amerika<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--asien-australien-und-ozeanien.html\">Asien Australien und Ozeanien<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--bosnien-und-herzegowina.html\">Bosnien und Herzegowina<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--bulgarien_.html\">Bulgarien<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--eu-staaten_.html\">EU-Staaten<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--europa.html\">Europa<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--frankreich.html\">Frankreich<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--griechenland_.html\">Griechenland<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--insgesamt_.html\">Insgesamt<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--irak.html\">Irak<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--iran.html\">Iran<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--italien_.html\">Italien<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--kasachstan.html\">Kasachstan<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--kosovo.html\">Kosovo<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--kroatien_.html\">Kroatien<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--libanon.html\">Libanon<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--marokko.html\">Marokko<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--niederlande_.html\">Niederlande<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--ohne-angabe_.html\">Ohne Angabe<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--polen_.html\">Polen<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--portugal.html\">Portugal<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--rum\u00e4nien_.html\">Rum\u00e4nien<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--russische-f\u00f6deration.html\">Russische F\u00f6deration<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--serbien.html\">Serbien<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--sonstiges-europa.html\">Sonstiges Europa<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--sowjetunion.html\">Sowjetunion<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--spanien_.html\">Spanien<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--syrien.html\">Syrien<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--t\u00fcrkei_.html\">T\u00fcrkei<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--ukraine_.html\">Ukraine<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--vereinigtes-k\u00f6nigreich.html\">Vereinigtes K\u00f6nigreich<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--vietnam.html\">Vietnam<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--\u00e4gypten-algerien-libyen-tunesien.html\">\u00c4gypten Algerien Libyen Tunesien<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--\u00f6sterreich_.html\">\u00d6sterreich<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1}];
             </script>
             
         </div>
