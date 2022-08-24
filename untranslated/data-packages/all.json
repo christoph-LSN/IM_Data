@@ -4388,7 +4388,7 @@
             }
           },
           {
-            "name": "ohne Aufenthaltstitell",
+            "name": "ohne Aufenthaltstitel",
             "type": "string",
             "constraints": {
               "enum": [

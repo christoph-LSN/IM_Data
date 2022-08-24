@@ -4663,7 +4663,7 @@
             "title": "Geschlecht"
           },
           {
-            "name": "ohne Aufenthaltstitell",
+            "name": "ohne Aufenthaltstitel",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4675,7 +4675,7 @@
                 ""
               ]
             },
-            "title": "ohne Aufenthaltstitell"
+            "title": "ohne Aufenthaltstitel"
           },
           {
             "name": "Units",
