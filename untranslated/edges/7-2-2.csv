@@ -1,4 +1,4 @@
 From,To
-Bundesland,Geschlecht
-Geschlecht,Bezugspersonen mit selbst bewohntem Wohneigentum
-Bezugspersonen mit selbst bewohntem Wohneigentum,Migrationsstatus
+Gebietseinheit,Kategorie
+Kategorie,Migrationsstatus
+Migrationsstatus,Gschlecht

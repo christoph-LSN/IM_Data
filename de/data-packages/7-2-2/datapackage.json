@@ -16,7 +16,7 @@
             "title": "Jahr"
           },
           {
-            "name": "Bundesland",
+            "name": "Gebietseinheit",
             "type": "string",
             "constraints": {
               "enum": [
@@ -25,10 +25,36 @@
                 ""
               ]
             },
-            "title": "Bundesland"
+            "title": "Gebietseinheit"
           },
           {
-            "name": "Geschlecht",
+            "name": "Kategorie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bezugspersonen mit selbstgenutzem Wochneigentum",
+                "Eigentümerquote der Bezugspersonen mit selbstbewohnen Wohneigentum",
+                ""
+              ]
+            },
+            "title": "Kategorie"
+          },
+          {
+            "name": "Migrationsstatus",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "ohne Migrationshintergrund",
+                "mit Migrationshintergrund²⁾",
+                "mit Migrationshintergrund",
+                ""
+              ]
+            },
+            "title": "Migrationsstatus"
+          },
+          {
+            "name": "Gschlecht",
             "type": "string",
             "constraints": {
               "enum": [
@@ -38,41 +64,15 @@
                 ""
               ]
             },
-            "title": "Geschlecht"
-          },
-          {
-            "name": "Bezugspersonen mit selbst bewohntem Wohneigentum",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Bezugspersonen mit selbst bewohntem Wohneigentum",
-                "Eigentümerquote der Bezugspersonen mit selbst bewohntem Wohneigentum",
-                ""
-              ]
-            },
-            "title": "Bezugspersonen mit selbst bewohntem Wohneigentum"
-          },
-          {
-            "name": "Migrationsstatus",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "mit Migrationshintergrund",
-                "ohne Migrationshintergrund",
-                "Deutsche mit Migrationshintergrund",
-                "Ausländerinnen und Ausländer mit Migrationshintergrund",
-                ""
-              ]
-            },
-            "title": "Migrationsstatus"
+            "title": "Gschlecht"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "in 1000",
-                "Prozent",
+                "1 000",
+                "³⁾",
                 ""
               ]
             },
