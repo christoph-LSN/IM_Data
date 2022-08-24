@@ -94,18 +94,6 @@
             "title": "Gebietseinheit"
           },
           {
-            "name": "Kategorie",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Bezugspersonen mit selbstgenutzem Wochneigentum",
-                "Eigentümerquote der Bezugspersonen mit selbstbewohnen Wohneigentum",
-                ""
-              ]
-            },
-            "title": "Kategorie"
-          },
-          {
             "name": "Migrationsstatus",
             "type": "string",
             "constraints": {
@@ -137,8 +125,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "1 000",
-                "³⁾",
+                "Bezugspersonen mit selbstgenutzem Wochneigentum in 1 000",
+                "Eigentümerquote der Bezugspersonen mit selbstbewohnen Wohneigentum in Prozent³⁾",
                 ""
               ]
             },
