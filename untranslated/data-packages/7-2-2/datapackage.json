@@ -54,7 +54,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bezugspersonen mit selbstgenutzem Wochneigentum in 1 000",
+                "Bezugspersonen mit selbstgenutzem Wohneigentum in 1 000",
                 "Eigentümerquote der Bezugspersonen mit selbstbewohnen Wohneigentum in Prozent³⁾",
                 ""
               ]
