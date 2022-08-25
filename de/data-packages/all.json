@@ -298,8 +298,8 @@
             "constraints": {
               "enum": [
                 "Insgesamt",
-                "weiblich",
                 "männlich",
+                "weiblich",
                 ""
               ]
             },
