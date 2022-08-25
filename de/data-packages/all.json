@@ -3094,7 +3094,7 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
@@ -4521,7 +4521,7 @@
                 "Amerika",
                 "Asien",
                 "Syrien",
-                "Irak ",
+                "Irak",
                 "Afghanistan",
                 "China",
                 "Vietnam",
@@ -4529,7 +4529,6 @@
                 "Staatenlos",
                 "Ungeklärt und ohne Angabe",
                 "Insgesamt",
-                "Irak",
                 "Österreich",
                 "EU-Staaten",
                 "Serbien2)",
