@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Insgesamt                              ",
-                " ohne Migrationshintergrund            ",
-                " mit Migrationshintergrund             ",
+                "Insgesamt",
+                "ohne Migrationshintergrund",
+                "mit Migrationshintergrund",
                 "dav. ein Partner mit Migrationshintergr.",
                 "dav. beide Partner mit Migrationshintergr.",
                 ""
