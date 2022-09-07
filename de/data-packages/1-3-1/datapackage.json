@@ -79,7 +79,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bevölkerung insgesamt",
                 "Personen ohne Migrationshintergrund",
                 "Personen mit Migrationshintergrund",
                 "Anteil der Personen ohne Migrationshintergrund",
