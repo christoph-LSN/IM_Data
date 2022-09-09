@@ -3081,21 +3081,21 @@
             "title": "Jahr"
           },
           {
-            "name": "Land der Staatsangehörigkeit",
+            "name": "Land der Staatsabgehörigkeit",
             "type": "string",
             "constraints": {
               "enum": [
                 "Europa insgesamt",
+                "Bulgarien",
                 "Griechenland",
                 "Italien",
                 "Kosovo",
                 "Polen",
                 "Rumänien",
                 "Russische Föderation",
-                "Serbien 2)",
+                "Serbien, Serbien und Montenegro",
                 "Türkei",
-                "Ukraine",
-                "Vereinigtes Königreich GB Nordirland",
+                "Vereinigtes Königreich GB,Nordirland",
                 "EU Staaten",
                 "Afrika insgesamt",
                 "Tunesien",
@@ -3105,9 +3105,9 @@
                 "Libanon",
                 "Indien",
                 "Irak",
-                "Iran Islamische Republik",
-                "Pakistan",
-                "Syrien Arabische Republik",
+                "Iran, Islamische Republik",
+                "Palestinensische Gebiete",
+                "Syrien, Arabische Republi",
                 "Vietnam",
                 "Australien und Ozeanien",
                 "Sonstige Ziele",
@@ -3116,7 +3116,18 @@
                 ""
               ]
             },
-            "title": "Land der Staatsangehörigkeit"
+            "title": "Land der Staatsabgehörigkeit"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Anzahl",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
