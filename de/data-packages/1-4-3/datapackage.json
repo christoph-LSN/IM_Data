@@ -24,27 +24,27 @@
                 "Albanien",
                 "Bulgarien",
                 "Griechenland",
-                "Italien",
                 "Kosovo",
-                "Moldau   Republik",
+                "Moldau, Republik",
+                "Nordmazedonien",
                 "Polen",
                 "Rumänien",
                 "Russische Föderation",
                 "Serbien (ab 2008)",
-                "Spanien",
                 "Türkei",
                 "Ukraine",
-                "EU Staaten",
+                "EU Staaten (ab 2021 ohne GB)",
                 "Afrika insgesamt",
                 "Amerika insgesamt",
                 "Asien insgesamt",
                 "Afghanistan",
+                "Georgien",
                 "Indien",
                 "Irak",
-                "Iran  Islamische Republik",
+                "Iran,Islamische Republik",
                 "Kasachstan",
                 "Libanon",
-                "Syrien   Arabische Republik",
+                "Syrien, Arabische Republik",
                 "Australien und Ozeanien",
                 "Sonstige Ziele",
                 "Insgesamt",
@@ -54,8 +54,19 @@
             "title": "Land"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Anzahl",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
