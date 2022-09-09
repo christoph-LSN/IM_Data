@@ -26,7 +26,7 @@
                 "Italien",
                 "Kroatien",
                 "Litauen",
-                "Moldau  Republik",
+                "Moldau, Republik",
                 "Niederlande",
                 "Österreich",
                 "Polen",
@@ -37,8 +37,8 @@
                 "Türkei",
                 "Ukraine",
                 "Ungarn",
-                "Vereinigtes Königreich  Nordirland",
-                "EU Staaten",
+                "Vereinigtes Königreich, Nordirland",
+                "EU Staaten (ab 2021 ohne GB)",
                 "Afrika insgesamt",
                 "Amerika insgesamt",
                 "Vereinigte Staaten",
@@ -52,6 +52,17 @@
               ]
             },
             "title": "Wanderungsziel"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Anzahl",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",

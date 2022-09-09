@@ -25,7 +25,7 @@
                 "Italien",
                 "Kroatien",
                 "Litauen",
-                "Moldau  Republik",
+                "Moldau, Republik",
                 "Niederlande",
                 "Österreich",
                 "Polen",
@@ -36,8 +36,8 @@
                 "Türkei",
                 "Ukraine",
                 "Ungarn",
-                "Vereinigtes Königreich  Nordirland",
-                "EU Staaten",
+                "Vereinigtes Königreich, Nordirland",
+                "EU Staaten (ab 2021 ohne GB)",
                 "Afrika insgesamt",
                 "Amerika insgesamt",
                 "Vereinigte Staaten",
@@ -47,6 +47,16 @@
                 "Sonstige Ziele",
                 "ohne Angabe",
                 "Insgesamt",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Anzahl",
                 ""
               ]
             }
