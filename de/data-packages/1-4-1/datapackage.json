@@ -24,26 +24,26 @@
                 "Bulgarien",
                 "Griechenland",
                 "Italien",
-                "Kroatien",
-                "Litauen",
-                "Moldau   Republik",
+                "Moldau, Republik",
                 "Niederlande",
                 "Polen",
                 "Rumänien",
                 "Russische Föderation",
-                "Serbien (ab 2008)",
+                "Serbien",
                 "Spanien",
                 "Türkei",
                 "Ukraine",
                 "Ungarn",
-                "Vereinigtes Königreich",
-                "EU Staaten",
+                "EU Staaten (ab 2021 ohne GB)",
                 "Afrika insgesamt",
                 "Amerika insgesamt",
                 "Asien insgesamt",
+                "Afghanistan",
+                "Indien",
                 "Irak",
                 "Kasachstan",
-                "Syrien   Arabische Republik",
+                "Libanon",
+                "Syrien, Arabische Republik",
                 "Australien und Ozeanien",
                 "Sonstige Ziele",
                 "ohne Angabe",
@@ -52,6 +52,17 @@
               ]
             },
             "title": "Wanderungsherkunft"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Anzahl",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
