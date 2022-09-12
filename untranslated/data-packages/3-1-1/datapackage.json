@@ -41,6 +41,16 @@
             }
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prozent",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
