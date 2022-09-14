@@ -15,30 +15,39 @@
             "type": "integer"
           },
           {
-            "name": "Group²",
+            "name": "Migrationsstatus",
             "type": "string",
             "constraints": {
               "enum": [
-                "A¹",
-                "B²",
-                "F³",
-                "H⁴",
-                "I⁵",
-                "J⁶",
-                "K⁷",
-                "L⁸",
-                "M⁹",
+                "ohne Migrationshintergrund",
+                "mit Migrationshintergrund",
                 ""
               ]
             }
           },
           {
-            "name": "COMMENT_OBS",
+            "name": "Überwiegender Lebensunterhalt",
             "type": "string",
             "constraints": {
               "enum": [
-                "Kein Wert",
-                "Statistisch unsicher",
+                "Insgesamt",
+                "eigene Erwerbs-/ Berufstätigkeit",
+                "Arbeitslosengeld I / Hartz IV",
+                "Rente und Pension",
+                "Einkünfte von Angehörigen",
+                "Sozialhilfe",
+                "eigenes Vermögen, Vermietung, Zinsen, Altenteil, BAföG, Elterngeld und weitere Einkünfte",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "in 1 000",
+                "Prozent",
                 ""
               ]
             }
