@@ -2104,8 +2104,8 @@
             "constraints": {
               "enum": [
                 "Insgesamt",
-                "Ohne Ledige Kinder",
-                "Mit ledigen Kindern",
+                "ohne ledige Kinder",
+                "mit ledigen Kindern",
                 ""
               ]
             },
