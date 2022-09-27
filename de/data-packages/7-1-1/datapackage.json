@@ -29,7 +29,7 @@
             "title": "Migrationsstatus"
           },
           {
-            "name": "Lebennsform",
+            "name": "Lebensform",
             "type": "string",
             "constraints": {
               "enum": [
@@ -40,7 +40,7 @@
                 ""
               ]
             },
-            "title": "Lebennsform"
+            "title": "Lebensform"
           },
           {
             "name": "mit oder ohne ledige Kinder",
