@@ -45,3 +45,6 @@ units_type: Einheit
 unit: Einheit
 variable_hint: Verfügbar
 view_indicator_list: Zeigt die Indikatorenliste zum SDG-Ziel an.
+apply: Ok
+cancel: Abbrechen
+change_breakdowns: Auwahl ändern

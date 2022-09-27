@@ -1,31 +1,397 @@
-﻿Year,Units,Migrationsstatus,Value
-2018,Wohnfläche in qm,Insgesamt,53.8
-2018,Wohnfläche in qm,ohne Migrationshintergrund,55.7
-2018,Wohnfläche in qm,mit Migrationshintergrund,42.6
-2018,Wohnfläche in qm,dav. mit eigener Migrationserfahrung,36.4
-2018,Wohnfläche in qm,dav.ohne eigene Migrationserfahrung,47
-2014,Wohnfläche in qm,Insgesamt,48.7
-2014,Wohnfläche in qm,ohne Migrationshintergrund,51.6
-2014,Wohnfläche in qm,mit Migrationshintergrund,35.4
-2014,Wohnfläche in qm,dav. mit eigener Migrationserfahrung,29
-2014,Wohnfläche in qm,dav.ohne eigene Migrationserfahrung,38.4
-2010,Wohnfläche in qm,Insgesamt,49.1105
-2010,Wohnfläche in qm,ohne Migrationshintergrund,52.0513
-2010,Wohnfläche in qm,mit Migrationshintergrund,34.6853
-2010,Wohnfläche in qm,dav. mit eigener Migrationserfahrung,28.503
-2010,Wohnfläche in qm,dav.ohne eigene Migrationserfahrung,37.4978
-2018,Bruttokaltmiete in €,Insgesamt,6.71
-2018,Bruttokaltmiete in €,ohne Migrationshintergrund,6.57
-2018,Bruttokaltmiete in €,mit Migrationshintergrund,7.03
-2018,Bruttokaltmiete in €,dav. mit eigener Migrationserfahrung,6.92
-2018,Bruttokaltmiete in €,dav.ohne eigene Migrationserfahrung,7.08
-2014,Bruttokaltmiete in €,Insgesamt,6.32
-2014,Bruttokaltmiete in €,ohne Migrationshintergrund,6.22
-2014,Bruttokaltmiete in €,mit Migrationshintergrund,6.6
-2014,Bruttokaltmiete in €,dav. mit eigener Migrationserfahrung,6.46
-2014,Bruttokaltmiete in €,dav.ohne eigene Migrationserfahrung,6.66
-2010,Bruttokaltmiete in €,Insgesamt,6.0448
-2010,Bruttokaltmiete in €,ohne Migrationshintergrund,5.9649
-2010,Bruttokaltmiete in €,mit Migrationshintergrund,6.2743
-2010,Bruttokaltmiete in €,dav. mit eigener Migrationserfahrung,6.1745
-2010,Bruttokaltmiete in €,dav.ohne eigene Migrationserfahrung,6.3148
+﻿Year,Migrationsstatus,Lebennsform,mit oder ohne ledige Kinder,Units,Value
+2011,mit und ohne Migrationshintergrund,Insgesamt,Insgesamt,in 1 000,2227.8
+2011,ohne Migrationshintergrund,Insgesamt,Insgesamt,in 1 000,1831.3
+2011,mit Migrationshintergrund,Insgesamt,Insgesamt,in 1 000,396.5
+2011,mit und ohne Migrationshintergrund,Ehepaare,Insgesamt,in 1 000,1740.2
+2011,ohne Migrationshintergrund,Ehepaare,Insgesamt,in 1 000,1421.8
+2011,mit Migrationshintergrund,Ehepaare,Insgesamt,in 1 000,318.3
+2011,mit und ohne Migrationshintergrund,Lebensgemeinschaften,Insgesamt,in 1 000,248.8
+2011,ohne Migrationshintergrund,Lebensgemeinschaften,Insgesamt,in 1 000,212.9
+2011,mit Migrationshintergrund,Lebensgemeinschaften,Insgesamt,in 1 000,35.9
+2011,mit und ohne Migrationshintergrund,Alleinerziehende,Insgesamt,in 1 000,238.9
+2011,ohne Migrationshintergrund,Alleinerziehende,Insgesamt,in 1 000,196.6
+2011,mit Migrationshintergrund,Alleinerziehende,Insgesamt,in 1 000,42.3
+2012,mit und ohne Migrationshintergrund,Insgesamt,Insgesamt,in 1 000,2223.8
+2012,ohne Migrationshintergrund,Insgesamt,Insgesamt,in 1 000,1817.1
+2012,mit Migrationshintergrund,Insgesamt,Insgesamt,in 1 000,406.6
+2012,mit und ohne Migrationshintergrund,Ehepaare,Insgesamt,in 1 000,1741.7
+2012,ohne Migrationshintergrund,Ehepaare,Insgesamt,in 1 000,1412.7
+2012,mit Migrationshintergrund,Ehepaare,Insgesamt,in 1 000,329
+2012,mit und ohne Migrationshintergrund,Lebensgemeinschaften,Insgesamt,in 1 000,246.2
+2012,ohne Migrationshintergrund,Lebensgemeinschaften,Insgesamt,in 1 000,208.8
+2012,mit Migrationshintergrund,Lebensgemeinschaften,Insgesamt,in 1 000,37.4
+2012,mit und ohne Migrationshintergrund,Alleinerziehende,Insgesamt,in 1 000,235.8
+2012,ohne Migrationshintergrund,Alleinerziehende,Insgesamt,in 1 000,195.6
+2012,mit Migrationshintergrund,Alleinerziehende,Insgesamt,in 1 000,40.2
+2013,mit und ohne Migrationshintergrund,Insgesamt,Insgesamt,in 1 000,2226.9
+2013,ohne Migrationshintergrund,Insgesamt,Insgesamt,in 1 000,1778.6
+2013,mit Migrationshintergrund,Insgesamt,Insgesamt,in 1 000,448.3
+2013,mit und ohne Migrationshintergrund,Ehepaare,Insgesamt,in 1 000,1733.2
+2013,ohne Migrationshintergrund,Ehepaare,Insgesamt,in 1 000,1383.2
+2013,mit Migrationshintergrund,Ehepaare,Insgesamt,in 1 000,350
+2013,mit und ohne Migrationshintergrund,Lebensgemeinschaften,Insgesamt,in 1 000,254.1
+2013,ohne Migrationshintergrund,Lebensgemeinschaften,Insgesamt,in 1 000,202.8
+2013,mit Migrationshintergrund,Lebensgemeinschaften,Insgesamt,in 1 000,51.3
+2013,mit und ohne Migrationshintergrund,Alleinerziehende,Insgesamt,in 1 000,239.6
+2013,ohne Migrationshintergrund,Alleinerziehende,Insgesamt,in 1 000,192.6
+2013,mit Migrationshintergrund,Alleinerziehende,Insgesamt,in 1 000,47
+2014,mit und ohne Migrationshintergrund,Insgesamt,Insgesamt,in 1 000,2235.2
+2014,ohne Migrationshintergrund,Insgesamt,Insgesamt,in 1 000,1807.8
+2014,mit Migrationshintergrund,Insgesamt,Insgesamt,in 1 000,427.5
+2014,mit und ohne Migrationshintergrund,Ehepaare,Insgesamt,in 1 000,1731.2
+2014,ohne Migrationshintergrund,Ehepaare,Insgesamt,in 1 000,1392.2
+2014,mit Migrationshintergrund,Ehepaare,Insgesamt,in 1 000,339
+2014,mit und ohne Migrationshintergrund,Lebensgemeinschaften,Insgesamt,in 1 000,266.1
+2014,ohne Migrationshintergrund,Lebensgemeinschaften,Insgesamt,in 1 000,221.4
+2014,mit Migrationshintergrund,Lebensgemeinschaften,Insgesamt,in 1 000,44.7
+2014,mit und ohne Migrationshintergrund,Alleinerziehende,Insgesamt,in 1 000,237.9
+2014,ohne Migrationshintergrund,Alleinerziehende,Insgesamt,in 1 000,194.2
+2014,mit Migrationshintergrund,Alleinerziehende,Insgesamt,in 1 000,43.7
+2015,mit und ohne Migrationshintergrund,Insgesamt,Insgesamt,in 1 000,2240.5
+2015,ohne Migrationshintergrund,Insgesamt,Insgesamt,in 1 000,1804
+2015,mit Migrationshintergrund,Insgesamt,Insgesamt,in 1 000,436.5
+2015,mit und ohne Migrationshintergrund,Ehepaare,Insgesamt,in 1 000,1718
+2015,ohne Migrationshintergrund,Ehepaare,Insgesamt,in 1 000,1375.2
+2015,mit Migrationshintergrund,Ehepaare,Insgesamt,in 1 000,342.9
+2015,mit und ohne Migrationshintergrund,Lebensgemeinschaften,Insgesamt,in 1 000,273.2
+2015,ohne Migrationshintergrund,Lebensgemeinschaften,Insgesamt,in 1 000,226.9
+2015,mit Migrationshintergrund,Lebensgemeinschaften,Insgesamt,in 1 000,46.3
+2015,mit und ohne Migrationshintergrund,Alleinerziehende,Insgesamt,in 1 000,249.2
+2015,ohne Migrationshintergrund,Alleinerziehende,Insgesamt,in 1 000,201.9
+2015,mit Migrationshintergrund,Alleinerziehende,Insgesamt,in 1 000,47.3
+2016,mit und ohne Migrationshintergrund,Insgesamt,Insgesamt,in 1 000,2256.1
+2016,ohne Migrationshintergrund,Insgesamt,Insgesamt,in 1 000,1779.4
+2016,mit Migrationshintergrund,Insgesamt,Insgesamt,in 1 000,476.8
+2016,mit und ohne Migrationshintergrund,Ehepaare,Insgesamt,in 1 000,1728
+2016,ohne Migrationshintergrund,Ehepaare,Insgesamt,in 1 000,1358
+2016,mit Migrationshintergrund,Ehepaare,Insgesamt,in 1 000,370
+2016,mit und ohne Migrationshintergrund,Lebensgemeinschaften,Insgesamt,in 1 000,267.3
+2016,ohne Migrationshintergrund,Lebensgemeinschaften,Insgesamt,in 1 000,217.1
+2016,mit Migrationshintergrund,Lebensgemeinschaften,Insgesamt,in 1 000,50.1
+2016,mit und ohne Migrationshintergrund,Alleinerziehende,Insgesamt,in 1 000,260.8
+2016,ohne Migrationshintergrund,Alleinerziehende,Insgesamt,in 1 000,204.2
+2016,mit Migrationshintergrund,Alleinerziehende,Insgesamt,in 1 000,56.6
+2017,mit und ohne Migrationshintergrund,Insgesamt,Insgesamt,in 1 000,2242.7
+2017,ohne Migrationshintergrund,Insgesamt,Insgesamt,in 1 000,1737.6
+2017,mit Migrationshintergrund,Insgesamt,Insgesamt,in 1 000,505.1
+2017,mit und ohne Migrationshintergrund,Ehepaare,Insgesamt,in 1 000,1707.3
+2017,ohne Migrationshintergrund,Ehepaare,Insgesamt,in 1 000,1311.7
+2017,mit Migrationshintergrund,Ehepaare,Insgesamt,in 1 000,395.6
+2017,mit und ohne Migrationshintergrund,Lebensgemeinschaften,Insgesamt,in 1 000,291
+2017,ohne Migrationshintergrund,Lebensgemeinschaften,Insgesamt,in 1 000,235.3
+2017,mit Migrationshintergrund,Lebensgemeinschaften,Insgesamt,in 1 000,55.7
+2017,mit und ohne Migrationshintergrund,Alleinerziehende,Insgesamt,in 1 000,244.4
+2017,ohne Migrationshintergrund,Alleinerziehende,Insgesamt,in 1 000,190.7
+2017,mit Migrationshintergrund,Alleinerziehende,Insgesamt,in 1 000,53.7
+2018,mit und ohne Migrationshintergrund,Insgesamt,Insgesamt,in 1 000,2255.4
+2018,ohne Migrationshintergrund,Insgesamt,Insgesamt,in 1 000,1713
+2018,mit Migrationshintergrund,Insgesamt,Insgesamt,in 1 000,542.3
+2018,mit und ohne Migrationshintergrund,Ehepaare,Insgesamt,in 1 000,1717.1
+2018,ohne Migrationshintergrund,Ehepaare,Insgesamt,in 1 000,1294.3
+2018,mit Migrationshintergrund,Ehepaare,Insgesamt,in 1 000,422.8
+2018,mit und ohne Migrationshintergrund,Lebensgemeinschaften,Insgesamt,in 1 000,300.8
+2018,ohne Migrationshintergrund,Lebensgemeinschaften,Insgesamt,in 1 000,234
+2018,mit Migrationshintergrund,Lebensgemeinschaften,Insgesamt,in 1 000,66.8
+2018,mit und ohne Migrationshintergrund,Alleinerziehende,Insgesamt,in 1 000,237.5
+2018,ohne Migrationshintergrund,Alleinerziehende,Insgesamt,in 1 000,184.7
+2018,mit Migrationshintergrund,Alleinerziehende,Insgesamt,in 1 000,52.8
+2019,mit und ohne Migrationshintergrund,Insgesamt,Insgesamt,in 1 000,2249.6
+2019,ohne Migrationshintergrund,Insgesamt,Insgesamt,in 1 000,1706.1
+2019,mit Migrationshintergrund,Insgesamt,Insgesamt,in 1 000,543.5
+2019,mit und ohne Migrationshintergrund,Ehepaare,Insgesamt,in 1 000,1710.4
+2019,ohne Migrationshintergrund,Ehepaare,Insgesamt,in 1 000,1285.7
+2019,mit Migrationshintergrund,Ehepaare,Insgesamt,in 1 000,424.6
+2019,mit und ohne Migrationshintergrund,Lebensgemeinschaften,Insgesamt,in 1 000,299.2
+2019,ohne Migrationshintergrund,Lebensgemeinschaften,Insgesamt,in 1 000,236.2
+2019,mit Migrationshintergrund,Lebensgemeinschaften,Insgesamt,in 1 000,63.1
+2019,mit und ohne Migrationshintergrund,Alleinerziehende,Insgesamt,in 1 000,240
+2019,ohne Migrationshintergrund,Alleinerziehende,Insgesamt,in 1 000,184.2
+2019,mit Migrationshintergrund,Alleinerziehende,Insgesamt,in 1 000,55.8
+2020,mit und ohne Migrationshintergrund,Insgesamt,Insgesamt,in 1 000,
+2020,ohne Migrationshintergrund,Insgesamt,Insgesamt,in 1 000,
+2020,mit Migrationshintergrund,Insgesamt,Insgesamt,in 1 000,
+2020,mit und ohne Migrationshintergrund,Ehepaare,Insgesamt,in 1 000,
+2020,ohne Migrationshintergrund,Ehepaare,Insgesamt,in 1 000,
+2020,mit Migrationshintergrund,Ehepaare,Insgesamt,in 1 000,
+2020,mit und ohne Migrationshintergrund,Lebensgemeinschaften,Insgesamt,in 1 000,
+2020,ohne Migrationshintergrund,Lebensgemeinschaften,Insgesamt,in 1 000,
+2020,mit Migrationshintergrund,Lebensgemeinschaften,Insgesamt,in 1 000,
+2020,mit und ohne Migrationshintergrund,Alleinerziehende,Insgesamt,in 1 000,
+2020,ohne Migrationshintergrund,Alleinerziehende,Insgesamt,in 1 000,
+2020,mit Migrationshintergrund,Alleinerziehende,Insgesamt,in 1 000,
+2021,mit und ohne Migrationshintergrund,Insgesamt,Insgesamt,in 1 000,2277
+2021,ohne Migrationshintergrund,Insgesamt,Insgesamt,in 1 000,1667
+2021,mit Migrationshintergrund,Insgesamt,Insgesamt,in 1 000,610
+2021,mit und ohne Migrationshintergrund,Ehepaare,Insgesamt,in 1 000,1724
+2021,ohne Migrationshintergrund,Ehepaare,Insgesamt,in 1 000,1259
+2021,mit Migrationshintergrund,Ehepaare,Insgesamt,in 1 000,464
+2021,mit und ohne Migrationshintergrund,Lebensgemeinschaften,Insgesamt,in 1 000,312
+2021,ohne Migrationshintergrund,Lebensgemeinschaften,Insgesamt,in 1 000,240
+2021,mit Migrationshintergrund,Lebensgemeinschaften,Insgesamt,in 1 000,73
+2021,mit und ohne Migrationshintergrund,Alleinerziehende,Insgesamt,in 1 000,241
+2021,ohne Migrationshintergrund,Alleinerziehende,Insgesamt,in 1 000,168
+2021,mit Migrationshintergrund,Alleinerziehende,Insgesamt,in 1 000,73
+2011,mit und ohne Migrationshintergrund,Insgesamt,ohne ledige Kinder,in 1 000,1122.3
+2011,ohne Migrationshintergrund,Insgesamt,ohne ledige Kinder,in 1 000,971.6
+2011,mit Migrationshintergrund,Insgesamt,ohne ledige Kinder,in 1 000,150.7
+2011,mit und ohne Migrationshintergrund,Ehepaare,ohne ledige Kinder,in 1 000,938.7
+2011,ohne Migrationshintergrund,Ehepaare,ohne ledige Kinder,in 1 000,812.2
+2011,mit Migrationshintergrund,Ehepaare,ohne ledige Kinder,in 1 000,126.5
+2011,mit und ohne Migrationshintergrund,Lebensgemeinschaften,ohne ledige Kinder,in 1 000,183.6
+2011,ohne Migrationshintergrund,Lebensgemeinschaften,ohne ledige Kinder,in 1 000,159.4
+2011,mit Migrationshintergrund,Lebensgemeinschaften,ohne ledige Kinder,in 1 000,24.2
+2011,mit und ohne Migrationshintergrund,Alleinerziehende,ohne ledige Kinder,in 1 000,
+2011,ohne Migrationshintergrund,Alleinerziehende,ohne ledige Kinder,in 1 000,
+2011,mit Migrationshintergrund,Alleinerziehende,ohne ledige Kinder,in 1 000,
+2012,mit und ohne Migrationshintergrund,Insgesamt,ohne ledige Kinder,in 1 000,1128.4
+2012,ohne Migrationshintergrund,Insgesamt,ohne ledige Kinder,in 1 000,970.1
+2012,mit Migrationshintergrund,Insgesamt,ohne ledige Kinder,in 1 000,158.2
+2012,mit und ohne Migrationshintergrund,Ehepaare,ohne ledige Kinder,in 1 000,950.5
+2012,ohne Migrationshintergrund,Ehepaare,ohne ledige Kinder,in 1 000,816.2
+2012,mit Migrationshintergrund,Ehepaare,ohne ledige Kinder,in 1 000,134.2
+2012,mit und ohne Migrationshintergrund,Lebensgemeinschaften,ohne ledige Kinder,in 1 000,177.9
+2012,ohne Migrationshintergrund,Lebensgemeinschaften,ohne ledige Kinder,in 1 000,153.9
+2012,mit Migrationshintergrund,Lebensgemeinschaften,ohne ledige Kinder,in 1 000,24
+2012,mit und ohne Migrationshintergrund,Alleinerziehende,ohne ledige Kinder,in 1 000,
+2012,ohne Migrationshintergrund,Alleinerziehende,ohne ledige Kinder,in 1 000,
+2012,mit Migrationshintergrund,Alleinerziehende,ohne ledige Kinder,in 1 000,
+2013,mit und ohne Migrationshintergrund,Insgesamt,ohne ledige Kinder,in 1 000,1139.4
+2013,ohne Migrationshintergrund,Insgesamt,ohne ledige Kinder,in 1 000,959.3
+2013,mit Migrationshintergrund,Insgesamt,ohne ledige Kinder,in 1 000,180.1
+2013,mit und ohne Migrationshintergrund,Ehepaare,ohne ledige Kinder,in 1 000,959.8
+2013,ohne Migrationshintergrund,Ehepaare,ohne ledige Kinder,in 1 000,814.8
+2013,mit Migrationshintergrund,Ehepaare,ohne ledige Kinder,in 1 000,145
+2013,mit und ohne Migrationshintergrund,Lebensgemeinschaften,ohne ledige Kinder,in 1 000,179.5
+2013,ohne Migrationshintergrund,Lebensgemeinschaften,ohne ledige Kinder,in 1 000,144.5
+2013,mit Migrationshintergrund,Lebensgemeinschaften,ohne ledige Kinder,in 1 000,35
+2013,mit und ohne Migrationshintergrund,Alleinerziehende,ohne ledige Kinder,in 1 000,
+2013,ohne Migrationshintergrund,Alleinerziehende,ohne ledige Kinder,in 1 000,
+2013,mit Migrationshintergrund,Alleinerziehende,ohne ledige Kinder,in 1 000,
+2014,mit und ohne Migrationshintergrund,Insgesamt,ohne ledige Kinder,in 1 000,1146.5
+2014,ohne Migrationshintergrund,Insgesamt,ohne ledige Kinder,in 1 000,977
+2014,mit Migrationshintergrund,Insgesamt,ohne ledige Kinder,in 1 000,169.5
+2014,mit und ohne Migrationshintergrund,Ehepaare,ohne ledige Kinder,in 1 000,960.1
+2014,ohne Migrationshintergrund,Ehepaare,ohne ledige Kinder,in 1 000,819.1
+2014,mit Migrationshintergrund,Ehepaare,ohne ledige Kinder,in 1 000,140.9
+2014,mit und ohne Migrationshintergrund,Lebensgemeinschaften,ohne ledige Kinder,in 1 000,186.5
+2014,ohne Migrationshintergrund,Lebensgemeinschaften,ohne ledige Kinder,in 1 000,157.9
+2014,mit Migrationshintergrund,Lebensgemeinschaften,ohne ledige Kinder,in 1 000,28.6
+2014,mit und ohne Migrationshintergrund,Alleinerziehende,ohne ledige Kinder,in 1 000,
+2014,ohne Migrationshintergrund,Alleinerziehende,ohne ledige Kinder,in 1 000,
+2014,mit Migrationshintergrund,Alleinerziehende,ohne ledige Kinder,in 1 000,
+2015,mit und ohne Migrationshintergrund,Insgesamt,ohne ledige Kinder,in 1 000,1148
+2015,ohne Migrationshintergrund,Insgesamt,ohne ledige Kinder,in 1 000,978.4
+2015,mit Migrationshintergrund,Insgesamt,ohne ledige Kinder,in 1 000,169.6
+2015,mit und ohne Migrationshintergrund,Ehepaare,ohne ledige Kinder,in 1 000,953.7
+2015,ohne Migrationshintergrund,Ehepaare,ohne ledige Kinder,in 1 000,814.2
+2015,mit Migrationshintergrund,Ehepaare,ohne ledige Kinder,in 1 000,139.5
+2015,mit und ohne Migrationshintergrund,Lebensgemeinschaften,ohne ledige Kinder,in 1 000,194.3
+2015,ohne Migrationshintergrund,Lebensgemeinschaften,ohne ledige Kinder,in 1 000,164.2
+2015,mit Migrationshintergrund,Lebensgemeinschaften,ohne ledige Kinder,in 1 000,30.1
+2015,mit und ohne Migrationshintergrund,Alleinerziehende,ohne ledige Kinder,in 1 000,
+2015,ohne Migrationshintergrund,Alleinerziehende,ohne ledige Kinder,in 1 000,
+2015,mit Migrationshintergrund,Alleinerziehende,ohne ledige Kinder,in 1 000,
+2016,mit und ohne Migrationshintergrund,Insgesamt,ohne ledige Kinder,in 1 000,1144.1
+2016,ohne Migrationshintergrund,Insgesamt,ohne ledige Kinder,in 1 000,959.4
+2016,mit Migrationshintergrund,Insgesamt,ohne ledige Kinder,in 1 000,184.6
+2016,mit und ohne Migrationshintergrund,Ehepaare,ohne ledige Kinder,in 1 000,954.9
+2016,ohne Migrationshintergrund,Ehepaare,ohne ledige Kinder,in 1 000,801.8
+2016,mit Migrationshintergrund,Ehepaare,ohne ledige Kinder,in 1 000,153.1
+2016,mit und ohne Migrationshintergrund,Lebensgemeinschaften,ohne ledige Kinder,in 1 000,189.2
+2016,ohne Migrationshintergrund,Lebensgemeinschaften,ohne ledige Kinder,in 1 000,157.6
+2016,mit Migrationshintergrund,Lebensgemeinschaften,ohne ledige Kinder,in 1 000,31.5
+2016,mit und ohne Migrationshintergrund,Alleinerziehende,ohne ledige Kinder,in 1 000,
+2016,ohne Migrationshintergrund,Alleinerziehende,ohne ledige Kinder,in 1 000,
+2016,mit Migrationshintergrund,Alleinerziehende,ohne ledige Kinder,in 1 000,
+2017,mit und ohne Migrationshintergrund,Insgesamt,ohne ledige Kinder,in 1 000,1143.2
+2017,ohne Migrationshintergrund,Insgesamt,ohne ledige Kinder,in 1 000,948.1
+2017,mit Migrationshintergrund,Insgesamt,ohne ledige Kinder,in 1 000,195.1
+2017,mit und ohne Migrationshintergrund,Ehepaare,ohne ledige Kinder,in 1 000,935.8
+2017,ohne Migrationshintergrund,Ehepaare,ohne ledige Kinder,in 1 000,777.2
+2017,mit Migrationshintergrund,Ehepaare,ohne ledige Kinder,in 1 000,158.7
+2017,mit und ohne Migrationshintergrund,Lebensgemeinschaften,ohne ledige Kinder,in 1 000,207.4
+2017,ohne Migrationshintergrund,Lebensgemeinschaften,ohne ledige Kinder,in 1 000,171
+2017,mit Migrationshintergrund,Lebensgemeinschaften,ohne ledige Kinder,in 1 000,36.4
+2017,mit und ohne Migrationshintergrund,Alleinerziehende,ohne ledige Kinder,in 1 000,
+2017,ohne Migrationshintergrund,Alleinerziehende,ohne ledige Kinder,in 1 000,
+2017,mit Migrationshintergrund,Alleinerziehende,ohne ledige Kinder,in 1 000,
+2018,mit und ohne Migrationshintergrund,Insgesamt,ohne ledige Kinder,in 1 000,1172.7
+2018,ohne Migrationshintergrund,Insgesamt,ohne ledige Kinder,in 1 000,954.3
+2018,mit Migrationshintergrund,Insgesamt,ohne ledige Kinder,in 1 000,218.3
+2018,mit und ohne Migrationshintergrund,Ehepaare,ohne ledige Kinder,in 1 000,955.6
+2018,ohne Migrationshintergrund,Ehepaare,ohne ledige Kinder,in 1 000,782.3
+2018,mit Migrationshintergrund,Ehepaare,ohne ledige Kinder,in 1 000,173.3
+2018,mit und ohne Migrationshintergrund,Lebensgemeinschaften,ohne ledige Kinder,in 1 000,217
+2018,ohne Migrationshintergrund,Lebensgemeinschaften,ohne ledige Kinder,in 1 000,172
+2018,mit Migrationshintergrund,Lebensgemeinschaften,ohne ledige Kinder,in 1 000,45.1
+2018,mit und ohne Migrationshintergrund,Alleinerziehende,ohne ledige Kinder,in 1 000,
+2018,ohne Migrationshintergrund,Alleinerziehende,ohne ledige Kinder,in 1 000,
+2018,mit Migrationshintergrund,Alleinerziehende,ohne ledige Kinder,in 1 000,
+2019,mit und ohne Migrationshintergrund,Insgesamt,ohne ledige Kinder,in 1 000,1154.3
+2019,ohne Migrationshintergrund,Insgesamt,ohne ledige Kinder,in 1 000,943
+2019,mit Migrationshintergrund,Insgesamt,ohne ledige Kinder,in 1 000,211.3
+2019,mit und ohne Migrationshintergrund,Ehepaare,ohne ledige Kinder,in 1 000,946.8
+2019,ohne Migrationshintergrund,Ehepaare,ohne ledige Kinder,in 1 000,775.4
+2019,mit Migrationshintergrund,Ehepaare,ohne ledige Kinder,in 1 000,171.4
+2019,mit und ohne Migrationshintergrund,Lebensgemeinschaften,ohne ledige Kinder,in 1 000,207.5
+2019,ohne Migrationshintergrund,Lebensgemeinschaften,ohne ledige Kinder,in 1 000,167.6
+2019,mit Migrationshintergrund,Lebensgemeinschaften,ohne ledige Kinder,in 1 000,39.9
+2019,mit und ohne Migrationshintergrund,Alleinerziehende,ohne ledige Kinder,in 1 000,
+2019,ohne Migrationshintergrund,Alleinerziehende,ohne ledige Kinder,in 1 000,
+2019,mit Migrationshintergrund,Alleinerziehende,ohne ledige Kinder,in 1 000,
+2020,mit und ohne Migrationshintergrund,Insgesamt,ohne ledige Kinder,in 1 000,
+2020,ohne Migrationshintergrund,Insgesamt,ohne ledige Kinder,in 1 000,
+2020,mit Migrationshintergrund,Insgesamt,ohne ledige Kinder,in 1 000,
+2020,mit und ohne Migrationshintergrund,Ehepaare,ohne ledige Kinder,in 1 000,
+2020,ohne Migrationshintergrund,Ehepaare,ohne ledige Kinder,in 1 000,
+2020,mit Migrationshintergrund,Ehepaare,ohne ledige Kinder,in 1 000,
+2020,mit und ohne Migrationshintergrund,Lebensgemeinschaften,ohne ledige Kinder,in 1 000,
+2020,ohne Migrationshintergrund,Lebensgemeinschaften,ohne ledige Kinder,in 1 000,
+2020,mit Migrationshintergrund,Lebensgemeinschaften,ohne ledige Kinder,in 1 000,
+2020,mit und ohne Migrationshintergrund,Alleinerziehende,ohne ledige Kinder,in 1 000,
+2020,ohne Migrationshintergrund,Alleinerziehende,ohne ledige Kinder,in 1 000,
+2020,mit Migrationshintergrund,Alleinerziehende,ohne ledige Kinder,in 1 000,
+2021,mit und ohne Migrationshintergrund,Insgesamt,ohne ledige Kinder,in 1 000,1171
+2021,ohne Migrationshintergrund,Insgesamt,ohne ledige Kinder,in 1 000,941
+2021,mit Migrationshintergrund,Insgesamt,ohne ledige Kinder,in 1 000,230
+2021,mit und ohne Migrationshintergrund,Ehepaare,ohne ledige Kinder,in 1 000,955
+2021,ohne Migrationshintergrund,Ehepaare,ohne ledige Kinder,in 1 000,767
+2021,mit Migrationshintergrund,Ehepaare,ohne ledige Kinder,in 1 000,187
+2021,mit und ohne Migrationshintergrund,Lebensgemeinschaften,ohne ledige Kinder,in 1 000,216
+2021,ohne Migrationshintergrund,Lebensgemeinschaften,ohne ledige Kinder,in 1 000,174
+2021,mit Migrationshintergrund,Lebensgemeinschaften,ohne ledige Kinder,in 1 000,42
+2021,mit und ohne Migrationshintergrund,Alleinerziehende,ohne ledige Kinder,in 1 000,
+2021,ohne Migrationshintergrund,Alleinerziehende,ohne ledige Kinder,in 1 000,
+2021,mit Migrationshintergrund,Alleinerziehende,ohne ledige Kinder,in 1 000,
+2011,mit und ohne Migrationshintergrund,Insgesamt,mit ledigen Kindern,in 1 000,1105.5
+2011,ohne Migrationshintergrund,Insgesamt,mit ledigen Kindern,in 1 000,859.7
+2011,mit Migrationshintergrund,Insgesamt,mit ledigen Kindern,in 1 000,245.8
+2011,mit und ohne Migrationshintergrund,Ehepaare,mit ledigen Kindern,in 1 000,801.5
+2011,ohne Migrationshintergrund,Ehepaare,mit ledigen Kindern,in 1 000,609.7
+2011,mit Migrationshintergrund,Ehepaare,mit ledigen Kindern,in 1 000,191.8
+2011,mit und ohne Migrationshintergrund,Lebensgemeinschaften,mit ledigen Kindern,in 1 000,65.2
+2011,ohne Migrationshintergrund,Lebensgemeinschaften,mit ledigen Kindern,in 1 000,53.5
+2011,mit Migrationshintergrund,Lebensgemeinschaften,mit ledigen Kindern,in 1 000,11.7
+2011,mit und ohne Migrationshintergrund,Alleinerziehende,mit ledigen Kindern,in 1 000,238.9
+2011,ohne Migrationshintergrund,Alleinerziehende,mit ledigen Kindern,in 1 000,196.6
+2011,mit Migrationshintergrund,Alleinerziehende,mit ledigen Kindern,in 1 000,42.3
+2012,mit und ohne Migrationshintergrund,Insgesamt,mit ledigen Kindern,in 1 000,1095.4
+2012,ohne Migrationshintergrund,Insgesamt,mit ledigen Kindern,in 1 000,847
+2012,mit Migrationshintergrund,Insgesamt,mit ledigen Kindern,in 1 000,248.4
+2012,mit und ohne Migrationshintergrund,Ehepaare,mit ledigen Kindern,in 1 000,791.3
+2012,ohne Migrationshintergrund,Ehepaare,mit ledigen Kindern,in 1 000,596.5
+2012,mit Migrationshintergrund,Ehepaare,mit ledigen Kindern,in 1 000,194.8
+2012,mit und ohne Migrationshintergrund,Lebensgemeinschaften,mit ledigen Kindern,in 1 000,68.3
+2012,ohne Migrationshintergrund,Lebensgemeinschaften,mit ledigen Kindern,in 1 000,54.9
+2012,mit Migrationshintergrund,Lebensgemeinschaften,mit ledigen Kindern,in 1 000,13.4
+2012,mit und ohne Migrationshintergrund,Alleinerziehende,mit ledigen Kindern,in 1 000,235.8
+2012,ohne Migrationshintergrund,Alleinerziehende,mit ledigen Kindern,in 1 000,195.6
+2012,mit Migrationshintergrund,Alleinerziehende,mit ledigen Kindern,in 1 000,40.2
+2013,mit und ohne Migrationshintergrund,Insgesamt,mit ledigen Kindern,in 1 000,1087.5
+2013,ohne Migrationshintergrund,Insgesamt,mit ledigen Kindern,in 1 000,819.3
+2013,mit Migrationshintergrund,Insgesamt,mit ledigen Kindern,in 1 000,268.2
+2013,mit und ohne Migrationshintergrund,Ehepaare,mit ledigen Kindern,in 1 000,773.3
+2013,ohne Migrationshintergrund,Ehepaare,mit ledigen Kindern,in 1 000,568.4
+2013,mit Migrationshintergrund,Ehepaare,mit ledigen Kindern,in 1 000,205
+2013,mit und ohne Migrationshintergrund,Lebensgemeinschaften,mit ledigen Kindern,in 1 000,74.6
+2013,ohne Migrationshintergrund,Lebensgemeinschaften,mit ledigen Kindern,in 1 000,58.4
+2013,mit Migrationshintergrund,Lebensgemeinschaften,mit ledigen Kindern,in 1 000,16.2
+2013,mit und ohne Migrationshintergrund,Alleinerziehende,mit ledigen Kindern,in 1 000,239.6
+2013,ohne Migrationshintergrund,Alleinerziehende,mit ledigen Kindern,in 1 000,192.6
+2013,mit Migrationshintergrund,Alleinerziehende,mit ledigen Kindern,in 1 000,47
+2014,mit und ohne Migrationshintergrund,Insgesamt,mit ledigen Kindern,in 1 000,1088.7
+2014,ohne Migrationshintergrund,Insgesamt,mit ledigen Kindern,in 1 000,830.8
+2014,mit Migrationshintergrund,Insgesamt,mit ledigen Kindern,in 1 000,257.9
+2014,mit und ohne Migrationshintergrund,Ehepaare,mit ledigen Kindern,in 1 000,771.2
+2014,ohne Migrationshintergrund,Ehepaare,mit ledigen Kindern,in 1 000,573.1
+2014,mit Migrationshintergrund,Ehepaare,mit ledigen Kindern,in 1 000,198.1
+2014,mit und ohne Migrationshintergrund,Lebensgemeinschaften,mit ledigen Kindern,in 1 000,79.7
+2014,ohne Migrationshintergrund,Lebensgemeinschaften,mit ledigen Kindern,in 1 000,63.5
+2014,mit Migrationshintergrund,Lebensgemeinschaften,mit ledigen Kindern,in 1 000,16.1
+2014,mit und ohne Migrationshintergrund,Alleinerziehende,mit ledigen Kindern,in 1 000,237.9
+2014,ohne Migrationshintergrund,Alleinerziehende,mit ledigen Kindern,in 1 000,194.2
+2014,mit Migrationshintergrund,Alleinerziehende,mit ledigen Kindern,in 1 000,43.7
+2015,mit und ohne Migrationshintergrund,Insgesamt,mit ledigen Kindern,in 1 000,1092.5
+2015,ohne Migrationshintergrund,Insgesamt,mit ledigen Kindern,in 1 000,825.6
+2015,mit Migrationshintergrund,Insgesamt,mit ledigen Kindern,in 1 000,267
+2015,mit und ohne Migrationshintergrund,Ehepaare,mit ledigen Kindern,in 1 000,764.4
+2015,ohne Migrationshintergrund,Ehepaare,mit ledigen Kindern,in 1 000,561
+2015,mit Migrationshintergrund,Ehepaare,mit ledigen Kindern,in 1 000,203.4
+2015,mit und ohne Migrationshintergrund,Lebensgemeinschaften,mit ledigen Kindern,in 1 000,78.9
+2015,ohne Migrationshintergrund,Lebensgemeinschaften,mit ledigen Kindern,in 1 000,62.7
+2015,mit Migrationshintergrund,Lebensgemeinschaften,mit ledigen Kindern,in 1 000,16.2
+2015,mit und ohne Migrationshintergrund,Alleinerziehende,mit ledigen Kindern,in 1 000,249.2
+2015,ohne Migrationshintergrund,Alleinerziehende,mit ledigen Kindern,in 1 000,201.9
+2015,mit Migrationshintergrund,Alleinerziehende,mit ledigen Kindern,in 1 000,47.3
+2016,mit und ohne Migrationshintergrund,Insgesamt,mit ledigen Kindern,in 1 000,1112.1
+2016,ohne Migrationshintergrund,Insgesamt,mit ledigen Kindern,in 1 000,819.9
+2016,mit Migrationshintergrund,Insgesamt,mit ledigen Kindern,in 1 000,292.1
+2016,mit und ohne Migrationshintergrund,Ehepaare,mit ledigen Kindern,in 1 000,773.1
+2016,ohne Migrationshintergrund,Ehepaare,mit ledigen Kindern,in 1 000,556.2
+2016,mit Migrationshintergrund,Ehepaare,mit ledigen Kindern,in 1 000,217
+2016,mit und ohne Migrationshintergrund,Lebensgemeinschaften,mit ledigen Kindern,in 1 000,78.1
+2016,ohne Migrationshintergrund,Lebensgemeinschaften,mit ledigen Kindern,in 1 000,59.5
+2016,mit Migrationshintergrund,Lebensgemeinschaften,mit ledigen Kindern,in 1 000,18.6
+2016,mit und ohne Migrationshintergrund,Alleinerziehende,mit ledigen Kindern,in 1 000,260.8
+2016,ohne Migrationshintergrund,Alleinerziehende,mit ledigen Kindern,in 1 000,204.2
+2016,mit Migrationshintergrund,Alleinerziehende,mit ledigen Kindern,in 1 000,56.6
+2017,mit und ohne Migrationshintergrund,Insgesamt,mit ledigen Kindern,in 1 000,1099.5
+2017,ohne Migrationshintergrund,Insgesamt,mit ledigen Kindern,in 1 000,789.5
+2017,mit Migrationshintergrund,Insgesamt,mit ledigen Kindern,in 1 000,310
+2017,mit und ohne Migrationshintergrund,Ehepaare,mit ledigen Kindern,in 1 000,771.5
+2017,ohne Migrationshintergrund,Ehepaare,mit ledigen Kindern,in 1 000,534.5
+2017,mit Migrationshintergrund,Ehepaare,mit ledigen Kindern,in 1 000,237
+2017,mit und ohne Migrationshintergrund,Lebensgemeinschaften,mit ledigen Kindern,in 1 000,83.6
+2017,ohne Migrationshintergrund,Lebensgemeinschaften,mit ledigen Kindern,in 1 000,64.3
+2017,mit Migrationshintergrund,Lebensgemeinschaften,mit ledigen Kindern,in 1 000,19.3
+2017,mit und ohne Migrationshintergrund,Alleinerziehende,mit ledigen Kindern,in 1 000,244.4
+2017,ohne Migrationshintergrund,Alleinerziehende,mit ledigen Kindern,in 1 000,190.7
+2017,mit Migrationshintergrund,Alleinerziehende,mit ledigen Kindern,in 1 000,53.7
+2018,mit und ohne Migrationshintergrund,Insgesamt,mit ledigen Kindern,in 1 000,1082.7
+2018,ohne Migrationshintergrund,Insgesamt,mit ledigen Kindern,in 1 000,758.7
+2018,mit Migrationshintergrund,Insgesamt,mit ledigen Kindern,in 1 000,324
+2018,mit und ohne Migrationshintergrund,Ehepaare,mit ledigen Kindern,in 1 000,761.4
+2018,ohne Migrationshintergrund,Ehepaare,mit ledigen Kindern,in 1 000,511.9
+2018,mit Migrationshintergrund,Ehepaare,mit ledigen Kindern,in 1 000,249.5
+2018,mit und ohne Migrationshintergrund,Lebensgemeinschaften,mit ledigen Kindern,in 1 000,83.7
+2018,ohne Migrationshintergrund,Lebensgemeinschaften,mit ledigen Kindern,in 1 000,62.1
+2018,mit Migrationshintergrund,Lebensgemeinschaften,mit ledigen Kindern,in 1 000,21.7
+2018,mit und ohne Migrationshintergrund,Alleinerziehende,mit ledigen Kindern,in 1 000,237.5
+2018,ohne Migrationshintergrund,Alleinerziehende,mit ledigen Kindern,in 1 000,184.7
+2018,mit Migrationshintergrund,Alleinerziehende,mit ledigen Kindern,in 1 000,52.8
+2019,mit und ohne Migrationshintergrund,Insgesamt,mit ledigen Kindern,in 1 000,1095.3
+2019,ohne Migrationshintergrund,Insgesamt,mit ledigen Kindern,in 1 000,763
+2019,mit Migrationshintergrund,Insgesamt,mit ledigen Kindern,in 1 000,332.2
+2019,mit und ohne Migrationshintergrund,Ehepaare,mit ledigen Kindern,in 1 000,763.6
+2019,ohne Migrationshintergrund,Ehepaare,mit ledigen Kindern,in 1 000,510.3
+2019,mit Migrationshintergrund,Ehepaare,mit ledigen Kindern,in 1 000,253.3
+2019,mit und ohne Migrationshintergrund,Lebensgemeinschaften,mit ledigen Kindern,in 1 000,91.7
+2019,ohne Migrationshintergrund,Lebensgemeinschaften,mit ledigen Kindern,in 1 000,68.5
+2019,mit Migrationshintergrund,Lebensgemeinschaften,mit ledigen Kindern,in 1 000,23.2
+2019,mit und ohne Migrationshintergrund,Alleinerziehende,mit ledigen Kindern,in 1 000,240
+2019,ohne Migrationshintergrund,Alleinerziehende,mit ledigen Kindern,in 1 000,184.2
+2019,mit Migrationshintergrund,Alleinerziehende,mit ledigen Kindern,in 1 000,55.8
+2020,mit und ohne Migrationshintergrund,Insgesamt,mit ledigen Kindern,in 1 000,
+2020,ohne Migrationshintergrund,Insgesamt,mit ledigen Kindern,in 1 000,
+2020,mit Migrationshintergrund,Insgesamt,mit ledigen Kindern,in 1 000,
+2020,mit und ohne Migrationshintergrund,Ehepaare,mit ledigen Kindern,in 1 000,
+2020,ohne Migrationshintergrund,Ehepaare,mit ledigen Kindern,in 1 000,
+2020,mit Migrationshintergrund,Ehepaare,mit ledigen Kindern,in 1 000,
+2020,mit und ohne Migrationshintergrund,Lebensgemeinschaften,mit ledigen Kindern,in 1 000,
+2020,ohne Migrationshintergrund,Lebensgemeinschaften,mit ledigen Kindern,in 1 000,
+2020,mit Migrationshintergrund,Lebensgemeinschaften,mit ledigen Kindern,in 1 000,
+2020,mit und ohne Migrationshintergrund,Alleinerziehende,mit ledigen Kindern,in 1 000,
+2020,ohne Migrationshintergrund,Alleinerziehende,mit ledigen Kindern,in 1 000,
+2020,mit Migrationshintergrund,Alleinerziehende,mit ledigen Kindern,in 1 000,
+2021,mit und ohne Migrationshintergrund,Insgesamt,mit ledigen Kindern,in 1 000,1106
+2021,ohne Migrationshintergrund,Insgesamt,mit ledigen Kindern,in 1 000,726
+2021,mit Migrationshintergrund,Insgesamt,mit ledigen Kindern,in 1 000,380
+2021,mit und ohne Migrationshintergrund,Ehepaare,mit ledigen Kindern,in 1 000,769
+2021,ohne Migrationshintergrund,Ehepaare,mit ledigen Kindern,in 1 000,492
+2021,mit Migrationshintergrund,Ehepaare,mit ledigen Kindern,in 1 000,277
+2021,mit und ohne Migrationshintergrund,Lebensgemeinschaften,mit ledigen Kindern,in 1 000,96
+2021,ohne Migrationshintergrund,Lebensgemeinschaften,mit ledigen Kindern,in 1 000,66
+2021,mit Migrationshintergrund,Lebensgemeinschaften,mit ledigen Kindern,in 1 000,31
+2021,mit und ohne Migrationshintergrund,Alleinerziehende,mit ledigen Kindern,in 1 000,241
+2021,ohne Migrationshintergrund,Alleinerziehende,mit ledigen Kindern,in 1 000,168
+2021,mit Migrationshintergrund,Alleinerziehende,mit ledigen Kindern,in 1 000,73
