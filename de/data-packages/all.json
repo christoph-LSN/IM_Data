@@ -776,7 +776,7 @@
             "title": "Jahr"
           },
           {
-            "name": "Land der Staatsabgehörigkeit",
+            "name": "Land der Staatsangehörigkeit",
             "type": "string",
             "constraints": {
               "enum": [
@@ -811,7 +811,7 @@
                 ""
               ]
             },
-            "title": "Land der Staatsabgehörigkeit"
+            "title": "Land der Staatsangehörigkeit"
           },
           {
             "name": "Units",
@@ -3039,7 +3039,7 @@
             "title": "Gebietseinheit"
           },
           {
-            "name": "Aufenthaltsdauer in Jahren",
+            "name": "Aufenthaltsdauer",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3052,7 +3052,7 @@
                 ""
               ]
             },
-            "title": "Aufenthaltsdauer in Jahren"
+            "title": "Aufenthaltsdauer"
           },
           {
             "name": "Geschlecht",
@@ -3622,7 +3622,7 @@
           }
         ]
       },
-      "title": "Ausländerinnen und Ausländer in Niedersachsen nach Altersgruppen (im Alter von … bis unter … Jahren)"
+      "title": "Ausländerinnen und Ausländer in Niedersachsen nach Altersgruppen"
     },
     {
       "path": "4-1-5/data.csv",
