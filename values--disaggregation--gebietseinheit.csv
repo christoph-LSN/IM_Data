@@ -1,12 +1,15 @@
 Value,Disaggregation combinations using this value,Number of indicators
+%,153,1
 Ammerland,6,1
 Aurich,6,1
 Braunschweig  Stadt,6,1
 Celle,6,1
 Cloppenburg,6,1
 Cuxhaven,6,1
+"dav. Hannover, Landeshauptstadt",1,1
 dav. Hannover  Lhst.,6,1
 dav. Hannover  Umland,11,2
+"dav. Hannover, Umland",1,1
 Delmenhorst  Stadt,6,1
 Deutschland,29,3
 Diepholz,6,1
@@ -24,19 +27,27 @@ Heidekreis,6,1
 Helmstedt,6,1
 Hildesheim,6,1
 Holzminden,6,1
+in 1000,136,1
 Leer,6,1
 Lüchow-Dannenberg,6,1
 Lüneburg,6,1
-Niedersachsen,250,31
+Mittelniedersachsen,1,1
+Niedersachsen,262,32
 Nienburg (Weser),6,1
+Nordniedersachsen,1,1
+Nordostniedersachsen,1,1
 Northeim,6,1
 Oldenburg,6,1
+Oldenburger Raum,1,1
 Oldenburg(Oldb)  Stadt,6,1
 Osnabrück  Stadt,6,1
 Osnabrück,6,1
 Osterholz,6,1
 Osterode,6,1
+Ostfriesland-Nordseeküste,1,1
+Ostniedersachsen,1,1
 Peine,6,1
+Region Hannover,12,1
 Rotenburg (Wümme),6,1
 Salzgitter  Stadt,6,1
 Schaumburg,6,1
@@ -45,14 +56,17 @@ Stat. Region Braunschweig,4,1
 Stat. Region Hannover,4,1
 Stat. Region Lüneburg,4,1
 Stat. Region Weser-Ems,4,1
-Statistische Region Braunschweig,197,26
-Statistische Region Hannover,197,26
-Statistische Region Lüneburg,197,26
-Statistische Region Weser-Ems,197,26
+Statistische Region Braunschweig,209,27
+Statistische Region Hannover,209,27
+Statistische Region Lüneburg,209,27
+Statistische Region Weser-Ems,209,27
+Südniedersachsen,1,1
 Uelzen,6,1
 Vechta,6,1
 Verden,6,1
+Weser-Leine-Bergland,1,1
 Wesermarsch,6,1
+Westniedersachsen,1,1
 Wilhelmshaven  Stadt,6,1
 Wittmund,6,1
 Wolfenbüttel,6,1

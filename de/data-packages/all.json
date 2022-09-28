@@ -2148,7 +2148,7 @@
             "title": "Jahr"
           },
           {
-            "name": "Unnamed: 1",
+            "name": "Gebietseinheit",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2174,7 +2174,7 @@
                 ""
               ]
             },
-            "title": "Unnamed: 1"
+            "title": "Gebietseinheit"
           },
           {
             "name": "Migrationserfahrung",
