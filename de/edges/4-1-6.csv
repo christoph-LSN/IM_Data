@@ -1,3 +1,4 @@
 From,To
-Nationalität,Schulart
-Schulart,Erreichter Abschluss
+Gebietseinheit,Erreichter Schulabschluss
+Erreichter Schulabschluss,Berufsbildende Schule
+Berufsbildende Schule,Nationalität
