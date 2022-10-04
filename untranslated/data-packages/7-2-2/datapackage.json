@@ -38,7 +38,7 @@
             }
           },
           {
-            "name": "Gschlecht",
+            "name": "Geschlecht",
             "type": "string",
             "constraints": {
               "enum": [

@@ -41,7 +41,7 @@
             "title": "Migrationsstatus"
           },
           {
-            "name": "Gschlecht",
+            "name": "Geschlecht",
             "type": "string",
             "constraints": {
               "enum": [
@@ -51,7 +51,7 @@
                 ""
               ]
             },
-            "title": "Gschlecht"
+            "title": "Geschlecht"
           },
           {
             "name": "Units",
@@ -76,5 +76,5 @@
   ],
   "profile": "data-package",
   "name": "7-2-2",
-  "title": "Bezugspersonen in Privathaushalten mit selbst bewohntem Wohneigentum sowie Eigentümerquoten 2006 – 2018 nach Migrationsstatus und Geschlecht"
+  "title": "Bezugspersonen in Privathaushalten mit selbst bewohntem Wohneigentum sowie Eigentümerquoten nach Migrationsstatus und Geschlecht"
 }
