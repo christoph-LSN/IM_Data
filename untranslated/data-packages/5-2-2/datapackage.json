@@ -76,13 +76,14 @@
             }
           },
           {
-            "name": "Geschlecht",
+            "name": "Qualifikation",
             "type": "string",
             "constraints": {
               "enum": [
-                "Insgesamt",
-                "Männer",
-                "Frauen",
+                "hoch",
+                "mittel",
+                "niedrig",
+                "unbekannt",
                 ""
               ]
             }
@@ -92,7 +93,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Anzahl",
+                "Prozent",
                 ""
               ]
             }
@@ -103,7 +104,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

@@ -16,41 +16,75 @@
             "title": "Jahr"
           },
           {
-            "name": "Kategorie",
+            "name": "Gebietseinheit",
             "type": "string",
             "constraints": {
               "enum": [
-                "Erwerbsquote",
-                "Erwerbstätigenquote",
-                "Erwerbslosenanteil",
+                "Braunschweig, Stadt",
+                "Salzgitter, Stadt",
+                "Wolfsburg, Stadt",
+                "Gifhorn",
+                "Goslar",
+                "Helmstedt",
+                "Northeim",
+                "Peine",
+                "Wolfenbüttel",
+                "Göttingen",
+                "Statistische Region Braunschweig",
+                "Hannover  Region",
+                "dav. Hannover, Lhst.",
+                "dav. Hannover, Umland",
+                "Diepholz",
+                "Hameln-Pyrmont",
+                "Hildesheim",
+                "Holzminden",
+                "Nienburg (Weser)",
+                "Schaumburg",
+                "Statistische Region Hannover",
+                "Celle",
+                "Cuxhaven",
+                "Harburg",
+                "Lüchow-Dannenberg",
+                "Lüneburg",
+                "Osterholz",
+                "Rotenburg (Wümme)",
+                "Heidekreis",
+                "Stade",
+                "Uelzen",
+                "Verden",
+                "Statistische Region Lüneburg",
+                "Delmenhorst, Stadt",
+                "Emden  Stadt",
+                "Oldenburg(Oldb), Stadt",
+                "Osnabrück, Stadt",
+                "Wilhelmshaven, Stadt",
+                "Ammerland",
+                "Aurich",
+                "Cloppenburg",
+                "Emsland",
+                "Friesland",
+                "Grafschaft Bentheim",
+                "Leer",
+                "Oldenburg",
+                "Osnabrück",
+                "Vechta",
+                "Wesermarsch",
+                "Wittmund",
+                "Statistische Region Weser-Ems",
+                "Niedersachsen",
                 ""
               ]
             },
-            "title": "Kategorie"
-          },
-          {
-            "name": "Migrationsstatus",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Insgesamt",
-                "ohne Migrationshintergrund",
-                "mit Migrationshintergrund",
-                "mit Migrationshintergrund und eigener Migrationserfahrung",
-                "mit Migrationshintergrund und ohne eigene Migrationserfahrung",
-                ""
-              ]
-            },
-            "title": "Migrationsstatus"
+            "title": "Gebietseinheit"
           },
           {
             "name": "Geschlecht",
             "type": "string",
             "constraints": {
               "enum": [
+                "Insgesamt",
                 "Männer",
                 "Frauen",
-                "Insgesamt",
                 ""
               ]
             },
@@ -61,15 +95,20 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "%",
+                "Anzahl",
                 ""
               ]
             },
             "title": "Units"
           },
           {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
@@ -78,5 +117,5 @@
   ],
   "profile": "data-package",
   "name": "5-2-1",
-  "title": "Erwerbsquote, Erwerbstätigenquote und Erwerbslosenanteil nach Zuwanderungsgeschichte"
+  "title": "Sozialversicherungspflichtig beschäftigte Ausländerinnen und Ausländer"
 }

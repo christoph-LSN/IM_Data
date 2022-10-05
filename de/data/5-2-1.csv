@@ -1,451 +1,1561 @@
-Year,Kategorie,Migrationsstatus,Geschlecht,Units,Value
-2019,Erwerbsquote,Insgesamt,Männer,%,83.03
-2019,Erwerbsquote,Insgesamt,Frauen,%,73.76
-2019,Erwerbsquote,Insgesamt,Insgesamt,%,78.46
-2018,Erwerbsquote,Insgesamt,Männer,%,82.14
-2018,Erwerbsquote,Insgesamt,Frauen,%,73.53
-2018,Erwerbsquote,Insgesamt,Insgesamt,%,77.91
-2017,Erwerbsquote,Insgesamt,Männer,%,81.61
-2017,Erwerbsquote,Insgesamt,Frauen,%,72.73
-2017,Erwerbsquote,Insgesamt,Insgesamt,%,77.26
-2016,Erwerbsquote,Insgesamt,Männer,%,81.13
-2016,Erwerbsquote,Insgesamt,Frauen,%,71.46
-2016,Erwerbsquote,Insgesamt,Insgesamt,%,76.38
-2015,Erwerbsquote,Insgesamt,Männer,%,81.4
-2015,Erwerbsquote,Insgesamt,Frauen,%,71.95
-2015,Erwerbsquote,Insgesamt,Insgesamt,%,76.71
-2014,Erwerbsquote,Insgesamt,Männer,%,82.1
-2014,Erwerbsquote,Insgesamt,Frauen,%,71.74
-2014,Erwerbsquote,Insgesamt,Insgesamt,%,76.96
-2013,Erwerbsquote,Insgesamt,Männer,%,82.15
-2013,Erwerbsquote,Insgesamt,Frauen,%,71.68
-2013,Erwerbsquote,Insgesamt,Insgesamt,%,76.93
-2012,Erwerbsquote,Insgesamt,Männer,%,81.54
-2012,Erwerbsquote,Insgesamt,Frauen,%,70.56
-2012,Erwerbsquote,Insgesamt,Insgesamt,%,76.09
-2011,Erwerbsquote,Insgesamt,Männer,%,81.68
-2011,Erwerbsquote,Insgesamt,Frauen,%,70.57
-2011,Erwerbsquote,Insgesamt,Insgesamt,%,76.15
-2005,Erwerbsquote,Insgesamt,Männer,%,79.62
-2005,Erwerbsquote,Insgesamt,Frauen,%,64.12
-2005,Erwerbsquote,Insgesamt,Insgesamt,%,71.94
-2019,Erwerbsquote,ohne Migrationshintergrund,Männer,%,84.49
-2019,Erwerbsquote,ohne Migrationshintergrund,Frauen,%,76.93
-2019,Erwerbsquote,ohne Migrationshintergrund,Insgesamt,%,80.72
-2018,Erwerbsquote,ohne Migrationshintergrund,Männer,%,83.7
-2018,Erwerbsquote,ohne Migrationshintergrund,Frauen,%,76.65
-2018,Erwerbsquote,ohne Migrationshintergrund,Insgesamt,%,80.2
-2017,Erwerbsquote,ohne Migrationshintergrund,Männer,%,83.41
-2017,Erwerbsquote,ohne Migrationshintergrund,Frauen,%,75.9
-2017,Erwerbsquote,ohne Migrationshintergrund,Insgesamt,%,79.69
-2016,Erwerbsquote,ohne Migrationshintergrund,Männer,%,82.69
-2016,Erwerbsquote,ohne Migrationshintergrund,Frauen,%,74.22
-2016,Erwerbsquote,ohne Migrationshintergrund,Insgesamt,%,78.49
-2015,Erwerbsquote,ohne Migrationshintergrund,Männer,%,82.38
-2015,Erwerbsquote,ohne Migrationshintergrund,Frauen,%,74.43
-2015,Erwerbsquote,ohne Migrationshintergrund,Insgesamt,%,78.43
-2014,Erwerbsquote,ohne Migrationshintergrund,Männer,%,83.01
-2014,Erwerbsquote,ohne Migrationshintergrund,Frauen,%,74.0
-2014,Erwerbsquote,ohne Migrationshintergrund,Insgesamt,%,78.53
-2013,Erwerbsquote,ohne Migrationshintergrund,Männer,%,83.06
-2013,Erwerbsquote,ohne Migrationshintergrund,Frauen,%,73.74
-2013,Erwerbsquote,ohne Migrationshintergrund,Insgesamt,%,78.42
-2012,Erwerbsquote,ohne Migrationshintergrund,Männer,%,82.19
-2012,Erwerbsquote,ohne Migrationshintergrund,Frauen,%,72.46
-2012,Erwerbsquote,ohne Migrationshintergrund,Insgesamt,%,77.37
-2011,Erwerbsquote,ohne Migrationshintergrund,Männer,%,82.3
-2011,Erwerbsquote,ohne Migrationshintergrund,Frauen,%,72.46
-2011,Erwerbsquote,ohne Migrationshintergrund,Insgesamt,%,77.42
-2005,Erwerbsquote,ohne Migrationshintergrund,Männer,%,80.35
-2005,Erwerbsquote,ohne Migrationshintergrund,Frauen,%,65.97
-2005,Erwerbsquote,ohne Migrationshintergrund,Insgesamt,%,73.21
-2019,Erwerbsquote,mit Migrationshintergrund,Männer,%,78.47
-2019,Erwerbsquote,mit Migrationshintergrund,Frauen,%,62.96
-2019,Erwerbsquote,mit Migrationshintergrund,Insgesamt,%,71.08
-2018,Erwerbsquote,mit Migrationshintergrund,Männer,%,76.77
-2018,Erwerbsquote,mit Migrationshintergrund,Frauen,%,61.86
-2018,Erwerbsquote,mit Migrationshintergrund,Insgesamt,%,69.68
-2017,Erwerbsquote,mit Migrationshintergrund,Männer,%,75.95
-2017,Erwerbsquote,mit Migrationshintergrund,Frauen,%,61.84
-2017,Erwerbsquote,mit Migrationshintergrund,Insgesamt,%,69.27
-2016,Erwerbsquote,mit Migrationshintergrund,Männer,%,75.3
-2016,Erwerbsquote,mit Migrationshintergrund,Frauen,%,60.19
-2016,Erwerbsquote,mit Migrationshintergrund,Insgesamt,%,68.15
-2015,Erwerbsquote,mit Migrationshintergrund,Männer,%,77.13
-2015,Erwerbsquote,mit Migrationshintergrund,Frauen,%,61.02
-2015,Erwerbsquote,mit Migrationshintergrund,Insgesamt,%,69.17
-2014,Erwerbsquote,mit Migrationshintergrund,Männer,%,78.0
-2014,Erwerbsquote,mit Migrationshintergrund,Frauen,%,61.62
-2014,Erwerbsquote,mit Migrationshintergrund,Insgesamt,%,69.82
-2013,Erwerbsquote,mit Migrationshintergrund,Männer,%,78.29
-2013,Erwerbsquote,mit Migrationshintergrund,Frauen,%,62.97
-2013,Erwerbsquote,mit Migrationshintergrund,Insgesamt,%,70.66
-2012,Erwerbsquote,mit Migrationshintergrund,Männer,%,78.41
-2012,Erwerbsquote,mit Migrationshintergrund,Frauen,%,61.59
-2012,Erwerbsquote,mit Migrationshintergrund,Insgesamt,%,70.0
-2011,Erwerbsquote,mit Migrationshintergrund,Männer,%,78.6
-2011,Erwerbsquote,mit Migrationshintergrund,Frauen,%,61.52
-2011,Erwerbsquote,mit Migrationshintergrund,Insgesamt,%,69.98
-2005,Erwerbsquote,mit Migrationshintergrund,Männer,%,75.94
-2005,Erwerbsquote,mit Migrationshintergrund,Frauen,%,54.55
-2005,Erwerbsquote,mit Migrationshintergrund,Insgesamt,%,65.45
-2019,Erwerbsquote,mit Migrationshintergrund und eigener Migrationserfahrung,Männer,%,81.79
-2019,Erwerbsquote,mit Migrationshintergrund und eigener Migrationserfahrung,Frauen,%,63.49
-2019,Erwerbsquote,mit Migrationshintergrund und eigener Migrationserfahrung,Insgesamt,%,73.02
-2018,Erwerbsquote,mit Migrationshintergrund und eigener Migrationserfahrung,Männer,%,80.5
-2018,Erwerbsquote,mit Migrationshintergrund und eigener Migrationserfahrung,Frauen,%,63.85
-2018,Erwerbsquote,mit Migrationshintergrund und eigener Migrationserfahrung,Insgesamt,%,72.51
-2017,Erwerbsquote,mit Migrationshintergrund und eigener Migrationserfahrung,Männer,%,78.46
-2017,Erwerbsquote,mit Migrationshintergrund und eigener Migrationserfahrung,Frauen,%,62.82
-2017,Erwerbsquote,mit Migrationshintergrund und eigener Migrationserfahrung,Insgesamt,%,71.04
-2016,Erwerbsquote,mit Migrationshintergrund und eigener Migrationserfahrung,Männer,%,78.64
-2016,Erwerbsquote,mit Migrationshintergrund und eigener Migrationserfahrung,Frauen,%,62.56
-2016,Erwerbsquote,mit Migrationshintergrund und eigener Migrationserfahrung,Insgesamt,%,70.95
-2015,Erwerbsquote,mit Migrationshintergrund und eigener Migrationserfahrung,Männer,%,81.93
-2015,Erwerbsquote,mit Migrationshintergrund und eigener Migrationserfahrung,Frauen,%,64.28
-2015,Erwerbsquote,mit Migrationshintergrund und eigener Migrationserfahrung,Insgesamt,%,73.09
-2014,Erwerbsquote,mit Migrationshintergrund und eigener Migrationserfahrung,Männer,%,83.32
-2014,Erwerbsquote,mit Migrationshintergrund und eigener Migrationserfahrung,Frauen,%,65.09
-2014,Erwerbsquote,mit Migrationshintergrund und eigener Migrationserfahrung,Insgesamt,%,74.12
-2013,Erwerbsquote,mit Migrationshintergrund und eigener Migrationserfahrung,Männer,%,83.11
-2013,Erwerbsquote,mit Migrationshintergrund und eigener Migrationserfahrung,Frauen,%,65.9
-2013,Erwerbsquote,mit Migrationshintergrund und eigener Migrationserfahrung,Insgesamt,%,74.45
-2012,Erwerbsquote,mit Migrationshintergrund und eigener Migrationserfahrung,Männer,%,83.76
-2012,Erwerbsquote,mit Migrationshintergrund und eigener Migrationserfahrung,Frauen,%,64.57
-2012,Erwerbsquote,mit Migrationshintergrund und eigener Migrationserfahrung,Insgesamt,%,73.99
-2011,Erwerbsquote,mit Migrationshintergrund und eigener Migrationserfahrung,Männer,%,84.19
-2011,Erwerbsquote,mit Migrationshintergrund und eigener Migrationserfahrung,Frauen,%,64.0
-2011,Erwerbsquote,mit Migrationshintergrund und eigener Migrationserfahrung,Insgesamt,%,73.77
-2005,Erwerbsquote,mit Migrationshintergrund und eigener Migrationserfahrung,Männer,%,78.64
-2005,Erwerbsquote,mit Migrationshintergrund und eigener Migrationserfahrung,Frauen,%,55.86
-2005,Erwerbsquote,mit Migrationshintergrund und eigener Migrationserfahrung,Insgesamt,%,67.29
-2019,Erwerbsquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Männer,%,61.64
-2019,Erwerbsquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Frauen,%,52.55
-2019,Erwerbsquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Insgesamt,%,57.54
-2018,Erwerbsquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Männer,%,60.37
-2018,Erwerbsquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Frauen,%,52.14
-2018,Erwerbsquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Insgesamt,%,56.62
-2017,Erwerbsquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Männer,%,60.8
-2017,Erwerbsquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Frauen,%,50.81
-2017,Erwerbsquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Insgesamt,%,56.25
-2016,Erwerbsquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Männer,%,59.98
-2016,Erwerbsquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Frauen,%,47.99
-2016,Erwerbsquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Insgesamt,%,54.58
-2015,Erwerbsquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Männer,%,55.23
-2015,Erwerbsquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Frauen,%,43.78
-2015,Erwerbsquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Insgesamt,%,49.92
-2014,Erwerbsquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Männer,%,54.37
-2014,Erwerbsquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Frauen,%,44.17
-2014,Erwerbsquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Insgesamt,%,49.54
-2013,Erwerbsquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Männer,%,54.64
-2013,Erwerbsquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Frauen,%,43.21
-2013,Erwerbsquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Insgesamt,%,49.25
-2012,Erwerbsquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Männer,%,54.19
-2012,Erwerbsquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Frauen,%,44.81
-2012,Erwerbsquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Insgesamt,%,49.93
-2011,Erwerbsquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Männer,%,54.02
-2011,Erwerbsquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Frauen,%,47.35
-2011,Erwerbsquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Insgesamt,%,51.02
-2005,Erwerbsquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Männer,%,60.46
-2005,Erwerbsquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Frauen,%,44.98
-2005,Erwerbsquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Insgesamt,%,53.67
-2019,Erwerbstätigenquote,Insgesamt,Männer,%,80.0
-2019,Erwerbstätigenquote,Insgesamt,Frauen,%,71.85
-2019,Erwerbstätigenquote,Insgesamt,Insgesamt,%,75.98
-2018,Erwerbstätigenquote,Insgesamt,Männer,%,79.08
-2018,Erwerbstätigenquote,Insgesamt,Frauen,%,71.38
-2018,Erwerbstätigenquote,Insgesamt,Insgesamt,%,75.29
-2017,Erwerbstätigenquote,Insgesamt,Männer,%,78.13
-2017,Erwerbstätigenquote,Insgesamt,Frauen,%,70.3
-2017,Erwerbstätigenquote,Insgesamt,Insgesamt,%,74.29
-2016,Erwerbstätigenquote,Insgesamt,Männer,%,77.32
-2016,Erwerbstätigenquote,Insgesamt,Frauen,%,69.0
-2016,Erwerbstätigenquote,Insgesamt,Insgesamt,%,73.23
-2015,Erwerbstätigenquote,Insgesamt,Männer,%,77.6
-2015,Erwerbstätigenquote,Insgesamt,Frauen,%,69.1
-2015,Erwerbstätigenquote,Insgesamt,Insgesamt,%,73.38
-2014,Erwerbstätigenquote,Insgesamt,Männer,%,77.85
-2014,Erwerbstätigenquote,Insgesamt,Frauen,%,68.73
-2014,Erwerbstätigenquote,Insgesamt,Insgesamt,%,73.32
-2013,Erwerbstätigenquote,Insgesamt,Männer,%,77.78
-2013,Erwerbstätigenquote,Insgesamt,Frauen,%,68.43
-2013,Erwerbstätigenquote,Insgesamt,Insgesamt,%,73.12
-2012,Erwerbstätigenquote,Insgesamt,Männer,%,77.28
-2012,Erwerbstätigenquote,Insgesamt,Frauen,%,67.3
-2012,Erwerbstätigenquote,Insgesamt,Insgesamt,%,72.32
-2011,Erwerbstätigenquote,Insgesamt,Männer,%,77.15
-2011,Erwerbstätigenquote,Insgesamt,Frauen,%,66.63
-2011,Erwerbstätigenquote,Insgesamt,Insgesamt,%,71.92
-2005,Erwerbstätigenquote,Insgesamt,Männer,%,70.92
-2005,Erwerbstätigenquote,Insgesamt,Frauen,%,57.68
-2005,Erwerbstätigenquote,Insgesamt,Insgesamt,%,64.36
-2019,Erwerbstätigenquote,ohne Migrationshintergrund,Männer,%,82.12
-2019,Erwerbstätigenquote,ohne Migrationshintergrund,Frauen,%,75.37
-2019,Erwerbstätigenquote,ohne Migrationshintergrund,Insgesamt,%,78.75
-2018,Erwerbstätigenquote,ohne Migrationshintergrund,Männer,%,81.22
-2018,Erwerbstätigenquote,ohne Migrationshintergrund,Frauen,%,74.78
-2018,Erwerbstätigenquote,ohne Migrationshintergrund,Insgesamt,%,78.03
-2017,Erwerbstätigenquote,ohne Migrationshintergrund,Männer,%,80.69
-2017,Erwerbstätigenquote,ohne Migrationshintergrund,Frauen,%,73.9
-2017,Erwerbstätigenquote,ohne Migrationshintergrund,Insgesamt,%,77.33
-2016,Erwerbstätigenquote,ohne Migrationshintergrund,Männer,%,79.59
-2016,Erwerbstätigenquote,ohne Migrationshintergrund,Frauen,%,72.01
-2016,Erwerbstätigenquote,ohne Migrationshintergrund,Insgesamt,%,75.83
-2015,Erwerbstätigenquote,ohne Migrationshintergrund,Männer,%,79.03
-2015,Erwerbstätigenquote,ohne Migrationshintergrund,Frauen,%,71.93
-2015,Erwerbstätigenquote,ohne Migrationshintergrund,Insgesamt,%,75.5
-2014,Erwerbstätigenquote,ohne Migrationshintergrund,Männer,%,79.19
-2014,Erwerbstätigenquote,ohne Migrationshintergrund,Frauen,%,71.31
-2014,Erwerbstätigenquote,ohne Migrationshintergrund,Insgesamt,%,75.28
-2013,Erwerbstätigenquote,ohne Migrationshintergrund,Männer,%,79.26
-2013,Erwerbstätigenquote,ohne Migrationshintergrund,Frauen,%,70.65
-2013,Erwerbstätigenquote,ohne Migrationshintergrund,Insgesamt,%,74.97
-2012,Erwerbstätigenquote,ohne Migrationshintergrund,Männer,%,78.59
-2012,Erwerbstätigenquote,ohne Migrationshintergrund,Frauen,%,69.52
-2012,Erwerbstätigenquote,ohne Migrationshintergrund,Insgesamt,%,74.1
-2011,Erwerbstätigenquote,ohne Migrationshintergrund,Männer,%,78.44
-2011,Erwerbstätigenquote,ohne Migrationshintergrund,Frauen,%,68.82
-2011,Erwerbstätigenquote,ohne Migrationshintergrund,Insgesamt,%,73.66
-2005,Erwerbstätigenquote,ohne Migrationshintergrund,Männer,%,72.95
-2005,Erwerbstätigenquote,ohne Migrationshintergrund,Frauen,%,60.09
-2005,Erwerbstätigenquote,ohne Migrationshintergrund,Insgesamt,%,66.56
-2019,Erwerbstätigenquote,mit Migrationshintergrund,Männer,%,73.38
-2019,Erwerbstätigenquote,mit Migrationshintergrund,Frauen,%,59.83
-2019,Erwerbstätigenquote,mit Migrationshintergrund,Insgesamt,%,66.92
-2018,Erwerbstätigenquote,mit Migrationshintergrund,Männer,%,71.7
-2018,Erwerbstätigenquote,mit Migrationshintergrund,Frauen,%,58.62
-2018,Erwerbstätigenquote,mit Migrationshintergrund,Insgesamt,%,65.48
-2017,Erwerbstätigenquote,mit Migrationshintergrund,Männer,%,70.09
-2017,Erwerbstätigenquote,mit Migrationshintergrund,Frauen,%,57.93
-2017,Erwerbstätigenquote,mit Migrationshintergrund,Insgesamt,%,64.34
-2016,Erwerbstätigenquote,mit Migrationshintergrund,Männer,%,68.83
-2016,Erwerbstätigenquote,mit Migrationshintergrund,Frauen,%,56.69
-2016,Erwerbstätigenquote,mit Migrationshintergrund,Insgesamt,%,63.08
-2015,Erwerbstätigenquote,mit Migrationshintergrund,Männer,%,71.38
-2015,Erwerbstätigenquote,mit Migrationshintergrund,Frauen,%,56.65
-2015,Erwerbstätigenquote,mit Migrationshintergrund,Insgesamt,%,64.1
-2014,Erwerbstätigenquote,mit Migrationshintergrund,Männer,%,71.77
-2014,Erwerbstätigenquote,mit Migrationshintergrund,Frauen,%,57.17
-2014,Erwerbstätigenquote,mit Migrationshintergrund,Insgesamt,%,64.48
-2013,Erwerbstätigenquote,mit Migrationshintergrund,Männer,%,71.51
-2013,Erwerbstätigenquote,mit Migrationshintergrund,Frauen,%,59.01
-2013,Erwerbstätigenquote,mit Migrationshintergrund,Insgesamt,%,65.29
-2012,Erwerbstätigenquote,mit Migrationshintergrund,Männer,%,70.98
-2012,Erwerbstätigenquote,mit Migrationshintergrund,Frauen,%,56.8
-2012,Erwerbstätigenquote,mit Migrationshintergrund,Insgesamt,%,63.89
-2011,Erwerbstätigenquote,mit Migrationshintergrund,Männer,%,70.8
-2011,Erwerbstätigenquote,mit Migrationshintergrund,Frauen,%,56.2
-2011,Erwerbstätigenquote,mit Migrationshintergrund,Insgesamt,%,63.43
-2005,Erwerbstätigenquote,mit Migrationshintergrund,Männer,%,60.69
-2005,Erwerbstätigenquote,mit Migrationshintergrund,Frauen,%,45.23
-2005,Erwerbstätigenquote,mit Migrationshintergrund,Insgesamt,%,53.11
-2019,Erwerbstätigenquote,mit Migrationshintergrund und eigener Migrationserfahrung,Männer,%,76.55
-2019,Erwerbstätigenquote,mit Migrationshintergrund und eigener Migrationserfahrung,Frauen,%,60.43
-2019,Erwerbstätigenquote,mit Migrationshintergrund und eigener Migrationserfahrung,Insgesamt,%,68.83
-2018,Erwerbstätigenquote,mit Migrationshintergrund und eigener Migrationserfahrung,Männer,%,75.22
-2018,Erwerbstätigenquote,mit Migrationshintergrund und eigener Migrationserfahrung,Frauen,%,60.77
-2018,Erwerbstätigenquote,mit Migrationshintergrund und eigener Migrationserfahrung,Insgesamt,%,68.29
-2017,Erwerbstätigenquote,mit Migrationshintergrund und eigener Migrationserfahrung,Männer,%,72.44
-2017,Erwerbstätigenquote,mit Migrationshintergrund und eigener Migrationserfahrung,Frauen,%,58.84
-2017,Erwerbstätigenquote,mit Migrationshintergrund und eigener Migrationserfahrung,Insgesamt,%,65.99
-2016,Erwerbstätigenquote,mit Migrationshintergrund und eigener Migrationserfahrung,Männer,%,72.35
-2016,Erwerbstätigenquote,mit Migrationshintergrund und eigener Migrationserfahrung,Frauen,%,59.06
-2016,Erwerbstätigenquote,mit Migrationshintergrund und eigener Migrationserfahrung,Insgesamt,%,65.99
-2015,Erwerbstätigenquote,mit Migrationshintergrund und eigener Migrationserfahrung,Männer,%,76.2
-2015,Erwerbstätigenquote,mit Migrationshintergrund und eigener Migrationserfahrung,Frauen,%,59.66
-2015,Erwerbstätigenquote,mit Migrationshintergrund und eigener Migrationserfahrung,Insgesamt,%,67.92
-2014,Erwerbstätigenquote,mit Migrationshintergrund und eigener Migrationserfahrung,Männer,%,76.75
-2014,Erwerbstätigenquote,mit Migrationshintergrund und eigener Migrationserfahrung,Frauen,%,60.58
-2014,Erwerbstätigenquote,mit Migrationshintergrund und eigener Migrationserfahrung,Insgesamt,%,68.59
-2013,Erwerbstätigenquote,mit Migrationshintergrund und eigener Migrationserfahrung,Männer,%,76.19
-2013,Erwerbstätigenquote,mit Migrationshintergrund und eigener Migrationserfahrung,Frauen,%,61.98
-2013,Erwerbstätigenquote,mit Migrationshintergrund und eigener Migrationserfahrung,Insgesamt,%,69.04
-2012,Erwerbstätigenquote,mit Migrationshintergrund und eigener Migrationserfahrung,Männer,%,76.27
-2012,Erwerbstätigenquote,mit Migrationshintergrund und eigener Migrationserfahrung,Frauen,%,59.9
-2012,Erwerbstätigenquote,mit Migrationshintergrund und eigener Migrationserfahrung,Insgesamt,%,67.94
-2011,Erwerbstätigenquote,mit Migrationshintergrund und eigener Migrationserfahrung,Männer,%,75.84
-2011,Erwerbstätigenquote,mit Migrationshintergrund und eigener Migrationserfahrung,Frauen,%,58.27
-2011,Erwerbstätigenquote,mit Migrationshintergrund und eigener Migrationserfahrung,Insgesamt,%,66.77
-2005,Erwerbstätigenquote,mit Migrationshintergrund und eigener Migrationserfahrung,Männer,%,63.07
-2005,Erwerbstätigenquote,mit Migrationshintergrund und eigener Migrationserfahrung,Frauen,%,46.05
-2005,Erwerbstätigenquote,mit Migrationshintergrund und eigener Migrationserfahrung,Insgesamt,%,54.59
-2019,Erwerbstätigenquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Männer,%,56.92
-2019,Erwerbstätigenquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Frauen,%,48.56
-2019,Erwerbstätigenquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Insgesamt,%,53.15
-2018,Erwerbstätigenquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Männer,%,56.17
-2018,Erwerbstätigenquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Frauen,%,48.17
-2018,Erwerbstätigenquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Insgesamt,%,52.53
-2017,Erwerbstätigenquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Männer,%,54.88
-2017,Erwerbstätigenquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Frauen,%,46.49
-2017,Erwerbstätigenquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Insgesamt,%,51.05
-2016,Erwerbstätigenquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Männer,%,52.69
-2016,Erwerbstätigenquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Frauen,%,44.46
-2016,Erwerbstätigenquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Insgesamt,%,48.99
-2015,Erwerbstätigenquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Männer,%,49.39
-2015,Erwerbstätigenquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Frauen,%,40.72
-2015,Erwerbstätigenquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Insgesamt,%,45.37
-2014,Erwerbstätigenquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Männer,%,49.65
-2014,Erwerbstätigenquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Frauen,%,40.03
-2014,Erwerbstätigenquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Insgesamt,%,45.1
-2013,Erwerbstätigenquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Männer,%,48.27
-2013,Erwerbstätigenquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Frauen,%,39.56
-2013,Erwerbstätigenquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Insgesamt,%,44.17
-2012,Erwerbstätigenquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Männer,%,47.02
-2012,Erwerbstätigenquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Frauen,%,39.37
-2012,Erwerbstätigenquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Insgesamt,%,43.54
-2011,Erwerbstätigenquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Männer,%,48.64
-2011,Erwerbstätigenquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Frauen,%,44.41
-2011,Erwerbstätigenquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Insgesamt,%,46.74
-2005,Erwerbstätigenquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Männer,%,47.04
-2005,Erwerbstätigenquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Frauen,%,39.26
-2005,Erwerbstätigenquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Insgesamt,%,43.63
-2019,Erwerbslosenanteil,Insgesamt,Männer,%,3.03
-2019,Erwerbslosenanteil,Insgesamt,Frauen,%,1.91
-2019,Erwerbslosenanteil,Insgesamt,Insgesamt,%,2.48
-2018,Erwerbslosenanteil,Insgesamt,Männer,%,3.06
-2018,Erwerbslosenanteil,Insgesamt,Frauen,%,2.15
-2018,Erwerbslosenanteil,Insgesamt,Insgesamt,%,2.62
-2017,Erwerbslosenanteil,Insgesamt,Männer,%,3.48
-2017,Erwerbslosenanteil,Insgesamt,Frauen,%,2.43
-2017,Erwerbslosenanteil,Insgesamt,Insgesamt,%,2.96
-2016,Erwerbslosenanteil,Insgesamt,Männer,%,3.81
-2016,Erwerbslosenanteil,Insgesamt,Frauen,%,2.46
-2016,Erwerbslosenanteil,Insgesamt,Insgesamt,%,3.15
-2015,Erwerbslosenanteil,Insgesamt,Männer,%,3.8
-2015,Erwerbslosenanteil,Insgesamt,Frauen,%,2.85
-2015,Erwerbslosenanteil,Insgesamt,Insgesamt,%,3.33
-2014,Erwerbslosenanteil,Insgesamt,Männer,%,4.26
-2014,Erwerbslosenanteil,Insgesamt,Frauen,%,3.01
-2014,Erwerbslosenanteil,Insgesamt,Insgesamt,%,3.64
-2013,Erwerbslosenanteil,Insgesamt,Männer,%,4.37
-2013,Erwerbslosenanteil,Insgesamt,Frauen,%,3.25
-2013,Erwerbslosenanteil,Insgesamt,Insgesamt,%,3.81
-2012,Erwerbslosenanteil,Insgesamt,Männer,%,4.26
-2012,Erwerbslosenanteil,Insgesamt,Frauen,%,3.26
-2012,Erwerbslosenanteil,Insgesamt,Insgesamt,%,3.76
-2011,Erwerbslosenanteil,Insgesamt,Männer,%,4.53
-2011,Erwerbslosenanteil,Insgesamt,Frauen,%,3.93
-2011,Erwerbslosenanteil,Insgesamt,Insgesamt,%,4.23
-2005,Erwerbslosenanteil,Insgesamt,Männer,%,8.69
-2005,Erwerbslosenanteil,Insgesamt,Frauen,%,6.44
-2005,Erwerbslosenanteil,Insgesamt,Insgesamt,%,7.58
-2019,Erwerbslosenanteil,ohne Migrationshintergrund,Männer,%,2.37
-2019,Erwerbslosenanteil,ohne Migrationshintergrund,Frauen,%,1.55
-2019,Erwerbslosenanteil,ohne Migrationshintergrund,Insgesamt,%,1.96
-2018,Erwerbslosenanteil,ohne Migrationshintergrund,Männer,%,2.48
-2018,Erwerbslosenanteil,ohne Migrationshintergrund,Frauen,%,1.87
-2018,Erwerbslosenanteil,ohne Migrationshintergrund,Insgesamt,%,2.18
-2017,Erwerbslosenanteil,ohne Migrationshintergrund,Männer,%,2.72
-2017,Erwerbslosenanteil,ohne Migrationshintergrund,Frauen,%,2.0
-2017,Erwerbslosenanteil,ohne Migrationshintergrund,Insgesamt,%,2.36
-2016,Erwerbslosenanteil,ohne Migrationshintergrund,Männer,%,3.1
-2016,Erwerbslosenanteil,ohne Migrationshintergrund,Frauen,%,2.2
-2016,Erwerbslosenanteil,ohne Migrationshintergrund,Insgesamt,%,2.65
-2015,Erwerbslosenanteil,ohne Migrationshintergrund,Männer,%,3.36
-2015,Erwerbslosenanteil,ohne Migrationshintergrund,Frauen,%,2.5
-2015,Erwerbslosenanteil,ohne Migrationshintergrund,Insgesamt,%,2.93
-2014,Erwerbslosenanteil,ohne Migrationshintergrund,Männer,%,3.82
-2014,Erwerbslosenanteil,ohne Migrationshintergrund,Frauen,%,2.69
-2014,Erwerbslosenanteil,ohne Migrationshintergrund,Insgesamt,%,3.26
-2013,Erwerbslosenanteil,ohne Migrationshintergrund,Männer,%,3.8
-2013,Erwerbslosenanteil,ohne Migrationshintergrund,Frauen,%,3.08
-2013,Erwerbslosenanteil,ohne Migrationshintergrund,Insgesamt,%,3.44
-2012,Erwerbslosenanteil,ohne Migrationshintergrund,Männer,%,3.6
-2012,Erwerbslosenanteil,ohne Migrationshintergrund,Frauen,%,2.94
-2012,Erwerbslosenanteil,ohne Migrationshintergrund,Insgesamt,%,3.27
-2011,Erwerbslosenanteil,ohne Migrationshintergrund,Männer,%,3.87
-2011,Erwerbslosenanteil,ohne Migrationshintergrund,Frauen,%,3.65
-2011,Erwerbslosenanteil,ohne Migrationshintergrund,Insgesamt,%,3.76
-2005,Erwerbslosenanteil,ohne Migrationshintergrund,Männer,%,7.39
-2005,Erwerbslosenanteil,ohne Migrationshintergrund,Frauen,%,5.89
-2005,Erwerbslosenanteil,ohne Migrationshintergrund,Insgesamt,%,6.65
-2019,Erwerbslosenanteil,mit Migrationshintergrund,Männer,%,5.09
-2019,Erwerbslosenanteil,mit Migrationshintergrund,Frauen,%,3.13
-2019,Erwerbslosenanteil,mit Migrationshintergrund,Insgesamt,%,4.16
-2018,Erwerbslosenanteil,mit Migrationshintergrund,Männer,%,5.08
-2018,Erwerbslosenanteil,mit Migrationshintergrund,Frauen,%,3.23
-2018,Erwerbslosenanteil,mit Migrationshintergrund,Insgesamt,%,4.2
-2017,Erwerbslosenanteil,mit Migrationshintergrund,Männer,%,5.85
-2017,Erwerbslosenanteil,mit Migrationshintergrund,Frauen,%,3.91
-2017,Erwerbslosenanteil,mit Migrationshintergrund,Insgesamt,%,4.93
-2016,Erwerbslosenanteil,mit Migrationshintergrund,Männer,%,6.47
-2016,Erwerbslosenanteil,mit Migrationshintergrund,Frauen,%,3.5
-2016,Erwerbslosenanteil,mit Migrationshintergrund,Insgesamt,%,5.07
-2015,Erwerbslosenanteil,mit Migrationshintergrund,Männer,%,5.75
-2015,Erwerbslosenanteil,mit Migrationshintergrund,Frauen,%,4.37
-2015,Erwerbslosenanteil,mit Migrationshintergrund,Insgesamt,%,5.07
-2014,Erwerbslosenanteil,mit Migrationshintergrund,Männer,%,6.23
-2014,Erwerbslosenanteil,mit Migrationshintergrund,Frauen,%,4.45
-2014,Erwerbslosenanteil,mit Migrationshintergrund,Insgesamt,%,5.34
-2013,Erwerbslosenanteil,mit Migrationshintergrund,Männer,%,6.78
-2013,Erwerbslosenanteil,mit Migrationshintergrund,Frauen,%,3.97
-2013,Erwerbslosenanteil,mit Migrationshintergrund,Insgesamt,%,5.38
-2012,Erwerbslosenanteil,mit Migrationshintergrund,Männer,%,7.43
-2012,Erwerbslosenanteil,mit Migrationshintergrund,Frauen,%,4.79
-2012,Erwerbslosenanteil,mit Migrationshintergrund,Insgesamt,%,6.11
-2011,Erwerbslosenanteil,mit Migrationshintergrund,Männer,%,7.8
-2011,Erwerbslosenanteil,mit Migrationshintergrund,Frauen,%,5.32
-2011,Erwerbslosenanteil,mit Migrationshintergrund,Insgesamt,%,6.55
-2005,Erwerbslosenanteil,mit Migrationshintergrund,Männer,%,15.25
-2005,Erwerbslosenanteil,mit Migrationshintergrund,Frauen,%,9.32
-2005,Erwerbslosenanteil,mit Migrationshintergrund,Insgesamt,%,12.34
-2019,Erwerbslosenanteil,mit Migrationshintergrund und eigener Migrationserfahrung,Männer,%,5.24
-2019,Erwerbslosenanteil,mit Migrationshintergrund und eigener Migrationserfahrung,Frauen,%,3.06
-2019,Erwerbslosenanteil,mit Migrationshintergrund und eigener Migrationserfahrung,Insgesamt,%,4.2
-2018,Erwerbslosenanteil,mit Migrationshintergrund und eigener Migrationserfahrung,Männer,%,5.27
-2018,Erwerbslosenanteil,mit Migrationshintergrund und eigener Migrationserfahrung,Frauen,%,3.08
-2018,Erwerbslosenanteil,mit Migrationshintergrund und eigener Migrationserfahrung,Insgesamt,%,4.22
-2017,Erwerbslosenanteil,mit Migrationshintergrund und eigener Migrationserfahrung,Männer,%,6.02
-2017,Erwerbslosenanteil,mit Migrationshintergrund und eigener Migrationserfahrung,Frauen,%,3.98
-2017,Erwerbslosenanteil,mit Migrationshintergrund und eigener Migrationserfahrung,Insgesamt,%,5.05
-2016,Erwerbslosenanteil,mit Migrationshintergrund und eigener Migrationserfahrung,Männer,%,6.29
-2016,Erwerbslosenanteil,mit Migrationshintergrund und eigener Migrationserfahrung,Frauen,%,3.5
-2016,Erwerbslosenanteil,mit Migrationshintergrund und eigener Migrationserfahrung,Insgesamt,%,4.96
-2015,Erwerbslosenanteil,mit Migrationshintergrund und eigener Migrationserfahrung,Männer,%,5.73
-2015,Erwerbslosenanteil,mit Migrationshintergrund und eigener Migrationserfahrung,Frauen,%,4.62
-2015,Erwerbslosenanteil,mit Migrationshintergrund und eigener Migrationserfahrung,Insgesamt,%,5.17
-2014,Erwerbslosenanteil,mit Migrationshintergrund und eigener Migrationserfahrung,Männer,%,6.57
-2014,Erwerbslosenanteil,mit Migrationshintergrund und eigener Migrationserfahrung,Frauen,%,4.52
-2014,Erwerbslosenanteil,mit Migrationshintergrund und eigener Migrationserfahrung,Insgesamt,%,5.53
-2013,Erwerbslosenanteil,mit Migrationshintergrund und eigener Migrationserfahrung,Männer,%,6.92
-2013,Erwerbslosenanteil,mit Migrationshintergrund und eigener Migrationserfahrung,Frauen,%,3.92
-2013,Erwerbslosenanteil,mit Migrationshintergrund und eigener Migrationserfahrung,Insgesamt,%,5.41
-2012,Erwerbslosenanteil,mit Migrationshintergrund und eigener Migrationserfahrung,Männer,%,7.49
-2012,Erwerbslosenanteil,mit Migrationshintergrund und eigener Migrationserfahrung,Frauen,%,4.67
-2012,Erwerbslosenanteil,mit Migrationshintergrund und eigener Migrationserfahrung,Insgesamt,%,6.06
-2011,Erwerbslosenanteil,mit Migrationshintergrund und eigener Migrationserfahrung,Männer,%,8.35
-2011,Erwerbslosenanteil,mit Migrationshintergrund und eigener Migrationserfahrung,Frauen,%,5.73
-2011,Erwerbslosenanteil,mit Migrationshintergrund und eigener Migrationserfahrung,Insgesamt,%,7.0
-2005,Erwerbslosenanteil,mit Migrationshintergrund und eigener Migrationserfahrung,Männer,%,15.57
-2005,Erwerbslosenanteil,mit Migrationshintergrund und eigener Migrationserfahrung,Frauen,%,9.81
-2005,Erwerbslosenanteil,mit Migrationshintergrund und eigener Migrationserfahrung,Insgesamt,%,12.7
-2019,Erwerbslosenanteil,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Männer,%,4.71
-2019,Erwerbslosenanteil,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Frauen,%,3.99
-2019,Erwerbslosenanteil,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Insgesamt,%,4.39
-2018,Erwerbslosenanteil,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Männer,%,4.2
-2018,Erwerbslosenanteil,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Frauen,%,3.97
-2018,Erwerbslosenanteil,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Insgesamt,%,4.1
-2017,Erwerbslosenanteil,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Männer,%,5.92
-2017,Erwerbslosenanteil,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Frauen,%,4.32
-2017,Erwerbslosenanteil,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Insgesamt,%,5.19
-2016,Erwerbslosenanteil,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Männer,%,7.29
-2016,Erwerbslosenanteil,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Frauen,%,3.53
-2016,Erwerbslosenanteil,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Insgesamt,%,5.6
-2015,Erwerbslosenanteil,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Männer,%,5.84
-2015,Erwerbslosenanteil,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Frauen,%,3.06
-2015,Erwerbslosenanteil,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Insgesamt,%,4.55
-2014,Erwerbslosenanteil,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Männer,%,4.72
-2014,Erwerbslosenanteil,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Frauen,%,4.14
-2014,Erwerbslosenanteil,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Insgesamt,%,4.44
-2013,Erwerbslosenanteil,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Männer,%,6.37
-2013,Erwerbslosenanteil,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Frauen,%,3.65
-2013,Erwerbslosenanteil,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Insgesamt,%,5.09
-2012,Erwerbslosenanteil,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Männer,%,7.17
-2012,Erwerbslosenanteil,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Frauen,%,5.44
-2012,Erwerbslosenanteil,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Insgesamt,%,6.38
-2011,Erwerbslosenanteil,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Männer,%,5.38
-2011,Erwerbslosenanteil,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Frauen,%,2.94
-2011,Erwerbslosenanteil,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Insgesamt,%,4.28
-2005,Erwerbslosenanteil,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Männer,%,13.42
-2005,Erwerbslosenanteil,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Frauen,%,5.71
-2005,Erwerbslosenanteil,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Insgesamt,%,10.04
+Year,Gebietseinheit,Geschlecht,Units,GeoCode,Value
+2021,"Braunschweig, Stadt",Insgesamt,Anzahl,K03101,12488
+2021,"Salzgitter, Stadt",Insgesamt,Anzahl,K03102,5160
+2021,"Wolfsburg, Stadt",Insgesamt,Anzahl,K03103,10451
+2021,Gifhorn,Insgesamt,Anzahl,K03151,3538
+2021,Goslar,Insgesamt,Anzahl,K03153,3560
+2021,Helmstedt,Insgesamt,Anzahl,K03154,1789
+2021,Northeim,Insgesamt,Anzahl,K03155,3665
+2021,Peine,Insgesamt,Anzahl,K03157,3683
+2021,Wolfenbüttel,Insgesamt,Anzahl,K03158,1670
+2021,Göttingen,Insgesamt,Anzahl,K03159,11034
+2021,Statistische Region Braunschweig,Insgesamt,Anzahl,K031,57038
+2021,Hannover  Region,Insgesamt,Anzahl,K03241,67790
+2021,"dav. Hannover, Lhst.",Insgesamt,Anzahl,K03241001,41541
+2021,"dav. Hannover, Umland",Insgesamt,Anzahl,K03241999,26249
+2021,Diepholz,Insgesamt,Anzahl,K03251,7577
+2021,Hameln-Pyrmont,Insgesamt,Anzahl,K03252,4537
+2021,Hildesheim,Insgesamt,Anzahl,K03254,7157
+2021,Holzminden,Insgesamt,Anzahl,K03255,1610
+2021,Nienburg (Weser),Insgesamt,Anzahl,K03256,4689
+2021,Schaumburg,Insgesamt,Anzahl,K03257,4345
+2021,Statistische Region Hannover,Insgesamt,Anzahl,K032,97705
+2021,Celle,Insgesamt,Anzahl,K03351,4503
+2021,Cuxhaven,Insgesamt,Anzahl,K03352,5168
+2021,Harburg,Insgesamt,Anzahl,K03353,10372
+2021,Lüchow-Dannenberg,Insgesamt,Anzahl,K03354,843
+2021,Lüneburg,Insgesamt,Anzahl,K03355,4097
+2021,Osterholz,Insgesamt,Anzahl,K03356,2233
+2021,Rotenburg (Wümme),Insgesamt,Anzahl,K03357,4577
+2021,Heidekreis,Insgesamt,Anzahl,K03358,4621
+2021,Stade,Insgesamt,Anzahl,K03359,6264
+2021,Uelzen,Insgesamt,Anzahl,K03360,1937
+2021,Verden,Insgesamt,Anzahl,K03361,6718
+2021,Statistische Region Lüneburg,Insgesamt,Anzahl,K033,51333
+2021,"Delmenhorst, Stadt",Insgesamt,Anzahl,K03401,2570
+2021,Emden  Stadt,Insgesamt,Anzahl,K03402,1965
+2021,"Oldenburg(Oldb), Stadt",Insgesamt,Anzahl,K03403,6798
+2021,"Osnabrück, Stadt",Insgesamt,Anzahl,K03404,9858
+2021,"Wilhelmshaven, Stadt",Insgesamt,Anzahl,K03405,2123
+2021,Ammerland,Insgesamt,Anzahl,K03451,4674
+2021,Aurich,Insgesamt,Anzahl,K03452,4425
+2021,Cloppenburg,Insgesamt,Anzahl,K03453,12765
+2021,Emsland,Insgesamt,Anzahl,K03454,16917
+2021,Friesland,Insgesamt,Anzahl,K03455,1677
+2021,Grafschaft Bentheim,Insgesamt,Anzahl,K03456,6295
+2021,Leer,Insgesamt,Anzahl,K03457,4075
+2021,Oldenburg,Insgesamt,Anzahl,K03458,5979
+2021,Osnabrück,Insgesamt,Anzahl,K03459,16016
+2021,Vechta,Insgesamt,Anzahl,K03460,12100
+2021,Wesermarsch,Insgesamt,Anzahl,K03461,2704
+2021,Wittmund,Insgesamt,Anzahl,K03462,998
+2021,Statistische Region Weser-Ems,Insgesamt,Anzahl,K034,111939
+2021,Niedersachsen,Insgesamt,Anzahl,K030,318015
+2021,"Braunschweig, Stadt",Männer,Anzahl,K03101,7553
+2021,"Salzgitter, Stadt",Männer,Anzahl,K03102,3966
+2021,"Wolfsburg, Stadt",Männer,Anzahl,K03103,7101
+2021,Gifhorn,Männer,Anzahl,K03151,2351
+2021,Goslar,Männer,Anzahl,K03153,2302
+2021,Helmstedt,Männer,Anzahl,K03154,1183
+2021,Northeim,Männer,Anzahl,K03155,2688
+2021,Peine,Männer,Anzahl,K03157,2639
+2021,Wolfenbüttel,Männer,Anzahl,K03158,1041
+2021,Göttingen,Männer,Anzahl,K03159,6824
+2021,Statistische Region Braunschweig,Männer,Anzahl,K031,37648
+2021,Hannover  Region,Männer,Anzahl,K03241,42586
+2021,"dav. Hannover, Lhst.",Männer,Anzahl,K03241001,24883
+2021,"dav. Hannover, Umland",Männer,Anzahl,K03241999,17703
+2021,Diepholz,Männer,Anzahl,K03251,5209
+2021,Hameln-Pyrmont,Männer,Anzahl,K03252,2805
+2021,Hildesheim,Männer,Anzahl,K03254,4686
+2021,Holzminden,Männer,Anzahl,K03255,1073
+2021,Nienburg (Weser),Männer,Anzahl,K03256,3172
+2021,Schaumburg,Männer,Anzahl,K03257,2785
+2021,Statistische Region Hannover,Männer,Anzahl,K032,62316
+2021,Celle,Männer,Anzahl,K03351,2884
+2021,Cuxhaven,Männer,Anzahl,K03352,3496
+2021,Harburg,Männer,Anzahl,K03353,7585
+2021,Lüchow-Dannenberg,Männer,Anzahl,K03354,525
+2021,Lüneburg,Männer,Anzahl,K03355,2708
+2021,Osterholz,Männer,Anzahl,K03356,1498
+2021,Rotenburg (Wümme),Männer,Anzahl,K03357,3027
+2021,Heidekreis,Männer,Anzahl,K03358,3048
+2021,Stade,Männer,Anzahl,K03359,4329
+2021,Uelzen,Männer,Anzahl,K03360,1198
+2021,Verden,Männer,Anzahl,K03361,4819
+2021,Statistische Region Lüneburg,Männer,Anzahl,K033,35117
+2021,"Delmenhorst, Stadt",Männer,Anzahl,K03401,1633
+2021,Emden  Stadt,Männer,Anzahl,K03402,1437
+2021,"Oldenburg(Oldb), Stadt",Männer,Anzahl,K03403,4218
+2021,"Osnabrück, Stadt",Männer,Anzahl,K03404,5575
+2021,"Wilhelmshaven, Stadt",Männer,Anzahl,K03405,1473
+2021,Ammerland,Männer,Anzahl,K03451,3176
+2021,Aurich,Männer,Anzahl,K03452,2843
+2021,Cloppenburg,Männer,Anzahl,K03453,8926
+2021,Emsland,Männer,Anzahl,K03454,12180
+2021,Friesland,Männer,Anzahl,K03455,1095
+2021,Grafschaft Bentheim,Männer,Anzahl,K03456,4355
+2021,Leer,Männer,Anzahl,K03457,2859
+2021,Oldenburg,Männer,Anzahl,K03458,3798
+2021,Osnabrück,Männer,Anzahl,K03459,10974
+2021,Vechta,Männer,Anzahl,K03460,8210
+2021,Wesermarsch,Männer,Anzahl,K03461,2134
+2021,Wittmund,Männer,Anzahl,K03462,572
+2021,Statistische Region Weser-Ems,Männer,Anzahl,K034,75458
+2021,Niedersachsen,Männer,Anzahl,K030,210539
+2021,"Braunschweig, Stadt",Frauen,Anzahl,K03101,4935
+2021,"Salzgitter, Stadt",Frauen,Anzahl,K03102,1194
+2021,"Wolfsburg, Stadt",Frauen,Anzahl,K03103,3350
+2021,Gifhorn,Frauen,Anzahl,K03151,1187
+2021,Goslar,Frauen,Anzahl,K03153,1258
+2021,Helmstedt,Frauen,Anzahl,K03154,606
+2021,Northeim,Frauen,Anzahl,K03155,977
+2021,Peine,Frauen,Anzahl,K03157,1044
+2021,Wolfenbüttel,Frauen,Anzahl,K03158,629
+2021,Göttingen,Frauen,Anzahl,K03159,4210
+2021,Statistische Region Braunschweig,Frauen,Anzahl,K031,19390
+2021,Hannover  Region,Frauen,Anzahl,K03241,25204
+2021,"dav. Hannover, Lhst.",Frauen,Anzahl,K03241001,16658
+2021,"dav. Hannover, Umland",Frauen,Anzahl,K03241999,8546
+2021,Diepholz,Frauen,Anzahl,K03251,2368
+2021,Hameln-Pyrmont,Frauen,Anzahl,K03252,1732
+2021,Hildesheim,Frauen,Anzahl,K03254,2471
+2021,Holzminden,Frauen,Anzahl,K03255,537
+2021,Nienburg (Weser),Frauen,Anzahl,K03256,1517
+2021,Schaumburg,Frauen,Anzahl,K03257,1560
+2021,Statistische Region Hannover,Frauen,Anzahl,K032,35389
+2021,Celle,Frauen,Anzahl,K03351,1619
+2021,Cuxhaven,Frauen,Anzahl,K03352,1672
+2021,Harburg,Frauen,Anzahl,K03353,2787
+2021,Lüchow-Dannenberg,Frauen,Anzahl,K03354,318
+2021,Lüneburg,Frauen,Anzahl,K03355,1389
+2021,Osterholz,Frauen,Anzahl,K03356,735
+2021,Rotenburg (Wümme),Frauen,Anzahl,K03357,1550
+2021,Heidekreis,Frauen,Anzahl,K03358,1573
+2021,Stade,Frauen,Anzahl,K03359,1935
+2021,Uelzen,Frauen,Anzahl,K03360,739
+2021,Verden,Frauen,Anzahl,K03361,1899
+2021,Statistische Region Lüneburg,Frauen,Anzahl,K033,16216
+2021,"Delmenhorst, Stadt",Frauen,Anzahl,K03401,937
+2021,Emden  Stadt,Frauen,Anzahl,K03402,528
+2021,"Oldenburg(Oldb), Stadt",Frauen,Anzahl,K03403,2580
+2021,"Osnabrück, Stadt",Frauen,Anzahl,K03404,4283
+2021,"Wilhelmshaven, Stadt",Frauen,Anzahl,K03405,650
+2021,Ammerland,Frauen,Anzahl,K03451,1498
+2021,Aurich,Frauen,Anzahl,K03452,1582
+2021,Cloppenburg,Frauen,Anzahl,K03453,3839
+2021,Emsland,Frauen,Anzahl,K03454,4737
+2021,Friesland,Frauen,Anzahl,K03455,582
+2021,Grafschaft Bentheim,Frauen,Anzahl,K03456,1940
+2021,Leer,Frauen,Anzahl,K03457,1216
+2021,Oldenburg,Frauen,Anzahl,K03458,2181
+2021,Osnabrück,Frauen,Anzahl,K03459,5042
+2021,Vechta,Frauen,Anzahl,K03460,3890
+2021,Wesermarsch,Frauen,Anzahl,K03461,570
+2021,Wittmund,Frauen,Anzahl,K03462,426
+2021,Statistische Region Weser-Ems,Frauen,Anzahl,K034,36481
+2021,Niedersachsen,Frauen,Anzahl,K030,107476
+2020,"Braunschweig, Stadt",Insgesamt,Anzahl,K03101,11541
+2020,"Salzgitter, Stadt",Insgesamt,Anzahl,K03102,4878
+2020,"Wolfsburg, Stadt",Insgesamt,Anzahl,K03103,10661
+2020,Gifhorn,Insgesamt,Anzahl,K03151,3257
+2020,Goslar,Insgesamt,Anzahl,K03153,3225
+2020,Helmstedt,Insgesamt,Anzahl,K03154,1701
+2020,Northeim,Insgesamt,Anzahl,K03155,3416
+2020,Peine,Insgesamt,Anzahl,K03157,3368
+2020,Wolfenbüttel,Insgesamt,Anzahl,K03158,1586
+2020,Göttingen,Insgesamt,Anzahl,K03159,9833
+2020,Statistische Region Braunschweig,Insgesamt,Anzahl,K031,53466
+2020,Hannover  Region,Insgesamt,Anzahl,K03241,62632
+2020,"dav. Hannover, Lhst.",Insgesamt,Anzahl,K03241001,38815
+2020,"dav. Hannover, Umland",Insgesamt,Anzahl,K03241999,23817
+2020,Diepholz,Insgesamt,Anzahl,K03251,6594
+2020,Hameln-Pyrmont,Insgesamt,Anzahl,K03252,4124
+2020,Hildesheim,Insgesamt,Anzahl,K03254,6461
+2020,Holzminden,Insgesamt,Anzahl,K03255,1484
+2020,Nienburg (Weser),Insgesamt,Anzahl,K03256,4349
+2020,Schaumburg,Insgesamt,Anzahl,K03257,3862
+2020,Statistische Region Hannover,Insgesamt,Anzahl,K032,89506
+2020,Celle,Insgesamt,Anzahl,K03351,4092
+2020,Cuxhaven,Insgesamt,Anzahl,K03352,4388
+2020,Harburg,Insgesamt,Anzahl,K03353,9737
+2020,Lüchow-Dannenberg,Insgesamt,Anzahl,K03354,750
+2020,Lüneburg,Insgesamt,Anzahl,K03355,3926
+2020,Osterholz,Insgesamt,Anzahl,K03356,2020
+2020,Rotenburg (Wümme),Insgesamt,Anzahl,K03357,4630
+2020,Heidekreis,Insgesamt,Anzahl,K03358,4303
+2020,Stade,Insgesamt,Anzahl,K03359,5874
+2020,Uelzen,Insgesamt,Anzahl,K03360,1682
+2020,Verden,Insgesamt,Anzahl,K03361,5629
+2020,Statistische Region Lüneburg,Insgesamt,Anzahl,K033,47031
+2020,"Delmenhorst, Stadt",Insgesamt,Anzahl,K03401,1864
+2020,Emden  Stadt,Insgesamt,Anzahl,K03402,1823
+2020,"Oldenburg(Oldb), Stadt",Insgesamt,Anzahl,K03403,6162
+2020,"Osnabrück, Stadt",Insgesamt,Anzahl,K03404,8847
+2020,"Wilhelmshaven, Stadt",Insgesamt,Anzahl,K03405,1855
+2020,Ammerland,Insgesamt,Anzahl,K03451,4153
+2020,Aurich,Insgesamt,Anzahl,K03452,4164
+2020,Cloppenburg,Insgesamt,Anzahl,K03453,10632
+2020,Emsland,Insgesamt,Anzahl,K03454,14967
+2020,Friesland,Insgesamt,Anzahl,K03455,1524
+2020,Grafschaft Bentheim,Insgesamt,Anzahl,K03456,5790
+2020,Leer,Insgesamt,Anzahl,K03457,3766
+2020,Oldenburg,Insgesamt,Anzahl,K03458,3842
+2020,Osnabrück,Insgesamt,Anzahl,K03459,17707
+2020,Vechta,Insgesamt,Anzahl,K03460,11205
+2020,Wesermarsch,Insgesamt,Anzahl,K03461,2505
+2020,Wittmund,Insgesamt,Anzahl,K03462,924
+2020,Statistische Region Weser-Ems,Insgesamt,Anzahl,K034,101730
+2020,Niedersachsen,Insgesamt,Anzahl,K030,291733
+2020,"Braunschweig, Stadt",Männer,Anzahl,K03101,6997
+2020,"Salzgitter, Stadt",Männer,Anzahl,K03102,3738
+2020,"Wolfsburg, Stadt",Männer,Anzahl,K03103,7333
+2020,Gifhorn,Männer,Anzahl,K03151,2169
+2020,Goslar,Männer,Anzahl,K03153,2090
+2020,Helmstedt,Männer,Anzahl,K03154,1149
+2020,Northeim,Männer,Anzahl,K03155,2534
+2020,Peine,Männer,Anzahl,K03157,2434
+2020,Wolfenbüttel,Männer,Anzahl,K03158,1010
+2020,Göttingen,Männer,Anzahl,K03159,6074
+2020,Statistische Region Braunschweig,Männer,Anzahl,K031,35528
+2020,Hannover  Region,Männer,Anzahl,K03241,38889
+2020,"dav. Hannover, Lhst.",Männer,Anzahl,K03241001,22979
+2020,"dav. Hannover, Umland",Männer,Anzahl,K03241999,15910
+2020,Diepholz,Männer,Anzahl,K03251,4544
+2020,Hameln-Pyrmont,Männer,Anzahl,K03252,2541
+2020,Hildesheim,Männer,Anzahl,K03254,4211
+2020,Holzminden,Männer,Anzahl,K03255,998
+2020,Nienburg (Weser),Männer,Anzahl,K03256,3022
+2020,Schaumburg,Männer,Anzahl,K03257,2539
+2020,Statistische Region Hannover,Männer,Anzahl,K032,56744
+2020,Celle,Männer,Anzahl,K03351,2631
+2020,Cuxhaven,Männer,Anzahl,K03352,2924
+2020,Harburg,Männer,Anzahl,K03353,7051
+2020,Lüchow-Dannenberg,Männer,Anzahl,K03354,456
+2020,Lüneburg,Männer,Anzahl,K03355,2530
+2020,Osterholz,Männer,Anzahl,K03356,1391
+2020,Rotenburg (Wümme),Männer,Anzahl,K03357,3136
+2020,Heidekreis,Männer,Anzahl,K03358,2824
+2020,Stade,Männer,Anzahl,K03359,4173
+2020,Uelzen,Männer,Anzahl,K03360,1035
+2020,Verden,Männer,Anzahl,K03361,3944
+2020,Statistische Region Lüneburg,Männer,Anzahl,K033,32095
+2020,"Delmenhorst, Stadt",Männer,Anzahl,K03401,1219
+2020,Emden  Stadt,Männer,Anzahl,K03402,1350
+2020,"Oldenburg(Oldb), Stadt",Männer,Anzahl,K03403,3917
+2020,"Osnabrück, Stadt",Männer,Anzahl,K03404,4934
+2020,"Wilhelmshaven, Stadt",Männer,Anzahl,K03405,1310
+2020,Ammerland,Männer,Anzahl,K03451,2852
+2020,Aurich,Männer,Anzahl,K03452,2658
+2020,Cloppenburg,Männer,Anzahl,K03453,7314
+2020,Emsland,Männer,Anzahl,K03454,10881
+2020,Friesland,Männer,Anzahl,K03455,982
+2020,Grafschaft Bentheim,Männer,Anzahl,K03456,3984
+2020,Leer,Männer,Anzahl,K03457,2684
+2020,Oldenburg,Männer,Anzahl,K03458,2708
+2020,Osnabrück,Männer,Anzahl,K03459,11697
+2020,Vechta,Männer,Anzahl,K03460,7462
+2020,Wesermarsch,Männer,Anzahl,K03461,1989
+2020,Wittmund,Männer,Anzahl,K03462,546
+2020,Statistische Region Weser-Ems,Männer,Anzahl,K034,68487
+2020,Niedersachsen,Männer,Anzahl,K030,192854
+2020,"Braunschweig, Stadt",Frauen,Anzahl,K03101,4544
+2020,"Salzgitter, Stadt",Frauen,Anzahl,K03102,1140
+2020,"Wolfsburg, Stadt",Frauen,Anzahl,K03103,3328
+2020,Gifhorn,Frauen,Anzahl,K03151,1088
+2020,Goslar,Frauen,Anzahl,K03153,1135
+2020,Helmstedt,Frauen,Anzahl,K03154,552
+2020,Northeim,Frauen,Anzahl,K03155,882
+2020,Peine,Frauen,Anzahl,K03157,934
+2020,Wolfenbüttel,Frauen,Anzahl,K03158,576
+2020,Göttingen,Frauen,Anzahl,K03159,3759
+2020,Statistische Region Braunschweig,Frauen,Anzahl,K031,17938
+2020,Hannover  Region,Frauen,Anzahl,K03241,23743
+2020,"dav. Hannover, Lhst.",Frauen,Anzahl,K03241001,15836
+2020,"dav. Hannover, Umland",Frauen,Anzahl,K03241999,7907
+2020,Diepholz,Frauen,Anzahl,K03251,2050
+2020,Hameln-Pyrmont,Frauen,Anzahl,K03252,1583
+2020,Hildesheim,Frauen,Anzahl,K03254,2250
+2020,Holzminden,Frauen,Anzahl,K03255,486
+2020,Nienburg (Weser),Frauen,Anzahl,K03256,1327
+2020,Schaumburg,Frauen,Anzahl,K03257,1323
+2020,Statistische Region Hannover,Frauen,Anzahl,K032,32762
+2020,Celle,Frauen,Anzahl,K03351,1461
+2020,Cuxhaven,Frauen,Anzahl,K03352,1464
+2020,Harburg,Frauen,Anzahl,K03353,2686
+2020,Lüchow-Dannenberg,Frauen,Anzahl,K03354,294
+2020,Lüneburg,Frauen,Anzahl,K03355,1396
+2020,Osterholz,Frauen,Anzahl,K03356,629
+2020,Rotenburg (Wümme),Frauen,Anzahl,K03357,1494
+2020,Heidekreis,Frauen,Anzahl,K03358,1479
+2020,Stade,Frauen,Anzahl,K03359,1701
+2020,Uelzen,Frauen,Anzahl,K03360,647
+2020,Verden,Frauen,Anzahl,K03361,1685
+2020,Statistische Region Lüneburg,Frauen,Anzahl,K033,14936
+2020,"Delmenhorst, Stadt",Frauen,Anzahl,K03401,645
+2020,Emden  Stadt,Frauen,Anzahl,K03402,473
+2020,"Oldenburg(Oldb), Stadt",Frauen,Anzahl,K03403,2245
+2020,"Osnabrück, Stadt",Frauen,Anzahl,K03404,3913
+2020,"Wilhelmshaven, Stadt",Frauen,Anzahl,K03405,545
+2020,Ammerland,Frauen,Anzahl,K03451,1301
+2020,Aurich,Frauen,Anzahl,K03452,1506
+2020,Cloppenburg,Frauen,Anzahl,K03453,3318
+2020,Emsland,Frauen,Anzahl,K03454,4086
+2020,Friesland,Frauen,Anzahl,K03455,542
+2020,Grafschaft Bentheim,Frauen,Anzahl,K03456,1806
+2020,Leer,Frauen,Anzahl,K03457,1082
+2020,Oldenburg,Frauen,Anzahl,K03458,1134
+2020,Osnabrück,Frauen,Anzahl,K03459,6010
+2020,Vechta,Frauen,Anzahl,K03460,3743
+2020,Wesermarsch,Frauen,Anzahl,K03461,516
+2020,Wittmund,Frauen,Anzahl,K03462,378
+2020,Statistische Region Weser-Ems,Frauen,Anzahl,K034,33243
+2020,Niedersachsen,Frauen,Anzahl,K030,93737
+2019,"Braunschweig, Stadt",Insgesamt,Anzahl,K03101,11157
+2019,"Salzgitter, Stadt",Insgesamt,Anzahl,K03102,4747
+2019,"Wolfsburg, Stadt",Insgesamt,Anzahl,K03103,10288
+2019,Gifhorn,Insgesamt,Anzahl,K03151,3040
+2019,Goslar,Insgesamt,Anzahl,K03153,3119
+2019,Helmstedt,Insgesamt,Anzahl,K03154,1557
+2019,Northeim,Insgesamt,Anzahl,K03155,3377
+2019,Peine,Insgesamt,Anzahl,K03157,3351
+2019,Wolfenbüttel,Insgesamt,Anzahl,K03158,1510
+2019,Göttingen,Insgesamt,Anzahl,K03159,9450
+2019,Statistische Region Braunschweig,Insgesamt,Anzahl,K031,51596
+2019,Hannover  Region,Insgesamt,Anzahl,K03241,60737
+2019,"dav. Hannover, Lhst.",Insgesamt,Anzahl,K03241001,38360
+2019,"dav. Hannover, Umland",Insgesamt,Anzahl,K03241999,22377
+2019,Diepholz,Insgesamt,Anzahl,K03251,6222
+2019,Hameln-Pyrmont,Insgesamt,Anzahl,K03252,4052
+2019,Hildesheim,Insgesamt,Anzahl,K03254,6219
+2019,Holzminden,Insgesamt,Anzahl,K03255,1421
+2019,Nienburg (Weser),Insgesamt,Anzahl,K03256,4261
+2019,Schaumburg,Insgesamt,Anzahl,K03257,3689
+2019,Statistische Region Hannover,Insgesamt,Anzahl,K032,86601
+2019,Celle,Insgesamt,Anzahl,K03351,3847
+2019,Cuxhaven,Insgesamt,Anzahl,K03352,4262
+2019,Harburg,Insgesamt,Anzahl,K03353,9048
+2019,Lüchow-Dannenberg,Insgesamt,Anzahl,K03354,713
+2019,Lüneburg,Insgesamt,Anzahl,K03355,3903
+2019,Osterholz,Insgesamt,Anzahl,K03356,1985
+2019,Rotenburg (Wümme),Insgesamt,Anzahl,K03357,4111
+2019,Heidekreis,Insgesamt,Anzahl,K03358,4245
+2019,Stade,Insgesamt,Anzahl,K03359,5633
+2019,Uelzen,Insgesamt,Anzahl,K03360,1615
+2019,Verden,Insgesamt,Anzahl,K03361,4890
+2019,Statistische Region Lüneburg,Insgesamt,Anzahl,K033,44252
+2019,"Delmenhorst, Stadt",Insgesamt,Anzahl,K03401,1802
+2019,Emden  Stadt,Insgesamt,Anzahl,K03402,1927
+2019,"Oldenburg(Oldb), Stadt",Insgesamt,Anzahl,K03403,5889
+2019,"Osnabrück, Stadt",Insgesamt,Anzahl,K03404,8627
+2019,"Wilhelmshaven, Stadt",Insgesamt,Anzahl,K03405,1637
+2019,Ammerland,Insgesamt,Anzahl,K03451,3785
+2019,Aurich,Insgesamt,Anzahl,K03452,4363
+2019,Cloppenburg,Insgesamt,Anzahl,K03453,10030
+2019,Emsland,Insgesamt,Anzahl,K03454,13916
+2019,Friesland,Insgesamt,Anzahl,K03455,1407
+2019,Grafschaft Bentheim,Insgesamt,Anzahl,K03456,5658
+2019,Leer,Insgesamt,Anzahl,K03457,3734
+2019,Oldenburg,Insgesamt,Anzahl,K03458,3710
+2019,Osnabrück,Insgesamt,Anzahl,K03459,17588
+2019,Vechta,Insgesamt,Anzahl,K03460,10720
+2019,Wesermarsch,Insgesamt,Anzahl,K03461,2489
+2019,Wittmund,Insgesamt,Anzahl,K03462,988
+2019,Statistische Region Weser-Ems,Insgesamt,Anzahl,K034,98270
+2019,Niedersachsen,Insgesamt,Anzahl,K030,280719
+2019,"Braunschweig, Stadt",Männer,Anzahl,K03101,6758
+2019,"Salzgitter, Stadt",Männer,Anzahl,K03102,3672
+2019,"Wolfsburg, Stadt",Männer,Anzahl,K03103,7063
+2019,Gifhorn,Männer,Anzahl,K03151,2038
+2019,Goslar,Männer,Anzahl,K03153,1991
+2019,Helmstedt,Männer,Anzahl,K03154,1083
+2019,Northeim,Männer,Anzahl,K03155,2552
+2019,Peine,Männer,Anzahl,K03157,2439
+2019,Wolfenbüttel,Männer,Anzahl,K03158,969
+2019,Göttingen,Männer,Anzahl,K03159,5838
+2019,Statistische Region Braunschweig,Männer,Anzahl,K031,34403
+2019,Hannover  Region,Männer,Anzahl,K03241,38040
+2019,"dav. Hannover, Lhst.",Männer,Anzahl,K03241001,23217
+2019,"dav. Hannover, Umland",Männer,Anzahl,K03241999,14823
+2019,Diepholz,Männer,Anzahl,K03251,4331
+2019,Hameln-Pyrmont,Männer,Anzahl,K03252,2542
+2019,Hildesheim,Männer,Anzahl,K03254,4059
+2019,Holzminden,Männer,Anzahl,K03255,945
+2019,Nienburg (Weser),Männer,Anzahl,K03256,3042
+2019,Schaumburg,Männer,Anzahl,K03257,2420
+2019,Statistische Region Hannover,Männer,Anzahl,K032,55379
+2019,Celle,Männer,Anzahl,K03351,2498
+2019,Cuxhaven,Männer,Anzahl,K03352,2846
+2019,Harburg,Männer,Anzahl,K03353,6600
+2019,Lüchow-Dannenberg,Männer,Anzahl,K03354,457
+2019,Lüneburg,Männer,Anzahl,K03355,2552
+2019,Osterholz,Männer,Anzahl,K03356,1395
+2019,Rotenburg (Wümme),Männer,Anzahl,K03357,2823
+2019,Heidekreis,Männer,Anzahl,K03358,2765
+2019,Stade,Männer,Anzahl,K03359,4017
+2019,Uelzen,Männer,Anzahl,K03360,1016
+2019,Verden,Männer,Anzahl,K03361,3456
+2019,Statistische Region Lüneburg,Männer,Anzahl,K033,30425
+2019,"Delmenhorst, Stadt",Männer,Anzahl,K03401,1145
+2019,Emden  Stadt,Männer,Anzahl,K03402,1437
+2019,"Oldenburg(Oldb), Stadt",Männer,Anzahl,K03403,3809
+2019,"Osnabrück, Stadt",Männer,Anzahl,K03404,4905
+2019,"Wilhelmshaven, Stadt",Männer,Anzahl,K03405,1146
+2019,Ammerland,Männer,Anzahl,K03451,2613
+2019,Aurich,Männer,Anzahl,K03452,2791
+2019,Cloppenburg,Männer,Anzahl,K03453,6972
+2019,Emsland,Männer,Anzahl,K03454,10248
+2019,Friesland,Männer,Anzahl,K03455,905
+2019,Grafschaft Bentheim,Männer,Anzahl,K03456,3875
+2019,Leer,Männer,Anzahl,K03457,2680
+2019,Oldenburg,Männer,Anzahl,K03458,2646
+2019,Osnabrück,Männer,Anzahl,K03459,11759
+2019,Vechta,Männer,Anzahl,K03460,7249
+2019,Wesermarsch,Männer,Anzahl,K03461,2018
+2019,Wittmund,Männer,Anzahl,K03462,577
+2019,Statistische Region Weser-Ems,Männer,Anzahl,K034,66775
+2019,Niedersachsen,Männer,Anzahl,K030,186982
+2019,"Braunschweig, Stadt",Frauen,Anzahl,K03101,4399
+2019,"Salzgitter, Stadt",Frauen,Anzahl,K03102,1075
+2019,"Wolfsburg, Stadt",Frauen,Anzahl,K03103,3225
+2019,Gifhorn,Frauen,Anzahl,K03151,1002
+2019,Goslar,Frauen,Anzahl,K03153,1128
+2019,Helmstedt,Frauen,Anzahl,K03154,474
+2019,Northeim,Frauen,Anzahl,K03155,825
+2019,Peine,Frauen,Anzahl,K03157,912
+2019,Wolfenbüttel,Frauen,Anzahl,K03158,541
+2019,Göttingen,Frauen,Anzahl,K03159,3612
+2019,Statistische Region Braunschweig,Frauen,Anzahl,K031,17193
+2019,Hannover  Region,Frauen,Anzahl,K03241,22697
+2019,"dav. Hannover, Lhst.",Frauen,Anzahl,K03241001,15143
+2019,"dav. Hannover, Umland",Frauen,Anzahl,K03241999,7554
+2019,Diepholz,Frauen,Anzahl,K03251,1891
+2019,Hameln-Pyrmont,Frauen,Anzahl,K03252,1510
+2019,Hildesheim,Frauen,Anzahl,K03254,2160
+2019,Holzminden,Frauen,Anzahl,K03255,476
+2019,Nienburg (Weser),Frauen,Anzahl,K03256,1219
+2019,Schaumburg,Frauen,Anzahl,K03257,1269
+2019,Statistische Region Hannover,Frauen,Anzahl,K032,31222
+2019,Celle,Frauen,Anzahl,K03351,1349
+2019,Cuxhaven,Frauen,Anzahl,K03352,1416
+2019,Harburg,Frauen,Anzahl,K03353,2448
+2019,Lüchow-Dannenberg,Frauen,Anzahl,K03354,256
+2019,Lüneburg,Frauen,Anzahl,K03355,1351
+2019,Osterholz,Frauen,Anzahl,K03356,590
+2019,Rotenburg (Wümme),Frauen,Anzahl,K03357,1288
+2019,Heidekreis,Frauen,Anzahl,K03358,1480
+2019,Stade,Frauen,Anzahl,K03359,1616
+2019,Uelzen,Frauen,Anzahl,K03360,599
+2019,Verden,Frauen,Anzahl,K03361,1434
+2019,Statistische Region Lüneburg,Frauen,Anzahl,K033,13827
+2019,"Delmenhorst, Stadt",Frauen,Anzahl,K03401,657
+2019,Emden  Stadt,Frauen,Anzahl,K03402,490
+2019,"Oldenburg(Oldb), Stadt",Frauen,Anzahl,K03403,2080
+2019,"Osnabrück, Stadt",Frauen,Anzahl,K03404,3722
+2019,"Wilhelmshaven, Stadt",Frauen,Anzahl,K03405,491
+2019,Ammerland,Frauen,Anzahl,K03451,1172
+2019,Aurich,Frauen,Anzahl,K03452,1572
+2019,Cloppenburg,Frauen,Anzahl,K03453,3058
+2019,Emsland,Frauen,Anzahl,K03454,3668
+2019,Friesland,Frauen,Anzahl,K03455,502
+2019,Grafschaft Bentheim,Frauen,Anzahl,K03456,1783
+2019,Leer,Frauen,Anzahl,K03457,1054
+2019,Oldenburg,Frauen,Anzahl,K03458,1064
+2019,Osnabrück,Frauen,Anzahl,K03459,5829
+2019,Vechta,Frauen,Anzahl,K03460,3471
+2019,Wesermarsch,Frauen,Anzahl,K03461,471
+2019,Wittmund,Frauen,Anzahl,K03462,411
+2019,Statistische Region Weser-Ems,Frauen,Anzahl,K034,31495
+2019,Niedersachsen,Frauen,Anzahl,K030,93737
+2018,"Braunschweig, Stadt",Insgesamt,Anzahl,K03101,10097
+2018,"Salzgitter, Stadt",Insgesamt,Anzahl,K03102,4348
+2018,"Wolfsburg, Stadt",Insgesamt,Anzahl,K03103,9961
+2018,Gifhorn,Insgesamt,Anzahl,K03151,2689
+2018,Goslar,Insgesamt,Anzahl,K03153,2762
+2018,Helmstedt,Insgesamt,Anzahl,K03154,1431
+2018,Northeim,Insgesamt,Anzahl,K03155,3117
+2018,Peine,Insgesamt,Anzahl,K03157,2590
+2018,Wolfenbüttel,Insgesamt,Anzahl,K03158,1412
+2018,Göttingen,Insgesamt,Anzahl,K03159,8659
+2018,Statistische Region Braunschweig,Insgesamt,Anzahl,K031,47066
+2018,Hannover  Region,Insgesamt,Anzahl,K03241,56204
+2018,"dav. Hannover, Lhst.",Insgesamt,Anzahl,K03241001,35942
+2018,"dav. Hannover, Umland",Insgesamt,Anzahl,K03241999,20262
+2018,Diepholz,Insgesamt,Anzahl,K03251,5644
+2018,Hameln-Pyrmont,Insgesamt,Anzahl,K03252,3678
+2018,Hildesheim,Insgesamt,Anzahl,K03254,5755
+2018,Holzminden,Insgesamt,Anzahl,K03255,1260
+2018,Nienburg (Weser),Insgesamt,Anzahl,K03256,3442
+2018,Schaumburg,Insgesamt,Anzahl,K03257,3435
+2018,Statistische Region Hannover,Insgesamt,Anzahl,K032,79418
+2018,Celle,Insgesamt,Anzahl,K03351,3438
+2018,Cuxhaven,Insgesamt,Anzahl,K03352,4156
+2018,Harburg,Insgesamt,Anzahl,K03353,8032
+2018,Lüchow-Dannenberg,Insgesamt,Anzahl,K03354,677
+2018,Lüneburg,Insgesamt,Anzahl,K03355,3651
+2018,Osterholz,Insgesamt,Anzahl,K03356,1703
+2018,Rotenburg (Wümme),Insgesamt,Anzahl,K03357,3606
+2018,Heidekreis,Insgesamt,Anzahl,K03358,3797
+2018,Stade,Insgesamt,Anzahl,K03359,5030
+2018,Uelzen,Insgesamt,Anzahl,K03360,1413
+2018,Verden,Insgesamt,Anzahl,K03361,4393
+2018,Statistische Region Lüneburg,Insgesamt,Anzahl,K033,39896
+2018,"Delmenhorst, Stadt",Insgesamt,Anzahl,K03401,1707
+2018,Emden  Stadt,Insgesamt,Anzahl,K03402,1906
+2018,"Oldenburg(Oldb), Stadt",Insgesamt,Anzahl,K03403,4897
+2018,"Osnabrück, Stadt",Insgesamt,Anzahl,K03404,7549
+2018,"Wilhelmshaven, Stadt",Insgesamt,Anzahl,K03405,1589
+2018,Ammerland,Insgesamt,Anzahl,K03451,3428
+2018,Aurich,Insgesamt,Anzahl,K03452,4232
+2018,Cloppenburg,Insgesamt,Anzahl,K03453,9140
+2018,Emsland,Insgesamt,Anzahl,K03454,12405
+2018,Friesland,Insgesamt,Anzahl,K03455,1301
+2018,Grafschaft Bentheim,Insgesamt,Anzahl,K03456,5166
+2018,Leer,Insgesamt,Anzahl,K03457,3327
+2018,Oldenburg,Insgesamt,Anzahl,K03458,3207
+2018,Osnabrück,Insgesamt,Anzahl,K03459,16160
+2018,Vechta,Insgesamt,Anzahl,K03460,9815
+2018,Wesermarsch,Insgesamt,Anzahl,K03461,2455
+2018,Wittmund,Insgesamt,Anzahl,K03462,855
+2018,Statistische Region Weser-Ems,Insgesamt,Anzahl,K034,89139
+2018,Niedersachsen,Insgesamt,Anzahl,K030,255519
+2018,"Braunschweig, Stadt",Männer,Anzahl,K03101,6123
+2018,"Salzgitter, Stadt",Männer,Anzahl,K03102,3378
+2018,"Wolfsburg, Stadt",Männer,Anzahl,K03103,6958
+2018,Gifhorn,Männer,Anzahl,K03151,1771
+2018,Goslar,Männer,Anzahl,K03153,1800
+2018,Helmstedt,Männer,Anzahl,K03154,994
+2018,Northeim,Männer,Anzahl,K03155,2391
+2018,Peine,Männer,Anzahl,K03157,1871
+2018,Wolfenbüttel,Männer,Anzahl,K03158,873
+2018,Göttingen,Männer,Anzahl,K03159,5270
+2018,Statistische Region Braunschweig,Männer,Anzahl,K031,31429
+2018,Hannover  Region,Männer,Anzahl,K03241,35024
+2018,"dav. Hannover, Lhst.",Männer,Anzahl,K03241001,21620
+2018,"dav. Hannover, Umland",Männer,Anzahl,K03241999,13404
+2018,Diepholz,Männer,Anzahl,K03251,3930
+2018,Hameln-Pyrmont,Männer,Anzahl,K03252,2263
+2018,Hildesheim,Männer,Anzahl,K03254,3694
+2018,Holzminden,Männer,Anzahl,K03255,840
+2018,Nienburg (Weser),Männer,Anzahl,K03256,2472
+2018,Schaumburg,Männer,Anzahl,K03257,2251
+2018,Statistische Region Hannover,Männer,Anzahl,K032,50474
+2018,Celle,Männer,Anzahl,K03351,2240
+2018,Cuxhaven,Männer,Anzahl,K03352,2828
+2018,Harburg,Männer,Anzahl,K03353,5853
+2018,Lüchow-Dannenberg,Männer,Anzahl,K03354,397
+2018,Lüneburg,Männer,Anzahl,K03355,2418
+2018,Osterholz,Männer,Anzahl,K03356,1163
+2018,Rotenburg (Wümme),Männer,Anzahl,K03357,2464
+2018,Heidekreis,Männer,Anzahl,K03358,2508
+2018,Stade,Männer,Anzahl,K03359,3638
+2018,Uelzen,Männer,Anzahl,K03360,883
+2018,Verden,Männer,Anzahl,K03361,3082
+2018,Statistische Region Lüneburg,Männer,Anzahl,K033,27474
+2018,"Delmenhorst, Stadt",Männer,Anzahl,K03401,1028
+2018,Emden  Stadt,Männer,Anzahl,K03402,1444
+2018,"Oldenburg(Oldb), Stadt",Männer,Anzahl,K03403,3124
+2018,"Osnabrück, Stadt",Männer,Anzahl,K03404,4282
+2018,"Wilhelmshaven, Stadt",Männer,Anzahl,K03405,1167
+2018,Ammerland,Männer,Anzahl,K03451,2332
+2018,Aurich,Männer,Anzahl,K03452,2716
+2018,Cloppenburg,Männer,Anzahl,K03453,6398
+2018,Emsland,Männer,Anzahl,K03454,9075
+2018,Friesland,Männer,Anzahl,K03455,846
+2018,Grafschaft Bentheim,Männer,Anzahl,K03456,3511
+2018,Leer,Männer,Anzahl,K03457,2340
+2018,Oldenburg,Männer,Anzahl,K03458,2308
+2018,Osnabrück,Männer,Anzahl,K03459,10937
+2018,Vechta,Männer,Anzahl,K03460,6648
+2018,Wesermarsch,Männer,Anzahl,K03461,2010
+2018,Wittmund,Männer,Anzahl,K03462,503
+2018,Statistische Region Weser-Ems,Männer,Anzahl,K034,60669
+2018,Niedersachsen,Männer,Anzahl,K030,170046
+2018,"Braunschweig, Stadt",Frauen,Anzahl,K03101,6123
+2018,"Salzgitter, Stadt",Frauen,Anzahl,K03102,970
+2018,"Wolfsburg, Stadt",Frauen,Anzahl,K03103,3003
+2018,Gifhorn,Frauen,Anzahl,K03151,918
+2018,Goslar,Frauen,Anzahl,K03153,962
+2018,Helmstedt,Frauen,Anzahl,K03154,437
+2018,Northeim,Frauen,Anzahl,K03155,726
+2018,Peine,Frauen,Anzahl,K03157,719
+2018,Wolfenbüttel,Frauen,Anzahl,K03158,539
+2018,Göttingen,Frauen,Anzahl,K03159,3389
+2018,Statistische Region Braunschweig,Frauen,Anzahl,K031,15637
+2018,Hannover  Region,Frauen,Anzahl,K03241,21180
+2018,"dav. Hannover, Lhst.",Frauen,Anzahl,K03241001,14322
+2018,"dav. Hannover, Umland",Frauen,Anzahl,K03241999,6858
+2018,Diepholz,Frauen,Anzahl,K03251,1714
+2018,Hameln-Pyrmont,Frauen,Anzahl,K03252,1415
+2018,Hildesheim,Frauen,Anzahl,K03254,2061
+2018,Holzminden,Frauen,Anzahl,K03255,420
+2018,Nienburg (Weser),Frauen,Anzahl,K03256,970
+2018,Schaumburg,Frauen,Anzahl,K03257,1184
+2018,Statistische Region Hannover,Frauen,Anzahl,K032,28944
+2018,Celle,Frauen,Anzahl,K03351,1198
+2018,Cuxhaven,Frauen,Anzahl,K03352,1328
+2018,Harburg,Frauen,Anzahl,K03353,2179
+2018,Lüchow-Dannenberg,Frauen,Anzahl,K03354,280
+2018,Lüneburg,Frauen,Anzahl,K03355,1233
+2018,Osterholz,Frauen,Anzahl,K03356,540
+2018,Rotenburg (Wümme),Frauen,Anzahl,K03357,1142
+2018,Heidekreis,Frauen,Anzahl,K03358,1289
+2018,Stade,Frauen,Anzahl,K03359,1392
+2018,Uelzen,Frauen,Anzahl,K03360,530
+2018,Verden,Frauen,Anzahl,K03361,1311
+2018,Statistische Region Lüneburg,Frauen,Anzahl,K033,12422
+2018,"Delmenhorst, Stadt",Frauen,Anzahl,K03401,679
+2018,Emden  Stadt,Frauen,Anzahl,K03402,462
+2018,"Oldenburg(Oldb), Stadt",Frauen,Anzahl,K03403,1773
+2018,"Osnabrück, Stadt",Frauen,Anzahl,K03404,3267
+2018,"Wilhelmshaven, Stadt",Frauen,Anzahl,K03405,422
+2018,Ammerland,Frauen,Anzahl,K03451,1096
+2018,Aurich,Frauen,Anzahl,K03452,1516
+2018,Cloppenburg,Frauen,Anzahl,K03453,2742
+2018,Emsland,Frauen,Anzahl,K03454,3330
+2018,Friesland,Frauen,Anzahl,K03455,455
+2018,Grafschaft Bentheim,Frauen,Anzahl,K03456,1655
+2018,Leer,Frauen,Anzahl,K03457,987
+2018,Oldenburg,Frauen,Anzahl,K03458,899
+2018,Osnabrück,Frauen,Anzahl,K03459,5223
+2018,Vechta,Frauen,Anzahl,K03460,3167
+2018,Wesermarsch,Frauen,Anzahl,K03461,445
+2018,Wittmund,Frauen,Anzahl,K03462,352
+2018,Statistische Region Weser-Ems,Frauen,Anzahl,K034,28470
+2018,Niedersachsen,Frauen,Anzahl,K030,85473
+2017,"Braunschweig, Stadt",Insgesamt,Anzahl,K03101,9028
+2017,"Salzgitter, Stadt",Insgesamt,Anzahl,K03102,3977
+2017,"Wolfsburg, Stadt",Insgesamt,Anzahl,K03103,8937
+2017,Gifhorn,Insgesamt,Anzahl,K03151,2431
+2017,Goslar,Insgesamt,Anzahl,K03153,2405
+2017,Helmstedt,Insgesamt,Anzahl,K03154,1295
+2017,Northeim,Insgesamt,Anzahl,K03155,2659
+2017,Peine,Insgesamt,Anzahl,K03157,2202
+2017,Wolfenbüttel,Insgesamt,Anzahl,K03158,1212
+2017,Göttingen,Insgesamt,Anzahl,K03159,7778
+2017,Statistische Region Braunschweig,Insgesamt,Anzahl,K031,41924
+2017,Hannover  Region,Insgesamt,Anzahl,K03241,51403
+2017,"dav. Hannover, Lhst.",Insgesamt,Anzahl,K03241001,33601
+2017,"dav. Hannover, Umland",Insgesamt,Anzahl,K03241999,17802
+2017,Diepholz,Insgesamt,Anzahl,K03251,4811
+2017,Hameln-Pyrmont,Insgesamt,Anzahl,K03252,3270
+2017,Hildesheim,Insgesamt,Anzahl,K03254,5044
+2017,Holzminden,Insgesamt,Anzahl,K03255,1088
+2017,Nienburg (Weser),Insgesamt,Anzahl,K03256,2668
+2017,Schaumburg,Insgesamt,Anzahl,K03257,2966
+2017,Statistische Region Hannover,Insgesamt,Anzahl,K032,71250
+2017,Celle,Insgesamt,Anzahl,K03351,3061
+2017,Cuxhaven,Insgesamt,Anzahl,K03352,3769
+2017,Harburg,Insgesamt,Anzahl,K03353,6224
+2017,Lüchow-Dannenberg,Insgesamt,Anzahl,K03354,654
+2017,Lüneburg,Insgesamt,Anzahl,K03355,3125
+2017,Osterholz,Insgesamt,Anzahl,K03356,1491
+2017,Rotenburg (Wümme),Insgesamt,Anzahl,K03357,3356
+2017,Heidekreis,Insgesamt,Anzahl,K03358,3290
+2017,Stade,Insgesamt,Anzahl,K03359,4514
+2017,Uelzen,Insgesamt,Anzahl,K03360,1245
+2017,Verden,Insgesamt,Anzahl,K03361,3863
+2017,Statistische Region Lüneburg,Insgesamt,Anzahl,K033,34592
+2017,"Delmenhorst, Stadt",Insgesamt,Anzahl,K03401,1536
+2017,Emden  Stadt,Insgesamt,Anzahl,K03402,1621
+2017,"Oldenburg(Oldb), Stadt",Insgesamt,Anzahl,K03403,4306
+2017,"Osnabrück, Stadt",Insgesamt,Anzahl,K03404,6975
+2017,"Wilhelmshaven, Stadt",Insgesamt,Anzahl,K03405,1208
+2017,Ammerland,Insgesamt,Anzahl,K03451,2934
+2017,Aurich,Insgesamt,Anzahl,K03452,3934
+2017,Cloppenburg,Insgesamt,Anzahl,K03453,7928
+2017,Emsland,Insgesamt,Anzahl,K03454,10836
+2017,Friesland,Insgesamt,Anzahl,K03455,1141
+2017,Grafschaft Bentheim,Insgesamt,Anzahl,K03456,4741
+2017,Leer,Insgesamt,Anzahl,K03457,2855
+2017,Oldenburg,Insgesamt,Anzahl,K03458,2773
+2017,Osnabrück,Insgesamt,Anzahl,K03459,13926
+2017,Vechta,Insgesamt,Anzahl,K03460,9005
+2017,Wesermarsch,Insgesamt,Anzahl,K03461,2101
+2017,Wittmund,Insgesamt,Anzahl,K03462,801
+2017,Statistische Region Weser-Ems,Insgesamt,Anzahl,K034,78621
+2017,Niedersachsen,Insgesamt,Anzahl,K030,226387
+2017,"Braunschweig, Stadt",Männer,Anzahl,K03101,5388
+2017,"Salzgitter, Stadt",Männer,Anzahl,K03102,3093
+2017,"Wolfsburg, Stadt",Männer,Anzahl,K03103,6215
+2017,Gifhorn,Männer,Anzahl,K03151,1612
+2017,Goslar,Männer,Anzahl,K03153,1547
+2017,Helmstedt,Männer,Anzahl,K03154,882
+2017,Northeim,Männer,Anzahl,K03155,2052
+2017,Peine,Männer,Anzahl,K03157,1601
+2017,Wolfenbüttel,Männer,Anzahl,K03158,730
+2017,Göttingen,Männer,Anzahl,K03159,4661
+2017,Statistische Region Braunschweig,Männer,Anzahl,K031,27781
+2017,Hannover  Region,Männer,Anzahl,K03241,31628
+2017,"dav. Hannover, Lhst.",Männer,Anzahl,K03241001,20038
+2017,"dav. Hannover, Umland",Männer,Anzahl,K03241999,11590
+2017,Diepholz,Männer,Anzahl,K03251,3330
+2017,Hameln-Pyrmont,Männer,Anzahl,K03252,1959
+2017,Hildesheim,Männer,Anzahl,K03254,3238
+2017,Holzminden,Männer,Anzahl,K03255,720
+2017,Nienburg (Weser),Männer,Anzahl,K03256,1901
+2017,Schaumburg,Männer,Anzahl,K03257,1935
+2017,Statistische Region Hannover,Männer,Anzahl,K032,44711
+2017,Celle,Männer,Anzahl,K03351,1955
+2017,Cuxhaven,Männer,Anzahl,K03352,2426
+2017,Harburg,Männer,Anzahl,K03353,4363
+2017,Lüchow-Dannenberg,Männer,Anzahl,K03354,370
+2017,Lüneburg,Männer,Anzahl,K03355,1975
+2017,Osterholz,Männer,Anzahl,K03356,1002
+2017,Rotenburg (Wümme),Männer,Anzahl,K03357,2263
+2017,Heidekreis,Männer,Anzahl,K03358,2171
+2017,Stade,Männer,Anzahl,K03359,3241
+2017,Uelzen,Männer,Anzahl,K03360,750
+2017,Verden,Männer,Anzahl,K03361,2605
+2017,Statistische Region Lüneburg,Männer,Anzahl,K033,23121
+2017,"Delmenhorst, Stadt",Männer,Anzahl,K03401,891
+2017,Emden  Stadt,Männer,Anzahl,K03402,1203
+2017,"Oldenburg(Oldb), Stadt",Männer,Anzahl,K03403,2682
+2017,"Osnabrück, Stadt",Männer,Anzahl,K03404,3933
+2017,"Wilhelmshaven, Stadt",Männer,Anzahl,K03405,826
+2017,Ammerland,Männer,Anzahl,K03451,2033
+2017,Aurich,Männer,Anzahl,K03452,2507
+2017,Cloppenburg,Männer,Anzahl,K03453,5694
+2017,Emsland,Männer,Anzahl,K03454,7902
+2017,Friesland,Männer,Anzahl,K03455,726
+2017,Grafschaft Bentheim,Männer,Anzahl,K03456,3221
+2017,Leer,Männer,Anzahl,K03457,1943
+2017,Oldenburg,Männer,Anzahl,K03458,1968
+2017,Osnabrück,Männer,Anzahl,K03459,9370
+2017,Vechta,Männer,Anzahl,K03460,6010
+2017,Wesermarsch,Männer,Anzahl,K03461,1739
+2017,Wittmund,Männer,Anzahl,K03462,462
+2017,Statistische Region Weser-Ems,Männer,Anzahl,K034,53110
+2017,Niedersachsen,Männer,Anzahl,K030,148723
+2017,"Braunschweig, Stadt",Frauen,Anzahl,K03101,3640
+2017,"Salzgitter, Stadt",Frauen,Anzahl,K03102,884
+2017,"Wolfsburg, Stadt",Frauen,Anzahl,K03103,2722
+2017,Gifhorn,Frauen,Anzahl,K03151,819
+2017,Goslar,Frauen,Anzahl,K03153,858
+2017,Helmstedt,Frauen,Anzahl,K03154,413
+2017,Northeim,Frauen,Anzahl,K03155,607
+2017,Peine,Frauen,Anzahl,K03157,601
+2017,Wolfenbüttel,Frauen,Anzahl,K03158,482
+2017,Göttingen,Frauen,Anzahl,K03159,3117
+2017,Statistische Region Braunschweig,Frauen,Anzahl,K031,14143
+2017,Hannover  Region,Frauen,Anzahl,K03241,19775
+2017,"dav. Hannover, Lhst.",Frauen,Anzahl,K03241001,13563
+2017,"dav. Hannover, Umland",Frauen,Anzahl,K03241999,6212
+2017,Diepholz,Frauen,Anzahl,K03251,1481
+2017,Hameln-Pyrmont,Frauen,Anzahl,K03252,1311
+2017,Hildesheim,Frauen,Anzahl,K03254,1806
+2017,Holzminden,Frauen,Anzahl,K03255,368
+2017,Nienburg (Weser),Frauen,Anzahl,K03256,767
+2017,Schaumburg,Frauen,Anzahl,K03257,1031
+2017,Statistische Region Hannover,Frauen,Anzahl,K032,26539
+2017,Celle,Frauen,Anzahl,K03351,1106
+2017,Cuxhaven,Frauen,Anzahl,K03352,1343
+2017,Harburg,Frauen,Anzahl,K03353,1861
+2017,Lüchow-Dannenberg,Frauen,Anzahl,K03354,284
+2017,Lüneburg,Frauen,Anzahl,K03355,1150
+2017,Osterholz,Frauen,Anzahl,K03356,489
+2017,Rotenburg (Wümme),Frauen,Anzahl,K03357,1093
+2017,Heidekreis,Frauen,Anzahl,K03358,1119
+2017,Stade,Frauen,Anzahl,K03359,1273
+2017,Uelzen,Frauen,Anzahl,K03360,495
+2017,Verden,Frauen,Anzahl,K03361,1258
+2017,Statistische Region Lüneburg,Frauen,Anzahl,K033,11471
+2017,"Delmenhorst, Stadt",Frauen,Anzahl,K03401,645
+2017,Emden  Stadt,Frauen,Anzahl,K03402,418
+2017,"Oldenburg(Oldb), Stadt",Frauen,Anzahl,K03403,1624
+2017,"Osnabrück, Stadt",Frauen,Anzahl,K03404,3042
+2017,"Wilhelmshaven, Stadt",Frauen,Anzahl,K03405,382
+2017,Ammerland,Frauen,Anzahl,K03451,901
+2017,Aurich,Frauen,Anzahl,K03452,1427
+2017,Cloppenburg,Frauen,Anzahl,K03453,2234
+2017,Emsland,Frauen,Anzahl,K03454,2934
+2017,Friesland,Frauen,Anzahl,K03455,415
+2017,Grafschaft Bentheim,Frauen,Anzahl,K03456,1520
+2017,Leer,Frauen,Anzahl,K03457,912
+2017,Oldenburg,Frauen,Anzahl,K03458,805
+2017,Osnabrück,Frauen,Anzahl,K03459,4556
+2017,Vechta,Frauen,Anzahl,K03460,2995
+2017,Wesermarsch,Frauen,Anzahl,K03461,362
+2017,Wittmund,Frauen,Anzahl,K03462,339
+2017,Statistische Region Weser-Ems,Frauen,Anzahl,K034,25511
+2017,Niedersachsen,Frauen,Anzahl,K030,77664
+2016,"Braunschweig, Stadt",Insgesamt,Anzahl,K03101,7951
+2016,"Salzgitter, Stadt",Insgesamt,Anzahl,K03102,3635
+2016,"Wolfsburg, Stadt",Insgesamt,Anzahl,K03103,8705
+2016,Gifhorn,Insgesamt,Anzahl,K03151,2218
+2016,Goslar,Insgesamt,Anzahl,K03153,2132
+2016,Helmstedt,Insgesamt,Anzahl,K03154,862
+2016,Northeim,Insgesamt,Anzahl,K03155,2414
+2016,Peine,Insgesamt,Anzahl,K03157,1899
+2016,Wolfenbüttel,Insgesamt,Anzahl,K03158,1041
+2016,Göttingen,Insgesamt,Anzahl,K03159,7135
+2016,Statistische Region Braunschweig,Insgesamt,Anzahl,K031,37992
+2016,Hannover  Region,Insgesamt,Anzahl,K03241,47129
+2016,"dav. Hannover, Lhst.",Insgesamt,Anzahl,K03241001,31290
+2016,"dav. Hannover, Umland",Insgesamt,Anzahl,K03241999,15839
+2016,Diepholz,Insgesamt,Anzahl,K03251,4067
+2016,Hameln-Pyrmont,Insgesamt,Anzahl,K03252,3023
+2016,Hildesheim,Insgesamt,Anzahl,K03254,4436
+2016,Holzminden,Insgesamt,Anzahl,K03255,980
+2016,Nienburg (Weser),Insgesamt,Anzahl,K03256,2391
+2016,Schaumburg,Insgesamt,Anzahl,K03257,2642
+2016,Statistische Region Hannover,Insgesamt,Anzahl,K032,64668
+2016,Celle,Insgesamt,Anzahl,K03351,2746
+2016,Cuxhaven,Insgesamt,Anzahl,K03352,3391
+2016,Harburg,Insgesamt,Anzahl,K03353,5337
+2016,Lüchow-Dannenberg,Insgesamt,Anzahl,K03354,521
+2016,Lüneburg,Insgesamt,Anzahl,K03355,2745
+2016,Osterholz,Insgesamt,Anzahl,K03356,1321
+2016,Rotenburg (Wümme),Insgesamt,Anzahl,K03357,2984
+2016,Heidekreis,Insgesamt,Anzahl,K03358,2855
+2016,Stade,Insgesamt,Anzahl,K03359,4321
+2016,Uelzen,Insgesamt,Anzahl,K03360,1068
+2016,Verden,Insgesamt,Anzahl,K03361,3287
+2016,Statistische Region Lüneburg,Insgesamt,Anzahl,K033,30576
+2016,"Delmenhorst, Stadt",Insgesamt,Anzahl,K03401,1350
+2016,Emden  Stadt,Insgesamt,Anzahl,K03402,1508
+2016,"Oldenburg(Oldb), Stadt",Insgesamt,Anzahl,K03403,3802
+2016,"Osnabrück, Stadt",Insgesamt,Anzahl,K03404,6418
+2016,"Wilhelmshaven, Stadt",Insgesamt,Anzahl,K03405,1156
+2016,Ammerland,Insgesamt,Anzahl,K03451,2769
+2016,Aurich,Insgesamt,Anzahl,K03452,3395
+2016,Cloppenburg,Insgesamt,Anzahl,K03453,6135
+2016,Emsland,Insgesamt,Anzahl,K03454,9390
+2016,Friesland,Insgesamt,Anzahl,K03455,992
+2016,Grafschaft Bentheim,Insgesamt,Anzahl,K03456,4464
+2016,Leer,Insgesamt,Anzahl,K03457,2482
+2016,Oldenburg,Insgesamt,Anzahl,K03458,2350
+2016,Osnabrück,Insgesamt,Anzahl,K03459,11933
+2016,Vechta,Insgesamt,Anzahl,K03460,8345
+2016,Wesermarsch,Insgesamt,Anzahl,K03461,1850
+2016,Wittmund,Insgesamt,Anzahl,K03462,688
+2016,Statistische Region Weser-Ems,Insgesamt,Anzahl,K034,69027
+2016,Niedersachsen,Insgesamt,Anzahl,K030,202263
+2016,"Braunschweig, Stadt",Männer,Anzahl,K03101,4671
+2016,"Salzgitter, Stadt",Männer,Anzahl,K03102,2863
+2016,"Wolfsburg, Stadt",Männer,Anzahl,K03103,6078
+2016,Gifhorn,Männer,Anzahl,K03151,1464
+2016,Goslar,Männer,Anzahl,K03153,1379
+2016,Helmstedt,Männer,Anzahl,K03154,509
+2016,Northeim,Männer,Anzahl,K03155,1841
+2016,Peine,Männer,Anzahl,K03157,1350
+2016,Wolfenbüttel,Männer,Anzahl,K03158,635
+2016,Göttingen,Männer,Anzahl,K03159,4274
+2016,Statistische Region Braunschweig,Männer,Anzahl,K031,25064
+2016,Hannover  Region,Männer,Anzahl,K03241,28379
+2016,"dav. Hannover, Lhst.",Männer,Anzahl,K03241001,18178
+2016,"dav. Hannover, Umland",Männer,Anzahl,K03241999,10201
+2016,Diepholz,Männer,Anzahl,K03251,2806
+2016,Hameln-Pyrmont,Männer,Anzahl,K03252,1793
+2016,Hildesheim,Männer,Anzahl,K03254,2817
+2016,Holzminden,Männer,Anzahl,K03255,637
+2016,Nienburg (Weser),Männer,Anzahl,K03256,1701
+2016,Schaumburg,Männer,Anzahl,K03257,1720
+2016,Statistische Region Hannover,Männer,Anzahl,K032,39853
+2016,Celle,Männer,Anzahl,K03351,1734
+2016,Cuxhaven,Männer,Anzahl,K03352,2178
+2016,Harburg,Männer,Anzahl,K03353,3666
+2016,Lüchow-Dannenberg,Männer,Anzahl,K03354,282
+2016,Lüneburg,Männer,Anzahl,K03355,1676
+2016,Osterholz,Männer,Anzahl,K03356,905
+2016,Rotenburg (Wümme),Männer,Anzahl,K03357,1975
+2016,Heidekreis,Männer,Anzahl,K03358,1854
+2016,Stade,Männer,Anzahl,K03359,3253
+2016,Uelzen,Männer,Anzahl,K03360,660
+2016,Verden,Männer,Anzahl,K03361,2209
+2016,Statistische Region Lüneburg,Männer,Anzahl,K033,20392
+2016,"Delmenhorst, Stadt",Männer,Anzahl,K03401,754
+2016,Emden  Stadt,Männer,Anzahl,K03402,1127
+2016,"Oldenburg(Oldb), Stadt",Männer,Anzahl,K03403,2298
+2016,"Osnabrück, Stadt",Männer,Anzahl,K03404,3581
+2016,"Wilhelmshaven, Stadt",Männer,Anzahl,K03405,808
+2016,Ammerland,Männer,Anzahl,K03451,1962
+2016,Aurich,Männer,Anzahl,K03452,2094
+2016,Cloppenburg,Männer,Anzahl,K03453,4327
+2016,Emsland,Männer,Anzahl,K03454,6844
+2016,Friesland,Männer,Anzahl,K03455,609
+2016,Grafschaft Bentheim,Männer,Anzahl,K03456,2998
+2016,Leer,Männer,Anzahl,K03457,1663
+2016,Oldenburg,Männer,Anzahl,K03458,1656
+2016,Osnabrück,Männer,Anzahl,K03459,8100
+2016,Vechta,Männer,Anzahl,K03460,5481
+2016,Wesermarsch,Männer,Anzahl,K03461,1511
+2016,Wittmund,Männer,Anzahl,K03462,396
+2016,Statistische Region Weser-Ems,Männer,Anzahl,K034,46209
+2016,Niedersachsen,Männer,Anzahl,K030,131518
+2016,"Braunschweig, Stadt",Frauen,Anzahl,K03101,3280
+2016,"Salzgitter, Stadt",Frauen,Anzahl,K03102,772
+2016,"Wolfsburg, Stadt",Frauen,Anzahl,K03103,2627
+2016,Gifhorn,Frauen,Anzahl,K03151,754
+2016,Goslar,Frauen,Anzahl,K03153,753
+2016,Helmstedt,Frauen,Anzahl,K03154,353
+2016,Northeim,Frauen,Anzahl,K03155,573
+2016,Peine,Frauen,Anzahl,K03157,549
+2016,Wolfenbüttel,Frauen,Anzahl,K03158,406
+2016,Göttingen,Frauen,Anzahl,K03159,2861
+2016,Statistische Region Braunschweig,Frauen,Anzahl,K031,12928
+2016,Hannover  Region,Frauen,Anzahl,K03241,18750
+2016,"dav. Hannover, Lhst.",Frauen,Anzahl,K03241001,13112
+2016,"dav. Hannover, Umland",Frauen,Anzahl,K03241999,5638
+2016,Diepholz,Frauen,Anzahl,K03251,1261
+2016,Hameln-Pyrmont,Frauen,Anzahl,K03252,1230
+2016,Hildesheim,Frauen,Anzahl,K03254,1619
+2016,Holzminden,Frauen,Anzahl,K03255,343
+2016,Nienburg (Weser),Frauen,Anzahl,K03256,690
+2016,Schaumburg,Frauen,Anzahl,K03257,922
+2016,Statistische Region Hannover,Frauen,Anzahl,K032,24815
+2016,Celle,Frauen,Anzahl,K03351,1012
+2016,Cuxhaven,Frauen,Anzahl,K03352,1213
+2016,Harburg,Frauen,Anzahl,K03353,1671
+2016,Lüchow-Dannenberg,Frauen,Anzahl,K03354,239
+2016,Lüneburg,Frauen,Anzahl,K03355,1069
+2016,Osterholz,Frauen,Anzahl,K03356,416
+2016,Rotenburg (Wümme),Frauen,Anzahl,K03357,1009
+2016,Heidekreis,Frauen,Anzahl,K03358,1001
+2016,Stade,Frauen,Anzahl,K03359,1068
+2016,Uelzen,Frauen,Anzahl,K03360,408
+2016,Verden,Frauen,Anzahl,K03361,1078
+2016,Statistische Region Lüneburg,Frauen,Anzahl,K033,10184
+2016,"Delmenhorst, Stadt",Frauen,Anzahl,K03401,596
+2016,Emden  Stadt,Frauen,Anzahl,K03402,381
+2016,"Oldenburg(Oldb), Stadt",Frauen,Anzahl,K03403,1504
+2016,"Osnabrück, Stadt",Frauen,Anzahl,K03404,2837
+2016,"Wilhelmshaven, Stadt",Frauen,Anzahl,K03405,348
+2016,Ammerland,Frauen,Anzahl,K03451,807
+2016,Aurich,Frauen,Anzahl,K03452,1301
+2016,Cloppenburg,Frauen,Anzahl,K03453,1808
+2016,Emsland,Frauen,Anzahl,K03454,2546
+2016,Friesland,Frauen,Anzahl,K03455,383
+2016,Grafschaft Bentheim,Frauen,Anzahl,K03456,1466
+2016,Leer,Frauen,Anzahl,K03457,819
+2016,Oldenburg,Frauen,Anzahl,K03458,694
+2016,Osnabrück,Frauen,Anzahl,K03459,3833
+2016,Vechta,Frauen,Anzahl,K03460,2864
+2016,Wesermarsch,Frauen,Anzahl,K03461,339
+2016,Wittmund,Frauen,Anzahl,K03462,292
+2016,Statistische Region Weser-Ems,Frauen,Anzahl,K034,22818
+2016,Niedersachsen,Frauen,Anzahl,K030,70745
+2015,"Braunschweig, Stadt",Insgesamt,Anzahl,K03101,7339
+2015,"Salzgitter, Stadt",Insgesamt,Anzahl,K03102,3420
+2015,"Wolfsburg, Stadt",Insgesamt,Anzahl,K03103,8235
+2015,Gifhorn,Insgesamt,Anzahl,K03151,2136
+2015,Goslar,Insgesamt,Anzahl,K03153,1970
+2015,Helmstedt,Insgesamt,Anzahl,K03154,712
+2015,Northeim,Insgesamt,Anzahl,K03155,2052
+2015,Peine,Insgesamt,Anzahl,K03157,1599
+2015,Wolfenbüttel,Insgesamt,Anzahl,K03158,885
+2015,Göttingen,Insgesamt,Anzahl,K03159,6297
+2015,Statistische Region Braunschweig,Insgesamt,Anzahl,K031,34645
+2015,Hannover  Region,Insgesamt,Anzahl,K03241,42697
+2015,"dav. Hannover, Lhst.",Insgesamt,Anzahl,K03241001,28583
+2015,"dav. Hannover, Umland",Insgesamt,Anzahl,K03241999,14114
+2015,Diepholz,Insgesamt,Anzahl,K03251,3781
+2015,Hameln-Pyrmont,Insgesamt,Anzahl,K03252,2786
+2015,Hildesheim,Insgesamt,Anzahl,K03254,3866
+2015,Holzminden,Insgesamt,Anzahl,K03255,851
+2015,Nienburg (Weser),Insgesamt,Anzahl,K03256,2038
+2015,Schaumburg,Insgesamt,Anzahl,K03257,2296
+2015,Statistische Region Hannover,Insgesamt,Anzahl,K032,58315
+2015,Celle,Insgesamt,Anzahl,K03351,2601
+2015,Cuxhaven,Insgesamt,Anzahl,K03352,2948
+2015,Harburg,Insgesamt,Anzahl,K03353,4482
+2015,Lüchow-Dannenberg,Insgesamt,Anzahl,K03354,629
+2015,Lüneburg,Insgesamt,Anzahl,K03355,2309
+2015,Osterholz,Insgesamt,Anzahl,K03356,1054
+2015,Rotenburg (Wümme),Insgesamt,Anzahl,K03357,2229
+2015,Heidekreis,Insgesamt,Anzahl,K03358,2484
+2015,Stade,Insgesamt,Anzahl,K03359,4157
+2015,Uelzen,Insgesamt,Anzahl,K03360,962
+2015,Verden,Insgesamt,Anzahl,K03361,2706
+2015,Statistische Region Lüneburg,Insgesamt,Anzahl,K033,26561
+2015,"Delmenhorst, Stadt",Insgesamt,Anzahl,K03401,1165
+2015,Emden  Stadt,Insgesamt,Anzahl,K03402,1507
+2015,"Oldenburg(Oldb), Stadt",Insgesamt,Anzahl,K03403,3254
+2015,"Osnabrück, Stadt",Insgesamt,Anzahl,K03404,5656
+2015,"Wilhelmshaven, Stadt",Insgesamt,Anzahl,K03405,954
+2015,Ammerland,Insgesamt,Anzahl,K03451,2321
+2015,Aurich,Insgesamt,Anzahl,K03452,3182
+2015,Cloppenburg,Insgesamt,Anzahl,K03453,5111
+2015,Emsland,Insgesamt,Anzahl,K03454,7801
+2015,Friesland,Insgesamt,Anzahl,K03455,961
+2015,Grafschaft Bentheim,Insgesamt,Anzahl,K03456,3906
+2015,Leer,Insgesamt,Anzahl,K03457,2168
+2015,Oldenburg,Insgesamt,Anzahl,K03458,2064
+2015,Osnabrück,Insgesamt,Anzahl,K03459,10321
+2015,Vechta,Insgesamt,Anzahl,K03460,7530
+2015,Wesermarsch,Insgesamt,Anzahl,K03461,1550
+2015,Wittmund,Insgesamt,Anzahl,K03462,675
+2015,Statistische Region Weser-Ems,Insgesamt,Anzahl,K034,60126
+2015,Niedersachsen,Insgesamt,Anzahl,K030,179647
+2015,"Braunschweig, Stadt",Männer,Anzahl,K03101,4285
+2015,"Salzgitter, Stadt",Männer,Anzahl,K03102,2684
+2015,"Wolfsburg, Stadt",Männer,Anzahl,K03103,5780
+2015,Gifhorn,Männer,Anzahl,K03151,1406
+2015,Goslar,Männer,Anzahl,K03153,1301
+2015,Helmstedt,Männer,Anzahl,K03154,399
+2015,Northeim,Männer,Anzahl,K03155,1540
+2015,Peine,Männer,Anzahl,K03157,1112
+2015,Wolfenbüttel,Männer,Anzahl,K03158,529
+2015,Göttingen,Männer,Anzahl,K03159,3748
+2015,Statistische Region Braunschweig,Männer,Anzahl,K031,22784
+2015,Hannover  Region,Männer,Anzahl,K03241,25611
+2015,"dav. Hannover, Lhst.",Männer,Anzahl,K03241001,16567
+2015,"dav. Hannover, Umland",Männer,Anzahl,K03241999,9044
+2015,Diepholz,Männer,Anzahl,K03251,2662
+2015,Hameln-Pyrmont,Männer,Anzahl,K03252,1655
+2015,Hildesheim,Männer,Anzahl,K03254,2410
+2015,Holzminden,Männer,Anzahl,K03255,567
+2015,Nienburg (Weser),Männer,Anzahl,K03256,1438
+2015,Schaumburg,Männer,Anzahl,K03257,1494
+2015,Statistische Region Hannover,Männer,Anzahl,K032,35837
+2015,Celle,Männer,Anzahl,K03351,1639
+2015,Cuxhaven,Männer,Anzahl,K03352,1881
+2015,Harburg,Männer,Anzahl,K03353,3072
+2015,Lüchow-Dannenberg,Männer,Anzahl,K03354,394
+2015,Lüneburg,Männer,Anzahl,K03355,1378
+2015,Osterholz,Männer,Anzahl,K03356,700
+2015,Rotenburg (Wümme),Männer,Anzahl,K03357,1487
+2015,Heidekreis,Männer,Anzahl,K03358,1634
+2015,Stade,Männer,Anzahl,K03359,3195
+2015,Uelzen,Männer,Anzahl,K03360,570
+2015,Verden,Männer,Anzahl,K03361,1764
+2015,Statistische Region Lüneburg,Männer,Anzahl,K033,17714
+2015,"Delmenhorst, Stadt",Männer,Anzahl,K03401,617
+2015,Emden  Stadt,Männer,Anzahl,K03402,1196
+2015,"Oldenburg(Oldb), Stadt",Männer,Anzahl,K03403,1894
+2015,"Osnabrück, Stadt",Männer,Anzahl,K03404,3101
+2015,"Wilhelmshaven, Stadt",Männer,Anzahl,K03405,637
+2015,Ammerland,Männer,Anzahl,K03451,1570
+2015,Aurich,Männer,Anzahl,K03452,1983
+2015,Cloppenburg,Männer,Anzahl,K03453,3624
+2015,Emsland,Männer,Anzahl,K03454,5793
+2015,Friesland,Männer,Anzahl,K03455,580
+2015,Grafschaft Bentheim,Männer,Anzahl,K03456,2577
+2015,Leer,Männer,Anzahl,K03457,1460
+2015,Oldenburg,Männer,Anzahl,K03458,1474
+2015,Osnabrück,Männer,Anzahl,K03459,7130
+2015,Vechta,Männer,Anzahl,K03460,4866
+2015,Wesermarsch,Männer,Anzahl,K03461,1283
+2015,Wittmund,Männer,Anzahl,K03462,368
+2015,Statistische Region Weser-Ems,Männer,Anzahl,K034,40153
+2015,Niedersachsen,Männer,Anzahl,K030,116488
+2015,"Braunschweig, Stadt",Frauen,Anzahl,K03101,3054
+2015,"Salzgitter, Stadt",Frauen,Anzahl,K03102,736
+2015,"Wolfsburg, Stadt",Frauen,Anzahl,K03103,2455
+2015,Gifhorn,Frauen,Anzahl,K03151,730
+2015,Goslar,Frauen,Anzahl,K03153,669
+2015,Helmstedt,Frauen,Anzahl,K03154,313
+2015,Northeim,Frauen,Anzahl,K03155,512
+2015,Peine,Frauen,Anzahl,K03157,487
+2015,Wolfenbüttel,Frauen,Anzahl,K03158,356
+2015,Göttingen,Frauen,Anzahl,K03159,2549
+2015,Statistische Region Braunschweig,Frauen,Anzahl,K031,11861
+2015,Hannover  Region,Frauen,Anzahl,K03241,17086
+2015,"dav. Hannover, Lhst.",Frauen,Anzahl,K03241001,12016
+2015,"dav. Hannover, Umland",Frauen,Anzahl,K03241999,5070
+2015,Diepholz,Frauen,Anzahl,K03251,1119
+2015,Hameln-Pyrmont,Frauen,Anzahl,K03252,1131
+2015,Hildesheim,Frauen,Anzahl,K03254,1456
+2015,Holzminden,Frauen,Anzahl,K03255,284
+2015,Nienburg (Weser),Frauen,Anzahl,K03256,600
+2015,Schaumburg,Frauen,Anzahl,K03257,802
+2015,Statistische Region Hannover,Frauen,Anzahl,K032,22478
+2015,Celle,Frauen,Anzahl,K03351,962
+2015,Cuxhaven,Frauen,Anzahl,K03352,1067
+2015,Harburg,Frauen,Anzahl,K03353,1410
+2015,Lüchow-Dannenberg,Frauen,Anzahl,K03354,235
+2015,Lüneburg,Frauen,Anzahl,K03355,931
+2015,Osterholz,Frauen,Anzahl,K03356,354
+2015,Rotenburg (Wümme),Frauen,Anzahl,K03357,742
+2015,Heidekreis,Frauen,Anzahl,K03358,850
+2015,Stade,Frauen,Anzahl,K03359,962
+2015,Uelzen,Frauen,Anzahl,K03360,392
+2015,Verden,Frauen,Anzahl,K03361,942
+2015,Statistische Region Lüneburg,Frauen,Anzahl,K033,8847
+2015,"Delmenhorst, Stadt",Frauen,Anzahl,K03401,548
+2015,Emden  Stadt,Frauen,Anzahl,K03402,311
+2015,"Oldenburg(Oldb), Stadt",Frauen,Anzahl,K03403,1360
+2015,"Osnabrück, Stadt",Frauen,Anzahl,K03404,2555
+2015,"Wilhelmshaven, Stadt",Frauen,Anzahl,K03405,317
+2015,Ammerland,Frauen,Anzahl,K03451,751
+2015,Aurich,Frauen,Anzahl,K03452,1199
+2015,Cloppenburg,Frauen,Anzahl,K03453,1487
+2015,Emsland,Frauen,Anzahl,K03454,2008
+2015,Friesland,Frauen,Anzahl,K03455,381
+2015,Grafschaft Bentheim,Frauen,Anzahl,K03456,1329
+2015,Leer,Frauen,Anzahl,K03457,708
+2015,Oldenburg,Frauen,Anzahl,K03458,590
+2015,Osnabrück,Frauen,Anzahl,K03459,3191
+2015,Vechta,Frauen,Anzahl,K03460,2664
+2015,Wesermarsch,Frauen,Anzahl,K03461,267
+2015,Wittmund,Frauen,Anzahl,K03462,307
+2015,Statistische Region Weser-Ems,Frauen,Anzahl,K034,19973
+2015,Niedersachsen,Frauen,Anzahl,K030,63159
+2014,"Braunschweig, Stadt",Insgesamt,Anzahl,K03101,6498
+2014,"Salzgitter, Stadt",Insgesamt,Anzahl,K03102,3197
+2014,"Wolfsburg, Stadt",Insgesamt,Anzahl,K03103,7848
+2014,Gifhorn,Insgesamt,Anzahl,K03151,1933
+2014,Goslar,Insgesamt,Anzahl,K03153,1797
+2014,Helmstedt,Insgesamt,Anzahl,K03154,676
+2014,Northeim,Insgesamt,Anzahl,K03155,1873
+2014,Peine,Insgesamt,Anzahl,K03157,1412
+2014,Wolfenbüttel,Insgesamt,Anzahl,K03158,784
+2014,Göttingen,Insgesamt,Anzahl,K03159,5660
+2014,Statistische Region Braunschweig,Insgesamt,Anzahl,K031,31675
+2014,Hannover  Region,Insgesamt,Anzahl,K03241,38784
+2014,"dav. Hannover, Lhst.",Insgesamt,Anzahl,K03241001,25406
+2014,"dav. Hannover, Umland",Insgesamt,Anzahl,K03241999,13378
+2014,Diepholz,Insgesamt,Anzahl,K03251,3017
+2014,Hameln-Pyrmont,Insgesamt,Anzahl,K03252,2495
+2014,Hildesheim,Insgesamt,Anzahl,K03254,3537
+2014,Holzminden,Insgesamt,Anzahl,K03255,819
+2014,Nienburg (Weser),Insgesamt,Anzahl,K03256,1800
+2014,Schaumburg,Insgesamt,Anzahl,K03257,1920
+2014,Statistische Region Hannover,Insgesamt,Anzahl,K032,52372
+2014,Celle,Insgesamt,Anzahl,K03351,2335
+2014,Cuxhaven,Insgesamt,Anzahl,K03352,2772
+2014,Harburg,Insgesamt,Anzahl,K03353,3799
+2014,Lüchow-Dannenberg,Insgesamt,Anzahl,K03354,362
+2014,Lüneburg,Insgesamt,Anzahl,K03355,2087
+2014,Osterholz,Insgesamt,Anzahl,K03356,989
+2014,Rotenburg (Wümme),Insgesamt,Anzahl,K03357,2018
+2014,Heidekreis,Insgesamt,Anzahl,K03358,2268
+2014,Stade,Insgesamt,Anzahl,K03359,4176
+2014,Uelzen,Insgesamt,Anzahl,K03360,857
+2014,Verden,Insgesamt,Anzahl,K03361,2427
+2014,Statistische Region Lüneburg,Insgesamt,Anzahl,K033,24090
+2014,"Delmenhorst, Stadt",Insgesamt,Anzahl,K03401,1088
+2014,Emden  Stadt,Insgesamt,Anzahl,K03402,1230
+2014,"Oldenburg(Oldb), Stadt",Insgesamt,Anzahl,K03403,2913
+2014,"Osnabrück, Stadt",Insgesamt,Anzahl,K03404,5043
+2014,"Wilhelmshaven, Stadt",Insgesamt,Anzahl,K03405,772
+2014,Ammerland,Insgesamt,Anzahl,K03451,2132
+2014,Aurich,Insgesamt,Anzahl,K03452,2728
+2014,Cloppenburg,Insgesamt,Anzahl,K03453,4579
+2014,Emsland,Insgesamt,Anzahl,K03454,5620
+2014,Friesland,Insgesamt,Anzahl,K03455,856
+2014,Grafschaft Bentheim,Insgesamt,Anzahl,K03456,3298
+2014,Leer,Insgesamt,Anzahl,K03457,1862
+2014,Oldenburg,Insgesamt,Anzahl,K03458,1947
+2014,Osnabrück,Insgesamt,Anzahl,K03459,8767
+2014,Vechta,Insgesamt,Anzahl,K03460,6430
+2014,Wesermarsch,Insgesamt,Anzahl,K03461,1330
+2014,Wittmund,Insgesamt,Anzahl,K03462,586
+2014,Statistische Region Weser-Ems,Insgesamt,Anzahl,K034,51181
+2014,Niedersachsen,Insgesamt,Anzahl,K030,159318
+2014,"Braunschweig, Stadt",Männer,Anzahl,K03101,3809
+2014,"Salzgitter, Stadt",Männer,Anzahl,K03102,2561
+2014,"Wolfsburg, Stadt",Männer,Anzahl,K03103,5502
+2014,Gifhorn,Männer,Anzahl,K03151,1323
+2014,Goslar,Männer,Anzahl,K03153,1202
+2014,Helmstedt,Männer,Anzahl,K03154,373
+2014,Northeim,Männer,Anzahl,K03155,1400
+2014,Peine,Männer,Anzahl,K03157,989
+2014,Wolfenbüttel,Männer,Anzahl,K03158,480
+2014,Göttingen,Männer,Anzahl,K03159,3317
+2014,Statistische Region Braunschweig,Männer,Anzahl,K031,20955
+2014,Hannover  Region,Männer,Anzahl,K03241,23178
+2014,"dav. Hannover, Lhst.",Männer,Anzahl,K03241001,14610
+2014,"dav. Hannover, Umland",Männer,Anzahl,K03241999,8568
+2014,Diepholz,Männer,Anzahl,K03251,2084
+2014,Hameln-Pyrmont,Männer,Anzahl,K03252,1452
+2014,Hildesheim,Männer,Anzahl,K03254,2230
+2014,Holzminden,Männer,Anzahl,K03255,557
+2014,Nienburg (Weser),Männer,Anzahl,K03256,1249
+2014,Schaumburg,Männer,Anzahl,K03257,1192
+2014,Statistische Region Hannover,Männer,Anzahl,K032,31942
+2014,Celle,Männer,Anzahl,K03351,1500
+2014,Cuxhaven,Männer,Anzahl,K03352,1809
+2014,Harburg,Männer,Anzahl,K03353,2541
+2014,Lüchow-Dannenberg,Männer,Anzahl,K03354,215
+2014,Lüneburg,Männer,Anzahl,K03355,1231
+2014,Osterholz,Männer,Anzahl,K03356,675
+2014,Rotenburg (Wümme),Männer,Anzahl,K03357,1339
+2014,Heidekreis,Männer,Anzahl,K03358,1510
+2014,Stade,Männer,Anzahl,K03359,3228
+2014,Uelzen,Männer,Anzahl,K03360,501
+2014,Verden,Männer,Anzahl,K03361,1566
+2014,Statistische Region Lüneburg,Männer,Anzahl,K033,16115
+2014,"Delmenhorst, Stadt",Männer,Anzahl,K03401,588
+2014,Emden  Stadt,Männer,Anzahl,K03402,984
+2014,"Oldenburg(Oldb), Stadt",Männer,Anzahl,K03403,1673
+2014,"Osnabrück, Stadt",Männer,Anzahl,K03404,2772
+2014,"Wilhelmshaven, Stadt",Männer,Anzahl,K03405,499
+2014,Ammerland,Männer,Anzahl,K03451,1462
+2014,Aurich,Männer,Anzahl,K03452,1697
+2014,Cloppenburg,Männer,Anzahl,K03453,3248
+2014,Emsland,Männer,Anzahl,K03454,4178
+2014,Friesland,Männer,Anzahl,K03455,508
+2014,Grafschaft Bentheim,Männer,Anzahl,K03456,2222
+2014,Leer,Männer,Anzahl,K03457,1250
+2014,Oldenburg,Männer,Anzahl,K03458,1328
+2014,Osnabrück,Männer,Anzahl,K03459,5978
+2014,Vechta,Männer,Anzahl,K03460,4165
+2014,Wesermarsch,Männer,Anzahl,K03461,1110
+2014,Wittmund,Männer,Anzahl,K03462,317
+2014,Statistische Region Weser-Ems,Männer,Anzahl,K034,33979
+2014,Niedersachsen,Männer,Anzahl,K030,102991
+2014,"Braunschweig, Stadt",Frauen,Anzahl,K03101,2689
+2014,"Salzgitter, Stadt",Frauen,Anzahl,K03102,636
+2014,"Wolfsburg, Stadt",Frauen,Anzahl,K03103,2346
+2014,Gifhorn,Frauen,Anzahl,K03151,610
+2014,Goslar,Frauen,Anzahl,K03153,595
+2014,Helmstedt,Frauen,Anzahl,K03154,303
+2014,Northeim,Frauen,Anzahl,K03155,473
+2014,Peine,Frauen,Anzahl,K03157,423
+2014,Wolfenbüttel,Frauen,Anzahl,K03158,304
+2014,Göttingen,Frauen,Anzahl,K03159,2343
+2014,Statistische Region Braunschweig,Frauen,Anzahl,K031,10720
+2014,Hannover  Region,Frauen,Anzahl,K03241,15606
+2014,"dav. Hannover, Lhst.",Frauen,Anzahl,K03241001,10796
+2014,"dav. Hannover, Umland",Frauen,Anzahl,K03241999,4810
+2014,Diepholz,Frauen,Anzahl,K03251,933
+2014,Hameln-Pyrmont,Frauen,Anzahl,K03252,1043
+2014,Hildesheim,Frauen,Anzahl,K03254,1307
+2014,Holzminden,Frauen,Anzahl,K03255,262
+2014,Nienburg (Weser),Frauen,Anzahl,K03256,551
+2014,Schaumburg,Frauen,Anzahl,K03257,728
+2014,Statistische Region Hannover,Frauen,Anzahl,K032,20430
+2014,Celle,Frauen,Anzahl,K03351,835
+2014,Cuxhaven,Frauen,Anzahl,K03352,963
+2014,Harburg,Frauen,Anzahl,K03353,1258
+2014,Lüchow-Dannenberg,Frauen,Anzahl,K03354,147
+2014,Lüneburg,Frauen,Anzahl,K03355,856
+2014,Osterholz,Frauen,Anzahl,K03356,314
+2014,Rotenburg (Wümme),Frauen,Anzahl,K03357,679
+2014,Heidekreis,Frauen,Anzahl,K03358,758
+2014,Stade,Frauen,Anzahl,K03359,948
+2014,Uelzen,Frauen,Anzahl,K03360,356
+2014,Verden,Frauen,Anzahl,K03361,861
+2014,Statistische Region Lüneburg,Frauen,Anzahl,K033,7975
+2014,"Delmenhorst, Stadt",Frauen,Anzahl,K03401,500
+2014,Emden  Stadt,Frauen,Anzahl,K03402,246
+2014,"Oldenburg(Oldb), Stadt",Frauen,Anzahl,K03403,1240
+2014,"Osnabrück, Stadt",Frauen,Anzahl,K03404,2271
+2014,"Wilhelmshaven, Stadt",Frauen,Anzahl,K03405,273
+2014,Ammerland,Frauen,Anzahl,K03451,670
+2014,Aurich,Frauen,Anzahl,K03452,1031
+2014,Cloppenburg,Frauen,Anzahl,K03453,1331
+2014,Emsland,Frauen,Anzahl,K03454,1442
+2014,Friesland,Frauen,Anzahl,K03455,348
+2014,Grafschaft Bentheim,Frauen,Anzahl,K03456,1076
+2014,Leer,Frauen,Anzahl,K03457,612
+2014,Oldenburg,Frauen,Anzahl,K03458,619
+2014,Osnabrück,Frauen,Anzahl,K03459,2789
+2014,Vechta,Frauen,Anzahl,K03460,2265
+2014,Wesermarsch,Frauen,Anzahl,K03461,220
+2014,Wittmund,Frauen,Anzahl,K03462,269
+2014,Statistische Region Weser-Ems,Frauen,Anzahl,K034,17202
+2014,Niedersachsen,Frauen,Anzahl,K030,56327
+2013,"Braunschweig, Stadt",Insgesamt,Anzahl,K03101,6076
+2013,"Salzgitter, Stadt",Insgesamt,Anzahl,K03102,3135
+2013,"Wolfsburg, Stadt",Insgesamt,Anzahl,K03103,7609
+2013,Gifhorn,Insgesamt,Anzahl,K03151,1755
+2013,Goslar,Insgesamt,Anzahl,K03153,1674
+2013,Helmstedt,Insgesamt,Anzahl,K03154,587
+2013,Northeim,Insgesamt,Anzahl,K03155,1655
+2013,Peine,Insgesamt,Anzahl,K03157,1321
+2013,Wolfenbüttel,Insgesamt,Anzahl,K03158,734
+2013,Göttingen,Insgesamt,Anzahl,K03159,5218
+2013,Statistische Region Braunschweig,Insgesamt,Anzahl,K031,29844
+2013,Hannover  Region,Insgesamt,Anzahl,K03241,36262
+2013,"dav. Hannover, Lhst.",Insgesamt,Anzahl,K03241001,23903
+2013,"dav. Hannover, Umland",Insgesamt,Anzahl,K03241999,12359
+2013,Diepholz,Insgesamt,Anzahl,K03251,2539
+2013,Hameln-Pyrmont,Insgesamt,Anzahl,K03252,2420
+2013,Hildesheim,Insgesamt,Anzahl,K03254,3331
+2013,Holzminden,Insgesamt,Anzahl,K03255,745
+2013,Nienburg (Weser),Insgesamt,Anzahl,K03256,1637
+2013,Schaumburg,Insgesamt,Anzahl,K03257,1777
+2013,Statistische Region Hannover,Insgesamt,Anzahl,K032,48711
+2013,Celle,Insgesamt,Anzahl,K03351,2199
+2013,Cuxhaven,Insgesamt,Anzahl,K03352,2483
+2013,Harburg,Insgesamt,Anzahl,K03353,3361
+2013,Lüchow-Dannenberg,Insgesamt,Anzahl,K03354,303
+2013,Lüneburg,Insgesamt,Anzahl,K03355,1907
+2013,Osterholz,Insgesamt,Anzahl,K03356,909
+2013,Rotenburg (Wümme),Insgesamt,Anzahl,K03357,1752
+2013,Heidekreis,Insgesamt,Anzahl,K03358,2105
+2013,Stade,Insgesamt,Anzahl,K03359,3996
+2013,Uelzen,Insgesamt,Anzahl,K03360,752
+2013,Verden,Insgesamt,Anzahl,K03361,2239
+2013,Statistische Region Lüneburg,Insgesamt,Anzahl,K033,22006
+2013,"Delmenhorst, Stadt",Insgesamt,Anzahl,K03401,1035
+2013,Emden  Stadt,Insgesamt,Anzahl,K03402,1104
+2013,"Oldenburg(Oldb), Stadt",Insgesamt,Anzahl,K03403,2850
+2013,"Osnabrück, Stadt",Insgesamt,Anzahl,K03404,5026
+2013,"Wilhelmshaven, Stadt",Insgesamt,Anzahl,K03405,722
+2013,Ammerland,Insgesamt,Anzahl,K03451,1917
+2013,Aurich,Insgesamt,Anzahl,K03452,2155
+2013,Cloppenburg,Insgesamt,Anzahl,K03453,3948
+2013,Emsland,Insgesamt,Anzahl,K03454,4817
+2013,Friesland,Insgesamt,Anzahl,K03455,737
+2013,Grafschaft Bentheim,Insgesamt,Anzahl,K03456,3138
+2013,Leer,Insgesamt,Anzahl,K03457,1804
+2013,Oldenburg,Insgesamt,Anzahl,K03458,1646
+2013,Osnabrück,Insgesamt,Anzahl,K03459,7527
+2013,Vechta,Insgesamt,Anzahl,K03460,6068
+2013,Wesermarsch,Insgesamt,Anzahl,K03461,1240
+2013,Wittmund,Insgesamt,Anzahl,K03462,496
+2013,Statistische Region Weser-Ems,Insgesamt,Anzahl,K034,46230
+2013,Niedersachsen,Insgesamt,Anzahl,K030,146791
+2013,"Braunschweig, Stadt",Männer,Anzahl,K03101,3483
+2013,"Salzgitter, Stadt",Männer,Anzahl,K03102,2514
+2013,"Wolfsburg, Stadt",Männer,Anzahl,K03103,5458
+2013,Gifhorn,Männer,Anzahl,K03151,1205
+2013,Goslar,Männer,Anzahl,K03153,1083
+2013,Helmstedt,Männer,Anzahl,K03154,315
+2013,Northeim,Männer,Anzahl,K03155,1208
+2013,Peine,Männer,Anzahl,K03157,926
+2013,Wolfenbüttel,Männer,Anzahl,K03158,437
+2013,Göttingen,Männer,Anzahl,K03159,3075
+2013,Statistische Region Braunschweig,Männer,Anzahl,K031,19733
+2013,Hannover  Region,Männer,Anzahl,K03241,21449
+2013,"dav. Hannover, Lhst.",Männer,Anzahl,K03241001,13643
+2013,"dav. Hannover, Umland",Männer,Anzahl,K03241999,7806
+2013,Diepholz,Männer,Anzahl,K03251,1679
+2013,Hameln-Pyrmont,Männer,Anzahl,K03252,1381
+2013,Hildesheim,Männer,Anzahl,K03254,2102
+2013,Holzminden,Männer,Anzahl,K03255,499
+2013,Nienburg (Weser),Männer,Anzahl,K03256,1144
+2013,Schaumburg,Männer,Anzahl,K03257,1129
+2013,Statistische Region Hannover,Männer,Anzahl,K032,29383
+2013,Celle,Männer,Anzahl,K03351,1418
+2013,Cuxhaven,Männer,Anzahl,K03352,1529
+2013,Harburg,Männer,Anzahl,K03353,2195
+2013,Lüchow-Dannenberg,Männer,Anzahl,K03354,183
+2013,Lüneburg,Männer,Anzahl,K03355,1099
+2013,Osterholz,Männer,Anzahl,K03356,612
+2013,Rotenburg (Wümme),Männer,Anzahl,K03357,1116
+2013,Heidekreis,Männer,Anzahl,K03358,1391
+2013,Stade,Männer,Anzahl,K03359,3142
+2013,Uelzen,Männer,Anzahl,K03360,437
+2013,Verden,Männer,Anzahl,K03361,1434
+2013,Statistische Region Lüneburg,Männer,Anzahl,K033,14556
+2013,"Delmenhorst, Stadt",Männer,Anzahl,K03401,515
+2013,Emden  Stadt,Männer,Anzahl,K03402,877
+2013,"Oldenburg(Oldb), Stadt",Männer,Anzahl,K03403,1654
+2013,"Osnabrück, Stadt",Männer,Anzahl,K03404,2728
+2013,"Wilhelmshaven, Stadt",Männer,Anzahl,K03405,474
+2013,Ammerland,Männer,Anzahl,K03451,1315
+2013,Aurich,Männer,Anzahl,K03452,1250
+2013,Cloppenburg,Männer,Anzahl,K03453,2817
+2013,Emsland,Männer,Anzahl,K03454,3511
+2013,Friesland,Männer,Anzahl,K03455,435
+2013,Grafschaft Bentheim,Männer,Anzahl,K03456,2122
+2013,Leer,Männer,Anzahl,K03457,1189
+2013,Oldenburg,Männer,Anzahl,K03458,1111
+2013,Osnabrück,Männer,Anzahl,K03459,5133
+2013,Vechta,Männer,Anzahl,K03460,3964
+2013,Wesermarsch,Männer,Anzahl,K03461,1014
+2013,Wittmund,Männer,Anzahl,K03462,258
+2013,Statistische Region Weser-Ems,Männer,Anzahl,K034,30367
+2013,Niedersachsen,Männer,Anzahl,K030,94039
+2013,"Braunschweig, Stadt",Frauen,Anzahl,K03101,2593
+2013,"Salzgitter, Stadt",Frauen,Anzahl,K03102,621
+2013,"Wolfsburg, Stadt",Frauen,Anzahl,K03103,2151
+2013,Gifhorn,Frauen,Anzahl,K03151,550
+2013,Goslar,Frauen,Anzahl,K03153,591
+2013,Helmstedt,Frauen,Anzahl,K03154,272
+2013,Northeim,Frauen,Anzahl,K03155,447
+2013,Peine,Frauen,Anzahl,K03157,395
+2013,Wolfenbüttel,Frauen,Anzahl,K03158,297
+2013,Göttingen,Frauen,Anzahl,K03159,2143
+2013,Statistische Region Braunschweig,Frauen,Anzahl,K031,10111
+2013,Hannover  Region,Frauen,Anzahl,K03241,14813
+2013,"dav. Hannover, Lhst.",Frauen,Anzahl,K03241001,10260
+2013,"dav. Hannover, Umland",Frauen,Anzahl,K03241999,4553
+2013,Diepholz,Frauen,Anzahl,K03251,860
+2013,Hameln-Pyrmont,Frauen,Anzahl,K03252,1039
+2013,Hildesheim,Frauen,Anzahl,K03254,1229
+2013,Holzminden,Frauen,Anzahl,K03255,246
+2013,Nienburg (Weser),Frauen,Anzahl,K03256,493
+2013,Schaumburg,Frauen,Anzahl,K03257,648
+2013,Statistische Region Hannover,Frauen,Anzahl,K032,19328
+2013,Celle,Frauen,Anzahl,K03351,781
+2013,Cuxhaven,Frauen,Anzahl,K03352,954
+2013,Harburg,Frauen,Anzahl,K03353,1166
+2013,Lüchow-Dannenberg,Frauen,Anzahl,K03354,120
+2013,Lüneburg,Frauen,Anzahl,K03355,808
+2013,Osterholz,Frauen,Anzahl,K03356,297
+2013,Rotenburg (Wümme),Frauen,Anzahl,K03357,636
+2013,Heidekreis,Frauen,Anzahl,K03358,714
+2013,Stade,Frauen,Anzahl,K03359,854
+2013,Uelzen,Frauen,Anzahl,K03360,315
+2013,Verden,Frauen,Anzahl,K03361,805
+2013,Statistische Region Lüneburg,Frauen,Anzahl,K033,7450
+2013,"Delmenhorst, Stadt",Frauen,Anzahl,K03401,520
+2013,Emden  Stadt,Frauen,Anzahl,K03402,227
+2013,"Oldenburg(Oldb), Stadt",Frauen,Anzahl,K03403,1196
+2013,"Osnabrück, Stadt",Frauen,Anzahl,K03404,2298
+2013,"Wilhelmshaven, Stadt",Frauen,Anzahl,K03405,248
+2013,Ammerland,Frauen,Anzahl,K03451,602
+2013,Aurich,Frauen,Anzahl,K03452,905
+2013,Cloppenburg,Frauen,Anzahl,K03453,1131
+2013,Emsland,Frauen,Anzahl,K03454,1306
+2013,Friesland,Frauen,Anzahl,K03455,302
+2013,Grafschaft Bentheim,Frauen,Anzahl,K03456,1016
+2013,Leer,Frauen,Anzahl,K03457,615
+2013,Oldenburg,Frauen,Anzahl,K03458,535
+2013,Osnabrück,Frauen,Anzahl,K03459,2394
+2013,Vechta,Frauen,Anzahl,K03460,2104
+2013,Wesermarsch,Frauen,Anzahl,K03461,226
+2013,Wittmund,Frauen,Anzahl,K03462,238
+2013,Statistische Region Weser-Ems,Frauen,Anzahl,K034,15863
+2013,Niedersachsen,Frauen,Anzahl,K030,52752
+2011,"Braunschweig, Stadt",Insgesamt,Anzahl,K03101,5072
+2011,"Salzgitter, Stadt",Insgesamt,Anzahl,K03102,2783
+2011,"Wolfsburg, Stadt",Insgesamt,Anzahl,K03103,6421
+2011,Gifhorn,Insgesamt,Anzahl,K03151,1367
+2011,Goslar,Insgesamt,Anzahl,K03153,1406
+2011,Helmstedt,Insgesamt,Anzahl,K03154,472
+2011,Northeim,Insgesamt,Anzahl,K03155,1102
+2011,Peine,Insgesamt,Anzahl,K03157,1168
+2011,Wolfenbüttel,Insgesamt,Anzahl,K03158,556
+2011,Göttingen,Insgesamt,Anzahl,K03159,4656
+2011,Statistische Region Braunschweig,Insgesamt,Anzahl,K031,25113
+2011,Hannover  Region,Insgesamt,Anzahl,K03241,31033
+2011,"dav. Hannover, Lhst.",Insgesamt,Anzahl,K03241001,20895
+2011,"dav. Hannover, Umland",Insgesamt,Anzahl,K03241999,0
+2011,Diepholz,Insgesamt,Anzahl,K03251,2033
+2011,Hameln-Pyrmont,Insgesamt,Anzahl,K03252,2195
+2011,Hildesheim,Insgesamt,Anzahl,K03254,2922
+2011,Holzminden,Insgesamt,Anzahl,K03255,677
+2011,Nienburg (Weser),Insgesamt,Anzahl,K03256,1245
+2011,Schaumburg,Insgesamt,Anzahl,K03257,1538
+2011,Statistische Region Hannover,Insgesamt,Anzahl,K032,41643
+2011,Celle,Insgesamt,Anzahl,K03351,1680
+2011,Cuxhaven,Insgesamt,Anzahl,K03352,2066
+2011,Harburg,Insgesamt,Anzahl,K03353,2595
+2011,Lüchow-Dannenberg,Insgesamt,Anzahl,K03354,183
+2011,Lüneburg,Insgesamt,Anzahl,K03355,1670
+2011,Osterholz,Insgesamt,Anzahl,K03356,775
+2011,Rotenburg (Wümme),Insgesamt,Anzahl,K03357,1437
+2011,Heidekreis,Insgesamt,Anzahl,K03358,1726
+2011,Stade,Insgesamt,Anzahl,K03359,3800
+2011,Uelzen,Insgesamt,Anzahl,K03360,596
+2011,Verden,Insgesamt,Anzahl,K03361,1943
+2011,Statistische Region Lüneburg,Insgesamt,Anzahl,K033,18471
+2011,"Delmenhorst, Stadt",Insgesamt,Anzahl,K03401,915
+2011,Emden  Stadt,Insgesamt,Anzahl,K03402,909
+2011,"Oldenburg(Oldb), Stadt",Insgesamt,Anzahl,K03403,2245
+2011,"Osnabrück, Stadt",Insgesamt,Anzahl,K03404,4333
+2011,"Wilhelmshaven, Stadt",Insgesamt,Anzahl,K03405,618
+2011,Ammerland,Insgesamt,Anzahl,K03451,1467
+2011,Aurich,Insgesamt,Anzahl,K03452,1508
+2011,Cloppenburg,Insgesamt,Anzahl,K03453,2649
+2011,Emsland,Insgesamt,Anzahl,K03454,3084
+2011,Friesland,Insgesamt,Anzahl,K03455,544
+2011,Grafschaft Bentheim,Insgesamt,Anzahl,K03456,1987
+2011,Leer,Insgesamt,Anzahl,K03457,1537
+2011,Oldenburg,Insgesamt,Anzahl,K03458,1372
+2011,Osnabrück,Insgesamt,Anzahl,K03459,6322
+2011,Vechta,Insgesamt,Anzahl,K03460,4812
+2011,Wesermarsch,Insgesamt,Anzahl,K03461,931
+2011,Wittmund,Insgesamt,Anzahl,K03462,389
+2011,Statistische Region Weser-Ems,Insgesamt,Anzahl,K034,35622
+2011,Niedersachsen,Insgesamt,Anzahl,K030,120849
+2011,"Braunschweig, Stadt",Männer,Anzahl,K03101,2923
+2011,"Salzgitter, Stadt",Männer,Anzahl,K03102,2252
+2011,"Wolfsburg, Stadt",Männer,Anzahl,K03103,4848
+2011,Gifhorn,Männer,Anzahl,K03151,908
+2011,Goslar,Männer,Anzahl,K03153,911
+2011,Helmstedt,Männer,Anzahl,K03154,251
+2011,Northeim,Männer,Anzahl,K03155,681
+2011,Peine,Männer,Anzahl,K03157,805
+2011,Wolfenbüttel,Männer,Anzahl,K03158,305
+2011,Göttingen,Männer,Anzahl,K03159,2780
+2011,Statistische Region Braunschweig,Männer,Anzahl,K031,16687
+2011,Hannover  Region,Männer,Anzahl,K03241,18295
+2011,"dav. Hannover, Lhst.",Männer,Anzahl,K03241001,11991
+2011,"dav. Hannover, Umland",Männer,Anzahl,K03241999,0
+2011,Diepholz,Männer,Anzahl,K03251,1364
+2011,Hameln-Pyrmont,Männer,Anzahl,K03252,1247
+2011,Hildesheim,Männer,Anzahl,K03254,1830
+2011,Holzminden,Männer,Anzahl,K03255,455
+2011,Nienburg (Weser),Männer,Anzahl,K03256,865
+2011,Schaumburg,Männer,Anzahl,K03257,989
+2011,Statistische Region Hannover,Männer,Anzahl,K032,25045
+2011,Celle,Männer,Anzahl,K03351,1043
+2011,Cuxhaven,Männer,Anzahl,K03352,1245
+2011,Harburg,Männer,Anzahl,K03353,1679
+2011,Lüchow-Dannenberg,Männer,Anzahl,K03354,100
+2011,Lüneburg,Männer,Anzahl,K03355,983
+2011,Osterholz,Männer,Anzahl,K03356,503
+2011,Rotenburg (Wümme),Männer,Anzahl,K03357,875
+2011,Heidekreis,Männer,Anzahl,K03358,1114
+2011,Stade,Männer,Anzahl,K03359,3172
+2011,Uelzen,Männer,Anzahl,K03360,361
+2011,Verden,Männer,Anzahl,K03361,1264
+2011,Statistische Region Lüneburg,Männer,Anzahl,K033,12339
+2011,"Delmenhorst, Stadt",Männer,Anzahl,K03401,474
+2011,Emden  Stadt,Männer,Anzahl,K03402,715
+2011,"Oldenburg(Oldb), Stadt",Männer,Anzahl,K03403,1217
+2011,"Osnabrück, Stadt",Männer,Anzahl,K03404,2453
+2011,"Wilhelmshaven, Stadt",Männer,Anzahl,K03405,384
+2011,Ammerland,Männer,Anzahl,K03451,993
+2011,Aurich,Männer,Anzahl,K03452,843
+2011,Cloppenburg,Männer,Anzahl,K03453,1960
+2011,Emsland,Männer,Anzahl,K03454,2236
+2011,Friesland,Männer,Anzahl,K03455,300
+2011,Grafschaft Bentheim,Männer,Anzahl,K03456,1363
+2011,Leer,Männer,Anzahl,K03457,1099
+2011,Oldenburg,Männer,Anzahl,K03458,917
+2011,Osnabrück,Männer,Anzahl,K03459,4360
+2011,Vechta,Männer,Anzahl,K03460,3104
+2011,Wesermarsch,Männer,Anzahl,K03461,754
+2011,Wittmund,Männer,Anzahl,K03462,205
+2011,Statistische Region Weser-Ems,Männer,Anzahl,K034,23377
+2011,Niedersachsen,Männer,Anzahl,K030,77448
+2011,"Braunschweig, Stadt",Frauen,Anzahl,K03101,2149
+2011,"Salzgitter, Stadt",Frauen,Anzahl,K03102,531
+2011,"Wolfsburg, Stadt",Frauen,Anzahl,K03103,1573
+2011,Gifhorn,Frauen,Anzahl,K03151,459
+2011,Goslar,Frauen,Anzahl,K03153,495
+2011,Helmstedt,Frauen,Anzahl,K03154,221
+2011,Northeim,Frauen,Anzahl,K03155,421
+2011,Peine,Frauen,Anzahl,K03157,363
+2011,Wolfenbüttel,Frauen,Anzahl,K03158,251
+2011,Göttingen,Frauen,Anzahl,K03159,1876
+2011,Statistische Region Braunschweig,Frauen,Anzahl,K031,8426
+2011,Hannover  Region,Frauen,Anzahl,K03241,12738
+2011,"dav. Hannover, Lhst.",Frauen,Anzahl,K03241001,8904
+2011,"dav. Hannover, Umland",Frauen,Anzahl,K03241999,0
+2011,Diepholz,Frauen,Anzahl,K03251,669
+2011,Hameln-Pyrmont,Frauen,Anzahl,K03252,948
+2011,Hildesheim,Frauen,Anzahl,K03254,1092
+2011,Holzminden,Frauen,Anzahl,K03255,222
+2011,Nienburg (Weser),Frauen,Anzahl,K03256,380
+2011,Schaumburg,Frauen,Anzahl,K03257,549
+2011,Statistische Region Hannover,Frauen,Anzahl,K032,16598
+2011,Celle,Frauen,Anzahl,K03351,637
+2011,Cuxhaven,Frauen,Anzahl,K03352,821
+2011,Harburg,Frauen,Anzahl,K03353,916
+2011,Lüchow-Dannenberg,Frauen,Anzahl,K03354,83
+2011,Lüneburg,Frauen,Anzahl,K03355,687
+2011,Osterholz,Frauen,Anzahl,K03356,272
+2011,Rotenburg (Wümme),Frauen,Anzahl,K03357,562
+2011,Heidekreis,Frauen,Anzahl,K03358,612
+2011,Stade,Frauen,Anzahl,K03359,628
+2011,Uelzen,Frauen,Anzahl,K03360,235
+2011,Verden,Frauen,Anzahl,K03361,679
+2011,Statistische Region Lüneburg,Frauen,Anzahl,K033,6132
+2011,"Delmenhorst, Stadt",Frauen,Anzahl,K03401,441
+2011,Emden  Stadt,Frauen,Anzahl,K03402,194
+2011,"Oldenburg(Oldb), Stadt",Frauen,Anzahl,K03403,1028
+2011,"Osnabrück, Stadt",Frauen,Anzahl,K03404,1880
+2011,"Wilhelmshaven, Stadt",Frauen,Anzahl,K03405,234
+2011,Ammerland,Frauen,Anzahl,K03451,474
+2011,Aurich,Frauen,Anzahl,K03452,665
+2011,Cloppenburg,Frauen,Anzahl,K03453,689
+2011,Emsland,Frauen,Anzahl,K03454,848
+2011,Friesland,Frauen,Anzahl,K03455,244
+2011,Grafschaft Bentheim,Frauen,Anzahl,K03456,624
+2011,Leer,Frauen,Anzahl,K03457,438
+2011,Oldenburg,Frauen,Anzahl,K03458,455
+2011,Osnabrück,Frauen,Anzahl,K03459,1962
+2011,Vechta,Frauen,Anzahl,K03460,1708
+2011,Wesermarsch,Frauen,Anzahl,K03461,177
+2011,Wittmund,Frauen,Anzahl,K03462,184
+2011,Statistische Region Weser-Ems,Frauen,Anzahl,K034,12245
+2011,Niedersachsen,Frauen,Anzahl,K030,43401
