@@ -33,6 +33,7 @@
                 "Männer",
                 "Frauen",
                 "Insgesamt",
+                "insgesamt",
                 ""
               ]
             }
@@ -44,6 +45,7 @@
               "enum": [
                 "Insgesamt",
                 "abgeschlossene Verfahren",
+                "Entscheidung vor Rechtsbehelf",
                 "sonstige Erledigung - Verfahren ohne Bescheid beendet",
                 "Noch keine Entscheidung",
                 ""

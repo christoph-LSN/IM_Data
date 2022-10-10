@@ -1,4 +1,10 @@
 Year,Berufsgruppe,Geschlecht,Verfahren,Entscheidung vor Rechtsbehelf,Value
+2021,alle Berufsgruppen,Männer,Insgesamt,,3264.0
+2021,alle Berufsgruppen,Frauen,Insgesamt,,4362.0
+2021,alle Berufsgruppen,Insgesamt,Insgesamt,,7626.0
+2021,darunter medizinische Gesundheitsberufe,Männer,Insgesamt,,2211.0
+2021,darunter medizinische Gesundheitsberufe,Frauen,Insgesamt,,3726.0
+2021,darunter medizinische Gesundheitsberufe,Insgesamt,Insgesamt,,5397.0
 2020,alle Berufsgruppen,Männer,Insgesamt,,2943.0
 2020,alle Berufsgruppen,Frauen,Insgesamt,,4008.0
 2020,alle Berufsgruppen,Insgesamt,Insgesamt,,6951.0
@@ -43,10 +49,16 @@ Year,Berufsgruppe,Geschlecht,Verfahren,Entscheidung vor Rechtsbehelf,Value
 2014,darunter medizinische Gesundheitsberufe,Insgesamt,Insgesamt,,1365.0
 2012,alle Berufsgruppen,Männer,Insgesamt,,261.0
 2012,alle Berufsgruppen,Frauen,Insgesamt,,402.0
-2012,alle Berufsgruppen,Insgesamt,Insgesamt,,663.0
+2012,alle Berufsgruppen,insgesamt,Insgesamt,,663.0
 2012,darunter medizinische Gesundheitsberufe,Männer,Insgesamt,,189.0
 2012,darunter medizinische Gesundheitsberufe,Frauen,Insgesamt,,327.0
 2012,darunter medizinische Gesundheitsberufe,Insgesamt,Insgesamt,,519.0
+2021,alle Berufsgruppen,Männer,abgeschlossene Verfahren,,2496.0
+2021,alle Berufsgruppen,Frauen,abgeschlossene Verfahren,,2940.0
+2021,alle Berufsgruppen,Insgesamt,abgeschlossene Verfahren,,5439.0
+2021,darunter medizinische Gesundheitsberufe,Männer,abgeschlossene Verfahren,,1650.0
+2021,darunter medizinische Gesundheitsberufe,Frauen,abgeschlossene Verfahren,,2394.0
+2021,darunter medizinische Gesundheitsberufe,Insgesamt,abgeschlossene Verfahren,,4044.0
 2020,alle Berufsgruppen,Männer,abgeschlossene Verfahren,,2439.0
 2020,alle Berufsgruppen,Frauen,abgeschlossene Verfahren,,3087.0
 2020,alle Berufsgruppen,Insgesamt,abgeschlossene Verfahren,,5529.0
@@ -91,298 +103,340 @@ Year,Berufsgruppe,Geschlecht,Verfahren,Entscheidung vor Rechtsbehelf,Value
 2014,darunter medizinische Gesundheitsberufe,Insgesamt,abgeschlossene Verfahren,,1141.0
 2012,alle Berufsgruppen,Männer,abgeschlossene Verfahren,,222.0
 2012,alle Berufsgruppen,Frauen,abgeschlossene Verfahren,,339.0
-2012,alle Berufsgruppen,Insgesamt,abgeschlossene Verfahren,,561.0
+2012,alle Berufsgruppen,insgesamt,abgeschlossene Verfahren,,561.0
 2012,darunter medizinische Gesundheitsberufe,Männer,abgeschlossene Verfahren,,180.0
 2012,darunter medizinische Gesundheitsberufe,Frauen,abgeschlossene Verfahren,,291.0
 2012,darunter medizinische Gesundheitsberufe,Insgesamt,abgeschlossene Verfahren,,471.0
-2020,alle Berufsgruppen,Männer,,positiv volle Gleichwertigkeit,1182.0
-2020,alle Berufsgruppen,Frauen,,positiv volle Gleichwertigkeit,1338.0
-2020,alle Berufsgruppen,Insgesamt,,positiv volle Gleichwertigkeit,2520.0
-2020,darunter medizinische Gesundheitsberufe,Männer,,positiv volle Gleichwertigkeit,747.0
-2020,darunter medizinische Gesundheitsberufe,Frauen,,positiv volle Gleichwertigkeit,1107.0
-2020,darunter medizinische Gesundheitsberufe,Insgesamt,,positiv volle Gleichwertigkeit,1854.0
-2019,alle Berufsgruppen,Männer,,positiv volle Gleichwertigkeit,1035.0
-2019,alle Berufsgruppen,Frauen,,positiv volle Gleichwertigkeit,1272.0
-2019,alle Berufsgruppen,Insgesamt,,positiv volle Gleichwertigkeit,2307.0
-2019,darunter medizinische Gesundheitsberufe,Männer,,positiv volle Gleichwertigkeit,663.0
-2019,darunter medizinische Gesundheitsberufe,Frauen,,positiv volle Gleichwertigkeit,987.0
-2019,darunter medizinische Gesundheitsberufe,Insgesamt,,positiv volle Gleichwertigkeit,1650.0
-2018,alle Berufsgruppen,Männer,,positiv volle Gleichwertigkeit,888.0
-2018,alle Berufsgruppen,Frauen,,positiv volle Gleichwertigkeit,975.0
-2018,alle Berufsgruppen,Insgesamt,,positiv volle Gleichwertigkeit,1863.0
-2018,darunter medizinische Gesundheitsberufe,Männer,,positiv volle Gleichwertigkeit,480.0
-2018,darunter medizinische Gesundheitsberufe,Frauen,,positiv volle Gleichwertigkeit,750.0
-2018,darunter medizinische Gesundheitsberufe,Insgesamt,,positiv volle Gleichwertigkeit,1230.0
-2017,alle Berufsgruppen,Männer,,positiv volle Gleichwertigkeit,852.0
-2017,alle Berufsgruppen,Frauen,,positiv volle Gleichwertigkeit,855.0
-2017,alle Berufsgruppen,Insgesamt,,positiv volle Gleichwertigkeit,1707.0
-2017,darunter medizinische Gesundheitsberufe,Männer,,positiv volle Gleichwertigkeit,417.0
-2017,darunter medizinische Gesundheitsberufe,Frauen,,positiv volle Gleichwertigkeit,642.0
-2017,darunter medizinische Gesundheitsberufe,Insgesamt,,positiv volle Gleichwertigkeit,1059.0
-2016,alle Berufsgruppen,Männer,,positiv volle Gleichwertigkeit,891.0
-2016,alle Berufsgruppen,Frauen,,positiv volle Gleichwertigkeit,831.0
-2016,alle Berufsgruppen,Insgesamt,,positiv volle Gleichwertigkeit,1722.0
-2016,darunter medizinische Gesundheitsberufe,Männer,,positiv volle Gleichwertigkeit,486.0
-2016,darunter medizinische Gesundheitsberufe,Frauen,,positiv volle Gleichwertigkeit,612.0
-2016,darunter medizinische Gesundheitsberufe,Insgesamt,,positiv volle Gleichwertigkeit,1098.0
-2015,alle Berufsgruppen,Männer,,positiv volle Gleichwertigkeit,660.0
-2015,alle Berufsgruppen,Frauen,,positiv volle Gleichwertigkeit,669.0
-2015,alle Berufsgruppen,Insgesamt,,positiv volle Gleichwertigkeit,1335.0
-2015,darunter medizinische Gesundheitsberufe,Männer,,positiv volle Gleichwertigkeit,396.0
-2015,darunter medizinische Gesundheitsberufe,Frauen,,positiv volle Gleichwertigkeit,441.0
-2015,darunter medizinische Gesundheitsberufe,Insgesamt,,positiv volle Gleichwertigkeit,837.0
-2014,alle Berufsgruppen,Männer,,positiv volle Gleichwertigkeit,600.0
-2014,alle Berufsgruppen,Frauen,,positiv volle Gleichwertigkeit,851.0
-2014,alle Berufsgruppen,Insgesamt,,positiv volle Gleichwertigkeit,1451.0
-2014,darunter medizinische Gesundheitsberufe,Männer,,positiv volle Gleichwertigkeit,392.0
-2014,darunter medizinische Gesundheitsberufe,Frauen,,positiv volle Gleichwertigkeit,369.0
-2014,darunter medizinische Gesundheitsberufe,Insgesamt,,positiv volle Gleichwertigkeit,761.0
-2012,alle Berufsgruppen,Männer,,positiv volle Gleichwertigkeit,12.0
-2012,alle Berufsgruppen,Frauen,,positiv volle Gleichwertigkeit,30.0
-2012,alle Berufsgruppen,Insgesamt,,positiv volle Gleichwertigkeit,42.0
-2012,darunter medizinische Gesundheitsberufe,Männer,,positiv volle Gleichwertigkeit,3.0
-2012,darunter medizinische Gesundheitsberufe,Frauen,,positiv volle Gleichwertigkeit,18.0
-2012,darunter medizinische Gesundheitsberufe,Insgesamt,,positiv volle Gleichwertigkeit,18.0
-2020,alle Berufsgruppen,Männer,,Auflage einer Ausgleichsmaßnahme1),900.0
-2020,alle Berufsgruppen,Frauen,,Auflage einer Ausgleichsmaßnahme1),1533.0
-2020,alle Berufsgruppen,Insgesamt,,Auflage einer Ausgleichsmaßnahme1),2433.0
-2020,darunter medizinische Gesundheitsberufe,Männer,,Auflage einer Ausgleichsmaßnahme1),855.0
-2020,darunter medizinische Gesundheitsberufe,Frauen,,Auflage einer Ausgleichsmaßnahme1),1350.0
-2020,darunter medizinische Gesundheitsberufe,Insgesamt,,Auflage einer Ausgleichsmaßnahme1),2205.0
-2019,alle Berufsgruppen,Männer,,Auflage einer Ausgleichsmaßnahme1),873.0
-2019,alle Berufsgruppen,Frauen,,Auflage einer Ausgleichsmaßnahme1),1242.0
-2019,alle Berufsgruppen,Insgesamt,,Auflage einer Ausgleichsmaßnahme1),2115.0
-2019,darunter medizinische Gesundheitsberufe,Männer,,Auflage einer Ausgleichsmaßnahme1),837.0
-2019,darunter medizinische Gesundheitsberufe,Frauen,,Auflage einer Ausgleichsmaßnahme1),1083.0
-2019,darunter medizinische Gesundheitsberufe,Insgesamt,,Auflage einer Ausgleichsmaßnahme1),1923.0
-2018,alle Berufsgruppen,Männer,,Auflage einer Ausgleichsmaßnahme1),492.0
-2018,alle Berufsgruppen,Frauen,,Auflage einer Ausgleichsmaßnahme1),645.0
-2018,alle Berufsgruppen,Insgesamt,,Auflage einer Ausgleichsmaßnahme1),1137.0
-2018,darunter medizinische Gesundheitsberufe,Männer,,Auflage einer Ausgleichsmaßnahme1),462.0
-2018,darunter medizinische Gesundheitsberufe,Frauen,,Auflage einer Ausgleichsmaßnahme1),528.0
-2018,darunter medizinische Gesundheitsberufe,Insgesamt,,Auflage einer Ausgleichsmaßnahme1),990.0
-2017,alle Berufsgruppen,Männer,,Auflage einer Ausgleichsmaßnahme1),309.0
-2017,alle Berufsgruppen,Frauen,,Auflage einer Ausgleichsmaßnahme1),381.0
-2017,alle Berufsgruppen,Insgesamt,,Auflage einer Ausgleichsmaßnahme1),687.0
-2017,darunter medizinische Gesundheitsberufe,Männer,,Auflage einer Ausgleichsmaßnahme1),285.0
-2017,darunter medizinische Gesundheitsberufe,Frauen,,Auflage einer Ausgleichsmaßnahme1),297.0
-2017,darunter medizinische Gesundheitsberufe,Insgesamt,,Auflage einer Ausgleichsmaßnahme1),582.0
-2016,alle Berufsgruppen,Männer,,Auflage einer Ausgleichsmaßnahme1),243.0
-2016,alle Berufsgruppen,Frauen,,Auflage einer Ausgleichsmaßnahme1),372.0
-2016,alle Berufsgruppen,Insgesamt,,Auflage einer Ausgleichsmaßnahme1),615.0
-2016,darunter medizinische Gesundheitsberufe,Männer,,Auflage einer Ausgleichsmaßnahme1),222.0
-2016,darunter medizinische Gesundheitsberufe,Frauen,,Auflage einer Ausgleichsmaßnahme1),282.0
-2016,darunter medizinische Gesundheitsberufe,Insgesamt,,Auflage einer Ausgleichsmaßnahme1),504.0
-2015,alle Berufsgruppen,Männer,,Auflage einer Ausgleichsmaßnahme1),198.0
-2015,alle Berufsgruppen,Frauen,,Auflage einer Ausgleichsmaßnahme1),372.0
-2015,alle Berufsgruppen,Insgesamt,,Auflage einer Ausgleichsmaßnahme1),573.0
-2015,darunter medizinische Gesundheitsberufe,Männer,,Auflage einer Ausgleichsmaßnahme1),
-2015,darunter medizinische Gesundheitsberufe,Frauen,,Auflage einer Ausgleichsmaßnahme1),
-2015,darunter medizinische Gesundheitsberufe,Insgesamt,,Auflage einer Ausgleichsmaßnahme1),
-2014,alle Berufsgruppen,Männer,,Auflage einer Ausgleichsmaßnahme1),
-2014,alle Berufsgruppen,Frauen,,Auflage einer Ausgleichsmaßnahme1),
-2014,alle Berufsgruppen,Insgesamt,,Auflage einer Ausgleichsmaßnahme1),
-2014,darunter medizinische Gesundheitsberufe,Männer,,Auflage einer Ausgleichsmaßnahme1),
-2014,darunter medizinische Gesundheitsberufe,Frauen,,Auflage einer Ausgleichsmaßnahme1),
-2014,darunter medizinische Gesundheitsberufe,Insgesamt,,Auflage einer Ausgleichsmaßnahme1),
-2012,alle Berufsgruppen,Männer,,Auflage einer Ausgleichsmaßnahme1),
-2012,alle Berufsgruppen,Frauen,,Auflage einer Ausgleichsmaßnahme1),
-2012,alle Berufsgruppen,Insgesamt,,Auflage einer Ausgleichsmaßnahme1),
-2012,darunter medizinische Gesundheitsberufe,Männer,,Auflage einer Ausgleichsmaßnahme1),
-2012,darunter medizinische Gesundheitsberufe,Frauen,,Auflage einer Ausgleichsmaßnahme1),
-2012,darunter medizinische Gesundheitsberufe,Insgesamt,,Auflage einer Ausgleichsmaßnahme1),
-2020,alle Berufsgruppen,Männer,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
-2020,alle Berufsgruppen,Frauen,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
-2020,alle Berufsgruppen,Insgesamt,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
-2020,darunter medizinische Gesundheitsberufe,Männer,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
-2020,darunter medizinische Gesundheitsberufe,Frauen,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
-2020,darunter medizinische Gesundheitsberufe,Insgesamt,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
-2019,alle Berufsgruppen,Männer,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
-2019,alle Berufsgruppen,Frauen,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
-2019,alle Berufsgruppen,Insgesamt,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
-2019,darunter medizinische Gesundheitsberufe,Männer,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
-2019,darunter medizinische Gesundheitsberufe,Frauen,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
-2019,darunter medizinische Gesundheitsberufe,Insgesamt,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
-2018,alle Berufsgruppen,Männer,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
-2018,alle Berufsgruppen,Frauen,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
-2018,alle Berufsgruppen,Insgesamt,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
-2018,darunter medizinische Gesundheitsberufe,Männer,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
-2018,darunter medizinische Gesundheitsberufe,Frauen,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
-2018,darunter medizinische Gesundheitsberufe,Insgesamt,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
-2017,alle Berufsgruppen,Männer,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
-2017,alle Berufsgruppen,Frauen,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
-2017,alle Berufsgruppen,Insgesamt,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
-2017,darunter medizinische Gesundheitsberufe,Männer,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
-2017,darunter medizinische Gesundheitsberufe,Frauen,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
-2017,darunter medizinische Gesundheitsberufe,Insgesamt,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
-2016,alle Berufsgruppen,Männer,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
-2016,alle Berufsgruppen,Frauen,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
-2016,alle Berufsgruppen,Insgesamt,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
-2016,darunter medizinische Gesundheitsberufe,Männer,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
-2016,darunter medizinische Gesundheitsberufe,Frauen,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
-2016,darunter medizinische Gesundheitsberufe,Insgesamt,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
-2015,alle Berufsgruppen,Männer,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
-2015,alle Berufsgruppen,Frauen,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
-2015,alle Berufsgruppen,Insgesamt,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
-2015,darunter medizinische Gesundheitsberufe,Männer,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),183.0
-2015,darunter medizinische Gesundheitsberufe,Frauen,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),225.0
-2015,darunter medizinische Gesundheitsberufe,Insgesamt,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),408.0
-2014,alle Berufsgruppen,Männer,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),221.0
-2014,alle Berufsgruppen,Frauen,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),279.0
-2014,alle Berufsgruppen,Insgesamt,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),500.0
-2014,darunter medizinische Gesundheitsberufe,Männer,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),199.0
-2014,darunter medizinische Gesundheitsberufe,Frauen,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
-2014,darunter medizinische Gesundheitsberufe,Insgesamt,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),199.0
-2012,alle Berufsgruppen,Männer,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),6.0
-2012,alle Berufsgruppen,Frauen,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),57.0
-2012,alle Berufsgruppen,Insgesamt,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),63.0
-2012,darunter medizinische Gesundheitsberufe,Männer,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),6.0
-2012,darunter medizinische Gesundheitsberufe,Frauen,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),57.0
-2012,darunter medizinische Gesundheitsberufe,Insgesamt,,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),63.0
-2020,alle Berufsgruppen,Männer,,teilweise Gleichwertigkeit3),285.0
-2020,alle Berufsgruppen,Frauen,,teilweise Gleichwertigkeit3),84.0
-2020,alle Berufsgruppen,Insgesamt,,teilweise Gleichwertigkeit3),369.0
-2020,darunter medizinische Gesundheitsberufe,Männer,,teilweise Gleichwertigkeit3),
-2020,darunter medizinische Gesundheitsberufe,Frauen,,teilweise Gleichwertigkeit3),6.0
-2020,darunter medizinische Gesundheitsberufe,Insgesamt,,teilweise Gleichwertigkeit3),6.0
-2019,alle Berufsgruppen,Männer,,teilweise Gleichwertigkeit3),231.0
-2019,alle Berufsgruppen,Frauen,,teilweise Gleichwertigkeit3),108.0
-2019,alle Berufsgruppen,Insgesamt,,teilweise Gleichwertigkeit3),336.0
-2019,darunter medizinische Gesundheitsberufe,Männer,,teilweise Gleichwertigkeit3),
-2019,darunter medizinische Gesundheitsberufe,Frauen,,teilweise Gleichwertigkeit3),9.0
-2019,darunter medizinische Gesundheitsberufe,Insgesamt,,teilweise Gleichwertigkeit3),9.0
-2018,alle Berufsgruppen,Männer,,teilweise Gleichwertigkeit3),303.0
-2018,alle Berufsgruppen,Frauen,,teilweise Gleichwertigkeit3),108.0
-2018,alle Berufsgruppen,Insgesamt,,teilweise Gleichwertigkeit3),411.0
-2018,darunter medizinische Gesundheitsberufe,Männer,,teilweise Gleichwertigkeit3),
-2018,darunter medizinische Gesundheitsberufe,Frauen,,teilweise Gleichwertigkeit3),
-2018,darunter medizinische Gesundheitsberufe,Insgesamt,,teilweise Gleichwertigkeit3),
-2017,alle Berufsgruppen,Männer,,teilweise Gleichwertigkeit3),258.0
-2017,alle Berufsgruppen,Frauen,,teilweise Gleichwertigkeit3),60.0
-2017,alle Berufsgruppen,Insgesamt,,teilweise Gleichwertigkeit3),318.0
-2017,darunter medizinische Gesundheitsberufe,Männer,,teilweise Gleichwertigkeit3),
-2017,darunter medizinische Gesundheitsberufe,Frauen,,teilweise Gleichwertigkeit3),
-2017,darunter medizinische Gesundheitsberufe,Insgesamt,,teilweise Gleichwertigkeit3),
-2016,alle Berufsgruppen,Männer,,teilweise Gleichwertigkeit3),159.0
-2016,alle Berufsgruppen,Frauen,,teilweise Gleichwertigkeit3),75.0
-2016,alle Berufsgruppen,Insgesamt,,teilweise Gleichwertigkeit3),234.0
-2016,darunter medizinische Gesundheitsberufe,Männer,,teilweise Gleichwertigkeit3),
-2016,darunter medizinische Gesundheitsberufe,Frauen,,teilweise Gleichwertigkeit3),3.0
-2016,darunter medizinische Gesundheitsberufe,Insgesamt,,teilweise Gleichwertigkeit3),3.0
-2015,alle Berufsgruppen,Männer,,teilweise Gleichwertigkeit3),
-2015,alle Berufsgruppen,Frauen,,teilweise Gleichwertigkeit3),
-2015,alle Berufsgruppen,Insgesamt,,teilweise Gleichwertigkeit3),
-2015,darunter medizinische Gesundheitsberufe,Männer,,teilweise Gleichwertigkeit3),
-2015,darunter medizinische Gesundheitsberufe,Frauen,,teilweise Gleichwertigkeit3),
-2015,darunter medizinische Gesundheitsberufe,Insgesamt,,teilweise Gleichwertigkeit3),
-2014,alle Berufsgruppen,Männer,,teilweise Gleichwertigkeit3),
-2014,alle Berufsgruppen,Frauen,,teilweise Gleichwertigkeit3),
-2014,alle Berufsgruppen,Insgesamt,,teilweise Gleichwertigkeit3),
-2014,darunter medizinische Gesundheitsberufe,Männer,,teilweise Gleichwertigkeit3),
-2014,darunter medizinische Gesundheitsberufe,Frauen,,teilweise Gleichwertigkeit3),
-2014,darunter medizinische Gesundheitsberufe,Insgesamt,,teilweise Gleichwertigkeit3),
-2012,alle Berufsgruppen,Männer,,teilweise Gleichwertigkeit3),
-2012,alle Berufsgruppen,Frauen,,teilweise Gleichwertigkeit3),
-2012,alle Berufsgruppen,Insgesamt,,teilweise Gleichwertigkeit3),
-2012,darunter medizinische Gesundheitsberufe,Männer,,teilweise Gleichwertigkeit3),
-2012,darunter medizinische Gesundheitsberufe,Frauen,,teilweise Gleichwertigkeit3),
-2012,darunter medizinische Gesundheitsberufe,Insgesamt,,teilweise Gleichwertigkeit3),
-2020,alle Berufsgruppen,Männer,,positive partieller Berufszugang4),3.0
-2020,alle Berufsgruppen,Frauen,,positive partieller Berufszugang4),27.0
-2020,alle Berufsgruppen,Insgesamt,,positive partieller Berufszugang4),30.0
-2020,darunter medizinische Gesundheitsberufe,Männer,,positive partieller Berufszugang4),
-2020,darunter medizinische Gesundheitsberufe,Frauen,,positive partieller Berufszugang4),
-2020,darunter medizinische Gesundheitsberufe,Insgesamt,,positive partieller Berufszugang4),
-2019,alle Berufsgruppen,Männer,,positive partieller Berufszugang4),
-2019,alle Berufsgruppen,Frauen,,positive partieller Berufszugang4),21.0
-2019,alle Berufsgruppen,Insgesamt,,positive partieller Berufszugang4),21.0
-2019,darunter medizinische Gesundheitsberufe,Männer,,positive partieller Berufszugang4),
-2019,darunter medizinische Gesundheitsberufe,Frauen,,positive partieller Berufszugang4),
-2019,darunter medizinische Gesundheitsberufe,Insgesamt,,positive partieller Berufszugang4),
-2018,alle Berufsgruppen,Männer,,positive partieller Berufszugang4),
-2018,alle Berufsgruppen,Frauen,,positive partieller Berufszugang4),18.0
-2018,alle Berufsgruppen,Insgesamt,,positive partieller Berufszugang4),18.0
-2018,darunter medizinische Gesundheitsberufe,Männer,,positive partieller Berufszugang4),
-2018,darunter medizinische Gesundheitsberufe,Frauen,,positive partieller Berufszugang4),
-2018,darunter medizinische Gesundheitsberufe,Insgesamt,,positive partieller Berufszugang4),
-2017,alle Berufsgruppen,Männer,,positive partieller Berufszugang4),
-2017,alle Berufsgruppen,Frauen,,positive partieller Berufszugang4),18.0
-2017,alle Berufsgruppen,Insgesamt,,positive partieller Berufszugang4),18.0
-2017,darunter medizinische Gesundheitsberufe,Männer,,positive partieller Berufszugang4),
-2017,darunter medizinische Gesundheitsberufe,Frauen,,positive partieller Berufszugang4),
-2017,darunter medizinische Gesundheitsberufe,Insgesamt,,positive partieller Berufszugang4),
-2016,alle Berufsgruppen,Männer,,positive partieller Berufszugang4),
-2016,alle Berufsgruppen,Frauen,,positive partieller Berufszugang4),3.0
-2016,alle Berufsgruppen,Insgesamt,,positive partieller Berufszugang4),6.0
-2016,darunter medizinische Gesundheitsberufe,Männer,,positive partieller Berufszugang4),
-2016,darunter medizinische Gesundheitsberufe,Frauen,,positive partieller Berufszugang4),
-2016,darunter medizinische Gesundheitsberufe,Insgesamt,,positive partieller Berufszugang4),
-2015,alle Berufsgruppen,Männer,,positive partieller Berufszugang4),
-2015,alle Berufsgruppen,Frauen,,positive partieller Berufszugang4),
-2015,alle Berufsgruppen,Insgesamt,,positive partieller Berufszugang4),
-2015,darunter medizinische Gesundheitsberufe,Männer,,positive partieller Berufszugang4),
-2015,darunter medizinische Gesundheitsberufe,Frauen,,positive partieller Berufszugang4),
-2015,darunter medizinische Gesundheitsberufe,Insgesamt,,positive partieller Berufszugang4),
-2014,alle Berufsgruppen,Männer,,positive partieller Berufszugang4),
-2014,alle Berufsgruppen,Frauen,,positive partieller Berufszugang4),
-2014,alle Berufsgruppen,Insgesamt,,positive partieller Berufszugang4),
-2014,darunter medizinische Gesundheitsberufe,Männer,,positive partieller Berufszugang4),
-2014,darunter medizinische Gesundheitsberufe,Frauen,,positive partieller Berufszugang4),
-2014,darunter medizinische Gesundheitsberufe,Insgesamt,,positive partieller Berufszugang4),
-2012,alle Berufsgruppen,Männer,,positive partieller Berufszugang4),
-2012,alle Berufsgruppen,Frauen,,positive partieller Berufszugang4),
-2012,alle Berufsgruppen,Insgesamt,,positive partieller Berufszugang4),
-2012,darunter medizinische Gesundheitsberufe,Männer,,positive partieller Berufszugang4),
-2012,darunter medizinische Gesundheitsberufe,Frauen,,positive partieller Berufszugang4),
-2012,darunter medizinische Gesundheitsberufe,Insgesamt,,positive partieller Berufszugang4),
-2020,alle Berufsgruppen,Männer,,negativ,69.0
-2020,alle Berufsgruppen,Frauen,,negativ,108.0
-2020,alle Berufsgruppen,Insgesamt,,negativ,174.0
-2020,darunter medizinische Gesundheitsberufe,Männer,,negativ,12.0
-2020,darunter medizinische Gesundheitsberufe,Frauen,,negativ,21.0
-2020,darunter medizinische Gesundheitsberufe,Insgesamt,,negativ,33.0
-2019,alle Berufsgruppen,Männer,,negativ,48.0
-2019,alle Berufsgruppen,Frauen,,negativ,114.0
-2019,alle Berufsgruppen,Insgesamt,,negativ,159.0
-2019,darunter medizinische Gesundheitsberufe,Männer,,negativ,15.0
-2019,darunter medizinische Gesundheitsberufe,Frauen,,negativ,18.0
-2019,darunter medizinische Gesundheitsberufe,Insgesamt,,negativ,36.0
-2018,alle Berufsgruppen,Männer,,negativ,24.0
-2018,alle Berufsgruppen,Frauen,,negativ,96.0
-2018,alle Berufsgruppen,Insgesamt,,negativ,120.0
-2018,darunter medizinische Gesundheitsberufe,Männer,,negativ,6.0
-2018,darunter medizinische Gesundheitsberufe,Frauen,,negativ,12.0
-2018,darunter medizinische Gesundheitsberufe,Insgesamt,,negativ,18.0
-2017,alle Berufsgruppen,Männer,,negativ,24.0
-2017,alle Berufsgruppen,Frauen,,negativ,90.0
-2017,alle Berufsgruppen,Insgesamt,,negativ,117.0
-2017,darunter medizinische Gesundheitsberufe,Männer,,negativ,9.0
-2017,darunter medizinische Gesundheitsberufe,Frauen,,negativ,9.0
-2017,darunter medizinische Gesundheitsberufe,Insgesamt,,negativ,18.0
-2016,alle Berufsgruppen,Männer,,negativ,27.0
-2016,alle Berufsgruppen,Frauen,,negativ,78.0
-2016,alle Berufsgruppen,Insgesamt,,negativ,105.0
-2016,darunter medizinische Gesundheitsberufe,Männer,,negativ,3.0
-2016,darunter medizinische Gesundheitsberufe,Frauen,,negativ,6.0
-2016,darunter medizinische Gesundheitsberufe,Insgesamt,,negativ,9.0
-2015,alle Berufsgruppen,Männer,,negativ,105.0
-2015,alle Berufsgruppen,Frauen,,negativ,180.0
-2015,alle Berufsgruppen,Insgesamt,,negativ,291.0
-2015,darunter medizinische Gesundheitsberufe,Männer,,negativ,12.0
-2015,darunter medizinische Gesundheitsberufe,Frauen,,negativ,36.0
-2015,darunter medizinische Gesundheitsberufe,Insgesamt,,negativ,48.0
-2014,alle Berufsgruppen,Männer,,negativ,95.0
-2014,alle Berufsgruppen,Frauen,,negativ,118.0
-2014,alle Berufsgruppen,Insgesamt,,negativ,213.0
-2014,darunter medizinische Gesundheitsberufe,Männer,,negativ,
-2014,darunter medizinische Gesundheitsberufe,Frauen,,negativ,37.0
-2014,darunter medizinische Gesundheitsberufe,Insgesamt,,negativ,37.0
-2012,alle Berufsgruppen,Männer,,negativ,204.0
-2012,alle Berufsgruppen,Frauen,,negativ,252.0
-2012,alle Berufsgruppen,Insgesamt,,negativ,456.0
-2012,darunter medizinische Gesundheitsberufe,Männer,,negativ,171.0
-2012,darunter medizinische Gesundheitsberufe,Frauen,,negativ,219.0
-2012,darunter medizinische Gesundheitsberufe,Insgesamt,,negativ,390.0
+2021,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,1383.0
+2021,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,1449.0
+2021,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,2835.0
+2021,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,939.0
+2021,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,1212.0
+2021,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,2151.0
+2020,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,1182.0
+2020,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,1338.0
+2020,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,2520.0
+2020,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,747.0
+2020,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,1107.0
+2020,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,1854.0
+2019,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,1035.0
+2019,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,1272.0
+2019,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,2307.0
+2019,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,663.0
+2019,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,987.0
+2019,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,1650.0
+2018,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,888.0
+2018,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,975.0
+2018,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,1863.0
+2018,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,480.0
+2018,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,750.0
+2018,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,1230.0
+2017,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,852.0
+2017,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,855.0
+2017,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,1707.0
+2017,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,417.0
+2017,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,642.0
+2017,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,1059.0
+2016,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,891.0
+2016,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,831.0
+2016,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,1722.0
+2016,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,486.0
+2016,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,612.0
+2016,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,1098.0
+2015,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,660.0
+2015,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,669.0
+2015,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,1335.0
+2015,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,396.0
+2015,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,441.0
+2015,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,837.0
+2014,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,600.0
+2014,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,851.0
+2014,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,1451.0
+2014,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,392.0
+2014,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,369.0
+2014,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,761.0
+2012,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,12.0
+2012,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,30.0
+2012,alle Berufsgruppen,insgesamt,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,42.0
+2012,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,3.0
+2012,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,18.0
+2012,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,18.0
+2021,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),696.0
+2021,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),1242.0
+2021,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),1938.0
+2021,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),684.0
+2021,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),1149.0
+2021,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),1833.0
+2020,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),900.0
+2020,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),1533.0
+2020,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),2433.0
+2020,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),855.0
+2020,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),1350.0
+2020,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),2205.0
+2019,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),873.0
+2019,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),1242.0
+2019,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),2115.0
+2019,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),837.0
+2019,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),1083.0
+2019,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),1923.0
+2018,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),492.0
+2018,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),645.0
+2018,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),1137.0
+2018,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),462.0
+2018,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),528.0
+2018,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),990.0
+2017,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),309.0
+2017,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),381.0
+2017,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),687.0
+2017,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),285.0
+2017,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),297.0
+2017,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),582.0
+2016,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),243.0
+2016,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),372.0
+2016,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),615.0
+2016,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),222.0
+2016,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),282.0
+2016,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),504.0
+2015,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),198.0
+2015,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),372.0
+2015,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),573.0
+2015,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),183.0
+2015,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),225.0
+2015,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),408.0
+2014,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),221.0
+2014,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),279.0
+2014,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),500.0
+2014,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),199.0
+2014,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),
+2014,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),199.0
+2012,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),
+2012,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),
+2012,alle Berufsgruppen,insgesamt,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),
+2012,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),
+2012,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),
+2012,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),
+2021,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2021,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2021,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2021,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2021,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2021,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2020,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2020,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2020,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2020,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2020,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2020,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2019,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2019,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2019,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2019,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2019,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2019,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2018,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2018,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2018,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2018,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2018,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2018,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2017,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2017,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2017,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2017,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2017,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2017,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2016,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2016,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2016,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2016,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2016,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2016,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2015,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2015,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2015,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2015,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2015,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2015,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2014,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2014,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2014,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2014,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2014,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2014,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2012,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),6.0
+2012,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),57.0
+2012,alle Berufsgruppen,insgesamt,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),63.0
+2012,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),6.0
+2012,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),57.0
+2012,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),63.0
+2021,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),348.0
+2021,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),78.0
+2021,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),426.0
+2021,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),3.0
+2021,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),6.0
+2021,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),9.0
+2020,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),285.0
+2020,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),84.0
+2020,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),369.0
+2020,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),
+2020,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),6.0
+2020,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),6.0
+2019,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),231.0
+2019,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),108.0
+2019,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),336.0
+2019,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),
+2019,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),9.0
+2019,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),9.0
+2018,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),303.0
+2018,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),108.0
+2018,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),411.0
+2018,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),
+2018,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),
+2018,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),
+2017,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),258.0
+2017,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),60.0
+2017,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),318.0
+2017,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),
+2017,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),
+2017,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),
+2016,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),159.0
+2016,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),75.0
+2016,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),234.0
+2016,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),
+2016,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),3.0
+2016,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),3.0
+2015,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),
+2015,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),
+2015,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),
+2015,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),
+2015,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),
+2015,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),
+2014,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),
+2014,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),
+2014,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),
+2014,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),
+2014,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),
+2014,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),
+2012,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),
+2012,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),
+2012,alle Berufsgruppen,insgesamt,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),
+2012,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),
+2012,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),
+2012,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),
+2021,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),12.0
+2021,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),81.0
+2021,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),93.0
+2021,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
+2021,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
+2021,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
+2020,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),3.0
+2020,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),27.0
+2020,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),30.0
+2020,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
+2020,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
+2020,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
+2019,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
+2019,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),21.0
+2019,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),21.0
+2019,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
+2019,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
+2019,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
+2018,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
+2018,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),18.0
+2018,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),18.0
+2018,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
+2018,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
+2018,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
+2017,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
+2017,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),18.0
+2017,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),18.0
+2017,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
+2017,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
+2017,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
+2016,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
+2016,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),3.0
+2016,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),6.0
+2016,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
+2016,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
+2016,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
+2015,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
+2015,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
+2015,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
+2015,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
+2015,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
+2015,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
+2014,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
+2014,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
+2014,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
+2014,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
+2014,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
+2014,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
+2012,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
+2012,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
+2012,alle Berufsgruppen,insgesamt,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
+2012,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
+2012,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
+2012,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
+2021,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,negativ,57.0
+2021,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,negativ,90.0
+2021,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,negativ,147.0
+2021,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,negativ,24.0
+2021,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,negativ,27.0
+2021,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,negativ,51.0
+2020,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,negativ,69.0
+2020,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,negativ,108.0
+2020,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,negativ,174.0
+2020,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,negativ,12.0
+2020,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,negativ,21.0
+2020,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,negativ,33.0
+2019,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,negativ,48.0
+2019,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,negativ,114.0
+2019,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,negativ,159.0
+2019,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,negativ,15.0
+2019,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,negativ,18.0
+2019,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,negativ,36.0
+2018,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,negativ,24.0
+2018,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,negativ,96.0
+2018,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,negativ,120.0
+2018,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,negativ,6.0
+2018,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,negativ,12.0
+2018,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,negativ,18.0
+2017,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,negativ,24.0
+2017,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,negativ,90.0
+2017,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,negativ,117.0
+2017,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,negativ,9.0
+2017,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,negativ,9.0
+2017,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,negativ,18.0
+2016,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,negativ,27.0
+2016,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,negativ,78.0
+2016,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,negativ,105.0
+2016,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,negativ,3.0
+2016,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,negativ,6.0
+2016,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,negativ,9.0
+2015,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,negativ,105.0
+2015,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,negativ,180.0
+2015,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,negativ,291.0
+2015,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,negativ,12.0
+2015,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,negativ,36.0
+2015,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,negativ,48.0
+2014,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,negativ,95.0
+2014,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,negativ,118.0
+2014,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,negativ,213.0
+2014,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,negativ,
+2014,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,negativ,37.0
+2014,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,negativ,37.0
+2012,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,negativ,204.0
+2012,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,negativ,252.0
+2012,alle Berufsgruppen,insgesamt,Entscheidung vor Rechtsbehelf,negativ,456.0
+2012,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,negativ,171.0
+2012,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,negativ,219.0
+2012,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,negativ,390.0
+2021,alle Berufsgruppen,Männer,sonstige Erledigung - Verfahren ohne Bescheid beendet,,126.0
+2021,alle Berufsgruppen,Frauen,sonstige Erledigung - Verfahren ohne Bescheid beendet,,207.0
+2021,alle Berufsgruppen,Insgesamt,sonstige Erledigung - Verfahren ohne Bescheid beendet,,330.0
+2021,darunter medizinische Gesundheitsberufe,Männer,sonstige Erledigung - Verfahren ohne Bescheid beendet,,72.0
+2021,darunter medizinische Gesundheitsberufe,Frauen,sonstige Erledigung - Verfahren ohne Bescheid beendet,,198.0
+2021,darunter medizinische Gesundheitsberufe,Insgesamt,sonstige Erledigung - Verfahren ohne Bescheid beendet,,270.0
 2020,alle Berufsgruppen,Männer,sonstige Erledigung - Verfahren ohne Bescheid beendet,,96.0
 2020,alle Berufsgruppen,Frauen,sonstige Erledigung - Verfahren ohne Bescheid beendet,,132.0
 2020,alle Berufsgruppen,Insgesamt,sonstige Erledigung - Verfahren ohne Bescheid beendet,,231.0
@@ -413,24 +467,30 @@ Year,Berufsgruppe,Geschlecht,Verfahren,Entscheidung vor Rechtsbehelf,Value
 2016,darunter medizinische Gesundheitsberufe,Männer,sonstige Erledigung - Verfahren ohne Bescheid beendet,,12.0
 2016,darunter medizinische Gesundheitsberufe,Frauen,sonstige Erledigung - Verfahren ohne Bescheid beendet,,21.0
 2016,darunter medizinische Gesundheitsberufe,Insgesamt,sonstige Erledigung - Verfahren ohne Bescheid beendet,,36.0
-2015,alle Berufsgruppen,Männer,sonstige Erledigung - Verfahren ohne Bescheid beendet,,
-2015,alle Berufsgruppen,Frauen,sonstige Erledigung - Verfahren ohne Bescheid beendet,,
-2015,alle Berufsgruppen,Insgesamt,sonstige Erledigung - Verfahren ohne Bescheid beendet,,
-2015,darunter medizinische Gesundheitsberufe,Männer,sonstige Erledigung - Verfahren ohne Bescheid beendet,,
-2015,darunter medizinische Gesundheitsberufe,Frauen,sonstige Erledigung - Verfahren ohne Bescheid beendet,,
-2015,darunter medizinische Gesundheitsberufe,Insgesamt,sonstige Erledigung - Verfahren ohne Bescheid beendet,,
-2014,alle Berufsgruppen,Männer,sonstige Erledigung - Verfahren ohne Bescheid beendet,,
-2014,alle Berufsgruppen,Frauen,sonstige Erledigung - Verfahren ohne Bescheid beendet,,
-2014,alle Berufsgruppen,Insgesamt,sonstige Erledigung - Verfahren ohne Bescheid beendet,,
-2014,darunter medizinische Gesundheitsberufe,Männer,sonstige Erledigung - Verfahren ohne Bescheid beendet,,
-2014,darunter medizinische Gesundheitsberufe,Frauen,sonstige Erledigung - Verfahren ohne Bescheid beendet,,
-2014,darunter medizinische Gesundheitsberufe,Insgesamt,sonstige Erledigung - Verfahren ohne Bescheid beendet,,
-2012,alle Berufsgruppen,Männer,sonstige Erledigung - Verfahren ohne Bescheid beendet,,
-2012,alle Berufsgruppen,Frauen,sonstige Erledigung - Verfahren ohne Bescheid beendet,,
-2012,alle Berufsgruppen,Insgesamt,sonstige Erledigung - Verfahren ohne Bescheid beendet,,
-2012,darunter medizinische Gesundheitsberufe,Männer,sonstige Erledigung - Verfahren ohne Bescheid beendet,,
-2012,darunter medizinische Gesundheitsberufe,Frauen,sonstige Erledigung - Verfahren ohne Bescheid beendet,,
-2012,darunter medizinische Gesundheitsberufe,Insgesamt,sonstige Erledigung - Verfahren ohne Bescheid beendet,,
+2015,alle Berufsgruppen,Männer,sonstige Erledigung - Verfahren ohne Bescheid beendet,,0.0
+2015,alle Berufsgruppen,Frauen,sonstige Erledigung - Verfahren ohne Bescheid beendet,,0.0
+2015,alle Berufsgruppen,Insgesamt,sonstige Erledigung - Verfahren ohne Bescheid beendet,,0.0
+2015,darunter medizinische Gesundheitsberufe,Männer,sonstige Erledigung - Verfahren ohne Bescheid beendet,,0.0
+2015,darunter medizinische Gesundheitsberufe,Frauen,sonstige Erledigung - Verfahren ohne Bescheid beendet,,0.0
+2015,darunter medizinische Gesundheitsberufe,Insgesamt,sonstige Erledigung - Verfahren ohne Bescheid beendet,,0.0
+2014,alle Berufsgruppen,Männer,sonstige Erledigung - Verfahren ohne Bescheid beendet,,0.0
+2014,alle Berufsgruppen,Frauen,sonstige Erledigung - Verfahren ohne Bescheid beendet,,0.0
+2014,alle Berufsgruppen,Insgesamt,sonstige Erledigung - Verfahren ohne Bescheid beendet,,0.0
+2014,darunter medizinische Gesundheitsberufe,Männer,sonstige Erledigung - Verfahren ohne Bescheid beendet,,0.0
+2014,darunter medizinische Gesundheitsberufe,Frauen,sonstige Erledigung - Verfahren ohne Bescheid beendet,,0.0
+2014,darunter medizinische Gesundheitsberufe,Insgesamt,sonstige Erledigung - Verfahren ohne Bescheid beendet,,0.0
+2012,alle Berufsgruppen,Männer,sonstige Erledigung - Verfahren ohne Bescheid beendet,,0.0
+2012,alle Berufsgruppen,Frauen,sonstige Erledigung - Verfahren ohne Bescheid beendet,,0.0
+2012,alle Berufsgruppen,insgesamt,sonstige Erledigung - Verfahren ohne Bescheid beendet,,0.0
+2012,darunter medizinische Gesundheitsberufe,Männer,sonstige Erledigung - Verfahren ohne Bescheid beendet,,0.0
+2012,darunter medizinische Gesundheitsberufe,Frauen,sonstige Erledigung - Verfahren ohne Bescheid beendet,,0.0
+2012,darunter medizinische Gesundheitsberufe,Insgesamt,sonstige Erledigung - Verfahren ohne Bescheid beendet,,0.0
+2021,alle Berufsgruppen,Männer,Noch keine Entscheidung,,642.0
+2021,alle Berufsgruppen,Frauen,Noch keine Entscheidung,,1215.0
+2021,alle Berufsgruppen,Insgesamt,Noch keine Entscheidung,,1857.0
+2021,darunter medizinische Gesundheitsberufe,Männer,Noch keine Entscheidung,,492.0
+2021,darunter medizinische Gesundheitsberufe,Frauen,Noch keine Entscheidung,,1134.0
+2021,darunter medizinische Gesundheitsberufe,Insgesamt,Noch keine Entscheidung,,1626.0
 2020,alle Berufsgruppen,Männer,Noch keine Entscheidung,,405.0
 2020,alle Berufsgruppen,Frauen,Noch keine Entscheidung,,786.0
 2020,alle Berufsgruppen,Insgesamt,Noch keine Entscheidung,,1191.0
@@ -475,7 +535,7 @@ Year,Berufsgruppe,Geschlecht,Verfahren,Entscheidung vor Rechtsbehelf,Value
 2014,darunter medizinische Gesundheitsberufe,Insgesamt,Noch keine Entscheidung,,186.0
 2012,alle Berufsgruppen,Männer,Noch keine Entscheidung,,39.0
 2012,alle Berufsgruppen,Frauen,Noch keine Entscheidung,,63.0
-2012,alle Berufsgruppen,Insgesamt,Noch keine Entscheidung,,102.0
+2012,alle Berufsgruppen,insgesamt,Noch keine Entscheidung,,102.0
 2012,darunter medizinische Gesundheitsberufe,Männer,Noch keine Entscheidung,,12.0
 2012,darunter medizinische Gesundheitsberufe,Frauen,Noch keine Entscheidung,,36.0
 2012,darunter medizinische Gesundheitsberufe,Insgesamt,Noch keine Entscheidung,,48.0
