@@ -1,4 +1,5 @@
-﻿Year,Nationalität,Geschlecht,Units,Value
+Year,Nationalität,Geschlecht,Units,Value
+2021,Insgesamt,Insgesamt,Prozent,24.3
 2020,Insgesamt,Insgesamt,Prozent,25
 2019,Insgesamt,Insgesamt,Prozent,26.3
 2018,Insgesamt,Insgesamt,Prozent,26.2
@@ -9,6 +10,7 @@
 2013,Insgesamt,Insgesamt,Prozent,29
 2012,Insgesamt,Insgesamt,Prozent,29.5
 2011,Insgesamt,Insgesamt,Prozent,29.7
+2021,Insgesamt,Männer,Prozent,31
 2020,Insgesamt,Männer,Prozent,31.4
 2019,Insgesamt,Männer,Prozent,32.5
 2018,Insgesamt,Männer,Prozent,32.1
@@ -19,6 +21,7 @@
 2013,Insgesamt,Männer,Prozent,34.8
 2012,Insgesamt,Männer,Prozent,35.2
 2011,Insgesamt,Männer,Prozent,35
+2021,Insgesamt,Frauen,Prozent,17.1
 2020,Insgesamt,Frauen,Prozent,18.1
 2019,Insgesamt,Frauen,Prozent,19.4
 2018,Insgesamt,Frauen,Prozent,19.7
@@ -29,6 +32,7 @@
 2013,Insgesamt,Frauen,Prozent,22.9
 2012,Insgesamt,Frauen,Prozent,23.4
 2011,Insgesamt,Frauen,Prozent,24.1
+2021,Deutsche,Insgesamt,Prozent,25.9
 2020,Deutsche,Insgesamt,Prozent,26.5
 2019,Deutsche,Insgesamt,Prozent,28.1
 2018,Deutsche,Insgesamt,Prozent,28.3
@@ -39,6 +43,7 @@
 2013,Deutsche,Insgesamt,Prozent,30.5
 2012,Deutsche,Insgesamt,Prozent,30.8
 2011,Deutsche,Insgesamt,Prozent,30.9
+2021,Deutsche,Männer,Prozent,33.4
 2020,Deutsche,Männer,Prozent,33.7
 2019,Deutsche,Männer,Prozent,35.2
 2018,Deutsche,Männer,Prozent,35.2
@@ -49,6 +54,7 @@
 2013,Deutsche,Männer,Prozent,36.5
 2012,Deutsche,Männer,Prozent,36.8
 2011,Deutsche,Männer,Prozent,36.4
+2021,Deutsche,Frauen,Prozent,18
 2020,Deutsche,Frauen,Prozent,19
 2019,Deutsche,Frauen,Prozent,20.6
 2018,Deutsche,Frauen,Prozent,21
@@ -59,6 +65,7 @@
 2013,Deutsche,Frauen,Prozent,23.9
 2012,Deutsche,Frauen,Prozent,24.4
 2011,Deutsche,Frauen,Prozent,25
+2021,Ausländerinnen und Ausländer,Insgesamt,Prozent,11.8
 2020,Ausländerinnen und Ausländer,Insgesamt,Prozent,12.1
 2019,Ausländerinnen und Ausländer,Insgesamt,Prozent,12.6
 2018,Ausländerinnen und Ausländer,Insgesamt,Prozent,11.5
@@ -69,6 +76,7 @@
 2013,Ausländerinnen und Ausländer,Insgesamt,Prozent,9.8
 2012,Ausländerinnen und Ausländer,Insgesamt,Prozent,10.2
 2011,Ausländerinnen und Ausländer,Insgesamt,Prozent,11.2
+2021,Ausländerinnen und Ausländer,Männer,Prozent,13.7
 2020,Ausländerinnen und Ausländer,Männer,Prozent,14.2
 2019,Ausländerinnen und Ausländer,Männer,Prozent,14.9
 2018,Ausländerinnen und Ausländer,Männer,Prozent,13.5
@@ -79,6 +87,7 @@
 2013,Ausländerinnen und Ausländer,Männer,Prozent,11.2
 2012,Ausländerinnen und Ausländer,Männer,Prozent,11.2
 2011,Ausländerinnen und Ausländer,Männer,Prozent,12.5
+2021,Ausländerinnen und Ausländer,Frauen,Prozent,9.5
 2020,Ausländerinnen und Ausländer,Frauen,Prozent,9.3
 2019,Ausländerinnen und Ausländer,Frauen,Prozent,9.2
 2018,Ausländerinnen und Ausländer,Frauen,Prozent,8.6
