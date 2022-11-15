@@ -249,7 +249,7 @@
             "constraints": {
               "enum": [
                 "Anzahl",
-                "Anzahl in 1000",
+                "Anteil",
                 ""
               ]
             }
