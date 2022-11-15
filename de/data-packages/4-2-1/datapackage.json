@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ohne Abschluss1)",
+                "Ohne Abschluss",
                 "Abgeschlossene Berufsausbildung",
                 "Tertiärer Abschluss",
                 ""
@@ -34,7 +34,7 @@
             "constraints": {
               "enum": [
                 "mit und ohne Migrationshintergrund",
-                "mit Migrationshintergrund3)",
+                "mit Migrationshintergrund",
                 "ohne Migrationshintergrund",
                 ""
               ]
