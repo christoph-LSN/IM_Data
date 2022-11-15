@@ -5068,20 +5068,20 @@
             "constraints": {
               "enum": [
                 "Niedersachsen",
-                "Braunschweig  Stadt",
-                "Salzgitter  Stadt",
-                "Wolfsburg  Stadt",
+                "Braunschweig, Stadt",
+                "Salzgitter, Stadt",
+                "Wolfsburg, Stadt",
                 "Gifhorn",
                 "Goslar",
                 "Helmstedt",
                 "Northeim",
                 "Peine",
-                "Göttingen",
                 "Wolfenbüttel",
+                "Göttingen",
                 "Statistische Region Braunschweig",
                 "Hannover  Region",
-                "dav. Hannover  Lhst.",
-                "dav. Hannover  Umland",
+                "dav. Hannover, Lhst.",
+                "dav. Hannover, Umland",
                 "Diepholz",
                 "Hameln-Pyrmont",
                 "Hildesheim",
@@ -5100,11 +5100,11 @@
                 "Stade",
                 "Verden",
                 "Statistische Region Lüneburg",
-                "Delmenhorst  Stadt",
-                "Emden  Stadt / Leer",
-                "Oldenburg(Oldb)  Stadt",
-                "Osnabrück  Stadt",
-                "Wilhelmshaven  Stadt",
+                "Delmenhorst, Stadt",
+                "Emden, Stadt / Leer",
+                "Oldenburg(Oldb), Stadt",
+                "Osnabrück, Stadt",
+                "Wilhelmshaven, Stadt",
                 "Ammerland",
                 "Aurich",
                 "Cloppenburg",
@@ -5122,7 +5122,7 @@
             "title": "Gebietseinheit"
           },
           {
-            "name": "Migrationshintergrund",
+            "name": "Kategorie",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5134,19 +5134,19 @@
                 ""
               ]
             },
-            "title": "Migrationshintergrund"
+            "title": "Kategorie"
           },
           {
-            "name": "Units",
+            "name": "Unit",
             "type": "string",
             "constraints": {
               "enum": [
-                "in 1000",
-                "%",
+                "Anzahl in 1000",
+                "Prozent",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "GeoCode",
