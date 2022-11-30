@@ -31,7 +31,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ohne Abschluss2)",
+                "Ohne Abschluss",
                 "Hauptschulabschluss",
                 "Realschulabschluss",
                 "(Fach-)Hochschulreife",
