@@ -785,12 +785,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Personen ohne Migrationshintergrund",
-                "Personen mit Migrationshintergrund im weiteren Sinne",
-                "Personen mit Migrationshintergrund im engeren Sinne",
                 "Anteil der Personen ohne Migrationshintergrund",
                 "Anteil der Personen mit Migrationshintergrund im weiteren Sinne",
                 "Anteil der Personen mit Migrationshintergrund im engeren Sinne",
+                "Personen ohne Migrationshintergrund",
+                "Personen mit Migrationshintergrund im weiteren Sinne",
+                "Personen mit Migrationshintergrund im engeren Sinne",
                 ""
               ]
             }
@@ -800,8 +800,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Anzahl in 1000",
                 "Prozent",
+                "Anzahl in 1000",
                 ""
               ]
             }
