@@ -469,478 +469,630 @@ Year,Gebietseinheit,Kategorie,Units,GeoCode,Value
 2011,Friesland / Wittmund,Personen ohne Migrationshintergrund,Anzahl in 1000,MZ03455462,146.12044
 2011,Statistische Region Weser-Ems,Personen ohne Migrationshintergrund,Anzahl in 1000,MZ034,2017.76782
 2011,Niedersachsen,Personen ohne Migrationshintergrund,Anzahl in 1000,MZ030,6510.69657
-2021,Niedersachsen,Personen mit Migrationshintergrund,Anzahl in 1000,MZ030,1891.0
-2020,Niedersachsen,Personen mit Migrationshintergrund,Anzahl in 1000,MZ030,1799.0
-2019,"Braunschweig, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03101,62.36482
-2019,"Salzgitter, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03102,36.72236
-2019,"Wolfsburg, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03103,46.56768
-2019,Gifhorn,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03151,46.88839
-2019,Goslar,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03153,25.4843
-2019,Helmstedt,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03154,13.90046
-2019,Northeim,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03155,21.09117
-2019,Peine,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03157,26.42578
-2019,Wolfenbüttel,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03158,18.30776
-2019,Göttingen,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03159,54.43419
-2019,Statistische Region Braunschweig,Personen mit Migrationshintergrund,Anzahl in 1000,MZ031,352.53535
-2019,Hannover  Region,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03241,346.7806
-2019,"dav. Hannover, Lhst.",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03241001,197.37775
-2019,"dav. Hannover, Umland",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03241999,149.40285
-2019,Diepholz,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03251,37.14606
-2019,Hameln-Pyrmont,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03252,39.07219
-2019,Hildesheim,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03254,61.91945
-2019,Holzminden,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03255,13.91911
-2019,Nienburg (Weser),Personen mit Migrationshintergrund,Anzahl in 1000,MZ03256,30.29179
-2019,Schaumburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03257,28.36062
-2019,Statistische Region Hannover,Personen mit Migrationshintergrund,Anzahl in 1000,MZ032,556.69266
-2019,Celle,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03351,33.37923
-2019,Cuxhaven,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03352,30.47187
-2019,Harburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03353,53.04256
-2019,Uelzen Lüchow-Dannenberg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03354360,21.92601
-2019,Lüneburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03355,29.80358
-2019,Osterholz,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03356,16.01835
-2019,Rotenburg (Wümme),Personen mit Migrationshintergrund,Anzahl in 1000,MZ03357,24.86361
-2019,Heidekreis,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03358,29.3229
-2019,Stade,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03359,35.83176
-2019,Uelzen Lüchow-Dannenberg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03354360,21.92601
-2019,Verden,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03361,26.8629
-2019,Statistische Region Lüneburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ033,301.74779
-2019,"Delmenhorst, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03401,26.00183
-2019,"Emden, Stadt / Leer",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03402457,37.41065
-2019,"Oldenburg(Oldb), Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03403,28.94584
-2019,"Osnabrück, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03404,47.3054
-2019,"Wilhelmshaven, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03405,17.80794
-2019,Ammerland,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03451,20.10713
-2019,Aurich,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03452,24.48144
-2019,Cloppenburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03453,50.47677
-2019,Emsland,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03454,72.54572
-2019,Friesland / Wittmund,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03455462,17.5186
-2019,Grafschaft Bentheim,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03456,37.20923
-2019,"Emden, Stadt / Leer",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03402457,37.41065
-2019,Oldenburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03458,20.54265
-2019,Osnabrück,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03459,81.74407
-2019,Vechta,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03460,48.48521
-2019,Wesermarsch,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03461,11.62348
-2019,Friesland / Wittmund,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03455462,17.5186
-2019,Statistische Region Weser-Ems,Personen mit Migrationshintergrund,Anzahl in 1000,MZ034,539.81588
-2019,Niedersachsen,Personen mit Migrationshintergrund,Anzahl in 1000,MZ030,1750.79168
-2018,"Braunschweig, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03101,63.27415
-2018,"Salzgitter, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03102,37.68602
-2018,"Wolfsburg, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03103,45.66506
-2018,Gifhorn,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03151,38.92538
-2018,Goslar,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03153,21.51194
-2018,Helmstedt,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03154,15.20644
-2018,Northeim,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03155,24.59981
-2018,Peine,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03157,24.01775
-2018,Wolfenbüttel,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03158,17.60101
-2018,Göttingen,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03159,57.75161
-2018,Statistische Region Braunschweig,Personen mit Migrationshintergrund,Anzahl in 1000,MZ031,345.22259
-2018,Hannover  Region,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03241,347.38739
-2018,"dav. Hannover, Lhst.",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03241001,201.94483
-2018,"dav. Hannover, Umland",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03241999,145.44256
-2018,Diepholz,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03251,36.39565
-2018,Hameln-Pyrmont,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03252,41.87969
-2018,Hildesheim,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03254,54.24444
-2018,Holzminden,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03255,13.38087
-2018,Nienburg (Weser),Personen mit Migrationshintergrund,Anzahl in 1000,MZ03256,25.14859
-2018,Schaumburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03257,27.58952
-2018,Statistische Region Hannover,Personen mit Migrationshintergrund,Anzahl in 1000,MZ032,545.52242
-2018,Celle,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03351,33.11025
-2018,Cuxhaven,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03352,30.62316
-2018,Harburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03353,48.71877
-2018,Uelzen Lüchow-Dannenberg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03354360,21.42178
-2018,Lüneburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03355,26.93889
-2018,Osterholz,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03356,12.62585
-2018,Rotenburg (Wümme),Personen mit Migrationshintergrund,Anzahl in 1000,MZ03357,30.12453
-2018,Heidekreis,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03358,24.34845
-2018,Stade,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03359,39.00583
-2018,Uelzen Lüchow-Dannenberg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03354360,21.42178
-2018,Verden,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03361,26.20966
-2018,Statistische Region Lüneburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ033,294.67346
-2018,"Delmenhorst, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03401,25.75488
-2018,"Emden, Stadt / Leer",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03402457,43.77778
-2018,"Oldenburg(Oldb), Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03403,27.57933
-2018,"Osnabrück, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03404,43.18066
-2018,"Wilhelmshaven, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03405,21.35114
-2018,Ammerland,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03451,18.57457
-2018,Aurich,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03452,22.52005
-2018,Cloppenburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03453,46.86422
-2018,Emsland,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03454,81.93662
-2018,Friesland / Wittmund,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03455462,12.67077
-2018,Grafschaft Bentheim,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03456,36.32393
-2018,"Emden, Stadt / Leer",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03402457,43.77778
-2018,Oldenburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03458,21.71953
-2018,Osnabrück,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03459,79.60064
-2018,Vechta,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03460,45.16792
-2018,Wesermarsch,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03461,13.42287
-2018,Friesland / Wittmund,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03455462,12.67077
-2018,Statistische Region Weser-Ems,Personen mit Migrationshintergrund,Anzahl in 1000,MZ034,540.68801
-2018,Niedersachsen,Personen mit Migrationshintergrund,Anzahl in 1000,MZ030,1726.10649
-2017,"Braunschweig, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03101,66.10825
-2017,"Salzgitter, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03102,37.24206
-2017,"Wolfsburg, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03103,43.64223
-2017,Gifhorn,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03151,33.94023
-2017,Goslar,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03153,21.79051
-2017,Helmstedt,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03154,13.95116
-2017,Northeim,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03155,26.9897
-2017,Peine,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03157,24.17009
-2017,Wolfenbüttel,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03158,17.63517
-2017,Göttingen,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03159,62.59489
-2017,Statistische Region Braunschweig,Personen mit Migrationshintergrund,Anzahl in 1000,MZ031,347.7462
-2017,Hannover  Region,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03241,347.27435
-2017,"dav. Hannover, Lhst.",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03241001,193.86465
-2017,"dav. Hannover, Umland",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03241999,153.4097
-2017,Diepholz,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03251,34.19372
-2017,Hameln-Pyrmont,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03252,43.38786
-2017,Hildesheim,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03254,58.2892
-2017,Holzminden,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03255,12.27708
-2017,Nienburg (Weser),Personen mit Migrationshintergrund,Anzahl in 1000,MZ03256,27.43494
-2017,Schaumburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03257,27.81392
-2017,Statistische Region Hannover,Personen mit Migrationshintergrund,Anzahl in 1000,MZ032,551.502
-2017,Celle,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03351,35.93883
-2017,Cuxhaven,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03352,29.6116
-2017,Harburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03353,47.92514
-2017,Uelzen Lüchow-Dannenberg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03354360,18.3564
-2017,Lüneburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03355,32.56246
-2017,Osterholz,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03356,20.56789
-2017,Rotenburg (Wümme),Personen mit Migrationshintergrund,Anzahl in 1000,MZ03357,30.23462
-2017,Heidekreis,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03358,23.18446
-2017,Stade,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03359,40.44228
-2017,Uelzen Lüchow-Dannenberg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03354360,18.3564
-2017,Verden,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03361,24.89591
-2017,Statistische Region Lüneburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ033,304.67522
-2017,"Delmenhorst, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03401,28.40343
-2017,"Emden, Stadt / Leer",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03402457,39.48873
-2017,"Oldenburg(Oldb), Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03403,31.96397
-2017,"Osnabrück, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03404,46.20196
-2017,"Wilhelmshaven, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03405,15.13214
-2017,Ammerland,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03451,13.89285
-2017,Aurich,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03452,19.87008
-2017,Cloppenburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03453,47.93544
-2017,Emsland,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03454,72.26141
-2017,Friesland / Wittmund,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03455462,14.52326
-2017,Grafschaft Bentheim,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03456,32.55867
-2017,"Emden, Stadt / Leer",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03402457,39.48873
-2017,Oldenburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03458,20.86394
-2017,Osnabrück,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03459,85.43944
-2017,Vechta,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03460,45.65612
-2017,Wesermarsch,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03461,14.33998
-2017,Friesland / Wittmund,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03455462,14.52326
-2017,Statistische Region Weser-Ems,Personen mit Migrationshintergrund,Anzahl in 1000,MZ034,529.49161
-2017,Niedersachsen,Personen mit Migrationshintergrund,Anzahl in 1000,MZ030,1733.41503
-2016,"Braunschweig, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03101,61.75933
-2016,"Salzgitter, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03102,27.63958
-2016,"Wolfsburg, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03103,40.9993
-2016,Gifhorn,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03151,38.35051
-2016,Goslar,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03153,18.23078
-2016,Helmstedt,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03154,10.11742
-2016,Northeim,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03155,27.91705
-2016,Peine,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03157,21.4734
-2016,Wolfenbüttel,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03158,14.76996
-2016,Göttingen,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03159,61.73582
-2016,Statistische Region Braunschweig,Personen mit Migrationshintergrund,Anzahl in 1000,MZ031,322.99793
-2016,Hannover  Region,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03241,316.31782
-2016,"dav. Hannover, Lhst.",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03241001,176.09863
-2016,"dav. Hannover, Umland",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03241999,140.21918
-2016,Diepholz,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03251,31.74404
-2016,Hameln-Pyrmont,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03252,32.70718
-2016,Hildesheim,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03254,43.89627
-2016,Holzminden,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03255,11.83861
-2016,Nienburg (Weser),Personen mit Migrationshintergrund,Anzahl in 1000,MZ03256,22.89634
-2016,Schaumburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03257,22.6906
-2016,Statistische Region Hannover,Personen mit Migrationshintergrund,Anzahl in 1000,MZ032,483.19781
-2016,Celle,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03351,37.3022
-2016,Cuxhaven,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03352,25.90649
-2016,Harburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03353,36.26076
-2016,Uelzen Lüchow-Dannenberg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03354360,15.57905
-2016,Lüneburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03355,26.07505
-2016,Osterholz,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03356,19.53702
-2016,Rotenburg (Wümme),Personen mit Migrationshintergrund,Anzahl in 1000,MZ03357,26.83296
-2016,Heidekreis,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03358,19.98742
-2016,Stade,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03359,29.78303
-2016,Uelzen Lüchow-Dannenberg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03354360,15.57905
-2016,Verden,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03361,28.52718
-2016,Statistische Region Lüneburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ033,266.92948
-2016,"Delmenhorst, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03401,25.83493
-2016,"Emden, Stadt / Leer",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03402457,27.39312
-2016,"Oldenburg(Oldb), Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03403,28.49755
-2016,"Osnabrück, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03404,43.79176
-2016,"Wilhelmshaven, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03405,10.41426
-2016,Ammerland,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03451,11.40943
-2016,Aurich,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03452,15.58726
-2016,Cloppenburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03453,45.02852
-2016,Emsland,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03454,73.86484
-2016,Friesland / Wittmund,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03455462,13.89179
-2016,Grafschaft Bentheim,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03456,33.20023
-2016,"Emden, Stadt / Leer",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03402457,27.39312
-2016,Oldenburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03458,15.74708
-2016,Osnabrück,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03459,85.71599
-2016,Vechta,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03460,38.31061
-2016,Wesermarsch,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03461,13.26644
-2016,Friesland / Wittmund,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03455462,13.89179
-2016,Statistische Region Weser-Ems,Personen mit Migrationshintergrund,Anzahl in 1000,MZ034,484.05073
-2016,Niedersachsen,Personen mit Migrationshintergrund,Anzahl in 1000,MZ030,1557.17594
-2015,"Braunschweig, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03101,54.45161
-2015,"Salzgitter, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03102,29.00591
-2015,"Wolfsburg, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03103,38.40331
-2015,Gifhorn,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03151,35.96837
-2015,Goslar,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03153,14.78906
-2015,Helmstedt,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03154,13.71383
-2015,Northeim,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03155,14.83799
-2015,Peine,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03157,23.14801
-2015,Wolfenbüttel,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03158,17.93333
-2015,Göttingen,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03159,41.2194
-2015,Statistische Region Braunschweig,Personen mit Migrationshintergrund,Anzahl in 1000,MZ031,284.63179
-2015,Hannover  Region,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03241,289.58446
-2015,"dav. Hannover, Lhst.",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03241001,166.56791
-2015,"dav. Hannover, Umland",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03241999,123.01655
-2015,Diepholz,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03251,30.20033
-2015,Hameln-Pyrmont,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03252,20.9137
-2015,Hildesheim,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03254,47.25865
-2015,Holzminden,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03255,5.87031
-2015,Nienburg (Weser),Personen mit Migrationshintergrund,Anzahl in 1000,MZ03256,20.5861
-2015,Schaumburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03257,21.82918
-2015,Statistische Region Hannover,Personen mit Migrationshintergrund,Anzahl in 1000,MZ032,438.37086
-2015,Celle,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03351,32.47029
-2015,Cuxhaven,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03352,18.23606
-2015,Harburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03353,33.8361
-2015,Uelzen Lüchow-Dannenberg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03354360,15.40725
-2015,Lüneburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03355,26.95624
-2015,Osterholz,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03356,11.46009
-2015,Rotenburg (Wümme),Personen mit Migrationshintergrund,Anzahl in 1000,MZ03357,17.89336
-2015,Heidekreis,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03358,22.10636
-2015,Stade,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03359,31.05651
-2015,Uelzen Lüchow-Dannenberg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03354360,15.40725
-2015,Verden,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03361,25.75922
-2015,Statistische Region Lüneburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ033,237.37919
-2015,"Delmenhorst, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03401,22.71301
-2015,"Emden, Stadt / Leer",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03402457,32.56322
-2015,"Oldenburg(Oldb), Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03403,24.09589
-2015,"Osnabrück, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03404,40.82912
-2015,"Wilhelmshaven, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03405,12.70182
-2015,Ammerland,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03451,10.53096
-2015,Aurich,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03452,19.20241
-2015,Cloppenburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03453,46.55651
-2015,Emsland,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03454,52.75863
-2015,Friesland / Wittmund,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03455462,12.90919
-2015,Grafschaft Bentheim,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03456,30.95782
-2015,"Emden, Stadt / Leer",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03402457,32.56322
-2015,Oldenburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03458,14.99784
-2015,Osnabrück,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03459,73.1637
-2015,Vechta,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03460,29.55526
-2015,Wesermarsch,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03461,11.52519
-2015,Friesland / Wittmund,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03455462,12.90919
-2015,Statistische Region Weser-Ems,Personen mit Migrationshintergrund,Anzahl in 1000,MZ034,439.81787
-2015,Niedersachsen,Personen mit Migrationshintergrund,Anzahl in 1000,MZ030,1400.19971
-2014,"Braunschweig, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03101,47.2664
-2014,"Salzgitter, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03102,26.8586
-2014,"Wolfsburg, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03103,41.08914
-2014,Gifhorn,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03151,33.65891
-2014,Goslar,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03153,14.78505
-2014,Helmstedt,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03154,16.74459
-2014,Northeim,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03155,14.0119
-2014,Peine,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03157,23.87788
-2014,Wolfenbüttel,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03158,18.32977
-2014,Göttingen,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03159,37.017
-2014,Statistische Region Braunschweig,Personen mit Migrationshintergrund,Anzahl in 1000,MZ031,274.3158
-2014,Hannover  Region,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03241,271.77091
-2014,"dav. Hannover, Lhst.",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03241001,154.73429
-2014,"dav. Hannover, Umland",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03241999,117.03662
-2014,Diepholz,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03251,31.31726
-2014,Hameln-Pyrmont,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03252,26.61773
-2014,Hildesheim,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03254,47.06277
-2014,Holzminden,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03255,5.05667
-2014,Nienburg (Weser),Personen mit Migrationshintergrund,Anzahl in 1000,MZ03256,21.17203
-2014,Schaumburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03257,23.51589
-2014,Statistische Region Hannover,Personen mit Migrationshintergrund,Anzahl in 1000,MZ032,426.32176
-2014,Celle,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03351,30.63089
-2014,Cuxhaven,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03352,22.93254
-2014,Harburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03353,32.59994
-2014,Uelzen Lüchow-Dannenberg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03354360,14.08167
-2014,Lüneburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03355,23.33972
-2014,Osterholz,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03356,8.59594
-2014,Rotenburg (Wümme),Personen mit Migrationshintergrund,Anzahl in 1000,MZ03357,17.79003
-2014,Heidekreis,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03358,23.41111
-2014,Stade,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03359,26.52319
-2014,Uelzen Lüchow-Dannenberg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03354360,14.08167
-2014,Verden,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03361,26.4052
-2014,Statistische Region Lüneburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ033,228.91856
-2014,"Delmenhorst, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03401,20.21438
-2014,"Emden, Stadt / Leer",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03402457,27.15152
-2014,"Oldenburg(Oldb), Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03403,23.1772
-2014,"Osnabrück, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03404,44.70676
-2014,"Wilhelmshaven, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03405,12.31533
-2014,Ammerland,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03451,10.71844
-2014,Aurich,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03452,13.61581
-2014,Cloppenburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03453,49.5596
-2014,Emsland,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03454,54.25589
-2014,Friesland / Wittmund,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03455462,9.41654
-2014,Grafschaft Bentheim,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03456,30.74827
-2014,"Emden, Stadt / Leer",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03402457,27.15152
-2014,Oldenburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03458,15.43692
-2014,Osnabrück,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03459,74.16204
-2014,Vechta,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03460,28.30904
-2014,Wesermarsch,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03461,11.19896
-2014,Friesland / Wittmund,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03455462,9.41654
-2014,Statistische Region Weser-Ems,Personen mit Migrationshintergrund,Anzahl in 1000,MZ034,427.75835
-2014,Niedersachsen,Personen mit Migrationshintergrund,Anzahl in 1000,MZ030,1357.31448
-2013,"Braunschweig, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03101,51.91281
-2013,"Salzgitter, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03102,27.23388
-2013,"Wolfsburg, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03103,45.50703
-2013,Gifhorn,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03151,40.38023
-2013,Goslar,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03153,17.54649
-2013,Helmstedt,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03154,13.09151
-2013,Northeim,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03155,13.06749
-2013,Peine,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03157,20.89781
-2013,Wolfenbüttel,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03158,18.17069
-2013,Göttingen,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03159,41.76973
-2013,Statistische Region Braunschweig,Personen mit Migrationshintergrund,Anzahl in 1000,MZ031,289.52118
-2013,Hannover  Region,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03241,284.68996
-2013,"dav. Hannover, Lhst.",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03241001,168.46231
-2013,"dav. Hannover, Umland",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03241999,116.22766
-2013,Diepholz,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03251,27.94921
-2013,Hameln-Pyrmont,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03252,30.22519
-2013,Hildesheim,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03254,49.91338
-2013,Holzminden,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03255,6.12559
-2013,Nienburg (Weser),Personen mit Migrationshintergrund,Anzahl in 1000,MZ03256,19.20394
-2013,Schaumburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03257,21.28935
-2013,Statistische Region Hannover,Personen mit Migrationshintergrund,Anzahl in 1000,MZ032,439.97254
-2013,Celle,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03351,31.21013
-2013,Cuxhaven,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03352,27.04129
-2013,Harburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03353,33.63625
-2013,Uelzen Lüchow-Dannenberg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03354360,14.24801
-2013,Lüneburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03355,22.53553
-2013,Osterholz,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03356,8.18622
-2013,Rotenburg (Wümme),Personen mit Migrationshintergrund,Anzahl in 1000,MZ03357,17.40943
-2013,Heidekreis,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03358,25.43667
-2013,Stade,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03359,21.28954
-2013,Uelzen Lüchow-Dannenberg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03354360,14.24801
-2013,Verden,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03361,28.99674
-2013,Statistische Region Lüneburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ033,231.70728
-2013,"Delmenhorst, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03401,18.50535
-2013,"Emden, Stadt / Leer",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03402457,32.04604
-2013,"Oldenburg(Oldb), Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03403,24.92853
-2013,"Osnabrück, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03404,49.17744
-2013,"Wilhelmshaven, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03405,12.58752
-2013,Ammerland,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03451,8.12744
-2013,Aurich,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03452,17.66471
-2013,Cloppenburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03453,43.22701
-2013,Emsland,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03454,55.39239
-2013,Friesland / Wittmund,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03455462,10.39762
-2013,Grafschaft Bentheim,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03456,30.60595
-2013,"Emden, Stadt / Leer",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03402457,32.04604
-2013,Oldenburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03458,14.66025
-2013,Osnabrück,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03459,78.64312
-2013,Vechta,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03460,28.4216
-2013,Wesermarsch,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03461,12.64809
-2013,Friesland / Wittmund,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03455462,10.39762
-2013,Statistische Region Weser-Ems,Personen mit Migrationshintergrund,Anzahl in 1000,MZ034,440.89666
-2013,Niedersachsen,Personen mit Migrationshintergrund,Anzahl in 1000,MZ030,1402.09767
-2012,"Braunschweig, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03101,50.2876
-2012,"Salzgitter, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03102,25.00992
-2012,"Wolfsburg, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03103,43.64544
-2012,Gifhorn,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03151,36.49545
-2012,Goslar,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03153,14.09357
-2012,Helmstedt,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03154,8.93737
-2012,Northeim,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03155,12.09832
-2012,Peine,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03157,18.93685
-2012,Göttingen,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03159,39.63169
-2012,Wolfenbüttel,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03158,16.41732
-2012,Statistische Region Braunschweig,Personen mit Migrationshintergrund,Anzahl in 1000,MZ031,265.83353
-2012,Hannover  Region,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03241,257.72709
-2012,"dav. Hannover, Lhst.",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03241001,146.50986
-2012,"dav. Hannover, Umland",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03241999,111.21722
-2012,Diepholz,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03251,27.85805
-2012,Hameln-Pyrmont,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03252,26.08873
-2012,Hildesheim,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03254,44.15278
-2012,Holzminden,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03255,6.8272
-2012,Nienburg (Weser),Personen mit Migrationshintergrund,Anzahl in 1000,MZ03256,20.68097
-2012,Schaumburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03257,20.03727
-2012,Statistische Region Hannover,Personen mit Migrationshintergrund,Anzahl in 1000,MZ032,403.18734
-2012,Celle,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03351,22.94506
-2012,Cuxhaven,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03352,22.68248
-2012,Harburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03353,30.05678
-2012,Uelzen Lüchow-Dannenberg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03354360,14.56842
-2012,Lüneburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03355,19.33008
-2012,Osterholz,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03356,6.22567
-2012,Rotenburg (Wümme),Personen mit Migrationshintergrund,Anzahl in 1000,MZ03357,24.10751
-2012,Heidekreis,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03358,23.62532
-2012,Stade,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03359,19.47057
-2012,Uelzen Lüchow-Dannenberg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03354360,14.56842
-2012,Verden,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03361,22.91808
-2012,Statistische Region Lüneburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ033,206.3002
-2012,"Delmenhorst, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03401,18.30759
-2012,"Emden, Stadt / Leer",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03402457,21.55892
-2012,"Oldenburg(Oldb), Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03403,25.40946
-2012,"Osnabrück, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03404,43.61078
-2012,"Wilhelmshaven, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03405,10.8871
-2012,Ammerland,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03451,13.86233
-2012,Aurich,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03452,15.80852
-2012,Cloppenburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03453,41.33671
-2012,Emsland,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03454,58.08312
-2012,Friesland / Wittmund,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03455462,8.77247
-2012,Grafschaft Bentheim,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03456,30.1586
-2012,"Emden, Stadt / Leer",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03402457,21.55892
-2012,Oldenburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03458,12.33457
-2012,Osnabrück,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03459,76.13404
-2012,Vechta,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03460,30.26804
-2012,Wesermarsch,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03461,13.60336
-2012,Friesland / Wittmund,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03455462,8.77247
-2012,Statistische Region Weser-Ems,Personen mit Migrationshintergrund,Anzahl in 1000,MZ034,423.41224
-2012,Niedersachsen,Personen mit Migrationshintergrund,Anzahl in 1000,MZ030,1298.73331
-2011,"Braunschweig, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03101,48.06537
-2011,"Salzgitter, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03102,22.4907
-2011,"Wolfsburg, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03103,36.45398
-2011,Gifhorn,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03151,33.27332
-2011,Goslar,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03153,16.52486
-2011,Helmstedt,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03154,8.18222
-2011,Northeim,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03155,12.92301
-2011,Peine,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03157,20.14405
-2011,Wolfenbüttel,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03158,16.88938
-2011,Göttingen,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03159,42.14068
-2011,Statistische Region Braunschweig,Personen mit Migrationshintergrund,Anzahl in 1000,MZ031,256.08241
-2011,Hannover  Region,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03241,250.0131
-2011,"dav. Hannover, Lhst.",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03241001,144.18867
-2011,"dav. Hannover, Umland",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03241999,105.82443
-2011,Diepholz,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03251,26.78928
-2011,Hameln-Pyrmont,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03252,21.06271
-2011,Hildesheim,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03254,44.48978
-2011,Holzminden,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03255,6.88247
-2011,Nienburg (Weser),Personen mit Migrationshintergrund,Anzahl in 1000,MZ03256,21.01719
-2011,Schaumburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03257,25.82419
-2011,Statistische Region Hannover,Personen mit Migrationshintergrund,Anzahl in 1000,MZ032,396.81213
-2011,Celle,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03351,24.4201
-2011,Cuxhaven,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03352,23.26641
-2011,Harburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03353,26.12388
-2011,Uelzen Lüchow-Dannenberg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03354360,17.39901
-2011,Lüneburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03355,15.72176
-2011,Osterholz,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03356,6.11286
-2011,Rotenburg (Wümme),Personen mit Migrationshintergrund,Anzahl in 1000,MZ03357,19.94025
-2011,Heidekreis,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03358,17.58153
-2011,Stade,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03359,21.63713
-2011,Uelzen Lüchow-Dannenberg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03354360,17.39901
-2011,Verden,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03361,21.84389
-2011,Statistische Region Lüneburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ033,194.26632
-2011,"Delmenhorst, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03401,17.63921
-2011,"Emden, Stadt / Leer",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03402457,25.49137
-2011,"Oldenburg(Oldb), Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03403,25.36076
-2011,"Osnabrück, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03404,38.471
-2011,"Wilhelmshaven, Stadt",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03405,9.62729
-2011,Ammerland,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03451,15.9288
-2011,Aurich,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03452,13.26024
-2011,Cloppenburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03453,40.10468
-2011,Emsland,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03454,61.7558
-2011,Friesland / Wittmund,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03455462,8.79809
-2011,Grafschaft Bentheim,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03456,29.97746
-2011,"Emden, Stadt / Leer",Personen mit Migrationshintergrund,Anzahl in 1000,MZ03402457,25.49137
-2011,Oldenburg,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03458,11.13813
-2011,Osnabrück,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03459,72.36653
-2011,Vechta,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03460,33.7174
-2011,Wesermarsch,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03461,13.4634
-2011,Friesland / Wittmund,Personen mit Migrationshintergrund,Anzahl in 1000,MZ03455462,8.79809
-2011,Statistische Region Weser-Ems,Personen mit Migrationshintergrund,Anzahl in 1000,MZ034,420.4411
-2011,Niedersachsen,Personen mit Migrationshintergrund,Anzahl in 1000,MZ030,1267.60197
-2021,Niedersachsen,Anteil der Personen ohne Migrationshintergrund,Prozent,MZ030,76.0995955510617
-2020,Niedersachsen,Anteil der Personen ohne Migrationshintergrund,Prozent,MZ030,77.2191971634798
+2019,"Braunschweig, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03101,62.36482
+2019,"Salzgitter, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03102,36.72236
+2019,"Wolfsburg, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03103,46.56768
+2019,Gifhorn,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03151,46.88839
+2019,Goslar,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03153,25.4843
+2019,Helmstedt,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03154,13.90046
+2019,Northeim,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03155,21.09117
+2019,Peine,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03157,26.42578
+2019,Wolfenbüttel,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03158,18.30776
+2019,Göttingen,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03159,54.43419
+2019,Statistische Region Braunschweig,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ031,352.53535
+2019,Hannover  Region,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03241,346.7806
+2019,"dav. Hannover, Lhst.",Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03241001,197.37775
+2019,"dav. Hannover, Umland",Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03241999,149.40285
+2019,Diepholz,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03251,37.14606
+2019,Hameln-Pyrmont,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03252,39.07219
+2019,Hildesheim,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03254,61.91945
+2019,Holzminden,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03255,13.91911
+2019,Nienburg (Weser),Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03256,30.29179
+2019,Schaumburg,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03257,28.36062
+2019,Statistische Region Hannover,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ032,556.69266
+2019,Celle,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03351,33.37923
+2019,Cuxhaven,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03352,30.47187
+2019,Harburg,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03353,53.04256
+2019,Uelzen Lüchow-Dannenberg,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03354360,21.92601
+2019,Lüneburg,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03355,29.80358
+2019,Osterholz,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03356,16.01835
+2019,Rotenburg (Wümme),Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03357,24.86361
+2019,Heidekreis,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03358,29.3229
+2019,Stade,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03359,35.83176
+2019,Uelzen Lüchow-Dannenberg,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03354360,21.92601
+2019,Verden,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03361,26.8629
+2019,Statistische Region Lüneburg,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ033,301.74779
+2019,"Delmenhorst, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03401,26.00183
+2019,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03402457,37.41065
+2019,"Oldenburg(Oldb), Stadt",Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03403,28.94584
+2019,"Osnabrück, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03404,47.3054
+2019,"Wilhelmshaven, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03405,17.80794
+2019,Ammerland,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03451,20.10713
+2019,Aurich,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03452,24.48144
+2019,Cloppenburg,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03453,50.47677
+2019,Emsland,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03454,72.54572
+2019,Friesland / Wittmund,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03455462,17.5186
+2019,Grafschaft Bentheim,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03456,37.20923
+2019,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03402457,37.41065
+2019,Oldenburg,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03458,20.54265
+2019,Osnabrück,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03459,81.74407
+2019,Vechta,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03460,48.48521
+2019,Wesermarsch,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03461,11.62348
+2019,Friesland / Wittmund,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03455462,17.5186
+2019,Statistische Region Weser-Ems,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ034,539.81588
+2019,Niedersachsen,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ030,1750.79168
+2018,"Braunschweig, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03101,63.27415
+2018,"Salzgitter, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03102,37.68602
+2018,"Wolfsburg, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03103,45.66506
+2018,Gifhorn,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03151,38.92538
+2018,Goslar,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03153,21.51194
+2018,Helmstedt,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03154,15.20644
+2018,Northeim,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03155,24.59981
+2018,Peine,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03157,24.01775
+2018,Wolfenbüttel,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03158,17.60101
+2018,Göttingen,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03159,57.75161
+2018,Statistische Region Braunschweig,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ031,345.22259
+2018,Hannover  Region,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03241,347.38739
+2018,"dav. Hannover, Lhst.",Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03241001,201.94483
+2018,"dav. Hannover, Umland",Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03241999,145.44256
+2018,Diepholz,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03251,36.39565
+2018,Hameln-Pyrmont,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03252,41.87969
+2018,Hildesheim,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03254,54.24444
+2018,Holzminden,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03255,13.38087
+2018,Nienburg (Weser),Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03256,25.14859
+2018,Schaumburg,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03257,27.58952
+2018,Statistische Region Hannover,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ032,545.52242
+2018,Celle,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03351,33.11025
+2018,Cuxhaven,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03352,30.62316
+2018,Harburg,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03353,48.71877
+2018,Uelzen Lüchow-Dannenberg,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03354360,21.42178
+2018,Lüneburg,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03355,26.93889
+2018,Osterholz,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03356,12.62585
+2018,Rotenburg (Wümme),Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03357,30.12453
+2018,Heidekreis,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03358,24.34845
+2018,Stade,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03359,39.00583
+2018,Uelzen Lüchow-Dannenberg,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03354360,21.42178
+2018,Verden,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03361,26.20966
+2018,Statistische Region Lüneburg,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ033,294.67346
+2018,"Delmenhorst, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03401,25.75488
+2018,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03402457,43.77778
+2018,"Oldenburg(Oldb), Stadt",Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03403,27.57933
+2018,"Osnabrück, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03404,43.18066
+2018,"Wilhelmshaven, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03405,21.35114
+2018,Ammerland,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03451,18.57457
+2018,Aurich,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03452,22.52005
+2018,Cloppenburg,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03453,46.86422
+2018,Emsland,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03454,81.93662
+2018,Friesland / Wittmund,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03455462,12.67077
+2018,Grafschaft Bentheim,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03456,36.32393
+2018,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03402457,43.77778
+2018,Oldenburg,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03458,21.71953
+2018,Osnabrück,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03459,79.60064
+2018,Vechta,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03460,45.16792
+2018,Wesermarsch,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03461,13.42287
+2018,Friesland / Wittmund,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03455462,12.67077
+2018,Statistische Region Weser-Ems,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ034,540.68801
+2018,Niedersachsen,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ030,1726.10649
+2017,"Braunschweig, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03101,66.10825
+2017,"Salzgitter, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03102,37.24206
+2017,"Wolfsburg, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03103,43.64223
+2017,Gifhorn,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03151,33.94023
+2017,Goslar,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03153,21.79051
+2017,Helmstedt,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03154,13.95116
+2017,Northeim,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03155,26.9897
+2017,Peine,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03157,24.17009
+2017,Wolfenbüttel,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03158,17.63517
+2017,Göttingen,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03159,62.59489
+2017,Statistische Region Braunschweig,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ031,347.7462
+2017,Hannover  Region,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03241,347.27435
+2017,"dav. Hannover, Lhst.",Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03241001,193.86465
+2017,"dav. Hannover, Umland",Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03241999,153.4097
+2017,Diepholz,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03251,34.19372
+2017,Hameln-Pyrmont,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03252,43.38786
+2017,Hildesheim,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03254,58.2892
+2017,Holzminden,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03255,12.27708
+2017,Nienburg (Weser),Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03256,27.43494
+2017,Schaumburg,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03257,27.81392
+2017,Statistische Region Hannover,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ032,551.502
+2017,Celle,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03351,35.93883
+2017,Cuxhaven,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03352,29.6116
+2017,Harburg,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03353,47.92514
+2017,Uelzen Lüchow-Dannenberg,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03354360,18.3564
+2017,Lüneburg,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03355,32.56246
+2017,Osterholz,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03356,20.56789
+2017,Rotenburg (Wümme),Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03357,30.23462
+2017,Heidekreis,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03358,23.18446
+2017,Stade,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03359,40.44228
+2017,Uelzen Lüchow-Dannenberg,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03354360,18.3564
+2017,Verden,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03361,24.89591
+2017,Statistische Region Lüneburg,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ033,304.67522
+2017,"Delmenhorst, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03401,28.40343
+2017,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03402457,39.48873
+2017,"Oldenburg(Oldb), Stadt",Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03403,31.96397
+2017,"Osnabrück, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03404,46.20196
+2017,"Wilhelmshaven, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03405,15.13214
+2017,Ammerland,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03451,13.89285
+2017,Aurich,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03452,19.87008
+2017,Cloppenburg,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03453,47.93544
+2017,Emsland,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03454,72.26141
+2017,Friesland / Wittmund,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03455462,14.52326
+2017,Grafschaft Bentheim,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03456,32.55867
+2017,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03402457,39.48873
+2017,Oldenburg,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03458,20.86394
+2017,Osnabrück,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03459,85.43944
+2017,Vechta,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03460,45.65612
+2017,Wesermarsch,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03461,14.33998
+2017,Friesland / Wittmund,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ03455462,14.52326
+2017,Statistische Region Weser-Ems,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ034,529.49161
+2017,Niedersachsen,Personen mit Migrationshintergrund im weiteren Sinne,Anzahl in 1000,MZ030,1733.41503
+2019,"Braunschweig, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03101,57.17082
+2019,"Salzgitter, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03102,34.67568
+2019,"Wolfsburg, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03103,44.09551
+2019,Gifhorn,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03151,44.13412
+2019,Goslar,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03153,23.53572
+2019,Helmstedt,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03154,11.88795
+2019,Northeim,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03155,18.96921
+2019,Peine,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03157,24.48597
+2019,Wolfenbüttel,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03158,16.54656
+2019,Göttingen,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03159,49.8045
+2019,Statistische Region Braunschweig,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ031,325.48179
+2019,Hannover  Region,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03241,325.60994
+2019,"dav. Hannover, Lhst.",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03241001,184.64704
+2019,"dav. Hannover, Umland",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03241999,140.9629
+2019,Diepholz,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03251,35.43739
+2019,Hameln-Pyrmont,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03252,38.05399
+2019,Hildesheim,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03254,57.25829
+2019,Holzminden,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03255,13.21729
+2019,Nienburg (Weser),Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03256,29.35213
+2019,Schaumburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03257,26.81843
+2019,Statistische Region Hannover,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ032,524.59911
+2019,Celle,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03351,30.74481
+2019,Cuxhaven,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03352,28.68828
+2019,Harburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03353,49.41373
+2019,Uelzen Lüchow-Dannenberg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03354360,20.7905
+2019,Lüneburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03355,27.01285
+2019,Osterholz,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03356,14.15041
+2019,Rotenburg (Wümme),Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03357,22.77076
+2019,Heidekreis,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03358,27.98011
+2019,Stade,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03359,33.58858
+2019,Uelzen Lüchow-Dannenberg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03354360,20.7905
+2019,Verden,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03361,25.59826
+2019,Statistische Region Lüneburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ033,281.0178
+2019,"Delmenhorst, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03401,24.83264
+2019,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03402457,36.06063
+2019,"Oldenburg(Oldb), Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03403,26.36265
+2019,"Osnabrück, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03404,44.74136
+2019,"Wilhelmshaven, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03405,17.35276
+2019,Ammerland,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03451,19.2391
+2019,Aurich,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03452,23.42066
+2019,Cloppenburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03453,48.99836
+2019,Emsland,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03454,70.67972
+2019,Friesland / Wittmund,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03455462,16.58589
+2019,Grafschaft Bentheim,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03456,36.10439
+2019,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03402457,36.06063
+2019,Oldenburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03458,18.92974
+2019,Osnabrück,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03459,78.21241
+2019,Vechta,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03460,47.36171
+2019,Wesermarsch,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03461,10.25379
+2019,Friesland / Wittmund,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03455462,16.58589
+2019,Statistische Region Weser-Ems,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ034,516.7748
+2019,Niedersachsen,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ030,1647.87351
+2018,"Braunschweig, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03101,58.72667
+2018,"Salzgitter, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03102,35.60112
+2018,"Wolfsburg, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03103,43.34667
+2018,Gifhorn,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03151,37.34589
+2018,Goslar,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03153,20.15341
+2018,Helmstedt,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03154,13.55657
+2018,Northeim,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03155,23.46505
+2018,Peine,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03157,21.86091
+2018,Wolfenbüttel,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03158,16.10238
+2018,Göttingen,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03159,53.8817
+2018,Statistische Region Braunschweig,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ031,322.89309
+2018,Hannover  Region,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03241,329.26619
+2018,"dav. Hannover, Lhst.",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03241001,190.67474
+2018,"dav. Hannover, Umland",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03241999,138.59145
+2018,Diepholz,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03251,35.10079
+2018,Hameln-Pyrmont,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03252,40.89998
+2018,Hildesheim,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03254,50.7784
+2018,Holzminden,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03255,13.07455
+2018,Nienburg (Weser),Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03256,24.80513
+2018,Schaumburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03257,26.32269
+2018,Statistische Region Hannover,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ032,519.73156
+2018,Celle,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03351,31.57842
+2018,Cuxhaven,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03352,28.35066
+2018,Harburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03353,45.75054
+2018,Uelzen Lüchow-Dannenberg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03354360,19.59902
+2018,Lüneburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03355,25.31758
+2018,Osterholz,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03356,10.43099
+2018,Rotenburg (Wümme),Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03357,28.1309
+2018,Heidekreis,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03358,23.27045
+2018,Stade,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03359,37.3559
+2018,Uelzen Lüchow-Dannenberg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03354360,19.59902
+2018,Verden,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03361,25.09779
+2018,Statistische Region Lüneburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ033,276.31499
+2018,"Delmenhorst, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03401,24.89785
+2018,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03402457,42.28335
+2018,"Oldenburg(Oldb), Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03403,25.70956
+2018,"Osnabrück, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03404,40.08401
+2018,"Wilhelmshaven, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03405,20.87847
+2018,Ammerland,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03451,17.38904
+2018,Aurich,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03452,20.91772
+2018,Cloppenburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03453,45.77925
+2018,Emsland,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03454,80.4208
+2018,Friesland / Wittmund,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03455462,10.99059
+2018,Grafschaft Bentheim,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03456,35.59601
+2018,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03402457,42.28335
+2018,Oldenburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03458,19.56868
+2018,Osnabrück,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03459,76.2357
+2018,Vechta,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03460,44.18283
+2018,Wesermarsch,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03461,12.38762
+2018,Friesland / Wittmund,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03455462,10.99059
+2018,Statistische Region Weser-Ems,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ034,517.71374
+2018,Niedersachsen,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ030,1636.65338
+2017,"Braunschweig, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03101,62.3227
+2017,"Salzgitter, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03102,35.8422
+2017,"Wolfsburg, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03103,41.51329
+2017,Gifhorn,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03151,32.21343
+2017,Goslar,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03153,20.11832
+2017,Helmstedt,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03154,12.70752
+2017,Northeim,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03155,25.65249
+2017,Peine,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03157,22.89956
+2017,Wolfenbüttel,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03158,16.31132
+2017,Göttingen,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03159,59.30155
+2017,Statistische Region Braunschweig,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ031,328.33541
+2017,Hannover  Region,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03241,331.469
+2017,"dav. Hannover, Lhst.",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03241001,184.3448
+2017,"dav. Hannover, Umland",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03241999,147.1242
+2017,Diepholz,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03251,32.92808
+2017,Hameln-Pyrmont,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03252,42.07614
+2017,Hildesheim,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03254,53.97083
+2017,Holzminden,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03255,11.68706
+2017,Nienburg (Weser),Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03256,26.24487
+2017,Schaumburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03257,27.06108
+2017,Statistische Region Hannover,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ032,526.33255
+2017,Celle,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03351,33.72582
+2017,Cuxhaven,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03352,27.39895
+2017,Harburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03353,44.89153
+2017,Uelzen Lüchow-Dannenberg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03354360,17.0022
+2017,Lüneburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03355,30.82561
+2017,Osterholz,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03356,19.38406
+2017,Rotenburg (Wümme),Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03357,28.32119
+2017,Heidekreis,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03358,22.12
+2017,Stade,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03359,37.47434
+2017,Uelzen Lüchow-Dannenberg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03354360,17.0022
+2017,Verden,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03361,23.16621
+2017,Statistische Region Lüneburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ033,285.1028
+2017,"Delmenhorst, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03401,27.65933
+2017,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03402457,38.28557
+2017,"Oldenburg(Oldb), Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03403,29.74653
+2017,"Osnabrück, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03404,43.71576
+2017,"Wilhelmshaven, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03405,14.41507
+2017,Ammerland,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03451,13.57925
+2017,Aurich,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03452,18.49201
+2017,Cloppenburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03453,47.10238
+2017,Emsland,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03454,69.76638
+2017,Friesland / Wittmund,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03455462,13.64126
+2017,Grafschaft Bentheim,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03456,30.94176
+2017,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03402457,38.28557
+2017,Oldenburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03458,19.75665
+2017,Osnabrück,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03459,80.74909
+2017,Vechta,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03460,45.26042
+2017,Wesermarsch,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03461,13.53044
+2017,Friesland / Wittmund,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03455462,13.64126
+2017,Statistische Region Weser-Ems,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ034,507.46523
+2017,Niedersachsen,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ030,1647.23599
+2016,"Braunschweig, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03101,61.75933
+2016,"Salzgitter, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03102,27.63958
+2016,"Wolfsburg, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03103,40.9993
+2016,Gifhorn,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03151,38.35051
+2016,Goslar,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03153,18.23078
+2016,Helmstedt,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03154,10.11742
+2016,Northeim,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03155,27.91705
+2016,Peine,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03157,21.4734
+2016,Wolfenbüttel,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03158,14.76996
+2016,Göttingen,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03159,61.73582
+2016,Statistische Region Braunschweig,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ031,322.99793
+2016,Hannover  Region,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03241,316.31782
+2016,"dav. Hannover, Lhst.",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03241001,176.09863
+2016,"dav. Hannover, Umland",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03241999,140.21918
+2016,Diepholz,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03251,31.74404
+2016,Hameln-Pyrmont,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03252,32.70718
+2016,Hildesheim,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03254,43.89627
+2016,Holzminden,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03255,11.83861
+2016,Nienburg (Weser),Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03256,22.89634
+2016,Schaumburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03257,22.6906
+2016,Statistische Region Hannover,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ032,483.19781
+2016,Celle,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03351,37.3022
+2016,Cuxhaven,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03352,25.90649
+2016,Harburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03353,36.26076
+2016,Uelzen Lüchow-Dannenberg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03354360,15.57905
+2016,Lüneburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03355,26.07505
+2016,Osterholz,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03356,19.53702
+2016,Rotenburg (Wümme),Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03357,26.83296
+2016,Heidekreis,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03358,19.98742
+2016,Stade,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03359,29.78303
+2016,Uelzen Lüchow-Dannenberg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03354360,15.57905
+2016,Verden,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03361,28.52718
+2016,Statistische Region Lüneburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ033,266.92948
+2016,"Delmenhorst, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03401,25.83493
+2016,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03402457,27.39312
+2016,"Oldenburg(Oldb), Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03403,28.49755
+2016,"Osnabrück, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03404,43.79176
+2016,"Wilhelmshaven, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03405,10.41426
+2016,Ammerland,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03451,11.40943
+2016,Aurich,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03452,15.58726
+2016,Cloppenburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03453,45.02852
+2016,Emsland,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03454,73.86484
+2016,Friesland / Wittmund,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03455462,13.89179
+2016,Grafschaft Bentheim,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03456,33.20023
+2016,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03402457,27.39312
+2016,Oldenburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03458,15.74708
+2016,Osnabrück,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03459,85.71599
+2016,Vechta,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03460,38.31061
+2016,Wesermarsch,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03461,13.26644
+2016,Friesland / Wittmund,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03455462,13.89179
+2016,Statistische Region Weser-Ems,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ034,484.05073
+2016,Niedersachsen,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ030,1557.17594
+2015,"Braunschweig, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03101,54.45161
+2015,"Salzgitter, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03102,29.00591
+2015,"Wolfsburg, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03103,38.40331
+2015,Gifhorn,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03151,35.96837
+2015,Goslar,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03153,14.78906
+2015,Helmstedt,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03154,13.71383
+2015,Northeim,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03155,14.83799
+2015,Peine,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03157,23.14801
+2015,Wolfenbüttel,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03158,17.93333
+2015,Göttingen,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03159,41.2194
+2015,Statistische Region Braunschweig,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ031,284.63179
+2015,Hannover  Region,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03241,289.58446
+2015,"dav. Hannover, Lhst.",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03241001,166.56791
+2015,"dav. Hannover, Umland",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03241999,123.01655
+2015,Diepholz,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03251,30.20033
+2015,Hameln-Pyrmont,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03252,20.9137
+2015,Hildesheim,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03254,47.25865
+2015,Holzminden,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03255,5.87031
+2015,Nienburg (Weser),Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03256,20.5861
+2015,Schaumburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03257,21.82918
+2015,Statistische Region Hannover,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ032,438.37086
+2015,Celle,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03351,32.47029
+2015,Cuxhaven,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03352,18.23606
+2015,Harburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03353,33.8361
+2015,Uelzen Lüchow-Dannenberg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03354360,15.40725
+2015,Lüneburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03355,26.95624
+2015,Osterholz,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03356,11.46009
+2015,Rotenburg (Wümme),Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03357,17.89336
+2015,Heidekreis,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03358,22.10636
+2015,Stade,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03359,31.05651
+2015,Uelzen Lüchow-Dannenberg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03354360,15.40725
+2015,Verden,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03361,25.75922
+2015,Statistische Region Lüneburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ033,237.37919
+2015,"Delmenhorst, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03401,22.71301
+2015,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03402457,32.56322
+2015,"Oldenburg(Oldb), Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03403,24.09589
+2015,"Osnabrück, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03404,40.82912
+2015,"Wilhelmshaven, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03405,12.70182
+2015,Ammerland,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03451,10.53096
+2015,Aurich,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03452,19.20241
+2015,Cloppenburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03453,46.55651
+2015,Emsland,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03454,52.75863
+2015,Friesland / Wittmund,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03455462,12.90919
+2015,Grafschaft Bentheim,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03456,30.95782
+2015,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03402457,32.56322
+2015,Oldenburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03458,14.99784
+2015,Osnabrück,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03459,73.1637
+2015,Vechta,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03460,29.55526
+2015,Wesermarsch,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03461,11.52519
+2015,Friesland / Wittmund,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03455462,12.90919
+2015,Statistische Region Weser-Ems,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ034,439.81787
+2015,Niedersachsen,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ030,1400.19971
+2014,"Braunschweig, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03101,47.2664
+2014,"Salzgitter, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03102,26.8586
+2014,"Wolfsburg, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03103,41.08914
+2014,Gifhorn,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03151,33.65891
+2014,Goslar,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03153,14.78505
+2014,Helmstedt,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03154,16.74459
+2014,Northeim,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03155,14.0119
+2014,Peine,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03157,23.87788
+2014,Wolfenbüttel,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03158,18.32977
+2014,Göttingen,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03159,37.017
+2014,Statistische Region Braunschweig,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ031,274.3158
+2014,Hannover  Region,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03241,271.77091
+2014,"dav. Hannover, Lhst.",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03241001,154.73429
+2014,"dav. Hannover, Umland",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03241999,117.03662
+2014,Diepholz,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03251,31.31726
+2014,Hameln-Pyrmont,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03252,26.61773
+2014,Hildesheim,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03254,47.06277
+2014,Holzminden,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03255,5.05667
+2014,Nienburg (Weser),Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03256,21.17203
+2014,Schaumburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03257,23.51589
+2014,Statistische Region Hannover,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ032,426.32176
+2014,Celle,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03351,30.63089
+2014,Cuxhaven,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03352,22.93254
+2014,Harburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03353,32.59994
+2014,Uelzen Lüchow-Dannenberg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03354360,14.08167
+2014,Lüneburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03355,23.33972
+2014,Osterholz,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03356,8.59594
+2014,Rotenburg (Wümme),Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03357,17.79003
+2014,Heidekreis,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03358,23.41111
+2014,Stade,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03359,26.52319
+2014,Uelzen Lüchow-Dannenberg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03354360,14.08167
+2014,Verden,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03361,26.4052
+2014,Statistische Region Lüneburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ033,228.91856
+2014,"Delmenhorst, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03401,20.21438
+2014,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03402457,27.15152
+2014,"Oldenburg(Oldb), Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03403,23.1772
+2014,"Osnabrück, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03404,44.70676
+2014,"Wilhelmshaven, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03405,12.31533
+2014,Ammerland,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03451,10.71844
+2014,Aurich,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03452,13.61581
+2014,Cloppenburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03453,49.5596
+2014,Emsland,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03454,54.25589
+2014,Friesland / Wittmund,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03455462,9.41654
+2014,Grafschaft Bentheim,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03456,30.74827
+2014,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03402457,27.15152
+2014,Oldenburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03458,15.43692
+2014,Osnabrück,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03459,74.16204
+2014,Vechta,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03460,28.30904
+2014,Wesermarsch,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03461,11.19896
+2014,Friesland / Wittmund,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03455462,9.41654
+2014,Statistische Region Weser-Ems,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ034,427.75835
+2014,Niedersachsen,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ030,1357.31448
+2013,"Braunschweig, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03101,49.4052
+2013,"Salzgitter, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03102,26.55154
+2013,"Wolfsburg, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03103,44.09322
+2013,Gifhorn,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03151,38.91826
+2013,Goslar,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03153,17.33537
+2013,Helmstedt,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03154,12.6721
+2013,Northeim,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03155,12.74819
+2013,Peine,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03157,20.65476
+2013,Wolfenbüttel,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03158,17.00714
+2013,Göttingen,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03159,39.55053
+2013,Statistische Region Braunschweig,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ031,278.81843
+2013,Hannover  Region,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03241,269.32455
+2013,"dav. Hannover, Lhst.",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03241001,158.04961
+2013,"dav. Hannover, Umland",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03241999,111.27495
+2013,Diepholz,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03251,27.54208
+2013,Hameln-Pyrmont,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03252,29.53404
+2013,Hildesheim,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03254,48.06341
+2013,Holzminden,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03255,5.64533
+2013,Nienburg (Weser),Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03256,18.65341
+2013,Schaumburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03257,20.57017
+2013,Statistische Region Hannover,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ032,419.89654
+2013,Celle,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03351,29.84479
+2013,Cuxhaven,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03352,25.98347
+2013,Harburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03353,30.48687
+2013,Uelzen Lüchow-Dannenberg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03354360,13.26374
+2013,Lüneburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03355,22.32139
+2013,Osterholz,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03356,7.81447
+2013,Rotenburg (Wümme),Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03357,16.38518
+2013,Heidekreis,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03358,24.70932
+2013,Stade,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03359,20.43521
+2013,Uelzen Lüchow-Dannenberg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03354360,13.26374
+2013,Verden,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03361,27.94612
+2013,Statistische Region Lüneburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ033,220.91186
+2013,"Delmenhorst, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03401,17.0021
+2013,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03402457,31.7876
+2013,"Oldenburg(Oldb), Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03403,22.73343
+2013,"Osnabrück, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03404,47.49592
+2013,"Wilhelmshaven, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03405,12.46604
+2013,Ammerland,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03451,8.01173
+2013,Aurich,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03452,17.14769
+2013,Cloppenburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03453,42.00312
+2013,Emsland,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03454,53.79642
+2013,Friesland / Wittmund,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03455462,10.02942
+2013,Grafschaft Bentheim,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03456,30.40228
+2013,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03402457,31.7876
+2013,Oldenburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03458,13.69875
+2013,Osnabrück,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03459,76.35356
+2013,Vechta,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03460,28.13528
+2013,Wesermarsch,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03461,11.97103
+2013,Friesland / Wittmund,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03455462,10.02942
+2013,Statistische Region Weser-Ems,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ034,426.44447
+2013,Niedersachsen,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ030,1346.0713
+2012,"Braunschweig, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03101,50.2876
+2012,"Salzgitter, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03102,25.00992
+2012,"Wolfsburg, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03103,43.64544
+2012,Gifhorn,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03151,36.49545
+2012,Goslar,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03153,14.09357
+2012,Helmstedt,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03154,8.93737
+2012,Northeim,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03155,12.09832
+2012,Peine,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03157,18.93685
+2012,Göttingen,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03159,39.63169
+2012,Wolfenbüttel,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03158,16.41732
+2012,Statistische Region Braunschweig,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ031,265.83353
+2012,Hannover  Region,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03241,257.72709
+2012,"dav. Hannover, Lhst.",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03241001,146.50986
+2012,"dav. Hannover, Umland",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03241999,111.21722
+2012,Diepholz,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03251,27.85805
+2012,Hameln-Pyrmont,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03252,26.08873
+2012,Hildesheim,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03254,44.15278
+2012,Holzminden,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03255,6.8272
+2012,Nienburg (Weser),Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03256,20.68097
+2012,Schaumburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03257,20.03727
+2012,Statistische Region Hannover,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ032,403.18734
+2012,Celle,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03351,22.94506
+2012,Cuxhaven,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03352,22.68248
+2012,Harburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03353,30.05678
+2012,Uelzen Lüchow-Dannenberg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03354360,14.56842
+2012,Lüneburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03355,19.33008
+2012,Osterholz,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03356,6.22567
+2012,Rotenburg (Wümme),Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03357,24.10751
+2012,Heidekreis,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03358,23.62532
+2012,Stade,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03359,19.47057
+2012,Uelzen Lüchow-Dannenberg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03354360,14.56842
+2012,Verden,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03361,22.91808
+2012,Statistische Region Lüneburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ033,206.3002
+2012,"Delmenhorst, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03401,18.30759
+2012,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03402457,21.55892
+2012,"Oldenburg(Oldb), Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03403,25.40946
+2012,"Osnabrück, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03404,43.61078
+2012,"Wilhelmshaven, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03405,10.8871
+2012,Ammerland,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03451,13.86233
+2012,Aurich,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03452,15.80852
+2012,Cloppenburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03453,41.33671
+2012,Emsland,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03454,58.08312
+2012,Friesland / Wittmund,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03455462,8.77247
+2012,Grafschaft Bentheim,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03456,30.1586
+2012,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03402457,21.55892
+2012,Oldenburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03458,12.33457
+2012,Osnabrück,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03459,76.13404
+2012,Vechta,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03460,30.26804
+2012,Wesermarsch,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03461,13.60336
+2012,Friesland / Wittmund,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03455462,8.77247
+2012,Statistische Region Weser-Ems,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ034,423.41224
+2012,Niedersachsen,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ030,1298.73331
+2011,"Braunschweig, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03101,48.06537
+2011,"Salzgitter, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03102,22.4907
+2011,"Wolfsburg, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03103,36.45398
+2011,Gifhorn,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03151,33.27332
+2011,Goslar,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03153,16.52486
+2011,Helmstedt,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03154,8.18222
+2011,Northeim,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03155,12.92301
+2011,Peine,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03157,20.14405
+2011,Wolfenbüttel,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03158,16.88938
+2011,Göttingen,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03159,42.14068
+2011,Statistische Region Braunschweig,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ031,256.08241
+2011,Hannover  Region,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03241,250.0131
+2011,"dav. Hannover, Lhst.",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03241001,144.18867
+2011,"dav. Hannover, Umland",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03241999,105.82443
+2011,Diepholz,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03251,26.78928
+2011,Hameln-Pyrmont,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03252,21.06271
+2011,Hildesheim,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03254,44.48978
+2011,Holzminden,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03255,6.88247
+2011,Nienburg (Weser),Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03256,21.01719
+2011,Schaumburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03257,25.82419
+2011,Statistische Region Hannover,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ032,396.81213
+2011,Celle,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03351,24.4201
+2011,Cuxhaven,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03352,23.26641
+2011,Harburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03353,26.12388
+2011,Uelzen Lüchow-Dannenberg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03354360,17.39901
+2011,Lüneburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03355,15.72176
+2011,Osterholz,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03356,6.11286
+2011,Rotenburg (Wümme),Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03357,19.94025
+2011,Heidekreis,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03358,17.58153
+2011,Stade,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03359,21.63713
+2011,Uelzen Lüchow-Dannenberg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03354360,17.39901
+2011,Verden,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03361,21.84389
+2011,Statistische Region Lüneburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ033,194.26632
+2011,"Delmenhorst, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03401,17.63921
+2011,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03402457,25.49137
+2011,"Oldenburg(Oldb), Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03403,25.36076
+2011,"Osnabrück, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03404,38.471
+2011,"Wilhelmshaven, Stadt",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03405,9.62729
+2011,Ammerland,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03451,15.9288
+2011,Aurich,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03452,13.26024
+2011,Cloppenburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03453,40.10468
+2011,Emsland,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03454,61.7558
+2011,Friesland / Wittmund,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03455462,8.79809
+2011,Grafschaft Bentheim,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03456,29.97746
+2011,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03402457,25.49137
+2011,Oldenburg,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03458,11.13813
+2011,Osnabrück,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03459,72.36653
+2011,Vechta,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03460,33.7174
+2011,Wesermarsch,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03461,13.4634
+2011,Friesland / Wittmund,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ03455462,8.79809
+2011,Statistische Region Weser-Ems,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ034,420.4411
+2011,Niedersachsen,Personen mit Migrationshintergrund im engeren Sinne,Anzahl in 1000,MZ030,1267.60197
 2019,"Braunschweig, Stadt",Anteil der Personen ohne Migrationshintergrund,Prozent,MZ03101,74.4
 2019,"Salzgitter, Stadt",Anteil der Personen ohne Migrationshintergrund,Prozent,MZ03102,64.26
 2019,"Wolfsburg, Stadt",Anteil der Personen ohne Migrationshintergrund,Prozent,MZ03103,61.77
@@ -1409,8 +1561,6 @@ Year,Gebietseinheit,Kategorie,Units,GeoCode,Value
 2011,Friesland / Wittmund,Anteil der Personen ohne Migrationshintergrund,Prozent,MZ03455462,94.32
 2011,Statistische Region Weser-Ems,Anteil der Personen ohne Migrationshintergrund,Prozent,MZ034,82.76
 2011,Niedersachsen,Anteil der Personen ohne Migrationshintergrund,Prozent,MZ030,83.7
-2021,Niedersachsen,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,Prozent,MZ030,23.9004044489383
-2020,Niedersachsen,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,Prozent,MZ030,22.7808028365202
 2019,"Braunschweig, Stadt",Anteil der Personen mit Migrationshintergrund im weiteren Sinne,Prozent,MZ03101,25.6
 2019,"Salzgitter, Stadt",Anteil der Personen mit Migrationshintergrund im weiteren Sinne,Prozent,MZ03102,35.74
 2019,"Wolfsburg, Stadt",Anteil der Personen mit Migrationshintergrund im weiteren Sinne,Prozent,MZ03103,38.23
@@ -1567,8 +1717,6 @@ Year,Gebietseinheit,Kategorie,Units,GeoCode,Value
 2017,Friesland / Wittmund,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,Prozent,MZ03455462,9.31
 2017,Statistische Region Weser-Ems,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,Prozent,MZ034,21.27
 2017,Niedersachsen,Anteil der Personen mit Migrationshintergrund im weiteren Sinne,Prozent,MZ030,22.07
-2021,Niedersachsen,Anteil der Personen mit Migrationshintergrund im engeren Sinne,Prozent,MZ030,22.093023255814
-2020,Niedersachsen,Anteil der Personen mit Migrationshintergrund im engeren Sinne,Prozent,MZ030,20.7420539445359
 2019,"Braunschweig, Stadt",Anteil der Personen mit Migrationshintergrund im engeren Sinne,Prozent,MZ03101,23.47
 2019,"Salzgitter, Stadt",Anteil der Personen mit Migrationshintergrund im engeren Sinne,Prozent,MZ03102,33.75
 2019,"Wolfsburg, Stadt",Anteil der Personen mit Migrationshintergrund im engeren Sinne,Prozent,MZ03103,36.2
