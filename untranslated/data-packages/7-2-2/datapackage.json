@@ -32,7 +32,7 @@
               "enum": [
                 "Insgesamt",
                 "ohne Migrationshintergrund",
-                "mit Migrationshintergrund²⁾",
+                "mit Migrationshintergrund",
                 ""
               ]
             }
@@ -55,7 +55,7 @@
             "constraints": {
               "enum": [
                 "Bezugspersonen mit selbstgenutzem Wohneigentum in 1 000",
-                "Eigentümerquote der Bezugspersonen mit selbstbewohnen Wohneigentum in Prozent",
+                "Eigentümerquote der Bezugspersonen mit selbstbewohnten Wohneigentum in Prozent",
                 ""
               ]
             }
