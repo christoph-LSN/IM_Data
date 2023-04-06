@@ -16,25 +16,13 @@
             "title": "Jahr"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Anzahl",
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
             "name": "Gebietseinheit",
             "type": "string",
             "constraints": {
               "enum": [
-                "Braunschweig  Stadt",
-                "Salzgitter  Stadt",
-                "Wolfsburg  Stadt",
+                "Braunschweig, Stadt",
+                "Salzgitter, Stadt",
+                "Wolfsburg, Stadt",
                 "Gifhorn",
                 "Goslar",
                 "Helmstedt",
@@ -42,17 +30,17 @@
                 "Peine",
                 "Wolfenbüttel",
                 "Göttingen",
-                "Stat. Region Braunschweig",
+                "Statistische Region Braunschweig",
                 "Hannover  Region",
-                "dav. Hannover  Lhst.",
-                "dav. Hannover  Umland",
+                "dav. Hannover, Lhst.",
+                "dav. Hannover, Umland",
                 "Diepholz",
                 "Hameln-Pyrmont",
                 "Hildesheim",
                 "Holzminden",
                 "Nienburg (Weser)",
                 "Schaumburg",
-                "Stat. Region Hannover",
+                "Statistische Region Hannover",
                 "Celle",
                 "Cuxhaven",
                 "Harburg",
@@ -64,12 +52,12 @@
                 "Stade",
                 "Uelzen",
                 "Verden",
-                "Stat. Region Lüneburg",
-                "Delmenhorst  Stadt",
+                "Statistische Region Lüneburg",
+                "Delmenhorst, Stadt",
                 "Emden  Stadt",
-                "Oldenburg(Oldb)  Stadt",
-                "Osnabrück  Stadt",
-                "Wilhelmshaven  Stadt",
+                "Oldenburg(Oldb), Stadt",
+                "Osnabrück, Stadt",
+                "Wilhelmshaven, Stadt",
                 "Ammerland",
                 "Aurich",
                 "Cloppenburg",
@@ -82,7 +70,7 @@
                 "Vechta",
                 "Wesermarsch",
                 "Wittmund",
-                "Stat. Region Weser-Ems",
+                "Statistische Region Weser-Ems",
                 "Niedersachsen",
                 ""
               ]
@@ -100,6 +88,18 @@
               ]
             },
             "title": "Kinderbetreuung"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Anzahl",
+                "Anteil an allen betreuten Kindern in Prozent",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "GeoCode",
