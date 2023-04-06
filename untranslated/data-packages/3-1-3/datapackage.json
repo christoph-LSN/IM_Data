@@ -92,7 +92,7 @@
             "constraints": {
               "enum": [
                 "Anzahl",
-                "Anteil an allen betreuten Kindern in Prozent",
+                "%",
                 ""
               ]
             }
