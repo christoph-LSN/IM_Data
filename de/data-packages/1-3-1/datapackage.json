@@ -20,7 +20,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Niedersachsen",
                 "Braunschweig, Stadt",
                 "Salzgitter, Stadt",
                 "Wolfsburg, Stadt",
@@ -32,7 +31,7 @@
                 "Wolfenbüttel",
                 "Göttingen",
                 "Statistische Region Braunschweig",
-                "Hannover  Region",
+                "Region Hannover",
                 "dav. Hannover, Lhst.",
                 "dav. Hannover, Umland",
                 "Diepholz",
@@ -55,7 +54,7 @@
                 "Statistische Region Lüneburg",
                 "Delmenhorst, Stadt",
                 "Emden, Stadt / Leer",
-                "Oldenburg(Oldb), Stadt",
+                "Oldenburg (Oldb), Stadt",
                 "Osnabrück, Stadt",
                 "Wilhelmshaven, Stadt",
                 "Ammerland",
@@ -69,6 +68,7 @@
                 "Vechta",
                 "Wesermarsch",
                 "Statistische Region Weser-Ems",
+                "Niedersachsen",
                 ""
               ]
             },
@@ -79,9 +79,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Anteil der Personen ohne Migrationshintergrund",
-                "Anteil der Personen mit Migrationshintergrund im weiteren Sinne",
-                "Anteil der Personen mit Migrationshintergrund im engeren Sinne",
                 "Personen ohne Migrationshintergrund",
                 "Personen mit Migrationshintergrund im weiteren Sinne",
                 "Personen mit Migrationshintergrund im engeren Sinne",
@@ -95,8 +92,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Prozent",
                 "Anzahl in 1000",
+                "%",
                 ""
               ]
             },
