@@ -33,17 +33,6 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "in 1000",
-                "%",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Geschlecht",
             "type": "string",
             "constraints": {
@@ -51,6 +40,17 @@
                 "Männlich",
                 "Weiblich",
                 "Insgesamt",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "in 1000",
+                "%",
                 ""
               ]
             }

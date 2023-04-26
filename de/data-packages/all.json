@@ -5466,18 +5466,6 @@
             "title": "Altersgruppe"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "in 1000",
-                "%",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
             "name": "Geschlecht",
             "type": "string",
             "constraints": {
@@ -5489,6 +5477,18 @@
               ]
             },
             "title": "Geschlecht"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "in 1000",
+                "%",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
