@@ -23,8 +23,8 @@
                 "Südniedersachsen",
                 "Statistische Region Braunschweig",
                 "Region Hannover",
-                "dav. Hannover, Landeshauptstadt",
-                "dav. Hannover, Umland",
+                "  dav. Hannover, Landeshauptstadt",
+                "  dav. Hannover, Umland",
                 "Weser-Leine-Bergland",
                 "Mittelniedersachsen",
                 "Statistische Region Hannover",
@@ -41,22 +41,13 @@
             }
           },
           {
-            "name": "Migrationserfahrung",
+            "name": "Kategorie",
             "type": "string",
             "constraints": {
               "enum": [
                 "Insgesamt",
                 "mit eigener Migrationserfahrung",
-                "ohne eigener Migrationserfahrung",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Nationalität",
-            "type": "string",
-            "constraints": {
-              "enum": [
+                "ohne eigene Migrationserfahrung",
                 "Ausländerinnen und Ausländer",
                 "(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",
                 "weitere Deutsche mit Migrationshintergrund",
