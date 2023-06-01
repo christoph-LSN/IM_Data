@@ -1,4 +1,28 @@
 Year,Altersgruppe,Schulabschluss,Migrationsstatus,Units,Value
+2022,18 – 25,Ohne Abschluss,Insgesamt,%,6.25873930309301
+2022,25 – 35,Ohne Abschluss,Insgesamt,%,6.09340979484192
+2022,15 – 65,Ohne Abschluss,Insgesamt,%,5.7815209926852
+2022,18 – 25,Hauptschulabschluss,Insgesamt,%,10.5729254059698
+2022,25 – 35,Hauptschulabschluss,Insgesamt,%,10.3795475686671
+2022,15 – 65,Hauptschulabschluss,Insgesamt,%,17.4235471956478
+2022,18 – 25,Realschulabschluss,Insgesamt,%,34.6645039804612
+2022,25 – 35,Realschulabschluss,Insgesamt,%,32.5871180757869
+2022,15 – 65,Realschulabschluss,Insgesamt,%,35.7930489764017
+2022,18 – 25,(Fach-)Hochschulreife,Insgesamt,%,48.5019669258161
+2022,25 – 35,(Fach-)Hochschulreife,Insgesamt,%,50.9389023480225
+2022,15 – 65,(Fach-)Hochschulreife,Insgesamt,%,41.0018828352653
+2021,18 – 25,Ohne Abschluss,Insgesamt,%,6.53963729112357
+2021,25 – 35,Ohne Abschluss,Insgesamt,%,6.51879707015713
+2021,15 – 65,Ohne Abschluss,Insgesamt,%,5.81396795382166
+2021,18 – 25,Hauptschulabschluss,Insgesamt,%,11.2994880066015
+2021,25 – 35,Hauptschulabschluss,Insgesamt,%,10.7947560358276
+2021,15 – 65,Hauptschulabschluss,Insgesamt,%,18.7406697850318
+2021,18 – 25,Realschulabschluss,Insgesamt,%,34.7855441570863
+2021,25 – 35,Realschulabschluss,Insgesamt,%,32.6890296186865
+2021,15 – 65,Realschulabschluss,Insgesamt,%,35.8622362659236
+2021,18 – 25,(Fach-)Hochschulreife,Insgesamt,%,47.3753305451886
+2021,25 – 35,(Fach-)Hochschulreife,Insgesamt,%,49.9974172753288
+2021,15 – 65,(Fach-)Hochschulreife,Insgesamt,%,39.5831259952229
 2019,18 – 25,Ohne Abschluss,Insgesamt,%,4.67535046814551
 2019,25 – 35,Ohne Abschluss,Insgesamt,%,4.74913006634145
 2019,15 – 65,Ohne Abschluss,Insgesamt,%,4.1453676331601
@@ -143,6 +167,30 @@ Year,Altersgruppe,Schulabschluss,Migrationsstatus,Units,Value
 2005,18 – 25,(Fach-)Hochschulreife,Insgesamt,%,30.1812870689266
 2005,25 – 35,(Fach-)Hochschulreife,Insgesamt,%,34.2546902638525
 2005,15 – 65,(Fach-)Hochschulreife,Insgesamt,%,25.4837538050156
+2022,18 – 25,Ohne Abschluss,mit Migrationshintergrund,%,14.6661688756145
+2022,25 – 35,Ohne Abschluss,mit Migrationshintergrund,%,14.1471649399225
+2022,15 – 65,Ohne Abschluss,mit Migrationshintergrund,%,15.8564068260908
+2022,18 – 25,Hauptschulabschluss,mit Migrationshintergrund,%,15.5373032169747
+2022,25 – 35,Hauptschulabschluss,mit Migrationshintergrund,%,12.7337724669822
+2022,15 – 65,Hauptschulabschluss,mit Migrationshintergrund,%,17.0938945826067
+2022,18 – 25,Realschulabschluss,mit Migrationshintergrund,%,30.7385974737104
+2022,25 – 35,Realschulabschluss,mit Migrationshintergrund,%,24.8287047764059
+2022,15 – 65,Realschulabschluss,mit Migrationshintergrund,%,29.2020035516058
+2022,18 – 25,(Fach-)Hochschulreife,mit Migrationshintergrund,%,39.0579304337005
+2022,25 – 35,(Fach-)Hochschulreife,mit Migrationshintergrund,%,48.2903578166893
+2022,15 – 65,(Fach-)Hochschulreife,mit Migrationshintergrund,%,37.8476950396968
+2021,18 – 25,Ohne Abschluss,mit Migrationshintergrund,%,14.3448795180723
+2021,25 – 35,Ohne Abschluss,mit Migrationshintergrund,%,15.0586390290468
+2021,15 – 65,Ohne Abschluss,mit Migrationshintergrund,%,15.8361678708279
+2021,18 – 25,Hauptschulabschluss,mit Migrationshintergrund,%,14.9096385542169
+2021,25 – 35,Hauptschulabschluss,mit Migrationshintergrund,%,13.981317332606
+2021,15 – 65,Hauptschulabschluss,mit Migrationshintergrund,%,18.160902417426
+2021,18 – 25,Realschulabschluss,mit Migrationshintergrund,%,32.3857931726908
+2021,25 – 35,Realschulabschluss,mit Migrationshintergrund,%,24.9045411155053
+2021,15 – 65,Realschulabschluss,mit Migrationshintergrund,%,30.0750635184679
+2021,18 – 25,(Fach-)Hochschulreife,mit Migrationshintergrund,%,38.3596887550201
+2021,25 – 35,(Fach-)Hochschulreife,mit Migrationshintergrund,%,46.0555025228419
+2021,15 – 65,(Fach-)Hochschulreife,mit Migrationshintergrund,%,35.9278661932782
 2019,18 – 25,Ohne Abschluss,mit Migrationshintergrund,%,11.0652512767909
 2019,25 – 35,Ohne Abschluss,mit Migrationshintergrund,%,11.7324291571626
 2019,15 – 65,Ohne Abschluss,mit Migrationshintergrund,%,11.5644060556639
@@ -287,6 +335,30 @@ Year,Altersgruppe,Schulabschluss,Migrationsstatus,Units,Value
 2005,18 – 25,(Fach-)Hochschulreife,mit Migrationshintergrund,%,23.0001421682692
 2005,25 – 35,(Fach-)Hochschulreife,mit Migrationshintergrund,%,26.0680698190712
 2005,15 – 65,(Fach-)Hochschulreife,mit Migrationshintergrund,%,23.0574879467433
+2022,18 – 25,Ohne Abschluss,ohne Migrationshintergrund,%,2.66464356066656
+2022,25 – 35,Ohne Abschluss,ohne Migrationshintergrund,%,2.49500850403017
+2022,15 – 65,Ohne Abschluss,ohne Migrationshintergrund,%,2.26059610942588
+2022,18 – 25,Hauptschulabschluss,ohne Migrationshintergrund,%,8.44912953202364
+2022,25 – 35,Hauptschulabschluss,ohne Migrationshintergrund,%,9.327811876063
+2022,15 – 65,Hauptschulabschluss,ohne Migrationshintergrund,%,17.5387526785963
+2022,18 – 25,Realschulabschluss,ohne Migrationshintergrund,%,36.3440344992813
+2022,25 – 35,Realschulabschluss,ohne Migrationshintergrund,%,36.0541300007395
+2022,15 – 65,Realschulabschluss,ohne Migrationshintergrund,%,38.0964572955222
+2022,18 – 25,(Fach-)Hochschulreife,ohne Migrationshintergrund,%,52.5448543896076
+2022,25 – 35,(Fach-)Hochschulreife,ohne Migrationshintergrund,%,52.1230496191673
+2022,15 – 65,(Fach-)Hochschulreife,ohne Migrationshintergrund,%,42.1041939164556
+2021,18 – 25,Ohne Abschluss,ohne Migrationshintergrund,%,3.20992938155361
+2021,25 – 35,Ohne Abschluss,ohne Migrationshintergrund,%,2.80738160527681
+2021,15 – 65,Ohne Abschluss,ohne Migrationshintergrund,%,2.46408445444058
+2021,18 – 25,Hauptschulabschluss,ohne Migrationshintergrund,%,9.76086026107426
+2021,25 – 35,Hauptschulabschluss,ohne Migrationshintergrund,%,9.40932335284963
+2021,15 – 65,Hauptschulabschluss,ohne Migrationshintergrund,%,18.9341942551726
+2021,18 – 25,Realschulabschluss,ohne Migrationshintergrund,%,35.8094371923818
+2021,25 – 35,Realschulabschluss,ohne Migrationshintergrund,%,36.073519602757
+2021,15 – 65,Realschulabschluss,ohne Migrationshintergrund,%,37.7967372390192
+2021,18 – 25,(Fach-)Hochschulreife,ohne Migrationshintergrund,%,51.2197731649904
+2021,25 – 35,(Fach-)Hochschulreife,ohne Migrationshintergrund,%,51.7097754391166
+2021,15 – 65,(Fach-)Hochschulreife,ohne Migrationshintergrund,%,40.8049840513676
 2019,18 – 25,Ohne Abschluss,ohne Migrationshintergrund,%,2.36154851270046
 2019,25 – 35,Ohne Abschluss,ohne Migrationshintergrund,%,1.83853985446954
 2019,15 – 65,Ohne Abschluss,ohne Migrationshintergrund,%,1.93463833380332
