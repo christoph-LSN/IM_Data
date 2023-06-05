@@ -5320,7 +5320,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Insgesamt",
+                "mit und ohne Migrationshintergrund",
                 "ohne Migrationshintergrund",
                 "mit Migrationshintergrund",
                 ""
