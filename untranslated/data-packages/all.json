@@ -4143,7 +4143,7 @@
             }
           },
           {
-            "name": "Lebennsform",
+            "name": "Lebensform",
             "type": "string",
             "constraints": {
               "enum": [
