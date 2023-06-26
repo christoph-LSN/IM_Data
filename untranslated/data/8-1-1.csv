@@ -1,14 +1,14 @@
 Year,Altersgruppe,Units,Geschlecht,Value
-2022,18 – 25,in 1000,Männlich,46.1
-2022,25 – 45,in 1000,Männlich,179.9
-2022,45 – 65,in 1000,Männlich,107.2
-2022,65 und älter,in 1000,Männlich,32.3
-2022,Insgesamt,in 1000,Männlich,365.5
-2021,18 – 25,in 1000,Männlich,44.0
-2021,25 – 45,in 1000,Männlich,163.8
-2021,45 – 65,in 1000,Männlich,104.2
-2021,65 und älter,in 1000,Männlich,31.0
-2021,Insgesamt,in 1000,Männlich,343.0
+2022,18 – 25,in 1000,Männlich,52.2
+2022,25 – 45,in 1000,Männlich,137.1
+2022,45 – 65,in 1000,Männlich,124.1
+2022,65 und älter,in 1000,Männlich,62.0
+2022,Insgesamt,in 1000,Männlich,375.4
+2021,18 – 25,in 1000,Männlich,56.3
+2021,25 – 45,in 1000,Männlich,140.7
+2021,45 – 65,in 1000,Männlich,124.1
+2021,65 und älter,in 1000,Männlich,61.6
+2021,Insgesamt,in 1000,Männlich,382.7
 2019,18 – 25,in 1000,Männlich,45.65721
 2019,25 – 45,in 1000,Männlich,137.26588
 2019,45 – 65,in 1000,Männlich,107.7658
@@ -54,16 +54,16 @@ Year,Altersgruppe,Units,Geschlecht,Value
 2011,45 – 65,in 1000,Männlich,86.01129
 2011,65 und älter,in 1000,Männlich,31.31798
 2011,Insgesamt,in 1000,Männlich,268.64905
-2022,18 – 25,in 1000,Weiblich,38.6
-2022,25 – 45,in 1000,Weiblich,161.6
-2022,45 – 65,in 1000,Weiblich,100.5
-2022,65 und älter,in 1000,Weiblich,37.7
-2022,Insgesamt,in 1000,Weiblich,338.4
-2021,18 – 25,in 1000,Weiblich,31.4
-2021,25 – 45,in 1000,Weiblich,139.8
-2021,45 – 65,in 1000,Weiblich,91.1
-2021,65 und älter,in 1000,Weiblich,32.0
-2021,Insgesamt,in 1000,Weiblich,294.4
+2022,18 – 25,in 1000,Weiblich,50.7
+2022,25 – 45,in 1000,Weiblich,140.2
+2022,45 – 65,in 1000,Weiblich,129.7
+2022,65 und älter,in 1000,Weiblich,72.5
+2022,Insgesamt,in 1000,Weiblich,393.1
+2021,18 – 25,in 1000,Weiblich,51.8
+2021,25 – 45,in 1000,Weiblich,141.2
+2021,45 – 65,in 1000,Weiblich,131.9
+2021,65 und älter,in 1000,Weiblich,72.7
+2021,Insgesamt,in 1000,Weiblich,397.6
 2019,18 – 25,in 1000,Weiblich,47.93602
 2019,25 – 45,in 1000,Weiblich,128.84901
 2019,45 – 65,in 1000,Weiblich,115.80685
@@ -109,16 +109,16 @@ Year,Altersgruppe,Units,Geschlecht,Value
 2011,45 – 65,in 1000,Weiblich,96.00452
 2011,65 und älter,in 1000,Weiblich,42.31946
 2011,Insgesamt,in 1000,Weiblich,285.91306
-2022,18 – 25,in 1000,Insgesamt,84.7
-2022,25 – 45,in 1000,Insgesamt,341.5
-2022,45 – 65,in 1000,Insgesamt,207.7
-2022,65 und älter,in 1000,Insgesamt,70.0
-2022,Insgesamt,in 1000,Insgesamt,703.9
-2021,18 – 25,in 1000,Insgesamt,75.4
-2021,25 – 45,in 1000,Insgesamt,303.6
-2021,45 – 65,in 1000,Insgesamt,195.3
-2021,65 und älter,in 1000,Insgesamt,63.0
-2021,Insgesamt,in 1000,Insgesamt,637.4
+2022,18 – 25,in 1000,Insgesamt,102.9
+2022,25 – 45,in 1000,Insgesamt,277.3
+2022,45 – 65,in 1000,Insgesamt,253.7
+2022,65 und älter,in 1000,Insgesamt,134.5
+2022,Insgesamt,in 1000,Insgesamt,768.5
+2021,18 – 25,in 1000,Insgesamt,108.1
+2021,25 – 45,in 1000,Insgesamt,281.9
+2021,45 – 65,in 1000,Insgesamt,256.1
+2021,65 und älter,in 1000,Insgesamt,134.3
+2021,Insgesamt,in 1000,Insgesamt,780.4
 2019,18 – 25,in 1000,Insgesamt,93.59323
 2019,25 – 45,in 1000,Insgesamt,266.11489
 2019,45 – 65,in 1000,Insgesamt,223.57265
@@ -164,16 +164,16 @@ Year,Altersgruppe,Units,Geschlecht,Value
 2011,45 – 65,in 1000,Insgesamt,182.01581
 2011,65 und älter,in 1000,Insgesamt,73.63744
 2011,Insgesamt,in 1000,Insgesamt,554.56211
-2022,18 – 25,%,Männlich,19.5814648729447
-2022,25 – 45,%,Männlich,17.0098589791589
-2022,45 – 65,%,Männlich,11.7787542988154
-2022,65 und älter,%,Männlich,8.29314040728832
-2022,Insgesamt,%,Männlich,13.0598840053106
-2021,18 – 25,%,Männlich,20.7407407407407
-2021,25 – 45,%,Männlich,17.3653439482523
-2021,45 – 65,%,Männlich,11.6808309726157
-2021,65 und älter,%,Männlich,8.34127092121377
-2021,Insgesamt,%,Männlich,13.2754472225128
+2022,18 – 25,%,Männlich,16.4461247637051
+2022,25 – 45,%,Männlich,13.9145437937684
+2022,45 – 65,%,Männlich,10.5581078781691
+2022,65 und älter,%,Männlich,7.9507566042575
+2022,Insgesamt,%,Männlich,11.5867773696719
+2021,18 – 25,%,Männlich,17.7044025157233
+2021,25 – 45,%,Männlich,14.4663787785318
+2021,45 – 65,%,Männlich,10.625
+2021,65 und älter,%,Männlich,8.02501302761855
+2021,Insgesamt,%,Männlich,11.8618851315749
 2019,18 – 25,%,Männlich,16.7449072529977
 2019,25 – 45,%,Männlich,17.0062334975766
 2019,45 – 65,%,Männlich,9.866231772612
@@ -219,16 +219,16 @@ Year,Altersgruppe,Units,Geschlecht,Value
 2011,45 – 65,%,Männlich,8.1601077357145
 2011,65 und älter,%,Männlich,4.55061222541543
 2011,Insgesamt,%,Männlich,9.17694777955286
-2022,18 – 25,%,Weiblich,18.9674952198853
-2022,25 – 45,%,Weiblich,17.8193860654694
-2022,45 – 65,%,Weiblich,11.9600406992878
-2022,65 und älter,%,Weiblich,8.01416869603719
-2022,Insgesamt,%,Weiblich,12.9062056679093
-2021,18 – 25,%,Weiblich,19.3854324734446
-2021,25 – 45,%,Weiblich,17.9026503567788
-2021,45 – 65,%,Weiblich,12.0711796000734
-2021,65 und älter,%,Weiblich,8.1648697214735
-2021,Insgesamt,%,Weiblich,13.0703202377022
+2022,18 – 25,%,Weiblich,23.5157699443414
+2022,25 – 45,%,Weiblich,21.6057944213284
+2022,45 – 65,%,Weiblich,13.5968130831324
+2022,65 und älter,%,Weiblich,8.7223291626564
+2022,Insgesamt,%,Weiblich,14.8356417707665
+2021,18 – 25,%,Weiblich,17.2781854569713
+2021,25 – 45,%,Weiblich,15.2040486701841
+2021,45 – 65,%,Weiblich,11.1364403917595
+2021,65 und älter,%,Weiblich,7.87052073183934
+2021,Insgesamt,%,Weiblich,11.9170363265795
 2019,18 – 25,%,Weiblich,18.049068776728
 2019,25 – 45,%,Weiblich,16.4730658509634
 2019,45 – 65,%,Weiblich,10.3731936986988
@@ -274,16 +274,16 @@ Year,Altersgruppe,Units,Geschlecht,Value
 2011,45 – 65,%,Weiblich,9.08985201499229
 2011,65 und älter,%,Weiblich,4.6011067847012
 2011,Insgesamt,%,Weiblich,9.11119380316455
-2022,18 – 25,%,Insgesamt,19.2780192780193
-2022,25 – 45,%,Insgesamt,17.4104891578417
-2022,45 – 65,%,Insgesamt,11.870858592979
-2022,65 und älter,%,Insgesamt,8.14038065220027
-2022,Insgesamt,%,Insgesamt,12.980842651825
-2021,18 – 25,%,Insgesamt,20.0712143928036
-2021,25 – 45,%,Insgesamt,17.630767294014
-2021,45 – 65,%,Insgesamt,11.8788386376326
-2021,65 und älter,%,Insgesamt,8.24463176029041
-2021,Insgesamt,%,Insgesamt,13.1700781793206
+2022,18 – 25,%,Insgesamt,23.6714975845411
+2022,25 – 45,%,Insgesamt,21.0666261490542
+2022,45 – 65,%,Insgesamt,13.5004257130694
+2022,65 und älter,%,Insgesamt,8.86910649521925
+2022,Insgesamt,%,Insgesamt,14.9318981094682
+2021,18 – 25,%,Insgesamt,17.4975720297831
+2021,25 – 45,%,Insgesamt,14.8266975227476
+2021,45 – 65,%,Insgesamt,10.8867539534093
+2021,65 und älter,%,Insgesamt,7.94063737953054
+2021,Insgesamt,%,Insgesamt,11.8914471178021
 2019,18 – 25,%,Insgesamt,17.3884155198524
 2019,25 – 45,%,Insgesamt,16.7438380602436
 2019,45 – 65,%,Insgesamt,10.1224827170742
