@@ -16,7 +16,7 @@
             "title": "Jahr"
           },
           {
-            "name": "Höchster Beruflicher Abschluss",
+            "name": "Höchster beruflicher Abschluss",
             "type": "string",
             "constraints": {
               "enum": [
@@ -26,7 +26,7 @@
                 ""
               ]
             },
-            "title": "Höchster Beruflicher Abschluss"
+            "title": "Höchster beruflicher Abschluss"
           },
           {
             "name": "Migrationshintergrund",

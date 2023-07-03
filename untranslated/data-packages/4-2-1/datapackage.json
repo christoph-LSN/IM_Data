@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "Höchster Beruflicher Abschluss",
+            "name": "Höchster beruflicher Abschluss",
             "type": "string",
             "constraints": {
               "enum": [
