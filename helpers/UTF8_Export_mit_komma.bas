@@ -13,6 +13,19 @@ Dim SrcRg As Range
 'Pfad und Name der zu erstellenden Datei
 sFilename = Application.GetSaveAsFilename("", "CSV File (*.csv), *.csv")
 
+If sFilename <> False Then ' Überprüfe, ob eine Datei ausgewählt wurde
+        If Dir(sFilename) <> "" Then ' Überprüfe, ob die Datei bereits existiert
+            ' Warnung anzeigen und Benutzerentscheidung treffen
+            If MsgBox("Die ausgewählte Datei existiert bereits. Möchten Sie die Datei überschreiben?", vbQuestion + vbYesNo) = vbNo Then
+                Exit Sub ' Abbruch, ohne zu speichern
+            End If
+        End If
+    Else
+        Exit Sub ' Abbruch, wenn keine Datei ausgewählt wurde
+    End If
+
+
+
 If Selection.Cells.Count > 1 Then
     Set SrcRg = Selection
 Else
