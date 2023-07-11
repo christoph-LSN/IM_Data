@@ -1,3 +1,4 @@
 From,To
-Migrationshintergrund,Geschlecht
-Geschlecht,Migrationserfahrung
+Migrationsstatus,Altersgruppe
+Altersgruppe,Bildungsstand
+Bildungsstand,Geschlecht

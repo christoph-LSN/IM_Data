@@ -16,37 +16,51 @@
             "title": "Jahr"
           },
           {
-            "name": "Migrationshintergrund",
+            "name": "Migrationsstatus",
             "type": "string",
             "constraints": {
               "enum": [
+                "mit und ohne Migrationshintergrund",
                 "ohne Migrationshintergrund",
                 "mit Migrationshintergrund",
                 ""
               ]
             },
-            "title": "Migrationshintergrund"
+            "title": "Migrationsstatus"
           },
           {
-            "name": "Migrationserfahrung",
+            "name": "Altersgruppe",
             "type": "string",
             "constraints": {
               "enum": [
-                "mit eigener Migrationserfahrung",
-                "ohne eigene Migrationserfahrung",
+                "18 - 25",
+                "25 - 65",
                 ""
               ]
             },
-            "title": "Migrationserfahrung"
+            "title": "Altersgruppe"
+          },
+          {
+            "name": "Bildungsstand",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "Frühe Schulabgänger/innen",
+                "Personen mit geringem Bildudngsstand",
+                ""
+              ]
+            },
+            "title": "Bildungsstand"
           },
           {
             "name": "Geschlecht",
             "type": "string",
             "constraints": {
               "enum": [
-                "Insgesamt",
-                "Männer",
-                "Frauen",
+                "Ingesamt",
+                "männlich",
+                "weiblich",
                 ""
               ]
             },
@@ -57,6 +71,42 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "1000",
+                "1001",
+                "1002",
+                "1003",
+                "1004",
+                "1005",
+                "1006",
+                "1007",
+                "1008",
+                "1009",
+                "1010",
+                "1011",
+                "1012",
+                "1013",
+                "1014",
+                "1015",
+                "1016",
+                "1017",
+                "1018",
+                "1019",
+                "1020",
+                "1021",
+                "1022",
+                "1023",
+                "1024",
+                "1025",
+                "1026",
+                "1027",
+                "1028",
+                "1029",
+                "1030",
+                "1031",
+                "1032",
+                "1033",
+                "1034",
+                "1035",
                 "%",
                 ""
               ]
