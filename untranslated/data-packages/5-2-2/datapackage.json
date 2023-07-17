@@ -30,7 +30,7 @@
                 "Wolfenbüttel",
                 "Göttingen",
                 "Statistische Region Braunschweig",
-                "Hannover  Region",
+                "Region Hannover",
                 "dav. Hannover, Lhst.",
                 "dav. Hannover, Umland",
                 "Diepholz",
@@ -53,8 +53,8 @@
                 "Verden",
                 "Statistische Region Lüneburg",
                 "Delmenhorst, Stadt",
-                "Emden  Stadt",
-                "Oldenburg(Oldb), Stadt",
+                "Emden, Stadt",
+                "Oldenburg (Oldb), Stadt",
                 "Osnabrück, Stadt",
                 "Wilhelmshaven, Stadt",
                 "Ammerland",
@@ -94,6 +94,7 @@
             "constraints": {
               "enum": [
                 "Prozent",
+                "%",
                 ""
               ]
             }
@@ -104,7 +105,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       }
