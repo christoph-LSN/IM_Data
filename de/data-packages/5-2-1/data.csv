@@ -1,4 +1,4 @@
-Year,Gebietseinheit,Geschlecht,Units,GeoCode,Value
+Year,Gebietseinheit,Geschlecht,Units,Geocode,Value
 2022,"Braunschweig, Stadt",Insgesamt,Anzahl,K03101,13491
 2022,"Salzgitter, Stadt",Insgesamt,Anzahl,K03102,5434
 2022,"Wolfsburg, Stadt",Insgesamt,Anzahl,K03103,10542
@@ -727,7 +727,7 @@ Year,Gebietseinheit,Geschlecht,Units,GeoCode,Value
 2018,Wittmund,Männer,Anzahl,K03462,503
 2018,Statistische Region Weser-Ems,Männer,Anzahl,K034,60669
 2018,Niedersachsen,Männer,Anzahl,K030,170046
-2018,"Braunschweig, Stadt",Frauen,Anzahl,K03101,6123
+2018,"Braunschweig, Stadt",Frauen,Anzahl,K03101,3974
 2018,"Salzgitter, Stadt",Frauen,Anzahl,K03102,970
 2018,"Wolfsburg, Stadt",Frauen,Anzahl,K03103,3003
 2018,Gifhorn,Frauen,Anzahl,K03151,918
