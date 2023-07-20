@@ -78,7 +78,7 @@ translations:
   # This pulls in translations from a local 'translations' folder.
 
 - class: TranslationInputYaml
-    source: IM_translations
+  source: IM_translations
 
 # Reporting status extra fields
 # -----------------------------
