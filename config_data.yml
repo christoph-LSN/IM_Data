@@ -77,7 +77,7 @@ translations:
 #    tag: 1.4.0-dev
   # This pulls in translations from a local 'translations' folder.
 
-- class: TranslationInputYaml
+- class: TranslationInputSdgTranslations     # TranslationInputYaml
   source: https://github.com/christoph-LSN/IM-translations.git
   tag: master
 
