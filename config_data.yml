@@ -79,7 +79,7 @@ translations:
 
 - class: TranslationInputYaml
   source: https://github.com/christoph-LSN/IM-translations.git
-  branch: master
+  tag: master
 
 
   source: IM_translations
