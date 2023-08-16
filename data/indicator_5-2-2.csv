@@ -1,4 +1,212 @@
 ﻿Year,Gebietseinheit,Qualifikation,Units,GeoCode,Value
+2022,"Braunschweig, Stadt",hoch,Prozent,K03101,26.2545400637462
+2022,"Salzgitter, Stadt",hoch,Prozent,K03102,10.4158998895841
+2022,"Wolfsburg, Stadt",hoch,Prozent,K03103,29.0741794725858
+2022,"Gifhorn",hoch,Prozent,K03151,16.0881682290347
+2022,"Goslar",hoch,Prozent,K03153,19.7094916103181
+2022,"Helmstedt",hoch,Prozent,K03154,14.6055437100213
+2022,"Northeim",hoch,Prozent,K03155,11.1687669878923
+2022,"Peine",hoch,Prozent,K03157,7.77862790104565
+2022,"Wolfenbüttel",hoch,Prozent,K03158,13.103802672148
+2022,"Göttingen",hoch,Prozent,K03159,28.485043940982
+2022,"Statistische Region Braunschweig",hoch,Prozent,K031,21.775974025974
+2022,"Region Hannover",hoch,Prozent,K03241,14.7528189671412
+2022,"dav. Hannover, Lhst.",hoch,Prozent,K03241001,18.5864107007955
+2022,"dav. Hannover, Umland",hoch,Prozent,K03241999,8.86667576419214
+2022,"Diepholz",hoch,Prozent,K03251,7.34333829762859
+2022,"Hameln-Pyrmont",hoch,Prozent,K03252,12.482298199474
+2022,"Hildesheim",hoch,Prozent,K03254,17.9231153270095
+2022,"Holzminden",hoch,Prozent,K03255,11.8097320940405
+2022,"Nienburg (Weser)",hoch,Prozent,K03256,6.01069518716578
+2022,"Schaumburg",hoch,Prozent,K03257,8.70215950395553
+2022,"Statistische Region Hannover",hoch,Prozent,K032,13.5861097375517
+2022,"Celle",hoch,Prozent,K03351,12.5507638754593
+2022,"Cuxhaven",hoch,Prozent,K03352,6.43887362637363
+2022,"Harburg",hoch,Prozent,K03353,7.12034750021293
+2022,"Lüchow-Dannenberg",hoch,Prozent,K03354,8.47983453981386
+2022,"Lüneburg",hoch,Prozent,K03355,16.1638405637525
+2022,"Osterholz",hoch,Prozent,K03356,11.8178087812885
+2022,"Rotenburg (Wümme)",hoch,Prozent,K03357,11.5017878426698
+2022,"Heidekreis",hoch,Prozent,K03358,8.73075478783327
+2022,"Stade",hoch,Prozent,K03359,9.83630305664204
+2022,"Uelzen",hoch,Prozent,K03360,13.3488372093023
+2022,"Verden",hoch,Prozent,K03361,8.10548061732896
+2022,"Statistische Region Lüneburg",hoch,Prozent,K033,9.67199903982991
+2022,"Delmenhorst, Stadt",hoch,Prozent,K03401,9.16955017301038
+2022,"Emden, Stadt",hoch,Prozent,K03402,10.9968708091194
+2022,"Oldenburg (Oldb), Stadt",hoch,Prozent,K03403,18.298042349181
+2022,"Osnabrück, Stadt",hoch,Prozent,K03404,12.8090723182748
+2022,"Wilhelmshaven, Stadt",hoch,Prozent,K03405,13.5213604313563
+2022,"Ammerland",hoch,Prozent,K03451,7.94456373218817
+2022,"Aurich",hoch,Prozent,K03452,9.41969758888435
+2022,"Cloppenburg",hoch,Prozent,K03453,3.31442881343448
+2022,"Emsland",hoch,Prozent,K03454,7.13016204913748
+2022,"Friesland",hoch,Prozent,K03455,11.4770459081836
+2022,"Grafschaft Bentheim",hoch,Prozent,K03456,7.54388510082693
+2022,"Leer",hoch,Prozent,K03457,8.70497427101201
+2022,"Oldenburg",hoch,Prozent,K03458,4.01929260450161
+2022,"Osnabrück",hoch,Prozent,K03459,5.92557478075373
+2022,"Vechta",hoch,Prozent,K03460,4.33445819272591
+2022,"Wesermarsch",hoch,Prozent,K03461,7.14532274767
+2022,"Wittmund",hoch,Prozent,K03462,7.73333333333333
+2022,"Statistische Region Weser-Ems",hoch,Prozent,K034,7.7923667610553
+2022,"Niedersachsen",hoch,Prozent,K030,12.3455236537213
+2022,"Braunschweig, Stadt",mittel,Prozent,K03101,28.2558742865614
+2022,"Salzgitter, Stadt",mittel,Prozent,K03102,38.8663967611336
+2022,"Wolfsburg, Stadt",mittel,Prozent,K03103,33.0297856194271
+2022,"Gifhorn",mittel,Prozent,K03151,29.0093742082594
+2022,"Goslar",mittel,Prozent,K03153,30.6786877034811
+2022,"Helmstedt",mittel,Prozent,K03154,44.9360341151386
+2022,"Northeim",mittel,Prozent,K03155,38.8435878428466
+2022,"Peine",mittel,Prozent,K03157,31.4205559806172
+2022,"Wolfenbüttel",mittel,Prozent,K03158,37.7697841726619
+2022,"Göttingen",mittel,Prozent,K03159,28.4044182858986
+2022,"Statistische Region Braunschweig",mittel,Prozent,K031,31.9496753246753
+2022,"Region Hannover",mittel,Prozent,K03241,32.8372668801636
+2022,"dav. Hannover, Lhst.",mittel,Prozent,K03241001,32.8067368795272
+2022,"dav. Hannover, Umland",mittel,Prozent,K03241999,32.8841430131004
+2022,"Diepholz",mittel,Prozent,K03251,33.2798716920609
+2022,"Hameln-Pyrmont",mittel,Prozent,K03252,35.3024479061299
+2022,"Hildesheim",mittel,Prozent,K03254,33.7493759360959
+2022,"Holzminden",mittel,Prozent,K03255,34.8277747402952
+2022,"Nienburg (Weser)",mittel,Prozent,K03256,26.5668449197861
+2022,"Schaumburg",mittel,Prozent,K03257,38.6786401539448
+2022,"Statistische Region Hannover",mittel,Prozent,K032,33.0705429032589
+2022,"Celle",mittel,Prozent,K03351,29.1819764068845
+2022,"Cuxhaven",mittel,Prozent,K03352,26.9059065934066
+2022,"Harburg",mittel,Prozent,K03353,26.6076143429009
+2022,"Lüchow-Dannenberg",mittel,Prozent,K03354,29.3691830403309
+2022,"Lüneburg",mittel,Prozent,K03355,31.1825589077296
+2022,"Osterholz",mittel,Prozent,K03356,32.8682806729586
+2022,"Rotenburg (Wümme)",mittel,Prozent,K03357,31.5057608263806
+2022,"Heidekreis",mittel,Prozent,K03358,35.7303792714983
+2022,"Stade",mittel,Prozent,K03359,25.7279443720122
+2022,"Uelzen",mittel,Prozent,K03360,35.4883720930233
+2022,"Verden",mittel,Prozent,K03361,22.4207072548305
+2022,"Statistische Region Lüneburg",mittel,Prozent,K033,28.4176054043859
+2022,"Delmenhorst, Stadt",mittel,Prozent,K03401,25.7439446366782
+2022,"Emden, Stadt",mittel,Prozent,K03402,34.3763969602146
+2022,"Oldenburg (Oldb), Stadt",mittel,Prozent,K03403,25.2630177120788
+2022,"Osnabrück, Stadt",mittel,Prozent,K03404,27.625952779327
+2022,"Wilhelmshaven, Stadt",mittel,Prozent,K03405,27.6648693488179
+2022,"Ammerland",mittel,Prozent,K03451,26.8202225258638
+2022,"Aurich",mittel,Prozent,K03452,28.0343277482632
+2022,"Cloppenburg",mittel,Prozent,K03453,19.5035722177211
+2022,"Emsland",mittel,Prozent,K03454,27.7992681651856
+2022,"Friesland",mittel,Prozent,K03455,29.0419161676647
+2022,"Grafschaft Bentheim",mittel,Prozent,K03456,34.9484984767155
+2022,"Leer",mittel,Prozent,K03457,30.2744425385935
+2022,"Oldenburg",mittel,Prozent,K03458,21.1414790996785
+2022,"Osnabrück",mittel,Prozent,K03459,27.5835506044086
+2022,"Vechta",mittel,Prozent,K03460,24.9643794525684
+2022,"Wesermarsch",mittel,Prozent,K03461,33.9661719019676
+2022,"Wittmund",mittel,Prozent,K03462,25.2444444444444
+2022,"Statistische Region Weser-Ems",mittel,Prozent,K034,26.7098079857683
+2022,"Niedersachsen",mittel,Prozent,K030,29.8676672891957
+2022,"Braunschweig, Stadt",niedrig,Prozent,K03101,24.0011859758357
+2022,"Salzgitter, Stadt",niedrig,Prozent,K03102,22.6904674273095
+2022,"Wolfsburg, Stadt",niedrig,Prozent,K03103,14.0675393663441
+2022,"Gifhorn",niedrig,Prozent,K03151,24.5249556625285
+2022,"Goslar",niedrig,Prozent,K03153,24.1672927623341
+2022,"Helmstedt",niedrig,Prozent,K03154,21.9616204690832
+2022,"Northeim",niedrig,Prozent,K03155,26.192241166296
+2022,"Peine",niedrig,Prozent,K03157,28.3346085182351
+2022,"Wolfenbüttel",niedrig,Prozent,K03158,24.5118191161357
+2022,"Göttingen",niedrig,Prozent,K03159,25.0584535999355
+2022,"Statistische Region Braunschweig",niedrig,Prozent,K031,22.8165584415584
+2022,"Region Hannover",niedrig,Prozent,K03241,27.7241045238031
+2022,"dav. Hannover, Lhst.",niedrig,Prozent,K03241001,26.5342398791272
+2022,"dav. Hannover, Umland",niedrig,Prozent,K03241999,29.5510371179039
+2022,"Diepholz",niedrig,Prozent,K03251,25.6730438767327
+2022,"Hameln-Pyrmont",niedrig,Prozent,K03252,28.8084159417358
+2022,"Hildesheim",niedrig,Prozent,K03254,27.2840738891663
+2022,"Holzminden",niedrig,Prozent,K03255,27.2826681246583
+2022,"Nienburg (Weser)",niedrig,Prozent,K03256,37.5828877005348
+2022,"Schaumburg",niedrig,Prozent,K03257,31.1524481505238
+2022,"Statistische Region Hannover",niedrig,Prozent,K032,28.1462545366336
+2022,"Celle",niedrig,Prozent,K03351,29.0852833107716
+2022,"Cuxhaven",niedrig,Prozent,K03352,25.2575549450549
+2022,"Harburg",niedrig,Prozent,K03353,29.818584447662
+2022,"Lüchow-Dannenberg",niedrig,Prozent,K03354,19.3381592554292
+2022,"Lüneburg",niedrig,Prozent,K03355,29.068487117375
+2022,"Osterholz",niedrig,Prozent,K03356,26.9593762823143
+2022,"Rotenburg (Wümme)",niedrig,Prozent,K03357,28.7445371473977
+2022,"Heidekreis",niedrig,Prozent,K03358,22.9815996995869
+2022,"Stade",niedrig,Prozent,K03359,23.1638418079096
+2022,"Uelzen",niedrig,Prozent,K03360,25.1162790697674
+2022,"Verden",niedrig,Prozent,K03361,40.8555109976911
+2022,"Statistische Region Lüneburg",niedrig,Prozent,K033,28.8256776914768
+2022,"Delmenhorst, Stadt",niedrig,Prozent,K03401,28.2698961937716
+2022,"Emden, Stadt",niedrig,Prozent,K03402,28.6544479213232
+2022,"Oldenburg (Oldb), Stadt",niedrig,Prozent,K03403,29.0984152350513
+2022,"Osnabrück, Stadt",niedrig,Prozent,K03404,33.5192414947016
+2022,"Wilhelmshaven, Stadt",niedrig,Prozent,K03405,32.8909166321029
+2022,"Ammerland",niedrig,Prozent,K03451,29.0454811633808
+2022,"Aurich",niedrig,Prozent,K03452,25.9501430322844
+2022,"Cloppenburg",niedrig,Prozent,K03453,27.3477204095161
+2022,"Emsland",niedrig,Prozent,K03454,22.164140094093
+2022,"Friesland",niedrig,Prozent,K03455,27.8443113772455
+2022,"Grafschaft Bentheim",niedrig,Prozent,K03456,23.5021035833454
+2022,"Leer",niedrig,Prozent,K03457,21.0548885077187
+2022,"Oldenburg",niedrig,Prozent,K03458,27.3472668810289
+2022,"Osnabrück",niedrig,Prozent,K03459,27.310974164494
+2022,"Vechta",niedrig,Prozent,K03460,31.2635920509936
+2022,"Wesermarsch",niedrig,Prozent,K03461,21.7121159820504
+2022,"Wittmund",niedrig,Prozent,K03462,19.2
+2022,"Statistische Region Weser-Ems",niedrig,Prozent,K034,27.1227242682161
+2022,"Niedersachsen",niedrig,Prozent,K030,26.9618960729188
+2022,"Braunschweig, Stadt",unbekannt,Prozent,K03101,21.4883996738566
+2022,"Salzgitter, Stadt",unbekannt,Prozent,K03102,28.0272359219728
+2022,"Wolfsburg, Stadt",unbekannt,Prozent,K03103,23.828495541643
+2022,"Gifhorn",unbekannt,Prozent,K03151,30.3775019001774
+2022,"Goslar",unbekannt,Prozent,K03153,25.4445279238668
+2022,"Helmstedt",unbekannt,Prozent,K03154,18.4968017057569
+2022,"Northeim",unbekannt,Prozent,K03155,23.7954040029652
+2022,"Peine",unbekannt,Prozent,K03157,32.466207600102
+2022,"Wolfenbüttel",unbekannt,Prozent,K03158,24.6145940390545
+2022,"Göttingen",unbekannt,Prozent,K03159,18.0520841731839
+2022,"Statistische Region Braunschweig",unbekannt,Prozent,K031,23.4577922077922
+2022,"Region Hannover",unbekannt,Prozent,K03241,24.6858096288921
+2022,"dav. Hannover, Lhst.",unbekannt,Prozent,K03241001,22.0726125405502
+2022,"dav. Hannover, Umland",unbekannt,Prozent,K03241999,28.6981441048035
+2022,"Diepholz",unbekannt,Prozent,K03251,33.7037461335777
+2022,"Hameln-Pyrmont",unbekannt,Prozent,K03252,23.4068379526603
+2022,"Hildesheim",unbekannt,Prozent,K03254,21.0434348477284
+2022,"Holzminden",unbekannt,Prozent,K03255,26.079825041006
+2022,"Nienburg (Weser)",unbekannt,Prozent,K03256,29.8395721925134
+2022,"Schaumburg",unbekannt,Prozent,K03257,21.4667521915758
+2022,"Statistische Region Hannover",unbekannt,Prozent,K032,25.1970928225558
+2022,"Celle",unbekannt,Prozent,K03351,29.1819764068845
+2022,"Cuxhaven",unbekannt,Prozent,K03352,41.3976648351648
+2022,"Harburg",unbekannt,Prozent,K03353,36.4534537092241
+2022,"Lüchow-Dannenberg",unbekannt,Prozent,K03354,42.8128231644261
+2022,"Lüneburg",unbekannt,Prozent,K03355,23.5851134111429
+2022,"Osterholz",unbekannt,Prozent,K03356,28.3545342634387
+2022,"Rotenburg (Wümme)",unbekannt,Prozent,K03357,28.2479141835518
+2022,"Heidekreis",unbekannt,Prozent,K03358,32.5572662410815
+2022,"Stade",unbekannt,Prozent,K03359,41.2719107634362
+2022,"Uelzen",unbekannt,Prozent,K03360,26.046511627907
+2022,"Verden",unbekannt,Prozent,K03361,28.6183011301495
+2022,"Statistische Region Lüneburg",unbekannt,Prozent,K033,33.0847178643074
+2022,"Delmenhorst, Stadt",unbekannt,Prozent,K03401,36.8166089965398
+2022,"Emden, Stadt",unbekannt,Prozent,K03402,25.9722843093429
+2022,"Oldenburg (Oldb), Stadt",unbekannt,Prozent,K03403,27.3405247036889
+2022,"Osnabrück, Stadt",unbekannt,Prozent,K03404,26.0457334076966
+2022,"Wilhelmshaven, Stadt",unbekannt,Prozent,K03405,25.9228535877229
+2022,"Ammerland",unbekannt,Prozent,K03451,36.1897325785672
+2022,"Aurich",unbekannt,Prozent,K03452,36.595831630568
+2022,"Cloppenburg",unbekannt,Prozent,K03453,49.8342785593283
+2022,"Emsland",unbekannt,Prozent,K03454,42.9064296915839
+2022,"Friesland",unbekannt,Prozent,K03455,31.6367265469062
+2022,"Grafschaft Bentheim",unbekannt,Prozent,K03456,34.0055128391121
+2022,"Leer",unbekannt,Prozent,K03457,39.9656946826758
+2022,"Oldenburg",unbekannt,Prozent,K03458,47.491961414791
+2022,"Osnabrück",unbekannt,Prozent,K03459,39.1799004503437
+2022,"Vechta",unbekannt,Prozent,K03460,39.437570303712
+2022,"Wesermarsch",unbekannt,Prozent,K03461,37.176389368312
+2022,"Wittmund",unbekannt,Prozent,K03462,47.8222222222222
+2022,"Statistische Region Weser-Ems",unbekannt,Prozent,K034,38.3751009849604
+2022,"Niedersachsen",unbekannt,Prozent,K030,30.8249129841641
 2021,"Braunschweig, Stadt",hoch,Prozent,K03101,25.7767456758488
 2021,"Salzgitter, Stadt",hoch,Prozent,K03102,9.8062015503876
 2021,"Wolfsburg, Stadt",hoch,Prozent,K03103,26.4185245431059
@@ -10,7 +218,7 @@
 2021,"Wolfenbüttel",hoch,Prozent,K03158,13.9520958083832
 2021,"Göttingen",hoch,Prozent,K03159,27.9952872938191
 2021,"Statistische Region Braunschweig",hoch,Prozent,K031,21.0526315789474
-2021,"Hannover  Region",hoch,Prozent,K03241,14.184983035846
+2021,"Region Hannover",hoch,Prozent,K03241,14.184983035846
 2021,"dav. Hannover, Lhst.",hoch,Prozent,K03241001,17.6813268818757
 2021,"dav. Hannover, Umland",hoch,Prozent,K03241999,8.6517581622157
 2021,"Diepholz",hoch,Prozent,K03251,7.43038141744754
@@ -33,8 +241,8 @@
 2021,"Verden",hoch,Prozent,K03361,8.94611491515332
 2021,"Statistische Region Lüneburg",hoch,Prozent,K033,9.73058266612121
 2021,"Delmenhorst, Stadt",hoch,Prozent,K03401,8.83268482490272
-2021,"Emden  Stadt",hoch,Prozent,K03402,10.4834605597964
-2021,"Oldenburg(Oldb), Stadt",hoch,Prozent,K03403,18.5348631950574
+2021,"Emden, Stadt",hoch,Prozent,K03402,10.4834605597964
+2021,"Oldenburg (Oldb), Stadt",hoch,Prozent,K03403,18.5348631950574
 2021,"Osnabrück, Stadt",hoch,Prozent,K03404,11.9801176709272
 2021,"Wilhelmshaven, Stadt",hoch,Prozent,K03405,14.1780499293453
 2021,"Ammerland",hoch,Prozent,K03451,7.35986307231493
@@ -62,7 +270,7 @@
 2021,"Wolfenbüttel",mittel,Prozent,K03158,37.7245508982036
 2021,"Göttingen",mittel,Prozent,K03159,28.4756208084104
 2021,"Statistische Region Braunschweig",mittel,Prozent,K031,32.4239980363968
-2021,"Hannover  Region",mittel,Prozent,K03241,33.065348871515
+2021,"Region Hannover",mittel,Prozent,K03241,33.065348871515
 2021,"dav. Hannover, Lhst.",mittel,Prozent,K03241001,32.8398449724369
 2021,"dav. Hannover, Umland",mittel,Prozent,K03241999,33.4222256085946
 2021,"Diepholz",mittel,Prozent,K03251,33.7996568562756
@@ -85,8 +293,8 @@
 2021,"Verden",mittel,Prozent,K03361,24.9032450133968
 2021,"Statistische Region Lüneburg",mittel,Prozent,K033,29.450840589874
 2021,"Delmenhorst, Stadt",mittel,Prozent,K03401,26.7315175097276
-2021,"Emden  Stadt",mittel,Prozent,K03402,33.7404580152672
-2021,"Oldenburg(Oldb), Stadt",mittel,Prozent,K03403,24.5660488378935
+2021,"Emden, Stadt",mittel,Prozent,K03402,33.7404580152672
+2021,"Oldenburg (Oldb), Stadt",mittel,Prozent,K03403,24.5660488378935
 2021,"Osnabrück, Stadt",mittel,Prozent,K03404,28.8598092919456
 2021,"Wilhelmshaven, Stadt",mittel,Prozent,K03405,27.1314178049929
 2021,"Ammerland",mittel,Prozent,K03451,24.7111681643132
@@ -114,7 +322,7 @@
 2021,"Wolfenbüttel",niedrig,Prozent,K03158,24.3712574850299
 2021,"Göttingen",niedrig,Prozent,K03159,25.8836324089179
 2021,"Statistische Region Braunschweig",niedrig,Prozent,K031,22.7707843893545
-2021,"Hannover  Region",niedrig,Prozent,K03241,28.2209765452132
+2021,"Region Hannover",niedrig,Prozent,K03241,28.2209765452132
 2021,"dav. Hannover, Lhst.",niedrig,Prozent,K03241001,26.8650249151441
 2021,"dav. Hannover, Umland",niedrig,Prozent,K03241999,30.3668711188998
 2021,"Diepholz",niedrig,Prozent,K03251,25.089085389996
@@ -137,8 +345,8 @@
 2021,"Verden",niedrig,Prozent,K03361,35.323012801429
 2021,"Statistische Region Lüneburg",niedrig,Prozent,K033,28.1222605341593
 2021,"Delmenhorst, Stadt",niedrig,Prozent,K03401,29.3385214007782
-2021,"Emden  Stadt",niedrig,Prozent,K03402,28.0916030534351
-2021,"Oldenburg(Oldb), Stadt",niedrig,Prozent,K03403,28.4642541924095
+2021,"Emden, Stadt",niedrig,Prozent,K03402,28.0916030534351
+2021,"Oldenburg (Oldb), Stadt",niedrig,Prozent,K03403,28.4642541924095
 2021,"Osnabrück, Stadt",niedrig,Prozent,K03404,33.5565023331305
 2021,"Wilhelmshaven, Stadt",niedrig,Prozent,K03405,33.6787564766839
 2021,"Ammerland",niedrig,Prozent,K03451,27.98459563543
@@ -166,7 +374,7 @@
 2021,"Wolfenbüttel",unbekannt,Prozent,K03158,23.9520958083832
 2021,"Göttingen",unbekannt,Prozent,K03159,17.6454594888526
 2021,"Statistische Region Braunschweig",unbekannt,Prozent,K031,23.7525859953014
-2021,"Hannover  Region",unbekannt,Prozent,K03241,24.5286915474259
+2021,"Region Hannover",unbekannt,Prozent,K03241,24.5286915474259
 2021,"dav. Hannover, Lhst.",unbekannt,Prozent,K03241001,22.6138032305433
 2021,"dav. Hannover, Umland",unbekannt,Prozent,K03241999,27.5591451102899
 2021,"Diepholz",unbekannt,Prozent,K03251,33.6808763362809
@@ -189,8 +397,8 @@
 2021,"Verden",unbekannt,Prozent,K03361,30.8276272700208
 2021,"Statistische Region Lüneburg",unbekannt,Prozent,K033,32.6963162098455
 2021,"Delmenhorst, Stadt",unbekannt,Prozent,K03401,35.0972762645914
-2021,"Emden  Stadt",unbekannt,Prozent,K03402,27.6844783715013
-2021,"Oldenburg(Oldb), Stadt",unbekannt,Prozent,K03403,28.4348337746396
+2021,"Emden, Stadt",unbekannt,Prozent,K03402,27.6844783715013
+2021,"Oldenburg (Oldb), Stadt",unbekannt,Prozent,K03403,28.4348337746396
 2021,"Osnabrück, Stadt",unbekannt,Prozent,K03404,25.6035707039968
 2021,"Wilhelmshaven, Stadt",unbekannt,Prozent,K03405,25.0117757889779
 2021,"Ammerland",unbekannt,Prozent,K03451,39.9443731279418
@@ -218,7 +426,7 @@
 2020,"Wolfenbüttel",hoch,Prozent,K03158,12.9255989911728
 2020,"Göttingen",hoch,Prozent,K03159,28.1806162920777
 2020,"Statistische Region Braunschweig",hoch,Prozent,K031,20.4597314180975
-2020,"Hannover  Region",hoch,Prozent,K03241,13.7453697790267
+2020,"Region Hannover",hoch,Prozent,K03241,13.7453697790267
 2020,"dav. Hannover, Lhst.",hoch,Prozent,K03241001,17.2278758212031
 2020,"dav. Hannover, Umland",hoch,Prozent,K03241999,8.06986606205651
 2020,"Diepholz",hoch,Prozent,K03251,7.23384895359418
@@ -241,8 +449,8 @@
 2020,"Verden",hoch,Prozent,K03361,7.65677740273583
 2020,"Statistische Region Lüneburg",hoch,Prozent,K033,9.34915268652591
 2020,"Delmenhorst, Stadt",hoch,Prozent,K03401,9.97854077253219
-2020,"Emden  Stadt",hoch,Prozent,K03402,10.0932528798683
-2020,"Oldenburg(Oldb), Stadt",hoch,Prozent,K03403,18.159688412853
+2020,"Emden, Stadt",hoch,Prozent,K03402,10.0932528798683
+2020,"Oldenburg (Oldb), Stadt",hoch,Prozent,K03403,18.159688412853
 2020,"Osnabrück, Stadt",hoch,Prozent,K03404,11.3258731773483
 2020,"Wilhelmshaven, Stadt",hoch,Prozent,K03405,14.7169811320755
 2020,"Ammerland",hoch,Prozent,K03451,7.39224656874549
@@ -270,7 +478,7 @@
 2020,"Wolfenbüttel",mittel,Prozent,K03158,40.7313997477932
 2020,"Göttingen",mittel,Prozent,K03159,28.6789382690939
 2020,"Statistische Region Braunschweig",mittel,Prozent,K031,32.2896794224367
-2020,"Hannover  Region",mittel,Prozent,K03241,32.9432239110998
+2020,"Region Hannover",mittel,Prozent,K03241,32.9432239110998
 2020,"dav. Hannover, Lhst.",mittel,Prozent,K03241001,32.3612005667912
 2020,"dav. Hannover, Umland",mittel,Prozent,K03241999,33.8917579879918
 2020,"Diepholz",mittel,Prozent,K03251,32.9542007885957
@@ -293,8 +501,8 @@
 2020,"Verden",mittel,Prozent,K03361,24.0895363297211
 2020,"Statistische Region Lüneburg",mittel,Prozent,K033,29.7123174076673
 2020,"Delmenhorst, Stadt",mittel,Prozent,K03401,31.2768240343348
-2020,"Emden  Stadt",mittel,Prozent,K03402,33.2967635765222
-2020,"Oldenburg(Oldb), Stadt",mittel,Prozent,K03403,24.6835443037975
+2020,"Emden, Stadt",mittel,Prozent,K03402,33.2967635765222
+2020,"Oldenburg (Oldb), Stadt",mittel,Prozent,K03403,24.6835443037975
 2020,"Osnabrück, Stadt",mittel,Prozent,K03404,30.2249350062168
 2020,"Wilhelmshaven, Stadt",mittel,Prozent,K03405,27.3854447439353
 2020,"Ammerland",mittel,Prozent,K03451,25.5718757524681
@@ -322,7 +530,7 @@
 2020,"Wolfenbüttel",niedrig,Prozent,K03158,23.8965952080706
 2020,"Göttingen",niedrig,Prozent,K03159,25.3127224651683
 2020,"Statistische Region Braunschweig",niedrig,Prozent,K031,22.524595069764
-2020,"Hannover  Region",niedrig,Prozent,K03241,27.765359560608
+2020,"Region Hannover",niedrig,Prozent,K03241,27.765359560608
 2020,"dav. Hannover, Lhst.",niedrig,Prozent,K03241001,27.0539739791318
 2020,"dav. Hannover, Umland",niedrig,Prozent,K03241999,28.9247176386615
 2020,"Diepholz",niedrig,Prozent,K03251,24.3403093721565
@@ -345,8 +553,8 @@
 2020,"Verden",niedrig,Prozent,K03361,27.8379818795523
 2020,"Statistische Region Lüneburg",niedrig,Prozent,K033,26.3570836256937
 2020,"Delmenhorst, Stadt",niedrig,Prozent,K03401,32.1351931330472
-2020,"Emden  Stadt",niedrig,Prozent,K03402,26.3302249040044
-2020,"Oldenburg(Oldb), Stadt",niedrig,Prozent,K03403,29.1139240506329
+2020,"Emden, Stadt",niedrig,Prozent,K03402,26.3302249040044
+2020,"Oldenburg (Oldb), Stadt",niedrig,Prozent,K03403,29.1139240506329
 2020,"Osnabrück, Stadt",niedrig,Prozent,K03404,32.2934328020798
 2020,"Wilhelmshaven, Stadt",niedrig,Prozent,K03405,33.4231805929919
 2020,"Ammerland",niedrig,Prozent,K03451,26.8962196002889
@@ -374,7 +582,7 @@
 2020,"Wolfenbüttel",unbekannt,Prozent,K03158,22.4464060529634
 2020,"Göttingen",unbekannt,Prozent,K03159,17.8277229736601
 2020,"Statistische Region Braunschweig",unbekannt,Prozent,K031,24.7259940897019
-2020,"Hannover  Region",unbekannt,Prozent,K03241,25.5460467492656
+2020,"Region Hannover",unbekannt,Prozent,K03241,25.5460467492656
 2020,"dav. Hannover, Lhst.",unbekannt,Prozent,K03241001,23.3569496328739
 2020,"dav. Hannover, Umland",unbekannt,Prozent,K03241999,29.1136583112903
 2020,"Diepholz",unbekannt,Prozent,K03251,35.4716408856536
@@ -397,8 +605,8 @@
 2020,"Verden",unbekannt,Prozent,K03361,40.4157043879908
 2020,"Statistische Region Lüneburg",unbekannt,Prozent,K033,34.5814462801131
 2020,"Delmenhorst, Stadt",unbekannt,Prozent,K03401,26.6094420600858
-2020,"Emden  Stadt",unbekannt,Prozent,K03402,30.279758639605
-2020,"Oldenburg(Oldb), Stadt",unbekannt,Prozent,K03403,28.0428432327166
+2020,"Emden, Stadt",unbekannt,Prozent,K03402,30.279758639605
+2020,"Oldenburg (Oldb), Stadt",unbekannt,Prozent,K03403,28.0428432327166
 2020,"Osnabrück, Stadt",unbekannt,Prozent,K03404,26.1557590143551
 2020,"Wilhelmshaven, Stadt",unbekannt,Prozent,K03405,24.4743935309973
 2020,"Ammerland",unbekannt,Prozent,K03451,40.1396580784975
@@ -426,7 +634,7 @@
 2019,"Wolfenbüttel",hoch,Prozent,K03158,12.7814569536424
 2019,"Göttingen",hoch,Prozent,K03159,28.5820105820106
 2019,"Statistische Region Braunschweig",hoch,Prozent,K031,19.6352430420963
-2019,"Hannover  Region",hoch,Prozent,K03241,13.2604507960551
+2019,"Region Hannover",hoch,Prozent,K03241,13.2604507960551
 2019,"dav. Hannover, Lhst.",hoch,Prozent,K03241001,16.4416058394161
 2019,"dav. Hannover, Umland",hoch,Prozent,K03241999,7.80712338561916
 2019,"Diepholz",hoch,Prozent,K03251,7.03953712632594
@@ -449,8 +657,8 @@
 2019,"Verden",hoch,Prozent,K03361,8.11860940695296
 2019,"Statistische Region Lüneburg",hoch,Prozent,K033,9.07755581668625
 2019,"Delmenhorst, Stadt",hoch,Prozent,K03401,9.32297447280799
-2019,"Emden  Stadt",hoch,Prozent,K03402,9.23715620134925
-2019,"Oldenburg(Oldb), Stadt",hoch,Prozent,K03403,17.7109865851588
+2019,"Emden, Stadt",hoch,Prozent,K03402,9.23715620134925
+2019,"Oldenburg (Oldb), Stadt",hoch,Prozent,K03403,17.7109865851588
 2019,"Osnabrück, Stadt",hoch,Prozent,K03404,10.7917004752521
 2019,"Wilhelmshaven, Stadt",hoch,Prozent,K03405,15.2107513744655
 2019,"Ammerland",hoch,Prozent,K03451,6.86922060766182
@@ -478,7 +686,7 @@
 2019,"Wolfenbüttel",mittel,Prozent,K03158,40.6622516556291
 2019,"Göttingen",mittel,Prozent,K03159,28.2645502645503
 2019,"Statistische Region Braunschweig",mittel,Prozent,K031,32.1594697263354
-2019,"Hannover  Region",mittel,Prozent,K03241,32.5057213889392
+2019,"Region Hannover",mittel,Prozent,K03241,32.5057213889392
 2019,"dav. Hannover, Lhst.",mittel,Prozent,K03241001,31.8508863399374
 2019,"dav. Hannover, Umland",mittel,Prozent,K03241999,33.6282790365107
 2019,"Diepholz",mittel,Prozent,K03251,31.870781099325
@@ -501,8 +709,8 @@
 2019,"Verden",mittel,Prozent,K03361,26.40081799591
 2019,"Statistische Region Lüneburg",mittel,Prozent,K033,29.9444092922354
 2019,"Delmenhorst, Stadt",mittel,Prozent,K03401,30.9655937846837
-2019,"Emden  Stadt",mittel,Prozent,K03402,33.8349766476388
-2019,"Oldenburg(Oldb), Stadt",mittel,Prozent,K03403,24.9617931737137
+2019,"Emden, Stadt",mittel,Prozent,K03402,33.8349766476388
+2019,"Oldenburg (Oldb), Stadt",mittel,Prozent,K03403,24.9617931737137
 2019,"Osnabrück, Stadt",mittel,Prozent,K03404,29.5004057030254
 2019,"Wilhelmshaven, Stadt",mittel,Prozent,K03405,29.1386682956628
 2019,"Ammerland",mittel,Prozent,K03451,26.1822985468956
@@ -530,7 +738,7 @@
 2019,"Wolfenbüttel",niedrig,Prozent,K03158,22.7152317880795
 2019,"Göttingen",niedrig,Prozent,K03159,24.8253968253968
 2019,"Statistische Region Braunschweig",niedrig,Prozent,K031,22.4707341654392
-2019,"Hannover  Region",niedrig,Prozent,K03241,27.5828572369396
+2019,"Region Hannover",niedrig,Prozent,K03241,27.5828572369396
 2019,"dav. Hannover, Lhst.",niedrig,Prozent,K03241001,26.7361835245047
 2019,"dav. Hannover, Umland",niedrig,Prozent,K03241999,29.0342762658086
 2019,"Diepholz",niedrig,Prozent,K03251,25.2812600450016
@@ -553,8 +761,8 @@
 2019,"Verden",niedrig,Prozent,K03361,26.0122699386503
 2019,"Statistische Region Lüneburg",niedrig,Prozent,K033,25.6011027750158
 2019,"Delmenhorst, Stadt",niedrig,Prozent,K03401,28.8568257491676
-2019,"Emden  Stadt",niedrig,Prozent,K03402,26.4660093409445
-2019,"Oldenburg(Oldb), Stadt",niedrig,Prozent,K03403,27.5768381728647
+2019,"Emden, Stadt",niedrig,Prozent,K03402,26.4660093409445
+2019,"Oldenburg (Oldb), Stadt",niedrig,Prozent,K03403,27.5768381728647
 2019,"Osnabrück, Stadt",niedrig,Prozent,K03404,32.050539005448
 2019,"Wilhelmshaven, Stadt",niedrig,Prozent,K03405,30.7269395235186
 2019,"Ammerland",niedrig,Prozent,K03451,24.8612945838838
@@ -582,7 +790,7 @@
 2019,"Wolfenbüttel",unbekannt,Prozent,K03158,23.841059602649
 2019,"Göttingen",unbekannt,Prozent,K03159,18.3280423280423
 2019,"Statistische Region Braunschweig",unbekannt,Prozent,K031,25.7345530661292
-2019,"Hannover  Region",unbekannt,Prozent,K03241,26.6509705780661
+2019,"Region Hannover",unbekannt,Prozent,K03241,26.6509705780661
 2019,"dav. Hannover, Lhst.",unbekannt,Prozent,K03241001,24.9713242961418
 2019,"dav. Hannover, Umland",unbekannt,Prozent,K03241999,29.5303213120615
 2019,"Diepholz",unbekannt,Prozent,K03251,35.8084217293475
@@ -605,8 +813,8 @@
 2019,"Verden",unbekannt,Prozent,K03361,39.4683026584867
 2019,"Statistische Region Lüneburg",unbekannt,Prozent,K033,35.3769321160625
 2019,"Delmenhorst, Stadt",unbekannt,Prozent,K03401,30.8546059933407
-2019,"Emden  Stadt",unbekannt,Prozent,K03402,30.4618578100675
-2019,"Oldenburg(Oldb), Stadt",unbekannt,Prozent,K03403,29.7503820682629
+2019,"Emden, Stadt",unbekannt,Prozent,K03402,30.4618578100675
+2019,"Oldenburg (Oldb), Stadt",unbekannt,Prozent,K03403,29.7503820682629
 2019,"Osnabrück, Stadt",unbekannt,Prozent,K03404,27.6573548162745
 2019,"Wilhelmshaven, Stadt",unbekannt,Prozent,K03405,24.9236408063531
 2019,"Ammerland",unbekannt,Prozent,K03451,42.0871862615588
@@ -634,7 +842,7 @@
 2018,"Wolfenbüttel",hoch,Prozent,K03158,12.1104815864023
 2018,"Göttingen",hoch,Prozent,K03159,29.1142164222197
 2018,"Statistische Region Braunschweig",hoch,Prozent,K031,19.1645774019462
-2018,"Hannover  Region",hoch,Prozent,K03241,12.7731122340047
+2018,"Region Hannover",hoch,Prozent,K03241,12.7731122340047
 2018,"dav. Hannover, Lhst.",hoch,Prozent,K03241001,15.6446497134272
 2018,"dav. Hannover, Umland",hoch,Prozent,K03241999,7.67939986181028
 2018,"Diepholz",hoch,Prozent,K03251,6.7859673990078
@@ -657,8 +865,8 @@
 2018,"Verden",hoch,Prozent,K03361,8.24038242658775
 2018,"Statistische Region Lüneburg",hoch,Prozent,K033,8.91568077000201
 2018,"Delmenhorst, Stadt",hoch,Prozent,K03401,8.96309314586995
-2018,"Emden  Stadt",hoch,Prozent,K03402,8.9716684155299
-2018,"Oldenburg(Oldb), Stadt",hoch,Prozent,K03403,18.6644884623239
+2018,"Emden, Stadt",hoch,Prozent,K03402,8.9716684155299
+2018,"Oldenburg (Oldb), Stadt",hoch,Prozent,K03403,18.6644884623239
 2018,"Osnabrück, Stadt",hoch,Prozent,K03404,10.9948337528149
 2018,"Wilhelmshaven, Stadt",hoch,Prozent,K03405,13.7822529893014
 2018,"Ammerland",hoch,Prozent,K03451,5.8051341890315
@@ -686,7 +894,7 @@
 2018,"Wolfenbüttel",mittel,Prozent,K03158,40.2266288951841
 2018,"Göttingen",mittel,Prozent,K03159,29.322092620395
 2018,"Statistische Region Braunschweig",mittel,Prozent,K031,33.2086856754345
-2018,"Hannover  Region",mittel,Prozent,K03241,32.485232367803
+2018,"Region Hannover",mittel,Prozent,K03241,32.485232367803
 2018,"dav. Hannover, Lhst.",mittel,Prozent,K03241001,32.0738968337878
 2018,"dav. Hannover, Umland",mittel,Prozent,K03241999,33.2148850064159
 2018,"Diepholz",mittel,Prozent,K03251,32.2466335931963
@@ -709,8 +917,8 @@
 2018,"Verden",mittel,Prozent,K03361,26.1780104712042
 2018,"Statistische Region Lüneburg",mittel,Prozent,K033,30.3138159213956
 2018,"Delmenhorst, Stadt",mittel,Prozent,K03401,30.2284710017575
-2018,"Emden  Stadt",mittel,Prozent,K03402,35.8866736621196
-2018,"Oldenburg(Oldb), Stadt",mittel,Prozent,K03403,26.6081274249541
+2018,"Emden, Stadt",mittel,Prozent,K03402,35.8866736621196
+2018,"Oldenburg (Oldb), Stadt",mittel,Prozent,K03403,26.6081274249541
 2018,"Osnabrück, Stadt",mittel,Prozent,K03404,30.6000794807259
 2018,"Wilhelmshaven, Stadt",mittel,Prozent,K03405,28.3826305852738
 2018,"Ammerland",mittel,Prozent,K03451,26.9836639439907
@@ -738,7 +946,7 @@
 2018,"Wolfenbüttel",niedrig,Prozent,K03158,22.5920679886686
 2018,"Göttingen",niedrig,Prozent,K03159,23.3398775840166
 2018,"Statistische Region Braunschweig",niedrig,Prozent,K031,21.8289210895338
-2018,"Hannover  Region",niedrig,Prozent,K03241,26.6386734040282
+2018,"Region Hannover",niedrig,Prozent,K03241,26.6386734040282
 2018,"dav. Hannover, Lhst.",niedrig,Prozent,K03241001,25.699738467531
 2018,"dav. Hannover, Umland",niedrig,Prozent,K03241999,28.3042147862995
 2018,"Diepholz",niedrig,Prozent,K03251,23.4939759036145
@@ -761,8 +969,8 @@
 2018,"Verden",niedrig,Prozent,K03361,25.9503755975415
 2018,"Statistische Region Lüneburg",niedrig,Prozent,K033,24.0675756968117
 2018,"Delmenhorst, Stadt",niedrig,Prozent,K03401,27.1236086701816
-2018,"Emden  Stadt",niedrig,Prozent,K03402,26.495278069255
-2018,"Oldenburg(Oldb), Stadt",niedrig,Prozent,K03403,27.1799060649377
+2018,"Emden, Stadt",niedrig,Prozent,K03402,26.495278069255
+2018,"Oldenburg (Oldb), Stadt",niedrig,Prozent,K03403,27.1799060649377
 2018,"Osnabrück, Stadt",niedrig,Prozent,K03404,30.8120280831898
 2018,"Wilhelmshaven, Stadt",niedrig,Prozent,K03405,27.3757079924481
 2018,"Ammerland",niedrig,Prozent,K03451,23.0455075845974
@@ -790,7 +998,7 @@
 2018,"Wolfenbüttel",unbekannt,Prozent,K03158,25.070821529745
 2018,"Göttingen",unbekannt,Prozent,K03159,18.2238133733687
 2018,"Statistische Region Braunschweig",unbekannt,Prozent,K031,25.7978158330855
-2018,"Hannover  Region",unbekannt,Prozent,K03241,28.1029819941641
+2018,"Region Hannover",unbekannt,Prozent,K03241,28.1029819941641
 2018,"dav. Hannover, Lhst.",unbekannt,Prozent,K03241001,26.581714985254
 2018,"dav. Hannover, Umland",unbekannt,Prozent,K03241999,30.8015003454743
 2018,"Diepholz",unbekannt,Prozent,K03251,37.4734231041814
@@ -813,8 +1021,8 @@
 2018,"Verden",unbekannt,Prozent,K03361,39.6312315046665
 2018,"Statistische Region Lüneburg",unbekannt,Prozent,K033,36.7029276117907
 2018,"Delmenhorst, Stadt",unbekannt,Prozent,K03401,33.684827182191
-2018,"Emden  Stadt",unbekannt,Prozent,K03402,28.6463798530955
-2018,"Oldenburg(Oldb), Stadt",unbekannt,Prozent,K03403,27.5474780477844
+2018,"Emden, Stadt",unbekannt,Prozent,K03402,28.6463798530955
+2018,"Oldenburg (Oldb), Stadt",unbekannt,Prozent,K03403,27.5474780477844
 2018,"Osnabrück, Stadt",unbekannt,Prozent,K03404,27.5930586832693
 2018,"Wilhelmshaven, Stadt",unbekannt,Prozent,K03405,30.4594084329767
 2018,"Ammerland",unbekannt,Prozent,K03451,44.1656942823804
@@ -842,7 +1050,7 @@
 2017,"Wolfenbüttel",hoch,Prozent,K03158,11.1386138613861
 2017,"Göttingen",hoch,Prozent,K03159,28.9920287991772
 2017,"Statistische Region Braunschweig",hoch,Prozent,K031,19.1036160671692
-2017,"Hannover  Region",hoch,Prozent,K03241,12.528451646791
+2017,"Region Hannover",hoch,Prozent,K03241,12.528451646791
 2017,"dav. Hannover, Lhst.",hoch,Prozent,K03241001,15.2138329216392
 2017,"dav. Hannover, Umland",hoch,Prozent,K03241999,7.45983597348613
 2017,"Diepholz",hoch,Prozent,K03251,7.69070879235086
@@ -865,8 +1073,8 @@
 2017,"Verden",hoch,Prozent,K03361,9.24152213305721
 2017,"Statistische Region Lüneburg",hoch,Prozent,K033,9.2622571692877
 2017,"Delmenhorst, Stadt",hoch,Prozent,K03401,8.984375
-2017,"Emden  Stadt",hoch,Prozent,K03402,9.87045033929673
-2017,"Oldenburg(Oldb), Stadt",hoch,Prozent,K03403,18.2535996284255
+2017,"Emden, Stadt",hoch,Prozent,K03402,9.87045033929673
+2017,"Oldenburg (Oldb), Stadt",hoch,Prozent,K03403,18.2535996284255
 2017,"Osnabrück, Stadt",hoch,Prozent,K03404,10.2652329749104
 2017,"Wilhelmshaven, Stadt",hoch,Prozent,K03405,14.9834437086093
 2017,"Ammerland",hoch,Prozent,K03451,5.58963871847307
@@ -894,7 +1102,7 @@
 2017,"Wolfenbüttel",mittel,Prozent,K03158,40.7590759075908
 2017,"Göttingen",mittel,Prozent,K03159,29.6220107996914
 2017,"Statistische Region Braunschweig",mittel,Prozent,K031,33.8636580478962
-2017,"Hannover  Region",mittel,Prozent,K03241,33.0136373363422
+2017,"Region Hannover",mittel,Prozent,K03241,33.0136373363422
 2017,"dav. Hannover, Lhst.",mittel,Prozent,K03241001,32.0466652778191
 2017,"dav. Hannover, Umland",mittel,Prozent,K03241999,34.8387821593079
 2017,"Diepholz",mittel,Prozent,K03251,33.2571191020578
@@ -917,8 +1125,8 @@
 2017,"Verden",mittel,Prozent,K03361,27.4398136163603
 2017,"Statistische Region Lüneburg",mittel,Prozent,K033,30.9233348751156
 2017,"Delmenhorst, Stadt",mittel,Prozent,K03401,30.2734375
-2017,"Emden  Stadt",mittel,Prozent,K03402,38.4330660086366
-2017,"Oldenburg(Oldb), Stadt",mittel,Prozent,K03403,27.519739897817
+2017,"Emden, Stadt",mittel,Prozent,K03402,38.4330660086366
+2017,"Oldenburg (Oldb), Stadt",mittel,Prozent,K03403,27.519739897817
 2017,"Osnabrück, Stadt",mittel,Prozent,K03404,31.9139784946237
 2017,"Wilhelmshaven, Stadt",mittel,Prozent,K03405,34.3543046357616
 2017,"Ammerland",mittel,Prozent,K03451,26.3803680981595
@@ -946,7 +1154,7 @@
 2017,"Wolfenbüttel",niedrig,Prozent,K03158,21.039603960396
 2017,"Göttingen",niedrig,Prozent,K03159,23.5921830804834
 2017,"Statistische Region Braunschweig",niedrig,Prozent,K031,20.8043125655949
-2017,"Hannover  Region",niedrig,Prozent,K03241,25.5199112892244
+2017,"Region Hannover",niedrig,Prozent,K03241,25.5199112892244
 2017,"dav. Hannover, Lhst.",niedrig,Prozent,K03241001,24.8861641022589
 2017,"dav. Hannover, Umland",niedrig,Prozent,K03241999,26.7160993146837
 2017,"Diepholz",niedrig,Prozent,K03251,21.57555601746
@@ -969,8 +1177,8 @@
 2017,"Verden",niedrig,Prozent,K03361,25.2135645871085
 2017,"Statistische Region Lüneburg",niedrig,Prozent,K033,21.6032608695652
 2017,"Delmenhorst, Stadt",niedrig,Prozent,K03401,26.4322916666667
-2017,"Emden  Stadt",niedrig,Prozent,K03402,23.874151758174
-2017,"Oldenburg(Oldb), Stadt",niedrig,Prozent,K03403,23.9897816999536
+2017,"Emden, Stadt",niedrig,Prozent,K03402,23.874151758174
+2017,"Oldenburg (Oldb), Stadt",niedrig,Prozent,K03403,23.9897816999536
 2017,"Osnabrück, Stadt",niedrig,Prozent,K03404,29.2759856630824
 2017,"Wilhelmshaven, Stadt",niedrig,Prozent,K03405,22.682119205298
 2017,"Ammerland",niedrig,Prozent,K03451,22.80163599182
@@ -998,7 +1206,7 @@
 2017,"Wolfenbüttel",unbekannt,Prozent,K03158,27.0627062706271
 2017,"Göttingen",unbekannt,Prozent,K03159,17.793777320648
 2017,"Statistische Region Braunschweig",unbekannt,Prozent,K031,26.2284133193398
-2017,"Hannover  Region",unbekannt,Prozent,K03241,28.9379997276424
+2017,"Region Hannover",unbekannt,Prozent,K03241,28.9379997276424
 2017,"dav. Hannover, Lhst.",unbekannt,Prozent,K03241001,27.8533376982828
 2017,"dav. Hannover, Umland",unbekannt,Prozent,K03241999,30.9852825525222
 2017,"Diepholz",unbekannt,Prozent,K03251,37.4766160881314
@@ -1021,8 +1229,8 @@
 2017,"Verden",unbekannt,Prozent,K03361,38.105099663474
 2017,"Statistische Region Lüneburg",unbekannt,Prozent,K033,38.2111470860315
 2017,"Delmenhorst, Stadt",unbekannt,Prozent,K03401,34.3098958333333
-2017,"Emden  Stadt",unbekannt,Prozent,K03402,27.8223318938927
-2017,"Oldenburg(Oldb), Stadt",unbekannt,Prozent,K03403,30.236878773804
+2017,"Emden, Stadt",unbekannt,Prozent,K03402,27.8223318938927
+2017,"Oldenburg (Oldb), Stadt",unbekannt,Prozent,K03403,30.236878773804
 2017,"Osnabrück, Stadt",unbekannt,Prozent,K03404,28.5448028673835
 2017,"Wilhelmshaven, Stadt",unbekannt,Prozent,K03405,27.9801324503311
 2017,"Ammerland",unbekannt,Prozent,K03451,45.2283571915474
@@ -1050,7 +1258,7 @@
 2016,"Wolfenbüttel",hoch,Prozent,K03158,10.1825168107589
 2016,"Göttingen",hoch,Prozent,K03159,27.4982480728802
 2016,"Statistische Region Braunschweig",hoch,Prozent,K031,19.0750684354601
-2016,"Hannover  Region",hoch,Prozent,K03241,12.3766682934075
+2016,"Region Hannover",hoch,Prozent,K03241,12.3766682934075
 2016,"dav. Hannover, Lhst.",hoch,Prozent,K03241001,14.9888143176734
 2016,"dav. Hannover, Umland",hoch,Prozent,K03241999,7.21636466948671
 2016,"Diepholz",hoch,Prozent,K03251,7.9419719695107
@@ -1073,8 +1281,8 @@
 2016,"Verden",hoch,Prozent,K03361,10.4958929114694
 2016,"Statistische Region Lüneburg",hoch,Prozent,K033,9.15423861852433
 2016,"Delmenhorst, Stadt",hoch,Prozent,K03401,8.66666666666667
-2016,"Emden  Stadt",hoch,Prozent,K03402,9.01856763925729
-2016,"Oldenburg(Oldb), Stadt",hoch,Prozent,K03403,17.6486059968438
+2016,"Emden, Stadt",hoch,Prozent,K03402,9.01856763925729
+2016,"Oldenburg (Oldb), Stadt",hoch,Prozent,K03403,17.6486059968438
 2016,"Osnabrück, Stadt",hoch,Prozent,K03404,10.0966033032097
 2016,"Wilhelmshaven, Stadt",hoch,Prozent,K03405,14.3598615916955
 2016,"Ammerland",hoch,Prozent,K03451,5.48934633441676
@@ -1102,7 +1310,7 @@
 2016,"Wolfenbüttel",mittel,Prozent,K03158,42.4591738712776
 2016,"Göttingen",mittel,Prozent,K03159,29.9649614576034
 2016,"Statistische Region Braunschweig",mittel,Prozent,K031,34.4151400294799
-2016,"Hannover  Region",mittel,Prozent,K03241,33.2746292091918
+2016,"Region Hannover",mittel,Prozent,K03241,33.2746292091918
 2016,"dav. Hannover, Lhst.",mittel,Prozent,K03241001,32.3362096516459
 2016,"dav. Hannover, Umland",mittel,Prozent,K03241999,35.1284803333544
 2016,"Diepholz",mittel,Prozent,K03251,32.5792967789525
@@ -1125,8 +1333,8 @@
 2016,"Verden",mittel,Prozent,K03361,29.3276543961059
 2016,"Statistische Region Lüneburg",mittel,Prozent,K033,31.511643118786
 2016,"Delmenhorst, Stadt",mittel,Prozent,K03401,29.4074074074074
-2016,"Emden  Stadt",mittel,Prozent,K03402,40.3183023872679
-2016,"Oldenburg(Oldb), Stadt",mittel,Prozent,K03403,28.4850078905839
+2016,"Emden, Stadt",mittel,Prozent,K03402,40.3183023872679
+2016,"Oldenburg (Oldb), Stadt",mittel,Prozent,K03403,28.4850078905839
 2016,"Osnabrück, Stadt",mittel,Prozent,K03404,32.7672172016204
 2016,"Wilhelmshaven, Stadt",mittel,Prozent,K03405,34.2560553633218
 2016,"Ammerland",mittel,Prozent,K03451,25.3159985554352
@@ -1154,7 +1362,7 @@
 2016,"Wolfenbüttel",niedrig,Prozent,K03158,19.40441882805
 2016,"Göttingen",niedrig,Prozent,K03159,23.3777154870357
 2016,"Statistische Region Braunschweig",niedrig,Prozent,K031,19.9120867551063
-2016,"Hannover  Region",niedrig,Prozent,K03241,25.2265059729678
+2016,"Region Hannover",niedrig,Prozent,K03241,25.2265059729678
 2016,"dav. Hannover, Lhst.",niedrig,Prozent,K03241001,24.7491211249601
 2016,"dav. Hannover, Umland",niedrig,Prozent,K03241999,26.169581412968
 2016,"Diepholz",niedrig,Prozent,K03251,20.0885173346447
@@ -1177,8 +1385,8 @@
 2016,"Verden",niedrig,Prozent,K03361,25.585640401582
 2016,"Statistische Region Lüneburg",niedrig,Prozent,K033,20.6927001569859
 2016,"Delmenhorst, Stadt",niedrig,Prozent,K03401,26.8888888888889
-2016,"Emden  Stadt",niedrig,Prozent,K03402,22.7453580901857
-2016,"Oldenburg(Oldb), Stadt",niedrig,Prozent,K03403,21.9621251972646
+2016,"Emden, Stadt",niedrig,Prozent,K03402,22.7453580901857
+2016,"Oldenburg (Oldb), Stadt",niedrig,Prozent,K03403,21.9621251972646
 2016,"Osnabrück, Stadt",niedrig,Prozent,K03404,27.6098473044562
 2016,"Wilhelmshaven, Stadt",niedrig,Prozent,K03405,22.6643598615917
 2016,"Ammerland",niedrig,Prozent,K03451,19.501625135428
@@ -1206,7 +1414,7 @@
 2016,"Wolfenbüttel",unbekannt,Prozent,K03158,27.9538904899135
 2016,"Göttingen",unbekannt,Prozent,K03159,19.1590749824807
 2016,"Statistische Region Braunschweig",unbekannt,Prozent,K031,26.5977047799537
-2016,"Hannover  Region",unbekannt,Prozent,K03241,29.1221965244329
+2016,"Region Hannover",unbekannt,Prozent,K03241,29.1221965244329
 2016,"dav. Hannover, Lhst.",unbekannt,Prozent,K03241001,27.9258549057207
 2016,"dav. Hannover, Umland",unbekannt,Prozent,K03241999,31.4855735841909
 2016,"Diepholz",unbekannt,Prozent,K03251,39.3902139168921
@@ -1229,8 +1437,8 @@
 2016,"Verden",unbekannt,Prozent,K03361,34.5908122908427
 2016,"Statistische Region Lüneburg",unbekannt,Prozent,K033,38.6414181057038
 2016,"Delmenhorst, Stadt",unbekannt,Prozent,K03401,35.037037037037
-2016,"Emden  Stadt",unbekannt,Prozent,K03402,27.9177718832891
-2016,"Oldenburg(Oldb), Stadt",unbekannt,Prozent,K03403,31.9042609153077
+2016,"Emden, Stadt",unbekannt,Prozent,K03402,27.9177718832891
+2016,"Oldenburg (Oldb), Stadt",unbekannt,Prozent,K03403,31.9042609153077
 2016,"Osnabrück, Stadt",unbekannt,Prozent,K03404,29.5263321907136
 2016,"Wilhelmshaven, Stadt",unbekannt,Prozent,K03405,28.719723183391
 2016,"Ammerland",unbekannt,Prozent,K03451,49.6930299747201
@@ -1258,7 +1466,7 @@
 2015,"Wolfenbüttel",hoch,Prozent,K03158,10.9604519774011
 2015,"Göttingen",hoch,Prozent,K03159,27.5845640781324
 2015,"Statistische Region Braunschweig",hoch,Prozent,K031,19.2553037956415
-2015,"Hannover  Region",hoch,Prozent,K03241,11.7689767430967
+2015,"Region Hannover",hoch,Prozent,K03241,11.7689767430967
 2015,"dav. Hannover, Lhst.",hoch,Prozent,K03241001,14.2987090228457
 2015,"dav. Hannover, Umland",hoch,Prozent,K03241999,6.64588351990931
 2015,"Diepholz",hoch,Prozent,K03251,7.85506479767257
@@ -1281,8 +1489,8 @@
 2015,"Verden",hoch,Prozent,K03361,11.9364375461936
 2015,"Statistische Region Lüneburg",hoch,Prozent,K033,9.1939309513949
 2015,"Delmenhorst, Stadt",hoch,Prozent,K03401,8.75536480686695
-2015,"Emden  Stadt",hoch,Prozent,K03402,8.09555408095554
-2015,"Oldenburg(Oldb), Stadt",hoch,Prozent,K03403,19.8217578365089
+2015,"Emden, Stadt",hoch,Prozent,K03402,8.09555408095554
+2015,"Oldenburg (Oldb), Stadt",hoch,Prozent,K03403,19.8217578365089
 2015,"Osnabrück, Stadt",hoch,Prozent,K03404,10.6966053748232
 2015,"Wilhelmshaven, Stadt",hoch,Prozent,K03405,15.0943396226415
 2015,"Ammerland",hoch,Prozent,K03451,5.81645842309349
@@ -1310,7 +1518,7 @@
 2015,"Wolfenbüttel",mittel,Prozent,K03158,42.9378531073446
 2015,"Göttingen",mittel,Prozent,K03159,18.0403366682547
 2015,"Statistische Region Braunschweig",mittel,Prozent,K031,34.1550007216049
-2015,"Hannover  Region",mittel,Prozent,K03241,33.5995503196946
+2015,"Region Hannover",mittel,Prozent,K03241,33.5995503196946
 2015,"dav. Hannover, Lhst.",mittel,Prozent,K03241001,32.6137914144771
 2015,"dav. Hannover, Umland",mittel,Prozent,K03241999,35.5958622644183
 2015,"Diepholz",mittel,Prozent,K03251,32.0021158423697
@@ -1333,8 +1541,8 @@
 2015,"Verden",mittel,Prozent,K03361,31.3008130081301
 2015,"Statistische Region Lüneburg",mittel,Prozent,K033,31.4521290614058
 2015,"Delmenhorst, Stadt",mittel,Prozent,K03401,28.412017167382
-2015,"Emden  Stadt",mittel,Prozent,K03402,40.9422694094227
-2015,"Oldenburg(Oldb), Stadt",mittel,Prozent,K03403,28.7953288260602
+2015,"Emden, Stadt",mittel,Prozent,K03402,40.9422694094227
+2015,"Oldenburg (Oldb), Stadt",mittel,Prozent,K03403,28.7953288260602
 2015,"Osnabrück, Stadt",mittel,Prozent,K03404,32.7086280056577
 2015,"Wilhelmshaven, Stadt",mittel,Prozent,K03405,33.3333333333333
 2015,"Ammerland",mittel,Prozent,K03451,27.0573028866868
@@ -1362,7 +1570,7 @@
 2015,"Wolfenbüttel",niedrig,Prozent,K03158,18.1920903954802
 2015,"Göttingen",niedrig,Prozent,K03159,14.4195648721613
 2015,"Statistische Region Braunschweig",niedrig,Prozent,K031,19.4458074758262
-2015,"Hannover  Region",niedrig,Prozent,K03241,24.6832330140291
+2015,"Region Hannover",niedrig,Prozent,K03241,24.6832330140291
 2015,"dav. Hannover, Lhst.",niedrig,Prozent,K03241001,24.2486792848896
 2015,"dav. Hannover, Umland",niedrig,Prozent,K03241999,25.5632705115488
 2015,"Diepholz",niedrig,Prozent,K03251,23.6180904522613
@@ -1385,8 +1593,8 @@
 2015,"Verden",niedrig,Prozent,K03361,23.1337767923134
 2015,"Statistische Region Lüneburg",niedrig,Prozent,K033,19.3893302210007
 2015,"Delmenhorst, Stadt",niedrig,Prozent,K03401,25.3218884120172
-2015,"Emden  Stadt",niedrig,Prozent,K03402,20.9024552090246
-2015,"Oldenburg(Oldb), Stadt",niedrig,Prozent,K03403,21.7271051014136
+2015,"Emden, Stadt",niedrig,Prozent,K03402,20.9024552090246
+2015,"Oldenburg (Oldb), Stadt",niedrig,Prozent,K03403,21.7271051014136
 2015,"Osnabrück, Stadt",niedrig,Prozent,K03404,28.2178217821782
 2015,"Wilhelmshaven, Stadt",niedrig,Prozent,K03405,21.4884696016771
 2015,"Ammerland",niedrig,Prozent,K03451,18.9142610943559
@@ -1414,7 +1622,7 @@
 2015,"Wolfenbüttel",unbekannt,Prozent,K03158,27.909604519774
 2015,"Göttingen",unbekannt,Prozent,K03159,12.1010004764173
 2015,"Statistische Region Braunschweig",unbekannt,Prozent,K031,27.1438880069274
-2015,"Hannover  Region",unbekannt,Prozent,K03241,29.9482399231796
+2015,"Region Hannover",unbekannt,Prozent,K03241,29.9482399231796
 2015,"dav. Hannover, Lhst.",unbekannt,Prozent,K03241001,28.8388202777875
 2015,"dav. Hannover, Umland",unbekannt,Prozent,K03241999,32.1949837041236
 2015,"Diepholz",unbekannt,Prozent,K03251,36.5247289076964
@@ -1437,8 +1645,8 @@
 2015,"Verden",unbekannt,Prozent,K03361,33.6289726533629
 2015,"Statistische Region Lüneburg",unbekannt,Prozent,K033,39.9646097661986
 2015,"Delmenhorst, Stadt",unbekannt,Prozent,K03401,37.5107296137339
-2015,"Emden  Stadt",unbekannt,Prozent,K03402,30.0597213005972
-2015,"Oldenburg(Oldb), Stadt",unbekannt,Prozent,K03403,29.6558082360172
+2015,"Emden, Stadt",unbekannt,Prozent,K03402,30.0597213005972
+2015,"Oldenburg (Oldb), Stadt",unbekannt,Prozent,K03403,29.6558082360172
 2015,"Osnabrück, Stadt",unbekannt,Prozent,K03404,28.3769448373409
 2015,"Wilhelmshaven, Stadt",unbekannt,Prozent,K03405,30.083857442348
 2015,"Ammerland",unbekannt,Prozent,K03451,48.2119775958639
@@ -1466,7 +1674,7 @@
 2014,"Wolfenbüttel",hoch,Prozent,K03158,10.969387755102
 2014,"Göttingen",hoch,Prozent,K03159,28.5335689045936
 2014,"Statistische Region Braunschweig",hoch,Prozent,K031,19.0055248618785
-2014,"Hannover  Region",hoch,Prozent,K03241,11.6362417491749
+2014,"Region Hannover",hoch,Prozent,K03241,11.6362417491749
 2014,"dav. Hannover, Lhst.",hoch,Prozent,K03241001,14.5320003148862
 2014,"dav. Hannover, Umland",hoch,Prozent,K03241999,6.13694124682314
 2014,"Diepholz",hoch,Prozent,K03251,8.35266821345708
@@ -1489,8 +1697,8 @@
 2014,"Verden",hoch,Prozent,K03361,11.701689328389
 2014,"Statistische Region Lüneburg",hoch,Prozent,K033,8.92071398920714
 2014,"Delmenhorst, Stadt",hoch,Prozent,K03401,6.52573529411765
-2014,"Emden  Stadt",hoch,Prozent,K03402,8.61788617886179
-2014,"Oldenburg(Oldb), Stadt",hoch,Prozent,K03403,18.5719189838654
+2014,"Emden, Stadt",hoch,Prozent,K03402,8.61788617886179
+2014,"Oldenburg (Oldb), Stadt",hoch,Prozent,K03403,18.5719189838654
 2014,"Osnabrück, Stadt",hoch,Prozent,K03404,10.1526868927226
 2014,"Wilhelmshaven, Stadt",hoch,Prozent,K03405,16.9689119170984
 2014,"Ammerland",hoch,Prozent,K03451,5.0656660412758
@@ -1518,7 +1726,7 @@
 2014,"Wolfenbüttel",mittel,Prozent,K03158,39.4132653061224
 2014,"Göttingen",mittel,Prozent,K03159,29.5229681978799
 2014,"Statistische Region Braunschweig",mittel,Prozent,K031,33.7647987371744
-2014,"Hannover  Region",mittel,Prozent,K03241,33.3694306930693
+2014,"Region Hannover",mittel,Prozent,K03241,33.3694306930693
 2014,"dav. Hannover, Lhst.",mittel,Prozent,K03241001,33.0433755805715
 2014,"dav. Hannover, Umland",mittel,Prozent,K03241999,33.9886380624907
 2014,"Diepholz",mittel,Prozent,K03251,31.554524361949
@@ -1541,8 +1749,8 @@
 2014,"Verden",mittel,Prozent,K03361,31.5203955500618
 2014,"Statistische Region Lüneburg",mittel,Prozent,K033,31.0087173100872
 2014,"Delmenhorst, Stadt",mittel,Prozent,K03401,27.1139705882353
-2014,"Emden  Stadt",mittel,Prozent,K03402,40.2439024390244
-2014,"Oldenburg(Oldb), Stadt",mittel,Prozent,K03403,27.9437006522485
+2014,"Emden, Stadt",mittel,Prozent,K03402,40.2439024390244
+2014,"Oldenburg (Oldb), Stadt",mittel,Prozent,K03403,27.9437006522485
 2014,"Osnabrück, Stadt",mittel,Prozent,K03404,33.5117985326195
 2014,"Wilhelmshaven, Stadt",mittel,Prozent,K03405,35.6217616580311
 2014,"Ammerland",mittel,Prozent,K03451,28.0487804878049
@@ -1570,7 +1778,7 @@
 2014,"Wolfenbüttel",niedrig,Prozent,K03158,18.4948979591837
 2014,"Göttingen",niedrig,Prozent,K03159,22.4028268551237
 2014,"Statistische Region Braunschweig",niedrig,Prozent,K031,18.7719021310182
-2014,"Hannover  Region",niedrig,Prozent,K03241,24.1001443894389
+2014,"Region Hannover",niedrig,Prozent,K03241,24.1001443894389
 2014,"dav. Hannover, Lhst.",niedrig,Prozent,K03241001,23.6007242383689
 2014,"dav. Hannover, Umland",niedrig,Prozent,K03241999,25.0485872327702
 2014,"Diepholz",niedrig,Prozent,K03251,20.9148160424263
@@ -1593,8 +1801,8 @@
 2014,"Verden",niedrig,Prozent,K03361,25.7519571487433
 2014,"Statistische Region Lüneburg",niedrig,Prozent,K033,19.057700290577
 2014,"Delmenhorst, Stadt",niedrig,Prozent,K03401,26.2867647058824
-2014,"Emden  Stadt",niedrig,Prozent,K03402,16.7479674796748
-2014,"Oldenburg(Oldb), Stadt",niedrig,Prozent,K03403,22.9316855475455
+2014,"Emden, Stadt",niedrig,Prozent,K03402,16.7479674796748
+2014,"Oldenburg (Oldb), Stadt",niedrig,Prozent,K03403,22.9316855475455
 2014,"Osnabrück, Stadt",niedrig,Prozent,K03404,26.1748958953004
 2014,"Wilhelmshaven, Stadt",niedrig,Prozent,K03405,18.6528497409326
 2014,"Ammerland",niedrig,Prozent,K03451,18.7148217636023
@@ -1622,7 +1830,7 @@
 2014,"Wolfenbüttel",unbekannt,Prozent,K03158,31.1224489795918
 2014,"Göttingen",unbekannt,Prozent,K03159,19.5406360424028
 2014,"Statistische Region Braunschweig",unbekannt,Prozent,K031,28.457774269929
-2014,"Hannover  Region",unbekannt,Prozent,K03241,30.8941831683168
+2014,"Region Hannover",unbekannt,Prozent,K03241,30.8941831683168
 2014,"dav. Hannover, Lhst.",unbekannt,Prozent,K03241001,28.8238998661733
 2014,"dav. Hannover, Umland",unbekannt,Prozent,K03241999,34.825833457916
 2014,"Diepholz",unbekannt,Prozent,K03251,39.1779913821677
@@ -1645,8 +1853,8 @@
 2014,"Verden",unbekannt,Prozent,K03361,31.0259579728059
 2014,"Statistische Region Lüneburg",unbekannt,Prozent,K033,41.0128684101287
 2014,"Delmenhorst, Stadt",unbekannt,Prozent,K03401,40.0735294117647
-2014,"Emden  Stadt",unbekannt,Prozent,K03402,34.390243902439
-2014,"Oldenburg(Oldb), Stadt",unbekannt,Prozent,K03403,30.5526948163405
+2014,"Emden, Stadt",unbekannt,Prozent,K03402,34.390243902439
+2014,"Oldenburg (Oldb), Stadt",unbekannt,Prozent,K03403,30.5526948163405
 2014,"Osnabrück, Stadt",unbekannt,Prozent,K03404,30.1606186793575
 2014,"Wilhelmshaven, Stadt",unbekannt,Prozent,K03405,28.7564766839378
 2014,"Ammerland",unbekannt,Prozent,K03451,48.1707317073171
@@ -1674,7 +1882,7 @@
 2013,"Wolfenbüttel",hoch,Prozent,K03158,10.8991825613079
 2013,"Göttingen",hoch,Prozent,K03159,27.0985051743963
 2013,"Statistische Region Braunschweig",hoch,Prozent,K031,16.743734083903
-2013,"Hannover  Region",hoch,Prozent,K03241,9.6961006011803
+2013,"Region Hannover",hoch,Prozent,K03241,9.6961006011803
 2013,"dav. Hannover, Lhst.",hoch,Prozent,K03241001,12.2829770321717
 2013,"dav. Hannover, Umland",hoch,Prozent,K03241999,4.69293632170888
 2013,"Diepholz",hoch,Prozent,K03251,8.19220165419456
@@ -1697,8 +1905,8 @@
 2013,"Verden",hoch,Prozent,K03361,10.4510942384993
 2013,"Statistische Region Lüneburg",hoch,Prozent,K033,7.73879850949741
 2013,"Delmenhorst, Stadt",hoch,Prozent,K03401,4.15458937198068
-2013,"Emden  Stadt",hoch,Prozent,K03402,8.15217391304348
-2013,"Oldenburg(Oldb), Stadt",hoch,Prozent,K03403,15.5438596491228
+2013,"Emden, Stadt",hoch,Prozent,K03402,8.15217391304348
+2013,"Oldenburg (Oldb), Stadt",hoch,Prozent,K03403,15.5438596491228
 2013,"Osnabrück, Stadt",hoch,Prozent,K03404,9.07282132908874
 2013,"Wilhelmshaven, Stadt",hoch,Prozent,K03405,11.4958448753463
 2013,"Ammerland",hoch,Prozent,K03451,4.95565988523735
@@ -1726,7 +1934,7 @@
 2013,"Wolfenbüttel",mittel,Prozent,K03158,35.4223433242507
 2013,"Göttingen",mittel,Prozent,K03159,29.781525488693
 2013,"Statistische Region Braunschweig",mittel,Prozent,K031,30.9073850690256
-2013,"Hannover  Region",mittel,Prozent,K03241,29.2537642711378
+2013,"Region Hannover",mittel,Prozent,K03241,29.2537642711378
 2013,"dav. Hannover, Lhst.",mittel,Prozent,K03241001,29.0172781659206
 2013,"dav. Hannover, Umland",mittel,Prozent,K03241999,29.7111416781293
 2013,"Diepholz",mittel,Prozent,K03251,27.0972823946436
@@ -1749,8 +1957,8 @@
 2013,"Verden",mittel,Prozent,K03361,28.2715497990174
 2013,"Statistische Region Lüneburg",mittel,Prozent,K033,27.2925565754794
 2013,"Delmenhorst, Stadt",mittel,Prozent,K03401,23.1884057971014
-2013,"Emden  Stadt",mittel,Prozent,K03402,35.054347826087
-2013,"Oldenburg(Oldb), Stadt",mittel,Prozent,K03403,22.280701754386
+2013,"Emden, Stadt",mittel,Prozent,K03402,35.054347826087
+2013,"Oldenburg (Oldb), Stadt",mittel,Prozent,K03403,22.280701754386
 2013,"Osnabrück, Stadt",mittel,Prozent,K03404,26.0644647831277
 2013,"Wilhelmshaven, Stadt",mittel,Prozent,K03405,30.8864265927978
 2013,"Ammerland",mittel,Prozent,K03451,23.5263432446531
@@ -1778,7 +1986,7 @@
 2013,"Wolfenbüttel",niedrig,Prozent,K03158,16.7574931880109
 2013,"Göttingen",niedrig,Prozent,K03159,22.5756995017248
 2013,"Statistische Region Braunschweig",niedrig,Prozent,K031,16.9682348210696
-2013,"Hannover  Region",niedrig,Prozent,K03241,21.0716452484695
+2013,"Region Hannover",niedrig,Prozent,K03241,21.0716452484695
 2013,"dav. Hannover, Lhst.",niedrig,Prozent,K03241001,21.1479730577752
 2013,"dav. Hannover, Umland",niedrig,Prozent,K03241999,20.9240229792054
 2013,"Diepholz",niedrig,Prozent,K03251,18.31429696731
@@ -1801,8 +2009,8 @@
 2013,"Verden",niedrig,Prozent,K03361,24.4752121482805
 2013,"Statistische Region Lüneburg",niedrig,Prozent,K033,17.2998273198219
 2013,"Delmenhorst, Stadt",niedrig,Prozent,K03401,18.5507246376812
-2013,"Emden  Stadt",niedrig,Prozent,K03402,18.6594202898551
-2013,"Oldenburg(Oldb), Stadt",niedrig,Prozent,K03403,21.4385964912281
+2013,"Emden, Stadt",niedrig,Prozent,K03402,18.6594202898551
+2013,"Oldenburg (Oldb), Stadt",niedrig,Prozent,K03403,21.4385964912281
 2013,"Osnabrück, Stadt",niedrig,Prozent,K03404,22.2244329486669
 2013,"Wilhelmshaven, Stadt",niedrig,Prozent,K03405,19.9445983379501
 2013,"Ammerland",niedrig,Prozent,K03451,15.8059467918623
@@ -1830,7 +2038,7 @@
 2013,"Wolfenbüttel",unbekannt,Prozent,K03158,36.9209809264305
 2013,"Göttingen",unbekannt,Prozent,K03159,20.5442698351859
 2013,"Statistische Region Braunschweig",unbekannt,Prozent,K031,35.3806460260019
-2013,"Hannover  Region",unbekannt,Prozent,K03241,39.9784898792124
+2013,"Region Hannover",unbekannt,Prozent,K03241,39.9784898792124
 2013,"dav. Hannover, Lhst.",unbekannt,Prozent,K03241001,37.5517717441325
 2013,"dav. Hannover, Umland",unbekannt,Prozent,K03241999,44.6718990209564
 2013,"Diepholz",unbekannt,Prozent,K03251,46.3962189838519
@@ -1853,8 +2061,8 @@
 2013,"Verden",unbekannt,Prozent,K03361,36.8021438142028
 2013,"Statistische Region Lüneburg",unbekannt,Prozent,K033,47.6688175952013
 2013,"Delmenhorst, Stadt",unbekannt,Prozent,K03401,54.1062801932367
-2013,"Emden  Stadt",unbekannt,Prozent,K03402,38.1340579710145
-2013,"Oldenburg(Oldb), Stadt",unbekannt,Prozent,K03403,40.7368421052632
+2013,"Emden, Stadt",unbekannt,Prozent,K03402,38.1340579710145
+2013,"Oldenburg (Oldb), Stadt",unbekannt,Prozent,K03403,40.7368421052632
 2013,"Osnabrück, Stadt",unbekannt,Prozent,K03404,42.6382809391166
 2013,"Wilhelmshaven, Stadt",unbekannt,Prozent,K03405,37.6731301939058
 2013,"Ammerland",unbekannt,Prozent,K03451,55.7120500782473
@@ -1882,7 +2090,7 @@
 2011,"Wolfenbüttel",hoch,Prozent,K03158,7.73381294964029
 2011,"Göttingen",hoch,Prozent,K03159,20.360824742268
 2011,"Statistische Region Braunschweig",hoch,Prozent,K031,13.7259586668259
-2011,"Hannover  Region",hoch,Prozent,K03241,8.13972223117327
+2011,"Region Hannover",hoch,Prozent,K03241,8.13972223117327
 2011,"dav. Hannover, Lhst.",hoch,Prozent,K03241001,10.284757118928
 2011,"dav. Hannover, Umland",hoch,Prozent,K03241999,3.71868218583547
 2011,"Diepholz",hoch,Prozent,K03251,7.08312838170192
@@ -1905,8 +2113,8 @@
 2011,"Verden",hoch,Prozent,K03361,7.82295419454452
 2011,"Statistische Region Lüneburg",hoch,Prozent,K033,7.48199880894375
 2011,"Delmenhorst, Stadt",hoch,Prozent,K03401,3.60655737704918
-2011,"Emden  Stadt",hoch,Prozent,K03402,6.6006600660066
-2011,"Oldenburg(Oldb), Stadt",hoch,Prozent,K03403,13.4075723830735
+2011,"Emden, Stadt",hoch,Prozent,K03402,6.6006600660066
+2011,"Oldenburg (Oldb), Stadt",hoch,Prozent,K03403,13.4075723830735
 2011,"Osnabrück, Stadt",hoch,Prozent,K03404,7.84675744288022
 2011,"Wilhelmshaven, Stadt",hoch,Prozent,K03405,13.915857605178
 2011,"Ammerland",hoch,Prozent,K03451,3.68098159509202
@@ -1934,7 +2142,7 @@
 2011,"Wolfenbüttel",mittel,Prozent,K03158,30.3956834532374
 2011,"Göttingen",mittel,Prozent,K03159,26.3960481099656
 2011,"Statistische Region Braunschweig",mittel,Prozent,K031,33.0307012304384
-2011,"Hannover  Region",mittel,Prozent,K03241,28.9498276028744
+2011,"Region Hannover",mittel,Prozent,K03241,28.9498276028744
 2011,"dav. Hannover, Lhst.",mittel,Prozent,K03241001,30.437903804738
 2011,"dav. Hannover, Umland",mittel,Prozent,K03241999,25.882817123693
 2011,"Diepholz",mittel,Prozent,K03251,23.16773241515
@@ -1957,8 +2165,8 @@
 2011,"Verden",mittel,Prozent,K03361,24.3952650540401
 2011,"Statistische Region Lüneburg",mittel,Prozent,K033,24.822695035461
 2011,"Delmenhorst, Stadt",mittel,Prozent,K03401,23.1693989071038
-2011,"Emden  Stadt",mittel,Prozent,K03402,35.0935093509351
-2011,"Oldenburg(Oldb), Stadt",mittel,Prozent,K03403,23.5189309576837
+2011,"Emden, Stadt",mittel,Prozent,K03402,35.0935093509351
+2011,"Oldenburg (Oldb), Stadt",mittel,Prozent,K03403,23.5189309576837
 2011,"Osnabrück, Stadt",mittel,Prozent,K03404,25.571197784445
 2011,"Wilhelmshaven, Stadt",mittel,Prozent,K03405,27.831715210356
 2011,"Ammerland",mittel,Prozent,K03451,21.1997273346967
@@ -1986,7 +2194,7 @@
 2011,"Wolfenbüttel",niedrig,Prozent,K03158,20.6834532374101
 2011,"Göttingen",niedrig,Prozent,K03159,10.3522336769759
 2011,"Statistische Region Braunschweig",niedrig,Prozent,K031,21.9328634571736
-2011,"Hannover  Region",niedrig,Prozent,K03241,22.3568459381948
+2011,"Region Hannover",niedrig,Prozent,K03241,22.3568459381948
 2011,"dav. Hannover, Lhst.",niedrig,Prozent,K03241001,23.1299353912419
 2011,"dav. Hannover, Umland",niedrig,Prozent,K03241999,20.7634641941211
 2011,"Diepholz",niedrig,Prozent,K03251,19.1834727004427
@@ -2009,8 +2217,8 @@
 2011,"Verden",niedrig,Prozent,K03361,33.0931549150798
 2011,"Statistische Region Lüneburg",niedrig,Prozent,K033,20.5944453467598
 2011,"Delmenhorst, Stadt",niedrig,Prozent,K03401,18.7978142076503
-2011,"Emden  Stadt",niedrig,Prozent,K03402,16.0616061606161
-2011,"Oldenburg(Oldb), Stadt",niedrig,Prozent,K03403,21.2026726057906
+2011,"Emden, Stadt",niedrig,Prozent,K03402,16.0616061606161
+2011,"Oldenburg (Oldb), Stadt",niedrig,Prozent,K03403,21.2026726057906
 2011,"Osnabrück, Stadt",niedrig,Prozent,K03404,31.9409185321948
 2011,"Wilhelmshaven, Stadt",niedrig,Prozent,K03405,20.5501618122977
 2011,"Ammerland",niedrig,Prozent,K03451,23.7900477164281
@@ -2038,7 +2246,7 @@
 2011,"Wolfenbüttel",unbekannt,Prozent,K03158,41.1870503597122
 2011,"Göttingen",unbekannt,Prozent,K03159,36.4046391752577
 2011,"Statistische Region Braunschweig",unbekannt,Prozent,K031,31.3104766455621
-2011,"Hannover  Region",unbekannt,Prozent,K03241,40.5536042277575
+2011,"Region Hannover",unbekannt,Prozent,K03241,40.5536042277575
 2011,"dav. Hannover, Lhst.",unbekannt,Prozent,K03241001,36.1474036850921
 2011,"dav. Hannover, Umland",unbekannt,Prozent,K03241999,49.6350364963504
 2011,"Diepholz",unbekannt,Prozent,K03251,50.5656665027054
@@ -2061,8 +2269,8 @@
 2011,"Verden",unbekannt,Prozent,K03361,34.6886258363356
 2011,"Statistische Region Lüneburg",unbekannt,Prozent,K033,47.1008608088355
 2011,"Delmenhorst, Stadt",unbekannt,Prozent,K03401,54.4262295081967
-2011,"Emden  Stadt",unbekannt,Prozent,K03402,42.2442244224422
-2011,"Oldenburg(Oldb), Stadt",unbekannt,Prozent,K03403,41.8708240534521
+2011,"Emden, Stadt",unbekannt,Prozent,K03402,42.2442244224422
+2011,"Oldenburg (Oldb), Stadt",unbekannt,Prozent,K03403,41.8708240534521
 2011,"Osnabrück, Stadt",unbekannt,Prozent,K03404,34.64112624048
 2011,"Wilhelmshaven, Stadt",unbekannt,Prozent,K03405,37.7022653721683
 2011,"Ammerland",unbekannt,Prozent,K03451,51.3292433537832
