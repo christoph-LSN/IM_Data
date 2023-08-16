@@ -1346,7 +1346,7 @@ Year,Gebietseinheit,Qualifikation,Units,GeoCode,Value
 2016,Leer,mittel,Prozent,K03457,32.8767123287671
 2016,Oldenburg,mittel,Prozent,K03458,25.1914893617021
 2016,Osnabrück,mittel,Prozent,K03459,24.0090505321378
-2016,Vechta,mittel,Prozent,K03460,20
+2016,Vechta,mittel,Prozent,K03460,20.0
 2016,Wesermarsch,mittel,Prozent,K03461,37.5675675675676
 2016,Wittmund,mittel,Prozent,K03462,21.3662790697674
 2016,Statistische Region Weser-Ems,mittel,Prozent,K034,27.8267924145624
@@ -2232,7 +2232,7 @@ Year,Gebietseinheit,Qualifikation,Units,GeoCode,Value
 2011,Osnabrück,niedrig,Prozent,K03459,36.0487187598861
 2011,Vechta,niedrig,Prozent,K03460,20.8021612635079
 2011,Wesermarsch,niedrig,Prozent,K03461,21.2674543501611
-2011,Wittmund,niedrig,Prozent,K03462,.
+2011,Wittmund,niedrig,Prozent,K03462,
 2011,Statistische Region Weser-Ems,niedrig,Prozent,K034,24.3080119027567
 2011,Niedersachsen,niedrig,Prozent,K030,22.9823995233721
 2011,"Braunschweig, Stadt",unbekannt,Prozent,K03101,36.5930599369085
