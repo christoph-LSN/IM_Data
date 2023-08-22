@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "deutsche Staatsangehörigkeit",
-                "nichtdeutsche Staatsangehörigkeit",
+                "nichtdeutsche Staatsangehörigkeit  ",
                 "mit Migrationshintergrund",
                 "ohne Migrationshintergrund",
                 "Insgesamt",
@@ -47,7 +47,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Prozent",
+                "%",
                 ""
               ]
             },
