@@ -1,4 +1,154 @@
 Year,Gebietseinheit,Geschlecht,Units,GeoCode,Value
+2022,"Braunschweig, Stadt",männlich,Jahre,RH03101,36.3
+2022,"Braunschweig, Stadt",weiblich,Jahre,RH03101,38.3
+2022,"Braunschweig, Stadt",insgesamt,Jahre,RH03101,37.2
+2022,"Salzgitter, Stadt",männlich,Jahre,RH03102,34.6
+2022,"Salzgitter, Stadt",weiblich,Jahre,RH03102,35.1
+2022,"Salzgitter, Stadt",insgesamt,Jahre,RH03102,34.8
+2022,"Wolfsburg, Stadt",männlich,Jahre,RH03103,36.6
+2022,"Wolfsburg, Stadt",weiblich,Jahre,RH03103,36.9
+2022,"Wolfsburg, Stadt",insgesamt,Jahre,RH03103,36.7
+2022,Gifhorn,männlich,Jahre,RH03151,35.4
+2022,Gifhorn,weiblich,Jahre,RH03151,36.7
+2022,Gifhorn,insgesamt,Jahre,RH03151,36.0
+2022,Goslar,männlich,Jahre,RH03153,34.5
+2022,Goslar,weiblich,Jahre,RH03153,36.4
+2022,Goslar,insgesamt,Jahre,RH03153,35.4
+2022,Helmstedt,männlich,Jahre,RH03154,35.2
+2022,Helmstedt,weiblich,Jahre,RH03154,35.7
+2022,Helmstedt,insgesamt,Jahre,RH03154,35.4
+2022,Northeim,männlich,Jahre,RH03155,33.3
+2022,Northeim,weiblich,Jahre,RH03155,35.2
+2022,Northeim,insgesamt,Jahre,RH03155,34.3
+2022,Peine,männlich,Jahre,RH03157,34.0
+2022,Peine,weiblich,Jahre,RH03157,35.1
+2022,Peine,insgesamt,Jahre,RH03157,34.6
+2022,Wolfenbüttel,männlich,Jahre,RH03158,34.5
+2022,Wolfenbüttel,weiblich,Jahre,RH03158,35.9
+2022,Wolfenbüttel,insgesamt,Jahre,RH03158,35.2
+2022,Göttingen,männlich,Jahre,RH03159,34.9
+2022,Göttingen,weiblich,Jahre,RH03159,36.0
+2022,Göttingen,insgesamt,Jahre,RH03159,35.4
+2022,Statistische Region Braunschweig,männlich,Jahre,RH031,35.1
+2022,Statistische Region Braunschweig,weiblich,Jahre,RH031,36.4
+2022,Statistische Region Braunschweig,insgesamt,Jahre,RH031,35.7
+2022,Region Hannover,männlich,Jahre,RH03241,36.9
+2022,Region Hannover,weiblich,Jahre,RH03241,38.3
+2022,Region Hannover,insgesamt,Jahre,RH03241,37.6
+2022,Diepholz,männlich,Jahre,RH03251,34.0
+2022,Diepholz,weiblich,Jahre,RH03251,35.2
+2022,Diepholz,insgesamt,Jahre,RH03251,34.6
+2022,Hameln-Pyrmont,männlich,Jahre,RH03252,35.4
+2022,Hameln-Pyrmont,weiblich,Jahre,RH03252,36.7
+2022,Hameln-Pyrmont,insgesamt,Jahre,RH03252,36.0
+2022,Hildesheim,männlich,Jahre,RH03254,34.6
+2022,Hildesheim,weiblich,Jahre,RH03254,36.6
+2022,Hildesheim,insgesamt,Jahre,RH03254,35.5
+2022,Holzminden,männlich,Jahre,RH03255,35.4
+2022,Holzminden,weiblich,Jahre,RH03255,37.3
+2022,Holzminden,insgesamt,Jahre,RH03255,36.3
+2022,Nienburg (Weser),männlich,Jahre,RH03256,33.8
+2022,Nienburg (Weser),weiblich,Jahre,RH03256,34.2
+2022,Nienburg (Weser),insgesamt,Jahre,RH03256,34.0
+2022,Schaumburg,männlich,Jahre,RH03257,35.9
+2022,Schaumburg,weiblich,Jahre,RH03257,37.3
+2022,Schaumburg,insgesamt,Jahre,RH03257,36.6
+2022,Statistische Region Hannover,männlich,Jahre,RH032,36.2
+2022,Statistische Region Hannover,weiblich,Jahre,RH032,37.6
+2022,Statistische Region Hannover,insgesamt,Jahre,RH032,36.9
+2022,Celle,männlich,Jahre,RH03351,35.0
+2022,Celle,weiblich,Jahre,RH03351,35.3
+2022,Celle,insgesamt,Jahre,RH03351,35.1
+2022,Cuxhaven,männlich,Jahre,RH03352,35.5
+2022,Cuxhaven,weiblich,Jahre,RH03352,37.2
+2022,Cuxhaven,insgesamt,Jahre,RH03352,36.4
+2022,Harburg,männlich,Jahre,RH03353,35.8
+2022,Harburg,weiblich,Jahre,RH03353,37.7
+2022,Harburg,insgesamt,Jahre,RH03353,36.6
+2022,Lüchow-Dannenberg,männlich,Jahre,RH03354,33.8
+2022,Lüchow-Dannenberg,weiblich,Jahre,RH03354,35.7
+2022,Lüchow-Dannenberg,insgesamt,Jahre,RH03354,34.7
+2022,Lüneburg,männlich,Jahre,RH03355,34.3
+2022,Lüneburg,weiblich,Jahre,RH03355,34.7
+2022,Lüneburg,insgesamt,Jahre,RH03355,34.5
+2022,Osterholz,männlich,Jahre,RH03356,33.8
+2022,Osterholz,weiblich,Jahre,RH03356,35.7
+2022,Osterholz,insgesamt,Jahre,RH03356,34.8
+2022,Rotenburg (Wümme),männlich,Jahre,RH03357,35.3
+2022,Rotenburg (Wümme),weiblich,Jahre,RH03357,35.5
+2022,Rotenburg (Wümme),insgesamt,Jahre,RH03357,35.4
+2022,Heidekreis,männlich,Jahre,RH03358,33.5
+2022,Heidekreis,weiblich,Jahre,RH03358,35.0
+2022,Heidekreis,insgesamt,Jahre,RH03358,34.2
+2022,Stade,männlich,Jahre,RH03359,33.8
+2022,Stade,weiblich,Jahre,RH03359,34.7
+2022,Stade,insgesamt,Jahre,RH03359,34.2
+2022,Uelzen,männlich,Jahre,RH03360,33.7
+2022,Uelzen,weiblich,Jahre,RH03360,35.3
+2022,Uelzen,insgesamt,Jahre,RH03360,34.5
+2022,Verden,männlich,Jahre,RH03361,34.6
+2022,Verden,weiblich,Jahre,RH03361,36.0
+2022,Verden,insgesamt,Jahre,RH03361,35.2
+2022,Statistische Region Lüneburg,männlich,Jahre,RH033,34.7
+2022,Statistische Region Lüneburg,weiblich,Jahre,RH033,35.8
+2022,Statistische Region Lüneburg,insgesamt,Jahre,RH033,35.2
+2022,"Delmenhorst, Stadt",männlich,Jahre,RH03401,34.0
+2022,"Delmenhorst, Stadt",weiblich,Jahre,RH03401,34.9
+2022,"Delmenhorst, Stadt",insgesamt,Jahre,RH03401,34.5
+2022,"Emden, Stadt",männlich,Jahre,RH03402,32.7
+2022,"Emden, Stadt",weiblich,Jahre,RH03402,32.3
+2022,"Emden, Stadt",insgesamt,Jahre,RH03402,32.5
+2022,"Oldenburg (Oldb), Stadt",männlich,Jahre,RH03403,32.4
+2022,"Oldenburg (Oldb), Stadt",weiblich,Jahre,RH03403,34.0
+2022,"Oldenburg (Oldb), Stadt",insgesamt,Jahre,RH03403,33.2
+2022,"Osnabrück, Stadt",männlich,Jahre,RH03404,35.5
+2022,"Osnabrück, Stadt",weiblich,Jahre,RH03404,36.6
+2022,"Osnabrück, Stadt",insgesamt,Jahre,RH03404,36.1
+2022,"Wilhelmshaven, Stadt",männlich,Jahre,RH03405,32.0
+2022,"Wilhelmshaven, Stadt",weiblich,Jahre,RH03405,33.2
+2022,"Wilhelmshaven, Stadt",insgesamt,Jahre,RH03405,32.6
+2022,Ammerland,männlich,Jahre,RH03451,34.3
+2022,Ammerland,weiblich,Jahre,RH03451,35.2
+2022,Ammerland,insgesamt,Jahre,RH03451,34.7
+2022,Aurich,männlich,Jahre,RH03452,33.6
+2022,Aurich,weiblich,Jahre,RH03452,34.8
+2022,Aurich,insgesamt,Jahre,RH03452,34.2
+2022,Cloppenburg,männlich,Jahre,RH03453,33.3
+2022,Cloppenburg,weiblich,Jahre,RH03453,33.0
+2022,Cloppenburg,insgesamt,Jahre,RH03453,33.2
+2022,Emsland,männlich,Jahre,RH03454,35.6
+2022,Emsland,weiblich,Jahre,RH03454,34.5
+2022,Emsland,insgesamt,Jahre,RH03454,35.1
+2022,Friesland,männlich,Jahre,RH03455,33.6
+2022,Friesland,weiblich,Jahre,RH03455,34.9
+2022,Friesland,insgesamt,Jahre,RH03455,34.2
+2022,Grafschaft Bentheim,männlich,Jahre,RH03456,40.4
+2022,Grafschaft Bentheim,weiblich,Jahre,RH03456,40.5
+2022,Grafschaft Bentheim,insgesamt,Jahre,RH03456,40.5
+2022,Leer,männlich,Jahre,RH03457,34.4
+2022,Leer,weiblich,Jahre,RH03457,34.7
+2022,Leer,insgesamt,Jahre,RH03457,34.6
+2022,Oldenburg,männlich,Jahre,RH03458,34.2
+2022,Oldenburg,weiblich,Jahre,RH03458,35.4
+2022,Oldenburg,insgesamt,Jahre,RH03458,34.7
+2022,Osnabrück,männlich,Jahre,RH03459,35.7
+2022,Osnabrück,weiblich,Jahre,RH03459,36.2
+2022,Osnabrück,insgesamt,Jahre,RH03459,36.0
+2022,Vechta,männlich,Jahre,RH03460,34.0
+2022,Vechta,weiblich,Jahre,RH03460,33.6
+2022,Vechta,insgesamt,Jahre,RH03460,33.8
+2022,Wesermarsch,männlich,Jahre,RH03461,35.3
+2022,Wesermarsch,weiblich,Jahre,RH03461,35.7
+2022,Wesermarsch,insgesamt,Jahre,RH03461,35.5
+2022,Wittmund,männlich,Jahre,RH03462,32.0
+2022,Wittmund,weiblich,Jahre,RH03462,34.4
+2022,Wittmund,insgesamt,Jahre,RH03462,33.2
+2022,Statistische Region Weser-Ems,männlich,Jahre,RH034,34.9
+2022,Statistische Region Weser-Ems,weiblich,Jahre,RH034,35.2
+2022,Statistische Region Weser-Ems,insgesamt,Jahre,RH034,35.1
+2022,Niedersachsen,männlich,Jahre,RH030,35.3
+2022,Niedersachsen,weiblich,Jahre,RH030,36.3
+2022,Niedersachsen,insgesamt,Jahre,RH030,35.8
 2021,"Braunschweig, Stadt",männlich,Jahre,RH03101,37.0
 2021,"Braunschweig, Stadt",weiblich,Jahre,RH03101,38.7
 2021,"Braunschweig, Stadt",insgesamt,Jahre,RH03101,37.8
@@ -32,9 +182,9 @@ Year,Gebietseinheit,Geschlecht,Units,GeoCode,Value
 2021,Statistische Region Braunschweig,männlich,Jahre,RH031,35.9
 2021,Statistische Region Braunschweig,weiblich,Jahre,RH031,36.7
 2021,Statistische Region Braunschweig,insgesamt,Jahre,RH031,36.3
-2021,Hannover  Region,männlich,Jahre,RH03241,37.6
-2021,Hannover  Region,weiblich,Jahre,RH03241,38.8
-2021,Hannover  Region,insgesamt,Jahre,RH03241,38.2
+2021,Region Hannover,männlich,Jahre,RH03241,37.6
+2021,Region Hannover,weiblich,Jahre,RH03241,38.8
+2021,Region Hannover,insgesamt,Jahre,RH03241,38.2
 2021,Diepholz,männlich,Jahre,RH03251,34.6
 2021,Diepholz,weiblich,Jahre,RH03251,35.1
 2021,Diepholz,insgesamt,Jahre,RH03251,34.8
@@ -95,12 +245,12 @@ Year,Gebietseinheit,Geschlecht,Units,GeoCode,Value
 2021,"Delmenhorst, Stadt",männlich,Jahre,RH03401,34.1
 2021,"Delmenhorst, Stadt",weiblich,Jahre,RH03401,34.7
 2021,"Delmenhorst, Stadt",insgesamt,Jahre,RH03401,34.3
-2021,Emden  Stadt,männlich,Jahre,RH03402,32.7
-2021,Emden  Stadt,weiblich,Jahre,RH03402,32.0
-2021,Emden  Stadt,insgesamt,Jahre,RH03402,32.4
-2021,"Oldenburg(Oldb), Stadt",männlich,Jahre,RH03403,33.0
-2021,"Oldenburg(Oldb), Stadt",weiblich,Jahre,RH03403,33.8
-2021,"Oldenburg(Oldb), Stadt",insgesamt,Jahre,RH03403,33.4
+2021,"Emden, Stadt",männlich,Jahre,RH03402,32.7
+2021,"Emden, Stadt",weiblich,Jahre,RH03402,32.0
+2021,"Emden, Stadt",insgesamt,Jahre,RH03402,32.4
+2021,"Oldenburg (Oldb), Stadt",männlich,Jahre,RH03403,33.0
+2021,"Oldenburg (Oldb), Stadt",weiblich,Jahre,RH03403,33.8
+2021,"Oldenburg (Oldb), Stadt",insgesamt,Jahre,RH03403,33.4
 2021,"Osnabrück, Stadt",männlich,Jahre,RH03404,36.1
 2021,"Osnabrück, Stadt",weiblich,Jahre,RH03404,36.8
 2021,"Osnabrück, Stadt",insgesamt,Jahre,RH03404,36.4
@@ -182,9 +332,9 @@ Year,Gebietseinheit,Geschlecht,Units,GeoCode,Value
 2020,Statistische Region Braunschweig,männlich,Jahre,RH031,35.8
 2020,Statistische Region Braunschweig,weiblich,Jahre,RH031,36.7
 2020,Statistische Region Braunschweig,insgesamt,Jahre,RH031,36.2
-2020,Hannover  Region,männlich,Jahre,RH03241,37.8
-2020,Hannover  Region,weiblich,Jahre,RH03241,39.0
-2020,Hannover  Region,insgesamt,Jahre,RH03241,38.3
+2020,Region Hannover,männlich,Jahre,RH03241,37.8
+2020,Region Hannover,weiblich,Jahre,RH03241,39.0
+2020,Region Hannover,insgesamt,Jahre,RH03241,38.3
 2020,Diepholz,männlich,Jahre,RH03251,34.4
 2020,Diepholz,weiblich,Jahre,RH03251,35.0
 2020,Diepholz,insgesamt,Jahre,RH03251,34.7
@@ -245,12 +395,12 @@ Year,Gebietseinheit,Geschlecht,Units,GeoCode,Value
 2020,"Delmenhorst, Stadt",männlich,Jahre,RH03401,34.2
 2020,"Delmenhorst, Stadt",weiblich,Jahre,RH03401,34.7
 2020,"Delmenhorst, Stadt",insgesamt,Jahre,RH03401,34.4
-2020,Emden  Stadt,männlich,Jahre,RH03402,33.0
-2020,Emden  Stadt,weiblich,Jahre,RH03402,31.9
-2020,Emden  Stadt,insgesamt,Jahre,RH03402,32.5
-2020,"Oldenburg(Oldb), Stadt",männlich,Jahre,RH03403,32.9
-2020,"Oldenburg(Oldb), Stadt",weiblich,Jahre,RH03403,33.6
-2020,"Oldenburg(Oldb), Stadt",insgesamt,Jahre,RH03403,33.2
+2020,"Emden, Stadt",männlich,Jahre,RH03402,33.0
+2020,"Emden, Stadt",weiblich,Jahre,RH03402,31.9
+2020,"Emden, Stadt",insgesamt,Jahre,RH03402,32.5
+2020,"Oldenburg (Oldb), Stadt",männlich,Jahre,RH03403,32.9
+2020,"Oldenburg (Oldb), Stadt",weiblich,Jahre,RH03403,33.6
+2020,"Oldenburg (Oldb), Stadt",insgesamt,Jahre,RH03403,33.2
 2020,"Osnabrück, Stadt",männlich,Jahre,RH03404,35.8
 2020,"Osnabrück, Stadt",weiblich,Jahre,RH03404,36.6
 2020,"Osnabrück, Stadt",insgesamt,Jahre,RH03404,36.2
@@ -332,9 +482,9 @@ Year,Gebietseinheit,Geschlecht,Units,GeoCode,Value
 2019,Statistische Region Braunschweig,männlich,Jahre,RH031,35.5
 2019,Statistische Region Braunschweig,weiblich,Jahre,RH031,36.4
 2019,Statistische Region Braunschweig,insgesamt,Jahre,RH031,35.9
-2019,Hannover  Region,männlich,Jahre,RH03241,37.6
-2019,Hannover  Region,weiblich,Jahre,RH03241,38.7
-2019,Hannover  Region,insgesamt,Jahre,RH03241,38.1
+2019,Region Hannover,männlich,Jahre,RH03241,37.6
+2019,Region Hannover,weiblich,Jahre,RH03241,38.7
+2019,Region Hannover,insgesamt,Jahre,RH03241,38.1
 2019,Diepholz,männlich,Jahre,RH03251,34.1
 2019,Diepholz,weiblich,Jahre,RH03251,34.8
 2019,Diepholz,insgesamt,Jahre,RH03251,34.4
@@ -395,12 +545,12 @@ Year,Gebietseinheit,Geschlecht,Units,GeoCode,Value
 2019,"Delmenhorst, Stadt",männlich,Jahre,RH03401,34.1
 2019,"Delmenhorst, Stadt",weiblich,Jahre,RH03401,34.7
 2019,"Delmenhorst, Stadt",insgesamt,Jahre,RH03401,34.4
-2019,Emden  Stadt,männlich,Jahre,RH03402,32.5
-2019,Emden  Stadt,weiblich,Jahre,RH03402,31.8
-2019,Emden  Stadt,insgesamt,Jahre,RH03402,32.2
-2019,"Oldenburg(Oldb), Stadt",männlich,Jahre,RH03403,32.8
-2019,"Oldenburg(Oldb), Stadt",weiblich,Jahre,RH03403,33.6
-2019,"Oldenburg(Oldb), Stadt",insgesamt,Jahre,RH03403,33.2
+2019,"Emden, Stadt",männlich,Jahre,RH03402,32.5
+2019,"Emden, Stadt",weiblich,Jahre,RH03402,31.8
+2019,"Emden, Stadt",insgesamt,Jahre,RH03402,32.2
+2019,"Oldenburg (Oldb), Stadt",männlich,Jahre,RH03403,32.8
+2019,"Oldenburg (Oldb), Stadt",weiblich,Jahre,RH03403,33.6
+2019,"Oldenburg (Oldb), Stadt",insgesamt,Jahre,RH03403,33.2
 2019,"Osnabrück, Stadt",männlich,Jahre,RH03404,35.5
 2019,"Osnabrück, Stadt",weiblich,Jahre,RH03404,36.1
 2019,"Osnabrück, Stadt",insgesamt,Jahre,RH03404,35.8
@@ -482,9 +632,9 @@ Year,Gebietseinheit,Geschlecht,Units,GeoCode,Value
 2018,Statistische Region Braunschweig,männlich,Jahre,RH031,35.6
 2018,Statistische Region Braunschweig,weiblich,Jahre,RH031,36.6
 2018,Statistische Region Braunschweig,insgesamt,Jahre,RH031,36.1
-2018,Hannover  Region,männlich,Jahre,RH03241,37.3
-2018,Hannover  Region,weiblich,Jahre,RH03241,38.5
-2018,Hannover  Region,insgesamt,Jahre,RH03241,37.9
+2018,Region Hannover,männlich,Jahre,RH03241,37.3
+2018,Region Hannover,weiblich,Jahre,RH03241,38.5
+2018,Region Hannover,insgesamt,Jahre,RH03241,37.9
 2018,Diepholz,männlich,Jahre,RH03251,33.9
 2018,Diepholz,weiblich,Jahre,RH03251,34.7
 2018,Diepholz,insgesamt,Jahre,RH03251,34.3
@@ -545,12 +695,12 @@ Year,Gebietseinheit,Geschlecht,Units,GeoCode,Value
 2018,"Delmenhorst, Stadt",männlich,Jahre,RH03401,33.9
 2018,"Delmenhorst, Stadt",weiblich,Jahre,RH03401,34.7
 2018,"Delmenhorst, Stadt",insgesamt,Jahre,RH03401,34.3
-2018,Emden  Stadt,männlich,Jahre,RH03402,32.7
-2018,Emden  Stadt,weiblich,Jahre,RH03402,32.0
-2018,Emden  Stadt,insgesamt,Jahre,RH03402,32.4
-2018,"Oldenburg(Oldb), Stadt",männlich,Jahre,RH03403,32.9
-2018,"Oldenburg(Oldb), Stadt",weiblich,Jahre,RH03403,33.7
-2018,"Oldenburg(Oldb), Stadt",insgesamt,Jahre,RH03403,33.3
+2018,"Emden, Stadt",männlich,Jahre,RH03402,32.7
+2018,"Emden, Stadt",weiblich,Jahre,RH03402,32.0
+2018,"Emden, Stadt",insgesamt,Jahre,RH03402,32.4
+2018,"Oldenburg (Oldb), Stadt",männlich,Jahre,RH03403,32.9
+2018,"Oldenburg (Oldb), Stadt",weiblich,Jahre,RH03403,33.7
+2018,"Oldenburg (Oldb), Stadt",insgesamt,Jahre,RH03403,33.3
 2018,"Osnabrück, Stadt",männlich,Jahre,RH03404,35.6
 2018,"Osnabrück, Stadt",weiblich,Jahre,RH03404,36.2
 2018,"Osnabrück, Stadt",insgesamt,Jahre,RH03404,35.9
@@ -632,9 +782,9 @@ Year,Gebietseinheit,Geschlecht,Units,GeoCode,Value
 2017,Statistische Region Braunschweig,männlich,Jahre,RH031,35.6
 2017,Statistische Region Braunschweig,weiblich,Jahre,RH031,36.6
 2017,Statistische Region Braunschweig,insgesamt,Jahre,RH031,36.1
-2017,Hannover  Region,männlich,Jahre,RH03241,37.2
-2017,Hannover  Region,weiblich,Jahre,RH03241,38.4
-2017,Hannover  Region,insgesamt,Jahre,RH03241,37.8
+2017,Region Hannover,männlich,Jahre,RH03241,37.2
+2017,Region Hannover,weiblich,Jahre,RH03241,38.4
+2017,Region Hannover,insgesamt,Jahre,RH03241,37.8
 2017,Diepholz,männlich,Jahre,RH03251,33.9
 2017,Diepholz,weiblich,Jahre,RH03251,35.0
 2017,Diepholz,insgesamt,Jahre,RH03251,34.4
@@ -695,12 +845,12 @@ Year,Gebietseinheit,Geschlecht,Units,GeoCode,Value
 2017,"Delmenhorst, Stadt",männlich,Jahre,RH03401,34.0
 2017,"Delmenhorst, Stadt",weiblich,Jahre,RH03401,34.8
 2017,"Delmenhorst, Stadt",insgesamt,Jahre,RH03401,34.4
-2017,Emden  Stadt,männlich,Jahre,RH03402,32.7
-2017,Emden  Stadt,weiblich,Jahre,RH03402,32.0
-2017,Emden  Stadt,insgesamt,Jahre,RH03402,32.4
-2017,"Oldenburg(Oldb), Stadt",männlich,Jahre,RH03403,32.6
-2017,"Oldenburg(Oldb), Stadt",weiblich,Jahre,RH03403,33.7
-2017,"Oldenburg(Oldb), Stadt",insgesamt,Jahre,RH03403,33.1
+2017,"Emden, Stadt",männlich,Jahre,RH03402,32.7
+2017,"Emden, Stadt",weiblich,Jahre,RH03402,32.0
+2017,"Emden, Stadt",insgesamt,Jahre,RH03402,32.4
+2017,"Oldenburg (Oldb), Stadt",männlich,Jahre,RH03403,32.6
+2017,"Oldenburg (Oldb), Stadt",weiblich,Jahre,RH03403,33.7
+2017,"Oldenburg (Oldb), Stadt",insgesamt,Jahre,RH03403,33.1
 2017,"Osnabrück, Stadt",männlich,Jahre,RH03404,35.5
 2017,"Osnabrück, Stadt",weiblich,Jahre,RH03404,36.2
 2017,"Osnabrück, Stadt",insgesamt,Jahre,RH03404,35.8
@@ -782,9 +932,9 @@ Year,Gebietseinheit,Geschlecht,Units,GeoCode,Value
 2016,Statistische Region Braunschweig,männlich,Jahre,RH031,35.5
 2016,Statistische Region Braunschweig,weiblich,Jahre,RH031,36.7
 2016,Statistische Region Braunschweig,insgesamt,Jahre,RH031,36.1
-2016,Hannover  Region,männlich,Jahre,RH03241,37.1
-2016,Hannover  Region,weiblich,Jahre,RH03241,38.4
-2016,Hannover  Region,insgesamt,Jahre,RH03241,37.7
+2016,Region Hannover,männlich,Jahre,RH03241,37.1
+2016,Region Hannover,weiblich,Jahre,RH03241,38.4
+2016,Region Hannover,insgesamt,Jahre,RH03241,37.7
 2016,Diepholz,männlich,Jahre,RH03251,34.0
 2016,Diepholz,weiblich,Jahre,RH03251,35.2
 2016,Diepholz,insgesamt,Jahre,RH03251,34.5
@@ -845,12 +995,12 @@ Year,Gebietseinheit,Geschlecht,Units,GeoCode,Value
 2016,"Delmenhorst, Stadt",männlich,Jahre,RH03401,34.6
 2016,"Delmenhorst, Stadt",weiblich,Jahre,RH03401,35.7
 2016,"Delmenhorst, Stadt",insgesamt,Jahre,RH03401,35.1
-2016,Emden  Stadt,männlich,Jahre,RH03402,32.6
-2016,Emden  Stadt,weiblich,Jahre,RH03402,32.2
-2016,Emden  Stadt,insgesamt,Jahre,RH03402,32.4
-2016,"Oldenburg(Oldb), Stadt",männlich,Jahre,RH03403,32.9
-2016,"Oldenburg(Oldb), Stadt",weiblich,Jahre,RH03403,34.0
-2016,"Oldenburg(Oldb), Stadt",insgesamt,Jahre,RH03403,33.5
+2016,"Emden, Stadt",männlich,Jahre,RH03402,32.6
+2016,"Emden, Stadt",weiblich,Jahre,RH03402,32.2
+2016,"Emden, Stadt",insgesamt,Jahre,RH03402,32.4
+2016,"Oldenburg (Oldb), Stadt",männlich,Jahre,RH03403,32.9
+2016,"Oldenburg (Oldb), Stadt",weiblich,Jahre,RH03403,34.0
+2016,"Oldenburg (Oldb), Stadt",insgesamt,Jahre,RH03403,33.5
 2016,"Osnabrück, Stadt",männlich,Jahre,RH03404,35.5
 2016,"Osnabrück, Stadt",weiblich,Jahre,RH03404,36.5
 2016,"Osnabrück, Stadt",insgesamt,Jahre,RH03404,36.0
