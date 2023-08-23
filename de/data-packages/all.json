@@ -3092,7 +3092,7 @@
                 "Wolfenbüttel",
                 "Göttingen",
                 "Statistische Region Braunschweig",
-                "Hannover  Region",
+                "Region Hannover",
                 "Diepholz",
                 "Hameln-Pyrmont",
                 "Hildesheim",
@@ -3113,8 +3113,8 @@
                 "Verden",
                 "Statistische Region Lüneburg",
                 "Delmenhorst, Stadt",
-                "Emden  Stadt",
-                "Oldenburg(Oldb), Stadt",
+                "Emden, Stadt",
+                "Oldenburg (Oldb), Stadt",
                 "Osnabrück, Stadt",
                 "Wilhelmshaven, Stadt",
                 "Ammerland",
@@ -3156,7 +3156,10 @@
               "enum": [
                 "Kein Aufenthaltstitel nach nationalem Recht erforderlich",
                 "Aufenthaltstitel nach nationalem Recht erforderlich",
-                "Ohne Aufenthaltstitel",
+                "Ohne Aufenthalstitel",
+                "Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",
+                "Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",
+                "Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel",
                 ""
               ]
             },
