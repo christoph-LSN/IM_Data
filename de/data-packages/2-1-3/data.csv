@@ -1,4 +1,154 @@
 Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
+2022,"Braunschweig, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03101,4365.0
+2022,"Braunschweig, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03101,4210.0
+2022,"Braunschweig, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03101,8575.0
+2022,"Salzgitter, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03102,2920.0
+2022,"Salzgitter, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03102,2750.0
+2022,"Salzgitter, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03102,5670.0
+2022,"Wolfsburg, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03103,1540.0
+2022,"Wolfsburg, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03103,1580.0
+2022,"Wolfsburg, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03103,3115.0
+2022,Gifhorn,männlich,zeitlich unbefristet,Anzahl,RH03151,1315.0
+2022,Gifhorn,weiblich,zeitlich unbefristet,Anzahl,RH03151,1465.0
+2022,Gifhorn,insgesamt,zeitlich unbefristet,Anzahl,RH03151,2785.0
+2022,Goslar,männlich,zeitlich unbefristet,Anzahl,RH03153,1295.0
+2022,Goslar,weiblich,zeitlich unbefristet,Anzahl,RH03153,1260.0
+2022,Goslar,insgesamt,zeitlich unbefristet,Anzahl,RH03153,2555.0
+2022,Helmstedt,männlich,zeitlich unbefristet,Anzahl,RH03154,715.0
+2022,Helmstedt,weiblich,zeitlich unbefristet,Anzahl,RH03154,745.0
+2022,Helmstedt,insgesamt,zeitlich unbefristet,Anzahl,RH03154,1460.0
+2022,Northeim,männlich,zeitlich unbefristet,Anzahl,RH03155,835.0
+2022,Northeim,weiblich,zeitlich unbefristet,Anzahl,RH03155,860.0
+2022,Northeim,insgesamt,zeitlich unbefristet,Anzahl,RH03155,1690.0
+2022,Peine,männlich,zeitlich unbefristet,Anzahl,RH03157,1460.0
+2022,Peine,weiblich,zeitlich unbefristet,Anzahl,RH03157,1455.0
+2022,Peine,insgesamt,zeitlich unbefristet,Anzahl,RH03157,2915.0
+2022,Wolfenbüttel,männlich,zeitlich unbefristet,Anzahl,RH03158,770.0
+2022,Wolfenbüttel,weiblich,zeitlich unbefristet,Anzahl,RH03158,890.0
+2022,Wolfenbüttel,insgesamt,zeitlich unbefristet,Anzahl,RH03158,1660.0
+2022,Göttingen,männlich,zeitlich unbefristet,Anzahl,RH03159,3170.0
+2022,Göttingen,weiblich,zeitlich unbefristet,Anzahl,RH03159,3285.0
+2022,Göttingen,insgesamt,zeitlich unbefristet,Anzahl,RH03159,6450.0
+2022,Statistische Region Braunschweig,männlich,zeitlich unbefristet,Anzahl,RH031,18385.0
+2022,Statistische Region Braunschweig,weiblich,zeitlich unbefristet,Anzahl,RH031,18495.0
+2022,Statistische Region Braunschweig,insgesamt,zeitlich unbefristet,Anzahl,RH031,36875.0
+2022,Region Hannover,männlich,zeitlich unbefristet,Anzahl,RH03241,25430.0
+2022,Region Hannover,weiblich,zeitlich unbefristet,Anzahl,RH03241,25020.0
+2022,Region Hannover,insgesamt,zeitlich unbefristet,Anzahl,RH03241,50450.0
+2022,Diepholz,männlich,zeitlich unbefristet,Anzahl,RH03251,1635.0
+2022,Diepholz,weiblich,zeitlich unbefristet,Anzahl,RH03251,1830.0
+2022,Diepholz,insgesamt,zeitlich unbefristet,Anzahl,RH03251,3460.0
+2022,Hameln-Pyrmont,männlich,zeitlich unbefristet,Anzahl,RH03252,2400.0
+2022,Hameln-Pyrmont,weiblich,zeitlich unbefristet,Anzahl,RH03252,2290.0
+2022,Hameln-Pyrmont,insgesamt,zeitlich unbefristet,Anzahl,RH03252,4690.0
+2022,Hildesheim,männlich,zeitlich unbefristet,Anzahl,RH03254,2620.0
+2022,Hildesheim,weiblich,zeitlich unbefristet,Anzahl,RH03254,2770.0
+2022,Hildesheim,insgesamt,zeitlich unbefristet,Anzahl,RH03254,5395.0
+2022,Holzminden,männlich,zeitlich unbefristet,Anzahl,RH03255,795.0
+2022,Holzminden,weiblich,zeitlich unbefristet,Anzahl,RH03255,755.0
+2022,Holzminden,insgesamt,zeitlich unbefristet,Anzahl,RH03255,1550.0
+2022,Nienburg (Weser),männlich,zeitlich unbefristet,Anzahl,RH03256,960.0
+2022,Nienburg (Weser),weiblich,zeitlich unbefristet,Anzahl,RH03256,1030.0
+2022,Nienburg (Weser),insgesamt,zeitlich unbefristet,Anzahl,RH03256,1990.0
+2022,Schaumburg,männlich,zeitlich unbefristet,Anzahl,RH03257,1640.0
+2022,Schaumburg,weiblich,zeitlich unbefristet,Anzahl,RH03257,1655.0
+2022,Schaumburg,insgesamt,zeitlich unbefristet,Anzahl,RH03257,3300.0
+2022,Statistische Region Hannover,männlich,zeitlich unbefristet,Anzahl,RH032,35480.0
+2022,Statistische Region Hannover,weiblich,zeitlich unbefristet,Anzahl,RH032,35350.0
+2022,Statistische Region Hannover,insgesamt,zeitlich unbefristet,Anzahl,RH032,70830.0
+2022,Celle,männlich,zeitlich unbefristet,Anzahl,RH03351,1175.0
+2022,Celle,weiblich,zeitlich unbefristet,Anzahl,RH03351,1315.0
+2022,Celle,insgesamt,zeitlich unbefristet,Anzahl,RH03351,2495.0
+2022,Cuxhaven,männlich,zeitlich unbefristet,Anzahl,RH03352,940.0
+2022,Cuxhaven,weiblich,zeitlich unbefristet,Anzahl,RH03352,1095.0
+2022,Cuxhaven,insgesamt,zeitlich unbefristet,Anzahl,RH03352,2035.0
+2022,Harburg,männlich,zeitlich unbefristet,Anzahl,RH03353,2165.0
+2022,Harburg,weiblich,zeitlich unbefristet,Anzahl,RH03353,2180.0
+2022,Harburg,insgesamt,zeitlich unbefristet,Anzahl,RH03353,4345.0
+2022,Lüchow-Dannenberg,männlich,zeitlich unbefristet,Anzahl,RH03354,170.0
+2022,Lüchow-Dannenberg,weiblich,zeitlich unbefristet,Anzahl,RH03354,205.0
+2022,Lüchow-Dannenberg,insgesamt,zeitlich unbefristet,Anzahl,RH03354,375.0
+2022,Lüneburg,männlich,zeitlich unbefristet,Anzahl,RH03355,1010.0
+2022,Lüneburg,weiblich,zeitlich unbefristet,Anzahl,RH03355,1110.0
+2022,Lüneburg,insgesamt,zeitlich unbefristet,Anzahl,RH03355,2120.0
+2022,Osterholz,männlich,zeitlich unbefristet,Anzahl,RH03356,810.0
+2022,Osterholz,weiblich,zeitlich unbefristet,Anzahl,RH03356,855.0
+2022,Osterholz,insgesamt,zeitlich unbefristet,Anzahl,RH03356,1665.0
+2022,Rotenburg (Wümme),männlich,zeitlich unbefristet,Anzahl,RH03357,990.0
+2022,Rotenburg (Wümme),weiblich,zeitlich unbefristet,Anzahl,RH03357,1100.0
+2022,Rotenburg (Wümme),insgesamt,zeitlich unbefristet,Anzahl,RH03357,2090.0
+2022,Heidekreis,männlich,zeitlich unbefristet,Anzahl,RH03358,1165.0
+2022,Heidekreis,weiblich,zeitlich unbefristet,Anzahl,RH03358,1130.0
+2022,Heidekreis,insgesamt,zeitlich unbefristet,Anzahl,RH03358,2295.0
+2022,Stade,männlich,zeitlich unbefristet,Anzahl,RH03359,1455.0
+2022,Stade,weiblich,zeitlich unbefristet,Anzahl,RH03359,1470.0
+2022,Stade,insgesamt,zeitlich unbefristet,Anzahl,RH03359,2925.0
+2022,Uelzen,männlich,zeitlich unbefristet,Anzahl,RH03360,480.0
+2022,Uelzen,weiblich,zeitlich unbefristet,Anzahl,RH03360,530.0
+2022,Uelzen,insgesamt,zeitlich unbefristet,Anzahl,RH03360,1015.0
+2022,Verden,männlich,zeitlich unbefristet,Anzahl,RH03361,1500.0
+2022,Verden,weiblich,zeitlich unbefristet,Anzahl,RH03361,1455.0
+2022,Verden,insgesamt,zeitlich unbefristet,Anzahl,RH03361,2955.0
+2022,Statistische Region Lüneburg,männlich,zeitlich unbefristet,Anzahl,RH033,11860.0
+2022,Statistische Region Lüneburg,weiblich,zeitlich unbefristet,Anzahl,RH033,12445.0
+2022,Statistische Region Lüneburg,insgesamt,zeitlich unbefristet,Anzahl,RH033,24305.0
+2022,"Delmenhorst, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03401,1710.0
+2022,"Delmenhorst, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03401,1555.0
+2022,"Delmenhorst, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03401,3265.0
+2022,"Emden, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03402,325.0
+2022,"Emden, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03402,295.0
+2022,"Emden, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03402,620.0
+2022,"Oldenburg (Oldb), Stadt",männlich,zeitlich unbefristet,Anzahl,RH03403,1950.0
+2022,"Oldenburg (Oldb), Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03403,1820.0
+2022,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03403,3770.0
+2022,"Osnabrück, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03404,3055.0
+2022,"Osnabrück, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03404,2790.0
+2022,"Osnabrück, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03404,5840.0
+2022,"Wilhelmshaven, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03405,560.0
+2022,"Wilhelmshaven, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03405,570.0
+2022,"Wilhelmshaven, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03405,1125.0
+2022,Ammerland,männlich,zeitlich unbefristet,Anzahl,RH03451,700.0
+2022,Ammerland,weiblich,zeitlich unbefristet,Anzahl,RH03451,690.0
+2022,Ammerland,insgesamt,zeitlich unbefristet,Anzahl,RH03451,1390.0
+2022,Aurich,männlich,zeitlich unbefristet,Anzahl,RH03452,665.0
+2022,Aurich,weiblich,zeitlich unbefristet,Anzahl,RH03452,645.0
+2022,Aurich,insgesamt,zeitlich unbefristet,Anzahl,RH03452,1315.0
+2022,Cloppenburg,männlich,zeitlich unbefristet,Anzahl,RH03453,1275.0
+2022,Cloppenburg,weiblich,zeitlich unbefristet,Anzahl,RH03453,1275.0
+2022,Cloppenburg,insgesamt,zeitlich unbefristet,Anzahl,RH03453,2550.0
+2022,Emsland,männlich,zeitlich unbefristet,Anzahl,RH03454,1830.0
+2022,Emsland,weiblich,zeitlich unbefristet,Anzahl,RH03454,1785.0
+2022,Emsland,insgesamt,zeitlich unbefristet,Anzahl,RH03454,3610.0
+2022,Friesland,männlich,zeitlich unbefristet,Anzahl,RH03455,320.0
+2022,Friesland,weiblich,zeitlich unbefristet,Anzahl,RH03455,365.0
+2022,Friesland,insgesamt,zeitlich unbefristet,Anzahl,RH03455,685.0
+2022,Grafschaft Bentheim,männlich,zeitlich unbefristet,Anzahl,RH03456,1110.0
+2022,Grafschaft Bentheim,weiblich,zeitlich unbefristet,Anzahl,RH03456,1165.0
+2022,Grafschaft Bentheim,insgesamt,zeitlich unbefristet,Anzahl,RH03456,2275.0
+2022,Leer,männlich,zeitlich unbefristet,Anzahl,RH03457,770.0
+2022,Leer,weiblich,zeitlich unbefristet,Anzahl,RH03457,755.0
+2022,Leer,insgesamt,zeitlich unbefristet,Anzahl,RH03457,1525.0
+2022,Oldenburg,männlich,zeitlich unbefristet,Anzahl,RH03458,750.0
+2022,Oldenburg,weiblich,zeitlich unbefristet,Anzahl,RH03458,775.0
+2022,Oldenburg,insgesamt,zeitlich unbefristet,Anzahl,RH03458,1525.0
+2022,Osnabrück,männlich,zeitlich unbefristet,Anzahl,RH03459,2870.0
+2022,Osnabrück,weiblich,zeitlich unbefristet,Anzahl,RH03459,3130.0
+2022,Osnabrück,insgesamt,zeitlich unbefristet,Anzahl,RH03459,6000.0
+2022,Vechta,männlich,zeitlich unbefristet,Anzahl,RH03460,1920.0
+2022,Vechta,weiblich,zeitlich unbefristet,Anzahl,RH03460,1875.0
+2022,Vechta,insgesamt,zeitlich unbefristet,Anzahl,RH03460,3795.0
+2022,Wesermarsch,männlich,zeitlich unbefristet,Anzahl,RH03461,665.0
+2022,Wesermarsch,weiblich,zeitlich unbefristet,Anzahl,RH03461,735.0
+2022,Wesermarsch,insgesamt,zeitlich unbefristet,Anzahl,RH03461,1400.0
+2022,Wittmund,männlich,zeitlich unbefristet,Anzahl,RH03462,205.0
+2022,Wittmund,weiblich,zeitlich unbefristet,Anzahl,RH03462,180.0
+2022,Wittmund,insgesamt,zeitlich unbefristet,Anzahl,RH03462,380.0
+2022,Statistische Region Weser-Ems,männlich,zeitlich unbefristet,Anzahl,RH034,20675.0
+2022,Statistische Region Weser-Ems,weiblich,zeitlich unbefristet,Anzahl,RH034,20400.0
+2022,Statistische Region Weser-Ems,insgesamt,zeitlich unbefristet,Anzahl,RH034,41075.0
+2022,Niedersachsen,männlich,zeitlich unbefristet,Anzahl,RH030,86395.0
+2022,Niedersachsen,weiblich,zeitlich unbefristet,Anzahl,RH030,86690.0
+2022,Niedersachsen,insgesamt,zeitlich unbefristet,Anzahl,RH030,173085.0
 2021,"Braunschweig, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03101,4200.0
 2021,"Braunschweig, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03101,4095.0
 2021,"Braunschweig, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03101,8290.0
@@ -32,9 +182,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2021,Statistische Region Braunschweig,männlich,zeitlich unbefristet,Anzahl,RH031,17800.0
 2021,Statistische Region Braunschweig,weiblich,zeitlich unbefristet,Anzahl,RH031,18045.0
 2021,Statistische Region Braunschweig,insgesamt,zeitlich unbefristet,Anzahl,RH031,35845.0
-2021,Hannover  Region,männlich,zeitlich unbefristet,Anzahl,RH03241,24645.0
-2021,Hannover  Region,weiblich,zeitlich unbefristet,Anzahl,RH03241,24500.0
-2021,Hannover  Region,insgesamt,zeitlich unbefristet,Anzahl,RH03241,49145.0
+2021,Region Hannover,männlich,zeitlich unbefristet,Anzahl,RH03241,24645.0
+2021,Region Hannover,weiblich,zeitlich unbefristet,Anzahl,RH03241,24500.0
+2021,Region Hannover,insgesamt,zeitlich unbefristet,Anzahl,RH03241,49145.0
 2021,Diepholz,männlich,zeitlich unbefristet,Anzahl,RH03251,1590.0
 2021,Diepholz,weiblich,zeitlich unbefristet,Anzahl,RH03251,1760.0
 2021,Diepholz,insgesamt,zeitlich unbefristet,Anzahl,RH03251,3350.0
@@ -95,12 +245,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2021,"Delmenhorst, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03401,1665.0
 2021,"Delmenhorst, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03401,1500.0
 2021,"Delmenhorst, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03401,3165.0
-2021,Emden  Stadt,männlich,zeitlich unbefristet,Anzahl,RH03402,300.0
-2021,Emden  Stadt,weiblich,zeitlich unbefristet,Anzahl,RH03402,290.0
-2021,Emden  Stadt,insgesamt,zeitlich unbefristet,Anzahl,RH03402,585.0
-2021,"Oldenburg(Oldb), Stadt",männlich,zeitlich unbefristet,Anzahl,RH03403,1845.0
-2021,"Oldenburg(Oldb), Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03403,1745.0
-2021,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03403,3590.0
+2021,"Emden, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03402,300.0
+2021,"Emden, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03402,290.0
+2021,"Emden, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03402,585.0
+2021,"Oldenburg (Oldb), Stadt",männlich,zeitlich unbefristet,Anzahl,RH03403,1845.0
+2021,"Oldenburg (Oldb), Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03403,1745.0
+2021,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03403,3590.0
 2021,"Osnabrück, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03404,2980.0
 2021,"Osnabrück, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03404,2700.0
 2021,"Osnabrück, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03404,5685.0
@@ -182,9 +332,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2020,Statistische Region Braunschweig,männlich,zeitlich unbefristet,Anzahl,RH031,16915.0
 2020,Statistische Region Braunschweig,weiblich,zeitlich unbefristet,Anzahl,RH031,17675.0
 2020,Statistische Region Braunschweig,insgesamt,zeitlich unbefristet,Anzahl,RH031,34590.0
-2020,Hannover  Region,männlich,zeitlich unbefristet,Anzahl,RH03241,23865.0
-2020,Hannover  Region,weiblich,zeitlich unbefristet,Anzahl,RH03241,24230.0
-2020,Hannover  Region,insgesamt,zeitlich unbefristet,Anzahl,RH03241,48095.0
+2020,Region Hannover,männlich,zeitlich unbefristet,Anzahl,RH03241,23865.0
+2020,Region Hannover,weiblich,zeitlich unbefristet,Anzahl,RH03241,24230.0
+2020,Region Hannover,insgesamt,zeitlich unbefristet,Anzahl,RH03241,48095.0
 2020,Diepholz,männlich,zeitlich unbefristet,Anzahl,RH03251,1425.0
 2020,Diepholz,weiblich,zeitlich unbefristet,Anzahl,RH03251,1665.0
 2020,Diepholz,insgesamt,zeitlich unbefristet,Anzahl,RH03251,3090.0
@@ -245,12 +395,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2020,"Delmenhorst, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03401,1600.0
 2020,"Delmenhorst, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03401,1495.0
 2020,"Delmenhorst, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03401,3090.0
-2020,Emden  Stadt,männlich,zeitlich unbefristet,Anzahl,RH03402,285.0
-2020,Emden  Stadt,weiblich,zeitlich unbefristet,Anzahl,RH03402,275.0
-2020,Emden  Stadt,insgesamt,zeitlich unbefristet,Anzahl,RH03402,565.0
-2020,"Oldenburg(Oldb), Stadt",männlich,zeitlich unbefristet,Anzahl,RH03403,1725.0
-2020,"Oldenburg(Oldb), Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03403,1690.0
-2020,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03403,3420.0
+2020,"Emden, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03402,285.0
+2020,"Emden, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03402,275.0
+2020,"Emden, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03402,565.0
+2020,"Oldenburg (Oldb), Stadt",männlich,zeitlich unbefristet,Anzahl,RH03403,1725.0
+2020,"Oldenburg (Oldb), Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03403,1690.0
+2020,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03403,3420.0
 2020,"Osnabrück, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03404,2765.0
 2020,"Osnabrück, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03404,2655.0
 2020,"Osnabrück, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03404,5420.0
@@ -332,9 +482,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2019,Statistische Region Braunschweig,männlich,zeitlich unbefristet,Anzahl,RH031,16605.0
 2019,Statistische Region Braunschweig,weiblich,zeitlich unbefristet,Anzahl,RH031,17505.0
 2019,Statistische Region Braunschweig,insgesamt,zeitlich unbefristet,Anzahl,RH031,34105.0
-2019,Hannover  Region,männlich,zeitlich unbefristet,Anzahl,RH03241,24340.0
-2019,Hannover  Region,weiblich,zeitlich unbefristet,Anzahl,RH03241,24720.0
-2019,Hannover  Region,insgesamt,zeitlich unbefristet,Anzahl,RH03241,49060.0
+2019,Region Hannover,männlich,zeitlich unbefristet,Anzahl,RH03241,24340.0
+2019,Region Hannover,weiblich,zeitlich unbefristet,Anzahl,RH03241,24720.0
+2019,Region Hannover,insgesamt,zeitlich unbefristet,Anzahl,RH03241,49060.0
 2019,Diepholz,männlich,zeitlich unbefristet,Anzahl,RH03251,1390.0
 2019,Diepholz,weiblich,zeitlich unbefristet,Anzahl,RH03251,1635.0
 2019,Diepholz,insgesamt,zeitlich unbefristet,Anzahl,RH03251,3025.0
@@ -395,12 +545,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2019,"Delmenhorst, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03401,1565.0
 2019,"Delmenhorst, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03401,1500.0
 2019,"Delmenhorst, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03401,3065.0
-2019,Emden  Stadt,männlich,zeitlich unbefristet,Anzahl,RH03402,295.0
-2019,Emden  Stadt,weiblich,zeitlich unbefristet,Anzahl,RH03402,295.0
-2019,Emden  Stadt,insgesamt,zeitlich unbefristet,Anzahl,RH03402,590.0
-2019,"Oldenburg(Oldb), Stadt",männlich,zeitlich unbefristet,Anzahl,RH03403,1695.0
-2019,"Oldenburg(Oldb), Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03403,1710.0
-2019,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03403,3400.0
+2019,"Emden, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03402,295.0
+2019,"Emden, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03402,295.0
+2019,"Emden, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03402,590.0
+2019,"Oldenburg (Oldb), Stadt",männlich,zeitlich unbefristet,Anzahl,RH03403,1695.0
+2019,"Oldenburg (Oldb), Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03403,1710.0
+2019,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03403,3400.0
 2019,"Osnabrück, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03404,2720.0
 2019,"Osnabrück, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03404,2650.0
 2019,"Osnabrück, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03404,5370.0
@@ -482,9 +632,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2018,Statistische Region Braunschweig,männlich,zeitlich unbefristet,Anzahl,RH031,16490.0
 2018,Statistische Region Braunschweig,weiblich,zeitlich unbefristet,Anzahl,RH031,17430.0
 2018,Statistische Region Braunschweig,insgesamt,zeitlich unbefristet,Anzahl,RH031,33920.0
-2018,Hannover  Region,männlich,zeitlich unbefristet,Anzahl,RH03241,24155.0
-2018,Hannover  Region,weiblich,zeitlich unbefristet,Anzahl,RH03241,24625.0
-2018,Hannover  Region,insgesamt,zeitlich unbefristet,Anzahl,RH03241,48775.0
+2018,Region Hannover,männlich,zeitlich unbefristet,Anzahl,RH03241,24155.0
+2018,Region Hannover,weiblich,zeitlich unbefristet,Anzahl,RH03241,24625.0
+2018,Region Hannover,insgesamt,zeitlich unbefristet,Anzahl,RH03241,48775.0
 2018,Diepholz,männlich,zeitlich unbefristet,Anzahl,RH03251,1375.0
 2018,Diepholz,weiblich,zeitlich unbefristet,Anzahl,RH03251,1635.0
 2018,Diepholz,insgesamt,zeitlich unbefristet,Anzahl,RH03251,3010.0
@@ -545,12 +695,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2018,"Delmenhorst, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03401,1570.0
 2018,"Delmenhorst, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03401,1505.0
 2018,"Delmenhorst, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03401,3075.0
-2018,Emden  Stadt,männlich,zeitlich unbefristet,Anzahl,RH03402,300.0
-2018,Emden  Stadt,weiblich,zeitlich unbefristet,Anzahl,RH03402,305.0
-2018,Emden  Stadt,insgesamt,zeitlich unbefristet,Anzahl,RH03402,605.0
-2018,"Oldenburg(Oldb), Stadt",männlich,zeitlich unbefristet,Anzahl,RH03403,1725.0
-2018,"Oldenburg(Oldb), Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03403,1700.0
-2018,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03403,3425.0
+2018,"Emden, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03402,300.0
+2018,"Emden, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03402,305.0
+2018,"Emden, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03402,605.0
+2018,"Oldenburg (Oldb), Stadt",männlich,zeitlich unbefristet,Anzahl,RH03403,1725.0
+2018,"Oldenburg (Oldb), Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03403,1700.0
+2018,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03403,3425.0
 2018,"Osnabrück, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03404,2720.0
 2018,"Osnabrück, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03404,2650.0
 2018,"Osnabrück, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03404,5370.0
@@ -632,9 +782,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2017,Statistische Region Braunschweig,männlich,zeitlich unbefristet,Anzahl,RH031,16400.0
 2017,Statistische Region Braunschweig,weiblich,zeitlich unbefristet,Anzahl,RH031,17285.0
 2017,Statistische Region Braunschweig,insgesamt,zeitlich unbefristet,Anzahl,RH031,33685.0
-2017,Hannover  Region,männlich,zeitlich unbefristet,Anzahl,RH03241,24110.0
-2017,Hannover  Region,weiblich,zeitlich unbefristet,Anzahl,RH03241,24535.0
-2017,Hannover  Region,insgesamt,zeitlich unbefristet,Anzahl,RH03241,48645.0
+2017,Region Hannover,männlich,zeitlich unbefristet,Anzahl,RH03241,24110.0
+2017,Region Hannover,weiblich,zeitlich unbefristet,Anzahl,RH03241,24535.0
+2017,Region Hannover,insgesamt,zeitlich unbefristet,Anzahl,RH03241,48645.0
 2017,Diepholz,männlich,zeitlich unbefristet,Anzahl,RH03251,1350.0
 2017,Diepholz,weiblich,zeitlich unbefristet,Anzahl,RH03251,1625.0
 2017,Diepholz,insgesamt,zeitlich unbefristet,Anzahl,RH03251,2975.0
@@ -695,12 +845,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2017,"Delmenhorst, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03401,1570.0
 2017,"Delmenhorst, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03401,1510.0
 2017,"Delmenhorst, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03401,3080.0
-2017,Emden  Stadt,männlich,zeitlich unbefristet,Anzahl,RH03402,300.0
-2017,Emden  Stadt,weiblich,zeitlich unbefristet,Anzahl,RH03402,305.0
-2017,Emden  Stadt,insgesamt,zeitlich unbefristet,Anzahl,RH03402,605.0
-2017,"Oldenburg(Oldb), Stadt",männlich,zeitlich unbefristet,Anzahl,RH03403,1755.0
-2017,"Oldenburg(Oldb), Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03403,1720.0
-2017,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03403,3475.0
+2017,"Emden, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03402,300.0
+2017,"Emden, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03402,305.0
+2017,"Emden, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03402,605.0
+2017,"Oldenburg (Oldb), Stadt",männlich,zeitlich unbefristet,Anzahl,RH03403,1755.0
+2017,"Oldenburg (Oldb), Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03403,1720.0
+2017,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03403,3475.0
 2017,"Osnabrück, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03404,2745.0
 2017,"Osnabrück, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03404,2710.0
 2017,"Osnabrück, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03404,5455.0
@@ -782,9 +932,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2016,Statistische Region Braunschweig,männlich,zeitlich unbefristet,Anzahl,RH031,16370.0
 2016,Statistische Region Braunschweig,weiblich,zeitlich unbefristet,Anzahl,RH031,17240.0
 2016,Statistische Region Braunschweig,insgesamt,zeitlich unbefristet,Anzahl,RH031,33610.0
-2016,Hannover  Region,männlich,zeitlich unbefristet,Anzahl,RH03241,24145.0
-2016,Hannover  Region,weiblich,zeitlich unbefristet,Anzahl,RH03241,24485.0
-2016,Hannover  Region,insgesamt,zeitlich unbefristet,Anzahl,RH03241,48625.0
+2016,Region Hannover,männlich,zeitlich unbefristet,Anzahl,RH03241,24145.0
+2016,Region Hannover,weiblich,zeitlich unbefristet,Anzahl,RH03241,24485.0
+2016,Region Hannover,insgesamt,zeitlich unbefristet,Anzahl,RH03241,48625.0
 2016,Diepholz,männlich,zeitlich unbefristet,Anzahl,RH03251,1330.0
 2016,Diepholz,weiblich,zeitlich unbefristet,Anzahl,RH03251,1615.0
 2016,Diepholz,insgesamt,zeitlich unbefristet,Anzahl,RH03251,2945.0
@@ -845,12 +995,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2016,"Delmenhorst, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03401,1560.0
 2016,"Delmenhorst, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03401,1490.0
 2016,"Delmenhorst, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03401,3055.0
-2016,Emden  Stadt,männlich,zeitlich unbefristet,Anzahl,RH03402,295.0
-2016,Emden  Stadt,weiblich,zeitlich unbefristet,Anzahl,RH03402,300.0
-2016,Emden  Stadt,insgesamt,zeitlich unbefristet,Anzahl,RH03402,595.0
-2016,"Oldenburg(Oldb), Stadt",männlich,zeitlich unbefristet,Anzahl,RH03403,1780.0
-2016,"Oldenburg(Oldb), Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03403,1750.0
-2016,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03403,3525.0
+2016,"Emden, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03402,295.0
+2016,"Emden, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03402,300.0
+2016,"Emden, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03402,595.0
+2016,"Oldenburg (Oldb), Stadt",männlich,zeitlich unbefristet,Anzahl,RH03403,1780.0
+2016,"Oldenburg (Oldb), Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03403,1750.0
+2016,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03403,3525.0
 2016,"Osnabrück, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03404,2780.0
 2016,"Osnabrück, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03404,2705.0
 2016,"Osnabrück, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03404,5485.0
@@ -932,9 +1082,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2015,Statistische Region Braunschweig,männlich,zeitlich unbefristet,Anzahl,RH031,16170.0
 2015,Statistische Region Braunschweig,weiblich,zeitlich unbefristet,Anzahl,RH031,16960.0
 2015,Statistische Region Braunschweig,insgesamt,zeitlich unbefristet,Anzahl,RH031,33130.0
-2015,Hannover  Region,männlich,zeitlich unbefristet,Anzahl,RH03241,24050.0
-2015,Hannover  Region,weiblich,zeitlich unbefristet,Anzahl,RH03241,24250.0
-2015,Hannover  Region,insgesamt,zeitlich unbefristet,Anzahl,RH03241,48305.0
+2015,Region Hannover,männlich,zeitlich unbefristet,Anzahl,RH03241,24050.0
+2015,Region Hannover,weiblich,zeitlich unbefristet,Anzahl,RH03241,24250.0
+2015,Region Hannover,insgesamt,zeitlich unbefristet,Anzahl,RH03241,48305.0
 2015,Diepholz,männlich,zeitlich unbefristet,Anzahl,RH03251,1290.0
 2015,Diepholz,weiblich,zeitlich unbefristet,Anzahl,RH03251,1595.0
 2015,Diepholz,insgesamt,zeitlich unbefristet,Anzahl,RH03251,2885.0
@@ -995,12 +1145,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2015,"Delmenhorst, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03401,1555.0
 2015,"Delmenhorst, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03401,1485.0
 2015,"Delmenhorst, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03401,3035.0
-2015,Emden  Stadt,männlich,zeitlich unbefristet,Anzahl,RH03402,295.0
-2015,Emden  Stadt,weiblich,zeitlich unbefristet,Anzahl,RH03402,300.0
-2015,Emden  Stadt,insgesamt,zeitlich unbefristet,Anzahl,RH03402,595.0
-2015,"Oldenburg(Oldb), Stadt",männlich,zeitlich unbefristet,Anzahl,RH03403,1775.0
-2015,"Oldenburg(Oldb), Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03403,1705.0
-2015,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03403,3475.0
+2015,"Emden, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03402,295.0
+2015,"Emden, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03402,300.0
+2015,"Emden, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03402,595.0
+2015,"Oldenburg (Oldb), Stadt",männlich,zeitlich unbefristet,Anzahl,RH03403,1775.0
+2015,"Oldenburg (Oldb), Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03403,1705.0
+2015,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03403,3475.0
 2015,"Osnabrück, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03404,2850.0
 2015,"Osnabrück, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03404,2700.0
 2015,"Osnabrück, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03404,5550.0
@@ -1082,9 +1232,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2014,Statistische Region Braunschweig,männlich,zeitlich unbefristet,Anzahl,RH031,15880.0
 2014,Statistische Region Braunschweig,weiblich,zeitlich unbefristet,Anzahl,RH031,16590.0
 2014,Statistische Region Braunschweig,insgesamt,zeitlich unbefristet,Anzahl,RH031,32465.0
-2014,Hannover  Region,männlich,zeitlich unbefristet,Anzahl,RH03241,23730.0
-2014,Hannover  Region,weiblich,zeitlich unbefristet,Anzahl,RH03241,23965.0
-2014,Hannover  Region,insgesamt,zeitlich unbefristet,Anzahl,RH03241,47695.0
+2014,Region Hannover,männlich,zeitlich unbefristet,Anzahl,RH03241,23730.0
+2014,Region Hannover,weiblich,zeitlich unbefristet,Anzahl,RH03241,23965.0
+2014,Region Hannover,insgesamt,zeitlich unbefristet,Anzahl,RH03241,47695.0
 2014,Diepholz,männlich,zeitlich unbefristet,Anzahl,RH03251,1260.0
 2014,Diepholz,weiblich,zeitlich unbefristet,Anzahl,RH03251,1535.0
 2014,Diepholz,insgesamt,zeitlich unbefristet,Anzahl,RH03251,2795.0
@@ -1145,12 +1295,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2014,"Delmenhorst, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03401,1535.0
 2014,"Delmenhorst, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03401,1430.0
 2014,"Delmenhorst, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03401,2965.0
-2014,Emden  Stadt,männlich,zeitlich unbefristet,Anzahl,RH03402,300.0
-2014,Emden  Stadt,weiblich,zeitlich unbefristet,Anzahl,RH03402,300.0
-2014,Emden  Stadt,insgesamt,zeitlich unbefristet,Anzahl,RH03402,595.0
-2014,"Oldenburg(Oldb), Stadt",männlich,zeitlich unbefristet,Anzahl,RH03403,1735.0
-2014,"Oldenburg(Oldb), Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03403,1690.0
-2014,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03403,3425.0
+2014,"Emden, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03402,300.0
+2014,"Emden, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03402,300.0
+2014,"Emden, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03402,595.0
+2014,"Oldenburg (Oldb), Stadt",männlich,zeitlich unbefristet,Anzahl,RH03403,1735.0
+2014,"Oldenburg (Oldb), Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03403,1690.0
+2014,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03403,3425.0
 2014,"Osnabrück, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03404,2875.0
 2014,"Osnabrück, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03404,2685.0
 2014,"Osnabrück, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03404,5560.0
@@ -1232,9 +1382,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2013,Statistische Region Braunschweig,männlich,zeitlich unbefristet,Anzahl,RH031,15630.0
 2013,Statistische Region Braunschweig,weiblich,zeitlich unbefristet,Anzahl,RH031,16100.0
 2013,Statistische Region Braunschweig,insgesamt,zeitlich unbefristet,Anzahl,RH031,31730.0
-2013,Hannover  Region,männlich,zeitlich unbefristet,Anzahl,RH03241,23230.0
-2013,Hannover  Region,weiblich,zeitlich unbefristet,Anzahl,RH03241,23330.0
-2013,Hannover  Region,insgesamt,zeitlich unbefristet,Anzahl,RH03241,46560.0
+2013,Region Hannover,männlich,zeitlich unbefristet,Anzahl,RH03241,23230.0
+2013,Region Hannover,weiblich,zeitlich unbefristet,Anzahl,RH03241,23330.0
+2013,Region Hannover,insgesamt,zeitlich unbefristet,Anzahl,RH03241,46560.0
 2013,Diepholz,männlich,zeitlich unbefristet,Anzahl,RH03251,1240.0
 2013,Diepholz,weiblich,zeitlich unbefristet,Anzahl,RH03251,1460.0
 2013,Diepholz,insgesamt,zeitlich unbefristet,Anzahl,RH03251,2695.0
@@ -1295,12 +1445,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2013,"Delmenhorst, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03401,1515.0
 2013,"Delmenhorst, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03401,1420.0
 2013,"Delmenhorst, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03401,2935.0
-2013,Emden  Stadt,männlich,zeitlich unbefristet,Anzahl,RH03402,285.0
-2013,Emden  Stadt,weiblich,zeitlich unbefristet,Anzahl,RH03402,300.0
-2013,Emden  Stadt,insgesamt,zeitlich unbefristet,Anzahl,RH03402,585.0
-2013,"Oldenburg(Oldb), Stadt",männlich,zeitlich unbefristet,Anzahl,RH03403,1705.0
-2013,"Oldenburg(Oldb), Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03403,1635.0
-2013,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03403,3340.0
+2013,"Emden, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03402,285.0
+2013,"Emden, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03402,300.0
+2013,"Emden, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03402,585.0
+2013,"Oldenburg (Oldb), Stadt",männlich,zeitlich unbefristet,Anzahl,RH03403,1705.0
+2013,"Oldenburg (Oldb), Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03403,1635.0
+2013,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03403,3340.0
 2013,"Osnabrück, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03404,2905.0
 2013,"Osnabrück, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03404,2700.0
 2013,"Osnabrück, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03404,5605.0
@@ -1382,9 +1532,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2012,Statistische Region Braunschweig,männlich,zeitlich unbefristet,Anzahl,RH031,15940.0
 2012,Statistische Region Braunschweig,weiblich,zeitlich unbefristet,Anzahl,RH031,16340.0
 2012,Statistische Region Braunschweig,insgesamt,zeitlich unbefristet,Anzahl,RH031,32275.0
-2012,Hannover  Region,männlich,zeitlich unbefristet,Anzahl,RH03241,23780.0
-2012,Hannover  Region,weiblich,zeitlich unbefristet,Anzahl,RH03241,23745.0
-2012,Hannover  Region,insgesamt,zeitlich unbefristet,Anzahl,RH03241,47525.0
+2012,Region Hannover,männlich,zeitlich unbefristet,Anzahl,RH03241,23780.0
+2012,Region Hannover,weiblich,zeitlich unbefristet,Anzahl,RH03241,23745.0
+2012,Region Hannover,insgesamt,zeitlich unbefristet,Anzahl,RH03241,47525.0
 2012,Diepholz,männlich,zeitlich unbefristet,Anzahl,RH03251,1245.0
 2012,Diepholz,weiblich,zeitlich unbefristet,Anzahl,RH03251,1400.0
 2012,Diepholz,insgesamt,zeitlich unbefristet,Anzahl,RH03251,2650.0
@@ -1445,12 +1595,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2012,"Delmenhorst, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03401,1500.0
 2012,"Delmenhorst, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03401,1435.0
 2012,"Delmenhorst, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03401,2935.0
-2012,Emden  Stadt,männlich,zeitlich unbefristet,Anzahl,RH03402,325.0
-2012,Emden  Stadt,weiblich,zeitlich unbefristet,Anzahl,RH03402,305.0
-2012,Emden  Stadt,insgesamt,zeitlich unbefristet,Anzahl,RH03402,630.0
-2012,"Oldenburg(Oldb), Stadt",männlich,zeitlich unbefristet,Anzahl,RH03403,1745.0
-2012,"Oldenburg(Oldb), Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03403,1615.0
-2012,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03403,3360.0
+2012,"Emden, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03402,325.0
+2012,"Emden, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03402,305.0
+2012,"Emden, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03402,630.0
+2012,"Oldenburg (Oldb), Stadt",männlich,zeitlich unbefristet,Anzahl,RH03403,1745.0
+2012,"Oldenburg (Oldb), Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03403,1615.0
+2012,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03403,3360.0
 2012,"Osnabrück, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03404,2950.0
 2012,"Osnabrück, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03404,2745.0
 2012,"Osnabrück, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03404,5695.0
@@ -1532,9 +1682,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2011,Statistische Region Braunschweig,männlich,zeitlich unbefristet,Anzahl,RH031,15655.0
 2011,Statistische Region Braunschweig,weiblich,zeitlich unbefristet,Anzahl,RH031,15875.0
 2011,Statistische Region Braunschweig,insgesamt,zeitlich unbefristet,Anzahl,RH031,31525.0
-2011,Hannover  Region,männlich,zeitlich unbefristet,Anzahl,RH03241,23430.0
-2011,Hannover  Region,weiblich,zeitlich unbefristet,Anzahl,RH03241,23265.0
-2011,Hannover  Region,insgesamt,zeitlich unbefristet,Anzahl,RH03241,46700.0
+2011,Region Hannover,männlich,zeitlich unbefristet,Anzahl,RH03241,23430.0
+2011,Region Hannover,weiblich,zeitlich unbefristet,Anzahl,RH03241,23265.0
+2011,Region Hannover,insgesamt,zeitlich unbefristet,Anzahl,RH03241,46700.0
 2011,Diepholz,männlich,zeitlich unbefristet,Anzahl,RH03251,1215.0
 2011,Diepholz,weiblich,zeitlich unbefristet,Anzahl,RH03251,1395.0
 2011,Diepholz,insgesamt,zeitlich unbefristet,Anzahl,RH03251,2610.0
@@ -1595,12 +1745,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2011,"Delmenhorst, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03401,1510.0
 2011,"Delmenhorst, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03401,1420.0
 2011,"Delmenhorst, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03401,2935.0
-2011,Emden  Stadt,männlich,zeitlich unbefristet,Anzahl,RH03402,310.0
-2011,Emden  Stadt,weiblich,zeitlich unbefristet,Anzahl,RH03402,290.0
-2011,Emden  Stadt,insgesamt,zeitlich unbefristet,Anzahl,RH03402,595.0
-2011,"Oldenburg(Oldb), Stadt",männlich,zeitlich unbefristet,Anzahl,RH03403,1615.0
-2011,"Oldenburg(Oldb), Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03403,1555.0
-2011,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03403,3170.0
+2011,"Emden, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03402,310.0
+2011,"Emden, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03402,290.0
+2011,"Emden, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03402,595.0
+2011,"Oldenburg (Oldb), Stadt",männlich,zeitlich unbefristet,Anzahl,RH03403,1615.0
+2011,"Oldenburg (Oldb), Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03403,1555.0
+2011,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03403,3170.0
 2011,"Osnabrück, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03404,2925.0
 2011,"Osnabrück, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03404,2725.0
 2011,"Osnabrück, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03404,5650.0
@@ -1682,9 +1832,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2010,Statistische Region Braunschweig,männlich,zeitlich unbefristet,Anzahl,RH031,15515.0
 2010,Statistische Region Braunschweig,weiblich,zeitlich unbefristet,Anzahl,RH031,15535.0
 2010,Statistische Region Braunschweig,insgesamt,zeitlich unbefristet,Anzahl,RH031,31050.0
-2010,Hannover  Region,männlich,zeitlich unbefristet,Anzahl,RH03241,23365.0
-2010,Hannover  Region,weiblich,zeitlich unbefristet,Anzahl,RH03241,22970.0
-2010,Hannover  Region,insgesamt,zeitlich unbefristet,Anzahl,RH03241,46335.0
+2010,Region Hannover,männlich,zeitlich unbefristet,Anzahl,RH03241,23365.0
+2010,Region Hannover,weiblich,zeitlich unbefristet,Anzahl,RH03241,22970.0
+2010,Region Hannover,insgesamt,zeitlich unbefristet,Anzahl,RH03241,46335.0
 2010,Diepholz,männlich,zeitlich unbefristet,Anzahl,RH03251,1220.0
 2010,Diepholz,weiblich,zeitlich unbefristet,Anzahl,RH03251,1375.0
 2010,Diepholz,insgesamt,zeitlich unbefristet,Anzahl,RH03251,2595.0
@@ -1745,12 +1895,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2010,"Delmenhorst, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03401,1515.0
 2010,"Delmenhorst, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03401,1430.0
 2010,"Delmenhorst, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03401,2945.0
-2010,Emden  Stadt,männlich,zeitlich unbefristet,Anzahl,RH03402,305.0
-2010,Emden  Stadt,weiblich,zeitlich unbefristet,Anzahl,RH03402,285.0
-2010,Emden  Stadt,insgesamt,zeitlich unbefristet,Anzahl,RH03402,590.0
-2010,"Oldenburg(Oldb), Stadt",männlich,zeitlich unbefristet,Anzahl,RH03403,1570.0
-2010,"Oldenburg(Oldb), Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03403,1490.0
-2010,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03403,3060.0
+2010,"Emden, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03402,305.0
+2010,"Emden, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03402,285.0
+2010,"Emden, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03402,590.0
+2010,"Oldenburg (Oldb), Stadt",männlich,zeitlich unbefristet,Anzahl,RH03403,1570.0
+2010,"Oldenburg (Oldb), Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03403,1490.0
+2010,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03403,3060.0
 2010,"Osnabrück, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03404,2885.0
 2010,"Osnabrück, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03404,2680.0
 2010,"Osnabrück, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03404,5565.0
@@ -1799,6 +1949,156 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2010,Niedersachsen,männlich,zeitlich unbefristet,Anzahl,RH030,74905.0
 2010,Niedersachsen,weiblich,zeitlich unbefristet,Anzahl,RH030,75670.0
 2010,Niedersachsen,insgesamt,zeitlich unbefristet,Anzahl,RH030,150570.0
+2022,"Braunschweig, Stadt",männlich,zeitlich befristet,Anzahl,RH03101,5540.0
+2022,"Braunschweig, Stadt",weiblich,zeitlich befristet,Anzahl,RH03101,5630.0
+2022,"Braunschweig, Stadt",insgesamt,zeitlich befristet,Anzahl,RH03101,11170.0
+2022,"Salzgitter, Stadt",männlich,zeitlich befristet,Anzahl,RH03102,4550.0
+2022,"Salzgitter, Stadt",weiblich,zeitlich befristet,Anzahl,RH03102,4490.0
+2022,"Salzgitter, Stadt",insgesamt,zeitlich befristet,Anzahl,RH03102,9040.0
+2022,"Wolfsburg, Stadt",männlich,zeitlich befristet,Anzahl,RH03103,4275.0
+2022,"Wolfsburg, Stadt",weiblich,zeitlich befristet,Anzahl,RH03103,4550.0
+2022,"Wolfsburg, Stadt",insgesamt,zeitlich befristet,Anzahl,RH03103,8825.0
+2022,Gifhorn,männlich,zeitlich befristet,Anzahl,RH03151,2165.0
+2022,Gifhorn,weiblich,zeitlich befristet,Anzahl,RH03151,2540.0
+2022,Gifhorn,insgesamt,zeitlich befristet,Anzahl,RH03151,4705.0
+2022,Goslar,männlich,zeitlich befristet,Anzahl,RH03153,3740.0
+2022,Goslar,weiblich,zeitlich befristet,Anzahl,RH03153,3410.0
+2022,Goslar,insgesamt,zeitlich befristet,Anzahl,RH03153,7150.0
+2022,Helmstedt,männlich,zeitlich befristet,Anzahl,RH03154,1240.0
+2022,Helmstedt,weiblich,zeitlich befristet,Anzahl,RH03154,1475.0
+2022,Helmstedt,insgesamt,zeitlich befristet,Anzahl,RH03154,2715.0
+2022,Northeim,männlich,zeitlich befristet,Anzahl,RH03155,1865.0
+2022,Northeim,weiblich,zeitlich befristet,Anzahl,RH03155,2240.0
+2022,Northeim,insgesamt,zeitlich befristet,Anzahl,RH03155,4110.0
+2022,Peine,männlich,zeitlich befristet,Anzahl,RH03157,2820.0
+2022,Peine,weiblich,zeitlich befristet,Anzahl,RH03157,3195.0
+2022,Peine,insgesamt,zeitlich befristet,Anzahl,RH03157,6015.0
+2022,Wolfenbüttel,männlich,zeitlich befristet,Anzahl,RH03158,1980.0
+2022,Wolfenbüttel,weiblich,zeitlich befristet,Anzahl,RH03158,2170.0
+2022,Wolfenbüttel,insgesamt,zeitlich befristet,Anzahl,RH03158,4150.0
+2022,Göttingen,männlich,zeitlich befristet,Anzahl,RH03159,6885.0
+2022,Göttingen,weiblich,zeitlich befristet,Anzahl,RH03159,7690.0
+2022,Göttingen,insgesamt,zeitlich befristet,Anzahl,RH03159,14575.0
+2022,Statistische Region Braunschweig,männlich,zeitlich befristet,Anzahl,RH031,35070.0
+2022,Statistische Region Braunschweig,weiblich,zeitlich befristet,Anzahl,RH031,37395.0
+2022,Statistische Region Braunschweig,insgesamt,zeitlich befristet,Anzahl,RH031,72460.0
+2022,Region Hannover,männlich,zeitlich befristet,Anzahl,RH03241,32860.0
+2022,Region Hannover,weiblich,zeitlich befristet,Anzahl,RH03241,34030.0
+2022,Region Hannover,insgesamt,zeitlich befristet,Anzahl,RH03241,66895.0
+2022,Diepholz,männlich,zeitlich befristet,Anzahl,RH03251,3430.0
+2022,Diepholz,weiblich,zeitlich befristet,Anzahl,RH03251,4170.0
+2022,Diepholz,insgesamt,zeitlich befristet,Anzahl,RH03251,7605.0
+2022,Hameln-Pyrmont,männlich,zeitlich befristet,Anzahl,RH03252,3750.0
+2022,Hameln-Pyrmont,weiblich,zeitlich befristet,Anzahl,RH03252,4245.0
+2022,Hameln-Pyrmont,insgesamt,zeitlich befristet,Anzahl,RH03252,8000.0
+2022,Hildesheim,männlich,zeitlich befristet,Anzahl,RH03254,5440.0
+2022,Hildesheim,weiblich,zeitlich befristet,Anzahl,RH03254,5900.0
+2022,Hildesheim,insgesamt,zeitlich befristet,Anzahl,RH03254,11340.0
+2022,Holzminden,männlich,zeitlich befristet,Anzahl,RH03255,1175.0
+2022,Holzminden,weiblich,zeitlich befristet,Anzahl,RH03255,1350.0
+2022,Holzminden,insgesamt,zeitlich befristet,Anzahl,RH03255,2525.0
+2022,Nienburg (Weser),männlich,zeitlich befristet,Anzahl,RH03256,2365.0
+2022,Nienburg (Weser),weiblich,zeitlich befristet,Anzahl,RH03256,2710.0
+2022,Nienburg (Weser),insgesamt,zeitlich befristet,Anzahl,RH03256,5080.0
+2022,Schaumburg,männlich,zeitlich befristet,Anzahl,RH03257,2735.0
+2022,Schaumburg,weiblich,zeitlich befristet,Anzahl,RH03257,3135.0
+2022,Schaumburg,insgesamt,zeitlich befristet,Anzahl,RH03257,5870.0
+2022,Statistische Region Hannover,männlich,zeitlich befristet,Anzahl,RH032,51765.0
+2022,Statistische Region Hannover,weiblich,zeitlich befristet,Anzahl,RH032,55545.0
+2022,Statistische Region Hannover,insgesamt,zeitlich befristet,Anzahl,RH032,107310.0
+2022,Celle,männlich,zeitlich befristet,Anzahl,RH03351,3310.0
+2022,Celle,weiblich,zeitlich befristet,Anzahl,RH03351,3775.0
+2022,Celle,insgesamt,zeitlich befristet,Anzahl,RH03351,7085.0
+2022,Cuxhaven,männlich,zeitlich befristet,Anzahl,RH03352,2590.0
+2022,Cuxhaven,weiblich,zeitlich befristet,Anzahl,RH03352,2715.0
+2022,Cuxhaven,insgesamt,zeitlich befristet,Anzahl,RH03352,5305.0
+2022,Harburg,männlich,zeitlich befristet,Anzahl,RH03353,2675.0
+2022,Harburg,weiblich,zeitlich befristet,Anzahl,RH03353,2505.0
+2022,Harburg,insgesamt,zeitlich befristet,Anzahl,RH03353,5180.0
+2022,Lüchow-Dannenberg,männlich,zeitlich befristet,Anzahl,RH03354,590.0
+2022,Lüchow-Dannenberg,weiblich,zeitlich befristet,Anzahl,RH03354,730.0
+2022,Lüchow-Dannenberg,insgesamt,zeitlich befristet,Anzahl,RH03354,1315.0
+2022,Lüneburg,männlich,zeitlich befristet,Anzahl,RH03355,3155.0
+2022,Lüneburg,weiblich,zeitlich befristet,Anzahl,RH03355,3330.0
+2022,Lüneburg,insgesamt,zeitlich befristet,Anzahl,RH03355,6485.0
+2022,Osterholz,männlich,zeitlich befristet,Anzahl,RH03356,1780.0
+2022,Osterholz,weiblich,zeitlich befristet,Anzahl,RH03356,2125.0
+2022,Osterholz,insgesamt,zeitlich befristet,Anzahl,RH03356,3900.0
+2022,Rotenburg (Wümme),männlich,zeitlich befristet,Anzahl,RH03357,2300.0
+2022,Rotenburg (Wümme),weiblich,zeitlich befristet,Anzahl,RH03357,2445.0
+2022,Rotenburg (Wümme),insgesamt,zeitlich befristet,Anzahl,RH03357,4745.0
+2022,Heidekreis,männlich,zeitlich befristet,Anzahl,RH03358,2255.0
+2022,Heidekreis,weiblich,zeitlich befristet,Anzahl,RH03358,2675.0
+2022,Heidekreis,insgesamt,zeitlich befristet,Anzahl,RH03358,4930.0
+2022,Stade,männlich,zeitlich befristet,Anzahl,RH03359,4065.0
+2022,Stade,weiblich,zeitlich befristet,Anzahl,RH03359,4210.0
+2022,Stade,insgesamt,zeitlich befristet,Anzahl,RH03359,8275.0
+2022,Uelzen,männlich,zeitlich befristet,Anzahl,RH03360,1385.0
+2022,Uelzen,weiblich,zeitlich befristet,Anzahl,RH03360,1705.0
+2022,Uelzen,insgesamt,zeitlich befristet,Anzahl,RH03360,3090.0
+2022,Verden,männlich,zeitlich befristet,Anzahl,RH03361,2485.0
+2022,Verden,weiblich,zeitlich befristet,Anzahl,RH03361,2675.0
+2022,Verden,insgesamt,zeitlich befristet,Anzahl,RH03361,5160.0
+2022,Statistische Region Lüneburg,männlich,zeitlich befristet,Anzahl,RH033,26590.0
+2022,Statistische Region Lüneburg,weiblich,zeitlich befristet,Anzahl,RH033,28885.0
+2022,Statistische Region Lüneburg,insgesamt,zeitlich befristet,Anzahl,RH033,55475.0
+2022,"Delmenhorst, Stadt",männlich,zeitlich befristet,Anzahl,RH03401,2395.0
+2022,"Delmenhorst, Stadt",weiblich,zeitlich befristet,Anzahl,RH03401,2645.0
+2022,"Delmenhorst, Stadt",insgesamt,zeitlich befristet,Anzahl,RH03401,5040.0
+2022,"Emden, Stadt",männlich,zeitlich befristet,Anzahl,RH03402,1480.0
+2022,"Emden, Stadt",weiblich,zeitlich befristet,Anzahl,RH03402,1335.0
+2022,"Emden, Stadt",insgesamt,zeitlich befristet,Anzahl,RH03402,2815.0
+2022,"Oldenburg (Oldb), Stadt",männlich,zeitlich befristet,Anzahl,RH03403,4460.0
+2022,"Oldenburg (Oldb), Stadt",weiblich,zeitlich befristet,Anzahl,RH03403,4830.0
+2022,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich befristet,Anzahl,RH03403,9290.0
+2022,"Osnabrück, Stadt",männlich,zeitlich befristet,Anzahl,RH03404,4840.0
+2022,"Osnabrück, Stadt",weiblich,zeitlich befristet,Anzahl,RH03404,5280.0
+2022,"Osnabrück, Stadt",insgesamt,zeitlich befristet,Anzahl,RH03404,10120.0
+2022,"Wilhelmshaven, Stadt",männlich,zeitlich befristet,Anzahl,RH03405,2330.0
+2022,"Wilhelmshaven, Stadt",weiblich,zeitlich befristet,Anzahl,RH03405,2320.0
+2022,"Wilhelmshaven, Stadt",insgesamt,zeitlich befristet,Anzahl,RH03405,4650.0
+2022,Ammerland,männlich,zeitlich befristet,Anzahl,RH03451,1515.0
+2022,Ammerland,weiblich,zeitlich befristet,Anzahl,RH03451,1750.0
+2022,Ammerland,insgesamt,zeitlich befristet,Anzahl,RH03451,3265.0
+2022,Aurich,männlich,zeitlich befristet,Anzahl,RH03452,2100.0
+2022,Aurich,weiblich,zeitlich befristet,Anzahl,RH03452,2125.0
+2022,Aurich,insgesamt,zeitlich befristet,Anzahl,RH03452,4225.0
+2022,Cloppenburg,männlich,zeitlich befristet,Anzahl,RH03453,2850.0
+2022,Cloppenburg,weiblich,zeitlich befristet,Anzahl,RH03453,3215.0
+2022,Cloppenburg,insgesamt,zeitlich befristet,Anzahl,RH03453,6070.0
+2022,Emsland,männlich,zeitlich befristet,Anzahl,RH03454,4760.0
+2022,Emsland,weiblich,zeitlich befristet,Anzahl,RH03454,4700.0
+2022,Emsland,insgesamt,zeitlich befristet,Anzahl,RH03454,9465.0
+2022,Friesland,männlich,zeitlich befristet,Anzahl,RH03455,1055.0
+2022,Friesland,weiblich,zeitlich befristet,Anzahl,RH03455,1115.0
+2022,Friesland,insgesamt,zeitlich befristet,Anzahl,RH03455,2170.0
+2022,Grafschaft Bentheim,männlich,zeitlich befristet,Anzahl,RH03456,2345.0
+2022,Grafschaft Bentheim,weiblich,zeitlich befristet,Anzahl,RH03456,2610.0
+2022,Grafschaft Bentheim,insgesamt,zeitlich befristet,Anzahl,RH03456,4955.0
+2022,Leer,männlich,zeitlich befristet,Anzahl,RH03457,2445.0
+2022,Leer,weiblich,zeitlich befristet,Anzahl,RH03457,2525.0
+2022,Leer,insgesamt,zeitlich befristet,Anzahl,RH03457,4970.0
+2022,Oldenburg,männlich,zeitlich befristet,Anzahl,RH03458,1845.0
+2022,Oldenburg,weiblich,zeitlich befristet,Anzahl,RH03458,2185.0
+2022,Oldenburg,insgesamt,zeitlich befristet,Anzahl,RH03458,4030.0
+2022,Osnabrück,männlich,zeitlich befristet,Anzahl,RH03459,4020.0
+2022,Osnabrück,weiblich,zeitlich befristet,Anzahl,RH03459,5155.0
+2022,Osnabrück,insgesamt,zeitlich befristet,Anzahl,RH03459,9175.0
+2022,Vechta,männlich,zeitlich befristet,Anzahl,RH03460,3495.0
+2022,Vechta,weiblich,zeitlich befristet,Anzahl,RH03460,4045.0
+2022,Vechta,insgesamt,zeitlich befristet,Anzahl,RH03460,7540.0
+2022,Wesermarsch,männlich,zeitlich befristet,Anzahl,RH03461,1095.0
+2022,Wesermarsch,weiblich,zeitlich befristet,Anzahl,RH03461,1130.0
+2022,Wesermarsch,insgesamt,zeitlich befristet,Anzahl,RH03461,2225.0
+2022,Wittmund,männlich,zeitlich befristet,Anzahl,RH03462,740.0
+2022,Wittmund,weiblich,zeitlich befristet,Anzahl,RH03462,895.0
+2022,Wittmund,insgesamt,zeitlich befristet,Anzahl,RH03462,1635.0
+2022,Statistische Region Weser-Ems,männlich,zeitlich befristet,Anzahl,RH034,43775.0
+2022,Statistische Region Weser-Ems,weiblich,zeitlich befristet,Anzahl,RH034,47865.0
+2022,Statistische Region Weser-Ems,insgesamt,zeitlich befristet,Anzahl,RH034,91640.0
+2022,Niedersachsen,männlich,zeitlich befristet,Anzahl,RH030,157200.0
+2022,Niedersachsen,weiblich,zeitlich befristet,Anzahl,RH030,169685.0
+2022,Niedersachsen,insgesamt,zeitlich befristet,Anzahl,RH030,326885.0
 2021,"Braunschweig, Stadt",männlich,zeitlich befristet,Anzahl,RH03101,4305.0
 2021,"Braunschweig, Stadt",weiblich,zeitlich befristet,Anzahl,RH03101,3845.0
 2021,"Braunschweig, Stadt",insgesamt,zeitlich befristet,Anzahl,RH03101,8150.0
@@ -1832,9 +2132,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2021,Statistische Region Braunschweig,männlich,zeitlich befristet,Anzahl,RH031,26890.0
 2021,Statistische Region Braunschweig,weiblich,zeitlich befristet,Anzahl,RH031,25025.0
 2021,Statistische Region Braunschweig,insgesamt,zeitlich befristet,Anzahl,RH031,51915.0
-2021,Hannover  Region,männlich,zeitlich befristet,Anzahl,RH03241,27655.0
-2021,Hannover  Region,weiblich,zeitlich befristet,Anzahl,RH03241,25255.0
-2021,Hannover  Region,insgesamt,zeitlich befristet,Anzahl,RH03241,52910.0
+2021,Region Hannover,männlich,zeitlich befristet,Anzahl,RH03241,27655.0
+2021,Region Hannover,weiblich,zeitlich befristet,Anzahl,RH03241,25255.0
+2021,Region Hannover,insgesamt,zeitlich befristet,Anzahl,RH03241,52910.0
 2021,Diepholz,männlich,zeitlich befristet,Anzahl,RH03251,2450.0
 2021,Diepholz,weiblich,zeitlich befristet,Anzahl,RH03251,2480.0
 2021,Diepholz,insgesamt,zeitlich befristet,Anzahl,RH03251,4935.0
@@ -1895,12 +2195,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2021,"Delmenhorst, Stadt",männlich,zeitlich befristet,Anzahl,RH03401,2070.0
 2021,"Delmenhorst, Stadt",weiblich,zeitlich befristet,Anzahl,RH03401,2055.0
 2021,"Delmenhorst, Stadt",insgesamt,zeitlich befristet,Anzahl,RH03401,4130.0
-2021,Emden  Stadt,männlich,zeitlich befristet,Anzahl,RH03402,1175.0
-2021,Emden  Stadt,weiblich,zeitlich befristet,Anzahl,RH03402,825.0
-2021,Emden  Stadt,insgesamt,zeitlich befristet,Anzahl,RH03402,2000.0
-2021,"Oldenburg(Oldb), Stadt",männlich,zeitlich befristet,Anzahl,RH03403,4025.0
-2021,"Oldenburg(Oldb), Stadt",weiblich,zeitlich befristet,Anzahl,RH03403,3940.0
-2021,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich befristet,Anzahl,RH03403,7965.0
+2021,"Emden, Stadt",männlich,zeitlich befristet,Anzahl,RH03402,1175.0
+2021,"Emden, Stadt",weiblich,zeitlich befristet,Anzahl,RH03402,825.0
+2021,"Emden, Stadt",insgesamt,zeitlich befristet,Anzahl,RH03402,2000.0
+2021,"Oldenburg (Oldb), Stadt",männlich,zeitlich befristet,Anzahl,RH03403,4025.0
+2021,"Oldenburg (Oldb), Stadt",weiblich,zeitlich befristet,Anzahl,RH03403,3940.0
+2021,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich befristet,Anzahl,RH03403,7965.0
 2021,"Osnabrück, Stadt",männlich,zeitlich befristet,Anzahl,RH03404,3805.0
 2021,"Osnabrück, Stadt",weiblich,zeitlich befristet,Anzahl,RH03404,3505.0
 2021,"Osnabrück, Stadt",insgesamt,zeitlich befristet,Anzahl,RH03404,7310.0
@@ -1982,9 +2282,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2020,Statistische Region Braunschweig,männlich,zeitlich befristet,Anzahl,RH031,26945.0
 2020,Statistische Region Braunschweig,weiblich,zeitlich befristet,Anzahl,RH031,24020.0
 2020,Statistische Region Braunschweig,insgesamt,zeitlich befristet,Anzahl,RH031,50970.0
-2020,Hannover  Region,männlich,zeitlich befristet,Anzahl,RH03241,27790.0
-2020,Hannover  Region,weiblich,zeitlich befristet,Anzahl,RH03241,24695.0
-2020,Hannover  Region,insgesamt,zeitlich befristet,Anzahl,RH03241,52490.0
+2020,Region Hannover,männlich,zeitlich befristet,Anzahl,RH03241,27790.0
+2020,Region Hannover,weiblich,zeitlich befristet,Anzahl,RH03241,24695.0
+2020,Region Hannover,insgesamt,zeitlich befristet,Anzahl,RH03241,52490.0
 2020,Diepholz,männlich,zeitlich befristet,Anzahl,RH03251,2475.0
 2020,Diepholz,weiblich,zeitlich befristet,Anzahl,RH03251,2405.0
 2020,Diepholz,insgesamt,zeitlich befristet,Anzahl,RH03251,4880.0
@@ -2045,12 +2345,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2020,"Delmenhorst, Stadt",männlich,zeitlich befristet,Anzahl,RH03401,2020.0
 2020,"Delmenhorst, Stadt",weiblich,zeitlich befristet,Anzahl,RH03401,1995.0
 2020,"Delmenhorst, Stadt",insgesamt,zeitlich befristet,Anzahl,RH03401,4015.0
-2020,Emden  Stadt,männlich,zeitlich befristet,Anzahl,RH03402,1095.0
-2020,Emden  Stadt,weiblich,zeitlich befristet,Anzahl,RH03402,765.0
-2020,Emden  Stadt,insgesamt,zeitlich befristet,Anzahl,RH03402,1860.0
-2020,"Oldenburg(Oldb), Stadt",männlich,zeitlich befristet,Anzahl,RH03403,3910.0
-2020,"Oldenburg(Oldb), Stadt",weiblich,zeitlich befristet,Anzahl,RH03403,3740.0
-2020,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich befristet,Anzahl,RH03403,7650.0
+2020,"Emden, Stadt",männlich,zeitlich befristet,Anzahl,RH03402,1095.0
+2020,"Emden, Stadt",weiblich,zeitlich befristet,Anzahl,RH03402,765.0
+2020,"Emden, Stadt",insgesamt,zeitlich befristet,Anzahl,RH03402,1860.0
+2020,"Oldenburg (Oldb), Stadt",männlich,zeitlich befristet,Anzahl,RH03403,3910.0
+2020,"Oldenburg (Oldb), Stadt",weiblich,zeitlich befristet,Anzahl,RH03403,3740.0
+2020,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich befristet,Anzahl,RH03403,7650.0
 2020,"Osnabrück, Stadt",männlich,zeitlich befristet,Anzahl,RH03404,3685.0
 2020,"Osnabrück, Stadt",weiblich,zeitlich befristet,Anzahl,RH03404,3135.0
 2020,"Osnabrück, Stadt",insgesamt,zeitlich befristet,Anzahl,RH03404,6820.0
@@ -2132,9 +2432,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2019,Statistische Region Braunschweig,männlich,zeitlich befristet,Anzahl,RH031,27505.0
 2019,Statistische Region Braunschweig,weiblich,zeitlich befristet,Anzahl,RH031,24110.0
 2019,Statistische Region Braunschweig,insgesamt,zeitlich befristet,Anzahl,RH031,51615.0
-2019,Hannover  Region,männlich,zeitlich befristet,Anzahl,RH03241,27150.0
-2019,Hannover  Region,weiblich,zeitlich befristet,Anzahl,RH03241,23795.0
-2019,Hannover  Region,insgesamt,zeitlich befristet,Anzahl,RH03241,50945.0
+2019,Region Hannover,männlich,zeitlich befristet,Anzahl,RH03241,27150.0
+2019,Region Hannover,weiblich,zeitlich befristet,Anzahl,RH03241,23795.0
+2019,Region Hannover,insgesamt,zeitlich befristet,Anzahl,RH03241,50945.0
 2019,Diepholz,männlich,zeitlich befristet,Anzahl,RH03251,2380.0
 2019,Diepholz,weiblich,zeitlich befristet,Anzahl,RH03251,2320.0
 2019,Diepholz,insgesamt,zeitlich befristet,Anzahl,RH03251,4700.0
@@ -2195,12 +2495,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2019,"Delmenhorst, Stadt",männlich,zeitlich befristet,Anzahl,RH03401,2040.0
 2019,"Delmenhorst, Stadt",weiblich,zeitlich befristet,Anzahl,RH03401,1915.0
 2019,"Delmenhorst, Stadt",insgesamt,zeitlich befristet,Anzahl,RH03401,3955.0
-2019,Emden  Stadt,männlich,zeitlich befristet,Anzahl,RH03402,1170.0
-2019,Emden  Stadt,weiblich,zeitlich befristet,Anzahl,RH03402,780.0
-2019,Emden  Stadt,insgesamt,zeitlich befristet,Anzahl,RH03402,1950.0
-2019,"Oldenburg(Oldb), Stadt",männlich,zeitlich befristet,Anzahl,RH03403,3710.0
-2019,"Oldenburg(Oldb), Stadt",weiblich,zeitlich befristet,Anzahl,RH03403,3480.0
-2019,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich befristet,Anzahl,RH03403,7190.0
+2019,"Emden, Stadt",männlich,zeitlich befristet,Anzahl,RH03402,1170.0
+2019,"Emden, Stadt",weiblich,zeitlich befristet,Anzahl,RH03402,780.0
+2019,"Emden, Stadt",insgesamt,zeitlich befristet,Anzahl,RH03402,1950.0
+2019,"Oldenburg (Oldb), Stadt",männlich,zeitlich befristet,Anzahl,RH03403,3710.0
+2019,"Oldenburg (Oldb), Stadt",weiblich,zeitlich befristet,Anzahl,RH03403,3480.0
+2019,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich befristet,Anzahl,RH03403,7190.0
 2019,"Osnabrück, Stadt",männlich,zeitlich befristet,Anzahl,RH03404,3835.0
 2019,"Osnabrück, Stadt",weiblich,zeitlich befristet,Anzahl,RH03404,3230.0
 2019,"Osnabrück, Stadt",insgesamt,zeitlich befristet,Anzahl,RH03404,7070.0
@@ -2282,9 +2582,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2018,Statistische Region Braunschweig,männlich,zeitlich befristet,Anzahl,RH031,25805.0
 2018,Statistische Region Braunschweig,weiblich,zeitlich befristet,Anzahl,RH031,22330.0
 2018,Statistische Region Braunschweig,insgesamt,zeitlich befristet,Anzahl,RH031,48135.0
-2018,Hannover  Region,männlich,zeitlich befristet,Anzahl,RH03241,24945.0
-2018,Hannover  Region,weiblich,zeitlich befristet,Anzahl,RH03241,21915.0
-2018,Hannover  Region,insgesamt,zeitlich befristet,Anzahl,RH03241,46860.0
+2018,Region Hannover,männlich,zeitlich befristet,Anzahl,RH03241,24945.0
+2018,Region Hannover,weiblich,zeitlich befristet,Anzahl,RH03241,21915.0
+2018,Region Hannover,insgesamt,zeitlich befristet,Anzahl,RH03241,46860.0
 2018,Diepholz,männlich,zeitlich befristet,Anzahl,RH03251,2275.0
 2018,Diepholz,weiblich,zeitlich befristet,Anzahl,RH03251,2205.0
 2018,Diepholz,insgesamt,zeitlich befristet,Anzahl,RH03251,4485.0
@@ -2345,12 +2645,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2018,"Delmenhorst, Stadt",männlich,zeitlich befristet,Anzahl,RH03401,1960.0
 2018,"Delmenhorst, Stadt",weiblich,zeitlich befristet,Anzahl,RH03401,1840.0
 2018,"Delmenhorst, Stadt",insgesamt,zeitlich befristet,Anzahl,RH03401,3800.0
-2018,Emden  Stadt,männlich,zeitlich befristet,Anzahl,RH03402,1060.0
-2018,Emden  Stadt,weiblich,zeitlich befristet,Anzahl,RH03402,715.0
-2018,Emden  Stadt,insgesamt,zeitlich befristet,Anzahl,RH03402,1775.0
-2018,"Oldenburg(Oldb), Stadt",männlich,zeitlich befristet,Anzahl,RH03403,3390.0
-2018,"Oldenburg(Oldb), Stadt",weiblich,zeitlich befristet,Anzahl,RH03403,3155.0
-2018,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich befristet,Anzahl,RH03403,6545.0
+2018,"Emden, Stadt",männlich,zeitlich befristet,Anzahl,RH03402,1060.0
+2018,"Emden, Stadt",weiblich,zeitlich befristet,Anzahl,RH03402,715.0
+2018,"Emden, Stadt",insgesamt,zeitlich befristet,Anzahl,RH03402,1775.0
+2018,"Oldenburg (Oldb), Stadt",männlich,zeitlich befristet,Anzahl,RH03403,3390.0
+2018,"Oldenburg (Oldb), Stadt",weiblich,zeitlich befristet,Anzahl,RH03403,3155.0
+2018,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich befristet,Anzahl,RH03403,6545.0
 2018,"Osnabrück, Stadt",männlich,zeitlich befristet,Anzahl,RH03404,3490.0
 2018,"Osnabrück, Stadt",weiblich,zeitlich befristet,Anzahl,RH03404,2955.0
 2018,"Osnabrück, Stadt",insgesamt,zeitlich befristet,Anzahl,RH03404,6445.0
@@ -2432,9 +2732,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2017,Statistische Region Braunschweig,männlich,zeitlich befristet,Anzahl,RH031,22595.0
 2017,Statistische Region Braunschweig,weiblich,zeitlich befristet,Anzahl,RH031,19790.0
 2017,Statistische Region Braunschweig,insgesamt,zeitlich befristet,Anzahl,RH031,42380.0
-2017,Hannover  Region,männlich,zeitlich befristet,Anzahl,RH03241,22040.0
-2017,Hannover  Region,weiblich,zeitlich befristet,Anzahl,RH03241,19795.0
-2017,Hannover  Region,insgesamt,zeitlich befristet,Anzahl,RH03241,41835.0
+2017,Region Hannover,männlich,zeitlich befristet,Anzahl,RH03241,22040.0
+2017,Region Hannover,weiblich,zeitlich befristet,Anzahl,RH03241,19795.0
+2017,Region Hannover,insgesamt,zeitlich befristet,Anzahl,RH03241,41835.0
 2017,Diepholz,männlich,zeitlich befristet,Anzahl,RH03251,1915.0
 2017,Diepholz,weiblich,zeitlich befristet,Anzahl,RH03251,1855.0
 2017,Diepholz,insgesamt,zeitlich befristet,Anzahl,RH03251,3770.0
@@ -2495,12 +2795,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2017,"Delmenhorst, Stadt",männlich,zeitlich befristet,Anzahl,RH03401,1870.0
 2017,"Delmenhorst, Stadt",weiblich,zeitlich befristet,Anzahl,RH03401,1735.0
 2017,"Delmenhorst, Stadt",insgesamt,zeitlich befristet,Anzahl,RH03401,3605.0
-2017,Emden  Stadt,männlich,zeitlich befristet,Anzahl,RH03402,930.0
-2017,Emden  Stadt,weiblich,zeitlich befristet,Anzahl,RH03402,620.0
-2017,Emden  Stadt,insgesamt,zeitlich befristet,Anzahl,RH03402,1550.0
-2017,"Oldenburg(Oldb), Stadt",männlich,zeitlich befristet,Anzahl,RH03403,2805.0
-2017,"Oldenburg(Oldb), Stadt",weiblich,zeitlich befristet,Anzahl,RH03403,2630.0
-2017,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich befristet,Anzahl,RH03403,5440.0
+2017,"Emden, Stadt",männlich,zeitlich befristet,Anzahl,RH03402,930.0
+2017,"Emden, Stadt",weiblich,zeitlich befristet,Anzahl,RH03402,620.0
+2017,"Emden, Stadt",insgesamt,zeitlich befristet,Anzahl,RH03402,1550.0
+2017,"Oldenburg (Oldb), Stadt",männlich,zeitlich befristet,Anzahl,RH03403,2805.0
+2017,"Oldenburg (Oldb), Stadt",weiblich,zeitlich befristet,Anzahl,RH03403,2630.0
+2017,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich befristet,Anzahl,RH03403,5440.0
 2017,"Osnabrück, Stadt",männlich,zeitlich befristet,Anzahl,RH03404,3040.0
 2017,"Osnabrück, Stadt",weiblich,zeitlich befristet,Anzahl,RH03404,2635.0
 2017,"Osnabrück, Stadt",insgesamt,zeitlich befristet,Anzahl,RH03404,5675.0
@@ -2582,9 +2882,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2016,Statistische Region Braunschweig,männlich,zeitlich befristet,Anzahl,RH031,17810.0
 2016,Statistische Region Braunschweig,weiblich,zeitlich befristet,Anzahl,RH031,16140.0
 2016,Statistische Region Braunschweig,insgesamt,zeitlich befristet,Anzahl,RH031,33950.0
-2016,Hannover  Region,männlich,zeitlich befristet,Anzahl,RH03241,18065.0
-2016,Hannover  Region,weiblich,zeitlich befristet,Anzahl,RH03241,17025.0
-2016,Hannover  Region,insgesamt,zeitlich befristet,Anzahl,RH03241,35090.0
+2016,Region Hannover,männlich,zeitlich befristet,Anzahl,RH03241,18065.0
+2016,Region Hannover,weiblich,zeitlich befristet,Anzahl,RH03241,17025.0
+2016,Region Hannover,insgesamt,zeitlich befristet,Anzahl,RH03241,35090.0
 2016,Diepholz,männlich,zeitlich befristet,Anzahl,RH03251,1500.0
 2016,Diepholz,weiblich,zeitlich befristet,Anzahl,RH03251,1515.0
 2016,Diepholz,insgesamt,zeitlich befristet,Anzahl,RH03251,3010.0
@@ -2645,12 +2945,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2016,"Delmenhorst, Stadt",männlich,zeitlich befristet,Anzahl,RH03401,1370.0
 2016,"Delmenhorst, Stadt",weiblich,zeitlich befristet,Anzahl,RH03401,1245.0
 2016,"Delmenhorst, Stadt",insgesamt,zeitlich befristet,Anzahl,RH03401,2615.0
-2016,Emden  Stadt,männlich,zeitlich befristet,Anzahl,RH03402,710.0
-2016,Emden  Stadt,weiblich,zeitlich befristet,Anzahl,RH03402,485.0
-2016,Emden  Stadt,insgesamt,zeitlich befristet,Anzahl,RH03402,1190.0
-2016,"Oldenburg(Oldb), Stadt",männlich,zeitlich befristet,Anzahl,RH03403,2305.0
-2016,"Oldenburg(Oldb), Stadt",weiblich,zeitlich befristet,Anzahl,RH03403,2170.0
-2016,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich befristet,Anzahl,RH03403,4475.0
+2016,"Emden, Stadt",männlich,zeitlich befristet,Anzahl,RH03402,710.0
+2016,"Emden, Stadt",weiblich,zeitlich befristet,Anzahl,RH03402,485.0
+2016,"Emden, Stadt",insgesamt,zeitlich befristet,Anzahl,RH03402,1190.0
+2016,"Oldenburg (Oldb), Stadt",männlich,zeitlich befristet,Anzahl,RH03403,2305.0
+2016,"Oldenburg (Oldb), Stadt",weiblich,zeitlich befristet,Anzahl,RH03403,2170.0
+2016,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich befristet,Anzahl,RH03403,4475.0
 2016,"Osnabrück, Stadt",männlich,zeitlich befristet,Anzahl,RH03404,2390.0
 2016,"Osnabrück, Stadt",weiblich,zeitlich befristet,Anzahl,RH03404,2180.0
 2016,"Osnabrück, Stadt",insgesamt,zeitlich befristet,Anzahl,RH03404,4565.0
@@ -2732,9 +3032,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2015,Statistische Region Braunschweig,männlich,zeitlich befristet,Anzahl,RH031,13515.0
 2015,Statistische Region Braunschweig,weiblich,zeitlich befristet,Anzahl,RH031,13320.0
 2015,Statistische Region Braunschweig,insgesamt,zeitlich befristet,Anzahl,RH031,26835.0
-2015,Hannover  Region,männlich,zeitlich befristet,Anzahl,RH03241,13550.0
-2015,Hannover  Region,weiblich,zeitlich befristet,Anzahl,RH03241,14215.0
-2015,Hannover  Region,insgesamt,zeitlich befristet,Anzahl,RH03241,27765.0
+2015,Region Hannover,männlich,zeitlich befristet,Anzahl,RH03241,13550.0
+2015,Region Hannover,weiblich,zeitlich befristet,Anzahl,RH03241,14215.0
+2015,Region Hannover,insgesamt,zeitlich befristet,Anzahl,RH03241,27765.0
 2015,Diepholz,männlich,zeitlich befristet,Anzahl,RH03251,860.0
 2015,Diepholz,weiblich,zeitlich befristet,Anzahl,RH03251,1030.0
 2015,Diepholz,insgesamt,zeitlich befristet,Anzahl,RH03251,1890.0
@@ -2795,12 +3095,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2015,"Delmenhorst, Stadt",männlich,zeitlich befristet,Anzahl,RH03401,835.0
 2015,"Delmenhorst, Stadt",weiblich,zeitlich befristet,Anzahl,RH03401,870.0
 2015,"Delmenhorst, Stadt",insgesamt,zeitlich befristet,Anzahl,RH03401,1705.0
-2015,Emden  Stadt,männlich,zeitlich befristet,Anzahl,RH03402,435.0
-2015,Emden  Stadt,weiblich,zeitlich befristet,Anzahl,RH03402,355.0
-2015,Emden  Stadt,insgesamt,zeitlich befristet,Anzahl,RH03402,785.0
-2015,"Oldenburg(Oldb), Stadt",männlich,zeitlich befristet,Anzahl,RH03403,1560.0
-2015,"Oldenburg(Oldb), Stadt",weiblich,zeitlich befristet,Anzahl,RH03403,1575.0
-2015,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich befristet,Anzahl,RH03403,3135.0
+2015,"Emden, Stadt",männlich,zeitlich befristet,Anzahl,RH03402,435.0
+2015,"Emden, Stadt",weiblich,zeitlich befristet,Anzahl,RH03402,355.0
+2015,"Emden, Stadt",insgesamt,zeitlich befristet,Anzahl,RH03402,785.0
+2015,"Oldenburg (Oldb), Stadt",männlich,zeitlich befristet,Anzahl,RH03403,1560.0
+2015,"Oldenburg (Oldb), Stadt",weiblich,zeitlich befristet,Anzahl,RH03403,1575.0
+2015,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich befristet,Anzahl,RH03403,3135.0
 2015,"Osnabrück, Stadt",männlich,zeitlich befristet,Anzahl,RH03404,1820.0
 2015,"Osnabrück, Stadt",weiblich,zeitlich befristet,Anzahl,RH03404,1930.0
 2015,"Osnabrück, Stadt",insgesamt,zeitlich befristet,Anzahl,RH03404,3750.0
@@ -2882,9 +3182,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2014,Statistische Region Braunschweig,männlich,zeitlich befristet,Anzahl,RH031,12225.0
 2014,Statistische Region Braunschweig,weiblich,zeitlich befristet,Anzahl,RH031,12405.0
 2014,Statistische Region Braunschweig,insgesamt,zeitlich befristet,Anzahl,RH031,24630.0
-2014,Hannover  Region,männlich,zeitlich befristet,Anzahl,RH03241,11670.0
-2014,Hannover  Region,weiblich,zeitlich befristet,Anzahl,RH03241,12850.0
-2014,Hannover  Region,insgesamt,zeitlich befristet,Anzahl,RH03241,24520.0
+2014,Region Hannover,männlich,zeitlich befristet,Anzahl,RH03241,11670.0
+2014,Region Hannover,weiblich,zeitlich befristet,Anzahl,RH03241,12850.0
+2014,Region Hannover,insgesamt,zeitlich befristet,Anzahl,RH03241,24520.0
 2014,Diepholz,männlich,zeitlich befristet,Anzahl,RH03251,780.0
 2014,Diepholz,weiblich,zeitlich befristet,Anzahl,RH03251,950.0
 2014,Diepholz,insgesamt,zeitlich befristet,Anzahl,RH03251,1730.0
@@ -2945,12 +3245,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2014,"Delmenhorst, Stadt",männlich,zeitlich befristet,Anzahl,RH03401,665.0
 2014,"Delmenhorst, Stadt",weiblich,zeitlich befristet,Anzahl,RH03401,750.0
 2014,"Delmenhorst, Stadt",insgesamt,zeitlich befristet,Anzahl,RH03401,1415.0
-2014,Emden  Stadt,männlich,zeitlich befristet,Anzahl,RH03402,355.0
-2014,Emden  Stadt,weiblich,zeitlich befristet,Anzahl,RH03402,300.0
-2014,Emden  Stadt,insgesamt,zeitlich befristet,Anzahl,RH03402,655.0
-2014,"Oldenburg(Oldb), Stadt",männlich,zeitlich befristet,Anzahl,RH03403,1280.0
-2014,"Oldenburg(Oldb), Stadt",weiblich,zeitlich befristet,Anzahl,RH03403,1410.0
-2014,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich befristet,Anzahl,RH03403,2690.0
+2014,"Emden, Stadt",männlich,zeitlich befristet,Anzahl,RH03402,355.0
+2014,"Emden, Stadt",weiblich,zeitlich befristet,Anzahl,RH03402,300.0
+2014,"Emden, Stadt",insgesamt,zeitlich befristet,Anzahl,RH03402,655.0
+2014,"Oldenburg (Oldb), Stadt",männlich,zeitlich befristet,Anzahl,RH03403,1280.0
+2014,"Oldenburg (Oldb), Stadt",weiblich,zeitlich befristet,Anzahl,RH03403,1410.0
+2014,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich befristet,Anzahl,RH03403,2690.0
 2014,"Osnabrück, Stadt",männlich,zeitlich befristet,Anzahl,RH03404,1455.0
 2014,"Osnabrück, Stadt",weiblich,zeitlich befristet,Anzahl,RH03404,1690.0
 2014,"Osnabrück, Stadt",insgesamt,zeitlich befristet,Anzahl,RH03404,3145.0
@@ -3032,9 +3332,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2013,Statistische Region Braunschweig,männlich,zeitlich befristet,Anzahl,RH031,11665.0
 2013,Statistische Region Braunschweig,weiblich,zeitlich befristet,Anzahl,RH031,11950.0
 2013,Statistische Region Braunschweig,insgesamt,zeitlich befristet,Anzahl,RH031,23615.0
-2013,Hannover  Region,männlich,zeitlich befristet,Anzahl,RH03241,10745.0
-2013,Hannover  Region,weiblich,zeitlich befristet,Anzahl,RH03241,12185.0
-2013,Hannover  Region,insgesamt,zeitlich befristet,Anzahl,RH03241,22930.0
+2013,Region Hannover,männlich,zeitlich befristet,Anzahl,RH03241,10745.0
+2013,Region Hannover,weiblich,zeitlich befristet,Anzahl,RH03241,12185.0
+2013,Region Hannover,insgesamt,zeitlich befristet,Anzahl,RH03241,22930.0
 2013,Diepholz,männlich,zeitlich befristet,Anzahl,RH03251,780.0
 2013,Diepholz,weiblich,zeitlich befristet,Anzahl,RH03251,920.0
 2013,Diepholz,insgesamt,zeitlich befristet,Anzahl,RH03251,1700.0
@@ -3095,12 +3395,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2013,"Delmenhorst, Stadt",männlich,zeitlich befristet,Anzahl,RH03401,620.0
 2013,"Delmenhorst, Stadt",weiblich,zeitlich befristet,Anzahl,RH03401,705.0
 2013,"Delmenhorst, Stadt",insgesamt,zeitlich befristet,Anzahl,RH03401,1325.0
-2013,Emden  Stadt,männlich,zeitlich befristet,Anzahl,RH03402,335.0
-2013,Emden  Stadt,weiblich,zeitlich befristet,Anzahl,RH03402,285.0
-2013,Emden  Stadt,insgesamt,zeitlich befristet,Anzahl,RH03402,620.0
-2013,"Oldenburg(Oldb), Stadt",männlich,zeitlich befristet,Anzahl,RH03403,1210.0
-2013,"Oldenburg(Oldb), Stadt",weiblich,zeitlich befristet,Anzahl,RH03403,1405.0
-2013,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich befristet,Anzahl,RH03403,2615.0
+2013,"Emden, Stadt",männlich,zeitlich befristet,Anzahl,RH03402,335.0
+2013,"Emden, Stadt",weiblich,zeitlich befristet,Anzahl,RH03402,285.0
+2013,"Emden, Stadt",insgesamt,zeitlich befristet,Anzahl,RH03402,620.0
+2013,"Oldenburg (Oldb), Stadt",männlich,zeitlich befristet,Anzahl,RH03403,1210.0
+2013,"Oldenburg (Oldb), Stadt",weiblich,zeitlich befristet,Anzahl,RH03403,1405.0
+2013,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich befristet,Anzahl,RH03403,2615.0
 2013,"Osnabrück, Stadt",männlich,zeitlich befristet,Anzahl,RH03404,1360.0
 2013,"Osnabrück, Stadt",weiblich,zeitlich befristet,Anzahl,RH03404,1685.0
 2013,"Osnabrück, Stadt",insgesamt,zeitlich befristet,Anzahl,RH03404,3050.0
@@ -3182,9 +3482,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2012,Statistische Region Braunschweig,männlich,zeitlich befristet,Anzahl,RH031,11240.0
 2012,Statistische Region Braunschweig,weiblich,zeitlich befristet,Anzahl,RH031,11690.0
 2012,Statistische Region Braunschweig,insgesamt,zeitlich befristet,Anzahl,RH031,22925.0
-2012,Hannover  Region,männlich,zeitlich befristet,Anzahl,RH03241,10750.0
-2012,Hannover  Region,weiblich,zeitlich befristet,Anzahl,RH03241,12165.0
-2012,Hannover  Region,insgesamt,zeitlich befristet,Anzahl,RH03241,22915.0
+2012,Region Hannover,männlich,zeitlich befristet,Anzahl,RH03241,10750.0
+2012,Region Hannover,weiblich,zeitlich befristet,Anzahl,RH03241,12165.0
+2012,Region Hannover,insgesamt,zeitlich befristet,Anzahl,RH03241,22915.0
 2012,Diepholz,männlich,zeitlich befristet,Anzahl,RH03251,750.0
 2012,Diepholz,weiblich,zeitlich befristet,Anzahl,RH03251,955.0
 2012,Diepholz,insgesamt,zeitlich befristet,Anzahl,RH03251,1705.0
@@ -3245,12 +3545,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2012,"Delmenhorst, Stadt",männlich,zeitlich befristet,Anzahl,RH03401,625.0
 2012,"Delmenhorst, Stadt",weiblich,zeitlich befristet,Anzahl,RH03401,710.0
 2012,"Delmenhorst, Stadt",insgesamt,zeitlich befristet,Anzahl,RH03401,1335.0
-2012,Emden  Stadt,männlich,zeitlich befristet,Anzahl,RH03402,310.0
-2012,Emden  Stadt,weiblich,zeitlich befristet,Anzahl,RH03402,270.0
-2012,Emden  Stadt,insgesamt,zeitlich befristet,Anzahl,RH03402,580.0
-2012,"Oldenburg(Oldb), Stadt",männlich,zeitlich befristet,Anzahl,RH03403,1170.0
-2012,"Oldenburg(Oldb), Stadt",weiblich,zeitlich befristet,Anzahl,RH03403,1415.0
-2012,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich befristet,Anzahl,RH03403,2585.0
+2012,"Emden, Stadt",männlich,zeitlich befristet,Anzahl,RH03402,310.0
+2012,"Emden, Stadt",weiblich,zeitlich befristet,Anzahl,RH03402,270.0
+2012,"Emden, Stadt",insgesamt,zeitlich befristet,Anzahl,RH03402,580.0
+2012,"Oldenburg (Oldb), Stadt",männlich,zeitlich befristet,Anzahl,RH03403,1170.0
+2012,"Oldenburg (Oldb), Stadt",weiblich,zeitlich befristet,Anzahl,RH03403,1415.0
+2012,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich befristet,Anzahl,RH03403,2585.0
 2012,"Osnabrück, Stadt",männlich,zeitlich befristet,Anzahl,RH03404,1345.0
 2012,"Osnabrück, Stadt",weiblich,zeitlich befristet,Anzahl,RH03404,1725.0
 2012,"Osnabrück, Stadt",insgesamt,zeitlich befristet,Anzahl,RH03404,3065.0
@@ -3332,9 +3632,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2011,Statistische Region Braunschweig,männlich,zeitlich befristet,Anzahl,RH031,10760.0
 2011,Statistische Region Braunschweig,weiblich,zeitlich befristet,Anzahl,RH031,11525.0
 2011,Statistische Region Braunschweig,insgesamt,zeitlich befristet,Anzahl,RH031,22285.0
-2011,Hannover  Region,männlich,zeitlich befristet,Anzahl,RH03241,10815.0
-2011,Hannover  Region,weiblich,zeitlich befristet,Anzahl,RH03241,12470.0
-2011,Hannover  Region,insgesamt,zeitlich befristet,Anzahl,RH03241,23285.0
+2011,Region Hannover,männlich,zeitlich befristet,Anzahl,RH03241,10815.0
+2011,Region Hannover,weiblich,zeitlich befristet,Anzahl,RH03241,12470.0
+2011,Region Hannover,insgesamt,zeitlich befristet,Anzahl,RH03241,23285.0
 2011,Diepholz,männlich,zeitlich befristet,Anzahl,RH03251,735.0
 2011,Diepholz,weiblich,zeitlich befristet,Anzahl,RH03251,925.0
 2011,Diepholz,insgesamt,zeitlich befristet,Anzahl,RH03251,1660.0
@@ -3395,12 +3695,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2011,"Delmenhorst, Stadt",männlich,zeitlich befristet,Anzahl,RH03401,640.0
 2011,"Delmenhorst, Stadt",weiblich,zeitlich befristet,Anzahl,RH03401,715.0
 2011,"Delmenhorst, Stadt",insgesamt,zeitlich befristet,Anzahl,RH03401,1355.0
-2011,Emden  Stadt,männlich,zeitlich befristet,Anzahl,RH03402,290.0
-2011,Emden  Stadt,weiblich,zeitlich befristet,Anzahl,RH03402,265.0
-2011,Emden  Stadt,insgesamt,zeitlich befristet,Anzahl,RH03402,560.0
-2011,"Oldenburg(Oldb), Stadt",männlich,zeitlich befristet,Anzahl,RH03403,1210.0
-2011,"Oldenburg(Oldb), Stadt",weiblich,zeitlich befristet,Anzahl,RH03403,1320.0
-2011,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich befristet,Anzahl,RH03403,2530.0
+2011,"Emden, Stadt",männlich,zeitlich befristet,Anzahl,RH03402,290.0
+2011,"Emden, Stadt",weiblich,zeitlich befristet,Anzahl,RH03402,265.0
+2011,"Emden, Stadt",insgesamt,zeitlich befristet,Anzahl,RH03402,560.0
+2011,"Oldenburg (Oldb), Stadt",männlich,zeitlich befristet,Anzahl,RH03403,1210.0
+2011,"Oldenburg (Oldb), Stadt",weiblich,zeitlich befristet,Anzahl,RH03403,1320.0
+2011,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich befristet,Anzahl,RH03403,2530.0
 2011,"Osnabrück, Stadt",männlich,zeitlich befristet,Anzahl,RH03404,1300.0
 2011,"Osnabrück, Stadt",weiblich,zeitlich befristet,Anzahl,RH03404,1660.0
 2011,"Osnabrück, Stadt",insgesamt,zeitlich befristet,Anzahl,RH03404,2955.0
@@ -3482,9 +3782,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2010,Statistische Region Braunschweig,männlich,zeitlich befristet,Anzahl,RH031,11525.0
 2010,Statistische Region Braunschweig,weiblich,zeitlich befristet,Anzahl,RH031,12220.0
 2010,Statistische Region Braunschweig,insgesamt,zeitlich befristet,Anzahl,RH031,23745.0
-2010,Hannover  Region,männlich,zeitlich befristet,Anzahl,RH03241,11645.0
-2010,Hannover  Region,weiblich,zeitlich befristet,Anzahl,RH03241,13260.0
-2010,Hannover  Region,insgesamt,zeitlich befristet,Anzahl,RH03241,24900.0
+2010,Region Hannover,männlich,zeitlich befristet,Anzahl,RH03241,11645.0
+2010,Region Hannover,weiblich,zeitlich befristet,Anzahl,RH03241,13260.0
+2010,Region Hannover,insgesamt,zeitlich befristet,Anzahl,RH03241,24900.0
 2010,Diepholz,männlich,zeitlich befristet,Anzahl,RH03251,885.0
 2010,Diepholz,weiblich,zeitlich befristet,Anzahl,RH03251,1055.0
 2010,Diepholz,insgesamt,zeitlich befristet,Anzahl,RH03251,1940.0
@@ -3545,12 +3845,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2010,"Delmenhorst, Stadt",männlich,zeitlich befristet,Anzahl,RH03401,685.0
 2010,"Delmenhorst, Stadt",weiblich,zeitlich befristet,Anzahl,RH03401,765.0
 2010,"Delmenhorst, Stadt",insgesamt,zeitlich befristet,Anzahl,RH03401,1450.0
-2010,Emden  Stadt,männlich,zeitlich befristet,Anzahl,RH03402,325.0
-2010,Emden  Stadt,weiblich,zeitlich befristet,Anzahl,RH03402,290.0
-2010,Emden  Stadt,insgesamt,zeitlich befristet,Anzahl,RH03402,615.0
-2010,"Oldenburg(Oldb), Stadt",männlich,zeitlich befristet,Anzahl,RH03403,1315.0
-2010,"Oldenburg(Oldb), Stadt",weiblich,zeitlich befristet,Anzahl,RH03403,1400.0
-2010,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich befristet,Anzahl,RH03403,2715.0
+2010,"Emden, Stadt",männlich,zeitlich befristet,Anzahl,RH03402,325.0
+2010,"Emden, Stadt",weiblich,zeitlich befristet,Anzahl,RH03402,290.0
+2010,"Emden, Stadt",insgesamt,zeitlich befristet,Anzahl,RH03402,615.0
+2010,"Oldenburg (Oldb), Stadt",männlich,zeitlich befristet,Anzahl,RH03403,1315.0
+2010,"Oldenburg (Oldb), Stadt",weiblich,zeitlich befristet,Anzahl,RH03403,1400.0
+2010,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich befristet,Anzahl,RH03403,2715.0
 2010,"Osnabrück, Stadt",männlich,zeitlich befristet,Anzahl,RH03404,1435.0
 2010,"Osnabrück, Stadt",weiblich,zeitlich befristet,Anzahl,RH03404,1755.0
 2010,"Osnabrück, Stadt",insgesamt,zeitlich befristet,Anzahl,RH03404,3190.0
@@ -3599,6 +3899,156 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2010,Niedersachsen,männlich,zeitlich befristet,Anzahl,RH030,48160.0
 2010,Niedersachsen,weiblich,zeitlich befristet,Anzahl,RH030,53425.0
 2010,Niedersachsen,insgesamt,zeitlich befristet,Anzahl,RH030,101585.0
+2022,"Braunschweig, Stadt",männlich,zeitlich unbefristet,Prozent,RH03101,44.0686521958607
+2022,"Braunschweig, Stadt",weiblich,zeitlich unbefristet,Prozent,RH03101,42.7845528455285
+2022,"Braunschweig, Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03101,43.428716130666
+2022,"Salzgitter, Stadt",männlich,zeitlich unbefristet,Prozent,RH03102,39.0896921017403
+2022,"Salzgitter, Stadt",weiblich,zeitlich unbefristet,Prozent,RH03102,37.9834254143646
+2022,"Salzgitter, Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03102,38.5452073419443
+2022,"Wolfsburg, Stadt",männlich,zeitlich unbefristet,Prozent,RH03103,26.5060240963855
+2022,"Wolfsburg, Stadt",weiblich,zeitlich unbefristet,Prozent,RH03103,25.7748776508972
+2022,"Wolfsburg, Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03103,26.0887772194305
+2022,Gifhorn,männlich,zeitlich unbefristet,Prozent,RH03151,37.7331420373027
+2022,Gifhorn,weiblich,zeitlich unbefristet,Prozent,RH03151,36.5792759051186
+2022,Gifhorn,insgesamt,zeitlich unbefristet,Prozent,RH03151,37.1829105473965
+2022,Goslar,männlich,zeitlich unbefristet,Prozent,RH03153,25.7199602780536
+2022,Goslar,weiblich,zeitlich unbefristet,Prozent,RH03153,26.9807280513919
+2022,Goslar,insgesamt,zeitlich unbefristet,Prozent,RH03153,26.3266357547656
+2022,Helmstedt,männlich,zeitlich unbefristet,Prozent,RH03154,36.5728900255754
+2022,Helmstedt,weiblich,zeitlich unbefristet,Prozent,RH03154,33.5585585585586
+2022,Helmstedt,insgesamt,zeitlich unbefristet,Prozent,RH03154,34.9700598802395
+2022,Northeim,männlich,zeitlich unbefristet,Prozent,RH03155,30.9259259259259
+2022,Northeim,weiblich,zeitlich unbefristet,Prozent,RH03155,27.741935483871
+2022,Northeim,insgesamt,zeitlich unbefristet,Prozent,RH03155,29.1379310344828
+2022,Peine,männlich,zeitlich unbefristet,Prozent,RH03157,34.0723453908985
+2022,Peine,weiblich,zeitlich unbefristet,Prozent,RH03157,31.2903225806452
+2022,Peine,insgesamt,zeitlich unbefristet,Prozent,RH03157,32.6427771556551
+2022,Wolfenbüttel,männlich,zeitlich unbefristet,Prozent,RH03158,28.0
+2022,Wolfenbüttel,weiblich,zeitlich unbefristet,Prozent,RH03158,29.0375203915171
+2022,Wolfenbüttel,insgesamt,zeitlich unbefristet,Prozent,RH03158,28.5714285714286
+2022,Göttingen,männlich,zeitlich unbefristet,Prozent,RH03159,31.5266036797613
+2022,Göttingen,weiblich,zeitlich unbefristet,Prozent,RH03159,29.9316628701595
+2022,Göttingen,insgesamt,zeitlich unbefristet,Prozent,RH03159,30.6704707560628
+2022,Statistische Region Braunschweig,männlich,zeitlich unbefristet,Prozent,RH031,34.3966323666979
+2022,Statistische Region Braunschweig,weiblich,zeitlich unbefristet,Prozent,RH031,33.094748143509
+2022,Statistische Region Braunschweig,insgesamt,zeitlich unbefristet,Prozent,RH031,33.7250777391622
+2022,Region Hannover,männlich,zeitlich unbefristet,Prozent,RH03241,43.6266941156288
+2022,Region Hannover,weiblich,zeitlich unbefristet,Prozent,RH03241,42.3672847345695
+2022,Region Hannover,insgesamt,zeitlich unbefristet,Prozent,RH03241,42.9928842302612
+2022,Diepholz,männlich,zeitlich unbefristet,Prozent,RH03251,32.2803553800592
+2022,Diepholz,weiblich,zeitlich unbefristet,Prozent,RH03251,30.5
+2022,Diepholz,insgesamt,zeitlich unbefristet,Prozent,RH03251,31.269769543606
+2022,Hameln-Pyrmont,männlich,zeitlich unbefristet,Prozent,RH03252,39.0243902439024
+2022,Hameln-Pyrmont,weiblich,zeitlich unbefristet,Prozent,RH03252,35.0420811017598
+2022,Hameln-Pyrmont,insgesamt,zeitlich unbefristet,Prozent,RH03252,36.9582348305753
+2022,Hildesheim,männlich,zeitlich unbefristet,Prozent,RH03254,32.5062034739454
+2022,Hildesheim,weiblich,zeitlich unbefristet,Prozent,RH03254,31.9492502883506
+2022,Hildesheim,insgesamt,zeitlich unbefristet,Prozent,RH03254,32.2474596533174
+2022,Holzminden,männlich,zeitlich unbefristet,Prozent,RH03255,40.3553299492386
+2022,Holzminden,weiblich,zeitlich unbefristet,Prozent,RH03255,35.8669833729216
+2022,Holzminden,insgesamt,zeitlich unbefristet,Prozent,RH03255,38.0368098159509
+2022,Nienburg (Weser),männlich,zeitlich unbefristet,Prozent,RH03256,28.8721804511278
+2022,Nienburg (Weser),weiblich,zeitlich unbefristet,Prozent,RH03256,27.5401069518717
+2022,Nienburg (Weser),insgesamt,zeitlich unbefristet,Prozent,RH03256,28.1670205237084
+2022,Schaumburg,männlich,zeitlich unbefristet,Prozent,RH03257,37.4429223744292
+2022,Schaumburg,weiblich,zeitlich unbefristet,Prozent,RH03257,34.5511482254697
+2022,Schaumburg,insgesamt,zeitlich unbefristet,Prozent,RH03257,35.9869138495093
+2022,Statistische Region Hannover,männlich,zeitlich unbefristet,Prozent,RH032,40.6670869390796
+2022,Statistische Region Hannover,weiblich,zeitlich unbefristet,Prozent,RH032,38.8888888888889
+2022,Statistische Region Hannover,insgesamt,zeitlich unbefristet,Prozent,RH032,39.7608622431795
+2022,Celle,männlich,zeitlich unbefristet,Prozent,RH03351,26.1692650334076
+2022,Celle,weiblich,zeitlich unbefristet,Prozent,RH03351,25.8349705304519
+2022,Celle,insgesamt,zeitlich unbefristet,Prozent,RH03351,26.0438413361169
+2022,Cuxhaven,männlich,zeitlich unbefristet,Prozent,RH03352,26.628895184136
+2022,Cuxhaven,weiblich,zeitlich unbefristet,Prozent,RH03352,28.740157480315
+2022,Cuxhaven,insgesamt,zeitlich unbefristet,Prozent,RH03352,27.724795640327
+2022,Harburg,männlich,zeitlich unbefristet,Prozent,RH03353,44.7314049586777
+2022,Harburg,weiblich,zeitlich unbefristet,Prozent,RH03353,46.5314834578442
+2022,Harburg,insgesamt,zeitlich unbefristet,Prozent,RH03353,45.6167979002625
+2022,Lüchow-Dannenberg,männlich,zeitlich unbefristet,Prozent,RH03354,22.3684210526316
+2022,Lüchow-Dannenberg,weiblich,zeitlich unbefristet,Prozent,RH03354,22.0430107526882
+2022,Lüchow-Dannenberg,insgesamt,zeitlich unbefristet,Prozent,RH03354,22.189349112426
+2022,Lüneburg,männlich,zeitlich unbefristet,Prozent,RH03355,24.249699879952
+2022,Lüneburg,weiblich,zeitlich unbefristet,Prozent,RH03355,25.0
+2022,Lüneburg,insgesamt,zeitlich unbefristet,Prozent,RH03355,24.6368390470657
+2022,Osterholz,männlich,zeitlich unbefristet,Prozent,RH03356,31.3346228239845
+2022,Osterholz,weiblich,zeitlich unbefristet,Prozent,RH03356,28.6912751677852
+2022,Osterholz,insgesamt,zeitlich unbefristet,Prozent,RH03356,29.9191374663073
+2022,Rotenburg (Wümme),männlich,zeitlich unbefristet,Prozent,RH03357,30.0911854103343
+2022,Rotenburg (Wümme),weiblich,zeitlich unbefristet,Prozent,RH03357,31.0296191819464
+2022,Rotenburg (Wümme),insgesamt,zeitlich unbefristet,Prozent,RH03357,30.5779078273592
+2022,Heidekreis,männlich,zeitlich unbefristet,Prozent,RH03358,34.0643274853801
+2022,Heidekreis,weiblich,zeitlich unbefristet,Prozent,RH03358,29.6977660972405
+2022,Heidekreis,insgesamt,zeitlich unbefristet,Prozent,RH03358,31.7647058823529
+2022,Stade,männlich,zeitlich unbefristet,Prozent,RH03359,26.3586956521739
+2022,Stade,weiblich,zeitlich unbefristet,Prozent,RH03359,25.8802816901408
+2022,Stade,insgesamt,zeitlich unbefristet,Prozent,RH03359,26.1160714285714
+2022,Uelzen,männlich,zeitlich unbefristet,Prozent,RH03360,25.7372654155496
+2022,Uelzen,weiblich,zeitlich unbefristet,Prozent,RH03360,23.7136465324385
+2022,Uelzen,insgesamt,zeitlich unbefristet,Prozent,RH03360,24.7560975609756
+2022,Verden,männlich,zeitlich unbefristet,Prozent,RH03361,37.6411543287327
+2022,Verden,weiblich,zeitlich unbefristet,Prozent,RH03361,35.2300242130751
+2022,Verden,insgesamt,zeitlich unbefristet,Prozent,RH03361,36.4140480591497
+2022,Statistische Region Lüneburg,männlich,zeitlich unbefristet,Prozent,RH033,30.8452535760728
+2022,Statistische Region Lüneburg,weiblich,zeitlich unbefristet,Prozent,RH033,30.1112992983305
+2022,Statistische Region Lüneburg,insgesamt,zeitlich unbefristet,Prozent,RH033,30.4650288292805
+2022,"Delmenhorst, Stadt",männlich,zeitlich unbefristet,Prozent,RH03401,41.6565164433618
+2022,"Delmenhorst, Stadt",weiblich,zeitlich unbefristet,Prozent,RH03401,37.0238095238095
+2022,"Delmenhorst, Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03401,39.3136664659843
+2022,"Emden, Stadt",männlich,zeitlich unbefristet,Prozent,RH03402,18.005540166205
+2022,"Emden, Stadt",weiblich,zeitlich unbefristet,Prozent,RH03402,18.0428134556575
+2022,"Emden, Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03402,18.0494905385735
+2022,"Oldenburg (Oldb), Stadt",männlich,zeitlich unbefristet,Prozent,RH03403,30.421216848674
+2022,"Oldenburg (Oldb), Stadt",weiblich,zeitlich unbefristet,Prozent,RH03403,27.3684210526316
+2022,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03403,28.8667687595712
+2022,"Osnabrück, Stadt",männlich,zeitlich unbefristet,Prozent,RH03404,38.6953768207726
+2022,"Osnabrück, Stadt",weiblich,zeitlich unbefristet,Prozent,RH03404,34.5939243645381
+2022,"Osnabrück, Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03404,36.5800187911055
+2022,"Wilhelmshaven, Stadt",männlich,zeitlich unbefristet,Prozent,RH03405,19.3771626297578
+2022,"Wilhelmshaven, Stadt",weiblich,zeitlich unbefristet,Prozent,RH03405,19.7573656845754
+2022,"Wilhelmshaven, Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03405,19.4805194805195
+2022,Ammerland,männlich,zeitlich unbefristet,Prozent,RH03451,31.6027088036117
+2022,Ammerland,weiblich,zeitlich unbefristet,Prozent,RH03451,28.2786885245902
+2022,Ammerland,insgesamt,zeitlich unbefristet,Prozent,RH03451,29.8603651987111
+2022,Aurich,männlich,zeitlich unbefristet,Prozent,RH03452,24.0506329113924
+2022,Aurich,weiblich,zeitlich unbefristet,Prozent,RH03452,23.2432432432432
+2022,Aurich,insgesamt,zeitlich unbefristet,Prozent,RH03452,23.7364620938628
+2022,Cloppenburg,männlich,zeitlich unbefristet,Prozent,RH03453,30.9090909090909
+2022,Cloppenburg,weiblich,zeitlich unbefristet,Prozent,RH03453,28.3964365256125
+2022,Cloppenburg,insgesamt,zeitlich unbefristet,Prozent,RH03453,29.5823665893271
+2022,Emsland,männlich,zeitlich unbefristet,Prozent,RH03454,27.7693474962064
+2022,Emsland,weiblich,zeitlich unbefristet,Prozent,RH03454,27.5250578257517
+2022,Emsland,insgesamt,zeitlich unbefristet,Prozent,RH03454,27.6099426386233
+2022,Friesland,männlich,zeitlich unbefristet,Prozent,RH03455,23.2727272727273
+2022,Friesland,weiblich,zeitlich unbefristet,Prozent,RH03455,24.7457627118644
+2022,Friesland,insgesamt,zeitlich unbefristet,Prozent,RH03455,23.9929947460595
+2022,Grafschaft Bentheim,männlich,zeitlich unbefristet,Prozent,RH03456,32.1273516642547
+2022,Grafschaft Bentheim,weiblich,zeitlich unbefristet,Prozent,RH03456,30.8609271523179
+2022,Grafschaft Bentheim,insgesamt,zeitlich unbefristet,Prozent,RH03456,31.4661134163209
+2022,Leer,männlich,zeitlich unbefristet,Prozent,RH03457,23.9130434782609
+2022,Leer,weiblich,zeitlich unbefristet,Prozent,RH03457,23.0182926829268
+2022,Leer,insgesamt,zeitlich unbefristet,Prozent,RH03457,23.4795996920708
+2022,Oldenburg,männlich,zeitlich unbefristet,Prozent,RH03458,28.9017341040462
+2022,Oldenburg,weiblich,zeitlich unbefristet,Prozent,RH03458,26.1824324324324
+2022,Oldenburg,insgesamt,zeitlich unbefristet,Prozent,RH03458,27.4774774774775
+2022,Osnabrück,männlich,zeitlich unbefristet,Prozent,RH03459,41.6545718432511
+2022,Osnabrück,weiblich,zeitlich unbefristet,Prozent,RH03459,37.7791188895594
+2022,Osnabrück,insgesamt,zeitlich unbefristet,Prozent,RH03459,39.5387149917628
+2022,Vechta,männlich,zeitlich unbefristet,Prozent,RH03460,35.4243542435424
+2022,Vechta,weiblich,zeitlich unbefristet,Prozent,RH03460,31.6722972972973
+2022,Vechta,insgesamt,zeitlich unbefristet,Prozent,RH03460,33.480370533745
+2022,Wesermarsch,männlich,zeitlich unbefristet,Prozent,RH03461,37.7840909090909
+2022,Wesermarsch,weiblich,zeitlich unbefristet,Prozent,RH03461,39.3048128342246
+2022,Wesermarsch,insgesamt,zeitlich unbefristet,Prozent,RH03461,38.6206896551724
+2022,Wittmund,männlich,zeitlich unbefristet,Prozent,RH03462,21.8085106382979
+2022,Wittmund,weiblich,zeitlich unbefristet,Prozent,RH03462,16.7441860465116
+2022,Wittmund,insgesamt,zeitlich unbefristet,Prozent,RH03462,18.8585607940447
+2022,Statistische Region Weser-Ems,männlich,zeitlich unbefristet,Prozent,RH034,32.0791311093871
+2022,Statistische Region Weser-Ems,weiblich,zeitlich unbefristet,Prozent,RH034,29.883542078664
+2022,Statistische Region Weser-Ems,insgesamt,zeitlich unbefristet,Prozent,RH034,30.9497796029085
+2022,Niedersachsen,männlich,zeitlich unbefristet,Prozent,RH030,35.4666557195345
+2022,Niedersachsen,weiblich,zeitlich unbefristet,Prozent,RH030,33.8130899446135
+2022,Niedersachsen,insgesamt,zeitlich unbefristet,Prozent,RH030,34.6187309365468
 2021,"Braunschweig, Stadt",männlich,zeitlich unbefristet,Prozent,RH03101,49.3827160493827
 2021,"Braunschweig, Stadt",weiblich,zeitlich unbefristet,Prozent,RH03101,51.5743073047859
 2021,"Braunschweig, Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03101,50.4104591061113
@@ -3632,9 +4082,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2021,Statistische Region Braunschweig,männlich,zeitlich unbefristet,Prozent,RH031,39.8299395837995
 2021,Statistische Region Braunschweig,weiblich,zeitlich unbefristet,Prozent,RH031,41.8969120037149
 2021,Statistische Region Braunschweig,insgesamt,zeitlich unbefristet,Prozent,RH031,40.8443482224248
-2021,Hannover  Region,männlich,zeitlich unbefristet,Prozent,RH03241,47.1223709369025
-2021,Hannover  Region,weiblich,zeitlich unbefristet,Prozent,RH03241,49.2412822831876
-2021,Hannover  Region,insgesamt,zeitlich unbefristet,Prozent,RH03241,48.1554063985106
+2021,Region Hannover,männlich,zeitlich unbefristet,Prozent,RH03241,47.1223709369025
+2021,Region Hannover,weiblich,zeitlich unbefristet,Prozent,RH03241,49.2412822831876
+2021,Region Hannover,insgesamt,zeitlich unbefristet,Prozent,RH03241,48.1554063985106
 2021,Diepholz,männlich,zeitlich unbefristet,Prozent,RH03251,39.3564356435644
 2021,Diepholz,weiblich,zeitlich unbefristet,Prozent,RH03251,41.4605418138987
 2021,Diepholz,insgesamt,zeitlich unbefristet,Prozent,RH03251,40.4345202172601
@@ -3695,12 +4145,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2021,"Delmenhorst, Stadt",männlich,zeitlich unbefristet,Prozent,RH03401,44.578313253012
 2021,"Delmenhorst, Stadt",weiblich,zeitlich unbefristet,Prozent,RH03401,42.1940928270042
 2021,"Delmenhorst, Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03401,43.385880740233
-2021,Emden  Stadt,männlich,zeitlich unbefristet,Prozent,RH03402,20.3389830508475
-2021,Emden  Stadt,weiblich,zeitlich unbefristet,Prozent,RH03402,26.1261261261261
-2021,Emden  Stadt,insgesamt,zeitlich unbefristet,Prozent,RH03402,22.6305609284333
-2021,"Oldenburg(Oldb), Stadt",männlich,zeitlich unbefristet,Prozent,RH03403,31.4310051107325
-2021,"Oldenburg(Oldb), Stadt",weiblich,zeitlich unbefristet,Prozent,RH03403,30.6948109058927
-2021,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03403,31.068801384682
+2021,"Emden, Stadt",männlich,zeitlich unbefristet,Prozent,RH03402,20.3389830508475
+2021,"Emden, Stadt",weiblich,zeitlich unbefristet,Prozent,RH03402,26.1261261261261
+2021,"Emden, Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03402,22.6305609284333
+2021,"Oldenburg (Oldb), Stadt",männlich,zeitlich unbefristet,Prozent,RH03403,31.4310051107325
+2021,"Oldenburg (Oldb), Stadt",weiblich,zeitlich unbefristet,Prozent,RH03403,30.6948109058927
+2021,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03403,31.068801384682
 2021,"Osnabrück, Stadt",männlich,zeitlich unbefristet,Prozent,RH03404,43.9204126750184
 2021,"Osnabrück, Stadt",weiblich,zeitlich unbefristet,Prozent,RH03404,43.5132957292506
 2021,"Osnabrück, Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03404,43.7475952289342
@@ -3782,9 +4232,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2020,Statistische Region Braunschweig,männlich,zeitlich unbefristet,Prozent,RH031,38.5658914728682
 2020,Statistische Region Braunschweig,weiblich,zeitlich unbefristet,Prozent,RH031,42.3911740016789
 2020,Statistische Region Braunschweig,insgesamt,zeitlich unbefristet,Prozent,RH031,40.4301326631991
-2020,Hannover  Region,männlich,zeitlich unbefristet,Prozent,RH03241,46.2007550091956
-2020,Hannover  Region,weiblich,zeitlich unbefristet,Prozent,RH03241,49.5247828308636
-2020,Hannover  Region,insgesamt,zeitlich unbefristet,Prozent,RH03241,47.8176575860012
+2020,Region Hannover,männlich,zeitlich unbefristet,Prozent,RH03241,46.2007550091956
+2020,Region Hannover,weiblich,zeitlich unbefristet,Prozent,RH03241,49.5247828308636
+2020,Region Hannover,insgesamt,zeitlich unbefristet,Prozent,RH03241,47.8176575860012
 2020,Diepholz,männlich,zeitlich unbefristet,Prozent,RH03251,36.5384615384615
 2020,Diepholz,weiblich,zeitlich unbefristet,Prozent,RH03251,40.9090909090909
 2020,Diepholz,insgesamt,zeitlich unbefristet,Prozent,RH03251,38.7460815047022
@@ -3845,12 +4295,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2020,"Delmenhorst, Stadt",männlich,zeitlich unbefristet,Prozent,RH03401,44.1988950276243
 2020,"Delmenhorst, Stadt",weiblich,zeitlich unbefristet,Prozent,RH03401,42.8981348637016
 2020,"Delmenhorst, Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03401,43.4904996481351
-2020,Emden  Stadt,männlich,zeitlich unbefristet,Prozent,RH03402,20.6521739130435
-2020,Emden  Stadt,weiblich,zeitlich unbefristet,Prozent,RH03402,26.4423076923077
-2020,Emden  Stadt,insgesamt,zeitlich unbefristet,Prozent,RH03402,23.3471074380165
-2020,"Oldenburg(Oldb), Stadt",männlich,zeitlich unbefristet,Prozent,RH03403,30.6122448979592
-2020,"Oldenburg(Oldb), Stadt",weiblich,zeitlich unbefristet,Prozent,RH03403,31.0947562097516
-2020,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03403,30.8943089430894
+2020,"Emden, Stadt",männlich,zeitlich unbefristet,Prozent,RH03402,20.6521739130435
+2020,"Emden, Stadt",weiblich,zeitlich unbefristet,Prozent,RH03402,26.4423076923077
+2020,"Emden, Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03402,23.3471074380165
+2020,"Oldenburg (Oldb), Stadt",männlich,zeitlich unbefristet,Prozent,RH03403,30.6122448979592
+2020,"Oldenburg (Oldb), Stadt",weiblich,zeitlich unbefristet,Prozent,RH03403,31.0947562097516
+2020,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03403,30.8943089430894
 2020,"Osnabrück, Stadt",männlich,zeitlich unbefristet,Prozent,RH03404,42.8682170542636
 2020,"Osnabrück, Stadt",weiblich,zeitlich unbefristet,Prozent,RH03404,45.8549222797927
 2020,"Osnabrück, Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03404,44.281045751634
@@ -3932,9 +4382,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2019,Statistische Region Braunschweig,männlich,zeitlich unbefristet,Prozent,RH031,37.6445250510088
 2019,Statistische Region Braunschweig,weiblich,zeitlich unbefristet,Prozent,RH031,42.0692141312185
 2019,Statistische Region Braunschweig,insgesamt,zeitlich unbefristet,Prozent,RH031,39.7865142323845
-2019,Hannover  Region,männlich,zeitlich unbefristet,Prozent,RH03241,47.2713148184113
-2019,Hannover  Region,weiblich,zeitlich unbefristet,Prozent,RH03241,50.9533134082243
-2019,Hannover  Region,insgesamt,zeitlich unbefristet,Prozent,RH03241,49.0575471226439
+2019,Region Hannover,männlich,zeitlich unbefristet,Prozent,RH03241,47.2713148184113
+2019,Region Hannover,weiblich,zeitlich unbefristet,Prozent,RH03241,50.9533134082243
+2019,Region Hannover,insgesamt,zeitlich unbefristet,Prozent,RH03241,49.0575471226439
 2019,Diepholz,männlich,zeitlich unbefristet,Prozent,RH03251,36.9189907038513
 2019,Diepholz,weiblich,zeitlich unbefristet,Prozent,RH03251,41.3400758533502
 2019,Diepholz,insgesamt,zeitlich unbefristet,Prozent,RH03251,39.1585760517799
@@ -3995,12 +4445,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2019,"Delmenhorst, Stadt",männlich,zeitlich unbefristet,Prozent,RH03401,43.4119278779473
 2019,"Delmenhorst, Stadt",weiblich,zeitlich unbefristet,Prozent,RH03401,43.9238653001464
 2019,"Delmenhorst, Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03401,43.6298932384342
-2019,Emden  Stadt,männlich,zeitlich unbefristet,Prozent,RH03402,20.1365187713311
-2019,Emden  Stadt,weiblich,zeitlich unbefristet,Prozent,RH03402,27.4418604651163
-2019,Emden  Stadt,insgesamt,zeitlich unbefristet,Prozent,RH03402,23.2283464566929
-2019,"Oldenburg(Oldb), Stadt",männlich,zeitlich unbefristet,Prozent,RH03403,31.3888888888889
-2019,"Oldenburg(Oldb), Stadt",weiblich,zeitlich unbefristet,Prozent,RH03403,32.9797492767599
-2019,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03403,32.1057601510859
+2019,"Emden, Stadt",männlich,zeitlich unbefristet,Prozent,RH03402,20.1365187713311
+2019,"Emden, Stadt",weiblich,zeitlich unbefristet,Prozent,RH03402,27.4418604651163
+2019,"Emden, Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03402,23.2283464566929
+2019,"Oldenburg (Oldb), Stadt",männlich,zeitlich unbefristet,Prozent,RH03403,31.3888888888889
+2019,"Oldenburg (Oldb), Stadt",weiblich,zeitlich unbefristet,Prozent,RH03403,32.9797492767599
+2019,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03403,32.1057601510859
 2019,"Osnabrück, Stadt",männlich,zeitlich unbefristet,Prozent,RH03404,41.4950419527079
 2019,"Osnabrück, Stadt",weiblich,zeitlich unbefristet,Prozent,RH03404,45.0680272108844
 2019,"Osnabrück, Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03404,43.1845597104946
@@ -4082,9 +4532,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2018,Statistische Region Braunschweig,männlich,zeitlich unbefristet,Prozent,RH031,38.98806005438
 2018,Statistische Region Braunschweig,weiblich,zeitlich unbefristet,Prozent,RH031,43.8380281690141
 2018,Statistische Region Braunschweig,insgesamt,zeitlich unbefristet,Prozent,RH031,41.3381268661264
-2018,Hannover  Region,männlich,zeitlich unbefristet,Prozent,RH03241,49.2005295854975
-2018,Hannover  Region,weiblich,zeitlich unbefristet,Prozent,RH03241,52.9114740008595
-2018,Hannover  Region,insgesamt,zeitlich unbefristet,Prozent,RH03241,51.0012024886286
+2018,Region Hannover,männlich,zeitlich unbefristet,Prozent,RH03241,49.2005295854975
+2018,Region Hannover,weiblich,zeitlich unbefristet,Prozent,RH03241,52.9114740008595
+2018,Region Hannover,insgesamt,zeitlich unbefristet,Prozent,RH03241,51.0012024886286
 2018,Diepholz,männlich,zeitlich unbefristet,Prozent,RH03251,37.6196990424077
 2018,Diepholz,weiblich,zeitlich unbefristet,Prozent,RH03251,42.578125
 2018,Diepholz,insgesamt,zeitlich unbefristet,Prozent,RH03251,40.1601067378252
@@ -4145,12 +4595,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2018,"Delmenhorst, Stadt",männlich,zeitlich unbefristet,Prozent,RH03401,44.4759206798867
 2018,"Delmenhorst, Stadt",weiblich,zeitlich unbefristet,Prozent,RH03401,44.9925261584454
 2018,"Delmenhorst, Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03401,44.7272727272727
-2018,Emden  Stadt,männlich,zeitlich unbefristet,Prozent,RH03402,22.0588235294118
-2018,Emden  Stadt,weiblich,zeitlich unbefristet,Prozent,RH03402,29.9019607843137
-2018,Emden  Stadt,insgesamt,zeitlich unbefristet,Prozent,RH03402,25.3668763102725
-2018,"Oldenburg(Oldb), Stadt",männlich,zeitlich unbefristet,Prozent,RH03403,33.7243401759531
-2018,"Oldenburg(Oldb), Stadt",weiblich,zeitlich unbefristet,Prozent,RH03403,35.0154479917611
-2018,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03403,34.3530591775326
+2018,"Emden, Stadt",männlich,zeitlich unbefristet,Prozent,RH03402,22.0588235294118
+2018,"Emden, Stadt",weiblich,zeitlich unbefristet,Prozent,RH03402,29.9019607843137
+2018,"Emden, Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03402,25.3668763102725
+2018,"Oldenburg (Oldb), Stadt",männlich,zeitlich unbefristet,Prozent,RH03403,33.7243401759531
+2018,"Oldenburg (Oldb), Stadt",weiblich,zeitlich unbefristet,Prozent,RH03403,35.0154479917611
+2018,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03403,34.3530591775326
 2018,"Osnabrück, Stadt",männlich,zeitlich unbefristet,Prozent,RH03404,43.7650844730491
 2018,"Osnabrück, Stadt",weiblich,zeitlich unbefristet,Prozent,RH03404,47.2792149866191
 2018,"Osnabrück, Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03404,45.4314720812183
@@ -4232,9 +4682,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2017,Statistische Region Braunschweig,männlich,zeitlich unbefristet,Prozent,RH031,42.0620671967171
 2017,Statistische Region Braunschweig,weiblich,zeitlich unbefristet,Prozent,RH031,46.6217127444369
 2017,Statistische Region Braunschweig,insgesamt,zeitlich unbefristet,Prozent,RH031,44.2815827527278
-2017,Hannover  Region,männlich,zeitlich unbefristet,Prozent,RH03241,52.2426868905742
-2017,Hannover  Region,weiblich,zeitlich unbefristet,Prozent,RH03241,55.3462666365892
-2017,Hannover  Region,insgesamt,zeitlich unbefristet,Prozent,RH03241,53.7632625994695
+2017,Region Hannover,männlich,zeitlich unbefristet,Prozent,RH03241,52.2426868905742
+2017,Region Hannover,weiblich,zeitlich unbefristet,Prozent,RH03241,55.3462666365892
+2017,Region Hannover,insgesamt,zeitlich unbefristet,Prozent,RH03241,53.7632625994695
 2017,Diepholz,männlich,zeitlich unbefristet,Prozent,RH03251,41.3476263399694
 2017,Diepholz,weiblich,zeitlich unbefristet,Prozent,RH03251,46.6954022988506
 2017,Diepholz,insgesamt,zeitlich unbefristet,Prozent,RH03251,44.1067457375834
@@ -4295,12 +4745,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2017,"Delmenhorst, Stadt",männlich,zeitlich unbefristet,Prozent,RH03401,45.6395348837209
 2017,"Delmenhorst, Stadt",weiblich,zeitlich unbefristet,Prozent,RH03401,46.5331278890601
 2017,"Delmenhorst, Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03401,46.0732984293194
-2017,Emden  Stadt,männlich,zeitlich unbefristet,Prozent,RH03402,24.390243902439
-2017,Emden  Stadt,weiblich,zeitlich unbefristet,Prozent,RH03402,32.972972972973
-2017,Emden  Stadt,insgesamt,zeitlich unbefristet,Prozent,RH03402,28.0742459396752
-2017,"Oldenburg(Oldb), Stadt",männlich,zeitlich unbefristet,Prozent,RH03403,38.4446878422782
-2017,"Oldenburg(Oldb), Stadt",weiblich,zeitlich unbefristet,Prozent,RH03403,39.5402298850575
-2017,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03403,38.9792484576556
+2017,"Emden, Stadt",männlich,zeitlich unbefristet,Prozent,RH03402,24.390243902439
+2017,"Emden, Stadt",weiblich,zeitlich unbefristet,Prozent,RH03402,32.972972972973
+2017,"Emden, Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03402,28.0742459396752
+2017,"Oldenburg (Oldb), Stadt",männlich,zeitlich unbefristet,Prozent,RH03403,38.4446878422782
+2017,"Oldenburg (Oldb), Stadt",weiblich,zeitlich unbefristet,Prozent,RH03403,39.5402298850575
+2017,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03403,38.9792484576556
 2017,"Osnabrück, Stadt",männlich,zeitlich unbefristet,Prozent,RH03404,47.4503025064823
 2017,"Osnabrück, Stadt",weiblich,zeitlich unbefristet,Prozent,RH03404,50.749063670412
 2017,"Osnabrück, Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03404,49.0337078651685
@@ -4382,9 +4832,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2016,Statistische Region Braunschweig,männlich,zeitlich unbefristet,Prozent,RH031,47.8864999268685
 2016,Statistische Region Braunschweig,weiblich,zeitlich unbefristet,Prozent,RH031,51.6476932294787
 2016,Statistische Region Braunschweig,insgesamt,zeitlich unbefristet,Prozent,RH031,49.7446902982313
-2016,Hannover  Region,männlich,zeitlich unbefristet,Prozent,RH03241,57.2020848140251
-2016,Hannover  Region,weiblich,zeitlich unbefristet,Prozent,RH03241,58.9928924225997
-2016,Hannover  Region,insgesamt,zeitlich unbefristet,Prozent,RH03241,58.0839753927014
+2016,Region Hannover,männlich,zeitlich unbefristet,Prozent,RH03241,57.2020848140251
+2016,Region Hannover,weiblich,zeitlich unbefristet,Prozent,RH03241,58.9928924225997
+2016,Region Hannover,insgesamt,zeitlich unbefristet,Prozent,RH03241,58.0839753927014
 2016,Diepholz,männlich,zeitlich unbefristet,Prozent,RH03251,46.9964664310954
 2016,Diepholz,weiblich,zeitlich unbefristet,Prozent,RH03251,51.5974440894569
 2016,Diepholz,insgesamt,zeitlich unbefristet,Prozent,RH03251,49.4542401343409
@@ -4445,12 +4895,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2016,"Delmenhorst, Stadt",männlich,zeitlich unbefristet,Prozent,RH03401,53.1516183986371
 2016,"Delmenhorst, Stadt",weiblich,zeitlich unbefristet,Prozent,RH03401,54.4789762340037
 2016,"Delmenhorst, Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03401,53.8800705467372
-2016,Emden  Stadt,männlich,zeitlich unbefristet,Prozent,RH03402,29.5
-2016,Emden  Stadt,weiblich,zeitlich unbefristet,Prozent,RH03402,38.2165605095541
-2016,Emden  Stadt,insgesamt,zeitlich unbefristet,Prozent,RH03402,33.3333333333333
-2016,"Oldenburg(Oldb), Stadt",männlich,zeitlich unbefristet,Prozent,RH03403,43.6274509803922
-2016,"Oldenburg(Oldb), Stadt",weiblich,zeitlich unbefristet,Prozent,RH03403,44.6428571428571
-2016,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03403,44.0625
+2016,"Emden, Stadt",männlich,zeitlich unbefristet,Prozent,RH03402,29.5
+2016,"Emden, Stadt",weiblich,zeitlich unbefristet,Prozent,RH03402,38.2165605095541
+2016,"Emden, Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03402,33.3333333333333
+2016,"Oldenburg (Oldb), Stadt",männlich,zeitlich unbefristet,Prozent,RH03403,43.6274509803922
+2016,"Oldenburg (Oldb), Stadt",weiblich,zeitlich unbefristet,Prozent,RH03403,44.6428571428571
+2016,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03403,44.0625
 2016,"Osnabrück, Stadt",männlich,zeitlich unbefristet,Prozent,RH03404,53.8238141335915
 2016,"Osnabrück, Stadt",weiblich,zeitlich unbefristet,Prozent,RH03404,55.3735926305015
 2016,"Osnabrück, Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03404,54.5771144278607
@@ -4532,9 +4982,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2015,Statistische Region Braunschweig,männlich,zeitlich unbefristet,Prozent,RH031,54.4719555330975
 2015,Statistische Region Braunschweig,weiblich,zeitlich unbefristet,Prozent,RH031,56.0198183319571
 2015,Statistische Region Braunschweig,insgesamt,zeitlich unbefristet,Prozent,RH031,55.2535023348899
-2015,Hannover  Region,männlich,zeitlich unbefristet,Prozent,RH03241,63.9542614014094
-2015,Hannover  Region,weiblich,zeitlich unbefristet,Prozent,RH03241,63.044326010659
-2015,Hannover  Region,insgesamt,zeitlich unbefristet,Prozent,RH03241,63.5007230182726
+2015,Region Hannover,männlich,zeitlich unbefristet,Prozent,RH03241,63.9542614014094
+2015,Region Hannover,weiblich,zeitlich unbefristet,Prozent,RH03241,63.044326010659
+2015,Region Hannover,insgesamt,zeitlich unbefristet,Prozent,RH03241,63.5007230182726
 2015,Diepholz,männlich,zeitlich unbefristet,Prozent,RH03251,59.8607888631091
 2015,Diepholz,weiblich,zeitlich unbefristet,Prozent,RH03251,60.8778625954198
 2015,Diepholz,insgesamt,zeitlich unbefristet,Prozent,RH03251,60.4188481675393
@@ -4595,12 +5045,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2015,"Delmenhorst, Stadt",männlich,zeitlich unbefristet,Prozent,RH03401,65.0627615062761
 2015,"Delmenhorst, Stadt",weiblich,zeitlich unbefristet,Prozent,RH03401,63.0573248407643
 2015,"Delmenhorst, Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03401,63.9620653319283
-2015,Emden  Stadt,männlich,zeitlich unbefristet,Prozent,RH03402,40.6896551724138
-2015,Emden  Stadt,weiblich,zeitlich unbefristet,Prozent,RH03402,45.8015267175573
-2015,Emden  Stadt,insgesamt,zeitlich unbefristet,Prozent,RH03402,43.1159420289855
-2015,"Oldenburg(Oldb), Stadt",männlich,zeitlich unbefristet,Prozent,RH03403,53.2233883058471
-2015,"Oldenburg(Oldb), Stadt",weiblich,zeitlich unbefristet,Prozent,RH03403,52.0610687022901
-2015,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03403,52.571860816944
+2015,"Emden, Stadt",männlich,zeitlich unbefristet,Prozent,RH03402,40.6896551724138
+2015,"Emden, Stadt",weiblich,zeitlich unbefristet,Prozent,RH03402,45.8015267175573
+2015,"Emden, Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03402,43.1159420289855
+2015,"Oldenburg (Oldb), Stadt",männlich,zeitlich unbefristet,Prozent,RH03403,53.2233883058471
+2015,"Oldenburg (Oldb), Stadt",weiblich,zeitlich unbefristet,Prozent,RH03403,52.0610687022901
+2015,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03403,52.571860816944
 2015,"Osnabrück, Stadt",männlich,zeitlich unbefristet,Prozent,RH03404,60.9625668449198
 2015,"Osnabrück, Stadt",weiblich,zeitlich unbefristet,Prozent,RH03404,58.3153347732181
 2015,"Osnabrück, Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03404,59.6453519613111
@@ -4682,9 +5132,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2014,Statistische Region Braunschweig,männlich,zeitlich unbefristet,Prozent,RH031,56.5024017078812
 2014,Statistische Region Braunschweig,weiblich,zeitlich unbefristet,Prozent,RH031,57.2266298723698
 2014,Statistische Region Braunschweig,insgesamt,zeitlich unbefristet,Prozent,RH031,56.8613713985463
-2014,Hannover  Region,männlich,zeitlich unbefristet,Prozent,RH03241,67.0338983050847
-2014,Hannover  Region,weiblich,zeitlich unbefristet,Prozent,RH03241,65.095749015347
-2014,Hannover  Region,insgesamt,zeitlich unbefristet,Prozent,RH03241,66.045835352766
+2014,Region Hannover,männlich,zeitlich unbefristet,Prozent,RH03241,67.0338983050847
+2014,Region Hannover,weiblich,zeitlich unbefristet,Prozent,RH03241,65.095749015347
+2014,Region Hannover,insgesamt,zeitlich unbefristet,Prozent,RH03241,66.045835352766
 2014,Diepholz,männlich,zeitlich unbefristet,Prozent,RH03251,61.9164619164619
 2014,Diepholz,weiblich,zeitlich unbefristet,Prozent,RH03251,61.7706237424547
 2014,Diepholz,insgesamt,zeitlich unbefristet,Prozent,RH03251,61.8362831858407
@@ -4745,12 +5195,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2014,"Delmenhorst, Stadt",männlich,zeitlich unbefristet,Prozent,RH03401,69.7727272727273
 2014,"Delmenhorst, Stadt",weiblich,zeitlich unbefristet,Prozent,RH03401,65.5963302752293
 2014,"Delmenhorst, Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03401,67.6940639269406
-2014,Emden  Stadt,männlich,zeitlich unbefristet,Prozent,RH03402,45.8015267175573
-2014,Emden  Stadt,weiblich,zeitlich unbefristet,Prozent,RH03402,50.0
-2014,Emden  Stadt,insgesamt,zeitlich unbefristet,Prozent,RH03402,47.6
-2014,"Oldenburg(Oldb), Stadt",männlich,zeitlich unbefristet,Prozent,RH03403,57.5456053067993
-2014,"Oldenburg(Oldb), Stadt",weiblich,zeitlich unbefristet,Prozent,RH03403,54.5161290322581
-2014,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03403,56.0098119378577
+2014,"Emden, Stadt",männlich,zeitlich unbefristet,Prozent,RH03402,45.8015267175573
+2014,"Emden, Stadt",weiblich,zeitlich unbefristet,Prozent,RH03402,50.0
+2014,"Emden, Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03402,47.6
+2014,"Oldenburg (Oldb), Stadt",männlich,zeitlich unbefristet,Prozent,RH03403,57.5456053067993
+2014,"Oldenburg (Oldb), Stadt",weiblich,zeitlich unbefristet,Prozent,RH03403,54.5161290322581
+2014,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03403,56.0098119378577
 2014,"Osnabrück, Stadt",männlich,zeitlich unbefristet,Prozent,RH03404,66.3972286374134
 2014,"Osnabrück, Stadt",weiblich,zeitlich unbefristet,Prozent,RH03404,61.3714285714286
 2014,"Osnabrück, Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03404,63.8346727898967
@@ -4832,9 +5282,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2013,Statistische Region Braunschweig,männlich,zeitlich unbefristet,Prozent,RH031,57.2632350247298
 2013,Statistische Region Braunschweig,weiblich,zeitlich unbefristet,Prozent,RH031,57.397504456328
 2013,Statistische Region Braunschweig,insgesamt,zeitlich unbefristet,Prozent,RH031,57.3312855723191
-2013,Hannover  Region,männlich,zeitlich unbefristet,Prozent,RH03241,68.373804267844
-2013,Hannover  Region,weiblich,zeitlich unbefristet,Prozent,RH03241,65.6905532873434
-2013,Hannover  Region,insgesamt,zeitlich unbefristet,Prozent,RH03241,67.0024463951648
+2013,Region Hannover,männlich,zeitlich unbefristet,Prozent,RH03241,68.373804267844
+2013,Region Hannover,weiblich,zeitlich unbefristet,Prozent,RH03241,65.6905532873434
+2013,Region Hannover,insgesamt,zeitlich unbefristet,Prozent,RH03241,67.0024463951648
 2013,Diepholz,männlich,zeitlich unbefristet,Prozent,RH03251,61.3861386138614
 2013,Diepholz,weiblich,zeitlich unbefristet,Prozent,RH03251,61.3445378151261
 2013,Diepholz,insgesamt,zeitlich unbefristet,Prozent,RH03251,61.3196814562002
@@ -4895,12 +5345,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2013,"Delmenhorst, Stadt",männlich,zeitlich unbefristet,Prozent,RH03401,70.96018735363
 2013,"Delmenhorst, Stadt",weiblich,zeitlich unbefristet,Prozent,RH03401,66.8235294117647
 2013,"Delmenhorst, Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03401,68.8967136150235
-2013,Emden  Stadt,männlich,zeitlich unbefristet,Prozent,RH03402,45.9677419354839
-2013,Emden  Stadt,weiblich,zeitlich unbefristet,Prozent,RH03402,51.2820512820513
-2013,Emden  Stadt,insgesamt,zeitlich unbefristet,Prozent,RH03402,48.5477178423237
-2013,"Oldenburg(Oldb), Stadt",männlich,zeitlich unbefristet,Prozent,RH03403,58.3904109589041
-2013,"Oldenburg(Oldb), Stadt",weiblich,zeitlich unbefristet,Prozent,RH03403,53.7828947368421
-2013,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03403,56.0873215785055
+2013,"Emden, Stadt",männlich,zeitlich unbefristet,Prozent,RH03402,45.9677419354839
+2013,"Emden, Stadt",weiblich,zeitlich unbefristet,Prozent,RH03402,51.2820512820513
+2013,"Emden, Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03402,48.5477178423237
+2013,"Oldenburg (Oldb), Stadt",männlich,zeitlich unbefristet,Prozent,RH03403,58.3904109589041
+2013,"Oldenburg (Oldb), Stadt",weiblich,zeitlich unbefristet,Prozent,RH03403,53.7828947368421
+2013,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03403,56.0873215785055
 2013,"Osnabrück, Stadt",männlich,zeitlich unbefristet,Prozent,RH03404,68.1125439624853
 2013,"Osnabrück, Stadt",weiblich,zeitlich unbefristet,Prozent,RH03404,61.5735461801596
 2013,"Osnabrück, Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03404,64.7976878612717
@@ -4982,9 +5432,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2012,Statistische Region Braunschweig,männlich,zeitlich unbefristet,Prozent,RH031,58.656853725851
 2012,Statistische Region Braunschweig,weiblich,zeitlich unbefristet,Prozent,RH031,58.3050847457627
 2012,Statistische Region Braunschweig,insgesamt,zeitlich unbefristet,Prozent,RH031,58.4639072547776
-2012,Hannover  Region,männlich,zeitlich unbefristet,Prozent,RH03241,68.8676513176948
-2012,Hannover  Region,weiblich,zeitlich unbefristet,Prozent,RH03241,66.1236424394319
-2012,Hannover  Region,insgesamt,zeitlich unbefristet,Prozent,RH03241,67.4687677455991
+2012,Region Hannover,männlich,zeitlich unbefristet,Prozent,RH03241,68.8676513176948
+2012,Region Hannover,weiblich,zeitlich unbefristet,Prozent,RH03241,66.1236424394319
+2012,Region Hannover,insgesamt,zeitlich unbefristet,Prozent,RH03241,67.4687677455991
 2012,Diepholz,männlich,zeitlich unbefristet,Prozent,RH03251,62.25
 2012,Diepholz,weiblich,zeitlich unbefristet,Prozent,RH03251,59.447983014862
 2012,Diepholz,insgesamt,zeitlich unbefristet,Prozent,RH03251,60.849598163031
@@ -5045,12 +5495,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2012,"Delmenhorst, Stadt",männlich,zeitlich unbefristet,Prozent,RH03401,70.5882352941177
 2012,"Delmenhorst, Stadt",weiblich,zeitlich unbefristet,Prozent,RH03401,66.7441860465116
 2012,"Delmenhorst, Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03401,68.6549707602339
-2012,Emden  Stadt,männlich,zeitlich unbefristet,Prozent,RH03402,51.1811023622047
-2012,Emden  Stadt,weiblich,zeitlich unbefristet,Prozent,RH03402,53.0434782608696
-2012,Emden  Stadt,insgesamt,zeitlich unbefristet,Prozent,RH03402,52.0661157024793
-2012,"Oldenburg(Oldb), Stadt",männlich,zeitlich unbefristet,Prozent,RH03403,59.8627787307033
-2012,"Oldenburg(Oldb), Stadt",weiblich,zeitlich unbefristet,Prozent,RH03403,53.3003300330033
-2012,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03403,56.5180824222035
+2012,"Emden, Stadt",männlich,zeitlich unbefristet,Prozent,RH03402,51.1811023622047
+2012,"Emden, Stadt",weiblich,zeitlich unbefristet,Prozent,RH03402,53.0434782608696
+2012,"Emden, Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03402,52.0661157024793
+2012,"Oldenburg (Oldb), Stadt",männlich,zeitlich unbefristet,Prozent,RH03403,59.8627787307033
+2012,"Oldenburg (Oldb), Stadt",weiblich,zeitlich unbefristet,Prozent,RH03403,53.3003300330033
+2012,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03403,56.5180824222035
 2012,"Osnabrück, Stadt",männlich,zeitlich unbefristet,Prozent,RH03404,68.7645687645688
 2012,"Osnabrück, Stadt",weiblich,zeitlich unbefristet,Prozent,RH03404,61.4093959731544
 2012,"Osnabrück, Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03404,65.0114155251142
@@ -5132,9 +5582,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2011,Statistische Region Braunschweig,männlich,zeitlich unbefristet,Prozent,RH031,59.2767890950398
 2011,Statistische Region Braunschweig,weiblich,zeitlich unbefristet,Prozent,RH031,57.9379562043796
 2011,Statistische Region Braunschweig,insgesamt,zeitlich unbefristet,Prozent,RH031,58.5857647277458
-2011,Hannover  Region,männlich,zeitlich unbefristet,Prozent,RH03241,68.4187472623741
-2011,Hannover  Region,weiblich,zeitlich unbefristet,Prozent,RH03241,65.0951315053162
-2011,Hannover  Region,insgesamt,zeitlich unbefristet,Prozent,RH03241,66.7285846967207
+2011,Region Hannover,männlich,zeitlich unbefristet,Prozent,RH03241,68.4187472623741
+2011,Region Hannover,weiblich,zeitlich unbefristet,Prozent,RH03241,65.0951315053162
+2011,Region Hannover,insgesamt,zeitlich unbefristet,Prozent,RH03241,66.7285846967207
 2011,Diepholz,männlich,zeitlich unbefristet,Prozent,RH03251,62.3076923076923
 2011,Diepholz,weiblich,zeitlich unbefristet,Prozent,RH03251,60.1293103448276
 2011,Diepholz,insgesamt,zeitlich unbefristet,Prozent,RH03251,61.0526315789474
@@ -5195,12 +5645,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2011,"Delmenhorst, Stadt",männlich,zeitlich unbefristet,Prozent,RH03401,70.2325581395349
 2011,"Delmenhorst, Stadt",weiblich,zeitlich unbefristet,Prozent,RH03401,66.3551401869159
 2011,"Delmenhorst, Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03401,68.4149184149184
-2011,Emden  Stadt,männlich,zeitlich unbefristet,Prozent,RH03402,51.6666666666667
-2011,Emden  Stadt,weiblich,zeitlich unbefristet,Prozent,RH03402,52.2522522522522
-2011,Emden  Stadt,insgesamt,zeitlich unbefristet,Prozent,RH03402,51.5151515151515
-2011,"Oldenburg(Oldb), Stadt",männlich,zeitlich unbefristet,Prozent,RH03403,57.1681415929204
-2011,"Oldenburg(Oldb), Stadt",weiblich,zeitlich unbefristet,Prozent,RH03403,54.0869565217391
-2011,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03403,55.6140350877193
+2011,"Emden, Stadt",männlich,zeitlich unbefristet,Prozent,RH03402,51.6666666666667
+2011,"Emden, Stadt",weiblich,zeitlich unbefristet,Prozent,RH03402,52.2522522522522
+2011,"Emden, Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03402,51.5151515151515
+2011,"Oldenburg (Oldb), Stadt",männlich,zeitlich unbefristet,Prozent,RH03403,57.1681415929204
+2011,"Oldenburg (Oldb), Stadt",weiblich,zeitlich unbefristet,Prozent,RH03403,54.0869565217391
+2011,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03403,55.6140350877193
 2011,"Osnabrück, Stadt",männlich,zeitlich unbefristet,Prozent,RH03404,69.2307692307692
 2011,"Osnabrück, Stadt",weiblich,zeitlich unbefristet,Prozent,RH03404,62.1436716077537
 2011,"Osnabrück, Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03404,65.6213704994193
@@ -5282,9 +5732,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2010,Statistische Region Braunschweig,männlich,zeitlich unbefristet,Prozent,RH031,57.3779585798817
 2010,Statistische Region Braunschweig,weiblich,zeitlich unbefristet,Prozent,RH031,55.9718969555035
 2010,Statistische Region Braunschweig,insgesamt,zeitlich unbefristet,Prozent,RH031,56.665754174651
-2010,Hannover  Region,männlich,zeitlich unbefristet,Prozent,RH03241,66.7380748357612
-2010,Hannover  Region,weiblich,zeitlich unbefristet,Prozent,RH03241,63.4004968258349
-2010,Hannover  Region,insgesamt,zeitlich unbefristet,Prozent,RH03241,65.0407074677148
+2010,Region Hannover,männlich,zeitlich unbefristet,Prozent,RH03241,66.7380748357612
+2010,Region Hannover,weiblich,zeitlich unbefristet,Prozent,RH03241,63.4004968258349
+2010,Region Hannover,insgesamt,zeitlich unbefristet,Prozent,RH03241,65.0407074677148
 2010,Diepholz,männlich,zeitlich unbefristet,Prozent,RH03251,57.957244655582
 2010,Diepholz,weiblich,zeitlich unbefristet,Prozent,RH03251,56.5843621399177
 2010,Diepholz,insgesamt,zeitlich unbefristet,Prozent,RH03251,57.2216097023153
@@ -5345,12 +5795,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2010,"Delmenhorst, Stadt",männlich,zeitlich unbefristet,Prozent,RH03401,68.8636363636364
 2010,"Delmenhorst, Stadt",weiblich,zeitlich unbefristet,Prozent,RH03401,65.0
 2010,"Delmenhorst, Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03401,66.9318181818182
-2010,Emden  Stadt,männlich,zeitlich unbefristet,Prozent,RH03402,48.8
-2010,Emden  Stadt,weiblich,zeitlich unbefristet,Prozent,RH03402,49.1379310344828
-2010,Emden  Stadt,insgesamt,zeitlich unbefristet,Prozent,RH03402,48.9626556016597
-2010,"Oldenburg(Oldb), Stadt",männlich,zeitlich unbefristet,Prozent,RH03403,54.3252595155709
-2010,"Oldenburg(Oldb), Stadt",weiblich,zeitlich unbefristet,Prozent,RH03403,51.5570934256055
-2010,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03403,52.987012987013
+2010,"Emden, Stadt",männlich,zeitlich unbefristet,Prozent,RH03402,48.8
+2010,"Emden, Stadt",weiblich,zeitlich unbefristet,Prozent,RH03402,49.1379310344828
+2010,"Emden, Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03402,48.9626556016597
+2010,"Oldenburg (Oldb), Stadt",männlich,zeitlich unbefristet,Prozent,RH03403,54.3252595155709
+2010,"Oldenburg (Oldb), Stadt",weiblich,zeitlich unbefristet,Prozent,RH03403,51.5570934256055
+2010,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03403,52.987012987013
 2010,"Osnabrück, Stadt",männlich,zeitlich unbefristet,Prozent,RH03404,66.7824074074074
 2010,"Osnabrück, Stadt",weiblich,zeitlich unbefristet,Prozent,RH03404,60.4284103720406
 2010,"Osnabrück, Stadt",insgesamt,zeitlich unbefristet,Prozent,RH03404,63.5636778983438
@@ -5399,6 +5849,156 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2010,Niedersachsen,männlich,zeitlich unbefristet,Prozent,RH030,60.8662089139885
 2010,Niedersachsen,weiblich,zeitlich unbefristet,Prozent,RH030,58.6180184367496
 2010,Niedersachsen,insgesamt,zeitlich unbefristet,Prozent,RH030,59.7132715988182
+2022,"Braunschweig, Stadt",männlich,zeitlich befristet,Prozent,RH03101,55.9313478041393
+2022,"Braunschweig, Stadt",weiblich,zeitlich befristet,Prozent,RH03101,57.2154471544715
+2022,"Braunschweig, Stadt",insgesamt,zeitlich befristet,Prozent,RH03101,56.571283869334
+2022,"Salzgitter, Stadt",männlich,zeitlich befristet,Prozent,RH03102,60.9103078982597
+2022,"Salzgitter, Stadt",weiblich,zeitlich befristet,Prozent,RH03102,62.0165745856354
+2022,"Salzgitter, Stadt",insgesamt,zeitlich befristet,Prozent,RH03102,61.4547926580557
+2022,"Wolfsburg, Stadt",männlich,zeitlich befristet,Prozent,RH03103,73.5800344234079
+2022,"Wolfsburg, Stadt",weiblich,zeitlich befristet,Prozent,RH03103,74.2251223491028
+2022,"Wolfsburg, Stadt",insgesamt,zeitlich befristet,Prozent,RH03103,73.9112227805695
+2022,Gifhorn,männlich,zeitlich befristet,Prozent,RH03151,62.1233859397418
+2022,Gifhorn,weiblich,zeitlich befristet,Prozent,RH03151,63.4207240948814
+2022,Gifhorn,insgesamt,zeitlich befristet,Prozent,RH03151,62.8170894526035
+2022,Goslar,männlich,zeitlich befristet,Prozent,RH03153,74.2800397219464
+2022,Goslar,weiblich,zeitlich befristet,Prozent,RH03153,73.0192719486081
+2022,Goslar,insgesamt,zeitlich befristet,Prozent,RH03153,73.6733642452344
+2022,Helmstedt,männlich,zeitlich befristet,Prozent,RH03154,63.4271099744246
+2022,Helmstedt,weiblich,zeitlich befristet,Prozent,RH03154,66.4414414414414
+2022,Helmstedt,insgesamt,zeitlich befristet,Prozent,RH03154,65.0299401197605
+2022,Northeim,männlich,zeitlich befristet,Prozent,RH03155,69.0740740740741
+2022,Northeim,weiblich,zeitlich befristet,Prozent,RH03155,72.258064516129
+2022,Northeim,insgesamt,zeitlich befristet,Prozent,RH03155,70.8620689655172
+2022,Peine,männlich,zeitlich befristet,Prozent,RH03157,65.8109684947491
+2022,Peine,weiblich,zeitlich befristet,Prozent,RH03157,68.7096774193548
+2022,Peine,insgesamt,zeitlich befristet,Prozent,RH03157,67.3572228443449
+2022,Wolfenbüttel,männlich,zeitlich befristet,Prozent,RH03158,72.0
+2022,Wolfenbüttel,weiblich,zeitlich befristet,Prozent,RH03158,70.7993474714519
+2022,Wolfenbüttel,insgesamt,zeitlich befristet,Prozent,RH03158,71.4285714285714
+2022,Göttingen,männlich,zeitlich befristet,Prozent,RH03159,68.4733963202387
+2022,Göttingen,weiblich,zeitlich befristet,Prozent,RH03159,70.0683371298406
+2022,Göttingen,insgesamt,zeitlich befristet,Prozent,RH03159,69.3057536852116
+2022,Statistische Region Braunschweig,männlich,zeitlich befristet,Prozent,RH031,65.6127221702526
+2022,Statistische Region Braunschweig,weiblich,zeitlich befristet,Prozent,RH031,66.9141988011094
+2022,Statistische Region Braunschweig,insgesamt,zeitlich befristet,Prozent,RH031,66.2703493689409
+2022,Region Hannover,männlich,zeitlich befristet,Prozent,RH03241,56.3733058843712
+2022,Region Hannover,weiblich,zeitlich befristet,Prozent,RH03241,57.6242485818305
+2022,Region Hannover,insgesamt,zeitlich befristet,Prozent,RH03241,57.0071157697388
+2022,Diepholz,männlich,zeitlich befristet,Prozent,RH03251,67.7196446199408
+2022,Diepholz,weiblich,zeitlich befristet,Prozent,RH03251,69.5
+2022,Diepholz,insgesamt,zeitlich befristet,Prozent,RH03251,68.730230456394
+2022,Hameln-Pyrmont,männlich,zeitlich befristet,Prozent,RH03252,60.9756097560976
+2022,Hameln-Pyrmont,weiblich,zeitlich befristet,Prozent,RH03252,64.9579188982402
+2022,Hameln-Pyrmont,insgesamt,zeitlich befristet,Prozent,RH03252,63.0417651694248
+2022,Hildesheim,männlich,zeitlich befristet,Prozent,RH03254,67.4937965260546
+2022,Hildesheim,weiblich,zeitlich befristet,Prozent,RH03254,68.0507497116494
+2022,Hildesheim,insgesamt,zeitlich befristet,Prozent,RH03254,67.7824267782427
+2022,Holzminden,männlich,zeitlich befristet,Prozent,RH03255,59.6446700507614
+2022,Holzminden,weiblich,zeitlich befristet,Prozent,RH03255,64.1330166270784
+2022,Holzminden,insgesamt,zeitlich befristet,Prozent,RH03255,61.9631901840491
+2022,Nienburg (Weser),männlich,zeitlich befristet,Prozent,RH03256,71.1278195488722
+2022,Nienburg (Weser),weiblich,zeitlich befristet,Prozent,RH03256,72.4598930481284
+2022,Nienburg (Weser),insgesamt,zeitlich befristet,Prozent,RH03256,71.9037508846426
+2022,Schaumburg,männlich,zeitlich befristet,Prozent,RH03257,62.4429223744292
+2022,Schaumburg,weiblich,zeitlich befristet,Prozent,RH03257,65.4488517745303
+2022,Schaumburg,insgesamt,zeitlich befristet,Prozent,RH03257,64.0130861504907
+2022,Statistische Region Hannover,männlich,zeitlich befristet,Prozent,RH032,59.3329130609204
+2022,Statistische Region Hannover,weiblich,zeitlich befristet,Prozent,RH032,61.1056105610561
+2022,Statistische Region Hannover,insgesamt,zeitlich befristet,Prozent,RH032,60.2391377568205
+2022,Celle,männlich,zeitlich befristet,Prozent,RH03351,73.7193763919822
+2022,Celle,weiblich,zeitlich befristet,Prozent,RH03351,74.1650294695481
+2022,Celle,insgesamt,zeitlich befristet,Prozent,RH03351,73.9561586638831
+2022,Cuxhaven,männlich,zeitlich befristet,Prozent,RH03352,73.371104815864
+2022,Cuxhaven,weiblich,zeitlich befristet,Prozent,RH03352,71.259842519685
+2022,Cuxhaven,insgesamt,zeitlich befristet,Prozent,RH03352,72.275204359673
+2022,Harburg,männlich,zeitlich befristet,Prozent,RH03353,55.2685950413223
+2022,Harburg,weiblich,zeitlich befristet,Prozent,RH03353,53.4685165421558
+2022,Harburg,insgesamt,zeitlich befristet,Prozent,RH03353,54.3832020997375
+2022,Lüchow-Dannenberg,männlich,zeitlich befristet,Prozent,RH03354,77.6315789473684
+2022,Lüchow-Dannenberg,weiblich,zeitlich befristet,Prozent,RH03354,78.494623655914
+2022,Lüchow-Dannenberg,insgesamt,zeitlich befristet,Prozent,RH03354,77.810650887574
+2022,Lüneburg,männlich,zeitlich befristet,Prozent,RH03355,75.750300120048
+2022,Lüneburg,weiblich,zeitlich befristet,Prozent,RH03355,75.0
+2022,Lüneburg,insgesamt,zeitlich befristet,Prozent,RH03355,75.3631609529343
+2022,Osterholz,männlich,zeitlich befristet,Prozent,RH03356,68.8588007736944
+2022,Osterholz,weiblich,zeitlich befristet,Prozent,RH03356,71.3087248322148
+2022,Osterholz,insgesamt,zeitlich befristet,Prozent,RH03356,70.0808625336927
+2022,Rotenburg (Wümme),männlich,zeitlich befristet,Prozent,RH03357,69.9088145896657
+2022,Rotenburg (Wümme),weiblich,zeitlich befristet,Prozent,RH03357,68.9703808180536
+2022,Rotenburg (Wümme),insgesamt,zeitlich befristet,Prozent,RH03357,69.4220921726408
+2022,Heidekreis,männlich,zeitlich befristet,Prozent,RH03358,65.9356725146199
+2022,Heidekreis,weiblich,zeitlich befristet,Prozent,RH03358,70.3022339027595
+2022,Heidekreis,insgesamt,zeitlich befristet,Prozent,RH03358,68.2352941176471
+2022,Stade,männlich,zeitlich befristet,Prozent,RH03359,73.6413043478261
+2022,Stade,weiblich,zeitlich befristet,Prozent,RH03359,74.1197183098592
+2022,Stade,insgesamt,zeitlich befristet,Prozent,RH03359,73.8839285714286
+2022,Uelzen,männlich,zeitlich befristet,Prozent,RH03360,74.2627345844504
+2022,Uelzen,weiblich,zeitlich befristet,Prozent,RH03360,76.2863534675615
+2022,Uelzen,insgesamt,zeitlich befristet,Prozent,RH03360,75.3658536585366
+2022,Verden,männlich,zeitlich befristet,Prozent,RH03361,62.3588456712672
+2022,Verden,weiblich,zeitlich befristet,Prozent,RH03361,64.7699757869249
+2022,Verden,insgesamt,zeitlich befristet,Prozent,RH03361,63.5859519408503
+2022,Statistische Region Lüneburg,männlich,zeitlich befristet,Prozent,RH033,69.1547464239272
+2022,Statistische Region Lüneburg,weiblich,zeitlich befristet,Prozent,RH033,69.8887007016695
+2022,Statistische Region Lüneburg,insgesamt,zeitlich befristet,Prozent,RH033,69.5349711707195
+2022,"Delmenhorst, Stadt",männlich,zeitlich befristet,Prozent,RH03401,58.3434835566382
+2022,"Delmenhorst, Stadt",weiblich,zeitlich befristet,Prozent,RH03401,62.9761904761905
+2022,"Delmenhorst, Stadt",insgesamt,zeitlich befristet,Prozent,RH03401,60.6863335340157
+2022,"Emden, Stadt",männlich,zeitlich befristet,Prozent,RH03402,81.994459833795
+2022,"Emden, Stadt",weiblich,zeitlich befristet,Prozent,RH03402,81.651376146789
+2022,"Emden, Stadt",insgesamt,zeitlich befristet,Prozent,RH03402,81.9505094614265
+2022,"Oldenburg (Oldb), Stadt",männlich,zeitlich befristet,Prozent,RH03403,69.5787831513261
+2022,"Oldenburg (Oldb), Stadt",weiblich,zeitlich befristet,Prozent,RH03403,72.6315789473684
+2022,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich befristet,Prozent,RH03403,71.1332312404288
+2022,"Osnabrück, Stadt",männlich,zeitlich befristet,Prozent,RH03404,61.3046231792274
+2022,"Osnabrück, Stadt",weiblich,zeitlich befristet,Prozent,RH03404,65.4680719156851
+2022,"Osnabrück, Stadt",insgesamt,zeitlich befristet,Prozent,RH03404,63.3886626996555
+2022,"Wilhelmshaven, Stadt",männlich,zeitlich befristet,Prozent,RH03405,80.6228373702422
+2022,"Wilhelmshaven, Stadt",weiblich,zeitlich befristet,Prozent,RH03405,80.4159445407279
+2022,"Wilhelmshaven, Stadt",insgesamt,zeitlich befristet,Prozent,RH03405,80.5194805194805
+2022,Ammerland,männlich,zeitlich befristet,Prozent,RH03451,68.3972911963883
+2022,Ammerland,weiblich,zeitlich befristet,Prozent,RH03451,71.7213114754098
+2022,Ammerland,insgesamt,zeitlich befristet,Prozent,RH03451,70.1396348012889
+2022,Aurich,männlich,zeitlich befristet,Prozent,RH03452,75.9493670886076
+2022,Aurich,weiblich,zeitlich befristet,Prozent,RH03452,76.5765765765766
+2022,Aurich,insgesamt,zeitlich befristet,Prozent,RH03452,76.2635379061372
+2022,Cloppenburg,männlich,zeitlich befristet,Prozent,RH03453,69.0909090909091
+2022,Cloppenburg,weiblich,zeitlich befristet,Prozent,RH03453,71.6035634743875
+2022,Cloppenburg,insgesamt,zeitlich befristet,Prozent,RH03453,70.4176334106728
+2022,Emsland,männlich,zeitlich befristet,Prozent,RH03454,72.2306525037936
+2022,Emsland,weiblich,zeitlich befristet,Prozent,RH03454,72.4749421742483
+2022,Emsland,insgesamt,zeitlich befristet,Prozent,RH03454,72.3900573613767
+2022,Friesland,männlich,zeitlich befristet,Prozent,RH03455,76.7272727272727
+2022,Friesland,weiblich,zeitlich befristet,Prozent,RH03455,75.593220338983
+2022,Friesland,insgesamt,zeitlich befristet,Prozent,RH03455,76.0070052539404
+2022,Grafschaft Bentheim,männlich,zeitlich befristet,Prozent,RH03456,67.8726483357453
+2022,Grafschaft Bentheim,weiblich,zeitlich befristet,Prozent,RH03456,69.1390728476821
+2022,Grafschaft Bentheim,insgesamt,zeitlich befristet,Prozent,RH03456,68.5338865836791
+2022,Leer,männlich,zeitlich befristet,Prozent,RH03457,75.9316770186335
+2022,Leer,weiblich,zeitlich befristet,Prozent,RH03457,76.9817073170732
+2022,Leer,insgesamt,zeitlich befristet,Prozent,RH03457,76.5204003079292
+2022,Oldenburg,männlich,zeitlich befristet,Prozent,RH03458,71.0982658959538
+2022,Oldenburg,weiblich,zeitlich befristet,Prozent,RH03458,73.8175675675676
+2022,Oldenburg,insgesamt,zeitlich befristet,Prozent,RH03458,72.6126126126126
+2022,Osnabrück,männlich,zeitlich befristet,Prozent,RH03459,58.3454281567489
+2022,Osnabrück,weiblich,zeitlich befristet,Prozent,RH03459,62.2208811104406
+2022,Osnabrück,insgesamt,zeitlich befristet,Prozent,RH03459,60.4612850082372
+2022,Vechta,männlich,zeitlich befristet,Prozent,RH03460,64.4833948339483
+2022,Vechta,weiblich,zeitlich befristet,Prozent,RH03460,68.3277027027027
+2022,Vechta,insgesamt,zeitlich befristet,Prozent,RH03460,66.519629466255
+2022,Wesermarsch,männlich,zeitlich befristet,Prozent,RH03461,62.2159090909091
+2022,Wesermarsch,weiblich,zeitlich befristet,Prozent,RH03461,60.427807486631
+2022,Wesermarsch,insgesamt,zeitlich befristet,Prozent,RH03461,61.3793103448276
+2022,Wittmund,männlich,zeitlich befristet,Prozent,RH03462,78.7234042553192
+2022,Wittmund,weiblich,zeitlich befristet,Prozent,RH03462,83.2558139534884
+2022,Wittmund,insgesamt,zeitlich befristet,Prozent,RH03462,81.1414392059553
+2022,Statistische Region Weser-Ems,männlich,zeitlich befristet,Prozent,RH034,67.9208688906129
+2022,Statistische Region Weser-Ems,weiblich,zeitlich befristet,Prozent,RH034,70.116457921336
+2022,Statistische Region Weser-Ems,insgesamt,zeitlich befristet,Prozent,RH034,69.0502203970915
+2022,Niedersachsen,männlich,zeitlich befristet,Prozent,RH030,64.5333442804655
+2022,Niedersachsen,weiblich,zeitlich befristet,Prozent,RH030,66.1849598252594
+2022,Niedersachsen,insgesamt,zeitlich befristet,Prozent,RH030,65.3802690134507
 2021,"Braunschweig, Stadt",männlich,zeitlich befristet,Prozent,RH03101,50.6172839506173
 2021,"Braunschweig, Stadt",weiblich,zeitlich befristet,Prozent,RH03101,48.4256926952141
 2021,"Braunschweig, Stadt",insgesamt,zeitlich befristet,Prozent,RH03101,49.5591365156583
@@ -5432,9 +6032,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2021,Statistische Region Braunschweig,männlich,zeitlich befristet,Prozent,RH031,60.1700604162005
 2021,Statistische Region Braunschweig,weiblich,zeitlich befristet,Prozent,RH031,58.1030879962851
 2021,Statistische Region Braunschweig,insgesamt,zeitlich befristet,Prozent,RH031,59.1556517775752
-2021,Hannover  Region,männlich,zeitlich befristet,Prozent,RH03241,52.8776290630975
-2021,Hannover  Region,weiblich,zeitlich befristet,Prozent,RH03241,50.7587177168124
-2021,Hannover  Region,insgesamt,zeitlich befristet,Prozent,RH03241,51.8445936014894
+2021,Region Hannover,männlich,zeitlich befristet,Prozent,RH03241,52.8776290630975
+2021,Region Hannover,weiblich,zeitlich befristet,Prozent,RH03241,50.7587177168124
+2021,Region Hannover,insgesamt,zeitlich befristet,Prozent,RH03241,51.8445936014894
 2021,Diepholz,männlich,zeitlich befristet,Prozent,RH03251,60.6435643564356
 2021,Diepholz,weiblich,zeitlich befristet,Prozent,RH03251,58.4216725559482
 2021,Diepholz,insgesamt,zeitlich befristet,Prozent,RH03251,59.5654797827399
@@ -5495,12 +6095,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2021,"Delmenhorst, Stadt",männlich,zeitlich befristet,Prozent,RH03401,55.421686746988
 2021,"Delmenhorst, Stadt",weiblich,zeitlich befristet,Prozent,RH03401,57.8059071729958
 2021,"Delmenhorst, Stadt",insgesamt,zeitlich befristet,Prozent,RH03401,56.614119259767
-2021,Emden  Stadt,männlich,zeitlich befristet,Prozent,RH03402,79.6610169491525
-2021,Emden  Stadt,weiblich,zeitlich befristet,Prozent,RH03402,74.3243243243243
-2021,Emden  Stadt,insgesamt,zeitlich befristet,Prozent,RH03402,77.3694390715667
-2021,"Oldenburg(Oldb), Stadt",männlich,zeitlich befristet,Prozent,RH03403,68.5689948892675
-2021,"Oldenburg(Oldb), Stadt",weiblich,zeitlich befristet,Prozent,RH03403,69.3051890941073
-2021,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich befristet,Prozent,RH03403,68.931198615318
+2021,"Emden, Stadt",männlich,zeitlich befristet,Prozent,RH03402,79.6610169491525
+2021,"Emden, Stadt",weiblich,zeitlich befristet,Prozent,RH03402,74.3243243243243
+2021,"Emden, Stadt",insgesamt,zeitlich befristet,Prozent,RH03402,77.3694390715667
+2021,"Oldenburg (Oldb), Stadt",männlich,zeitlich befristet,Prozent,RH03403,68.5689948892675
+2021,"Oldenburg (Oldb), Stadt",weiblich,zeitlich befristet,Prozent,RH03403,69.3051890941073
+2021,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich befristet,Prozent,RH03403,68.931198615318
 2021,"Osnabrück, Stadt",männlich,zeitlich befristet,Prozent,RH03404,56.0795873249816
 2021,"Osnabrück, Stadt",weiblich,zeitlich befristet,Prozent,RH03404,56.4867042707494
 2021,"Osnabrück, Stadt",insgesamt,zeitlich befristet,Prozent,RH03404,56.2524047710658
@@ -5582,9 +6182,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2020,Statistische Region Braunschweig,männlich,zeitlich befristet,Prozent,RH031,61.4341085271318
 2020,Statistische Region Braunschweig,weiblich,zeitlich befristet,Prozent,RH031,57.6088259983211
 2020,Statistische Region Braunschweig,insgesamt,zeitlich befristet,Prozent,RH031,59.5757115305944
-2020,Hannover  Region,männlich,zeitlich befristet,Prozent,RH03241,53.7992449908044
-2020,Hannover  Region,weiblich,zeitlich befristet,Prozent,RH03241,50.4752171691364
-2020,Hannover  Region,insgesamt,zeitlich befristet,Prozent,RH03241,52.1873135812289
+2020,Region Hannover,männlich,zeitlich befristet,Prozent,RH03241,53.7992449908044
+2020,Region Hannover,weiblich,zeitlich befristet,Prozent,RH03241,50.4752171691364
+2020,Region Hannover,insgesamt,zeitlich befristet,Prozent,RH03241,52.1873135812289
 2020,Diepholz,männlich,zeitlich befristet,Prozent,RH03251,63.4615384615385
 2020,Diepholz,weiblich,zeitlich befristet,Prozent,RH03251,59.0909090909091
 2020,Diepholz,insgesamt,zeitlich befristet,Prozent,RH03251,61.1912225705329
@@ -5645,12 +6245,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2020,"Delmenhorst, Stadt",männlich,zeitlich befristet,Prozent,RH03401,55.8011049723757
 2020,"Delmenhorst, Stadt",weiblich,zeitlich befristet,Prozent,RH03401,57.245337159254
 2020,"Delmenhorst, Stadt",insgesamt,zeitlich befristet,Prozent,RH03401,56.5095003518649
-2020,Emden  Stadt,männlich,zeitlich befristet,Prozent,RH03402,79.3478260869565
-2020,Emden  Stadt,weiblich,zeitlich befristet,Prozent,RH03402,73.5576923076923
-2020,Emden  Stadt,insgesamt,zeitlich befristet,Prozent,RH03402,76.8595041322314
-2020,"Oldenburg(Oldb), Stadt",männlich,zeitlich befristet,Prozent,RH03403,69.3877551020408
-2020,"Oldenburg(Oldb), Stadt",weiblich,zeitlich befristet,Prozent,RH03403,68.8132474701012
-2020,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich befristet,Prozent,RH03403,69.1056910569106
+2020,"Emden, Stadt",männlich,zeitlich befristet,Prozent,RH03402,79.3478260869565
+2020,"Emden, Stadt",weiblich,zeitlich befristet,Prozent,RH03402,73.5576923076923
+2020,"Emden, Stadt",insgesamt,zeitlich befristet,Prozent,RH03402,76.8595041322314
+2020,"Oldenburg (Oldb), Stadt",männlich,zeitlich befristet,Prozent,RH03403,69.3877551020408
+2020,"Oldenburg (Oldb), Stadt",weiblich,zeitlich befristet,Prozent,RH03403,68.8132474701012
+2020,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich befristet,Prozent,RH03403,69.1056910569106
 2020,"Osnabrück, Stadt",männlich,zeitlich befristet,Prozent,RH03404,57.1317829457364
 2020,"Osnabrück, Stadt",weiblich,zeitlich befristet,Prozent,RH03404,54.1450777202073
 2020,"Osnabrück, Stadt",insgesamt,zeitlich befristet,Prozent,RH03404,55.718954248366
@@ -5732,9 +6332,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2019,Statistische Region Braunschweig,männlich,zeitlich befristet,Prozent,RH031,62.3554749489912
 2019,Statistische Region Braunschweig,weiblich,zeitlich befristet,Prozent,RH031,57.942802211007
 2019,Statistische Region Braunschweig,insgesamt,zeitlich befristet,Prozent,RH031,60.2134857676155
-2019,Hannover  Region,männlich,zeitlich befristet,Prozent,RH03241,52.7286851815887
-2019,Hannover  Region,weiblich,zeitlich befristet,Prozent,RH03241,49.0466865917757
-2019,Hannover  Region,insgesamt,zeitlich befristet,Prozent,RH03241,50.9424528773561
+2019,Region Hannover,männlich,zeitlich befristet,Prozent,RH03241,52.7286851815887
+2019,Region Hannover,weiblich,zeitlich befristet,Prozent,RH03241,49.0466865917757
+2019,Region Hannover,insgesamt,zeitlich befristet,Prozent,RH03241,50.9424528773561
 2019,Diepholz,männlich,zeitlich befristet,Prozent,RH03251,63.2138114209827
 2019,Diepholz,weiblich,zeitlich befristet,Prozent,RH03251,58.6599241466498
 2019,Diepholz,insgesamt,zeitlich befristet,Prozent,RH03251,60.8414239482201
@@ -5795,12 +6395,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2019,"Delmenhorst, Stadt",männlich,zeitlich befristet,Prozent,RH03401,56.5880721220527
 2019,"Delmenhorst, Stadt",weiblich,zeitlich befristet,Prozent,RH03401,56.0761346998536
 2019,"Delmenhorst, Stadt",insgesamt,zeitlich befristet,Prozent,RH03401,56.2989323843416
-2019,Emden  Stadt,männlich,zeitlich befristet,Prozent,RH03402,79.8634812286689
-2019,Emden  Stadt,weiblich,zeitlich befristet,Prozent,RH03402,72.5581395348837
-2019,Emden  Stadt,insgesamt,zeitlich befristet,Prozent,RH03402,76.7716535433071
-2019,"Oldenburg(Oldb), Stadt",männlich,zeitlich befristet,Prozent,RH03403,68.7037037037037
-2019,"Oldenburg(Oldb), Stadt",weiblich,zeitlich befristet,Prozent,RH03403,67.1166827386692
-2019,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich befristet,Prozent,RH03403,67.8942398489141
+2019,"Emden, Stadt",männlich,zeitlich befristet,Prozent,RH03402,79.8634812286689
+2019,"Emden, Stadt",weiblich,zeitlich befristet,Prozent,RH03402,72.5581395348837
+2019,"Emden, Stadt",insgesamt,zeitlich befristet,Prozent,RH03402,76.7716535433071
+2019,"Oldenburg (Oldb), Stadt",männlich,zeitlich befristet,Prozent,RH03403,68.7037037037037
+2019,"Oldenburg (Oldb), Stadt",weiblich,zeitlich befristet,Prozent,RH03403,67.1166827386692
+2019,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich befristet,Prozent,RH03403,67.8942398489141
 2019,"Osnabrück, Stadt",männlich,zeitlich befristet,Prozent,RH03404,58.5049580472921
 2019,"Osnabrück, Stadt",weiblich,zeitlich befristet,Prozent,RH03404,54.9319727891156
 2019,"Osnabrück, Stadt",insgesamt,zeitlich befristet,Prozent,RH03404,56.8556493767591
@@ -5882,9 +6482,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2018,Statistische Region Braunschweig,männlich,zeitlich befristet,Prozent,RH031,61.0119399456201
 2018,Statistische Region Braunschweig,weiblich,zeitlich befristet,Prozent,RH031,56.1619718309859
 2018,Statistische Region Braunschweig,insgesamt,zeitlich befristet,Prozent,RH031,58.6618731338736
-2018,Hannover  Region,männlich,zeitlich befristet,Prozent,RH03241,50.809654750993
-2018,Hannover  Region,weiblich,zeitlich befristet,Prozent,RH03241,47.0885259991405
-2018,Hannover  Region,insgesamt,zeitlich befristet,Prozent,RH03241,48.9987975113714
+2018,Region Hannover,männlich,zeitlich befristet,Prozent,RH03241,50.809654750993
+2018,Region Hannover,weiblich,zeitlich befristet,Prozent,RH03241,47.0885259991405
+2018,Region Hannover,insgesamt,zeitlich befristet,Prozent,RH03241,48.9987975113714
 2018,Diepholz,männlich,zeitlich befristet,Prozent,RH03251,62.2435020519836
 2018,Diepholz,weiblich,zeitlich befristet,Prozent,RH03251,57.421875
 2018,Diepholz,insgesamt,zeitlich befristet,Prozent,RH03251,59.8398932621748
@@ -5945,12 +6545,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2018,"Delmenhorst, Stadt",männlich,zeitlich befristet,Prozent,RH03401,55.5240793201133
 2018,"Delmenhorst, Stadt",weiblich,zeitlich befristet,Prozent,RH03401,55.0074738415546
 2018,"Delmenhorst, Stadt",insgesamt,zeitlich befristet,Prozent,RH03401,55.2727272727273
-2018,Emden  Stadt,männlich,zeitlich befristet,Prozent,RH03402,77.9411764705882
-2018,Emden  Stadt,weiblich,zeitlich befristet,Prozent,RH03402,70.0980392156863
-2018,Emden  Stadt,insgesamt,zeitlich befristet,Prozent,RH03402,74.4234800838574
-2018,"Oldenburg(Oldb), Stadt",männlich,zeitlich befristet,Prozent,RH03403,66.2756598240469
-2018,"Oldenburg(Oldb), Stadt",weiblich,zeitlich befristet,Prozent,RH03403,64.9845520082389
-2018,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich befristet,Prozent,RH03403,65.6469408224674
+2018,"Emden, Stadt",männlich,zeitlich befristet,Prozent,RH03402,77.9411764705882
+2018,"Emden, Stadt",weiblich,zeitlich befristet,Prozent,RH03402,70.0980392156863
+2018,"Emden, Stadt",insgesamt,zeitlich befristet,Prozent,RH03402,74.4234800838574
+2018,"Oldenburg (Oldb), Stadt",männlich,zeitlich befristet,Prozent,RH03403,66.2756598240469
+2018,"Oldenburg (Oldb), Stadt",weiblich,zeitlich befristet,Prozent,RH03403,64.9845520082389
+2018,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich befristet,Prozent,RH03403,65.6469408224674
 2018,"Osnabrück, Stadt",männlich,zeitlich befristet,Prozent,RH03404,56.1544650040225
 2018,"Osnabrück, Stadt",weiblich,zeitlich befristet,Prozent,RH03404,52.7207850133809
 2018,"Osnabrück, Stadt",insgesamt,zeitlich befristet,Prozent,RH03404,54.5262267343486
@@ -6032,9 +6632,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2017,Statistische Region Braunschweig,männlich,zeitlich befristet,Prozent,RH031,57.9507566042575
 2017,Statistische Region Braunschweig,weiblich,zeitlich befristet,Prozent,RH031,53.3782872555631
 2017,Statistische Region Braunschweig,insgesamt,zeitlich befristet,Prozent,RH031,55.7118443538846
-2017,Hannover  Region,männlich,zeitlich befristet,Prozent,RH03241,47.7573131094258
-2017,Hannover  Region,weiblich,zeitlich befristet,Prozent,RH03241,44.6537333634108
-2017,Hannover  Region,insgesamt,zeitlich befristet,Prozent,RH03241,46.2367374005305
+2017,Region Hannover,männlich,zeitlich befristet,Prozent,RH03241,47.7573131094258
+2017,Region Hannover,weiblich,zeitlich befristet,Prozent,RH03241,44.6537333634108
+2017,Region Hannover,insgesamt,zeitlich befristet,Prozent,RH03241,46.2367374005305
 2017,Diepholz,männlich,zeitlich befristet,Prozent,RH03251,58.6523736600306
 2017,Diepholz,weiblich,zeitlich befristet,Prozent,RH03251,53.3045977011494
 2017,Diepholz,insgesamt,zeitlich befristet,Prozent,RH03251,55.8932542624166
@@ -6095,12 +6695,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2017,"Delmenhorst, Stadt",männlich,zeitlich befristet,Prozent,RH03401,54.3604651162791
 2017,"Delmenhorst, Stadt",weiblich,zeitlich befristet,Prozent,RH03401,53.4668721109399
 2017,"Delmenhorst, Stadt",insgesamt,zeitlich befristet,Prozent,RH03401,53.9267015706806
-2017,Emden  Stadt,männlich,zeitlich befristet,Prozent,RH03402,75.609756097561
-2017,Emden  Stadt,weiblich,zeitlich befristet,Prozent,RH03402,67.027027027027
-2017,Emden  Stadt,insgesamt,zeitlich befristet,Prozent,RH03402,71.9257540603248
-2017,"Oldenburg(Oldb), Stadt",männlich,zeitlich befristet,Prozent,RH03403,61.4457831325301
-2017,"Oldenburg(Oldb), Stadt",weiblich,zeitlich befristet,Prozent,RH03403,60.4597701149425
-2017,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich befristet,Prozent,RH03403,61.0207515423444
+2017,"Emden, Stadt",männlich,zeitlich befristet,Prozent,RH03402,75.609756097561
+2017,"Emden, Stadt",weiblich,zeitlich befristet,Prozent,RH03402,67.027027027027
+2017,"Emden, Stadt",insgesamt,zeitlich befristet,Prozent,RH03402,71.9257540603248
+2017,"Oldenburg (Oldb), Stadt",männlich,zeitlich befristet,Prozent,RH03403,61.4457831325301
+2017,"Oldenburg (Oldb), Stadt",weiblich,zeitlich befristet,Prozent,RH03403,60.4597701149425
+2017,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich befristet,Prozent,RH03403,61.0207515423444
 2017,"Osnabrück, Stadt",männlich,zeitlich befristet,Prozent,RH03404,52.5496974935177
 2017,"Osnabrück, Stadt",weiblich,zeitlich befristet,Prozent,RH03404,49.3445692883895
 2017,"Osnabrück, Stadt",insgesamt,zeitlich befristet,Prozent,RH03404,51.0112359550562
@@ -6182,9 +6782,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2016,Statistische Region Braunschweig,männlich,zeitlich befristet,Prozent,RH031,52.0988737750475
 2016,Statistische Region Braunschweig,weiblich,zeitlich befristet,Prozent,RH031,48.3523067705213
 2016,Statistische Region Braunschweig,insgesamt,zeitlich befristet,Prozent,RH031,50.247909420558
-2016,Hannover  Region,männlich,zeitlich befristet,Prozent,RH03241,42.7979151859749
-2016,Hannover  Region,weiblich,zeitlich befristet,Prozent,RH03241,41.0191543187568
-2016,Hannover  Region,insgesamt,zeitlich befristet,Prozent,RH03241,41.9160246072986
+2016,Region Hannover,männlich,zeitlich befristet,Prozent,RH03241,42.7979151859749
+2016,Region Hannover,weiblich,zeitlich befristet,Prozent,RH03241,41.0191543187568
+2016,Region Hannover,insgesamt,zeitlich befristet,Prozent,RH03241,41.9160246072986
 2016,Diepholz,männlich,zeitlich befristet,Prozent,RH03251,53.0035335689046
 2016,Diepholz,weiblich,zeitlich befristet,Prozent,RH03251,48.4025559105431
 2016,Diepholz,insgesamt,zeitlich befristet,Prozent,RH03251,50.5457598656591
@@ -6245,12 +6845,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2016,"Delmenhorst, Stadt",männlich,zeitlich befristet,Prozent,RH03401,46.6780238500852
 2016,"Delmenhorst, Stadt",weiblich,zeitlich befristet,Prozent,RH03401,45.5210237659963
 2016,"Delmenhorst, Stadt",insgesamt,zeitlich befristet,Prozent,RH03401,46.1199294532628
-2016,Emden  Stadt,männlich,zeitlich befristet,Prozent,RH03402,71.0
-2016,Emden  Stadt,weiblich,zeitlich befristet,Prozent,RH03402,61.7834394904459
-2016,Emden  Stadt,insgesamt,zeitlich befristet,Prozent,RH03402,66.6666666666667
-2016,"Oldenburg(Oldb), Stadt",männlich,zeitlich befristet,Prozent,RH03403,56.4950980392157
-2016,"Oldenburg(Oldb), Stadt",weiblich,zeitlich befristet,Prozent,RH03403,55.3571428571429
-2016,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich befristet,Prozent,RH03403,55.9375
+2016,"Emden, Stadt",männlich,zeitlich befristet,Prozent,RH03402,71.0
+2016,"Emden, Stadt",weiblich,zeitlich befristet,Prozent,RH03402,61.7834394904459
+2016,"Emden, Stadt",insgesamt,zeitlich befristet,Prozent,RH03402,66.6666666666667
+2016,"Oldenburg (Oldb), Stadt",männlich,zeitlich befristet,Prozent,RH03403,56.4950980392157
+2016,"Oldenburg (Oldb), Stadt",weiblich,zeitlich befristet,Prozent,RH03403,55.3571428571429
+2016,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich befristet,Prozent,RH03403,55.9375
 2016,"Osnabrück, Stadt",männlich,zeitlich befristet,Prozent,RH03404,46.2729912875121
 2016,"Osnabrück, Stadt",weiblich,zeitlich befristet,Prozent,RH03404,44.6264073694985
 2016,"Osnabrück, Stadt",insgesamt,zeitlich befristet,Prozent,RH03404,45.4228855721393
@@ -6332,9 +6932,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2015,Statistische Region Braunschweig,männlich,zeitlich befristet,Prozent,RH031,45.5280444669025
 2015,Statistische Region Braunschweig,weiblich,zeitlich befristet,Prozent,RH031,43.9966969446738
 2015,Statistische Region Braunschweig,insgesamt,zeitlich befristet,Prozent,RH031,44.7548365577051
-2015,Hannover  Region,männlich,zeitlich befristet,Prozent,RH03241,36.0324424943492
-2015,Hannover  Region,weiblich,zeitlich befristet,Prozent,RH03241,36.955673989341
-2015,Hannover  Region,insgesamt,zeitlich befristet,Prozent,RH03241,36.4992769817274
+2015,Region Hannover,männlich,zeitlich befristet,Prozent,RH03241,36.0324424943492
+2015,Region Hannover,weiblich,zeitlich befristet,Prozent,RH03241,36.955673989341
+2015,Region Hannover,insgesamt,zeitlich befristet,Prozent,RH03241,36.4992769817274
 2015,Diepholz,männlich,zeitlich befristet,Prozent,RH03251,39.907192575406
 2015,Diepholz,weiblich,zeitlich befristet,Prozent,RH03251,39.3129770992366
 2015,Diepholz,insgesamt,zeitlich befristet,Prozent,RH03251,39.5811518324607
@@ -6395,12 +6995,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2015,"Delmenhorst, Stadt",männlich,zeitlich befristet,Prozent,RH03401,34.9372384937238
 2015,"Delmenhorst, Stadt",weiblich,zeitlich befristet,Prozent,RH03401,36.9426751592357
 2015,"Delmenhorst, Stadt",insgesamt,zeitlich befristet,Prozent,RH03401,35.9325605900948
-2015,Emden  Stadt,männlich,zeitlich befristet,Prozent,RH03402,60.0
-2015,Emden  Stadt,weiblich,zeitlich befristet,Prozent,RH03402,54.1984732824427
-2015,Emden  Stadt,insgesamt,zeitlich befristet,Prozent,RH03402,56.8840579710145
-2015,"Oldenburg(Oldb), Stadt",männlich,zeitlich befristet,Prozent,RH03403,46.7766116941529
-2015,"Oldenburg(Oldb), Stadt",weiblich,zeitlich befristet,Prozent,RH03403,48.0916030534351
-2015,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich befristet,Prozent,RH03403,47.428139183056
+2015,"Emden, Stadt",männlich,zeitlich befristet,Prozent,RH03402,60.0
+2015,"Emden, Stadt",weiblich,zeitlich befristet,Prozent,RH03402,54.1984732824427
+2015,"Emden, Stadt",insgesamt,zeitlich befristet,Prozent,RH03402,56.8840579710145
+2015,"Oldenburg (Oldb), Stadt",männlich,zeitlich befristet,Prozent,RH03403,46.7766116941529
+2015,"Oldenburg (Oldb), Stadt",weiblich,zeitlich befristet,Prozent,RH03403,48.0916030534351
+2015,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich befristet,Prozent,RH03403,47.428139183056
 2015,"Osnabrück, Stadt",männlich,zeitlich befristet,Prozent,RH03404,38.9304812834225
 2015,"Osnabrück, Stadt",weiblich,zeitlich befristet,Prozent,RH03404,41.6846652267819
 2015,"Osnabrück, Stadt",insgesamt,zeitlich befristet,Prozent,RH03404,40.3009134873724
@@ -6482,9 +7082,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2014,Statistische Region Braunschweig,männlich,zeitlich befristet,Prozent,RH031,43.4975982921188
 2014,Statistische Region Braunschweig,weiblich,zeitlich befristet,Prozent,RH031,42.7906174542946
 2014,Statistische Region Braunschweig,insgesamt,zeitlich befristet,Prozent,RH031,43.1386286014537
-2014,Hannover  Region,männlich,zeitlich befristet,Prozent,RH03241,32.9661016949153
-2014,Hannover  Region,weiblich,zeitlich befristet,Prozent,RH03241,34.904250984653
-2014,Hannover  Region,insgesamt,zeitlich befristet,Prozent,RH03241,33.954164647234
+2014,Region Hannover,männlich,zeitlich befristet,Prozent,RH03241,32.9661016949153
+2014,Region Hannover,weiblich,zeitlich befristet,Prozent,RH03241,34.904250984653
+2014,Region Hannover,insgesamt,zeitlich befristet,Prozent,RH03241,33.954164647234
 2014,Diepholz,männlich,zeitlich befristet,Prozent,RH03251,38.3292383292383
 2014,Diepholz,weiblich,zeitlich befristet,Prozent,RH03251,38.2293762575453
 2014,Diepholz,insgesamt,zeitlich befristet,Prozent,RH03251,38.2743362831858
@@ -6545,12 +7145,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2014,"Delmenhorst, Stadt",männlich,zeitlich befristet,Prozent,RH03401,30.2272727272727
 2014,"Delmenhorst, Stadt",weiblich,zeitlich befristet,Prozent,RH03401,34.4036697247706
 2014,"Delmenhorst, Stadt",insgesamt,zeitlich befristet,Prozent,RH03401,32.3059360730594
-2014,Emden  Stadt,männlich,zeitlich befristet,Prozent,RH03402,54.1984732824427
-2014,Emden  Stadt,weiblich,zeitlich befristet,Prozent,RH03402,50.0
-2014,Emden  Stadt,insgesamt,zeitlich befristet,Prozent,RH03402,52.4
-2014,"Oldenburg(Oldb), Stadt",männlich,zeitlich befristet,Prozent,RH03403,42.4543946932007
-2014,"Oldenburg(Oldb), Stadt",weiblich,zeitlich befristet,Prozent,RH03403,45.4838709677419
-2014,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich befristet,Prozent,RH03403,43.9901880621423
+2014,"Emden, Stadt",männlich,zeitlich befristet,Prozent,RH03402,54.1984732824427
+2014,"Emden, Stadt",weiblich,zeitlich befristet,Prozent,RH03402,50.0
+2014,"Emden, Stadt",insgesamt,zeitlich befristet,Prozent,RH03402,52.4
+2014,"Oldenburg (Oldb), Stadt",männlich,zeitlich befristet,Prozent,RH03403,42.4543946932007
+2014,"Oldenburg (Oldb), Stadt",weiblich,zeitlich befristet,Prozent,RH03403,45.4838709677419
+2014,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich befristet,Prozent,RH03403,43.9901880621423
 2014,"Osnabrück, Stadt",männlich,zeitlich befristet,Prozent,RH03404,33.6027713625866
 2014,"Osnabrück, Stadt",weiblich,zeitlich befristet,Prozent,RH03404,38.6285714285714
 2014,"Osnabrück, Stadt",insgesamt,zeitlich befristet,Prozent,RH03404,36.1079219288174
@@ -6632,9 +7232,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2013,Statistische Region Braunschweig,männlich,zeitlich befristet,Prozent,RH031,42.7367649752702
 2013,Statistische Region Braunschweig,weiblich,zeitlich befristet,Prozent,RH031,42.602495543672
 2013,Statistische Region Braunschweig,insgesamt,zeitlich befristet,Prozent,RH031,42.6687144276809
-2013,Hannover  Region,männlich,zeitlich befristet,Prozent,RH03241,31.626195732156
-2013,Hannover  Region,weiblich,zeitlich befristet,Prozent,RH03241,34.3094467126566
-2013,Hannover  Region,insgesamt,zeitlich befristet,Prozent,RH03241,32.9975536048352
+2013,Region Hannover,männlich,zeitlich befristet,Prozent,RH03241,31.626195732156
+2013,Region Hannover,weiblich,zeitlich befristet,Prozent,RH03241,34.3094467126566
+2013,Region Hannover,insgesamt,zeitlich befristet,Prozent,RH03241,32.9975536048352
 2013,Diepholz,männlich,zeitlich befristet,Prozent,RH03251,38.6138613861386
 2013,Diepholz,weiblich,zeitlich befristet,Prozent,RH03251,38.655462184874
 2013,Diepholz,insgesamt,zeitlich befristet,Prozent,RH03251,38.6803185437998
@@ -6695,12 +7295,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2013,"Delmenhorst, Stadt",männlich,zeitlich befristet,Prozent,RH03401,29.03981264637
 2013,"Delmenhorst, Stadt",weiblich,zeitlich befristet,Prozent,RH03401,33.1764705882353
 2013,"Delmenhorst, Stadt",insgesamt,zeitlich befristet,Prozent,RH03401,31.1032863849765
-2013,Emden  Stadt,männlich,zeitlich befristet,Prozent,RH03402,54.0322580645161
-2013,Emden  Stadt,weiblich,zeitlich befristet,Prozent,RH03402,48.7179487179487
-2013,Emden  Stadt,insgesamt,zeitlich befristet,Prozent,RH03402,51.4522821576763
-2013,"Oldenburg(Oldb), Stadt",männlich,zeitlich befristet,Prozent,RH03403,41.4383561643836
-2013,"Oldenburg(Oldb), Stadt",weiblich,zeitlich befristet,Prozent,RH03403,46.2171052631579
-2013,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich befristet,Prozent,RH03403,43.9126784214945
+2013,"Emden, Stadt",männlich,zeitlich befristet,Prozent,RH03402,54.0322580645161
+2013,"Emden, Stadt",weiblich,zeitlich befristet,Prozent,RH03402,48.7179487179487
+2013,"Emden, Stadt",insgesamt,zeitlich befristet,Prozent,RH03402,51.4522821576763
+2013,"Oldenburg (Oldb), Stadt",männlich,zeitlich befristet,Prozent,RH03403,41.4383561643836
+2013,"Oldenburg (Oldb), Stadt",weiblich,zeitlich befristet,Prozent,RH03403,46.2171052631579
+2013,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich befristet,Prozent,RH03403,43.9126784214945
 2013,"Osnabrück, Stadt",männlich,zeitlich befristet,Prozent,RH03404,31.8874560375147
 2013,"Osnabrück, Stadt",weiblich,zeitlich befristet,Prozent,RH03404,38.4264538198404
 2013,"Osnabrück, Stadt",insgesamt,zeitlich befristet,Prozent,RH03404,35.2601156069364
@@ -6782,9 +7382,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2012,Statistische Region Braunschweig,männlich,zeitlich befristet,Prozent,RH031,41.3615455381785
 2012,Statistische Region Braunschweig,weiblich,zeitlich befristet,Prozent,RH031,41.7127564674398
 2012,Statistische Region Braunschweig,insgesamt,zeitlich befristet,Prozent,RH031,41.5270355946019
-2012,Hannover  Region,männlich,zeitlich befristet,Prozent,RH03241,31.1323486823052
-2012,Hannover  Region,weiblich,zeitlich befristet,Prozent,RH03241,33.8763575605681
-2012,Hannover  Region,insgesamt,zeitlich befristet,Prozent,RH03241,32.5312322544009
+2012,Region Hannover,männlich,zeitlich befristet,Prozent,RH03241,31.1323486823052
+2012,Region Hannover,weiblich,zeitlich befristet,Prozent,RH03241,33.8763575605681
+2012,Region Hannover,insgesamt,zeitlich befristet,Prozent,RH03241,32.5312322544009
 2012,Diepholz,männlich,zeitlich befristet,Prozent,RH03251,37.5
 2012,Diepholz,weiblich,zeitlich befristet,Prozent,RH03251,40.552016985138
 2012,Diepholz,insgesamt,zeitlich befristet,Prozent,RH03251,39.150401836969
@@ -6845,12 +7445,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2012,"Delmenhorst, Stadt",männlich,zeitlich befristet,Prozent,RH03401,29.4117647058824
 2012,"Delmenhorst, Stadt",weiblich,zeitlich befristet,Prozent,RH03401,33.0232558139535
 2012,"Delmenhorst, Stadt",insgesamt,zeitlich befristet,Prozent,RH03401,31.2280701754386
-2012,Emden  Stadt,männlich,zeitlich befristet,Prozent,RH03402,48.8188976377953
-2012,Emden  Stadt,weiblich,zeitlich befristet,Prozent,RH03402,46.9565217391304
-2012,Emden  Stadt,insgesamt,zeitlich befristet,Prozent,RH03402,47.9338842975207
-2012,"Oldenburg(Oldb), Stadt",männlich,zeitlich befristet,Prozent,RH03403,40.1372212692967
-2012,"Oldenburg(Oldb), Stadt",weiblich,zeitlich befristet,Prozent,RH03403,46.6996699669967
-2012,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich befristet,Prozent,RH03403,43.4819175777965
+2012,"Emden, Stadt",männlich,zeitlich befristet,Prozent,RH03402,48.8188976377953
+2012,"Emden, Stadt",weiblich,zeitlich befristet,Prozent,RH03402,46.9565217391304
+2012,"Emden, Stadt",insgesamt,zeitlich befristet,Prozent,RH03402,47.9338842975207
+2012,"Oldenburg (Oldb), Stadt",männlich,zeitlich befristet,Prozent,RH03403,40.1372212692967
+2012,"Oldenburg (Oldb), Stadt",weiblich,zeitlich befristet,Prozent,RH03403,46.6996699669967
+2012,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich befristet,Prozent,RH03403,43.4819175777965
 2012,"Osnabrück, Stadt",männlich,zeitlich befristet,Prozent,RH03404,31.3519813519814
 2012,"Osnabrück, Stadt",weiblich,zeitlich befristet,Prozent,RH03404,38.5906040268456
 2012,"Osnabrück, Stadt",insgesamt,zeitlich befristet,Prozent,RH03404,34.9885844748858
@@ -6932,9 +7532,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2011,Statistische Region Braunschweig,männlich,zeitlich befristet,Prozent,RH031,40.7421431276032
 2011,Statistische Region Braunschweig,weiblich,zeitlich befristet,Prozent,RH031,42.0620437956204
 2011,Statistische Region Braunschweig,insgesamt,zeitlich befristet,Prozent,RH031,41.4142352722542
-2011,Hannover  Region,männlich,zeitlich befristet,Prozent,RH03241,31.5812527376259
-2011,Hannover  Region,weiblich,zeitlich befristet,Prozent,RH03241,34.8908785674315
-2011,Hannover  Region,insgesamt,zeitlich befristet,Prozent,RH03241,33.2714153032793
+2011,Region Hannover,männlich,zeitlich befristet,Prozent,RH03241,31.5812527376259
+2011,Region Hannover,weiblich,zeitlich befristet,Prozent,RH03241,34.8908785674315
+2011,Region Hannover,insgesamt,zeitlich befristet,Prozent,RH03241,33.2714153032793
 2011,Diepholz,männlich,zeitlich befristet,Prozent,RH03251,37.6923076923077
 2011,Diepholz,weiblich,zeitlich befristet,Prozent,RH03251,39.8706896551724
 2011,Diepholz,insgesamt,zeitlich befristet,Prozent,RH03251,38.8304093567251
@@ -6995,12 +7595,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2011,"Delmenhorst, Stadt",männlich,zeitlich befristet,Prozent,RH03401,29.7674418604651
 2011,"Delmenhorst, Stadt",weiblich,zeitlich befristet,Prozent,RH03401,33.411214953271
 2011,"Delmenhorst, Stadt",insgesamt,zeitlich befristet,Prozent,RH03401,31.5850815850816
-2011,Emden  Stadt,männlich,zeitlich befristet,Prozent,RH03402,48.3333333333333
-2011,Emden  Stadt,weiblich,zeitlich befristet,Prozent,RH03402,47.7477477477478
-2011,Emden  Stadt,insgesamt,zeitlich befristet,Prozent,RH03402,48.4848484848485
-2011,"Oldenburg(Oldb), Stadt",männlich,zeitlich befristet,Prozent,RH03403,42.8318584070797
-2011,"Oldenburg(Oldb), Stadt",weiblich,zeitlich befristet,Prozent,RH03403,45.9130434782609
-2011,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich befristet,Prozent,RH03403,44.3859649122807
+2011,"Emden, Stadt",männlich,zeitlich befristet,Prozent,RH03402,48.3333333333333
+2011,"Emden, Stadt",weiblich,zeitlich befristet,Prozent,RH03402,47.7477477477478
+2011,"Emden, Stadt",insgesamt,zeitlich befristet,Prozent,RH03402,48.4848484848485
+2011,"Oldenburg (Oldb), Stadt",männlich,zeitlich befristet,Prozent,RH03403,42.8318584070797
+2011,"Oldenburg (Oldb), Stadt",weiblich,zeitlich befristet,Prozent,RH03403,45.9130434782609
+2011,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich befristet,Prozent,RH03403,44.3859649122807
 2011,"Osnabrück, Stadt",männlich,zeitlich befristet,Prozent,RH03404,30.7692307692308
 2011,"Osnabrück, Stadt",weiblich,zeitlich befristet,Prozent,RH03404,37.8563283922463
 2011,"Osnabrück, Stadt",insgesamt,zeitlich befristet,Prozent,RH03404,34.3205574912892
@@ -7082,9 +7682,9 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2010,Statistische Region Braunschweig,männlich,zeitlich befristet,Prozent,RH031,42.6220414201183
 2010,Statistische Region Braunschweig,weiblich,zeitlich befristet,Prozent,RH031,44.0281030444965
 2010,Statistische Region Braunschweig,insgesamt,zeitlich befristet,Prozent,RH031,43.334245825349
-2010,Hannover  Region,männlich,zeitlich befristet,Prozent,RH03241,33.2619251642388
-2010,Hannover  Region,weiblich,zeitlich befristet,Prozent,RH03241,36.5995031741651
-2010,Hannover  Region,insgesamt,zeitlich befristet,Prozent,RH03241,34.9522740033689
+2010,Region Hannover,männlich,zeitlich befristet,Prozent,RH03241,33.2619251642388
+2010,Region Hannover,weiblich,zeitlich befristet,Prozent,RH03241,36.5995031741651
+2010,Region Hannover,insgesamt,zeitlich befristet,Prozent,RH03241,34.9522740033689
 2010,Diepholz,männlich,zeitlich befristet,Prozent,RH03251,42.0427553444181
 2010,Diepholz,weiblich,zeitlich befristet,Prozent,RH03251,43.4156378600823
 2010,Diepholz,insgesamt,zeitlich befristet,Prozent,RH03251,42.7783902976847
@@ -7145,12 +7745,12 @@ Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
 2010,"Delmenhorst, Stadt",männlich,zeitlich befristet,Prozent,RH03401,31.1363636363636
 2010,"Delmenhorst, Stadt",weiblich,zeitlich befristet,Prozent,RH03401,34.7727272727273
 2010,"Delmenhorst, Stadt",insgesamt,zeitlich befristet,Prozent,RH03401,32.9545454545455
-2010,Emden  Stadt,männlich,zeitlich befristet,Prozent,RH03402,52.0
-2010,Emden  Stadt,weiblich,zeitlich befristet,Prozent,RH03402,50.0
-2010,Emden  Stadt,insgesamt,zeitlich befristet,Prozent,RH03402,51.0373443983402
-2010,"Oldenburg(Oldb), Stadt",männlich,zeitlich befristet,Prozent,RH03403,45.5017301038062
-2010,"Oldenburg(Oldb), Stadt",weiblich,zeitlich befristet,Prozent,RH03403,48.4429065743945
-2010,"Oldenburg(Oldb), Stadt",insgesamt,zeitlich befristet,Prozent,RH03403,47.012987012987
+2010,"Emden, Stadt",männlich,zeitlich befristet,Prozent,RH03402,52.0
+2010,"Emden, Stadt",weiblich,zeitlich befristet,Prozent,RH03402,50.0
+2010,"Emden, Stadt",insgesamt,zeitlich befristet,Prozent,RH03402,51.0373443983402
+2010,"Oldenburg (Oldb), Stadt",männlich,zeitlich befristet,Prozent,RH03403,45.5017301038062
+2010,"Oldenburg (Oldb), Stadt",weiblich,zeitlich befristet,Prozent,RH03403,48.4429065743945
+2010,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich befristet,Prozent,RH03403,47.012987012987
 2010,"Osnabrück, Stadt",männlich,zeitlich befristet,Prozent,RH03404,33.2175925925926
 2010,"Osnabrück, Stadt",weiblich,zeitlich befristet,Prozent,RH03404,39.5715896279594
 2010,"Osnabrück, Stadt",insgesamt,zeitlich befristet,Prozent,RH03404,36.4363221016562
