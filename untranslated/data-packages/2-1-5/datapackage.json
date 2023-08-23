@@ -30,7 +30,7 @@
                 "Wolfenbüttel",
                 "Göttingen",
                 "Statistische Region Braunschweig",
-                "Hannover  Region",
+                "Region Hannover",
                 "Diepholz",
                 "Hameln-Pyrmont",
                 "Hildesheim",
@@ -51,8 +51,8 @@
                 "Verden",
                 "Statistische Region Lüneburg",
                 "Delmenhorst, Stadt",
-                "Emden  Stadt",
-                "Oldenburg(Oldb), Stadt",
+                "Emden, Stadt",
+                "Oldenburg (Oldb), Stadt",
                 "Osnabrück, Stadt",
                 "Wilhelmshaven, Stadt",
                 "Ammerland",
@@ -81,6 +81,9 @@
                 "männlich",
                 "weiblich",
                 "insgesamt",
+                "Männlich",
+                "Weiblich",
+                "Insgesamt",
                 ""
               ]
             }
@@ -94,6 +97,7 @@
                 "Duldung",
                 "Aufenthaltsgestattung",
                 "Ohne Duldung oder Gestattung",
+                "Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstite",
                 ""
               ]
             }
