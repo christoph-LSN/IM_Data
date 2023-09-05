@@ -2359,7 +2359,7 @@
             "type": "integer"
           },
           {
-            "name": "Unnamed: 1",
+            "name": "Wanderungsherkunft",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2407,7 +2407,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },

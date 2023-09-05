@@ -2514,7 +2514,7 @@
             "title": "Jahr"
           },
           {
-            "name": "Unnamed: 1",
+            "name": "Wanderungsherkunft",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2549,7 +2549,7 @@
                 ""
               ]
             },
-            "title": "Unnamed: 1"
+            "title": "Wanderungsherkunft"
           },
           {
             "name": "Units",
@@ -2564,7 +2564,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
