@@ -23,21 +23,20 @@
                 "Bulgarien",
                 "Griechenland",
                 "Italien",
-                "Kroatien",
-                "Litauen",
                 "Moldau, Republik",
                 "Niederlande",
                 "Österreich",
                 "Polen",
                 "Rumänien",
+                "Russische Föderation",
                 "Schweiz",
-                "Serbien (ab 2008)",
+                "Serbien",
                 "Spanien",
                 "Türkei",
                 "Ukraine",
                 "Ungarn",
                 "Vereinigtes Königreich, Nordirland",
-                "EU Staaten (ab 2021 ohne GB)",
+                "EU Staaten",
                 "Afrika insgesamt",
                 "Amerika insgesamt",
                 "Vereinigte Staaten",
@@ -45,6 +44,7 @@
                 "China",
                 "Australien und Ozeanien",
                 "Sonstige Ziele",
+                "unbekanntes Ausland",
                 "ohne Angabe",
                 "Insgesamt",
                 ""
@@ -63,7 +63,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }
