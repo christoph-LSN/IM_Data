@@ -5161,19 +5161,19 @@
                 "Europa insgesamt",
                 "Albanien",
                 "Bulgarien",
-                "Griechenland",
                 "Kosovo",
                 "Moldau, Republik",
                 "Nordmazedonien",
                 "Polen",
                 "Rumänien",
                 "Russische Föderation",
-                "Serbien (ab 2008)",
                 "Türkei",
                 "Ukraine",
-                "EU Staaten (ab 2021 ohne GB)",
+                "EU Staaten",
                 "Afrika insgesamt",
+                "Burundi",
                 "Amerika insgesamt",
+                "Kolumbien",
                 "Asien insgesamt",
                 "Afghanistan",
                 "Georgien",
@@ -5190,17 +5190,6 @@
               ]
             },
             "title": "Land"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Anzahl",
-                ""
-              ]
-            },
-            "title": "Units"
           },
           {
             "name": "Value",
