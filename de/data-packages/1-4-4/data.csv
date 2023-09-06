@@ -1,4 +1,28 @@
 Year,Kategorie,Altersgruppe,Units,Value
+2022,Zuzüge,Insgesamt,Anzahl,260751
+2022,Fortzüge,Insgesamt,Anzahl,111943
+2022,Saldo,Insgesamt,Anzahl,148808
+2022,Zuzüge,0 - 5,Anzahl,14394
+2022,Fortzüge,0 - 5,Anzahl,5021
+2022,Saldo,0 - 5,Anzahl,9373
+2022,Zuzüge,5 - 15,Anzahl,38635
+2022,Fortzüge,5 - 15,Anzahl,9952
+2022,Saldo,5 - 15,Anzahl,28683
+2022,Zuzüge,15 - 20,Anzahl,21033
+2022,Fortzüge,15 - 20,Anzahl,6042
+2022,Saldo,15 - 20,Anzahl,14991
+2022,Zuzüge,20 - 40,Anzahl,112598
+2022,Fortzüge,20 - 40,Anzahl,56040
+2022,Saldo,20 - 40,Anzahl,56558
+2022,Zuzüge,40 - 65,Anzahl,63660
+2022,Fortzüge,40 - 65,Anzahl,31075
+2022,Saldo,40 - 65,Anzahl,32585
+2022,Zuzüge,65 - 80,Anzahl,9088
+2022,Fortzüge,65 - 80,Anzahl,3163
+2022,Saldo,65 - 80,Anzahl,5925
+2022,Zuzüge,80 u.ä.,Anzahl,1343
+2022,Fortzüge,80 u.ä.,Anzahl,650
+2022,Saldo,80 u.ä.,Anzahl,693
 2021,Zuzüge,Insgesamt,Anzahl,128077
 2021,Fortzüge,Insgesamt,Anzahl,86187
 2021,Saldo,Insgesamt,Anzahl,41890
