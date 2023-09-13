@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "Land der Staatsangehörigkeit",
+            "name": "Land der Staatsabgehörigkeit",
             "type": "string",
             "constraints": {
               "enum": [
@@ -26,12 +26,12 @@
                 "Kosovo",
                 "Polen",
                 "Rumänien",
-                "Russische Föderation",
-                "Serbien, Serbien und Montenegro",
+                "Serbien 1)",
                 "Türkei",
-                "Vereinigtes Königreich GB,Nordirland",
-                "EU Staaten",
+                "Ukraine",
+                "EU Staaten 2)",
                 "Afrika insgesamt",
+                "Ägypten",
                 "Tunesien",
                 "Amerika insgesamt",
                 "Asien insgesamt",
@@ -41,11 +41,11 @@
                 "Irak",
                 "Iran, Islamische Republik",
                 "Palestinensische Gebiete",
-                "Syrien, Arabische Republi",
-                "Vietnam",
+                "Syrien, Arabische Republik",
                 "Australien und Ozeanien",
-                "Sonstige Ziele",
+                "Sonstige Herkunnft",
                 "staatenlos",
+                "ungeklärt",
                 "Insgesamt",
                 ""
               ]
