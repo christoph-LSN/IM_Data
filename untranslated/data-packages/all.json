@@ -591,7 +591,7 @@
             "constraints": {
               "enum": [
                 "Hochschulreife",
-                "Fachhochschulreife1) ",
+                "Fachhochschulreife1)",
                 "Realschulabschluss",
                 "Hauptschulabschluss",
                 "Abschluss Förderschule2)",
@@ -919,7 +919,7 @@
             "constraints": {
               "enum": [
                 "deutsche Staatsangehörigkeit",
-                "nichtdeutsche Staatsangehörigkeit  ",
+                "nichtdeutsche Staatsangehörigkeit",
                 "mit Migrationshintergrund",
                 "ohne Migrationshintergrund",
                 "Insgesamt",
