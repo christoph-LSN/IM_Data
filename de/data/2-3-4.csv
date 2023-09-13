@@ -6,10 +6,10 @@ Year,Land der Staatsangehörigkeit,Units,Value
 2007,Kosovo,Anzahl,
 2007,Polen,Anzahl,583.0
 2007,Rumänien,Anzahl,209.0
-2007,Serbien 1),Anzahl,1198.0
+2007,Serbien,Anzahl,1198.0
 2007,Türkei,Anzahl,2162.0
 2007,Ukraine,Anzahl,493.0
-2007,EU Staaten 2),Anzahl,1289.0
+2007,EU Staaten,Anzahl,1289.0
 2007,Afrika insgesamt,Anzahl,521.0
 2007,Ägypten,Anzahl,24.0
 2007,Tunesien,Anzahl,112.0
@@ -34,10 +34,10 @@ Year,Land der Staatsangehörigkeit,Units,Value
 2008,Kosovo,Anzahl,
 2008,Polen,Anzahl,548.0
 2008,Rumänien,Anzahl,124.0
-2008,Serbien 1),Anzahl,540.0
+2008,Serbien,Anzahl,540.0
 2008,Türkei,Anzahl,2020.0
 2008,Ukraine,Anzahl,185.0
-2008,EU Staaten 2),Anzahl,1232.0
+2008,EU Staaten,Anzahl,1232.0
 2008,Afrika insgesamt,Anzahl,564.0
 2008,Ägypten,Anzahl,23.0
 2008,Tunesien,Anzahl,76.0
@@ -62,10 +62,10 @@ Year,Land der Staatsangehörigkeit,Units,Value
 2009,Kosovo,Anzahl,34.0
 2009,Polen,Anzahl,434.0
 2009,Rumänien,Anzahl,119.0
-2009,Serbien 1),Anzahl,109.0
+2009,Serbien,Anzahl,109.0
 2009,Türkei,Anzahl,2170.0
 2009,Ukraine,Anzahl,143.0
-2009,EU Staaten 2),Anzahl,1017.0
+2009,EU Staaten,Anzahl,1017.0
 2009,Afrika insgesamt,Anzahl,542.0
 2009,Ägypten,Anzahl,23.0
 2009,Tunesien,Anzahl,73.0
@@ -90,10 +90,10 @@ Year,Land der Staatsangehörigkeit,Units,Value
 2010,Kosovo,Anzahl,170.0
 2010,Polen,Anzahl,422.0
 2010,Rumänien,Anzahl,136.0
-2010,Serbien 1),Anzahl,187.0
+2010,Serbien,Anzahl,187.0
 2010,Türkei,Anzahl,1892.0
 2010,Ukraine,Anzahl,268.0
-2010,EU Staaten 2),Anzahl,1165.0
+2010,EU Staaten,Anzahl,1165.0
 2010,Afrika insgesamt,Anzahl,489.0
 2010,Ägypten,Anzahl,17.0
 2010,Tunesien,Anzahl,89.0
@@ -118,10 +118,10 @@ Year,Land der Staatsangehörigkeit,Units,Value
 2011,Kosovo,Anzahl,221.0
 2011,Polen,Anzahl,477.0
 2011,Rumänien,Anzahl,132.0
-2011,Serbien 1),Anzahl,258.0
+2011,Serbien,Anzahl,258.0
 2011,Türkei,Anzahl,2010.0
 2011,Ukraine,Anzahl,380.0
-2011,EU Staaten 2),Anzahl,1263.0
+2011,EU Staaten,Anzahl,1263.0
 2011,Afrika insgesamt,Anzahl,599.0
 2011,Ägypten,Anzahl,24.0
 2011,Tunesien,Anzahl,96.0
@@ -146,10 +146,10 @@ Year,Land der Staatsangehörigkeit,Units,Value
 2012,Kosovo,Anzahl,181.0
 2012,Polen,Anzahl,518.0
 2012,Rumänien,Anzahl,81.0
-2012,Serbien 1),Anzahl,225.0
+2012,Serbien,Anzahl,225.0
 2012,Türkei,Anzahl,2361.0
 2012,Ukraine,Anzahl,325.0
-2012,EU Staaten 2),Anzahl,1482.0
+2012,EU Staaten,Anzahl,1482.0
 2012,Afrika insgesamt,Anzahl,596.0
 2012,Ägypten,Anzahl,28.0
 2012,Tunesien,Anzahl,110.0
@@ -174,10 +174,10 @@ Year,Land der Staatsangehörigkeit,Units,Value
 2013,Kosovo,Anzahl,222.0
 2013,Polen,Anzahl,655.0
 2013,Rumänien,Anzahl,115.0
-2013,Serbien 1),Anzahl,215.0
+2013,Serbien,Anzahl,215.0
 2013,Türkei,Anzahl,1864.0
 2013,Ukraine,Anzahl,382.0
-2013,EU Staaten 2),Anzahl,1739.0
+2013,EU Staaten,Anzahl,1739.0
 2013,Afrika insgesamt,Anzahl,589.0
 2013,Ägypten,Anzahl,30.0
 2013,Tunesien,Anzahl,111.0
@@ -202,10 +202,10 @@ Year,Land der Staatsangehörigkeit,Units,Value
 2014,Kosovo,Anzahl,216.0
 2014,Polen,Anzahl,576.0
 2014,Rumänien,Anzahl,113.0
-2014,Serbien 1),Anzahl,174.0
+2014,Serbien,Anzahl,174.0
 2014,Türkei,Anzahl,1657.0
 2014,Ukraine,Anzahl,148.0
-2014,EU Staaten 2),Anzahl,1769.0
+2014,EU Staaten,Anzahl,1769.0
 2014,Afrika insgesamt,Anzahl,596.0
 2014,Ägypten,Anzahl,30.0
 2014,Tunesien,Anzahl,119.0
@@ -230,10 +230,10 @@ Year,Land der Staatsangehörigkeit,Units,Value
 2015,Kosovo,Anzahl,242.0
 2015,Polen,Anzahl,559.0
 2015,Rumänien,Anzahl,156.0
-2015,Serbien 1),Anzahl,162.0
+2015,Serbien,Anzahl,162.0
 2015,Türkei,Anzahl,1709.0
 2015,Ukraine,Anzahl,328.0
-2015,EU Staaten 2),Anzahl,1765.0
+2015,EU Staaten,Anzahl,1765.0
 2015,Afrika insgesamt,Anzahl,625.0
 2015,Ägypten,Anzahl,34.0
 2015,Tunesien,Anzahl,112.0
@@ -258,10 +258,10 @@ Year,Land der Staatsangehörigkeit,Units,Value
 2016,Kosovo,Anzahl,215.0
 2016,Polen,Anzahl,650.0
 2016,Rumänien,Anzahl,193.0
-2016,Serbien 1),Anzahl,214.0
+2016,Serbien,Anzahl,214.0
 2016,Türkei,Anzahl,1278.0
 2016,Ukraine,Anzahl,449.0
-2016,EU Staaten 2),Anzahl,2262.0
+2016,EU Staaten,Anzahl,2262.0
 2016,Afrika insgesamt,Anzahl,647.0
 2016,Ägypten,Anzahl,58.0
 2016,Tunesien,Anzahl,134.0
@@ -286,10 +286,10 @@ Year,Land der Staatsangehörigkeit,Units,Value
 2017,Kosovo,Anzahl,247.0
 2017,Polen,Anzahl,664.0
 2017,Rumänien,Anzahl,241.0
-2017,Serbien 1),Anzahl,142.0
+2017,Serbien,Anzahl,142.0
 2017,Türkei,Anzahl,1208.0
 2017,Ukraine,Anzahl,238.0
-2017,EU Staaten 2),Anzahl,2787.0
+2017,EU Staaten,Anzahl,2787.0
 2017,Afrika insgesamt,Anzahl,673.0
 2017,Ägypten,Anzahl,39.0
 2017,Tunesien,Anzahl,108.0
@@ -314,10 +314,10 @@ Year,Land der Staatsangehörigkeit,Units,Value
 2018,Kosovo,Anzahl,217.0
 2018,Polen,Anzahl,598.0
 2018,Rumänien,Anzahl,239.0
-2018,Serbien 1),Anzahl,254.0
+2018,Serbien,Anzahl,254.0
 2018,Türkei,Anzahl,1185.0
 2018,Ukraine,Anzahl,180.0
-2018,EU Staaten 2),Anzahl,2501.0
+2018,EU Staaten,Anzahl,2501.0
 2018,Afrika insgesamt,Anzahl,658.0
 2018,Ägypten,Anzahl,78.0
 2018,Tunesien,Anzahl,119.0
@@ -342,10 +342,10 @@ Year,Land der Staatsangehörigkeit,Units,Value
 2019,Kosovo,Anzahl,188.0
 2019,Polen,Anzahl,644.0
 2019,Rumänien,Anzahl,337.0
-2019,Serbien 1),Anzahl,275.0
+2019,Serbien,Anzahl,275.0
 2019,Türkei,Anzahl,1331.0
 2019,Ukraine,Anzahl,303.0
-2019,EU Staaten 2),Anzahl,4241.0
+2019,EU Staaten,Anzahl,4241.0
 2019,Afrika insgesamt,Anzahl,661.0
 2019,Ägypten,Anzahl,72.0
 2019,Tunesien,Anzahl,124.0
@@ -370,10 +370,10 @@ Year,Land der Staatsangehörigkeit,Units,Value
 2020,Kosovo,Anzahl,171.0
 2020,Polen,Anzahl,572.0
 2020,Rumänien,Anzahl,369.0
-2020,Serbien 1),Anzahl,268.0
+2020,Serbien,Anzahl,268.0
 2020,Türkei,Anzahl,783.0
 2020,Ukraine,Anzahl,164.0
-2020,EU Staaten 2),Anzahl,2376.0
+2020,EU Staaten,Anzahl,2376.0
 2020,Afrika insgesamt,Anzahl,744.0
 2020,Ägypten,Anzahl,80.0
 2020,Tunesien,Anzahl,150.0
@@ -398,10 +398,10 @@ Year,Land der Staatsangehörigkeit,Units,Value
 2021,Kosovo,Anzahl,175.0
 2021,Polen,Anzahl,619.0
 2021,Rumänien,Anzahl,369.0
-2021,Serbien 1),Anzahl,187.0
+2021,Serbien,Anzahl,187.0
 2021,Türkei,Anzahl,899.0
 2021,Ukraine,Anzahl,97.0
-2021,EU Staaten 2),Anzahl,2243.0
+2021,EU Staaten,Anzahl,2243.0
 2021,Afrika insgesamt,Anzahl,793.0
 2021,Ägypten,Anzahl,103.0
 2021,Tunesien,Anzahl,142.0
@@ -426,10 +426,10 @@ Year,Land der Staatsangehörigkeit,Units,Value
 2022,Kosovo,Anzahl,159.0
 2022,Polen,Anzahl,524.0
 2022,Rumänien,Anzahl,382.0
-2022,Serbien 1),Anzahl,200.0
+2022,Serbien,Anzahl,200.0
 2022,Türkei,Anzahl,1088.0
 2022,Ukraine,Anzahl,473.0
-2022,EU Staaten 2),Anzahl,1794.0
+2022,EU Staaten,Anzahl,1794.0
 2022,Afrika insgesamt,Anzahl,775.0
 2022,Ägypten,Anzahl,115.0
 2022,Tunesien,Anzahl,124.0
