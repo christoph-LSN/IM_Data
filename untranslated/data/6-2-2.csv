@@ -1,4 +1,56 @@
 Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
+2021,"Braunschweig, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03101,98.0
+2021,"Salzgitter, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03102,131.0
+2021,"Wolfsburg, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03103,86.0
+2021,Gifhorn,im Alter bis unter 18 Jahren,Deutsche,K03151,50.0
+2021,Goslar,im Alter bis unter 18 Jahren,Deutsche,K03153,111.0
+2021,Helmstedt,im Alter bis unter 18 Jahren,Deutsche,K03154,73.0
+2021,Northeim,im Alter bis unter 18 Jahren,Deutsche,K03155,83.0
+2021,Peine,im Alter bis unter 18 Jahren,Deutsche,K03157,90.0
+2021,Wolfenbüttel,im Alter bis unter 18 Jahren,Deutsche,K03158,71.0
+2021,Göttingen,im Alter bis unter 18 Jahren,Deutsche,K03159,74.0
+2021,Statistische Region Braunschweig,im Alter bis unter 18 Jahren,Deutsche,K031,83.0
+2021,Region Hannover,im Alter bis unter 18 Jahren,Deutsche,K03241,120.0
+2021,"dav. Hannover, Lhst.",im Alter bis unter 18 Jahren,Deutsche,K03241001,164.0
+2021,"dav. Hannover, Umland",im Alter bis unter 18 Jahren,Deutsche,K03241999,88.0
+2021,Diepholz,im Alter bis unter 18 Jahren,Deutsche,K03251,60.0
+2021,Hameln-Pyrmont,im Alter bis unter 18 Jahren,Deutsche,K03252,103.0
+2021,Hildesheim,im Alter bis unter 18 Jahren,Deutsche,K03254,92.0
+2021,Holzminden,im Alter bis unter 18 Jahren,Deutsche,K03255,94.0
+2021,Nienburg (Weser),im Alter bis unter 18 Jahren,Deutsche,K03256,90.0
+2021,Schaumburg,im Alter bis unter 18 Jahren,Deutsche,K03257,73.0
+2021,Statistische Region Hannover,im Alter bis unter 18 Jahren,Deutsche,K032,103.0
+2021,Celle,im Alter bis unter 18 Jahren,Deutsche,K03351,90.0
+2021,Cuxhaven,im Alter bis unter 18 Jahren,Deutsche,K03352,76.0
+2021,Harburg,im Alter bis unter 18 Jahren,Deutsche,K03353,58.0
+2021,Lüchow-Dannenberg,im Alter bis unter 18 Jahren,Deutsche,K03354,88.0
+2021,Lüneburg,im Alter bis unter 18 Jahren,Deutsche,K03355,69.0
+2021,Osterholz,im Alter bis unter 18 Jahren,Deutsche,K03356,41.0
+2021,Rotenburg (Wümme),im Alter bis unter 18 Jahren,Deutsche,K03357,44.0
+2021,Heidekreis,im Alter bis unter 18 Jahren,Deutsche,K03358,84.0
+2021,Stade,im Alter bis unter 18 Jahren,Deutsche,K03359,84.0
+2021,Uelzen,im Alter bis unter 18 Jahren,Deutsche,K03360,72.0
+2021,Verden,im Alter bis unter 18 Jahren,Deutsche,K03361,57.0
+2021,Statistische Region Lüneburg,im Alter bis unter 18 Jahren,Deutsche,K033,68.0
+2021,"Delmenhorst, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03401,157.0
+2021,"Emden, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03402,156.0
+2021,"Oldenburg (Oldb), Stadt",im Alter bis unter 18 Jahren,Deutsche,K03403,123.0
+2021,"Osnabrück, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03404,122.0
+2021,"Wilhelmshaven, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03405,198.0
+2021,Ammerland,im Alter bis unter 18 Jahren,Deutsche,K03451,52.0
+2021,Aurich,im Alter bis unter 18 Jahren,Deutsche,K03452,102.0
+2021,Cloppenburg,im Alter bis unter 18 Jahren,Deutsche,K03453,51.0
+2021,Emsland,im Alter bis unter 18 Jahren,Deutsche,K03454,34.0
+2021,Friesland,im Alter bis unter 18 Jahren,Deutsche,K03455,58.0
+2021,Grafschaft Bentheim,im Alter bis unter 18 Jahren,Deutsche,K03456,50.0
+2021,Leer,im Alter bis unter 18 Jahren,Deutsche,K03457,55.0
+2021,Oldenburg,im Alter bis unter 18 Jahren,Deutsche,K03458,44.0
+2021,Osnabrück,im Alter bis unter 18 Jahren,Deutsche,K03459,37.0
+2021,Vechta,im Alter bis unter 18 Jahren,Deutsche,K03460,41.0
+2021,Wesermarsch,im Alter bis unter 18 Jahren,Deutsche,K03461,99.0
+2021,Wittmund,im Alter bis unter 18 Jahren,Deutsche,K03462,75.0
+2021,Statistische Region Weser-Ems,im Alter bis unter 18 Jahren,Deutsche,K034,68.0
+2021,Niedersachsen,im Alter bis unter 18 Jahren,Deutsche,K030,80.0
 2020,"Braunschweig, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03101,103.0
 2020,"Salzgitter, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03102,141.0
 2020,"Wolfsburg, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03103,83.0
@@ -10,7 +62,7 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2020,Wolfenbüttel,im Alter bis unter 18 Jahren,Deutsche,K03158,75.0
 2020,Göttingen,im Alter bis unter 18 Jahren,Deutsche,K03159,80.0
 2020,Statistische Region Braunschweig,im Alter bis unter 18 Jahren,Deutsche,K031,90.0
-2020,Hannover  Region,im Alter bis unter 18 Jahren,Deutsche,K03241,128.0
+2020,Region Hannover,im Alter bis unter 18 Jahren,Deutsche,K03241,128.0
 2020,"dav. Hannover, Lhst.",im Alter bis unter 18 Jahren,Deutsche,K03241001,175.0
 2020,"dav. Hannover, Umland",im Alter bis unter 18 Jahren,Deutsche,K03241999,94.0
 2020,Diepholz,im Alter bis unter 18 Jahren,Deutsche,K03251,65.0
@@ -33,8 +85,60 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2020,Verden,im Alter bis unter 18 Jahren,Deutsche,K03361,65.0
 2020,Statistische Region Lüneburg,im Alter bis unter 18 Jahren,Deutsche,K033,75.0
 2020,"Delmenhorst, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03401,175.0
-2020,Emden  Stadt,im Alter bis unter 18 Jahren,Deutsche,K03402,166.0
-2020,"Oldenburg(Oldb), Stadt",im Alter bis unter 18 Jahren,Deutsche,K03403,132.0
+2020,"Emden, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03402,166.0
+2020,"Oldenburg (Oldb), Stadt",im Alter bis unter 18 Jahren,Deutsche,K03403,132.0
+2020,"Osnabrück, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03404,131.0
+2020,"Wilhelmshaven, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03405,200.0
+2020,Ammerland,im Alter bis unter 18 Jahren,Deutsche,K03451,60.0
+2020,Aurich,im Alter bis unter 18 Jahren,Deutsche,K03452,111.0
+2020,Cloppenburg,im Alter bis unter 18 Jahren,Deutsche,K03453,56.0
+2020,Emsland,im Alter bis unter 18 Jahren,Deutsche,K03454,38.0
+2020,Friesland,im Alter bis unter 18 Jahren,Deutsche,K03455,63.0
+2020,Grafschaft Bentheim,im Alter bis unter 18 Jahren,Deutsche,K03456,55.0
+2020,Leer,im Alter bis unter 18 Jahren,Deutsche,K03457,56.0
+2020,Oldenburg,im Alter bis unter 18 Jahren,Deutsche,K03458,47.0
+2020,Osnabrück,im Alter bis unter 18 Jahren,Deutsche,K03459,40.0
+2020,Vechta,im Alter bis unter 18 Jahren,Deutsche,K03460,46.0
+2020,Wesermarsch,im Alter bis unter 18 Jahren,Deutsche,K03461,108.0
+2020,Wittmund,im Alter bis unter 18 Jahren,Deutsche,K03462,82.0
+2020,Statistische Region Weser-Ems,im Alter bis unter 18 Jahren,Deutsche,K034,74.0
+2020,Niedersachsen,im Alter bis unter 18 Jahren,Deutsche,K030,87.0
+2020,"Braunschweig, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03101,103.0
+2020,"Salzgitter, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03102,141.0
+2020,"Wolfsburg, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03103,83.0
+2020,Gifhorn,im Alter bis unter 18 Jahren,Deutsche,K03151,55.0
+2020,Goslar,im Alter bis unter 18 Jahren,Deutsche,K03153,127.0
+2020,Helmstedt,im Alter bis unter 18 Jahren,Deutsche,K03154,81.0
+2020,Northeim,im Alter bis unter 18 Jahren,Deutsche,K03155,87.0
+2020,Peine,im Alter bis unter 18 Jahren,Deutsche,K03157,98.0
+2020,Wolfenbüttel,im Alter bis unter 18 Jahren,Deutsche,K03158,75.0
+2020,Göttingen,im Alter bis unter 18 Jahren,Deutsche,K03159,80.0
+2020,Statistische Region Braunschweig,im Alter bis unter 18 Jahren,Deutsche,K031,90.0
+2020,Region Hannover,im Alter bis unter 18 Jahren,Deutsche,K03241,128.0
+2020,"dav. Hannover, Lhst.",im Alter bis unter 18 Jahren,Deutsche,K03241001,175.0
+2020,"dav. Hannover, Umland",im Alter bis unter 18 Jahren,Deutsche,K03241999,94.0
+2020,Diepholz,im Alter bis unter 18 Jahren,Deutsche,K03251,65.0
+2020,Hameln-Pyrmont,im Alter bis unter 18 Jahren,Deutsche,K03252,109.0
+2020,Hildesheim,im Alter bis unter 18 Jahren,Deutsche,K03254,97.0
+2020,Holzminden,im Alter bis unter 18 Jahren,Deutsche,K03255,105.0
+2020,Nienburg (Weser),im Alter bis unter 18 Jahren,Deutsche,K03256,99.0
+2020,Schaumburg,im Alter bis unter 18 Jahren,Deutsche,K03257,78.0
+2020,Statistische Region Hannover,im Alter bis unter 18 Jahren,Deutsche,K032,110.0
+2020,Celle,im Alter bis unter 18 Jahren,Deutsche,K03351,99.0
+2020,Cuxhaven,im Alter bis unter 18 Jahren,Deutsche,K03352,84.0
+2020,Harburg,im Alter bis unter 18 Jahren,Deutsche,K03353,63.0
+2020,Lüchow-Dannenberg,im Alter bis unter 18 Jahren,Deutsche,K03354,103.0
+2020,Lüneburg,im Alter bis unter 18 Jahren,Deutsche,K03355,77.0
+2020,Osterholz,im Alter bis unter 18 Jahren,Deutsche,K03356,45.0
+2020,Rotenburg (Wümme),im Alter bis unter 18 Jahren,Deutsche,K03357,47.0
+2020,Heidekreis,im Alter bis unter 18 Jahren,Deutsche,K03358,91.0
+2020,Stade,im Alter bis unter 18 Jahren,Deutsche,K03359,93.0
+2020,Uelzen,im Alter bis unter 18 Jahren,Deutsche,K03360,73.0
+2020,Verden,im Alter bis unter 18 Jahren,Deutsche,K03361,65.0
+2020,Statistische Region Lüneburg,im Alter bis unter 18 Jahren,Deutsche,K033,75.0
+2020,"Delmenhorst, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03401,175.0
+2020,"Emden, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03402,166.0
+2020,"Oldenburg (Oldb), Stadt",im Alter bis unter 18 Jahren,Deutsche,K03403,132.0
 2020,"Osnabrück, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03404,131.0
 2020,"Wilhelmshaven, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03405,200.0
 2020,Ammerland,im Alter bis unter 18 Jahren,Deutsche,K03451,60.0
@@ -62,7 +166,7 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2019,Wolfenbüttel,im Alter bis unter 18 Jahren,Deutsche,K03158,80.0
 2019,Göttingen,im Alter bis unter 18 Jahren,Deutsche,K03159,82.0
 2019,Statistische Region Braunschweig,im Alter bis unter 18 Jahren,Deutsche,K031,93.0
-2019,Hannover  Region,im Alter bis unter 18 Jahren,Deutsche,K03241,130.0
+2019,Region Hannover,im Alter bis unter 18 Jahren,Deutsche,K03241,130.0
 2019,"dav. Hannover, Lhst.",im Alter bis unter 18 Jahren,Deutsche,K03241001,177.0
 2019,"dav. Hannover, Umland",im Alter bis unter 18 Jahren,Deutsche,K03241999,95.0
 2019,Diepholz,im Alter bis unter 18 Jahren,Deutsche,K03251,70.0
@@ -85,8 +189,8 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2019,Verden,im Alter bis unter 18 Jahren,Deutsche,K03361,71.0
 2019,Statistische Region Lüneburg,im Alter bis unter 18 Jahren,Deutsche,K033,80.0
 2019,"Delmenhorst, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03401,179.0
-2019,Emden  Stadt,im Alter bis unter 18 Jahren,Deutsche,K03402,171.0
-2019,"Oldenburg(Oldb), Stadt",im Alter bis unter 18 Jahren,Deutsche,K03403,137.0
+2019,"Emden, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03402,171.0
+2019,"Oldenburg (Oldb), Stadt",im Alter bis unter 18 Jahren,Deutsche,K03403,137.0
 2019,"Osnabrück, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03404,135.0
 2019,"Wilhelmshaven, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03405,205.0
 2019,Ammerland,im Alter bis unter 18 Jahren,Deutsche,K03451,58.0
@@ -114,7 +218,7 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2018,Wolfenbüttel,im Alter bis unter 18 Jahren,Deutsche,K03158,83.0
 2018,Göttingen,im Alter bis unter 18 Jahren,Deutsche,K03159,91.0
 2018,Statistische Region Braunschweig,im Alter bis unter 18 Jahren,Deutsche,K031,99.0
-2018,Hannover  Region,im Alter bis unter 18 Jahren,Deutsche,K03241,138.0
+2018,Region Hannover,im Alter bis unter 18 Jahren,Deutsche,K03241,138.0
 2018,"dav. Hannover, Lhst.",im Alter bis unter 18 Jahren,Deutsche,K03241001,186.0
 2018,"dav. Hannover, Umland",im Alter bis unter 18 Jahren,Deutsche,K03241999,101.0
 2018,Diepholz,im Alter bis unter 18 Jahren,Deutsche,K03251,80.0
@@ -137,8 +241,8 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2018,Verden,im Alter bis unter 18 Jahren,Deutsche,K03361,78.0
 2018,Statistische Region Lüneburg,im Alter bis unter 18 Jahren,Deutsche,K033,86.0
 2018,"Delmenhorst, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03401,187.0
-2018,Emden  Stadt,im Alter bis unter 18 Jahren,Deutsche,K03402,171.0
-2018,"Oldenburg(Oldb), Stadt",im Alter bis unter 18 Jahren,Deutsche,K03403,146.0
+2018,"Emden, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03402,171.0
+2018,"Oldenburg (Oldb), Stadt",im Alter bis unter 18 Jahren,Deutsche,K03403,146.0
 2018,"Osnabrück, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03404,148.0
 2018,"Wilhelmshaven, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03405,213.0
 2018,Ammerland,im Alter bis unter 18 Jahren,Deutsche,K03451,67.0
@@ -166,7 +270,7 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2017,Wolfenbüttel,im Alter bis unter 18 Jahren,Deutsche,K03158,91.0
 2017,Göttingen,im Alter bis unter 18 Jahren,Deutsche,K03159,98.0
 2017,Statistische Region Braunschweig,im Alter bis unter 18 Jahren,Deutsche,K031,105.0
-2017,Hannover  Region,im Alter bis unter 18 Jahren,Deutsche,K03241,147.0
+2017,Region Hannover,im Alter bis unter 18 Jahren,Deutsche,K03241,147.0
 2017,"dav. Hannover, Lhst.",im Alter bis unter 18 Jahren,Deutsche,K03241001,195.0
 2017,"dav. Hannover, Umland",im Alter bis unter 18 Jahren,Deutsche,K03241999,110.356446554209
 2017,Diepholz,im Alter bis unter 18 Jahren,Deutsche,K03251,88.0
@@ -189,8 +293,8 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2017,Verden,im Alter bis unter 18 Jahren,Deutsche,K03361,89.0
 2017,Statistische Region Lüneburg,im Alter bis unter 18 Jahren,Deutsche,K033,94.0
 2017,"Delmenhorst, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03401,202.0
-2017,Emden  Stadt,im Alter bis unter 18 Jahren,Deutsche,K03402,179.0
-2017,"Oldenburg(Oldb), Stadt",im Alter bis unter 18 Jahren,Deutsche,K03403,160.0
+2017,"Emden, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03402,179.0
+2017,"Oldenburg (Oldb), Stadt",im Alter bis unter 18 Jahren,Deutsche,K03403,160.0
 2017,"Osnabrück, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03404,160.0
 2017,"Wilhelmshaven, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03405,243.0
 2017,Ammerland,im Alter bis unter 18 Jahren,Deutsche,K03451,76.0
@@ -218,7 +322,7 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2016,Wolfenbüttel,im Alter bis unter 18 Jahren,Deutsche,K03158,100.0
 2016,Göttingen,im Alter bis unter 18 Jahren,Deutsche,K03159,103.0
 2016,Statistische Region Braunschweig,im Alter bis unter 18 Jahren,Deutsche,K031,112.0
-2016,Hannover  Region,im Alter bis unter 18 Jahren,Deutsche,K03241,153.0
+2016,Region Hannover,im Alter bis unter 18 Jahren,Deutsche,K03241,153.0
 2016,"dav. Hannover, Lhst.",im Alter bis unter 18 Jahren,Deutsche,K03241001,203.0
 2016,"dav. Hannover, Umland",im Alter bis unter 18 Jahren,Deutsche,K03241999,115.974366566558
 2016,Diepholz,im Alter bis unter 18 Jahren,Deutsche,K03251,94.0
@@ -241,8 +345,8 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2016,Verden,im Alter bis unter 18 Jahren,Deutsche,K03361,93.0
 2016,Statistische Region Lüneburg,im Alter bis unter 18 Jahren,Deutsche,K033,99.0
 2016,"Delmenhorst, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03401,225.0
-2016,Emden  Stadt,im Alter bis unter 18 Jahren,Deutsche,K03402,177.0
-2016,"Oldenburg(Oldb), Stadt",im Alter bis unter 18 Jahren,Deutsche,K03403,168.0
+2016,"Emden, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03402,177.0
+2016,"Oldenburg (Oldb), Stadt",im Alter bis unter 18 Jahren,Deutsche,K03403,168.0
 2016,"Osnabrück, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03404,171.0
 2016,"Wilhelmshaven, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03405,247.0
 2016,Ammerland,im Alter bis unter 18 Jahren,Deutsche,K03451,78.0
@@ -270,7 +374,7 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2015,Wolfenbüttel,im Alter bis unter 18 Jahren,Deutsche,K03158,101.0
 2015,Göttingen,im Alter bis unter 18 Jahren,Deutsche,K03159,110.355806049133
 2015,Statistische Region Braunschweig,im Alter bis unter 18 Jahren,Deutsche,K031,115.0
-2015,Hannover  Region,im Alter bis unter 18 Jahren,Deutsche,K03241,155.0
+2015,Region Hannover,im Alter bis unter 18 Jahren,Deutsche,K03241,155.0
 2015,"dav. Hannover, Lhst.",im Alter bis unter 18 Jahren,Deutsche,K03241001,203.0
 2015,"dav. Hannover, Umland",im Alter bis unter 18 Jahren,Deutsche,K03241999,119.16196548036
 2015,Diepholz,im Alter bis unter 18 Jahren,Deutsche,K03251,95.0
@@ -293,8 +397,8 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2015,Verden,im Alter bis unter 18 Jahren,Deutsche,K03361,96.0
 2015,Statistische Region Lüneburg,im Alter bis unter 18 Jahren,Deutsche,K033,101.0
 2015,"Delmenhorst, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03401,237.0
-2015,Emden  Stadt,im Alter bis unter 18 Jahren,Deutsche,K03402,174.0
-2015,"Oldenburg(Oldb), Stadt",im Alter bis unter 18 Jahren,Deutsche,K03403,173.0
+2015,"Emden, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03402,174.0
+2015,"Oldenburg (Oldb), Stadt",im Alter bis unter 18 Jahren,Deutsche,K03403,173.0
 2015,"Osnabrück, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03404,181.0
 2015,"Wilhelmshaven, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03405,249.0
 2015,Ammerland,im Alter bis unter 18 Jahren,Deutsche,K03451,79.0
@@ -322,7 +426,7 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2014,Wolfenbüttel,im Alter bis unter 18 Jahren,Deutsche,K03158,110.0
 2014,Göttingen,im Alter bis unter 18 Jahren,Deutsche,K03159,118.091649341649
 2014,Statistische Region Braunschweig,im Alter bis unter 18 Jahren,Deutsche,K031,120.0
-2014,Hannover  Region,im Alter bis unter 18 Jahren,Deutsche,K03241,161.0
+2014,Region Hannover,im Alter bis unter 18 Jahren,Deutsche,K03241,161.0
 2014,"dav. Hannover, Lhst.",im Alter bis unter 18 Jahren,Deutsche,K03241001,213.0
 2014,"dav. Hannover, Umland",im Alter bis unter 18 Jahren,Deutsche,K03241999,122.52021338668
 2014,Diepholz,im Alter bis unter 18 Jahren,Deutsche,K03251,96.0
@@ -345,8 +449,8 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2014,Verden,im Alter bis unter 18 Jahren,Deutsche,K03361,98.0
 2014,Statistische Region Lüneburg,im Alter bis unter 18 Jahren,Deutsche,K033,103.0
 2014,"Delmenhorst, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03401,237.0
-2014,Emden  Stadt,im Alter bis unter 18 Jahren,Deutsche,K03402,177.0
-2014,"Oldenburg(Oldb), Stadt",im Alter bis unter 18 Jahren,Deutsche,K03403,179.0
+2014,"Emden, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03402,177.0
+2014,"Oldenburg (Oldb), Stadt",im Alter bis unter 18 Jahren,Deutsche,K03403,179.0
 2014,"Osnabrück, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03404,182.0
 2014,"Wilhelmshaven, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03405,244.0
 2014,Ammerland,im Alter bis unter 18 Jahren,Deutsche,K03451,83.0
@@ -363,6 +467,58 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2014,Wittmund,im Alter bis unter 18 Jahren,Deutsche,K03462,119.0
 2014,Statistische Region Weser-Ems,im Alter bis unter 18 Jahren,Deutsche,K034,104.0
 2014,Niedersachsen,im Alter bis unter 18 Jahren,Deutsche,K030,117.0
+2021,"Braunschweig, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03101,74.0
+2021,"Salzgitter, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03102,104.0
+2021,"Wolfsburg, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03103,58.0
+2021,Gifhorn,im Alter von 18 bis unter 65 Jahren,Deutsche,K03151,44.0
+2021,Goslar,im Alter von 18 bis unter 65 Jahren,Deutsche,K03153,96.0
+2021,Helmstedt,im Alter von 18 bis unter 65 Jahren,Deutsche,K03154,75.0
+2021,Northeim,im Alter von 18 bis unter 65 Jahren,Deutsche,K03155,66.0
+2021,Peine,im Alter von 18 bis unter 65 Jahren,Deutsche,K03157,59.0
+2021,Wolfenbüttel,im Alter von 18 bis unter 65 Jahren,Deutsche,K03158,59.0
+2021,Göttingen,im Alter von 18 bis unter 65 Jahren,Deutsche,K03159,67.0
+2021,Statistische Region Braunschweig,im Alter von 18 bis unter 65 Jahren,Deutsche,K031,68.0
+2021,Region Hannover,im Alter von 18 bis unter 65 Jahren,Deutsche,K03241,78.0
+2021,"dav. Hannover, Lhst.",im Alter von 18 bis unter 65 Jahren,Deutsche,K03241001,97.0
+2021,"dav. Hannover, Umland",im Alter von 18 bis unter 65 Jahren,Deutsche,K03241999,61.0
+2021,Diepholz,im Alter von 18 bis unter 65 Jahren,Deutsche,K03251,45.0
+2021,Hameln-Pyrmont,im Alter von 18 bis unter 65 Jahren,Deutsche,K03252,78.0
+2021,Hildesheim,im Alter von 18 bis unter 65 Jahren,Deutsche,K03254,73.0
+2021,Holzminden,im Alter von 18 bis unter 65 Jahren,Deutsche,K03255,81.0
+2021,Nienburg (Weser),im Alter von 18 bis unter 65 Jahren,Deutsche,K03256,66.0
+2021,Schaumburg,im Alter von 18 bis unter 65 Jahren,Deutsche,K03257,59.0
+2021,Statistische Region Hannover,im Alter von 18 bis unter 65 Jahren,Deutsche,K032,72.0
+2021,Celle,im Alter von 18 bis unter 65 Jahren,Deutsche,K03351,79.0
+2021,Cuxhaven,im Alter von 18 bis unter 65 Jahren,Deutsche,K03352,59.0
+2021,Harburg,im Alter von 18 bis unter 65 Jahren,Deutsche,K03353,39.0
+2021,Lüchow-Dannenberg,im Alter von 18 bis unter 65 Jahren,Deutsche,K03354,94.0
+2021,Lüneburg,im Alter von 18 bis unter 65 Jahren,Deutsche,K03355,62.0
+2021,Osterholz,im Alter von 18 bis unter 65 Jahren,Deutsche,K03356,37.0
+2021,Rotenburg (Wümme),im Alter von 18 bis unter 65 Jahren,Deutsche,K03357,44.0
+2021,Heidekreis,im Alter von 18 bis unter 65 Jahren,Deutsche,K03358,62.0
+2021,Stade,im Alter von 18 bis unter 65 Jahren,Deutsche,K03359,60.0
+2021,Uelzen,im Alter von 18 bis unter 65 Jahren,Deutsche,K03360,68.0
+2021,Verden,im Alter von 18 bis unter 65 Jahren,Deutsche,K03361,44.0
+2021,Statistische Region Lüneburg,im Alter von 18 bis unter 65 Jahren,Deutsche,K033,56.0
+2021,"Delmenhorst, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03401,116.0
+2021,"Emden, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03402,113.0
+2021,"Oldenburg (Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03403,85.0
+2021,"Osnabrück, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03404,78.0
+2021,"Wilhelmshaven, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03405,148.0
+2021,Ammerland,im Alter von 18 bis unter 65 Jahren,Deutsche,K03451,45.0
+2021,Aurich,im Alter von 18 bis unter 65 Jahren,Deutsche,K03452,75.0
+2021,Cloppenburg,im Alter von 18 bis unter 65 Jahren,Deutsche,K03453,46.0
+2021,Emsland,im Alter von 18 bis unter 65 Jahren,Deutsche,K03454,42.0
+2021,Friesland,im Alter von 18 bis unter 65 Jahren,Deutsche,K03455,51.0
+2021,Grafschaft Bentheim,im Alter von 18 bis unter 65 Jahren,Deutsche,K03456,44.0
+2021,Leer,im Alter von 18 bis unter 65 Jahren,Deutsche,K03457,58.0
+2021,Oldenburg,im Alter von 18 bis unter 65 Jahren,Deutsche,K03458,39.0
+2021,Osnabrück,im Alter von 18 bis unter 65 Jahren,Deutsche,K03459,35.0
+2021,Vechta,im Alter von 18 bis unter 65 Jahren,Deutsche,K03460,32.0
+2021,Wesermarsch,im Alter von 18 bis unter 65 Jahren,Deutsche,K03461,71.0
+2021,Wittmund,im Alter von 18 bis unter 65 Jahren,Deutsche,K03462,64.0
+2021,Statistische Region Weser-Ems,im Alter von 18 bis unter 65 Jahren,Deutsche,K034,58.0
+2021,Niedersachsen,im Alter von 18 bis unter 65 Jahren,Deutsche,K030,63.0
 2020,"Braunschweig, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03101,78.0
 2020,"Salzgitter, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03102,107.0
 2020,"Wolfsburg, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03103,60.0
@@ -374,7 +530,7 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2020,Wolfenbüttel,im Alter von 18 bis unter 65 Jahren,Deutsche,K03158,61.0
 2020,Göttingen,im Alter von 18 bis unter 65 Jahren,Deutsche,K03159,70.0
 2020,Statistische Region Braunschweig,im Alter von 18 bis unter 65 Jahren,Deutsche,K031,71.0
-2020,Hannover  Region,im Alter von 18 bis unter 65 Jahren,Deutsche,K03241,82.0
+2020,Region Hannover,im Alter von 18 bis unter 65 Jahren,Deutsche,K03241,82.0
 2020,"dav. Hannover, Lhst.",im Alter von 18 bis unter 65 Jahren,Deutsche,K03241001,103.0
 2020,"dav. Hannover, Umland",im Alter von 18 bis unter 65 Jahren,Deutsche,K03241999,64.0
 2020,Diepholz,im Alter von 18 bis unter 65 Jahren,Deutsche,K03251,50.0
@@ -397,8 +553,60 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2020,Verden,im Alter von 18 bis unter 65 Jahren,Deutsche,K03361,47.0
 2020,Statistische Region Lüneburg,im Alter von 18 bis unter 65 Jahren,Deutsche,K033,59.0
 2020,"Delmenhorst, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03401,123.0
-2020,Emden  Stadt,im Alter von 18 bis unter 65 Jahren,Deutsche,K03402,118.0
-2020,"Oldenburg(Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03403,91.0
+2020,"Emden, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03402,118.0
+2020,"Oldenburg (Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03403,91.0
+2020,"Osnabrück, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03404,82.0
+2020,"Wilhelmshaven, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03405,155.0
+2020,Ammerland,im Alter von 18 bis unter 65 Jahren,Deutsche,K03451,49.0
+2020,Aurich,im Alter von 18 bis unter 65 Jahren,Deutsche,K03452,80.0
+2020,Cloppenburg,im Alter von 18 bis unter 65 Jahren,Deutsche,K03453,48.0
+2020,Emsland,im Alter von 18 bis unter 65 Jahren,Deutsche,K03454,45.0
+2020,Friesland,im Alter von 18 bis unter 65 Jahren,Deutsche,K03455,53.0
+2020,Grafschaft Bentheim,im Alter von 18 bis unter 65 Jahren,Deutsche,K03456,47.0
+2020,Leer,im Alter von 18 bis unter 65 Jahren,Deutsche,K03457,60.0
+2020,Oldenburg,im Alter von 18 bis unter 65 Jahren,Deutsche,K03458,41.0
+2020,Osnabrück,im Alter von 18 bis unter 65 Jahren,Deutsche,K03459,37.0
+2020,Vechta,im Alter von 18 bis unter 65 Jahren,Deutsche,K03460,34.0
+2020,Wesermarsch,im Alter von 18 bis unter 65 Jahren,Deutsche,K03461,75.0
+2020,Wittmund,im Alter von 18 bis unter 65 Jahren,Deutsche,K03462,67.0
+2020,Statistische Region Weser-Ems,im Alter von 18 bis unter 65 Jahren,Deutsche,K034,62.0
+2020,Niedersachsen,im Alter von 18 bis unter 65 Jahren,Deutsche,K030,67.0
+2020,"Braunschweig, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03101,78.0
+2020,"Salzgitter, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03102,107.0
+2020,"Wolfsburg, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03103,60.0
+2020,Gifhorn,im Alter von 18 bis unter 65 Jahren,Deutsche,K03151,46.0
+2020,Goslar,im Alter von 18 bis unter 65 Jahren,Deutsche,K03153,99.0
+2020,Helmstedt,im Alter von 18 bis unter 65 Jahren,Deutsche,K03154,81.0
+2020,Northeim,im Alter von 18 bis unter 65 Jahren,Deutsche,K03155,69.0
+2020,Peine,im Alter von 18 bis unter 65 Jahren,Deutsche,K03157,61.0
+2020,Wolfenbüttel,im Alter von 18 bis unter 65 Jahren,Deutsche,K03158,61.0
+2020,Göttingen,im Alter von 18 bis unter 65 Jahren,Deutsche,K03159,70.0
+2020,Statistische Region Braunschweig,im Alter von 18 bis unter 65 Jahren,Deutsche,K031,71.0
+2020,Region Hannover,im Alter von 18 bis unter 65 Jahren,Deutsche,K03241,82.0
+2020,"dav. Hannover, Lhst.",im Alter von 18 bis unter 65 Jahren,Deutsche,K03241001,103.0
+2020,"dav. Hannover, Umland",im Alter von 18 bis unter 65 Jahren,Deutsche,K03241999,64.0
+2020,Diepholz,im Alter von 18 bis unter 65 Jahren,Deutsche,K03251,50.0
+2020,Hameln-Pyrmont,im Alter von 18 bis unter 65 Jahren,Deutsche,K03252,83.0
+2020,Hildesheim,im Alter von 18 bis unter 65 Jahren,Deutsche,K03254,76.0
+2020,Holzminden,im Alter von 18 bis unter 65 Jahren,Deutsche,K03255,84.0
+2020,Nienburg (Weser),im Alter von 18 bis unter 65 Jahren,Deutsche,K03256,70.0
+2020,Schaumburg,im Alter von 18 bis unter 65 Jahren,Deutsche,K03257,63.0
+2020,Statistische Region Hannover,im Alter von 18 bis unter 65 Jahren,Deutsche,K032,76.0
+2020,Celle,im Alter von 18 bis unter 65 Jahren,Deutsche,K03351,83.0
+2020,Cuxhaven,im Alter von 18 bis unter 65 Jahren,Deutsche,K03352,61.0
+2020,Harburg,im Alter von 18 bis unter 65 Jahren,Deutsche,K03353,41.0
+2020,Lüchow-Dannenberg,im Alter von 18 bis unter 65 Jahren,Deutsche,K03354,98.0
+2020,Lüneburg,im Alter von 18 bis unter 65 Jahren,Deutsche,K03355,65.0
+2020,Osterholz,im Alter von 18 bis unter 65 Jahren,Deutsche,K03356,39.0
+2020,Rotenburg (Wümme),im Alter von 18 bis unter 65 Jahren,Deutsche,K03357,47.0
+2020,Heidekreis,im Alter von 18 bis unter 65 Jahren,Deutsche,K03358,66.0
+2020,Stade,im Alter von 18 bis unter 65 Jahren,Deutsche,K03359,63.0
+2020,Uelzen,im Alter von 18 bis unter 65 Jahren,Deutsche,K03360,70.0
+2020,Verden,im Alter von 18 bis unter 65 Jahren,Deutsche,K03361,47.0
+2020,Statistische Region Lüneburg,im Alter von 18 bis unter 65 Jahren,Deutsche,K033,59.0
+2020,"Delmenhorst, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03401,123.0
+2020,"Emden, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03402,118.0
+2020,"Oldenburg (Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03403,91.0
 2020,"Osnabrück, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03404,82.0
 2020,"Wilhelmshaven, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03405,155.0
 2020,Ammerland,im Alter von 18 bis unter 65 Jahren,Deutsche,K03451,49.0
@@ -426,7 +634,7 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2019,Wolfenbüttel,im Alter von 18 bis unter 65 Jahren,Deutsche,K03158,62.0
 2019,Göttingen,im Alter von 18 bis unter 65 Jahren,Deutsche,K03159,67.0
 2019,Statistische Region Braunschweig,im Alter von 18 bis unter 65 Jahren,Deutsche,K031,69.0
-2019,Hannover  Region,im Alter von 18 bis unter 65 Jahren,Deutsche,K03241,77.0
+2019,Region Hannover,im Alter von 18 bis unter 65 Jahren,Deutsche,K03241,77.0
 2019,"dav. Hannover, Lhst.",im Alter von 18 bis unter 65 Jahren,Deutsche,K03241001,97.0
 2019,"dav. Hannover, Umland",im Alter von 18 bis unter 65 Jahren,Deutsche,K03241999,60.0
 2019,Diepholz,im Alter von 18 bis unter 65 Jahren,Deutsche,K03251,48.0
@@ -449,8 +657,8 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2019,Verden,im Alter von 18 bis unter 65 Jahren,Deutsche,K03361,48.0
 2019,Statistische Region Lüneburg,im Alter von 18 bis unter 65 Jahren,Deutsche,K033,58.0
 2019,"Delmenhorst, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03401,117.0
-2019,Emden  Stadt,im Alter von 18 bis unter 65 Jahren,Deutsche,K03402,118.0
-2019,"Oldenburg(Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03403,86.0
+2019,"Emden, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03402,118.0
+2019,"Oldenburg (Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03403,86.0
 2019,"Osnabrück, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03404,78.0
 2019,"Wilhelmshaven, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03405,151.0
 2019,Ammerland,im Alter von 18 bis unter 65 Jahren,Deutsche,K03451,45.0
@@ -478,7 +686,7 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2018,Wolfenbüttel,im Alter von 18 bis unter 65 Jahren,Deutsche,K03158,66.0
 2018,Göttingen,im Alter von 18 bis unter 65 Jahren,Deutsche,K03159,70.0
 2018,Statistische Region Braunschweig,im Alter von 18 bis unter 65 Jahren,Deutsche,K031,73.0
-2018,Hannover  Region,im Alter von 18 bis unter 65 Jahren,Deutsche,K03241,82.0
+2018,Region Hannover,im Alter von 18 bis unter 65 Jahren,Deutsche,K03241,82.0
 2018,"dav. Hannover, Lhst.",im Alter von 18 bis unter 65 Jahren,Deutsche,K03241001,103.0
 2018,"dav. Hannover, Umland",im Alter von 18 bis unter 65 Jahren,Deutsche,K03241999,65.0
 2018,Diepholz,im Alter von 18 bis unter 65 Jahren,Deutsche,K03251,51.0
@@ -501,8 +709,8 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2018,Verden,im Alter von 18 bis unter 65 Jahren,Deutsche,K03361,51.0
 2018,Statistische Region Lüneburg,im Alter von 18 bis unter 65 Jahren,Deutsche,K033,62.0
 2018,"Delmenhorst, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03401,123.0
-2018,Emden  Stadt,im Alter von 18 bis unter 65 Jahren,Deutsche,K03402,119.0
-2018,"Oldenburg(Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03403,93.0
+2018,"Emden, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03402,119.0
+2018,"Oldenburg (Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03403,93.0
 2018,"Osnabrück, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03404,82.0
 2018,"Wilhelmshaven, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03405,160.0
 2018,Ammerland,im Alter von 18 bis unter 65 Jahren,Deutsche,K03451,48.0
@@ -530,7 +738,7 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2017,Wolfenbüttel,im Alter von 18 bis unter 65 Jahren,Deutsche,K03158,69.0
 2017,Göttingen,im Alter von 18 bis unter 65 Jahren,Deutsche,K03159,74.0
 2017,Statistische Region Braunschweig,im Alter von 18 bis unter 65 Jahren,Deutsche,K031,76.0
-2017,Hannover  Region,im Alter von 18 bis unter 65 Jahren,Deutsche,K03241,87.0
+2017,Region Hannover,im Alter von 18 bis unter 65 Jahren,Deutsche,K03241,87.0
 2017,"dav. Hannover, Lhst.",im Alter von 18 bis unter 65 Jahren,Deutsche,K03241001,108.0
 2017,"dav. Hannover, Umland",im Alter von 18 bis unter 65 Jahren,Deutsche,K03241999,69.7463569885481
 2017,Diepholz,im Alter von 18 bis unter 65 Jahren,Deutsche,K03251,55.0
@@ -553,8 +761,8 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2017,Verden,im Alter von 18 bis unter 65 Jahren,Deutsche,K03361,56.0
 2017,Statistische Region Lüneburg,im Alter von 18 bis unter 65 Jahren,Deutsche,K033,66.0
 2017,"Delmenhorst, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03401,129.0
-2017,Emden  Stadt,im Alter von 18 bis unter 65 Jahren,Deutsche,K03402,120.0
-2017,"Oldenburg(Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03403,99.0
+2017,"Emden, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03402,120.0
+2017,"Oldenburg (Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03403,99.0
 2017,"Osnabrück, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03404,86.0
 2017,"Wilhelmshaven, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03405,164.0
 2017,Ammerland,im Alter von 18 bis unter 65 Jahren,Deutsche,K03451,52.0
@@ -582,7 +790,7 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2016,Wolfenbüttel,im Alter von 18 bis unter 65 Jahren,Deutsche,K03158,75.0
 2016,Göttingen,im Alter von 18 bis unter 65 Jahren,Deutsche,K03159,76.0
 2016,Statistische Region Braunschweig,im Alter von 18 bis unter 65 Jahren,Deutsche,K031,79.0
-2016,Hannover  Region,im Alter von 18 bis unter 65 Jahren,Deutsche,K03241,91.0
+2016,Region Hannover,im Alter von 18 bis unter 65 Jahren,Deutsche,K03241,91.0
 2016,"dav. Hannover, Lhst.",im Alter von 18 bis unter 65 Jahren,Deutsche,K03241001,114.0
 2016,"dav. Hannover, Umland",im Alter von 18 bis unter 65 Jahren,Deutsche,K03241999,72.470744614773
 2016,Diepholz,im Alter von 18 bis unter 65 Jahren,Deutsche,K03251,57.0
@@ -605,8 +813,8 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2016,Verden,im Alter von 18 bis unter 65 Jahren,Deutsche,K03361,58.0
 2016,Statistische Region Lüneburg,im Alter von 18 bis unter 65 Jahren,Deutsche,K033,68.0
 2016,"Delmenhorst, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03401,133.0
-2016,Emden  Stadt,im Alter von 18 bis unter 65 Jahren,Deutsche,K03402,121.0
-2016,"Oldenburg(Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03403,102.0
+2016,"Emden, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03402,121.0
+2016,"Oldenburg (Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03403,102.0
 2016,"Osnabrück, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03404,90.0
 2016,"Wilhelmshaven, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03405,169.0
 2016,Ammerland,im Alter von 18 bis unter 65 Jahren,Deutsche,K03451,53.0
@@ -634,7 +842,7 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2015,Wolfenbüttel,im Alter von 18 bis unter 65 Jahren,Deutsche,K03158,75.0
 2015,Göttingen,im Alter von 18 bis unter 65 Jahren,Deutsche,K03159,80.0533191149027
 2015,Statistische Region Braunschweig,im Alter von 18 bis unter 65 Jahren,Deutsche,K031,78.0
-2015,Hannover  Region,im Alter von 18 bis unter 65 Jahren,Deutsche,K03241,92.0
+2015,Region Hannover,im Alter von 18 bis unter 65 Jahren,Deutsche,K03241,92.0
 2015,"dav. Hannover, Lhst.",im Alter von 18 bis unter 65 Jahren,Deutsche,K03241001,115.0
 2015,"dav. Hannover, Umland",im Alter von 18 bis unter 65 Jahren,Deutsche,K03241999,74.5483846212877
 2015,Diepholz,im Alter von 18 bis unter 65 Jahren,Deutsche,K03251,57.0
@@ -657,8 +865,8 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2015,Verden,im Alter von 18 bis unter 65 Jahren,Deutsche,K03361,59.0
 2015,Statistische Region Lüneburg,im Alter von 18 bis unter 65 Jahren,Deutsche,K033,69.0
 2015,"Delmenhorst, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03401,135.0
-2015,Emden  Stadt,im Alter von 18 bis unter 65 Jahren,Deutsche,K03402,115.0
-2015,"Oldenburg(Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03403,101.0
+2015,"Emden, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03402,115.0
+2015,"Oldenburg (Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03403,101.0
 2015,"Osnabrück, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03404,92.0
 2015,"Wilhelmshaven, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03405,171.0
 2015,Ammerland,im Alter von 18 bis unter 65 Jahren,Deutsche,K03451,52.0
@@ -686,7 +894,7 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2014,Wolfenbüttel,im Alter von 18 bis unter 65 Jahren,Deutsche,K03158,81.0
 2014,Göttingen,im Alter von 18 bis unter 65 Jahren,Deutsche,K03159,86.2490134916758
 2014,Statistische Region Braunschweig,im Alter von 18 bis unter 65 Jahren,Deutsche,K031,84.0
-2014,Hannover  Region,im Alter von 18 bis unter 65 Jahren,Deutsche,K03241,95.0
+2014,Region Hannover,im Alter von 18 bis unter 65 Jahren,Deutsche,K03241,95.0
 2014,"dav. Hannover, Lhst.",im Alter von 18 bis unter 65 Jahren,Deutsche,K03241001,119.0
 2014,"dav. Hannover, Umland",im Alter von 18 bis unter 65 Jahren,Deutsche,K03241999,75.3586361290204
 2014,Diepholz,im Alter von 18 bis unter 65 Jahren,Deutsche,K03251,59.0
@@ -709,8 +917,8 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2014,Verden,im Alter von 18 bis unter 65 Jahren,Deutsche,K03361,63.0
 2014,Statistische Region Lüneburg,im Alter von 18 bis unter 65 Jahren,Deutsche,K033,72.0
 2014,"Delmenhorst, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03401,132.0
-2014,Emden  Stadt,im Alter von 18 bis unter 65 Jahren,Deutsche,K03402,119.0
-2014,"Oldenburg(Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03403,108.0
+2014,"Emden, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03402,119.0
+2014,"Oldenburg (Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03403,108.0
 2014,"Osnabrück, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03404,99.0
 2014,"Wilhelmshaven, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03405,171.0
 2014,Ammerland,im Alter von 18 bis unter 65 Jahren,Deutsche,K03451,57.0
@@ -727,6 +935,58 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2014,Wittmund,im Alter von 18 bis unter 65 Jahren,Deutsche,K03462,82.0
 2014,Statistische Region Weser-Ems,im Alter von 18 bis unter 65 Jahren,Deutsche,K034,75.0
 2014,Niedersachsen,im Alter von 18 bis unter 65 Jahren,Deutsche,K030,80.0
+2021,"Braunschweig, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03101,37.0
+2021,"Salzgitter, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03102,33.0
+2021,"Wolfsburg, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03103,20.0
+2021,Gifhorn,im Alter von 65 Jahren und älter,Deutsche,K03151,18.0
+2021,Goslar,im Alter von 65 Jahren und älter,Deutsche,K03153,34.0
+2021,Helmstedt,im Alter von 65 Jahren und älter,Deutsche,K03154,24.0
+2021,Northeim,im Alter von 65 Jahren und älter,Deutsche,K03155,19.0
+2021,Peine,im Alter von 65 Jahren und älter,Deutsche,K03157,20.0
+2021,Wolfenbüttel,im Alter von 65 Jahren und älter,Deutsche,K03158,26.0
+2021,Göttingen,im Alter von 65 Jahren und älter,Deutsche,K03159,31.0
+2021,Statistische Region Braunschweig,im Alter von 65 Jahren und älter,Deutsche,K031,27.0
+2021,Region Hannover,im Alter von 65 Jahren und älter,Deutsche,K03241,40.0
+2021,"dav. Hannover, Lhst.",im Alter von 65 Jahren und älter,Deutsche,K03241001,62.0
+2021,"dav. Hannover, Umland",im Alter von 65 Jahren und älter,Deutsche,K03241999,26.0
+2021,Diepholz,im Alter von 65 Jahren und älter,Deutsche,K03251,24.0
+2021,Hameln-Pyrmont,im Alter von 65 Jahren und älter,Deutsche,K03252,31.0
+2021,Hildesheim,im Alter von 65 Jahren und älter,Deutsche,K03254,26.0
+2021,Holzminden,im Alter von 65 Jahren und älter,Deutsche,K03255,28.0
+2021,Nienburg (Weser),im Alter von 65 Jahren und älter,Deutsche,K03256,25.0
+2021,Schaumburg,im Alter von 65 Jahren und älter,Deutsche,K03257,25.0
+2021,Statistische Region Hannover,im Alter von 65 Jahren und älter,Deutsche,K032,33.0
+2021,Celle,im Alter von 65 Jahren und älter,Deutsche,K03351,35.0
+2021,Cuxhaven,im Alter von 65 Jahren und älter,Deutsche,K03352,22.0
+2021,Harburg,im Alter von 65 Jahren und älter,Deutsche,K03353,22.0
+2021,Lüchow-Dannenberg,im Alter von 65 Jahren und älter,Deutsche,K03354,30.0
+2021,Lüneburg,im Alter von 65 Jahren und älter,Deutsche,K03355,32.0
+2021,Osterholz,im Alter von 65 Jahren und älter,Deutsche,K03356,19.0
+2021,Rotenburg (Wümme),im Alter von 65 Jahren und älter,Deutsche,K03357,27.0
+2021,Heidekreis,im Alter von 65 Jahren und älter,Deutsche,K03358,24.0
+2021,Stade,im Alter von 65 Jahren und älter,Deutsche,K03359,24.0
+2021,Uelzen,im Alter von 65 Jahren und älter,Deutsche,K03360,26.0
+2021,Verden,im Alter von 65 Jahren und älter,Deutsche,K03361,21.0
+2021,Statistische Region Lüneburg,im Alter von 65 Jahren und älter,Deutsche,K033,25.0
+2021,"Delmenhorst, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03401,49.0
+2021,"Emden, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03402,42.0
+2021,"Oldenburg (Oldb), Stadt",im Alter von 65 Jahren und älter,Deutsche,K03403,44.0
+2021,"Osnabrück, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03404,44.0
+2021,"Wilhelmshaven, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03405,49.0
+2021,Ammerland,im Alter von 65 Jahren und älter,Deutsche,K03451,22.0
+2021,Aurich,im Alter von 65 Jahren und älter,Deutsche,K03452,23.0
+2021,Cloppenburg,im Alter von 65 Jahren und älter,Deutsche,K03453,29.0
+2021,Emsland,im Alter von 65 Jahren und älter,Deutsche,K03454,24.0
+2021,Friesland,im Alter von 65 Jahren und älter,Deutsche,K03455,20.0
+2021,Grafschaft Bentheim,im Alter von 65 Jahren und älter,Deutsche,K03456,24.0
+2021,Leer,im Alter von 65 Jahren und älter,Deutsche,K03457,25.0
+2021,Oldenburg,im Alter von 65 Jahren und älter,Deutsche,K03458,25.0
+2021,Osnabrück,im Alter von 65 Jahren und älter,Deutsche,K03459,23.0
+2021,Vechta,im Alter von 65 Jahren und älter,Deutsche,K03460,28.0
+2021,Wesermarsch,im Alter von 65 Jahren und älter,Deutsche,K03461,28.0
+2021,Wittmund,im Alter von 65 Jahren und älter,Deutsche,K03462,24.0
+2021,Statistische Region Weser-Ems,im Alter von 65 Jahren und älter,Deutsche,K034,29.0
+2021,Niedersachsen,im Alter von 65 Jahren und älter,Deutsche,K030,29.0
 2020,"Braunschweig, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03101,36.0
 2020,"Salzgitter, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03102,31.0
 2020,"Wolfsburg, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03103,20.0
@@ -738,7 +998,7 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2020,Wolfenbüttel,im Alter von 65 Jahren und älter,Deutsche,K03158,25.0
 2020,Göttingen,im Alter von 65 Jahren und älter,Deutsche,K03159,28.0
 2020,Statistische Region Braunschweig,im Alter von 65 Jahren und älter,Deutsche,K031,26.0
-2020,Hannover  Region,im Alter von 65 Jahren und älter,Deutsche,K03241,37.0
+2020,Region Hannover,im Alter von 65 Jahren und älter,Deutsche,K03241,37.0
 2020,"dav. Hannover, Lhst.",im Alter von 65 Jahren und älter,Deutsche,K03241001,58.0
 2020,"dav. Hannover, Umland",im Alter von 65 Jahren und älter,Deutsche,K03241999,24.0
 2020,Diepholz,im Alter von 65 Jahren und älter,Deutsche,K03251,22.0
@@ -761,8 +1021,60 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2020,Verden,im Alter von 65 Jahren und älter,Deutsche,K03361,19.0
 2020,Statistische Region Lüneburg,im Alter von 65 Jahren und älter,Deutsche,K033,24.0
 2020,"Delmenhorst, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03401,45.0
-2020,Emden  Stadt,im Alter von 65 Jahren und älter,Deutsche,K03402,41.0
-2020,"Oldenburg(Oldb), Stadt",im Alter von 65 Jahren und älter,Deutsche,K03403,42.0
+2020,"Emden, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03402,41.0
+2020,"Oldenburg (Oldb), Stadt",im Alter von 65 Jahren und älter,Deutsche,K03403,42.0
+2020,"Osnabrück, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03404,42.0
+2020,"Wilhelmshaven, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03405,44.0
+2020,Ammerland,im Alter von 65 Jahren und älter,Deutsche,K03451,22.0
+2020,Aurich,im Alter von 65 Jahren und älter,Deutsche,K03452,22.0
+2020,Cloppenburg,im Alter von 65 Jahren und älter,Deutsche,K03453,29.0
+2020,Emsland,im Alter von 65 Jahren und älter,Deutsche,K03454,23.0
+2020,Friesland,im Alter von 65 Jahren und älter,Deutsche,K03455,19.0
+2020,Grafschaft Bentheim,im Alter von 65 Jahren und älter,Deutsche,K03456,22.0
+2020,Leer,im Alter von 65 Jahren und älter,Deutsche,K03457,23.0
+2020,Oldenburg,im Alter von 65 Jahren und älter,Deutsche,K03458,24.0
+2020,Osnabrück,im Alter von 65 Jahren und älter,Deutsche,K03459,21.0
+2020,Vechta,im Alter von 65 Jahren und älter,Deutsche,K03460,26.0
+2020,Wesermarsch,im Alter von 65 Jahren und älter,Deutsche,K03461,27.0
+2020,Wittmund,im Alter von 65 Jahren und älter,Deutsche,K03462,24.0
+2020,Statistische Region Weser-Ems,im Alter von 65 Jahren und älter,Deutsche,K034,27.0
+2020,Niedersachsen,im Alter von 65 Jahren und älter,Deutsche,K030,27.0
+2020,"Braunschweig, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03101,36.0
+2020,"Salzgitter, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03102,31.0
+2020,"Wolfsburg, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03103,20.0
+2020,Gifhorn,im Alter von 65 Jahren und älter,Deutsche,K03151,17.0
+2020,Goslar,im Alter von 65 Jahren und älter,Deutsche,K03153,31.0
+2020,Helmstedt,im Alter von 65 Jahren und älter,Deutsche,K03154,22.0
+2020,Northeim,im Alter von 65 Jahren und älter,Deutsche,K03155,20.0
+2020,Peine,im Alter von 65 Jahren und älter,Deutsche,K03157,19.0
+2020,Wolfenbüttel,im Alter von 65 Jahren und älter,Deutsche,K03158,25.0
+2020,Göttingen,im Alter von 65 Jahren und älter,Deutsche,K03159,28.0
+2020,Statistische Region Braunschweig,im Alter von 65 Jahren und älter,Deutsche,K031,26.0
+2020,Region Hannover,im Alter von 65 Jahren und älter,Deutsche,K03241,37.0
+2020,"dav. Hannover, Lhst.",im Alter von 65 Jahren und älter,Deutsche,K03241001,58.0
+2020,"dav. Hannover, Umland",im Alter von 65 Jahren und älter,Deutsche,K03241999,24.0
+2020,Diepholz,im Alter von 65 Jahren und älter,Deutsche,K03251,22.0
+2020,Hameln-Pyrmont,im Alter von 65 Jahren und älter,Deutsche,K03252,30.0
+2020,Hildesheim,im Alter von 65 Jahren und älter,Deutsche,K03254,24.0
+2020,Holzminden,im Alter von 65 Jahren und älter,Deutsche,K03255,25.0
+2020,Nienburg (Weser),im Alter von 65 Jahren und älter,Deutsche,K03256,24.0
+2020,Schaumburg,im Alter von 65 Jahren und älter,Deutsche,K03257,25.0
+2020,Statistische Region Hannover,im Alter von 65 Jahren und älter,Deutsche,K032,31.0
+2020,Celle,im Alter von 65 Jahren und älter,Deutsche,K03351,32.0
+2020,Cuxhaven,im Alter von 65 Jahren und älter,Deutsche,K03352,20.0
+2020,Harburg,im Alter von 65 Jahren und älter,Deutsche,K03353,21.0
+2020,Lüchow-Dannenberg,im Alter von 65 Jahren und älter,Deutsche,K03354,31.0
+2020,Lüneburg,im Alter von 65 Jahren und älter,Deutsche,K03355,31.0
+2020,Osterholz,im Alter von 65 Jahren und älter,Deutsche,K03356,17.0
+2020,Rotenburg (Wümme),im Alter von 65 Jahren und älter,Deutsche,K03357,26.0
+2020,Heidekreis,im Alter von 65 Jahren und älter,Deutsche,K03358,23.0
+2020,Stade,im Alter von 65 Jahren und älter,Deutsche,K03359,23.0
+2020,Uelzen,im Alter von 65 Jahren und älter,Deutsche,K03360,24.0
+2020,Verden,im Alter von 65 Jahren und älter,Deutsche,K03361,19.0
+2020,Statistische Region Lüneburg,im Alter von 65 Jahren und älter,Deutsche,K033,24.0
+2020,"Delmenhorst, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03401,45.0
+2020,"Emden, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03402,41.0
+2020,"Oldenburg (Oldb), Stadt",im Alter von 65 Jahren und älter,Deutsche,K03403,42.0
 2020,"Osnabrück, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03404,42.0
 2020,"Wilhelmshaven, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03405,44.0
 2020,Ammerland,im Alter von 65 Jahren und älter,Deutsche,K03451,22.0
@@ -790,7 +1102,7 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2019,Wolfenbüttel,im Alter von 65 Jahren und älter,Deutsche,K03158,26.0
 2019,Göttingen,im Alter von 65 Jahren und älter,Deutsche,K03159,27.0
 2019,Statistische Region Braunschweig,im Alter von 65 Jahren und älter,Deutsche,K031,25.0
-2019,Hannover  Region,im Alter von 65 Jahren und älter,Deutsche,K03241,36.0
+2019,Region Hannover,im Alter von 65 Jahren und älter,Deutsche,K03241,36.0
 2019,"dav. Hannover, Lhst.",im Alter von 65 Jahren und älter,Deutsche,K03241001,55.0
 2019,"dav. Hannover, Umland",im Alter von 65 Jahren und älter,Deutsche,K03241999,23.0
 2019,Diepholz,im Alter von 65 Jahren und älter,Deutsche,K03251,22.0
@@ -813,8 +1125,8 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2019,Verden,im Alter von 65 Jahren und älter,Deutsche,K03361,18.0
 2019,Statistische Region Lüneburg,im Alter von 65 Jahren und älter,Deutsche,K033,23.0
 2019,"Delmenhorst, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03401,44.0
-2019,Emden  Stadt,im Alter von 65 Jahren und älter,Deutsche,K03402,40.0
-2019,"Oldenburg(Oldb), Stadt",im Alter von 65 Jahren und älter,Deutsche,K03403,40.0
+2019,"Emden, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03402,40.0
+2019,"Oldenburg (Oldb), Stadt",im Alter von 65 Jahren und älter,Deutsche,K03403,40.0
 2019,"Osnabrück, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03404,43.0
 2019,"Wilhelmshaven, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03405,42.0
 2019,Ammerland,im Alter von 65 Jahren und älter,Deutsche,K03451,20.0
@@ -842,7 +1154,7 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2018,Wolfenbüttel,im Alter von 65 Jahren und älter,Deutsche,K03158,27.0
 2018,Göttingen,im Alter von 65 Jahren und älter,Deutsche,K03159,27.0
 2018,Statistische Region Braunschweig,im Alter von 65 Jahren und älter,Deutsche,K031,26.0
-2018,Hannover  Region,im Alter von 65 Jahren und älter,Deutsche,K03241,35.0
+2018,Region Hannover,im Alter von 65 Jahren und älter,Deutsche,K03241,35.0
 2018,"dav. Hannover, Lhst.",im Alter von 65 Jahren und älter,Deutsche,K03241001,55.0
 2018,"dav. Hannover, Umland",im Alter von 65 Jahren und älter,Deutsche,K03241999,23.0
 2018,Diepholz,im Alter von 65 Jahren und älter,Deutsche,K03251,23.0
@@ -865,8 +1177,8 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2018,Verden,im Alter von 65 Jahren und älter,Deutsche,K03361,18.0
 2018,Statistische Region Lüneburg,im Alter von 65 Jahren und älter,Deutsche,K033,23.0
 2018,"Delmenhorst, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03401,46.0
-2018,Emden  Stadt,im Alter von 65 Jahren und älter,Deutsche,K03402,40.0
-2018,"Oldenburg(Oldb), Stadt",im Alter von 65 Jahren und älter,Deutsche,K03403,40.0
+2018,"Emden, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03402,40.0
+2018,"Oldenburg (Oldb), Stadt",im Alter von 65 Jahren und älter,Deutsche,K03403,40.0
 2018,"Osnabrück, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03404,41.0
 2018,"Wilhelmshaven, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03405,42.0
 2018,Ammerland,im Alter von 65 Jahren und älter,Deutsche,K03451,21.0
@@ -894,7 +1206,7 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2017,Wolfenbüttel,im Alter von 65 Jahren und älter,Deutsche,K03158,27.0
 2017,Göttingen,im Alter von 65 Jahren und älter,Deutsche,K03159,26.0
 2017,Statistische Region Braunschweig,im Alter von 65 Jahren und älter,Deutsche,K031,25.0
-2017,Hannover  Region,im Alter von 65 Jahren und älter,Deutsche,K03241,34.0
+2017,Region Hannover,im Alter von 65 Jahren und älter,Deutsche,K03241,34.0
 2017,"dav. Hannover, Lhst.",im Alter von 65 Jahren und älter,Deutsche,K03241001,53.0
 2017,"dav. Hannover, Umland",im Alter von 65 Jahren und älter,Deutsche,K03241999,22.0983519873094
 2017,Diepholz,im Alter von 65 Jahren und älter,Deutsche,K03251,24.0
@@ -917,8 +1229,8 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2017,Verden,im Alter von 65 Jahren und älter,Deutsche,K03361,19.0
 2017,Statistische Region Lüneburg,im Alter von 65 Jahren und älter,Deutsche,K033,23.0
 2017,"Delmenhorst, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03401,45.0
-2017,Emden  Stadt,im Alter von 65 Jahren und älter,Deutsche,K03402,38.0
-2017,"Oldenburg(Oldb), Stadt",im Alter von 65 Jahren und älter,Deutsche,K03403,41.0
+2017,"Emden, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03402,38.0
+2017,"Oldenburg (Oldb), Stadt",im Alter von 65 Jahren und älter,Deutsche,K03403,41.0
 2017,"Osnabrück, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03404,41.0
 2017,"Wilhelmshaven, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03405,42.0
 2017,Ammerland,im Alter von 65 Jahren und älter,Deutsche,K03451,21.0
@@ -946,7 +1258,7 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2016,Wolfenbüttel,im Alter von 65 Jahren und älter,Deutsche,K03158,25.0
 2016,Göttingen,im Alter von 65 Jahren und älter,Deutsche,K03159,26.0
 2016,Statistische Region Braunschweig,im Alter von 65 Jahren und älter,Deutsche,K031,24.0
-2016,Hannover  Region,im Alter von 65 Jahren und älter,Deutsche,K03241,33.0
+2016,Region Hannover,im Alter von 65 Jahren und älter,Deutsche,K03241,33.0
 2016,"dav. Hannover, Lhst.",im Alter von 65 Jahren und älter,Deutsche,K03241001,51.0
 2016,"dav. Hannover, Umland",im Alter von 65 Jahren und älter,Deutsche,K03241999,21.5275205570783
 2016,Diepholz,im Alter von 65 Jahren und älter,Deutsche,K03251,23.0
@@ -969,8 +1281,8 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2016,Verden,im Alter von 65 Jahren und älter,Deutsche,K03361,19.0
 2016,Statistische Region Lüneburg,im Alter von 65 Jahren und älter,Deutsche,K033,23.0
 2016,"Delmenhorst, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03401,44.0
-2016,Emden  Stadt,im Alter von 65 Jahren und älter,Deutsche,K03402,38.0
-2016,"Oldenburg(Oldb), Stadt",im Alter von 65 Jahren und älter,Deutsche,K03403,37.0
+2016,"Emden, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03402,38.0
+2016,"Oldenburg (Oldb), Stadt",im Alter von 65 Jahren und älter,Deutsche,K03403,37.0
 2016,"Osnabrück, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03404,40.0
 2016,"Wilhelmshaven, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03405,40.0
 2016,Ammerland,im Alter von 65 Jahren und älter,Deutsche,K03451,22.0
@@ -998,7 +1310,7 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2015,Wolfenbüttel,im Alter von 65 Jahren und älter,Deutsche,K03158,27.0
 2015,Göttingen,im Alter von 65 Jahren und älter,Deutsche,K03159,26.2060665109681
 2015,Statistische Region Braunschweig,im Alter von 65 Jahren und älter,Deutsche,K031,25.0
-2015,Hannover  Region,im Alter von 65 Jahren und älter,Deutsche,K03241,34.0
+2015,Region Hannover,im Alter von 65 Jahren und älter,Deutsche,K03241,34.0
 2015,"dav. Hannover, Lhst.",im Alter von 65 Jahren und älter,Deutsche,K03241001,51.0
 2015,"dav. Hannover, Umland",im Alter von 65 Jahren und älter,Deutsche,K03241999,22.5720647349781
 2015,Diepholz,im Alter von 65 Jahren und älter,Deutsche,K03251,23.0
@@ -1021,8 +1333,8 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2015,Verden,im Alter von 65 Jahren und älter,Deutsche,K03361,21.0
 2015,Statistische Region Lüneburg,im Alter von 65 Jahren und älter,Deutsche,K033,23.0
 2015,"Delmenhorst, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03401,42.0
-2015,Emden  Stadt,im Alter von 65 Jahren und älter,Deutsche,K03402,39.0
-2015,"Oldenburg(Oldb), Stadt",im Alter von 65 Jahren und älter,Deutsche,K03403,36.0
+2015,"Emden, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03402,39.0
+2015,"Oldenburg (Oldb), Stadt",im Alter von 65 Jahren und älter,Deutsche,K03403,36.0
 2015,"Osnabrück, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03404,41.0
 2015,"Wilhelmshaven, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03405,41.0
 2015,Ammerland,im Alter von 65 Jahren und älter,Deutsche,K03451,21.0
@@ -1050,7 +1362,7 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2014,Wolfenbüttel,im Alter von 65 Jahren und älter,Deutsche,K03158,27.0
 2014,Göttingen,im Alter von 65 Jahren und älter,Deutsche,K03159,27.7793812052644
 2014,Statistische Region Braunschweig,im Alter von 65 Jahren und älter,Deutsche,K031,26.0
-2014,Hannover  Region,im Alter von 65 Jahren und älter,Deutsche,K03241,33.0
+2014,Region Hannover,im Alter von 65 Jahren und älter,Deutsche,K03241,33.0
 2014,"dav. Hannover, Lhst.",im Alter von 65 Jahren und älter,Deutsche,K03241001,49.0
 2014,"dav. Hannover, Umland",im Alter von 65 Jahren und älter,Deutsche,K03241999,21.9087860698014
 2014,Diepholz,im Alter von 65 Jahren und älter,Deutsche,K03251,23.0
@@ -1073,8 +1385,8 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2014,Verden,im Alter von 65 Jahren und älter,Deutsche,K03361,21.0
 2014,Statistische Region Lüneburg,im Alter von 65 Jahren und älter,Deutsche,K033,23.0
 2014,"Delmenhorst, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03401,40.0
-2014,Emden  Stadt,im Alter von 65 Jahren und älter,Deutsche,K03402,38.0
-2014,"Oldenburg(Oldb), Stadt",im Alter von 65 Jahren und älter,Deutsche,K03403,37.0
+2014,"Emden, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03402,38.0
+2014,"Oldenburg (Oldb), Stadt",im Alter von 65 Jahren und älter,Deutsche,K03403,37.0
 2014,"Osnabrück, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03404,42.0
 2014,"Wilhelmshaven, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03405,39.0
 2014,Ammerland,im Alter von 65 Jahren und älter,Deutsche,K03451,23.0
@@ -1091,6 +1403,58 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2014,Wittmund,im Alter von 65 Jahren und älter,Deutsche,K03462,25.0
 2014,Statistische Region Weser-Ems,im Alter von 65 Jahren und älter,Deutsche,K034,27.0
 2014,Niedersachsen,im Alter von 65 Jahren und älter,Deutsche,K030,26.0
+2021,"Braunschweig, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03101,382.0
+2021,"Salzgitter, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03102,536.0
+2021,"Wolfsburg, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03103,462.0
+2021,Gifhorn,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03151,502.0
+2021,Goslar,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03153,525.0
+2021,Helmstedt,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03154,483.0
+2021,Northeim,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03155,488.0
+2021,Peine,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03157,566.0
+2021,Wolfenbüttel,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03158,602.0
+2021,Göttingen,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03159,478.0
+2021,Statistische Region Braunschweig,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K031,495.0
+2021,Region Hannover,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241,581.0
+2021,"dav. Hannover, Lhst.",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241001,580.0
+2021,"dav. Hannover, Umland",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241999,582.0
+2021,Diepholz,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03251,482.0
+2021,Hameln-Pyrmont,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03252,540.0
+2021,Hildesheim,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03254,518.0
+2021,Holzminden,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03255,474.0
+2021,Nienburg (Weser),im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03256,625.0
+2021,Schaumburg,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03257,525.0
+2021,Statistische Region Hannover,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K032,559.0
+2021,Celle,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03351,461.0
+2021,Cuxhaven,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03352,558.0
+2021,Harburg,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03353,352.0
+2021,Lüchow-Dannenberg,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03354,304.0
+2021,Lüneburg,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03355,592.0
+2021,Osterholz,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03356,415.0
+2021,Rotenburg (Wümme),im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03357,369.0
+2021,Heidekreis,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03358,261.0
+2021,Stade,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03359,552.0
+2021,Uelzen,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03360,427.0
+2021,Verden,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03361,396.0
+2021,Statistische Region Lüneburg,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K033,439.0
+2021,"Delmenhorst, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03401,444.0
+2021,"Emden, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03402,496.0
+2021,"Oldenburg (Oldb), Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03403,542.0
+2021,"Osnabrück, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03404,442.0
+2021,"Wilhelmshaven, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03405,615.0
+2021,Ammerland,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03451,495.0
+2021,Aurich,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03452,413.0
+2021,Cloppenburg,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03453,212.0
+2021,Emsland,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03454,235.0
+2021,Friesland,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03455,576.0
+2021,Grafschaft Bentheim,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03456,236.0
+2021,Leer,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03457,455.0
+2021,Oldenburg,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03458,400.0
+2021,Osnabrück,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03459,213.0
+2021,Vechta,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03460,317.0
+2021,Wesermarsch,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03461,546.0
+2021,Wittmund,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03462,584.0
+2021,Statistische Region Weser-Ems,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K034,368.0
+2021,Niedersachsen,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K030,462.0
 2020,"Braunschweig, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03101,436.0
 2020,"Salzgitter, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03102,587.0
 2020,"Wolfsburg, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03103,456.0
@@ -1102,7 +1466,7 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2020,Wolfenbüttel,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03158,636.0
 2020,Göttingen,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03159,495.0
 2020,Statistische Region Braunschweig,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K031,527.0
-2020,Hannover  Region,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241,630.0
+2020,Region Hannover,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241,630.0
 2020,"dav. Hannover, Lhst.",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241001,622.0
 2020,"dav. Hannover, Umland",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241999,638.0
 2020,Diepholz,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03251,533.0
@@ -1125,8 +1489,60 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2020,Verden,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03361,497.0
 2020,Statistische Region Lüneburg,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K033,494.0
 2020,"Delmenhorst, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03401,513.0
-2020,Emden  Stadt,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03402,534.0
-2020,"Oldenburg(Oldb), Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03403,585.0
+2020,"Emden, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03402,534.0
+2020,"Oldenburg (Oldb), Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03403,585.0
+2020,"Osnabrück, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03404,490.0
+2020,"Wilhelmshaven, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03405,679.0
+2020,Ammerland,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03451,551.0
+2020,Aurich,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03452,464.0
+2020,Cloppenburg,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03453,255.0
+2020,Emsland,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03454,260.0
+2020,Friesland,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03455,622.0
+2020,Grafschaft Bentheim,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03456,259.0
+2020,Leer,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03457,477.0
+2020,Oldenburg,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03458,439.0
+2020,Osnabrück,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03459,237.0
+2020,Vechta,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03460,369.0
+2020,Wesermarsch,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03461,564.0
+2020,Wittmund,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03462,645.0
+2020,Statistische Region Weser-Ems,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K034,407.0
+2020,Niedersachsen,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K030,504.0
+2020,"Braunschweig, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03101,436.0
+2020,"Salzgitter, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03102,587.0
+2020,"Wolfsburg, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03103,456.0
+2020,Gifhorn,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03151,540.0
+2020,Goslar,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03153,578.0
+2020,Helmstedt,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03154,523.0
+2020,Northeim,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03155,515.0
+2020,Peine,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03157,588.0
+2020,Wolfenbüttel,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03158,636.0
+2020,Göttingen,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03159,495.0
+2020,Statistische Region Braunschweig,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K031,527.0
+2020,Region Hannover,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241,630.0
+2020,"dav. Hannover, Lhst.",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241001,622.0
+2020,"dav. Hannover, Umland",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241999,638.0
+2020,Diepholz,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03251,533.0
+2020,Hameln-Pyrmont,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03252,584.0
+2020,Hildesheim,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03254,572.0
+2020,Holzminden,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03255,546.0
+2020,Nienburg (Weser),im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03256,651.0
+2020,Schaumburg,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03257,581.0
+2020,Statistische Region Hannover,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K032,608.0
+2020,Celle,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03351,543.0
+2020,Cuxhaven,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03352,580.0
+2020,Harburg,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03353,374.0
+2020,Lüchow-Dannenberg,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03354,445.0
+2020,Lüneburg,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03355,636.0
+2020,Osterholz,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03356,468.0
+2020,Rotenburg (Wümme),im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03357,433.0
+2020,Heidekreis,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03358,323.0
+2020,Stade,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03359,568.0
+2020,Uelzen,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03360,482.0
+2020,Verden,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03361,497.0
+2020,Statistische Region Lüneburg,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K033,494.0
+2020,"Delmenhorst, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03401,513.0
+2020,"Emden, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03402,534.0
+2020,"Oldenburg (Oldb), Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03403,585.0
 2020,"Osnabrück, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03404,490.0
 2020,"Wilhelmshaven, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03405,679.0
 2020,Ammerland,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03451,551.0
@@ -1154,7 +1570,7 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2019,Wolfenbüttel,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03158,694.0
 2019,Göttingen,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03159,518.0
 2019,Statistische Region Braunschweig,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K031,555.0
-2019,Hannover  Region,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241,635.0
+2019,Region Hannover,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241,635.0
 2019,"dav. Hannover, Lhst.",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241001,613.0
 2019,"dav. Hannover, Umland",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241999,659.0
 2019,Diepholz,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03251,579.0
@@ -1177,8 +1593,8 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2019,Verden,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03361,561.0
 2019,Statistische Region Lüneburg,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K033,533.0
 2019,"Delmenhorst, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03401,562.0
-2019,Emden  Stadt,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03402,586.0
-2019,"Oldenburg(Oldb), Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03403,632.0
+2019,"Emden, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03402,586.0
+2019,"Oldenburg (Oldb), Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03403,632.0
 2019,"Osnabrück, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03404,522.0
 2019,"Wilhelmshaven, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03405,709.0
 2019,Ammerland,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03451,586.0
@@ -1206,7 +1622,7 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2018,Wolfenbüttel,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03158,692.0
 2018,Göttingen,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03159,549.0
 2018,Statistische Region Braunschweig,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K031,585.0
-2018,Hannover  Region,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241,673.0
+2018,Region Hannover,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241,673.0
 2018,"dav. Hannover, Lhst.",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241001,648.0
 2018,"dav. Hannover, Umland",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241999,699.0
 2018,Diepholz,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03251,592.0
@@ -1229,8 +1645,8 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2018,Verden,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03361,578.0
 2018,Statistische Region Lüneburg,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K033,570.0
 2018,"Delmenhorst, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03401,615.0
-2018,Emden  Stadt,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03402,622.0
-2018,"Oldenburg(Oldb), Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03403,667.0
+2018,"Emden, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03402,622.0
+2018,"Oldenburg (Oldb), Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03403,667.0
 2018,"Osnabrück, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03404,584.0
 2018,"Wilhelmshaven, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03405,767.0
 2018,Ammerland,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03451,641.0
@@ -1258,7 +1674,7 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2017,Wolfenbüttel,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03158,732.0
 2017,Göttingen,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03159,567.0
 2017,Statistische Region Braunschweig,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K031,614.0
-2017,Hannover  Region,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241,714.0
+2017,Region Hannover,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241,714.0
 2017,"dav. Hannover, Lhst.",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241001,694.0
 2017,"dav. Hannover, Umland",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241999,717.389473684211
 2017,Diepholz,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03251,617.0
@@ -1281,8 +1697,8 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2017,Verden,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03361,595.0
 2017,Statistische Region Lüneburg,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K033,604.0
 2017,"Delmenhorst, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03401,667.0
-2017,Emden  Stadt,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03402,625.0
-2017,"Oldenburg(Oldb), Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03403,680.0
+2017,"Emden, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03402,625.0
+2017,"Oldenburg (Oldb), Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03403,680.0
 2017,"Osnabrück, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03404,649.0
 2017,"Wilhelmshaven, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03405,795.0
 2017,Ammerland,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03451,669.0
@@ -1310,7 +1726,7 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2016,Wolfenbüttel,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03158,734.0
 2016,Göttingen,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03159,564.0
 2016,Statistische Region Braunschweig,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K031,602.0
-2016,Hannover  Region,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241,740.0
+2016,Region Hannover,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241,740.0
 2016,"dav. Hannover, Lhst.",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241001,733.0
 2016,"dav. Hannover, Umland",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241999,721.692650334076
 2016,Diepholz,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03251,620.0
@@ -1333,8 +1749,8 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2016,Verden,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03361,614.0
 2016,Statistische Region Lüneburg,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K033,609.0
 2016,"Delmenhorst, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03401,708.0
-2016,Emden  Stadt,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03402,635.0
-2016,"Oldenburg(Oldb), Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03403,686.0
+2016,"Emden, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03402,635.0
+2016,"Oldenburg (Oldb), Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03403,686.0
 2016,"Osnabrück, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03404,632.0
 2016,"Wilhelmshaven, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03405,783.0
 2016,Ammerland,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03451,702.0
@@ -1362,7 +1778,7 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2015,Wolfenbüttel,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03158,712.0
 2015,Göttingen,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03159,495.611629182666
 2015,Statistische Region Braunschweig,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K031,518.0
-2015,Hannover  Region,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241,768.0
+2015,Region Hannover,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241,768.0
 2015,"dav. Hannover, Lhst.",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241001,800.0
 2015,"dav. Hannover, Umland",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241999,741.689674213142
 2015,Diepholz,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03251,590.0
@@ -1385,8 +1801,8 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2015,Verden,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03361,688.0
 2015,Statistische Region Lüneburg,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K033,583.0
 2015,"Delmenhorst, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03401,686.0
-2015,Emden  Stadt,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03402,529.0
-2015,"Oldenburg(Oldb), Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03403,645.0
+2015,"Emden, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03402,529.0
+2015,"Oldenburg (Oldb), Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03403,645.0
 2015,"Osnabrück, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03404,566.0
 2015,"Wilhelmshaven, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03405,781.0
 2015,Ammerland,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03451,769.0
@@ -1414,7 +1830,7 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2014,Wolfenbüttel,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03158,660.0
 2014,Göttingen,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03159,466.154919748779
 2014,Statistische Region Braunschweig,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K031,494.0
-2014,Hannover  Region,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241,719.0
+2014,Region Hannover,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241,719.0
 2014,"dav. Hannover, Lhst.",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241001,747.0
 2014,"dav. Hannover, Umland",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241999,674.257276428895
 2014,Diepholz,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03251,522.0
@@ -1437,8 +1853,8 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2014,Verden,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03361,637.0
 2014,Statistische Region Lüneburg,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K033,555.0
 2014,"Delmenhorst, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03401,726.0
-2014,Emden  Stadt,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03402,577.0
-2014,"Oldenburg(Oldb), Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03403,598.0
+2014,"Emden, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03402,577.0
+2014,"Oldenburg (Oldb), Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03403,598.0
 2014,"Osnabrück, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03404,657.0
 2014,"Wilhelmshaven, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03405,738.0
 2014,Ammerland,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03451,531.0
@@ -1455,6 +1871,58 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2014,Wittmund,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03462,636.0
 2014,Statistische Region Weser-Ems,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K034,433.0
 2014,Niedersachsen,im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K030,542.0
+2021,"Braunschweig, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03101,195.0
+2021,"Salzgitter, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03102,309.0
+2021,"Wolfsburg, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03103,212.0
+2021,Gifhorn,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03151,234.0
+2021,Goslar,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03153,209.0
+2021,Helmstedt,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03154,259.0
+2021,Northeim,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03155,289.0
+2021,Peine,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03157,304.0
+2021,Wolfenbüttel,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03158,306.0
+2021,Göttingen,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03159,221.0
+2021,Statistische Region Braunschweig,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K031,240.0
+2021,Region Hannover,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241,308.0
+2021,"dav. Hannover, Lhst.",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241001,311.0
+2021,"dav. Hannover, Umland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241999,304.0
+2021,Diepholz,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03251,224.0
+2021,Hameln-Pyrmont,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03252,307.0
+2021,Hildesheim,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03254,303.0
+2021,Holzminden,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03255,240.0
+2021,Nienburg (Weser),im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03256,294.0
+2021,Schaumburg,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03257,281.0
+2021,Statistische Region Hannover,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K032,298.0
+2021,Celle,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03351,273.0
+2021,Cuxhaven,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03352,258.0
+2021,Harburg,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03353,245.0
+2021,Lüchow-Dannenberg,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03354,206.0
+2021,Lüneburg,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03355,293.0
+2021,Osterholz,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03356,228.0
+2021,Rotenburg (Wümme),im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03357,172.0
+2021,Heidekreis,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03358,150.0
+2021,Stade,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03359,270.0
+2021,Uelzen,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03360,231.0
+2021,Verden,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03361,197.0
+2021,Statistische Region Lüneburg,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K033,234.0
+2021,"Delmenhorst, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03401,327.0
+2021,"Emden, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03402,263.0
+2021,"Oldenburg (Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03403,298.0
+2021,"Osnabrück, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03404,259.0
+2021,"Wilhelmshaven, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03405,401.0
+2021,Ammerland,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03451,227.0
+2021,Aurich,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03452,272.0
+2021,Cloppenburg,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03453,100.0
+2021,Emsland,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03454,111.0
+2021,Friesland,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03455,342.0
+2021,Grafschaft Bentheim,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03456,113.0
+2021,Leer,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03457,218.0
+2021,Oldenburg,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03458,150.0
+2021,Osnabrück,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03459,111.0
+2021,Vechta,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03460,160.0
+2021,Wesermarsch,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03461,271.0
+2021,Wittmund,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03462,275.0
+2021,Statistische Region Weser-Ems,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K034,189.0
+2021,Niedersachsen,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K030,241.0
 2020,"Braunschweig, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03101,204.0
 2020,"Salzgitter, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03102,338.0
 2020,"Wolfsburg, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03103,219.0
@@ -1466,7 +1934,7 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2020,Wolfenbüttel,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03158,320.0
 2020,Göttingen,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03159,243.0
 2020,Statistische Region Braunschweig,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K031,259.0
-2020,Hannover  Region,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241,329.0
+2020,Region Hannover,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241,329.0
 2020,"dav. Hannover, Lhst.",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241001,330.0
 2020,"dav. Hannover, Umland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241999,328.0
 2020,Diepholz,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03251,250.0
@@ -1489,8 +1957,60 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2020,Verden,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03361,250.0
 2020,Statistische Region Lüneburg,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K033,258.0
 2020,"Delmenhorst, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03401,369.0
-2020,Emden  Stadt,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03402,292.0
-2020,"Oldenburg(Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03403,334.0
+2020,"Emden, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03402,292.0
+2020,"Oldenburg (Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03403,334.0
+2020,"Osnabrück, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03404,291.0
+2020,"Wilhelmshaven, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03405,461.0
+2020,Ammerland,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03451,260.0
+2020,Aurich,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03452,303.0
+2020,Cloppenburg,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03453,116.0
+2020,Emsland,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03454,124.0
+2020,Friesland,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03455,362.0
+2020,Grafschaft Bentheim,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03456,133.0
+2020,Leer,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03457,224.0
+2020,Oldenburg,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03458,162.0
+2020,Osnabrück,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03459,121.0
+2020,Vechta,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03460,183.0
+2020,Wesermarsch,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03461,282.0
+2020,Wittmund,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03462,315.0
+2020,Statistische Region Weser-Ems,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K034,211.0
+2020,Niedersachsen,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K030,263.0
+2020,"Braunschweig, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03101,204.0
+2020,"Salzgitter, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03102,338.0
+2020,"Wolfsburg, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03103,219.0
+2020,Gifhorn,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03151,256.0
+2020,Goslar,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03153,245.0
+2020,Helmstedt,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03154,268.0
+2020,Northeim,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03155,322.0
+2020,Peine,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03157,315.0
+2020,Wolfenbüttel,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03158,320.0
+2020,Göttingen,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03159,243.0
+2020,Statistische Region Braunschweig,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K031,259.0
+2020,Region Hannover,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241,329.0
+2020,"dav. Hannover, Lhst.",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241001,330.0
+2020,"dav. Hannover, Umland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241999,328.0
+2020,Diepholz,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03251,250.0
+2020,Hameln-Pyrmont,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03252,341.0
+2020,Hildesheim,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03254,332.0
+2020,Holzminden,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03255,259.0
+2020,Nienburg (Weser),im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03256,314.0
+2020,Schaumburg,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03257,304.0
+2020,Statistische Region Hannover,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K032,321.0
+2020,Celle,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03351,303.0
+2020,Cuxhaven,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03352,270.0
+2020,Harburg,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03353,252.0
+2020,Lüchow-Dannenberg,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03354,238.0
+2020,Lüneburg,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03355,313.0
+2020,Osterholz,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03356,258.0
+2020,Rotenburg (Wümme),im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03357,199.0
+2020,Heidekreis,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03358,185.0
+2020,Stade,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03359,284.0
+2020,Uelzen,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03360,257.0
+2020,Verden,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03361,250.0
+2020,Statistische Region Lüneburg,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K033,258.0
+2020,"Delmenhorst, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03401,369.0
+2020,"Emden, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03402,292.0
+2020,"Oldenburg (Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03403,334.0
 2020,"Osnabrück, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03404,291.0
 2020,"Wilhelmshaven, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03405,461.0
 2020,Ammerland,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03451,260.0
@@ -1518,7 +2038,7 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2019,Wolfenbüttel,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03158,337.0
 2019,Göttingen,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03159,238.0
 2019,Statistische Region Braunschweig,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K031,258.0
-2019,Hannover  Region,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241,316.0
+2019,Region Hannover,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241,316.0
 2019,"dav. Hannover, Lhst.",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241001,311.0
 2019,"dav. Hannover, Umland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241999,324.0
 2019,Diepholz,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03251,265.0
@@ -1541,8 +2061,8 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2019,Verden,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03361,276.0
 2019,Statistische Region Lüneburg,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K033,270.0
 2019,"Delmenhorst, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03401,395.0
-2019,Emden  Stadt,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03402,309.0
-2019,"Oldenburg(Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03403,338.0
+2019,"Emden, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03402,309.0
+2019,"Oldenburg (Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03403,338.0
 2019,"Osnabrück, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03404,298.0
 2019,"Wilhelmshaven, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03405,465.0
 2019,Ammerland,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03451,268.0
@@ -1570,7 +2090,7 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2018,Wolfenbüttel,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03158,352.0
 2018,Göttingen,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03159,249.0
 2018,Statistische Region Braunschweig,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K031,275.0
-2018,Hannover  Region,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241,333.0
+2018,Region Hannover,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241,333.0
 2018,"dav. Hannover, Lhst.",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241001,321.0
 2018,"dav. Hannover, Umland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241999,353.0
 2018,Diepholz,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03251,287.0
@@ -1593,8 +2113,8 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2018,Verden,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03361,305.0
 2018,Statistische Region Lüneburg,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K033,296.0
 2018,"Delmenhorst, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03401,406.0
-2018,Emden  Stadt,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03402,342.0
-2018,"Oldenburg(Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03403,366.0
+2018,"Emden, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03402,342.0
+2018,"Oldenburg (Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03403,366.0
 2018,"Osnabrück, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03404,331.0
 2018,"Wilhelmshaven, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03405,508.0
 2018,Ammerland,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03451,297.0
@@ -1622,7 +2142,7 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2017,Wolfenbüttel,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03158,391.0
 2017,Göttingen,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03159,273.0
 2017,Statistische Region Braunschweig,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K031,294.0
-2017,Hannover  Region,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241,351.0
+2017,Region Hannover,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241,351.0
 2017,"dav. Hannover, Lhst.",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241001,337.0
 2017,"dav. Hannover, Umland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241999,332.813922897906
 2017,Diepholz,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03251,306.0
@@ -1645,8 +2165,8 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2017,Verden,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03361,350.0
 2017,Statistische Region Lüneburg,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K033,326.0
 2017,"Delmenhorst, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03401,440.0
-2017,Emden  Stadt,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03402,339.0
-2017,"Oldenburg(Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03403,392.0
+2017,"Emden, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03402,339.0
+2017,"Oldenburg (Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03403,392.0
 2017,"Osnabrück, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03404,378.0
 2017,"Wilhelmshaven, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03405,548.0
 2017,Ammerland,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03451,329.0
@@ -1674,7 +2194,7 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2016,Wolfenbüttel,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03158,425.0
 2016,Göttingen,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03159,287.0
 2016,Statistische Region Braunschweig,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K031,307.0
-2016,Hannover  Region,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241,373.0
+2016,Region Hannover,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241,373.0
 2016,"dav. Hannover, Lhst.",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241001,357.0
 2016,"dav. Hannover, Umland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241999,352.300548754749
 2016,Diepholz,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03251,326.0
@@ -1697,8 +2217,8 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2016,Verden,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03361,384.0
 2016,Statistische Region Lüneburg,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K033,351.0
 2016,"Delmenhorst, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03401,453.0
-2016,Emden  Stadt,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03402,363.0
-2016,"Oldenburg(Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03403,405.0
+2016,"Emden, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03402,363.0
+2016,"Oldenburg (Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03403,405.0
 2016,"Osnabrück, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03404,384.0
 2016,"Wilhelmshaven, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03405,549.0
 2016,Ammerland,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03451,359.0
@@ -1726,7 +2246,7 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2015,Wolfenbüttel,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03158,400.0
 2015,Göttingen,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03159,230.231497897776
 2015,Statistische Region Braunschweig,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K031,260.0
-2015,Hannover  Region,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241,371.0
+2015,Region Hannover,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241,371.0
 2015,"dav. Hannover, Lhst.",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241001,366.0
 2015,"dav. Hannover, Umland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241999,346.144876160269
 2015,Diepholz,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03251,281.0
@@ -1749,8 +2269,8 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2015,Verden,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03361,379.0
 2015,Statistische Region Lüneburg,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K033,337.0
 2015,"Delmenhorst, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03401,407.0
-2015,Emden  Stadt,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03402,323.0
-2015,"Oldenburg(Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03403,389.0
+2015,"Emden, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03402,323.0
+2015,"Oldenburg (Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03403,389.0
 2015,"Osnabrück, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03404,359.0
 2015,"Wilhelmshaven, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03405,513.0
 2015,Ammerland,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03451,363.0
@@ -1778,7 +2298,7 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2014,Wolfenbüttel,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03158,355.0
 2014,Göttingen,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03159,207.529684332465
 2014,Statistische Region Braunschweig,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K031,240.0
-2014,Hannover  Region,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241,350.0
+2014,Region Hannover,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241,350.0
 2014,"dav. Hannover, Lhst.",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241001,360.0
 2014,"dav. Hannover, Umland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241999,299.290350973705
 2014,Diepholz,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03251,255.0
@@ -1801,8 +2321,8 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2014,Verden,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03361,289.0
 2014,Statistische Region Lüneburg,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K033,277.0
 2014,"Delmenhorst, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03401,452.0
-2014,Emden  Stadt,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03402,254.0
-2014,"Oldenburg(Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03403,347.0
+2014,"Emden, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03402,254.0
+2014,"Oldenburg (Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03403,347.0
 2014,"Osnabrück, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03404,362.0
 2014,"Wilhelmshaven, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03405,482.0
 2014,Ammerland,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03451,264.0
@@ -1819,6 +2339,58 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2014,Wittmund,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03462,260.0
 2014,Statistische Region Weser-Ems,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K034,221.0
 2014,Niedersachsen,im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K030,273.0
+2021,"Braunschweig, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03101,208.0
+2021,"Salzgitter, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03102,191.0
+2021,"Wolfsburg, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03103,126.0
+2021,Gifhorn,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03151,151.0
+2021,Goslar,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03153,156.0
+2021,Helmstedt,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03154,181.0
+2021,Northeim,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03155,177.0
+2021,Peine,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03157,210.0
+2021,Wolfenbüttel,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03158,185.0
+2021,Göttingen,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03159,238.0
+2021,Statistische Region Braunschweig,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K031,186.0
+2021,Region Hannover,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241,328.0
+2021,"dav. Hannover, Lhst.",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241001,352.0
+2021,"dav. Hannover, Umland",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241999,283.0
+2021,Diepholz,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03251,249.0
+2021,Hameln-Pyrmont,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03252,256.0
+2021,Hildesheim,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03254,217.0
+2021,Holzminden,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03255,108.0
+2021,Nienburg (Weser),im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03256,289.0
+2021,Schaumburg,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03257,185.0
+2021,Statistische Region Hannover,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K032,297.0
+2021,Celle,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03351,258.0
+2021,Cuxhaven,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03352,99.0
+2021,Harburg,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03353,164.0
+2021,Lüchow-Dannenberg,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03354,143.0
+2021,Lüneburg,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03355,248.0
+2021,Osterholz,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03356,217.0
+2021,Rotenburg (Wümme),im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03357,163.0
+2021,Heidekreis,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03358,286.0
+2021,Stade,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03359,187.0
+2021,Uelzen,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03360,267.0
+2021,Verden,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03361,234.0
+2021,Statistische Region Lüneburg,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K033,201.0
+2021,"Delmenhorst, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03401,398.0
+2021,"Emden, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03402,165.0
+2021,"Oldenburg (Oldb), Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03403,360.0
+2021,"Osnabrück, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03404,409.0
+2021,"Wilhelmshaven, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03405,351.0
+2021,Ammerland,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03451,270.0
+2021,Aurich,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03452,242.0
+2021,Cloppenburg,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03453,257.0
+2021,Emsland,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03454,85.0
+2021,Friesland,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03455,234.0
+2021,Grafschaft Bentheim,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03456,51.0
+2021,Leer,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03457,120.0
+2021,Oldenburg,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03458,252.0
+2021,Osnabrück,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03459,167.0
+2021,Vechta,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03460,304.0
+2021,Wesermarsch,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03461,180.0
+2021,Wittmund,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03462,179.0
+2021,Statistische Region Weser-Ems,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K034,203.0
+2021,Niedersachsen,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K030,235.0
 2020,"Braunschweig, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03101,211.0
 2020,"Salzgitter, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03102,191.0
 2020,"Wolfsburg, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03103,114.0
@@ -1830,7 +2402,7 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2020,Wolfenbüttel,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03158,174.0
 2020,Göttingen,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03159,227.0
 2020,Statistische Region Braunschweig,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K031,187.0
-2020,Hannover  Region,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241,325.0
+2020,Region Hannover,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241,325.0
 2020,"dav. Hannover, Lhst.",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241001,348.0
 2020,"dav. Hannover, Umland",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241999,280.0
 2020,Diepholz,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03251,238.0
@@ -1853,8 +2425,60 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2020,Verden,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03361,240.0
 2020,Statistische Region Lüneburg,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K033,200.0
 2020,"Delmenhorst, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03401,394.0
-2020,Emden  Stadt,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03402,148.0
-2020,"Oldenburg(Oldb), Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03403,353.0
+2020,"Emden, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03402,148.0
+2020,"Oldenburg (Oldb), Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03403,353.0
+2020,"Osnabrück, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03404,411.0
+2020,"Wilhelmshaven, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03405,352.0
+2020,Ammerland,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03451,255.0
+2020,Aurich,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03452,242.0
+2020,Cloppenburg,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03453,268.0
+2020,Emsland,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03454,81.0
+2020,Friesland,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03455,240.0
+2020,Grafschaft Bentheim,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03456,50.0
+2020,Leer,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03457,115.0
+2020,Oldenburg,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03458,264.0
+2020,Osnabrück,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03459,159.0
+2020,Vechta,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03460,311.0
+2020,Wesermarsch,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03461,160.0
+2020,Wittmund,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03462,199.0
+2020,Statistische Region Weser-Ems,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K034,200.0
+2020,Niedersachsen,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K030,233.0
+2020,"Braunschweig, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03101,211.0
+2020,"Salzgitter, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03102,191.0
+2020,"Wolfsburg, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03103,114.0
+2020,Gifhorn,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03151,158.0
+2020,Goslar,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03153,161.0
+2020,Helmstedt,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03154,176.0
+2020,Northeim,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03155,227.0
+2020,Peine,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03157,202.0
+2020,Wolfenbüttel,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03158,174.0
+2020,Göttingen,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03159,227.0
+2020,Statistische Region Braunschweig,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K031,187.0
+2020,Region Hannover,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241,325.0
+2020,"dav. Hannover, Lhst.",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241001,348.0
+2020,"dav. Hannover, Umland",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241999,280.0
+2020,Diepholz,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03251,238.0
+2020,Hameln-Pyrmont,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03252,257.0
+2020,Hildesheim,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03254,213.0
+2020,Holzminden,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03255,98.0
+2020,Nienburg (Weser),im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03256,288.0
+2020,Schaumburg,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03257,171.0
+2020,Statistische Region Hannover,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K032,292.0
+2020,Celle,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03351,272.0
+2020,Cuxhaven,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03352,94.0
+2020,Harburg,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03353,160.0
+2020,Lüchow-Dannenberg,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03354,120.0
+2020,Lüneburg,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03355,242.0
+2020,Osterholz,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03356,231.0
+2020,Rotenburg (Wümme),im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03357,156.0
+2020,Heidekreis,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03358,294.0
+2020,Stade,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03359,163.0
+2020,Uelzen,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03360,275.0
+2020,Verden,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03361,240.0
+2020,Statistische Region Lüneburg,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K033,200.0
+2020,"Delmenhorst, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03401,394.0
+2020,"Emden, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03402,148.0
+2020,"Oldenburg (Oldb), Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03403,353.0
 2020,"Osnabrück, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03404,411.0
 2020,"Wilhelmshaven, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03405,352.0
 2020,Ammerland,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03451,255.0
@@ -1882,7 +2506,7 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2019,Wolfenbüttel,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03158,166.0
 2019,Göttingen,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03159,230.0
 2019,Statistische Region Braunschweig,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K031,183.0
-2019,Hannover  Region,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241,323.0
+2019,Region Hannover,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241,323.0
 2019,"dav. Hannover, Lhst.",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241001,347.0
 2019,"dav. Hannover, Umland",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241999,277.0
 2019,Diepholz,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03251,251.0
@@ -1905,8 +2529,8 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2019,Verden,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03361,239.0
 2019,Statistische Region Lüneburg,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K033,188.0
 2019,"Delmenhorst, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03401,388.0
-2019,Emden  Stadt,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03402,166.0
-2019,"Oldenburg(Oldb), Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03403,339.0
+2019,"Emden, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03402,166.0
+2019,"Oldenburg (Oldb), Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03403,339.0
 2019,"Osnabrück, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03404,414.0
 2019,"Wilhelmshaven, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03405,322.0
 2019,Ammerland,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03451,244.0
@@ -1934,7 +2558,7 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2018,Wolfenbüttel,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03158,161.0
 2018,Göttingen,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03159,227.0
 2018,Statistische Region Braunschweig,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K031,176.0
-2018,Hannover  Region,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241,319.0
+2018,Region Hannover,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241,319.0
 2018,"dav. Hannover, Lhst.",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241001,340.0
 2018,"dav. Hannover, Umland",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241999,278.0
 2018,Diepholz,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03251,245.0
@@ -1957,8 +2581,8 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2018,Verden,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03361,219.0
 2018,Statistische Region Lüneburg,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K033,180.0
 2018,"Delmenhorst, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03401,366.0
-2018,Emden  Stadt,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03402,149.0
-2018,"Oldenburg(Oldb), Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03403,321.0
+2018,"Emden, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03402,149.0
+2018,"Oldenburg (Oldb), Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03403,321.0
 2018,"Osnabrück, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03404,400.0
 2018,"Wilhelmshaven, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03405,308.0
 2018,Ammerland,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03451,251.0
@@ -1986,7 +2610,7 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2017,Wolfenbüttel,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03158,162.0
 2017,Göttingen,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03159,231.0
 2017,Statistische Region Braunschweig,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K031,175.0
-2017,Hannover  Region,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241,324.0
+2017,Region Hannover,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241,324.0
 2017,"dav. Hannover, Lhst.",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241001,350.0
 2017,"dav. Hannover, Umland",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241999,232.742616033755
 2017,Diepholz,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03251,230.0
@@ -2009,8 +2633,8 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2017,Verden,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03361,209.0
 2017,Statistische Region Lüneburg,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K033,176.0
 2017,"Delmenhorst, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03401,362.0
-2017,Emden  Stadt,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03402,121.0
-2017,"Oldenburg(Oldb), Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03403,330.0
+2017,"Emden, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03402,121.0
+2017,"Oldenburg (Oldb), Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03403,330.0
 2017,"Osnabrück, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03404,396.0
 2017,"Wilhelmshaven, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03405,282.0
 2017,Ammerland,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03451,249.0
@@ -2038,7 +2662,7 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2016,Wolfenbüttel,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03158,174.0
 2016,Göttingen,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03159,222.0
 2016,Statistische Region Braunschweig,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K031,169.0
-2016,Hannover  Region,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241,325.0
+2016,Region Hannover,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241,325.0
 2016,"dav. Hannover, Lhst.",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241001,352.0
 2016,"dav. Hannover, Umland",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241999,230.079155672823
 2016,Diepholz,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03251,225.0
@@ -2061,8 +2685,8 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2016,Verden,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03361,206.0
 2016,Statistische Region Lüneburg,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K033,170.0
 2016,"Delmenhorst, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03401,365.0
-2016,Emden  Stadt,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03402,113.0
-2016,"Oldenburg(Oldb), Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03403,341.0
+2016,"Emden, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03402,113.0
+2016,"Oldenburg (Oldb), Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03403,341.0
 2016,"Osnabrück, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03404,400.0
 2016,"Wilhelmshaven, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03405,254.0
 2016,Ammerland,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03451,237.0
@@ -2090,7 +2714,7 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2015,Wolfenbüttel,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03158,176.0
 2015,Göttingen,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03159,198.535745047373
 2015,Statistische Region Braunschweig,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K031,169.0
-2015,Hannover  Region,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241,324.0
+2015,Region Hannover,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241,324.0
 2015,"dav. Hannover, Lhst.",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241001,355.0
 2015,"dav. Hannover, Umland",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241999,226.600073991861
 2015,Diepholz,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03251,205.0
@@ -2113,8 +2737,8 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2015,Verden,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03361,226.0
 2015,Statistische Region Lüneburg,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K033,172.0
 2015,"Delmenhorst, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03401,366.0
-2015,Emden  Stadt,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03402,100.0
-2015,"Oldenburg(Oldb), Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03403,339.0
+2015,"Emden, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03402,100.0
+2015,"Oldenburg (Oldb), Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03403,339.0
 2015,"Osnabrück, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03404,413.0
 2015,"Wilhelmshaven, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03405,250.0
 2015,Ammerland,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03451,274.0
@@ -2142,7 +2766,7 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2014,Wolfenbüttel,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03158,173.0
 2014,Göttingen,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03159,160.689333954355
 2014,Statistische Region Braunschweig,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K031,153.0
-2014,Hannover  Region,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241,322.0
+2014,Region Hannover,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241,322.0
 2014,"dav. Hannover, Lhst.",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241001,357.0
 2014,"dav. Hannover, Umland",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241999,215.184815184815
 2014,Diepholz,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03251,206.0
@@ -2165,8 +2789,8 @@ Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
 2014,Verden,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03361,211.0
 2014,Statistische Region Lüneburg,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K033,152.0
 2014,"Delmenhorst, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03401,387.0
-2014,Emden  Stadt,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03402,87.0
-2014,"Oldenburg(Oldb), Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03403,291.0
+2014,"Emden, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03402,87.0
+2014,"Oldenburg (Oldb), Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03403,291.0
 2014,"Osnabrück, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03404,427.0
 2014,"Wilhelmshaven, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03405,234.0
 2014,Ammerland,im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03451,100.0
