@@ -1,4 +1,3 @@
 From,To
-Gebietseinheit,Erreichter Schulabschluss
-Erreichter Schulabschluss,Berufsbildende Schule
-Berufsbildende Schule,Nationalität
+Erreichter Schulabschluss,Besuchte Schule
+Besuchte Schule,Nationalität

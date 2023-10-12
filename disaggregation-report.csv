@@ -6,14 +6,14 @@ Asylanträge,1,1
 Aufenthaltsdauer in Jahren,1,6
 Befristung,1,2
 Befristungsgrund,1,5
-Berufsbildende Schule,1,10
 Berufsgruppe,1,2
+Besuchte Schule,1,12
 Bildungsstand,1,3
 Durchschnittliche Bewohnerzahl in der Landesaufnahmebehörde Niedersachsen (LAB NI),1,2
 Entscheidung vor Rechtsbehelf,1,6
-Erreichter Schulabschluss,1,10
+Erreichter Schulabschluss,1,12
 Fächergruppe,1,10
-Gebietseinheit,34,9
+Gebietseinheit,33,9
 Geschlecht,22,10
 Höchster beruflicher Abschluss,1,3
 Kategorie,12,45
@@ -28,7 +28,7 @@ mit oder ohne ledige Kinder,1,3
 Männer / Frauen,1,2
 Nationalität / Geschlecht,1,5
 Nationalität / Migrationshintergrund,1,5
-Nationalität,9,3
+Nationalität,9,221
 ohne Aufenthaltstitel,1,5
 Qualifikation,1,4
 Rechtskreis,1,3
