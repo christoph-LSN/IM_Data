@@ -80,11 +80,11 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Ukraine",
                 "Polen",
-                "Türkei",
                 "Syrien",
+                "Türkei",
                 "Rumänien",
-                "Irak",
                 ""
               ]
             }
