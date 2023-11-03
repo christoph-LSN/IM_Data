@@ -16,59 +16,60 @@
             "title": "Jahr"
           },
           {
-            "name": "Land der Staatsangehörigkeit",
+            "name": "Land der Staatsabgehörigkeit",
             "type": "string",
             "constraints": {
               "enum": [
-                "Europa",
-                "Türkei",
-                "Polen",
-                "Serbien",
-                "Niederlande",
-                "Rumänien",
-                "Italien",
-                "Russische Föderation",
-                "Griechenland",
                 "Bulgarien",
-                "Spanien",
-                "Ukraine",
-                "Vereinigtes Königreich",
-                "Portugal",
+                "Griechenland",
+                "Italien",
+                "Serbien (ohne Kosovo) ab 2008",
                 "Kroatien",
-                "Ungarn",
-                "EU Staaten",
-                "Afrika",
-                "Amerika",
-                "Asien",
-                "Syrien",
-                "Irak",
+                "Kosovo",
+                "Niederlande",
+                "Polen",
+                "Rumänien",
+                "Russische Föderation",
+                "Spanien",
+                "Türkei",
+                "Ukraine",
+                "übrige europäische Staaten",
+                "Europa insgesamt",
+                "übrige afrikanische Staaten",
+                "Afrika insgesamt",
+                "übrige amerikanische Staaten",
+                "Amerika insgesamt",
                 "Afghanistan",
                 "China",
+                "Indien",
+                "Irak",
+                "Iran, Islamische Republik",
+                "Syrien, Arabische Republik",
                 "Vietnam",
+                "übrige asiatische Staaten",
+                "Asien insgesamt",
                 "Australien und Ozeanien",
-                "Staatenlos",
-                "Ungeklärt und ohne Angabe",
-                "Insgesamt",
-                "Österreich",
-                "EU-Staaten",
-                "Serbien2)",
-                "Bosnien und Herzegowina",
+                "staatenlos",
+                "ungeklärt,oh.Angabe,unbekannt",
+                "Ausländer insgesamt",
                 ""
               ]
             },
-            "title": "Land der Staatsangehörigkeit"
+            "title": "Land der Staatsabgehörigkeit"
           },
           {
-            "name": "Männer / Frauen",
+            "name": "Kategorie",
             "type": "string",
             "constraints": {
               "enum": [
+                "Ausländerinnen und Ausländer",
                 "Männer",
                 "Frauen",
+                "Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005",
                 ""
               ]
             },
-            "title": "Männer / Frauen"
+            "title": "Kategorie"
           },
           {
             "name": "Units",
@@ -76,8 +77,7 @@
             "constraints": {
               "enum": [
                 "Anzahl",
-                "Geschlecht in Prozent",
-                "Veränderung gegenüber 2005 in Prozentpunkten",
+                "Prozent",
                 ""
               ]
             },
