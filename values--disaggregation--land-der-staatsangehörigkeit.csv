@@ -1,33 +1,46 @@
 Value,Disaggregation combinations using this value,Number of indicators
 Afganistan,1,1
-Afrika insgesamt,1,1
-Amerika insgesamt,1,1
-Asien insgesamt,1,1
-Australien und Ozeanien,1,1
-Bulgarien,1,1
-China,9,1
+Afghanistan,6,1
+Afrika insgesamt,7,2
+Amerika insgesamt,7,2
+Asien insgesamt,7,2
+Ausländer insgesamt,6,1
+Australien und Ozeanien,7,2
+Bulgarien,7,2
+China,15,2
 EU Staaten,1,1
-Europa insgesamt,1,1
-Griechenland,1,1
-Indien,10,2
+Europa insgesamt,7,2
+Griechenland,7,2
+Indien,16,3
 Insgesamt,1,1
-Irak,1,1
-"Iran, Islamische Republik",10,2
-Italien,1,1
-Kosovo,1,1
+Irak,7,2
+"Iran, Islamische Republik",16,3
+Italien,7,2
+Kosovo,7,2
+Kroatien,6,1
 Libanon,1,1
+Niederlande,6,1
 Palestinensische Gebiete,1,1
-Polen,105,2
-Rumänien,105,2
+Polen,111,3
+Rumänien,111,3
+Russische Föderation,6,1
+Serbien (ohne Kosovo) ab 2008,6,1
 Serbien,1,1
 Sonstige Herkunnft,1,1
+Spanien,6,1
 Staaten insgesamt,9,1
-staatenlos,1,1
+staatenlos,7,2
 "Syrien, Arab. Republik",9,1
-"Syrien, Arabische Republik",1,1
+"Syrien, Arabische Republik",7,2
 Syrien,104,1
 Tunesien,1,1
-Türkei,114,3
-Ukraine,105,2
+Türkei,120,4
+Ukraine,111,3
 ungeklärt,1,1
+"ungeklärt,oh.Angabe,unbekannt",6,1
+Vietnam,6,1
 Ägypten,1,1
+übrige afrikanische Staaten,6,1
+übrige amerikanische Staaten,6,1
+übrige asiatische Staaten,6,1
+übrige europäische Staaten,6,1
