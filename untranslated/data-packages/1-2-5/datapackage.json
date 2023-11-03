@@ -63,7 +63,6 @@
                 "Ausländerinnen und Ausländer",
                 "Männer",
                 "Frauen",
-                "Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005",
                 ""
               ]
             }
@@ -75,6 +74,7 @@
               "enum": [
                 "Anzahl",
                 "Prozent",
+                "Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005",
                 ""
               ]
             }
