@@ -1,4 +1,4 @@
-﻿Year,Land der Staatsabgehörigkeit,Kategorie,Units,Value
+﻿Year,Land der Staatsangehörigkeit,Kategorie,Units,Value
 2022,"Bulgarien",Ausländerinnen und Ausländer,Anzahl,35625
 2022,"Griechenland",Ausländerinnen und Ausländer,Anzahl,19010
 2022,"Italien",Ausländerinnen und Ausländer,Anzahl,28945
@@ -482,9 +482,9 @@
 2007,"Bulgarien",Ausländerinnen und Ausländer,Anzahl,2343
 2007,"Griechenland",Ausländerinnen und Ausländer,Anzahl,15362
 2007,"Italien",Ausländerinnen und Ausländer,Anzahl,23180
-2007,"Serbien (ohne Kosovo) ab 2008",Ausländerinnen und Ausländer,Anzahl,999999999
+2007,"Serbien (ohne Kosovo) ab 2008",Ausländerinnen und Ausländer,Anzahl,
 2007,"Kroatien",Ausländerinnen und Ausländer,Anzahl,6424
-2007,"Kosovo",Ausländerinnen und Ausländer,Anzahl,999999999
+2007,"Kosovo",Ausländerinnen und Ausländer,Anzahl,
 2007,"Niederlande",Ausländerinnen und Ausländer,Anzahl,26252
 2007,"Polen",Ausländerinnen und Ausländer,Anzahl,37865
 2007,"Rumänien",Ausländerinnen und Ausländer,Anzahl,4292
@@ -514,9 +514,9 @@
 2006,"Bulgarien",Ausländerinnen und Ausländer,Anzahl,1892
 2006,"Griechenland",Ausländerinnen und Ausländer,Anzahl,15732
 2006,"Italien",Ausländerinnen und Ausländer,Anzahl,23524
-2006,"Serbien (ohne Kosovo) ab 2008",Ausländerinnen und Ausländer,Anzahl,999999999
+2006,"Serbien (ohne Kosovo) ab 2008",Ausländerinnen und Ausländer,Anzahl,
 2006,"Kroatien",Ausländerinnen und Ausländer,Anzahl,6547
-2006,"Kosovo",Ausländerinnen und Ausländer,Anzahl,999999999
+2006,"Kosovo",Ausländerinnen und Ausländer,Anzahl,
 2006,"Niederlande",Ausländerinnen und Ausländer,Anzahl,24446
 2006,"Polen",Ausländerinnen und Ausländer,Anzahl,35578
 2006,"Rumänien",Ausländerinnen und Ausländer,Anzahl,3358
@@ -546,9 +546,9 @@
 2005,"Bulgarien",Ausländerinnen und Ausländer,Anzahl,1906
 2005,"Griechenland",Ausländerinnen und Ausländer,Anzahl,16107
 2005,"Italien",Ausländerinnen und Ausländer,Anzahl,23943
-2005,"Serbien (ohne Kosovo) ab 2008",Ausländerinnen und Ausländer,Anzahl,999999999
+2005,"Serbien (ohne Kosovo) ab 2008",Ausländerinnen und Ausländer,Anzahl,
 2005,"Kroatien",Ausländerinnen und Ausländer,Anzahl,6466
-2005,"Kosovo",Ausländerinnen und Ausländer,Anzahl,999999999
+2005,"Kosovo",Ausländerinnen und Ausländer,Anzahl,
 2005,"Niederlande",Ausländerinnen und Ausländer,Anzahl,22334
 2005,"Polen",Ausländerinnen und Ausländer,Anzahl,32413
 2005,"Rumänien",Ausländerinnen und Ausländer,Anzahl,3382
@@ -1058,9 +1058,9 @@
 2007,"Bulgarien",Männer,Anzahl,1006
 2007,"Griechenland",Männer,Anzahl,8611
 2007,"Italien",Männer,Anzahl,14470
-2007,"Serbien (ohne Kosovo) ab 2008",Männer,Anzahl,999999999
+2007,"Serbien (ohne Kosovo) ab 2008",Männer,Anzahl,
 2007,"Kroatien",Männer,Anzahl,3277
-2007,"Kosovo",Männer,Anzahl,999999999
+2007,"Kosovo",Männer,Anzahl,
 2007,"Niederlande",Männer,Anzahl,14859
 2007,"Polen",Männer,Anzahl,18260
 2007,"Rumänien",Männer,Anzahl,2125
@@ -1090,9 +1090,9 @@
 2006,"Bulgarien",Männer,Anzahl,798
 2006,"Griechenland",Männer,Anzahl,8800
 2006,"Italien",Männer,Anzahl,14701
-2006,"Serbien (ohne Kosovo) ab 2008",Männer,Anzahl,999999999
+2006,"Serbien (ohne Kosovo) ab 2008",Männer,Anzahl,
 2006,"Kroatien",Männer,Anzahl,3348
-2006,"Kosovo",Männer,Anzahl,999999999
+2006,"Kosovo",Männer,Anzahl,
 2006,"Niederlande",Männer,Anzahl,13843
 2006,"Polen",Männer,Anzahl,16987
 2006,"Rumänien",Männer,Anzahl,1404
@@ -1122,9 +1122,9 @@
 2005,"Bulgarien",Männer,Anzahl,798
 2005,"Griechenland",Männer,Anzahl,8996
 2005,"Italien",Männer,Anzahl,14941
-2005,"Serbien (ohne Kosovo) ab 2008",Männer,Anzahl,999999999
+2005,"Serbien (ohne Kosovo) ab 2008",Männer,Anzahl,
 2005,"Kroatien",Männer,Anzahl,3253
-2005,"Kosovo",Männer,Anzahl,999999999
+2005,"Kosovo",Männer,Anzahl,
 2005,"Niederlande",Männer,Anzahl,12637
 2005,"Polen",Männer,Anzahl,14573
 2005,"Rumänien",Männer,Anzahl,1398
@@ -1164,7 +1164,7 @@
 2022,"Spanien",Frauen,Anzahl,6065
 2022,"Türkei",Frauen,Anzahl,43350
 2022,"Ukraine",Frauen,Anzahl,75365
-2022,"übrige europäische Staaten",Frauen,Anzahl,999999999
+2022,"übrige europäische Staaten",Frauen,Anzahl,
 2022,"Europa insgesamt",Frauen,Anzahl,342250
 2022,"übrige afrikanische Staaten",Frauen,Anzahl,3170
 2022,"Afrika insgesamt",Frauen,Anzahl,19790
@@ -1196,7 +1196,7 @@
 2021,"Spanien",Frauen,Anzahl,5910
 2021,"Türkei",Frauen,Anzahl,42875
 2021,"Ukraine",Frauen,Anzahl,7480
-2021,"übrige europäische Staaten",Frauen,Anzahl,999999999
+2021,"übrige europäische Staaten",Frauen,Anzahl,
 2021,"Europa insgesamt",Frauen,Anzahl,267055
 2021,"übrige afrikanische Staaten",Frauen,Anzahl,2515
 2021,"Afrika insgesamt",Frauen,Anzahl,17515
@@ -1228,7 +1228,7 @@
 2020,"Spanien",Frauen,Anzahl,5615
 2020,"Türkei",Frauen,Anzahl,42900
 2020,"Ukraine",Frauen,Anzahl,7260
-2020,"übrige europäische Staaten",Frauen,Anzahl,999999999
+2020,"übrige europäische Staaten",Frauen,Anzahl,
 2020,"Europa insgesamt",Frauen,Anzahl,257355
 2020,"übrige afrikanische Staaten",Frauen,Anzahl,2245
 2020,"Afrika insgesamt",Frauen,Anzahl,15875
@@ -1260,7 +1260,7 @@
 2019,"Spanien",Frauen,Anzahl,5650
 2019,"Türkei",Frauen,Anzahl,43215
 2019,"Ukraine",Frauen,Anzahl,7150
-2019,"übrige europäische Staaten",Frauen,Anzahl,999999999
+2019,"übrige europäische Staaten",Frauen,Anzahl,
 2019,"Europa insgesamt",Frauen,Anzahl,251170
 2019,"übrige afrikanische Staaten",Frauen,Anzahl,2055
 2019,"Afrika insgesamt",Frauen,Anzahl,15155
@@ -1292,7 +1292,7 @@
 2018,"Spanien",Frauen,Anzahl,5600
 2018,"Türkei",Frauen,Anzahl,43545
 2018,"Ukraine",Frauen,Anzahl,6980
-2018,"übrige europäische Staaten",Frauen,Anzahl,999999999
+2018,"übrige europäische Staaten",Frauen,Anzahl,
 2018,"Europa insgesamt",Frauen,Anzahl,243935
 2018,"übrige afrikanische Staaten",Frauen,Anzahl,1795
 2018,"Afrika insgesamt",Frauen,Anzahl,13510
@@ -1324,7 +1324,7 @@
 2017,"Spanien",Frauen,Anzahl,5550
 2017,"Türkei",Frauen,Anzahl,43750
 2017,"Ukraine",Frauen,Anzahl,6715
-2017,"übrige europäische Staaten",Frauen,Anzahl,999999999
+2017,"übrige europäische Staaten",Frauen,Anzahl,
 2017,"Europa insgesamt",Frauen,Anzahl,235650
 2017,"übrige afrikanische Staaten",Frauen,Anzahl,1510
 2017,"Afrika insgesamt",Frauen,Anzahl,11975
@@ -1356,7 +1356,7 @@
 2016,"Spanien",Frauen,Anzahl,5535
 2016,"Türkei",Frauen,Anzahl,44105
 2016,"Ukraine",Frauen,Anzahl,6615
-2016,"übrige europäische Staaten",Frauen,Anzahl,999999999
+2016,"übrige europäische Staaten",Frauen,Anzahl,
 2016,"Europa insgesamt",Frauen,Anzahl,229605
 2016,"übrige afrikanische Staaten",Frauen,Anzahl,1280
 2016,"Afrika insgesamt",Frauen,Anzahl,10570
@@ -1634,9 +1634,9 @@
 2007,"Bulgarien",Frauen,Anzahl,1337
 2007,"Griechenland",Frauen,Anzahl,6751
 2007,"Italien",Frauen,Anzahl,8710
-2007,"Serbien (ohne Kosovo) ab 2008",Frauen,Anzahl,999999999
+2007,"Serbien (ohne Kosovo) ab 2008",Frauen,Anzahl,
 2007,"Kroatien",Frauen,Anzahl,3147
-2007,"Kosovo",Frauen,Anzahl,999999999
+2007,"Kosovo",Frauen,Anzahl,
 2007,"Niederlande",Frauen,Anzahl,11393
 2007,"Polen",Frauen,Anzahl,19605
 2007,"Rumänien",Frauen,Anzahl,2167
@@ -1666,9 +1666,9 @@
 2006,"Bulgarien",Frauen,Anzahl,1094
 2006,"Griechenland",Frauen,Anzahl,6932
 2006,"Italien",Frauen,Anzahl,8823
-2006,"Serbien (ohne Kosovo) ab 2008",Frauen,Anzahl,999999999
+2006,"Serbien (ohne Kosovo) ab 2008",Frauen,Anzahl,
 2006,"Kroatien",Frauen,Anzahl,3199
-2006,"Kosovo",Frauen,Anzahl,999999999
+2006,"Kosovo",Frauen,Anzahl,
 2006,"Niederlande",Frauen,Anzahl,10603
 2006,"Polen",Frauen,Anzahl,18591
 2006,"Rumänien",Frauen,Anzahl,1954
@@ -1698,9 +1698,9 @@
 2005,"Bulgarien",Frauen,Anzahl,1108
 2005,"Griechenland",Frauen,Anzahl,7111
 2005,"Italien",Frauen,Anzahl,9002
-2005,"Serbien (ohne Kosovo) ab 2008",Frauen,Anzahl,999999999
+2005,"Serbien (ohne Kosovo) ab 2008",Frauen,Anzahl,
 2005,"Kroatien",Frauen,Anzahl,3213
-2005,"Kosovo",Frauen,Anzahl,999999999
+2005,"Kosovo",Frauen,Anzahl,
 2005,"Niederlande",Frauen,Anzahl,9697
 2005,"Polen",Frauen,Anzahl,17840
 2005,"Rumänien",Frauen,Anzahl,1984
@@ -2882,9 +2882,9 @@
 2022,"Bulgarien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,1769.09758656873
 2022,"Griechenland",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,18.023219718135
 2022,"Italien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,20.8912834648958
-2022,"Serbien (ohne Kosovo) ab 2008",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
+2022,"Serbien (ohne Kosovo) ab 2008",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
 2022,"Kroatien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,88.7565728425611
-2022,"Kosovo",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
+2022,"Kosovo",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
 2022,"Niederlande",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,32.2423211247425
 2022,"Polen",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,213.562459506988
 2022,"Rumänien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,2111.85688941455
@@ -2914,9 +2914,9 @@
 2021,"Bulgarien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,1680.6925498426
 2021,"Griechenland",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,17.4644564475073
 2021,"Italien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,21.6639518857286
-2021,"Serbien (ohne Kosovo) ab 2008",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
+2021,"Serbien (ohne Kosovo) ab 2008",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
 2021,"Kroatien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,87.0553665326322
-2021,"Kosovo",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
+2021,"Kosovo",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
 2021,"Niederlande",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,33.1825915644309
 2021,"Polen",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,209.196927158856
 2021,"Rumänien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,2015.31638083974
@@ -2946,9 +2946,9 @@
 2020,"Bulgarien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,1534.57502623295
 2020,"Griechenland",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,16.0675482709381
 2020,"Italien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,20.9121663951886
-2020,"Serbien (ohne Kosovo) ab 2008",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
+2020,"Serbien (ohne Kosovo) ab 2008",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
 2020,"Kroatien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,84.2715743891123
-2020,"Kosovo",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
+2020,"Kosovo",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
 2020,"Niederlande",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,33.0930419987463
 2020,"Polen",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,203.443062968562
 2020,"Rumänien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,1812.32998225902
@@ -2978,9 +2978,9 @@
 2019,"Bulgarien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,1387.93284365163
 2019,"Griechenland",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,16.8125659651083
 2019,"Italien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,20.3900931378691
-2019,"Serbien (ohne Kosovo) ab 2008",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
+2019,"Serbien (ohne Kosovo) ab 2008",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
 2019,"Kroatien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,84.2715743891123
-2019,"Kosovo",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
+2019,"Kosovo",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
 2019,"Niederlande",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,33.7198889585386
 2019,"Polen",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,202.394101132262
 2019,"Rumänien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,1643.93849793022
@@ -3010,9 +3010,9 @@
 2018,"Bulgarien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,1263.58866736621
 2018,"Griechenland",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,16.6573539454895
 2018,"Italien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,19.1788831808879
-2018,"Serbien (ohne Kosovo) ab 2008",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
+2018,"Serbien (ohne Kosovo) ab 2008",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
 2018,"Kroatien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,76.3841633158058
-2018,"Kosovo",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
+2018,"Kosovo",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
 2018,"Niederlande",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,33.9213754813289
 2018,"Polen",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,199.709992904082
 2018,"Rumänien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,1456.3276167948
@@ -3042,9 +3042,9 @@
 2017,"Bulgarien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,1120.8814270724
 2017,"Griechenland",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,15.3535729806916
 2017,"Italien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,17.3203023848306
-2017,"Serbien (ohne Kosovo) ab 2008",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
+2017,"Serbien (ohne Kosovo) ab 2008",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
 2017,"Kroatien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,61.6919270027838
-2017,"Kosovo",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
+2017,"Kosovo",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
 2017,"Niederlande",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,35.3541685322826
 2017,"Polen",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,190.654984111313
 2017,"Rumänien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,1196.86575990538
@@ -3074,9 +3074,9 @@
 2016,"Bulgarien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,984.470094438615
 2016,"Griechenland",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,13.6151983609611
 2016,"Italien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,15.9629119158
-2016,"Serbien (ohne Kosovo) ab 2008",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
+2016,"Serbien (ohne Kosovo) ab 2008",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
 2016,"Kroatien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,48.5462418806062
-2016,"Kosovo",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
+2016,"Kosovo",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
 2016,"Niederlande",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,36.4063759290767
 2016,"Polen",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,178.206275259927
 2016,"Rumänien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,1001.41927853341
@@ -3106,9 +3106,9 @@
 2015,"Bulgarien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,807.869884575026
 2015,"Griechenland",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,8.78500031042404
 2015,"Italien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,12.5631708641357
-2015,"Serbien (ohne Kosovo) ab 2008",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
+2015,"Serbien (ohne Kosovo) ab 2008",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
 2015,"Kroatien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,31.5341787813177
-2015,"Kosovo",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
+2015,"Kosovo",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
 2015,"Niederlande",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,36.0123578400645
 2015,"Polen",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,159.001018110018
 2015,"Rumänien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,759.402720283856
@@ -3138,9 +3138,9 @@
 2014,"Bulgarien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,582.371458551941
 2014,"Griechenland",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,4.89228285838455
 2014,"Italien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,7.643152487157
-2014,"Serbien (ohne Kosovo) ab 2008",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
+2014,"Serbien (ohne Kosovo) ab 2008",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
 2014,"Kroatien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,14.8932879678317
-2014,"Kosovo",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
+2014,"Kosovo",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
 2014,"Niederlande",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,35.3631234888511
 2014,"Polen",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,131.882269459785
 2014,"Rumänien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,547.338852749852
@@ -3170,9 +3170,9 @@
 2013,"Bulgarien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,405.823714585519
 2013,"Griechenland",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,0.931272117712796
 2013,"Italien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,2.36394770914255
-2013,"Serbien (ohne Kosovo) ab 2008",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
+2013,"Serbien (ohne Kosovo) ab 2008",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
 2013,"Kroatien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,5.52118775131457
-2013,"Kosovo",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
+2013,"Kosovo",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
 2013,"Niederlande",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,35.4884928808095
 2013,"Polen",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,103.159226236387
 2013,"Rumänien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,361.679479597871
@@ -3202,9 +3202,9 @@
 2012,"Bulgarien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,306.873032528856
 2012,"Griechenland",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,-4.22176693363134
 2012,"Italien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,-2.8024892452909
-2012,"Serbien (ohne Kosovo) ab 2008",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
+2012,"Serbien (ohne Kosovo) ab 2008",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
 2012,"Kroatien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,0.448499845344881
-2012,"Kosovo",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
+2012,"Kosovo",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
 2012,"Niederlande",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,34.5392674845527
 2012,"Polen",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,72.9367846234535
 2012,"Rumänien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,261.827321111768
@@ -3234,9 +3234,9 @@
 2011,"Bulgarien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,221.93074501574
 2011,"Griechenland",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,-8.20761159744211
 2011,"Italien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,-5.29173453619012
-2011,"Serbien (ohne Kosovo) ab 2008",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
+2011,"Serbien (ohne Kosovo) ab 2008",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
 2011,"Kroatien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,-2.55180946489329
-2011,"Kosovo",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
+2011,"Kosovo",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
 2011,"Niederlande",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,34.118384525835
 2011,"Polen",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,46.9780643568938
 2011,"Rumänien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,169.101123595506
@@ -3266,9 +3266,9 @@
 2010,"Bulgarien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,150.209863588667
 2010,"Griechenland",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,-10.6475445458496
 2010,"Italien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,-4.90331203274443
-2010,"Serbien (ohne Kosovo) ab 2008",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
+2010,"Serbien (ohne Kosovo) ab 2008",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
 2010,"Kroatien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,-4.46953294154036
-2010,"Kosovo",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
+2010,"Kosovo",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
 2010,"Niederlande",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,31.7542759917614
 2010,"Polen",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,28.2633511245488
 2010,"Rumänien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,116.439976345358
@@ -3298,9 +3298,9 @@
 2009,"Bulgarien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,93.9664218258132
 2009,"Griechenland",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,-10.0018625442354
 2009,"Italien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,-5.74698241657269
-2009,"Serbien (ohne Kosovo) ab 2008",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
+2009,"Serbien (ohne Kosovo) ab 2008",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
 2009,"Kroatien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,-4.84070522734303
-2009,"Kosovo",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
+2009,"Kosovo",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
 2009,"Niederlande",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,29.412554849109
 2009,"Polen",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,21.2075401844939
 2009,"Rumänien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,69.2489651094027
@@ -3330,9 +3330,9 @@
 2008,"Bulgarien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,63.7985309548793
 2008,"Griechenland",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,-7.64263984602968
 2008,"Italien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,-4.80725055339765
-2008,"Serbien (ohne Kosovo) ab 2008",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
+2008,"Serbien (ohne Kosovo) ab 2008",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
 2008,"Kroatien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,-4.14475719146304
-2008,"Kosovo",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
+2008,"Kosovo",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
 2008,"Niederlande",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,25.4231216978598
 2008,"Polen",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,17.588621849258
 2008,"Rumänien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,43.7610881135423
@@ -3362,9 +3362,9 @@
 2007,"Bulgarien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,22.9275970619098
 2007,"Griechenland",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,-4.62531818464022
 2007,"Italien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,-3.18673516267803
-2007,"Serbien (ohne Kosovo) ab 2008",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
+2007,"Serbien (ohne Kosovo) ab 2008",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
 2007,"Kroatien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,-0.649551500154655
-2007,"Kosovo",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
+2007,"Kosovo",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
 2007,"Niederlande",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,17.5427599176144
 2007,"Polen",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,16.8204115632617
 2007,"Rumänien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,26.9071555292726
@@ -3376,7 +3376,7 @@
 2007,"Europa insgesamt",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,-1.50246347312858E-02
 2007,"übrige afrikanische Staaten",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,-3.80228136882129
 2007,"Afrika insgesamt",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,-4.46422314107506
-2007,"übrige amerikanische Staaten",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
+2007,"übrige amerikanische Staaten",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
 2007,"Amerika insgesamt",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,2.80579808425871
 2007,"Afghanistan",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,-15.550885619934
 2007,"China",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,-0.830924855491329
@@ -3394,9 +3394,9 @@
 2006,"Bulgarien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,-0.734522560335782
 2006,"Griechenland",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,-2.32818029428199
 2006,"Italien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,-1.74998955853485
-2006,"Serbien (ohne Kosovo) ab 2008",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
+2006,"Serbien (ohne Kosovo) ab 2008",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
 2006,"Kroatien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,1.25270646458398
-2006,"Kosovo",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
+2006,"Kosovo",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
 2006,"Niederlande",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,9.45643413629444
 2006,"Polen",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,9.76460062320674
 2006,"Rumänien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,-0.709639266706091
@@ -3423,35 +3423,35 @@
 2006,"staatenlos",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,1.91358024691358
 2006,"ungeklärt,oh.Angabe,unbekannt",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,-1.56318480642805
 2006,"Ausländer insgesamt",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,-0.591350550179204
-2005,"Bulgarien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
-2005,"Griechenland",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
-2005,"Italien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
-2005,"Serbien (ohne Kosovo) ab 2008",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
-2005,"Kroatien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
-2005,"Kosovo",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
-2005,"Niederlande",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
-2005,"Polen",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
-2005,"Rumänien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
-2005,"Russische Föderation",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
-2005,"Spanien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
-2005,"Türkei",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
-2005,"Ukraine",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
-2005,"übrige europäische Staaten",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
-2005,"Europa insgesamt",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
-2005,"übrige afrikanische Staaten",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
-2005,"Afrika insgesamt",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
-2005,"übrige amerikanische Staaten",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
-2005,"Amerika insgesamt",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
-2005,"Afghanistan",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
-2005,"China",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
-2005,"Indien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
-2005,"Irak",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
-2005,"Iran, Islamische Republik",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
-2005,"Syrien, Arabische Republik",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
-2005,"Vietnam",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
-2005,"übrige asiatische Staaten",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
-2005,"Asien insgesamt",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
-2005,"Australien und Ozeanien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
-2005,"staatenlos",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
-2005,"ungeklärt,oh.Angabe,unbekannt",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
-2005,"Ausländer insgesamt",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,999999999
+2005,"Bulgarien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
+2005,"Griechenland",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
+2005,"Italien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
+2005,"Serbien (ohne Kosovo) ab 2008",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
+2005,"Kroatien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
+2005,"Kosovo",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
+2005,"Niederlande",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
+2005,"Polen",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
+2005,"Rumänien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
+2005,"Russische Föderation",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
+2005,"Spanien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
+2005,"Türkei",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
+2005,"Ukraine",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
+2005,"übrige europäische Staaten",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
+2005,"Europa insgesamt",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
+2005,"übrige afrikanische Staaten",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
+2005,"Afrika insgesamt",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
+2005,"übrige amerikanische Staaten",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
+2005,"Amerika insgesamt",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
+2005,"Afghanistan",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
+2005,"China",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
+2005,"Indien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
+2005,"Irak",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
+2005,"Iran, Islamische Republik",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
+2005,"Syrien, Arabische Republik",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
+2005,"Vietnam",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
+2005,"übrige asiatische Staaten",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
+2005,"Asien insgesamt",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
+2005,"Australien und Ozeanien",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
+2005,"staatenlos",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
+2005,"ungeklärt,oh.Angabe,unbekannt",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
+2005,"Ausländer insgesamt",Ausländerinnen und Ausländer,Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005,
