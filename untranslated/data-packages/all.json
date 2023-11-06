@@ -1477,7 +1477,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
           },
           {
             "name": "Land der Staatsangehörigkeit",
@@ -1538,7 +1538,7 @@
             "constraints": {
               "enum": [
                 "Anzahl",
-                "Veränderung der Anzahl der Ausländerinnen und Ausländergegenüber 2005",
+                "Veränderung der Anzahl der Ausländerinnen und Ausländer gegenüber 2005",
                 ""
               ]
             }
