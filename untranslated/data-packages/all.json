@@ -1480,7 +1480,7 @@
             "type": "number"
           },
           {
-            "name": "Land der Staatsabgehörigkeit",
+            "name": "Land der Staatsangehörigkeit",
             "type": "string",
             "constraints": {
               "enum": [

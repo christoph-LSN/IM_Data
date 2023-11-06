@@ -1583,7 +1583,7 @@
             "title": "Jahr"
           },
           {
-            "name": "Land der Staatsabgehörigkeit",
+            "name": "Land der Staatsangehörigkeit",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1622,7 +1622,7 @@
                 ""
               ]
             },
-            "title": "Land der Staatsabgehörigkeit"
+            "title": "Land der Staatsangehörigkeit"
           },
           {
             "name": "Kategorie",
