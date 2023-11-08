@@ -3139,8 +3139,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Nicht veröffentlicht, weil nicht ausreichend genau oder nicht repräsentativ.",
                 "Aussagewert eingeschränkt, da der Zahlenwert statistisch relativ unsicher ist.",
+                "Nicht veröffentlicht, weil nicht ausreichend genau oder nicht repräsentativ.",
                 ""
               ]
             },
