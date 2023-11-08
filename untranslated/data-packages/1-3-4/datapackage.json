@@ -20,53 +20,16 @@
             "constraints": {
               "enum": [
                 "Europa",
-                "Bulgarien",
-                "Frankreich",
-                "Griechenland",
-                "Italien",
-                "Kroatien",
-                "Niederlande",
-                "Österreich",
-                "Polen",
-                "Portugal",
-                "Rumänien",
-                "Spanien",
-                "Vereinigtes Königreich",
-                "Sonstiges Europa",
-                "Bosnien und Herzegowina",
-                "Kosovo",
-                "Russische Föderation",
-                "Serbien",
-                "Türkei",
-                "Ukraine",
-                "EU-Staaten",
-                "Afrika",
-                "Marokko",
-                "Ägypten Algerien Libyen Tunesien",
-                "Amerika",
-                "Asien Australien und Ozeanien",
-                "Irak",
-                "Iran",
-                "Kasachstan",
-                "Syrien",
-                "Afghanistan",
-                "Vietnam",
-                "Ohne Angabe",
-                "Insgesamt",
-                "Sowjetunion",
-                "Libanon",
                 ""
               ]
             }
           },
           {
-            "name": "Migrationshintergrund",
+            "name": "Geschlecht",
             "type": "string",
             "constraints": {
               "enum": [
                 "Insgesamt",
-                "dav. Männer",
-                "dav. Frauen",
                 ""
               ]
             }
@@ -77,6 +40,17 @@
             "constraints": {
               "enum": [
                 "in 1000",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Nicht veröffentlicht, weil nicht ausreichend genau oder nicht repräsentativ.",
+                "Aussagewert eingeschränkt, da der Zahlenwert statistisch relativ unsicher ist.",
                 ""
               ]
             }
