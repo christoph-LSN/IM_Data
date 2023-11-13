@@ -29,18 +29,6 @@
             "title": "Migrationsstatus"
           },
           {
-            "name": "Altersgruppe",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "18 - 25",
-                "25 - 65",
-                ""
-              ]
-            },
-            "title": "Altersgruppe"
-          },
-          {
             "name": "Bildungsstand",
             "type": "string",
             "constraints": {
