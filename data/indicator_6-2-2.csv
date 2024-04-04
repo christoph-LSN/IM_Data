@@ -1,4 +1,56 @@
 ﻿Year,Gebietseinheit,Altersgruppe,Nationalität,GeoCode,Value
+2022,"Braunschweig, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03101,95
+2022,"Salzgitter, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03102,131
+2022,"Wolfsburg, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03103,85
+2022,"Gifhorn",im Alter bis unter 18 Jahren,Deutsche,K03151,47
+2022,"Goslar",im Alter bis unter 18 Jahren,Deutsche,K03153,107
+2022,"Helmstedt",im Alter bis unter 18 Jahren,Deutsche,K03154,69
+2022,"Northeim",im Alter bis unter 18 Jahren,Deutsche,K03155,77
+2022,"Peine",im Alter bis unter 18 Jahren,Deutsche,K03157,86
+2022,"Wolfenbüttel",im Alter bis unter 18 Jahren,Deutsche,K03158,69
+2022,"Göttingen",im Alter bis unter 18 Jahren,Deutsche,K03159,70
+2022,"Statistische Region Braunschweig",im Alter bis unter 18 Jahren,Deutsche,K031,80
+2022,"Region Hannover",im Alter bis unter 18 Jahren,Deutsche,K03241,112
+2022,"dav. Hannover, Lhst.",im Alter bis unter 18 Jahren,Deutsche,K03241001,156
+2022,"dav. Hannover, Umland",im Alter bis unter 18 Jahren,Deutsche,K03241999,81
+2022,"Diepholz",im Alter bis unter 18 Jahren,Deutsche,K03251,56
+2022,"Hameln-Pyrmont",im Alter bis unter 18 Jahren,Deutsche,K03252,102
+2022,"Hildesheim",im Alter bis unter 18 Jahren,Deutsche,K03254,86
+2022,"Holzminden",im Alter bis unter 18 Jahren,Deutsche,K03255,86
+2022,"Nienburg (Weser)",im Alter bis unter 18 Jahren,Deutsche,K03256,90
+2022,"Schaumburg",im Alter bis unter 18 Jahren,Deutsche,K03257,65
+2022,"Statistische Region Hannover",im Alter bis unter 18 Jahren,Deutsche,K032,97
+2022,"Celle",im Alter bis unter 18 Jahren,Deutsche,K03351,87
+2022,"Cuxhaven",im Alter bis unter 18 Jahren,Deutsche,K03352,72
+2022,"Harburg",im Alter bis unter 18 Jahren,Deutsche,K03353,55
+2022,"Lüchow-Dannenberg",im Alter bis unter 18 Jahren,Deutsche,K03354,82
+2022,"Lüneburg",im Alter bis unter 18 Jahren,Deutsche,K03355,68
+2022,"Osterholz",im Alter bis unter 18 Jahren,Deutsche,K03356,37
+2022,"Rotenburg (Wümme)",im Alter bis unter 18 Jahren,Deutsche,K03357,43
+2022,"Heidekreis",im Alter bis unter 18 Jahren,Deutsche,K03358,81
+2022,"Stade",im Alter bis unter 18 Jahren,Deutsche,K03359,79
+2022,"Uelzen",im Alter bis unter 18 Jahren,Deutsche,K03360,73
+2022,"Verden",im Alter bis unter 18 Jahren,Deutsche,K03361,50
+2022,"Statistische Region Lüneburg",im Alter bis unter 18 Jahren,Deutsche,K033,65
+2022,"Delmenhorst, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03401,142
+2022,"Emden, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03402,138
+2022,"Oldenburg (Oldb), Stadt",im Alter bis unter 18 Jahren,Deutsche,K03403,115
+2022,"Osnabrück, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03404,111
+2022,"Wilhelmshaven, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03405,194
+2022,"Ammerland",im Alter bis unter 18 Jahren,Deutsche,K03451,48
+2022,"Aurich",im Alter bis unter 18 Jahren,Deutsche,K03452,94
+2022,"Cloppenburg",im Alter bis unter 18 Jahren,Deutsche,K03453,49
+2022,"Emsland",im Alter bis unter 18 Jahren,Deutsche,K03454,32
+2022,"Friesland",im Alter bis unter 18 Jahren,Deutsche,K03455,58
+2022,"Grafschaft Bentheim",im Alter bis unter 18 Jahren,Deutsche,K03456,48
+2022,"Leer",im Alter bis unter 18 Jahren,Deutsche,K03457,54
+2022,"Oldenburg",im Alter bis unter 18 Jahren,Deutsche,K03458,44
+2022,"Osnabrück",im Alter bis unter 18 Jahren,Deutsche,K03459,35
+2022,"Vechta",im Alter bis unter 18 Jahren,Deutsche,K03460,36
+2022,"Wesermarsch",im Alter bis unter 18 Jahren,Deutsche,K03461,90
+2022,"Wittmund",im Alter bis unter 18 Jahren,Deutsche,K03462,73
+2022,"Statistische Region Weser-Ems",im Alter bis unter 18 Jahren,Deutsche,K034,64
+2022,"Niedersachsen",im Alter bis unter 18 Jahren,Deutsche,K030,76
 2021,"Braunschweig, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03101,98
 2021,"Salzgitter, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03102,131
 2021,"Wolfsburg, Stadt",im Alter bis unter 18 Jahren,Deutsche,K03103,86
@@ -272,7 +324,7 @@
 2017,"Statistische Region Braunschweig",im Alter bis unter 18 Jahren,Deutsche,K031,105
 2017,"Region Hannover",im Alter bis unter 18 Jahren,Deutsche,K03241,147
 2017,"dav. Hannover, Lhst.",im Alter bis unter 18 Jahren,Deutsche,K03241001,195
-2017,"dav. Hannover, Umland",im Alter bis unter 18 Jahren,Deutsche,K03241999,110.356446554209
+2017,"dav. Hannover, Umland",im Alter bis unter 18 Jahren,Deutsche,K03241999,110
 2017,"Diepholz",im Alter bis unter 18 Jahren,Deutsche,K03251,88
 2017,"Hameln-Pyrmont",im Alter bis unter 18 Jahren,Deutsche,K03252,143
 2017,"Hildesheim",im Alter bis unter 18 Jahren,Deutsche,K03254,119
@@ -324,7 +376,7 @@
 2016,"Statistische Region Braunschweig",im Alter bis unter 18 Jahren,Deutsche,K031,112
 2016,"Region Hannover",im Alter bis unter 18 Jahren,Deutsche,K03241,153
 2016,"dav. Hannover, Lhst.",im Alter bis unter 18 Jahren,Deutsche,K03241001,203
-2016,"dav. Hannover, Umland",im Alter bis unter 18 Jahren,Deutsche,K03241999,115.974366566558
+2016,"dav. Hannover, Umland",im Alter bis unter 18 Jahren,Deutsche,K03241999,116
 2016,"Diepholz",im Alter bis unter 18 Jahren,Deutsche,K03251,94
 2016,"Hameln-Pyrmont",im Alter bis unter 18 Jahren,Deutsche,K03252,149
 2016,"Hildesheim",im Alter bis unter 18 Jahren,Deutsche,K03254,125
@@ -372,11 +424,11 @@
 2015,"Northeim",im Alter bis unter 18 Jahren,Deutsche,K03155,114
 2015,"Peine",im Alter bis unter 18 Jahren,Deutsche,K03157,121
 2015,"Wolfenbüttel",im Alter bis unter 18 Jahren,Deutsche,K03158,101
-2015,"Göttingen",im Alter bis unter 18 Jahren,Deutsche,K03159,110.355806049133
+2015,"Göttingen",im Alter bis unter 18 Jahren,Deutsche,K03159,110
 2015,"Statistische Region Braunschweig",im Alter bis unter 18 Jahren,Deutsche,K031,115
 2015,"Region Hannover",im Alter bis unter 18 Jahren,Deutsche,K03241,155
 2015,"dav. Hannover, Lhst.",im Alter bis unter 18 Jahren,Deutsche,K03241001,203
-2015,"dav. Hannover, Umland",im Alter bis unter 18 Jahren,Deutsche,K03241999,119.16196548036
+2015,"dav. Hannover, Umland",im Alter bis unter 18 Jahren,Deutsche,K03241999,119
 2015,"Diepholz",im Alter bis unter 18 Jahren,Deutsche,K03251,95
 2015,"Hameln-Pyrmont",im Alter bis unter 18 Jahren,Deutsche,K03252,154
 2015,"Hildesheim",im Alter bis unter 18 Jahren,Deutsche,K03254,131
@@ -424,11 +476,11 @@
 2014,"Northeim",im Alter bis unter 18 Jahren,Deutsche,K03155,119
 2014,"Peine",im Alter bis unter 18 Jahren,Deutsche,K03157,128
 2014,"Wolfenbüttel",im Alter bis unter 18 Jahren,Deutsche,K03158,110
-2014,"Göttingen",im Alter bis unter 18 Jahren,Deutsche,K03159,118.091649341649
+2014,"Göttingen",im Alter bis unter 18 Jahren,Deutsche,K03159,118
 2014,"Statistische Region Braunschweig",im Alter bis unter 18 Jahren,Deutsche,K031,120
 2014,"Region Hannover",im Alter bis unter 18 Jahren,Deutsche,K03241,161
 2014,"dav. Hannover, Lhst.",im Alter bis unter 18 Jahren,Deutsche,K03241001,213
-2014,"dav. Hannover, Umland",im Alter bis unter 18 Jahren,Deutsche,K03241999,122.52021338668
+2014,"dav. Hannover, Umland",im Alter bis unter 18 Jahren,Deutsche,K03241999,123
 2014,"Diepholz",im Alter bis unter 18 Jahren,Deutsche,K03251,96
 2014,"Hameln-Pyrmont",im Alter bis unter 18 Jahren,Deutsche,K03252,155
 2014,"Hildesheim",im Alter bis unter 18 Jahren,Deutsche,K03254,130
@@ -467,6 +519,58 @@
 2014,"Wittmund",im Alter bis unter 18 Jahren,Deutsche,K03462,119
 2014,"Statistische Region Weser-Ems",im Alter bis unter 18 Jahren,Deutsche,K034,104
 2014,"Niedersachsen",im Alter bis unter 18 Jahren,Deutsche,K030,117
+2022,"Braunschweig, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03101,72
+2022,"Salzgitter, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03102,102
+2022,"Wolfsburg, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03103,56
+2022,"Gifhorn",im Alter von 18 bis unter 65 Jahren,Deutsche,K03151,42
+2022,"Goslar",im Alter von 18 bis unter 65 Jahren,Deutsche,K03153,92
+2022,"Helmstedt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03154,68
+2022,"Northeim",im Alter von 18 bis unter 65 Jahren,Deutsche,K03155,65
+2022,"Peine",im Alter von 18 bis unter 65 Jahren,Deutsche,K03157,57
+2022,"Wolfenbüttel",im Alter von 18 bis unter 65 Jahren,Deutsche,K03158,57
+2022,"Göttingen",im Alter von 18 bis unter 65 Jahren,Deutsche,K03159,63
+2022,"Statistische Region Braunschweig",im Alter von 18 bis unter 65 Jahren,Deutsche,K031,65
+2022,"Region Hannover",im Alter von 18 bis unter 65 Jahren,Deutsche,K03241,73
+2022,"dav. Hannover, Lhst.",im Alter von 18 bis unter 65 Jahren,Deutsche,K03241001,92
+2022,"dav. Hannover, Umland",im Alter von 18 bis unter 65 Jahren,Deutsche,K03241999,57
+2022,"Diepholz",im Alter von 18 bis unter 65 Jahren,Deutsche,K03251,43
+2022,"Hameln-Pyrmont",im Alter von 18 bis unter 65 Jahren,Deutsche,K03252,77
+2022,"Hildesheim",im Alter von 18 bis unter 65 Jahren,Deutsche,K03254,71
+2022,"Holzminden",im Alter von 18 bis unter 65 Jahren,Deutsche,K03255,76
+2022,"Nienburg (Weser)",im Alter von 18 bis unter 65 Jahren,Deutsche,K03256,65
+2022,"Schaumburg",im Alter von 18 bis unter 65 Jahren,Deutsche,K03257,55
+2022,"Statistische Region Hannover",im Alter von 18 bis unter 65 Jahren,Deutsche,K032,68
+2022,"Celle",im Alter von 18 bis unter 65 Jahren,Deutsche,K03351,75
+2022,"Cuxhaven",im Alter von 18 bis unter 65 Jahren,Deutsche,K03352,55
+2022,"Harburg",im Alter von 18 bis unter 65 Jahren,Deutsche,K03353,37
+2022,"Lüchow-Dannenberg",im Alter von 18 bis unter 65 Jahren,Deutsche,K03354,88
+2022,"Lüneburg",im Alter von 18 bis unter 65 Jahren,Deutsche,K03355,59
+2022,"Osterholz",im Alter von 18 bis unter 65 Jahren,Deutsche,K03356,34
+2022,"Rotenburg (Wümme)",im Alter von 18 bis unter 65 Jahren,Deutsche,K03357,41
+2022,"Heidekreis",im Alter von 18 bis unter 65 Jahren,Deutsche,K03358,59
+2022,"Stade",im Alter von 18 bis unter 65 Jahren,Deutsche,K03359,56
+2022,"Uelzen",im Alter von 18 bis unter 65 Jahren,Deutsche,K03360,66
+2022,"Verden",im Alter von 18 bis unter 65 Jahren,Deutsche,K03361,42
+2022,"Statistische Region Lüneburg",im Alter von 18 bis unter 65 Jahren,Deutsche,K033,53
+2022,"Delmenhorst, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03401,113
+2022,"Emden, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03402,105
+2022,"Oldenburg (Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03403,81
+2022,"Osnabrück, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03404,74
+2022,"Wilhelmshaven, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03405,145
+2022,"Ammerland",im Alter von 18 bis unter 65 Jahren,Deutsche,K03451,42
+2022,"Aurich",im Alter von 18 bis unter 65 Jahren,Deutsche,K03452,69
+2022,"Cloppenburg",im Alter von 18 bis unter 65 Jahren,Deutsche,K03453,43
+2022,"Emsland",im Alter von 18 bis unter 65 Jahren,Deutsche,K03454,40
+2022,"Friesland",im Alter von 18 bis unter 65 Jahren,Deutsche,K03455,50
+2022,"Grafschaft Bentheim",im Alter von 18 bis unter 65 Jahren,Deutsche,K03456,42
+2022,"Leer",im Alter von 18 bis unter 65 Jahren,Deutsche,K03457,56
+2022,"Oldenburg",im Alter von 18 bis unter 65 Jahren,Deutsche,K03458,37
+2022,"Osnabrück",im Alter von 18 bis unter 65 Jahren,Deutsche,K03459,33
+2022,"Vechta",im Alter von 18 bis unter 65 Jahren,Deutsche,K03460,31
+2022,"Wesermarsch",im Alter von 18 bis unter 65 Jahren,Deutsche,K03461,66
+2022,"Wittmund",im Alter von 18 bis unter 65 Jahren,Deutsche,K03462,62
+2022,"Statistische Region Weser-Ems",im Alter von 18 bis unter 65 Jahren,Deutsche,K034,55
+2022,"Niedersachsen",im Alter von 18 bis unter 65 Jahren,Deutsche,K030,60
 2021,"Braunschweig, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03101,74
 2021,"Salzgitter, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03102,104
 2021,"Wolfsburg, Stadt",im Alter von 18 bis unter 65 Jahren,Deutsche,K03103,58
@@ -740,7 +844,7 @@
 2017,"Statistische Region Braunschweig",im Alter von 18 bis unter 65 Jahren,Deutsche,K031,76
 2017,"Region Hannover",im Alter von 18 bis unter 65 Jahren,Deutsche,K03241,87
 2017,"dav. Hannover, Lhst.",im Alter von 18 bis unter 65 Jahren,Deutsche,K03241001,108
-2017,"dav. Hannover, Umland",im Alter von 18 bis unter 65 Jahren,Deutsche,K03241999,69.7463569885481
+2017,"dav. Hannover, Umland",im Alter von 18 bis unter 65 Jahren,Deutsche,K03241999,70
 2017,"Diepholz",im Alter von 18 bis unter 65 Jahren,Deutsche,K03251,55
 2017,"Hameln-Pyrmont",im Alter von 18 bis unter 65 Jahren,Deutsche,K03252,91
 2017,"Hildesheim",im Alter von 18 bis unter 65 Jahren,Deutsche,K03254,82
@@ -792,7 +896,7 @@
 2016,"Statistische Region Braunschweig",im Alter von 18 bis unter 65 Jahren,Deutsche,K031,79
 2016,"Region Hannover",im Alter von 18 bis unter 65 Jahren,Deutsche,K03241,91
 2016,"dav. Hannover, Lhst.",im Alter von 18 bis unter 65 Jahren,Deutsche,K03241001,114
-2016,"dav. Hannover, Umland",im Alter von 18 bis unter 65 Jahren,Deutsche,K03241999,72.470744614773
+2016,"dav. Hannover, Umland",im Alter von 18 bis unter 65 Jahren,Deutsche,K03241999,72
 2016,"Diepholz",im Alter von 18 bis unter 65 Jahren,Deutsche,K03251,57
 2016,"Hameln-Pyrmont",im Alter von 18 bis unter 65 Jahren,Deutsche,K03252,96
 2016,"Hildesheim",im Alter von 18 bis unter 65 Jahren,Deutsche,K03254,86
@@ -840,11 +944,11 @@
 2015,"Northeim",im Alter von 18 bis unter 65 Jahren,Deutsche,K03155,77
 2015,"Peine",im Alter von 18 bis unter 65 Jahren,Deutsche,K03157,73
 2015,"Wolfenbüttel",im Alter von 18 bis unter 65 Jahren,Deutsche,K03158,75
-2015,"Göttingen",im Alter von 18 bis unter 65 Jahren,Deutsche,K03159,80.0533191149027
+2015,"Göttingen",im Alter von 18 bis unter 65 Jahren,Deutsche,K03159,80
 2015,"Statistische Region Braunschweig",im Alter von 18 bis unter 65 Jahren,Deutsche,K031,78
 2015,"Region Hannover",im Alter von 18 bis unter 65 Jahren,Deutsche,K03241,92
 2015,"dav. Hannover, Lhst.",im Alter von 18 bis unter 65 Jahren,Deutsche,K03241001,115
-2015,"dav. Hannover, Umland",im Alter von 18 bis unter 65 Jahren,Deutsche,K03241999,74.5483846212877
+2015,"dav. Hannover, Umland",im Alter von 18 bis unter 65 Jahren,Deutsche,K03241999,75
 2015,"Diepholz",im Alter von 18 bis unter 65 Jahren,Deutsche,K03251,57
 2015,"Hameln-Pyrmont",im Alter von 18 bis unter 65 Jahren,Deutsche,K03252,96
 2015,"Hildesheim",im Alter von 18 bis unter 65 Jahren,Deutsche,K03254,88
@@ -892,11 +996,11 @@
 2014,"Northeim",im Alter von 18 bis unter 65 Jahren,Deutsche,K03155,81
 2014,"Peine",im Alter von 18 bis unter 65 Jahren,Deutsche,K03157,80
 2014,"Wolfenbüttel",im Alter von 18 bis unter 65 Jahren,Deutsche,K03158,81
-2014,"Göttingen",im Alter von 18 bis unter 65 Jahren,Deutsche,K03159,86.2490134916758
+2014,"Göttingen",im Alter von 18 bis unter 65 Jahren,Deutsche,K03159,86
 2014,"Statistische Region Braunschweig",im Alter von 18 bis unter 65 Jahren,Deutsche,K031,84
 2014,"Region Hannover",im Alter von 18 bis unter 65 Jahren,Deutsche,K03241,95
 2014,"dav. Hannover, Lhst.",im Alter von 18 bis unter 65 Jahren,Deutsche,K03241001,119
-2014,"dav. Hannover, Umland",im Alter von 18 bis unter 65 Jahren,Deutsche,K03241999,75.3586361290204
+2014,"dav. Hannover, Umland",im Alter von 18 bis unter 65 Jahren,Deutsche,K03241999,75
 2014,"Diepholz",im Alter von 18 bis unter 65 Jahren,Deutsche,K03251,59
 2014,"Hameln-Pyrmont",im Alter von 18 bis unter 65 Jahren,Deutsche,K03252,101
 2014,"Hildesheim",im Alter von 18 bis unter 65 Jahren,Deutsche,K03254,92
@@ -935,6 +1039,58 @@
 2014,"Wittmund",im Alter von 18 bis unter 65 Jahren,Deutsche,K03462,82
 2014,"Statistische Region Weser-Ems",im Alter von 18 bis unter 65 Jahren,Deutsche,K034,75
 2014,"Niedersachsen",im Alter von 18 bis unter 65 Jahren,Deutsche,K030,80
+2022,"Braunschweig, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03101,37
+2022,"Salzgitter, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03102,34
+2022,"Wolfsburg, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03103,22
+2022,"Gifhorn",im Alter von 65 Jahren und älter,Deutsche,K03151,18
+2022,"Goslar",im Alter von 65 Jahren und älter,Deutsche,K03153,35
+2022,"Helmstedt",im Alter von 65 Jahren und älter,Deutsche,K03154,23
+2022,"Northeim",im Alter von 65 Jahren und älter,Deutsche,K03155,24
+2022,"Peine",im Alter von 65 Jahren und älter,Deutsche,K03157,21
+2022,"Wolfenbüttel",im Alter von 65 Jahren und älter,Deutsche,K03158,26
+2022,"Göttingen",im Alter von 65 Jahren und älter,Deutsche,K03159,32
+2022,"Statistische Region Braunschweig",im Alter von 65 Jahren und älter,Deutsche,K031,28
+2022,"Region Hannover",im Alter von 65 Jahren und älter,Deutsche,K03241,41
+2022,"dav. Hannover, Lhst.",im Alter von 65 Jahren und älter,Deutsche,K03241001,63
+2022,"dav. Hannover, Umland",im Alter von 65 Jahren und älter,Deutsche,K03241999,27
+2022,"Diepholz",im Alter von 65 Jahren und älter,Deutsche,K03251,26
+2022,"Hameln-Pyrmont",im Alter von 65 Jahren und älter,Deutsche,K03252,33
+2022,"Hildesheim",im Alter von 65 Jahren und älter,Deutsche,K03254,26
+2022,"Holzminden",im Alter von 65 Jahren und älter,Deutsche,K03255,29
+2022,"Nienburg (Weser)",im Alter von 65 Jahren und älter,Deutsche,K03256,26
+2022,"Schaumburg",im Alter von 65 Jahren und älter,Deutsche,K03257,26
+2022,"Statistische Region Hannover",im Alter von 65 Jahren und älter,Deutsche,K032,34
+2022,"Celle",im Alter von 65 Jahren und älter,Deutsche,K03351,35
+2022,"Cuxhaven",im Alter von 65 Jahren und älter,Deutsche,K03352,23
+2022,"Harburg",im Alter von 65 Jahren und älter,Deutsche,K03353,22
+2022,"Lüchow-Dannenberg",im Alter von 65 Jahren und älter,Deutsche,K03354,30
+2022,"Lüneburg",im Alter von 65 Jahren und älter,Deutsche,K03355,32
+2022,"Osterholz",im Alter von 65 Jahren und älter,Deutsche,K03356,20
+2022,"Rotenburg (Wümme)",im Alter von 65 Jahren und älter,Deutsche,K03357,27
+2022,"Heidekreis",im Alter von 65 Jahren und älter,Deutsche,K03358,24
+2022,"Stade",im Alter von 65 Jahren und älter,Deutsche,K03359,24
+2022,"Uelzen",im Alter von 65 Jahren und älter,Deutsche,K03360,27
+2022,"Verden",im Alter von 65 Jahren und älter,Deutsche,K03361,21
+2022,"Statistische Region Lüneburg",im Alter von 65 Jahren und älter,Deutsche,K033,26
+2022,"Delmenhorst, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03401,50
+2022,"Emden, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03402,41
+2022,"Oldenburg (Oldb), Stadt",im Alter von 65 Jahren und älter,Deutsche,K03403,45
+2022,"Osnabrück, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03404,47
+2022,"Wilhelmshaven, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03405,49
+2022,"Ammerland",im Alter von 65 Jahren und älter,Deutsche,K03451,23
+2022,"Aurich",im Alter von 65 Jahren und älter,Deutsche,K03452,23
+2022,"Cloppenburg",im Alter von 65 Jahren und älter,Deutsche,K03453,31
+2022,"Emsland",im Alter von 65 Jahren und älter,Deutsche,K03454,24
+2022,"Friesland",im Alter von 65 Jahren und älter,Deutsche,K03455,20
+2022,"Grafschaft Bentheim",im Alter von 65 Jahren und älter,Deutsche,K03456,24
+2022,"Leer",im Alter von 65 Jahren und älter,Deutsche,K03457,26
+2022,"Oldenburg",im Alter von 65 Jahren und älter,Deutsche,K03458,25
+2022,"Osnabrück",im Alter von 65 Jahren und älter,Deutsche,K03459,24
+2022,"Vechta",im Alter von 65 Jahren und älter,Deutsche,K03460,27
+2022,"Wesermarsch",im Alter von 65 Jahren und älter,Deutsche,K03461,30
+2022,"Wittmund",im Alter von 65 Jahren und älter,Deutsche,K03462,24
+2022,"Statistische Region Weser-Ems",im Alter von 65 Jahren und älter,Deutsche,K034,29
+2022,"Niedersachsen",im Alter von 65 Jahren und älter,Deutsche,K030,30
 2021,"Braunschweig, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03101,37
 2021,"Salzgitter, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03102,33
 2021,"Wolfsburg, Stadt",im Alter von 65 Jahren und älter,Deutsche,K03103,20
@@ -1208,7 +1364,7 @@
 2017,"Statistische Region Braunschweig",im Alter von 65 Jahren und älter,Deutsche,K031,25
 2017,"Region Hannover",im Alter von 65 Jahren und älter,Deutsche,K03241,34
 2017,"dav. Hannover, Lhst.",im Alter von 65 Jahren und älter,Deutsche,K03241001,53
-2017,"dav. Hannover, Umland",im Alter von 65 Jahren und älter,Deutsche,K03241999,22.0983519873094
+2017,"dav. Hannover, Umland",im Alter von 65 Jahren und älter,Deutsche,K03241999,22
 2017,"Diepholz",im Alter von 65 Jahren und älter,Deutsche,K03251,24
 2017,"Hameln-Pyrmont",im Alter von 65 Jahren und älter,Deutsche,K03252,26
 2017,"Hildesheim",im Alter von 65 Jahren und älter,Deutsche,K03254,23
@@ -1260,7 +1416,7 @@
 2016,"Statistische Region Braunschweig",im Alter von 65 Jahren und älter,Deutsche,K031,24
 2016,"Region Hannover",im Alter von 65 Jahren und älter,Deutsche,K03241,33
 2016,"dav. Hannover, Lhst.",im Alter von 65 Jahren und älter,Deutsche,K03241001,51
-2016,"dav. Hannover, Umland",im Alter von 65 Jahren und älter,Deutsche,K03241999,21.5275205570783
+2016,"dav. Hannover, Umland",im Alter von 65 Jahren und älter,Deutsche,K03241999,22
 2016,"Diepholz",im Alter von 65 Jahren und älter,Deutsche,K03251,23
 2016,"Hameln-Pyrmont",im Alter von 65 Jahren und älter,Deutsche,K03252,26
 2016,"Hildesheim",im Alter von 65 Jahren und älter,Deutsche,K03254,22
@@ -1308,11 +1464,11 @@
 2015,"Northeim",im Alter von 65 Jahren und älter,Deutsche,K03155,20
 2015,"Peine",im Alter von 65 Jahren und älter,Deutsche,K03157,20
 2015,"Wolfenbüttel",im Alter von 65 Jahren und älter,Deutsche,K03158,27
-2015,"Göttingen",im Alter von 65 Jahren und älter,Deutsche,K03159,26.2060665109681
+2015,"Göttingen",im Alter von 65 Jahren und älter,Deutsche,K03159,26
 2015,"Statistische Region Braunschweig",im Alter von 65 Jahren und älter,Deutsche,K031,25
 2015,"Region Hannover",im Alter von 65 Jahren und älter,Deutsche,K03241,34
 2015,"dav. Hannover, Lhst.",im Alter von 65 Jahren und älter,Deutsche,K03241001,51
-2015,"dav. Hannover, Umland",im Alter von 65 Jahren und älter,Deutsche,K03241999,22.5720647349781
+2015,"dav. Hannover, Umland",im Alter von 65 Jahren und älter,Deutsche,K03241999,23
 2015,"Diepholz",im Alter von 65 Jahren und älter,Deutsche,K03251,23
 2015,"Hameln-Pyrmont",im Alter von 65 Jahren und älter,Deutsche,K03252,24
 2015,"Hildesheim",im Alter von 65 Jahren und älter,Deutsche,K03254,24
@@ -1360,11 +1516,11 @@
 2014,"Northeim",im Alter von 65 Jahren und älter,Deutsche,K03155,20
 2014,"Peine",im Alter von 65 Jahren und älter,Deutsche,K03157,21
 2014,"Wolfenbüttel",im Alter von 65 Jahren und älter,Deutsche,K03158,27
-2014,"Göttingen",im Alter von 65 Jahren und älter,Deutsche,K03159,27.7793812052644
+2014,"Göttingen",im Alter von 65 Jahren und älter,Deutsche,K03159,228
 2014,"Statistische Region Braunschweig",im Alter von 65 Jahren und älter,Deutsche,K031,26
 2014,"Region Hannover",im Alter von 65 Jahren und älter,Deutsche,K03241,33
 2014,"dav. Hannover, Lhst.",im Alter von 65 Jahren und älter,Deutsche,K03241001,49
-2014,"dav. Hannover, Umland",im Alter von 65 Jahren und älter,Deutsche,K03241999,21.9087860698014
+2014,"dav. Hannover, Umland",im Alter von 65 Jahren und älter,Deutsche,K03241999,22
 2014,"Diepholz",im Alter von 65 Jahren und älter,Deutsche,K03251,23
 2014,"Hameln-Pyrmont",im Alter von 65 Jahren und älter,Deutsche,K03252,24
 2014,"Hildesheim",im Alter von 65 Jahren und älter,Deutsche,K03254,24
@@ -1403,6 +1559,58 @@
 2014,"Wittmund",im Alter von 65 Jahren und älter,Deutsche,K03462,25
 2014,"Statistische Region Weser-Ems",im Alter von 65 Jahren und älter,Deutsche,K034,27
 2014,"Niedersachsen",im Alter von 65 Jahren und älter,Deutsche,K030,26
+2022,"Braunschweig, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03101,481
+2022,"Salzgitter, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03102,503
+2022,"Wolfsburg, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03103,508
+2022,"Gifhorn",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03151,564
+2022,"Goslar",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03153,594
+2022,"Helmstedt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03154,571
+2022,"Northeim",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03155,548
+2022,"Peine",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03157,625
+2022,"Wolfenbüttel",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03158,691
+2022,"Göttingen",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03159,558
+2022,"Statistische Region Braunschweig",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K031,551
+2022,"Region Hannover",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241,601
+2022,"dav. Hannover, Lhst.",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241001,594
+2022,"dav. Hannover, Umland",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241999,608
+2022,"Diepholz",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03251,524
+2022,"Hameln-Pyrmont",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03252,602
+2022,"Hildesheim",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03254,564
+2022,"Holzminden",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03255,560
+2022,"Nienburg (Weser)",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03256,645
+2022,"Schaumburg",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03257,568
+2022,"Statistische Region Hannover",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K032,589
+2022,"Celle",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03351,497
+2022,"Cuxhaven",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03352,651
+2022,"Harburg",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03353,458
+2022,"Lüchow-Dannenberg",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03354,418
+2022,"Lüneburg",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03355,644
+2022,"Osterholz",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03356,516
+2022,"Rotenburg (Wümme)",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03357,465
+2022,"Heidekreis",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03358,342
+2022,"Stade",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03359,569
+2022,"Uelzen",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03360,544
+2022,"Verden",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03361,446
+2022,"Statistische Region Lüneburg",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K033,510
+2022,"Delmenhorst, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03401,434
+2022,"Emden, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03402,550
+2022,"Oldenburg (Oldb), Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03403,517
+2022,"Osnabrück, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03404,450
+2022,"Wilhelmshaven, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03405,594
+2022,"Ammerland",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03451,551
+2022,"Aurich",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03452,477
+2022,"Cloppenburg",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03453,275
+2022,"Emsland",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03454,299
+2022,"Friesland",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03455,574
+2022,"Grafschaft Bentheim",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03456,321
+2022,"Leer",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03457,470
+2022,"Oldenburg",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03458,463
+2022,"Osnabrück",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03459,348
+2022,"Vechta",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03460,345
+2022,"Wesermarsch",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03461,580
+2022,"Wittmund",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03462,709
+2022,"Statistische Region Weser-Ems",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K034,417
+2022,"Niedersachsen",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K030,510
 2021,"Braunschweig, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03101,382
 2021,"Salzgitter, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03102,536
 2021,"Wolfsburg, Stadt",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03103,462
@@ -1676,7 +1884,7 @@
 2017,"Statistische Region Braunschweig",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K031,614
 2017,"Region Hannover",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241,714
 2017,"dav. Hannover, Lhst.",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241001,694
-2017,"dav. Hannover, Umland",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241999,717.389473684211
+2017,"dav. Hannover, Umland",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241999,717
 2017,"Diepholz",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03251,617
 2017,"Hameln-Pyrmont",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03252,721
 2017,"Hildesheim",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03254,629
@@ -1728,7 +1936,7 @@
 2016,"Statistische Region Braunschweig",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K031,602
 2016,"Region Hannover",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241,740
 2016,"dav. Hannover, Lhst.",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241001,733
-2016,"dav. Hannover, Umland",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241999,721.692650334076
+2016,"dav. Hannover, Umland",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241999,722
 2016,"Diepholz",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03251,620
 2016,"Hameln-Pyrmont",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03252,752
 2016,"Hildesheim",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03254,636
@@ -1776,11 +1984,11 @@
 2015,"Northeim",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03155,604
 2015,"Peine",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03157,586
 2015,"Wolfenbüttel",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03158,712
-2015,"Göttingen",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03159,495.611629182666
+2015,"Göttingen",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03159,495
 2015,"Statistische Region Braunschweig",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K031,518
 2015,"Region Hannover",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241,768
 2015,"dav. Hannover, Lhst.",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241001,800
-2015,"dav. Hannover, Umland",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241999,741.689674213142
+2015,"dav. Hannover, Umland",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241999,742
 2015,"Diepholz",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03251,590
 2015,"Hameln-Pyrmont",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03252,758
 2015,"Hildesheim",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03254,568
@@ -1828,11 +2036,11 @@
 2014,"Northeim",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03155,747
 2014,"Peine",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03157,522
 2014,"Wolfenbüttel",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03158,660
-2014,"Göttingen",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03159,466.154919748779
+2014,"Göttingen",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03159,466
 2014,"Statistische Region Braunschweig",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K031,494
 2014,"Region Hannover",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241,719
 2014,"dav. Hannover, Lhst.",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241001,747
-2014,"dav. Hannover, Umland",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241999,674.257276428895
+2014,"dav. Hannover, Umland",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03241999,674
 2014,"Diepholz",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03251,522
 2014,"Hameln-Pyrmont",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03252,621
 2014,"Hildesheim",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03254,572
@@ -1870,475 +2078,579 @@
 2014,"Wesermarsch",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03461,580
 2014,"Wittmund",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03462,636
 2014,"Statistische Region Weser-Ems",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K034,433
-2014,"Niedersachsen",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K030,542
-2021,"Braunschweig, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03101,195
-2021,"Salzgitter, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03102,309
-2021,"Wolfsburg, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03103,212
-2021,"Gifhorn",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03151,234
-2021,"Goslar",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03153,209
-2021,"Helmstedt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03154,259
-2021,"Northeim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03155,289
-2021,"Peine",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03157,304
-2021,"Wolfenbüttel",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03158,306
-2021,"Göttingen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03159,221
-2021,"Statistische Region Braunschweig",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K031,240
-2021,"Region Hannover",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241,308
-2021,"dav. Hannover, Lhst.",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241001,311
-2021,"dav. Hannover, Umland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241999,304
-2021,"Diepholz",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03251,224
-2021,"Hameln-Pyrmont",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03252,307
-2021,"Hildesheim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03254,303
-2021,"Holzminden",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03255,240
-2021,"Nienburg (Weser)",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03256,294
-2021,"Schaumburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03257,281
-2021,"Statistische Region Hannover",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K032,298
-2021,"Celle",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03351,273
-2021,"Cuxhaven",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03352,258
-2021,"Harburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03353,245
-2021,"Lüchow-Dannenberg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03354,206
-2021,"Lüneburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03355,293
-2021,"Osterholz",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03356,228
-2021,"Rotenburg (Wümme)",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03357,172
-2021,"Heidekreis",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03358,150
-2021,"Stade",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03359,270
-2021,"Uelzen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03360,231
-2021,"Verden",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03361,197
-2021,"Statistische Region Lüneburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K033,234
-2021,"Delmenhorst, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03401,327
-2021,"Emden, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03402,263
-2021,"Oldenburg (Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03403,298
-2021,"Osnabrück, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03404,259
-2021,"Wilhelmshaven, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03405,401
-2021,"Ammerland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03451,227
-2021,"Aurich",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03452,272
-2021,"Cloppenburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03453,100
-2021,"Emsland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03454,111
-2021,"Friesland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03455,342
-2021,"Grafschaft Bentheim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03456,113
-2021,"Leer",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03457,218
-2021,"Oldenburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03458,150
-2021,"Osnabrück",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03459,111
-2021,"Vechta",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03460,160
-2021,"Wesermarsch",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03461,271
-2021,"Wittmund",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03462,275
-2021,"Statistische Region Weser-Ems",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K034,189
-2021,"Niedersachsen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K030,241
-2020,"Braunschweig, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03101,204
-2020,"Salzgitter, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03102,338
-2020,"Wolfsburg, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03103,219
-2020,"Gifhorn",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03151,256
-2020,"Goslar",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03153,245
-2020,"Helmstedt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03154,268
-2020,"Northeim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03155,322
-2020,"Peine",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03157,315
-2020,"Wolfenbüttel",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03158,320
-2020,"Göttingen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03159,243
-2020,"Statistische Region Braunschweig",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K031,259
-2020,"Region Hannover",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241,329
-2020,"dav. Hannover, Lhst.",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241001,330
-2020,"dav. Hannover, Umland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241999,328
-2020,"Diepholz",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03251,250
-2020,"Hameln-Pyrmont",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03252,341
-2020,"Hildesheim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03254,332
-2020,"Holzminden",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03255,259
-2020,"Nienburg (Weser)",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03256,314
-2020,"Schaumburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03257,304
-2020,"Statistische Region Hannover",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K032,321
-2020,"Celle",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03351,303
-2020,"Cuxhaven",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03352,270
-2020,"Harburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03353,252
-2020,"Lüchow-Dannenberg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03354,238
-2020,"Lüneburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03355,313
-2020,"Osterholz",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03356,258
-2020,"Rotenburg (Wümme)",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03357,199
-2020,"Heidekreis",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03358,185
-2020,"Stade",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03359,284
-2020,"Uelzen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03360,257
-2020,"Verden",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03361,250
-2020,"Statistische Region Lüneburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K033,258
-2020,"Delmenhorst, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03401,369
-2020,"Emden, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03402,292
-2020,"Oldenburg (Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03403,334
-2020,"Osnabrück, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03404,291
-2020,"Wilhelmshaven, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03405,461
-2020,"Ammerland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03451,260
-2020,"Aurich",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03452,303
-2020,"Cloppenburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03453,116
-2020,"Emsland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03454,124
-2020,"Friesland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03455,362
-2020,"Grafschaft Bentheim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03456,133
-2020,"Leer",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03457,224
-2020,"Oldenburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03458,162
-2020,"Osnabrück",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03459,121
-2020,"Vechta",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03460,183
-2020,"Wesermarsch",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03461,282
-2020,"Wittmund",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03462,315
-2020,"Statistische Region Weser-Ems",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K034,211
-2020,"Niedersachsen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K030,263
-2020,"Braunschweig, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03101,204
-2020,"Salzgitter, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03102,338
-2020,"Wolfsburg, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03103,219
-2020,"Gifhorn",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03151,256
-2020,"Goslar",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03153,245
-2020,"Helmstedt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03154,268
-2020,"Northeim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03155,322
-2020,"Peine",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03157,315
-2020,"Wolfenbüttel",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03158,320
-2020,"Göttingen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03159,243
-2020,"Statistische Region Braunschweig",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K031,259
-2020,"Region Hannover",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241,329
-2020,"dav. Hannover, Lhst.",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241001,330
-2020,"dav. Hannover, Umland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241999,328
-2020,"Diepholz",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03251,250
-2020,"Hameln-Pyrmont",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03252,341
-2020,"Hildesheim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03254,332
-2020,"Holzminden",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03255,259
-2020,"Nienburg (Weser)",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03256,314
-2020,"Schaumburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03257,304
-2020,"Statistische Region Hannover",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K032,321
-2020,"Celle",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03351,303
-2020,"Cuxhaven",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03352,270
-2020,"Harburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03353,252
-2020,"Lüchow-Dannenberg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03354,238
-2020,"Lüneburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03355,313
-2020,"Osterholz",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03356,258
-2020,"Rotenburg (Wümme)",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03357,199
-2020,"Heidekreis",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03358,185
-2020,"Stade",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03359,284
-2020,"Uelzen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03360,257
-2020,"Verden",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03361,250
-2020,"Statistische Region Lüneburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K033,258
-2020,"Delmenhorst, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03401,369
-2020,"Emden, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03402,292
-2020,"Oldenburg (Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03403,334
-2020,"Osnabrück, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03404,291
-2020,"Wilhelmshaven, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03405,461
-2020,"Ammerland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03451,260
-2020,"Aurich",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03452,303
-2020,"Cloppenburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03453,116
-2020,"Emsland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03454,124
-2020,"Friesland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03455,362
-2020,"Grafschaft Bentheim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03456,133
-2020,"Leer",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03457,224
-2020,"Oldenburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03458,162
-2020,"Osnabrück",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03459,121
-2020,"Vechta",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03460,183
-2020,"Wesermarsch",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03461,282
-2020,"Wittmund",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03462,315
-2020,"Statistische Region Weser-Ems",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K034,211
-2020,"Niedersachsen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K030,263
-2019,"Braunschweig, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03101,193
-2019,"Salzgitter, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03102,352
-2019,"Wolfsburg, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03103,202
-2019,"Gifhorn",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03151,274
-2019,"Goslar",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03153,238
-2019,"Helmstedt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03154,294
-2019,"Northeim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03155,335
-2019,"Peine",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03157,323
-2019,"Wolfenbüttel",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03158,337
-2019,"Göttingen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03159,238
-2019,"Statistische Region Braunschweig",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K031,258
-2019,"Region Hannover",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241,316
-2019,"dav. Hannover, Lhst.",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241001,311
-2019,"dav. Hannover, Umland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241999,324
-2019,"Diepholz",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03251,265
-2019,"Hameln-Pyrmont",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03252,351
-2019,"Hildesheim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03254,330
-2019,"Holzminden",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03255,277
-2019,"Nienburg (Weser)",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03256,325
-2019,"Schaumburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03257,332
-2019,"Statistische Region Hannover",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K032,316
-2019,"Celle",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03351,315
-2019,"Cuxhaven",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03352,280
-2019,"Harburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03353,258
-2019,"Lüchow-Dannenberg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03354,249
-2019,"Lüneburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03355,334
-2019,"Osterholz",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03356,270
-2019,"Rotenburg (Wümme)",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03357,221
-2019,"Heidekreis",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03358,197
-2019,"Stade",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03359,283
-2019,"Uelzen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03360,266
-2019,"Verden",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03361,276
-2019,"Statistische Region Lüneburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K033,270
-2019,"Delmenhorst, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03401,395
-2019,"Emden, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03402,309
-2019,"Oldenburg (Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03403,338
-2019,"Osnabrück, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03404,298
-2019,"Wilhelmshaven, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03405,465
-2019,"Ammerland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03451,268
-2019,"Aurich",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03452,308
-2019,"Cloppenburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03453,123
-2019,"Emsland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03454,127
-2019,"Friesland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03455,381
-2019,"Grafschaft Bentheim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03456,134
-2019,"Leer",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03457,222
-2019,"Oldenburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03458,178
-2019,"Osnabrück",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03459,132
-2019,"Vechta",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03460,185
-2019,"Wesermarsch",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03461,277
-2019,"Wittmund",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03462,274
-2019,"Statistische Region Weser-Ems",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K034,218
-2019,"Niedersachsen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K030,266
-2018,"Braunschweig, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03101,204
-2018,"Salzgitter, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03102,359
-2018,"Wolfsburg, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03103,208
-2018,"Gifhorn",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03151,301
-2018,"Goslar",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03153,272
-2018,"Helmstedt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03154,324
-2018,"Northeim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03155,352
-2018,"Peine",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03157,348
-2018,"Wolfenbüttel",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03158,352
-2018,"Göttingen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03159,249
-2018,"Statistische Region Braunschweig",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K031,275
-2018,"Region Hannover",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241,333
-2018,"dav. Hannover, Lhst.",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241001,321
-2018,"dav. Hannover, Umland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241999,353
-2018,"Diepholz",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03251,287
-2018,"Hameln-Pyrmont",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03252,373
-2018,"Hildesheim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03254,356
-2018,"Holzminden",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03255,307
-2018,"Nienburg (Weser)",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03256,332
-2018,"Schaumburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03257,367
-2018,"Statistische Region Hannover",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K032,336
-2018,"Celle",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03351,344
-2018,"Cuxhaven",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03352,302
-2018,"Harburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03353,276
-2018,"Lüchow-Dannenberg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03354,258
-2018,"Lüneburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03355,353
-2018,"Osterholz",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03356,292
-2018,"Rotenburg (Wümme)",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03357,263
-2018,"Heidekreis",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03358,226
-2018,"Stade",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03359,310
-2018,"Uelzen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03360,286
-2018,"Verden",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03361,305
-2018,"Statistische Region Lüneburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K033,296
-2018,"Delmenhorst, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03401,406
-2018,"Emden, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03402,342
-2018,"Oldenburg (Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03403,366
-2018,"Osnabrück, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03404,331
-2018,"Wilhelmshaven, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03405,508
-2018,"Ammerland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03451,297
-2018,"Aurich",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03452,326
-2018,"Cloppenburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03453,147
-2018,"Emsland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03454,143
-2018,"Friesland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03455,423
-2018,"Grafschaft Bentheim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03456,144
-2018,"Leer",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03457,238
-2018,"Oldenburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03458,202
-2018,"Osnabrück",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03459,144
-2018,"Vechta",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03460,196
-2018,"Wesermarsch",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03461,303
-2018,"Wittmund",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03462,278
-2018,"Statistische Region Weser-Ems",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K034,238
-2018,"Niedersachsen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K030,286
-2017,"Braunschweig, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03101,209
-2017,"Salzgitter, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03102,384
-2017,"Wolfsburg, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03103,208
-2017,"Gifhorn",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03151,308
-2017,"Goslar",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03153,316
-2017,"Helmstedt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03154,352
-2017,"Northeim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03155,389
-2017,"Peine",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03157,372
-2017,"Wolfenbüttel",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03158,391
-2017,"Göttingen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03159,273
-2017,"Statistische Region Braunschweig",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K031,294
-2017,"Region Hannover",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241,351
-2017,"dav. Hannover, Lhst.",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241001,337
-2017,"dav. Hannover, Umland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241999,332.813922897906
-2017,"Diepholz",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03251,306
-2017,"Hameln-Pyrmont",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03252,400
-2017,"Hildesheim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03254,383
-2017,"Holzminden",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03255,355
-2017,"Nienburg (Weser)",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03256,352
-2017,"Schaumburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03257,398
-2017,"Statistische Region Hannover",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K032,356
-2017,"Celle",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03351,376
-2017,"Cuxhaven",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03352,347
-2017,"Harburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03353,294
-2017,"Lüchow-Dannenberg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03354,275
-2017,"Lüneburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03355,370
-2017,"Osterholz",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03356,320
-2017,"Rotenburg (Wümme)",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03357,298
-2017,"Heidekreis",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03358,246
-2017,"Stade",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03359,345
-2017,"Uelzen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03360,315
-2017,"Verden",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03361,350
-2017,"Statistische Region Lüneburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K033,326
-2017,"Delmenhorst, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03401,440
-2017,"Emden, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03402,339
-2017,"Oldenburg (Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03403,392
-2017,"Osnabrück, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03404,378
-2017,"Wilhelmshaven, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03405,548
-2017,"Ammerland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03451,329
-2017,"Aurich",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03452,356
-2017,"Cloppenburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03453,178
-2017,"Emsland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03454,171
-2017,"Friesland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03455,481
-2017,"Grafschaft Bentheim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03456,153
-2017,"Leer",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03457,254
-2017,"Oldenburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03458,234
-2017,"Osnabrück",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03459,161
-2017,"Vechta",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03460,226
-2017,"Wesermarsch",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03461,327
-2017,"Wittmund",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03462,303
-2017,"Statistische Region Weser-Ems",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K034,266
-2017,"Niedersachsen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K030,310
-2016,"Braunschweig, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03101,206
-2016,"Salzgitter, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03102,382
-2016,"Wolfsburg, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03103,216
-2016,"Gifhorn",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03151,316
-2016,"Goslar",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03153,338
-2016,"Helmstedt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03154,396
-2016,"Northeim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03155,435
-2016,"Peine",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03157,392
-2016,"Wolfenbüttel",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03158,425
-2016,"Göttingen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03159,287
-2016,"Statistische Region Braunschweig",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K031,307
-2016,"Region Hannover",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241,373
-2016,"dav. Hannover, Lhst.",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241001,357
-2016,"dav. Hannover, Umland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241999,352.300548754749
-2016,"Diepholz",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03251,326
-2016,"Hameln-Pyrmont",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03252,434
-2016,"Hildesheim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03254,412
-2016,"Holzminden",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03255,378
-2016,"Nienburg (Weser)",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03256,382
-2016,"Schaumburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03257,377
-2016,"Statistische Region Hannover",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K032,377
-2016,"Celle",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03351,385
-2016,"Cuxhaven",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03352,377
-2016,"Harburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03353,336
-2016,"Lüchow-Dannenberg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03354,260
-2016,"Lüneburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03355,407
-2016,"Osterholz",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03356,342
-2016,"Rotenburg (Wümme)",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03357,350
-2016,"Heidekreis",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03358,243
-2016,"Stade",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03359,361
-2016,"Uelzen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03360,350
-2016,"Verden",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03361,384
-2016,"Statistische Region Lüneburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K033,351
-2016,"Delmenhorst, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03401,453
-2016,"Emden, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03402,363
-2016,"Oldenburg (Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03403,405
-2016,"Osnabrück, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03404,384
-2016,"Wilhelmshaven, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03405,549
-2016,"Ammerland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03451,359
-2016,"Aurich",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03452,411
-2016,"Cloppenburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03453,221
-2016,"Emsland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03454,204
-2016,"Friesland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03455,575
-2016,"Grafschaft Bentheim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03456,179
-2016,"Leer",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03457,279
-2016,"Oldenburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03458,268
-2016,"Osnabrück",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03459,176
-2016,"Vechta",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03460,262
-2016,"Wesermarsch",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03461,370
-2016,"Wittmund",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03462,335
-2016,"Statistische Region Weser-Ems",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K034,293
-2016,"Niedersachsen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K030,333
-2015,"Braunschweig, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03101,161
-2015,"Salzgitter, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03102,323
-2015,"Wolfsburg, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03103,199
-2015,"Gifhorn",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03151,243
-2015,"Goslar",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03153,295
-2015,"Helmstedt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03154,358
-2015,"Northeim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03155,390
-2015,"Peine",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03157,368
-2015,"Wolfenbüttel",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03158,400
-2015,"Göttingen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03159,230.231497897776
-2015,"Statistische Region Braunschweig",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K031,260
-2015,"Region Hannover",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241,371
-2015,"dav. Hannover, Lhst.",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241001,366
-2015,"dav. Hannover, Umland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241999,346.144876160269
-2015,"Diepholz",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03251,281
-2015,"Hameln-Pyrmont",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03252,407
-2015,"Hildesheim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03254,378
-2015,"Holzminden",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03255,372
-2015,"Nienburg (Weser)",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03256,353
-2015,"Schaumburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03257,346
-2015,"Statistische Region Hannover",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K032,366
-2015,"Celle",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03351,347
-2015,"Cuxhaven",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03352,379
-2015,"Harburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03353,351
-2015,"Lüchow-Dannenberg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03354,216
-2015,"Lüneburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03355,397
-2015,"Osterholz",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03356,304
-2015,"Rotenburg (Wümme)",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03357,328
-2015,"Heidekreis",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03358,251
-2015,"Stade",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03359,321
-2015,"Uelzen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03360,354
-2015,"Verden",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03361,379
-2015,"Statistische Region Lüneburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K033,337
-2015,"Delmenhorst, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03401,407
-2015,"Emden, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03402,323
-2015,"Oldenburg (Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03403,389
-2015,"Osnabrück, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03404,359
-2015,"Wilhelmshaven, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03405,513
-2015,"Ammerland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03451,363
-2015,"Aurich",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03452,409
-2015,"Cloppenburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03453,201
-2015,"Emsland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03454,183
-2015,"Friesland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03455,565
-2015,"Grafschaft Bentheim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03456,168
-2015,"Leer",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03457,261
-2015,"Oldenburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03458,238
-2015,"Osnabrück",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03459,129
-2015,"Vechta",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03460,223
-2015,"Wesermarsch",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03461,369
-2015,"Wittmund",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03462,333
-2015,"Statistische Region Weser-Ems",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K034,263
-2015,"Niedersachsen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K030,308
-2014,"Braunschweig, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03101,192
-2014,"Salzgitter, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03102,284
-2014,"Wolfsburg, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03103,161
-2014,"Gifhorn",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03151,240
-2014,"Goslar",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03153,249
-2014,"Helmstedt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03154,308
-2014,"Northeim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03155,371
-2014,"Peine",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03157,306
-2014,"Wolfenbüttel",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03158,355
-2014,"Göttingen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03159,207.529684332465
-2014,"Statistische Region Braunschweig",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K031,240
-2014,"Region Hannover",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241,350
-2014,"dav. Hannover, Lhst.",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241001,360
-2014,"dav. Hannover, Umland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241999,299.290350973705
-2014,"Diepholz",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03251,255
-2014,"Hameln-Pyrmont",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03252,341
-2014,"Hildesheim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03254,343
-2014,"Holzminden",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03255,259
-2014,"Nienburg (Weser)",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03256,299
-2014,"Schaumburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03257,312
-2014,"Statistische Region Hannover",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K032,338
-2014,"Celle",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03351,311
-2014,"Cuxhaven",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03352,279
-2014,"Harburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03353,278
-2014,"Lüchow-Dannenberg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03354,239
-2014,"Lüneburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03355,325
-2014,"Osterholz",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03356,280
-2014,"Rotenburg (Wümme)",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03357,205
-2014,"Heidekreis",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03358,304
-2014,"Stade",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03359,243
-2014,"Uelzen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03360,289
-2014,"Verden",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03361,289
-2014,"Statistische Region Lüneburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K033,277
-2014,"Delmenhorst, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03401,452
-2014,"Emden, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03402,254
-2014,"Oldenburg (Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03403,347
-2014,"Osnabrück, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03404,362
-2014,"Wilhelmshaven, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03405,482
-2014,"Ammerland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03451,264
-2014,"Aurich",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03452,291
-2014,"Cloppenburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03453,139
-2014,"Emsland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03454,116
-2014,"Friesland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03455,427
-2014,"Grafschaft Bentheim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03456,128
-2014,"Leer",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03457,180
-2014,"Oldenburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03458,183
-2014,"Osnabrück",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03459,143
-2014,"Vechta",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03460,181
-2014,"Wesermarsch",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03461,292
-2014,"Wittmund",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03462,260
-2014,"Statistische Region Weser-Ems",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K034,221
+2014,"Niedersachsen",im Alter bis unter 18 Jahren,Ausländerinnen und Ausländer,K03101,542
+2022,"Braunschweig, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03102,232
+2022,"Salzgitter, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03103,306
+2022,"Wolfsburg, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03151,238
+2022,"Gifhorn",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03153,286
+2022,"Goslar",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03154,246
+2022,"Helmstedt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03155,325
+2022,"Northeim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03157,349
+2022,"Peine",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03158,357
+2022,"Wolfenbüttel",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03159,379
+2022,"Göttingen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K031,260
+2022,"Statistische Region Braunschweig",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241,279
+2022,"Region Hannover",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241001,325
+2022,"dav. Hannover, Lhst.",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241999,321
+2022,"dav. Hannover, Umland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03251,331
+2022,"Diepholz",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03252,264
+2022,"Hameln-Pyrmont",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03254,363
+2022,"Hildesheim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03255,347
+2022,"Holzminden",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03256,317
+2022,"Nienburg (Weser)",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03257,355
+2022,"Schaumburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K032,323
+2022,"Statistische Region Hannover",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03351,326
+2022,"Celle",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03352,298
+2022,"Cuxhaven",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03353,335
+2022,"Harburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03354,296
+2022,"Lüchow-Dannenberg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03355,278
+2022,"Lüneburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03356,329
+2022,"Osterholz",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03357,320
+2022,"Rotenburg (Wümme)",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03358,249
+2022,"Heidekreis",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03359,182
+2022,"Stade",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03360,310
+2022,"Uelzen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03361,319
+2022,"Verden",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K033,231
+2022,"Statistische Region Lüneburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03401,284
+2022,"Delmenhorst, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03402,329
+2022,"Emden, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03403,287
+2022,"Oldenburg (Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03404,306
+2022,"Osnabrück, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03405,274
+2022,"Wilhelmshaven, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03451,408
+2022,"Ammerland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03452,290
+2022,"Aurich",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03453,317
+2022,"Cloppenburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03454,134
+2022,"Emsland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03455,149
+2022,"Friesland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03456,391
+2022,"Grafschaft Bentheim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03457,155
+2022,"Leer",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03458,258
+2022,"Oldenburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03459,210
+2022,"Osnabrück",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03460,159
+2022,"Vechta",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03461,174
+2022,"Wesermarsch",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03462,321
+2022,"Wittmund",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K034,400
+2022,"Statistische Region Weser-Ems",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K030,225
+2022,"Niedersachsen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03101,277
+2021,"Braunschweig, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03102,195
+2021,"Salzgitter, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03103,309
+2021,"Wolfsburg, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03151,212
+2021,"Gifhorn",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03153,234
+2021,"Goslar",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03154,209
+2021,"Helmstedt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03155,259
+2021,"Northeim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03157,289
+2021,"Peine",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03158,304
+2021,"Wolfenbüttel",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03159,306
+2021,"Göttingen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K031,221
+2021,"Statistische Region Braunschweig",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241,240
+2021,"Region Hannover",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241001,308
+2021,"dav. Hannover, Lhst.",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241999,311
+2021,"dav. Hannover, Umland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03251,304
+2021,"Diepholz",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03252,224
+2021,"Hameln-Pyrmont",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03254,307
+2021,"Hildesheim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03255,303
+2021,"Holzminden",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03256,240
+2021,"Nienburg (Weser)",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03257,294
+2021,"Schaumburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K032,281
+2021,"Statistische Region Hannover",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03351,298
+2021,"Celle",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03352,273
+2021,"Cuxhaven",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03353,258
+2021,"Harburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03354,245
+2021,"Lüchow-Dannenberg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03355,206
+2021,"Lüneburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03356,293
+2021,"Osterholz",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03357,228
+2021,"Rotenburg (Wümme)",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03358,172
+2021,"Heidekreis",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03359,150
+2021,"Stade",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03360,270
+2021,"Uelzen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03361,231
+2021,"Verden",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K033,197
+2021,"Statistische Region Lüneburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03401,234
+2021,"Delmenhorst, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03402,327
+2021,"Emden, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03403,263
+2021,"Oldenburg (Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03404,298
+2021,"Osnabrück, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03405,259
+2021,"Wilhelmshaven, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03451,401
+2021,"Ammerland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03452,227
+2021,"Aurich",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03453,272
+2021,"Cloppenburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03454,100
+2021,"Emsland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03455,111
+2021,"Friesland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03456,342
+2021,"Grafschaft Bentheim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03457,113
+2021,"Leer",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03458,218
+2021,"Oldenburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03459,150
+2021,"Osnabrück",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03460,111
+2021,"Vechta",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03461,160
+2021,"Wesermarsch",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03462,271
+2021,"Wittmund",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K034,275
+2021,"Statistische Region Weser-Ems",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K030,189
+2021,"Niedersachsen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03101,241
+2020,"Braunschweig, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03102,204
+2020,"Salzgitter, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03103,338
+2020,"Wolfsburg, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03151,219
+2020,"Gifhorn",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03153,256
+2020,"Goslar",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03154,245
+2020,"Helmstedt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03155,268
+2020,"Northeim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03157,322
+2020,"Peine",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03158,315
+2020,"Wolfenbüttel",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03159,320
+2020,"Göttingen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K031,243
+2020,"Statistische Region Braunschweig",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241,259
+2020,"Region Hannover",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241001,329
+2020,"dav. Hannover, Lhst.",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241999,330
+2020,"dav. Hannover, Umland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03251,328
+2020,"Diepholz",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03252,250
+2020,"Hameln-Pyrmont",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03254,341
+2020,"Hildesheim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03255,332
+2020,"Holzminden",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03256,259
+2020,"Nienburg (Weser)",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03257,314
+2020,"Schaumburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K032,304
+2020,"Statistische Region Hannover",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03351,321
+2020,"Celle",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03352,303
+2020,"Cuxhaven",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03353,270
+2020,"Harburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03354,252
+2020,"Lüchow-Dannenberg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03355,238
+2020,"Lüneburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03356,313
+2020,"Osterholz",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03357,258
+2020,"Rotenburg (Wümme)",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03358,199
+2020,"Heidekreis",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03359,185
+2020,"Stade",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03360,284
+2020,"Uelzen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03361,257
+2020,"Verden",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K033,250
+2020,"Statistische Region Lüneburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03401,258
+2020,"Delmenhorst, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03402,369
+2020,"Emden, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03403,292
+2020,"Oldenburg (Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03404,334
+2020,"Osnabrück, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03405,291
+2020,"Wilhelmshaven, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03451,461
+2020,"Ammerland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03452,260
+2020,"Aurich",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03453,303
+2020,"Cloppenburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03454,116
+2020,"Emsland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03455,124
+2020,"Friesland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03456,362
+2020,"Grafschaft Bentheim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03457,133
+2020,"Leer",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03458,224
+2020,"Oldenburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03459,162
+2020,"Osnabrück",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03460,121
+2020,"Vechta",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03461,183
+2020,"Wesermarsch",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03462,282
+2020,"Wittmund",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K034,315
+2020,"Statistische Region Weser-Ems",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K030,211
+2020,"Niedersachsen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03101,263
+2020,"Braunschweig, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03102,204
+2020,"Salzgitter, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03103,338
+2020,"Wolfsburg, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03151,219
+2020,"Gifhorn",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03153,256
+2020,"Goslar",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03154,245
+2020,"Helmstedt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03155,268
+2020,"Northeim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03157,322
+2020,"Peine",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03158,315
+2020,"Wolfenbüttel",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03159,320
+2020,"Göttingen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K031,243
+2020,"Statistische Region Braunschweig",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241,259
+2020,"Region Hannover",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241001,329
+2020,"dav. Hannover, Lhst.",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241999,330
+2020,"dav. Hannover, Umland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03251,328
+2020,"Diepholz",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03252,250
+2020,"Hameln-Pyrmont",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03254,341
+2020,"Hildesheim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03255,332
+2020,"Holzminden",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03256,259
+2020,"Nienburg (Weser)",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03257,314
+2020,"Schaumburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K032,304
+2020,"Statistische Region Hannover",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03351,321
+2020,"Celle",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03352,303
+2020,"Cuxhaven",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03353,270
+2020,"Harburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03354,252
+2020,"Lüchow-Dannenberg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03355,238
+2020,"Lüneburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03356,313
+2020,"Osterholz",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03357,258
+2020,"Rotenburg (Wümme)",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03358,199
+2020,"Heidekreis",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03359,185
+2020,"Stade",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03360,284
+2020,"Uelzen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03361,257
+2020,"Verden",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K033,250
+2020,"Statistische Region Lüneburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03401,258
+2020,"Delmenhorst, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03402,369
+2020,"Emden, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03403,292
+2020,"Oldenburg (Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03404,334
+2020,"Osnabrück, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03405,291
+2020,"Wilhelmshaven, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03451,461
+2020,"Ammerland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03452,260
+2020,"Aurich",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03453,303
+2020,"Cloppenburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03454,116
+2020,"Emsland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03455,124
+2020,"Friesland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03456,362
+2020,"Grafschaft Bentheim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03457,133
+2020,"Leer",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03458,224
+2020,"Oldenburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03459,162
+2020,"Osnabrück",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03460,121
+2020,"Vechta",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03461,183
+2020,"Wesermarsch",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03462,282
+2020,"Wittmund",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K034,315
+2020,"Statistische Region Weser-Ems",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K030,211
+2020,"Niedersachsen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03101,263
+2019,"Braunschweig, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03102,193
+2019,"Salzgitter, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03103,352
+2019,"Wolfsburg, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03151,202
+2019,"Gifhorn",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03153,274
+2019,"Goslar",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03154,238
+2019,"Helmstedt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03155,294
+2019,"Northeim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03157,335
+2019,"Peine",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03158,323
+2019,"Wolfenbüttel",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03159,337
+2019,"Göttingen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K031,238
+2019,"Statistische Region Braunschweig",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241,258
+2019,"Region Hannover",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241001,316
+2019,"dav. Hannover, Lhst.",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241999,311
+2019,"dav. Hannover, Umland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03251,324
+2019,"Diepholz",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03252,265
+2019,"Hameln-Pyrmont",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03254,351
+2019,"Hildesheim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03255,330
+2019,"Holzminden",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03256,277
+2019,"Nienburg (Weser)",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03257,325
+2019,"Schaumburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K032,332
+2019,"Statistische Region Hannover",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03351,316
+2019,"Celle",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03352,315
+2019,"Cuxhaven",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03353,280
+2019,"Harburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03354,258
+2019,"Lüchow-Dannenberg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03355,249
+2019,"Lüneburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03356,334
+2019,"Osterholz",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03357,270
+2019,"Rotenburg (Wümme)",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03358,221
+2019,"Heidekreis",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03359,197
+2019,"Stade",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03360,283
+2019,"Uelzen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03361,266
+2019,"Verden",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K033,276
+2019,"Statistische Region Lüneburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03401,270
+2019,"Delmenhorst, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03402,395
+2019,"Emden, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03403,309
+2019,"Oldenburg (Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03404,338
+2019,"Osnabrück, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03405,298
+2019,"Wilhelmshaven, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03451,465
+2019,"Ammerland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03452,268
+2019,"Aurich",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03453,308
+2019,"Cloppenburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03454,123
+2019,"Emsland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03455,127
+2019,"Friesland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03456,381
+2019,"Grafschaft Bentheim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03457,134
+2019,"Leer",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03458,222
+2019,"Oldenburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03459,178
+2019,"Osnabrück",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03460,132
+2019,"Vechta",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03461,185
+2019,"Wesermarsch",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03462,277
+2019,"Wittmund",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K034,274
+2019,"Statistische Region Weser-Ems",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K030,218
+2019,"Niedersachsen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03101,266
+2018,"Braunschweig, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03102,204
+2018,"Salzgitter, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03103,359
+2018,"Wolfsburg, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03151,208
+2018,"Gifhorn",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03153,301
+2018,"Goslar",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03154,272
+2018,"Helmstedt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03155,324
+2018,"Northeim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03157,352
+2018,"Peine",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03158,348
+2018,"Wolfenbüttel",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03159,352
+2018,"Göttingen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K031,249
+2018,"Statistische Region Braunschweig",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241,275
+2018,"Region Hannover",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241001,333
+2018,"dav. Hannover, Lhst.",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241999,321
+2018,"dav. Hannover, Umland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03251,353
+2018,"Diepholz",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03252,287
+2018,"Hameln-Pyrmont",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03254,373
+2018,"Hildesheim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03255,356
+2018,"Holzminden",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03256,307
+2018,"Nienburg (Weser)",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03257,332
+2018,"Schaumburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K032,367
+2018,"Statistische Region Hannover",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03351,336
+2018,"Celle",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03352,344
+2018,"Cuxhaven",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03353,302
+2018,"Harburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03354,276
+2018,"Lüchow-Dannenberg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03355,258
+2018,"Lüneburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03356,353
+2018,"Osterholz",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03357,292
+2018,"Rotenburg (Wümme)",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03358,263
+2018,"Heidekreis",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03359,226
+2018,"Stade",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03360,310
+2018,"Uelzen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03361,286
+2018,"Verden",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K033,305
+2018,"Statistische Region Lüneburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03401,296
+2018,"Delmenhorst, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03402,406
+2018,"Emden, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03403,342
+2018,"Oldenburg (Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03404,366
+2018,"Osnabrück, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03405,331
+2018,"Wilhelmshaven, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03451,508
+2018,"Ammerland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03452,297
+2018,"Aurich",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03453,326
+2018,"Cloppenburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03454,147
+2018,"Emsland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03455,143
+2018,"Friesland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03456,423
+2018,"Grafschaft Bentheim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03457,144
+2018,"Leer",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03458,238
+2018,"Oldenburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03459,202
+2018,"Osnabrück",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03460,144
+2018,"Vechta",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03461,196
+2018,"Wesermarsch",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03462,303
+2018,"Wittmund",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K034,278
+2018,"Statistische Region Weser-Ems",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K030,238
+2018,"Niedersachsen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03101,286
+2017,"Braunschweig, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03102,209
+2017,"Salzgitter, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03103,384
+2017,"Wolfsburg, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03151,208
+2017,"Gifhorn",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03153,308
+2017,"Goslar",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03154,316
+2017,"Helmstedt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03155,352
+2017,"Northeim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03157,389
+2017,"Peine",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03158,372
+2017,"Wolfenbüttel",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03159,391
+2017,"Göttingen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K031,273
+2017,"Statistische Region Braunschweig",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241,294
+2017,"Region Hannover",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241001,351
+2017,"dav. Hannover, Lhst.",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241999,337
+2017,"dav. Hannover, Umland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03251,333
+2017,"Diepholz",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03252,306
+2017,"Hameln-Pyrmont",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03254,400
+2017,"Hildesheim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03255,383
+2017,"Holzminden",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03256,355
+2017,"Nienburg (Weser)",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03257,352
+2017,"Schaumburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K032,398
+2017,"Statistische Region Hannover",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03351,356
+2017,"Celle",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03352,376
+2017,"Cuxhaven",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03353,347
+2017,"Harburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03354,294
+2017,"Lüchow-Dannenberg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03355,275
+2017,"Lüneburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03356,370
+2017,"Osterholz",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03357,320
+2017,"Rotenburg (Wümme)",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03358,298
+2017,"Heidekreis",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03359,246
+2017,"Stade",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03360,345
+2017,"Uelzen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03361,315
+2017,"Verden",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K033,350
+2017,"Statistische Region Lüneburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03401,326
+2017,"Delmenhorst, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03402,440
+2017,"Emden, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03403,339
+2017,"Oldenburg (Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03404,392
+2017,"Osnabrück, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03405,378
+2017,"Wilhelmshaven, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03451,548
+2017,"Ammerland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03452,329
+2017,"Aurich",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03453,356
+2017,"Cloppenburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03454,178
+2017,"Emsland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03455,171
+2017,"Friesland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03456,481
+2017,"Grafschaft Bentheim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03457,153
+2017,"Leer",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03458,254
+2017,"Oldenburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03459,234
+2017,"Osnabrück",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03460,161
+2017,"Vechta",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03461,226
+2017,"Wesermarsch",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03462,327
+2017,"Wittmund",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K034,303
+2017,"Statistische Region Weser-Ems",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K030,266
+2017,"Niedersachsen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03101,310
+2016,"Braunschweig, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03102,206
+2016,"Salzgitter, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03103,382
+2016,"Wolfsburg, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03151,216
+2016,"Gifhorn",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03153,316
+2016,"Goslar",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03154,338
+2016,"Helmstedt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03155,396
+2016,"Northeim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03157,435
+2016,"Peine",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03158,392
+2016,"Wolfenbüttel",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03159,425
+2016,"Göttingen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K031,287
+2016,"Statistische Region Braunschweig",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241,307
+2016,"Region Hannover",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241001,373
+2016,"dav. Hannover, Lhst.",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241999,357
+2016,"dav. Hannover, Umland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03251,352
+2016,"Diepholz",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03252,326
+2016,"Hameln-Pyrmont",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03254,434
+2016,"Hildesheim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03255,412
+2016,"Holzminden",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03256,378
+2016,"Nienburg (Weser)",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03257,382
+2016,"Schaumburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K032,377
+2016,"Statistische Region Hannover",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03351,377
+2016,"Celle",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03352,385
+2016,"Cuxhaven",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03353,377
+2016,"Harburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03354,336
+2016,"Lüchow-Dannenberg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03355,260
+2016,"Lüneburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03356,407
+2016,"Osterholz",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03357,342
+2016,"Rotenburg (Wümme)",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03358,350
+2016,"Heidekreis",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03359,243
+2016,"Stade",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03360,361
+2016,"Uelzen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03361,350
+2016,"Verden",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K033,384
+2016,"Statistische Region Lüneburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03401,351
+2016,"Delmenhorst, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03402,453
+2016,"Emden, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03403,363
+2016,"Oldenburg (Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03404,405
+2016,"Osnabrück, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03405,384
+2016,"Wilhelmshaven, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03451,549
+2016,"Ammerland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03452,359
+2016,"Aurich",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03453,411
+2016,"Cloppenburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03454,221
+2016,"Emsland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03455,204
+2016,"Friesland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03456,575
+2016,"Grafschaft Bentheim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03457,179
+2016,"Leer",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03458,279
+2016,"Oldenburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03459,268
+2016,"Osnabrück",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03460,176
+2016,"Vechta",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03461,262
+2016,"Wesermarsch",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03462,370
+2016,"Wittmund",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K034,335
+2016,"Statistische Region Weser-Ems",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K030,293
+2016,"Niedersachsen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03101,333
+2015,"Braunschweig, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03102,161
+2015,"Salzgitter, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03103,323
+2015,"Wolfsburg, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03151,199
+2015,"Gifhorn",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03153,243
+2015,"Goslar",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03154,295
+2015,"Helmstedt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03155,358
+2015,"Northeim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03157,390
+2015,"Peine",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03158,368
+2015,"Wolfenbüttel",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03159,400
+2015,"Göttingen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K031,230
+2015,"Statistische Region Braunschweig",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241,260
+2015,"Region Hannover",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241001,371
+2015,"dav. Hannover, Lhst.",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241999,366
+2015,"dav. Hannover, Umland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03251,346
+2015,"Diepholz",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03252,281
+2015,"Hameln-Pyrmont",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03254,407
+2015,"Hildesheim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03255,378
+2015,"Holzminden",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03256,372
+2015,"Nienburg (Weser)",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03257,353
+2015,"Schaumburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K032,346
+2015,"Statistische Region Hannover",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03351,366
+2015,"Celle",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03352,347
+2015,"Cuxhaven",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03353,379
+2015,"Harburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03354,351
+2015,"Lüchow-Dannenberg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03355,216
+2015,"Lüneburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03356,397
+2015,"Osterholz",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03357,304
+2015,"Rotenburg (Wümme)",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03358,328
+2015,"Heidekreis",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03359,251
+2015,"Stade",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03360,321
+2015,"Uelzen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03361,354
+2015,"Verden",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K033,379
+2015,"Statistische Region Lüneburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03401,337
+2015,"Delmenhorst, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03402,407
+2015,"Emden, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03403,323
+2015,"Oldenburg (Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03404,389
+2015,"Osnabrück, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03405,359
+2015,"Wilhelmshaven, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03451,513
+2015,"Ammerland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03452,363
+2015,"Aurich",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03453,409
+2015,"Cloppenburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03454,201
+2015,"Emsland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03455,183
+2015,"Friesland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03456,565
+2015,"Grafschaft Bentheim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03457,168
+2015,"Leer",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03458,261
+2015,"Oldenburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03459,238
+2015,"Osnabrück",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03460,129
+2015,"Vechta",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03461,223
+2015,"Wesermarsch",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03462,369
+2015,"Wittmund",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K034,333
+2015,"Statistische Region Weser-Ems",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K030,263
+2015,"Niedersachsen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03101,308
+2014,"Braunschweig, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03102,192
+2014,"Salzgitter, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03103,284
+2014,"Wolfsburg, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03151,161
+2014,"Gifhorn",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03153,240
+2014,"Goslar",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03154,249
+2014,"Helmstedt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03155,308
+2014,"Northeim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03157,371
+2014,"Peine",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03158,306
+2014,"Wolfenbüttel",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03159,355
+2014,"Göttingen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K031,208
+2014,"Statistische Region Braunschweig",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241,240
+2014,"Region Hannover",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241001,350
+2014,"dav. Hannover, Lhst.",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03241999,360
+2014,"dav. Hannover, Umland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03251,299
+2014,"Diepholz",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03252,255
+2014,"Hameln-Pyrmont",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03254,341
+2014,"Hildesheim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03255,343
+2014,"Holzminden",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03256,259
+2014,"Nienburg (Weser)",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03257,299
+2014,"Schaumburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K032,312
+2014,"Statistische Region Hannover",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03351,338
+2014,"Celle",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03352,311
+2014,"Cuxhaven",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03353,279
+2014,"Harburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03354,278
+2014,"Lüchow-Dannenberg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03355,239
+2014,"Lüneburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03356,325
+2014,"Osterholz",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03357,280
+2014,"Rotenburg (Wümme)",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03358,205
+2014,"Heidekreis",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03359,304
+2014,"Stade",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03360,243
+2014,"Uelzen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03361,289
+2014,"Verden",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K033,289
+2014,"Statistische Region Lüneburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03401,277
+2014,"Delmenhorst, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03402,452
+2014,"Emden, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03403,254
+2014,"Oldenburg (Oldb), Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03404,347
+2014,"Osnabrück, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03405,362
+2014,"Wilhelmshaven, Stadt",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03451,482
+2014,"Ammerland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03452,264
+2014,"Aurich",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03453,291
+2014,"Cloppenburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03454,139
+2014,"Emsland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03455,116
+2014,"Friesland",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03456,427
+2014,"Grafschaft Bentheim",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03457,128
+2014,"Leer",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03458,180
+2014,"Oldenburg",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03459,183
+2014,"Osnabrück",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03460,143
+2014,"Vechta",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03461,181
+2014,"Wesermarsch",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K03462,292
+2014,"Wittmund",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K034,260
+2014,"Statistische Region Weser-Ems",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K030,221
 2014,"Niedersachsen",im Alter von 18 bis unter 65 Jahren,Ausländerinnen und Ausländer,K030,273
+2022,"Braunschweig, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03101,272
+2022,"Salzgitter, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03102,230
+2022,"Wolfsburg, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03103,195
+2022,"Gifhorn",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03151,231
+2022,"Goslar",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03153,243
+2022,"Helmstedt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03154,267
+2022,"Northeim",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03155,314
+2022,"Peine",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03157,322
+2022,"Wolfenbüttel",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03158,281
+2022,"Göttingen",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03159,340
+2022,"Statistische Region Braunschweig",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K031,270
+2022,"Region Hannover",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241,371
+2022,"dav. Hannover, Lhst.",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241001,385
+2022,"dav. Hannover, Umland",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241999,346
+2022,"Diepholz",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03251,352
+2022,"Hameln-Pyrmont",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03252,314
+2022,"Hildesheim",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03254,286
+2022,"Holzminden",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03255,192
+2022,"Nienburg (Weser)",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03256,396
+2022,"Schaumburg",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03257,264
+2022,"Statistische Region Hannover",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K032,349
+2022,"Celle",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03351,327
+2022,"Cuxhaven",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03352,199
+2022,"Harburg",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03353,255
+2022,"Lüchow-Dannenberg",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03354,369
+2022,"Lüneburg",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03355,326
+2022,"Osterholz",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03356,333
+2022,"Rotenburg (Wümme)",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03357,253
+2022,"Heidekreis",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03358,373
+2022,"Stade",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03359,280
+2022,"Uelzen",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03360,410
+2022,"Verden",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03361,310
+2022,"Statistische Region Lüneburg",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K033,295
+2022,"Delmenhorst, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03401,432
+2022,"Emden, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03402,255
+2022,"Oldenburg (Oldb), Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03403,402
+2022,"Osnabrück, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03404,460
+2022,"Wilhelmshaven, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03405,457
+2022,"Ammerland",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03451,386
+2022,"Aurich",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03452,369
+2022,"Cloppenburg",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03453,375
+2022,"Emsland",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03454,144
+2022,"Friesland",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03455,358
+2022,"Grafschaft Bentheim",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03456,85
+2022,"Leer",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03457,199
+2022,"Oldenburg",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03458,354
+2022,"Osnabrück",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03459,265
+2022,"Vechta",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03460,396
+2022,"Wesermarsch",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03461,272
+2022,"Wittmund",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03462,318
+2022,"Statistische Region Weser-Ems",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K034,276
+2022,"Niedersachsen",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K030,305
 2021,"Braunschweig, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03101,208
 2021,"Salzgitter, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03102,191
 2021,"Wolfsburg, Stadt",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03103,126
@@ -2612,7 +2924,7 @@
 2017,"Statistische Region Braunschweig",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K031,175
 2017,"Region Hannover",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241,324
 2017,"dav. Hannover, Lhst.",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241001,350
-2017,"dav. Hannover, Umland",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241999,232.742616033755
+2017,"dav. Hannover, Umland",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241999,233
 2017,"Diepholz",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03251,230
 2017,"Hameln-Pyrmont",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03252,245
 2017,"Hildesheim",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03254,203
@@ -2664,7 +2976,7 @@
 2016,"Statistische Region Braunschweig",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K031,169
 2016,"Region Hannover",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241,325
 2016,"dav. Hannover, Lhst.",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241001,352
-2016,"dav. Hannover, Umland",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241999,230.079155672823
+2016,"dav. Hannover, Umland",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241999,230
 2016,"Diepholz",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03251,225
 2016,"Hameln-Pyrmont",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03252,242
 2016,"Hildesheim",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03254,196
@@ -2712,11 +3024,11 @@
 2015,"Northeim",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03155,195
 2015,"Peine",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03157,183
 2015,"Wolfenbüttel",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03158,176
-2015,"Göttingen",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03159,198.535745047373
+2015,"Göttingen",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03159,199
 2015,"Statistische Region Braunschweig",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K031,169
 2015,"Region Hannover",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241,324
 2015,"dav. Hannover, Lhst.",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241001,355
-2015,"dav. Hannover, Umland",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241999,226.600073991861
+2015,"dav. Hannover, Umland",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241999,227
 2015,"Diepholz",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03251,205
 2015,"Hameln-Pyrmont",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03252,233
 2015,"Hildesheim",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03254,201
@@ -2764,11 +3076,11 @@
 2014,"Northeim",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03155,178
 2014,"Peine",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03157,163
 2014,"Wolfenbüttel",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03158,173
-2014,"Göttingen",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03159,160.689333954355
+2014,"Göttingen",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03159,161
 2014,"Statistische Region Braunschweig",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K031,153
 2014,"Region Hannover",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241,322
 2014,"dav. Hannover, Lhst.",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241001,357
-2014,"dav. Hannover, Umland",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241999,215.184815184815
+2014,"dav. Hannover, Umland",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03241999,215
 2014,"Diepholz",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03251,206
 2014,"Hameln-Pyrmont",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03252,239
 2014,"Hildesheim",im Alter von 65 Jahren und älter,Ausländerinnen und Ausländer,K03254,187
