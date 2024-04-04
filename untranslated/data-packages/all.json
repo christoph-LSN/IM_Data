@@ -1584,7 +1584,7 @@
             "type": "integer"
           },
           {
-            "name": "Gebietseinheit",
+            "name": "Gebieteseinheit",
             "type": "string",
             "constraints": {
               "enum": [

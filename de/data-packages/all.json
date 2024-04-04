@@ -1685,7 +1685,7 @@
             "title": "Jahr"
           },
           {
-            "name": "Gebietseinheit",
+            "name": "Gebieteseinheit",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1744,7 +1744,7 @@
                 ""
               ]
             },
-            "title": "Gebietseinheit"
+            "title": "Gebieteseinheit"
           },
           {
             "name": "Altersgruppe",
