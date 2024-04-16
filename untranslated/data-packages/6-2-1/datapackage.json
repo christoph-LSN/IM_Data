@@ -77,17 +77,6 @@
             }
           },
           {
-            "name": "Kategorie",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Empfängerinnen und Empfänger",
-                "Quote je 1000 Einwohnerinnen und Einwohner der betreffenden Bevölkerungsgruppe",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Nationalität",
             "type": "string",
             "constraints": {
