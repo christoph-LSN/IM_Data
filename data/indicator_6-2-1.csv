@@ -1,4 +1,56 @@
 ﻿Year,Gebietseinheit,Nationalität,Units,GeoCode,Value
+2022,"Braunschweig, Stadt",Insgesamt,Anzahl,K03101,23812
+2022,"Salzgitter, Stadt",Insgesamt,Anzahl,K03102,15133
+2022,"Wolfsburg, Stadt",Insgesamt,Anzahl,K03103,12009
+2022,"Gifhorn",Insgesamt,Anzahl,K03151,11587
+2022,"Goslar",Insgesamt,Anzahl,K03153,13899
+2022,"Helmstedt",Insgesamt,Anzahl,K03154,7981
+2022,"Northeim",Insgesamt,Anzahl,K03155,11273
+2022,"Peine",Insgesamt,Anzahl,K03157,12579
+2022,"Wolfenbüttel",Insgesamt,Anzahl,K03158,9861
+2022,"Göttingen",Insgesamt,Anzahl,K03159,28195
+2022,"Statistische Region Braunschweig",Insgesamt,Anzahl,K031,146339
+2022,"Region Hannover",Insgesamt,Anzahl,K03241,144339
+2022,"dav. Hannover, Lhst.",Insgesamt,Anzahl,K03241001,83645
+2022,"dav. Hannover, Umland",Insgesamt,Anzahl,K03241999,60689
+2022,"Diepholz",Insgesamt,Anzahl,K03251,15761
+2022,"Hameln-Pyrmont",Insgesamt,Anzahl,K03252,17208
+2022,"Hildesheim",Insgesamt,Anzahl,K03254,26846
+2022,"Holzminden",Insgesamt,Anzahl,K03255,6669
+2022,"Nienburg (Weser)",Insgesamt,Anzahl,K03256,12170
+2022,"Schaumburg",Insgesamt,Anzahl,K03257,13258
+2022,"Statistische Region Hannover",Insgesamt,Anzahl,K032,236246
+2022,"Celle",Insgesamt,Anzahl,K03351,17021
+2022,"Cuxhaven",Insgesamt,Anzahl,K03352,15204
+2022,"Harburg",Insgesamt,Anzahl,K03353,16828
+2022,"Lüchow-Dannenberg",Insgesamt,Anzahl,K03354,4373
+2022,"Lüneburg",Insgesamt,Anzahl,K03355,15541
+2022,"Osterholz",Insgesamt,Anzahl,K03356,6572
+2022,"Rotenburg (Wümme)",Insgesamt,Anzahl,K03357,10056
+2022,"Heidekreis",Insgesamt,Anzahl,K03358,10883
+2022,"Stade",Insgesamt,Anzahl,K03359,18431
+2022,"Uelzen",Insgesamt,Anzahl,K03360,7790
+2022,"Verden",Insgesamt,Anzahl,K03361,8843
+2022,"Statistische Region Lüneburg",Insgesamt,Anzahl,K033,131547
+2022,"Delmenhorst, Stadt",Insgesamt,Anzahl,K03401,11767
+2022,"Emden, Stadt",Insgesamt,Anzahl,K03402,6523
+2022,"Oldenburg (Oldb), Stadt",Insgesamt,Anzahl,K03403,19775
+2022,"Osnabrück, Stadt",Insgesamt,Anzahl,K03404,19147
+2022,"Wilhelmshaven, Stadt",Insgesamt,Anzahl,K03405,12623
+2022,"Ammerland",Insgesamt,Anzahl,K03451,8216
+2022,"Aurich",Insgesamt,Anzahl,K03452,15712
+2022,"Cloppenburg",Insgesamt,Anzahl,K03453,10703
+2022,"Emsland",Insgesamt,Anzahl,K03454,18403
+2022,"Friesland",Insgesamt,Anzahl,K03455,6593
+2022,"Grafschaft Bentheim",Insgesamt,Anzahl,K03456,8750
+2022,"Leer",Insgesamt,Anzahl,K03457,12973
+2022,"Oldenburg",Insgesamt,Anzahl,K03458,7828
+2022,"Osnabrück",Insgesamt,Anzahl,K03459,18154
+2022,"Vechta",Insgesamt,Anzahl,K03460,8837
+2022,"Wesermarsch",Insgesamt,Anzahl,K03461,8259
+2022,"Wittmund",Insgesamt,Anzahl,K03462,4820
+2022,"Statistische Region Weser-Ems",Insgesamt,Anzahl,K034,199093
+2022,"Niedersachsen",Insgesamt,Anzahl,K030,713220
 2021,"Braunschweig, Stadt",Insgesamt,Anzahl,K03101,21562
 2021,"Salzgitter, Stadt",Insgesamt,Anzahl,K03102,14805
 2021,"Wolfsburg, Stadt",Insgesamt,Anzahl,K03103,10573
@@ -12,7 +64,7 @@
 2021,"Statistische Region Braunschweig",Insgesamt,Anzahl,K031,132354
 2021,"Region Hannover",Insgesamt,Anzahl,K03241,135829
 2021,"dav. Hannover, Lhst.",Insgesamt,Anzahl,K03241001,79721
-2021,"dav. Hannover, Umland",Insgesamt,Anzahl,K03241999,58525
+2021,"dav. Hannover, Umland",Insgesamt,Anzahl,K03241999,56113
 2021,"Diepholz",Insgesamt,Anzahl,K03251,13972
 2021,"Hameln-Pyrmont",Insgesamt,Anzahl,K03252,15199
 2021,"Hildesheim",Insgesamt,Anzahl,K03254,24325
@@ -64,7 +116,7 @@
 2020,"Statistische Region Braunschweig",Insgesamt,Anzahl,K031,137232
 2020,"Region Hannover",Insgesamt,Anzahl,K03241,140961
 2020,"dav. Hannover, Lhst.",Insgesamt,Anzahl,K03241001,82431
-2020,"dav. Hannover, Umland",Insgesamt,Anzahl,K03241999,58530
+2020,"dav. Hannover, Umland",Insgesamt,Anzahl,K03241999,58525
 2020,"Diepholz",Insgesamt,Anzahl,K03251,15019
 2020,"Hameln-Pyrmont",Insgesamt,Anzahl,K03252,15925
 2020,"Hildesheim",Insgesamt,Anzahl,K03254,25392
@@ -214,7 +266,7 @@
 2014,"Goslar",Insgesamt,Anzahl,K03153,15485
 2014,"Helmstedt",Insgesamt,Anzahl,K03154,8425
 2014,"Northeim",Insgesamt,Anzahl,K03155,11796
-2014,"Osterode",Insgesamt,Anzahl,K03159,7385
+2014,"Osterode",Insgesamt,Anzahl,,7385
 2014,"Peine",Insgesamt,Anzahl,K03157,11794
 2014,"Wolfenbüttel",Insgesamt,Anzahl,K03158,10536
 2014,"Statistische Region Braunschweig",Insgesamt,Anzahl,K031,144259
@@ -267,7 +319,7 @@
 2012,"Goslar",Insgesamt,Anzahl,K03153,15464
 2012,"Helmstedt",Insgesamt,Anzahl,K03154,8168
 2012,"Northeim",Insgesamt,Anzahl,K03155,11591
-2012,"Osterode",Insgesamt,Anzahl,K03159,7782
+2012,"Osterode",Insgesamt,Anzahl,,7782
 2012,"Peine",Insgesamt,Anzahl,K03157,11970
 2012,"Wolfenbüttel",Insgesamt,Anzahl,K03158,10285
 2012,"Statistische Region Braunschweig",Insgesamt,Anzahl,K031,144692
@@ -320,7 +372,7 @@
 2011,"Goslar",Insgesamt,Anzahl,K03153,15680
 2011,"Helmstedt",Insgesamt,Anzahl,K03154,8339
 2011,"Northeim",Insgesamt,Anzahl,K03155,11876
-2011,"Osterode",Insgesamt,Anzahl,K03159,8080
+2011,"Osterode",Insgesamt,Anzahl,,8080
 2011,"Peine",Insgesamt,Anzahl,K03157,12255
 2011,"Wolfenbüttel",Insgesamt,Anzahl,K03158,10475
 2011,"Statistische Region Braunschweig",Insgesamt,Anzahl,K031,148348
@@ -373,7 +425,7 @@
 2010,"Goslar",Insgesamt,Anzahl,K03153,16102
 2010,"Helmstedt",Insgesamt,Anzahl,K03154,8886
 2010,"Northeim",Insgesamt,Anzahl,K03155,12571
-2010,"Osterode",Insgesamt,Anzahl,K03159,8617
+2010,"Osterode",Insgesamt,Anzahl,,8617
 2010,"Peine",Insgesamt,Anzahl,K03157,12473
 2010,"Wolfenbüttel",Insgesamt,Anzahl,K03158,10799
 2010,"Statistische Region Braunschweig",Insgesamt,Anzahl,K031,157461
@@ -418,6 +470,58 @@
 2010,"Wittmund",Insgesamt,Anzahl,K03462,5102
 2010,"Statistische Region Weser-Ems",Insgesamt,Anzahl,K034,206044
 2010,"Niedersachsen",Insgesamt,Anzahl,K030,727081
+2022,"Braunschweig, Stadt",Deutsche,Anzahl,K03101,14768
+2022,"Salzgitter, Stadt",Deutsche,Anzahl,K03102,7236
+2022,"Wolfsburg, Stadt",Deutsche,Anzahl,K03103,5415
+2022,"Gifhorn",Deutsche,Anzahl,K03151,6194
+2022,"Goslar",Deutsche,Anzahl,K03153,9146
+2022,"Helmstedt",Deutsche,Anzahl,K03154,4765
+2022,"Northeim",Deutsche,Anzahl,K03155,6704
+2022,"Peine",Deutsche,Anzahl,K03157,6703
+2022,"Wolfenbüttel",Deutsche,Anzahl,K03158,5662
+2022,"Göttingen",Deutsche,Anzahl,K03159,16574
+2022,"Statistische Region Braunschweig",Deutsche,Anzahl,K031,83157
+2022,"Region Hannover",Deutsche,Anzahl,K03241,70855
+2022,"dav. Hannover, Lhst.",Deutsche,Anzahl,K03241001,41382
+2022,"dav. Hannover, Umland",Deutsche,Anzahl,K03241999,29473
+2022,"Diepholz",Deutsche,Anzahl,K03251,8140
+2022,"Hameln-Pyrmont",Deutsche,Anzahl,K03252,8980
+2022,"Hildesheim",Deutsche,Anzahl,K03254,15374
+2022,"Holzminden",Deutsche,Anzahl,K03255,4088
+2022,"Nienburg (Weser)",Deutsche,Anzahl,K03256,6565
+2022,"Schaumburg",Deutsche,Anzahl,K03257,7003
+2022,"Statistische Region Hannover",Deutsche,Anzahl,K032,121005
+2022,"Celle",Deutsche,Anzahl,K03351,11027
+2022,"Cuxhaven",Deutsche,Anzahl,K03352,9101
+2022,"Harburg",Deutsche,Anzahl,K03353,8714
+2022,"Lüchow-Dannenberg",Deutsche,Anzahl,K03354,3170
+2022,"Lüneburg",Deutsche,Anzahl,K03355,9401
+2022,"Osterholz",Deutsche,Anzahl,K03356,3336
+2022,"Rotenburg (Wümme)",Deutsche,Anzahl,K03357,5832
+2022,"Heidekreis",Deutsche,Anzahl,K03358,6885
+2022,"Stade",Deutsche,Anzahl,K03359,9847
+2022,"Uelzen",Deutsche,Anzahl,K03360,4884
+2022,"Verden",Deutsche,Anzahl,K03361,4872
+2022,"Statistische Region Lüneburg",Deutsche,Anzahl,K033,77049
+2022,"Delmenhorst, Stadt",Deutsche,Anzahl,K03401,6473
+2022,"Emden, Stadt",Deutsche,Anzahl,K03402,4164
+2022,"Oldenburg (Oldb), Stadt",Deutsche,Anzahl,K03403,11778
+2022,"Osnabrück, Stadt",Deutsche,Anzahl,K03404,10347
+2022,"Wilhelmshaven, Stadt",Deutsche,Anzahl,K03405,8266
+2022,"Ammerland",Deutsche,Anzahl,K03451,4487
+2022,"Aurich",Deutsche,Anzahl,K03452,10951
+2022,"Cloppenburg",Deutsche,Anzahl,K03453,6427
+2022,"Emsland",Deutsche,Anzahl,K03454,10236
+2022,"Friesland",Deutsche,Anzahl,K03455,4038
+2022,"Grafschaft Bentheim",Deutsche,Anzahl,K03456,4618
+2022,"Leer",Deutsche,Anzahl,K03457,7634
+2022,"Oldenburg",Deutsche,Anzahl,K03458,4241
+2022,"Osnabrück",Deutsche,Anzahl,K03459,10190
+2022,"Vechta",Deutsche,Anzahl,K03460,3908
+2022,"Wesermarsch",Deutsche,Anzahl,K03461,4848
+2022,"Wittmund",Deutsche,Anzahl,K03462,2927
+2022,"Statistische Region Weser-Ems",Deutsche,Anzahl,K034,115543
+2022,"Niedersachsen",Deutsche,Anzahl,K030,396749
 2021,"Braunschweig, Stadt",Deutsche,Anzahl,K03101,15237
 2021,"Salzgitter, Stadt",Deutsche,Anzahl,K03102,7423
 2021,"Wolfsburg, Stadt",Deutsche,Anzahl,K03103,5561
@@ -431,7 +535,7 @@
 2021,"Statistische Region Braunschweig",Deutsche,Anzahl,K031,86512
 2021,"Region Hannover",Deutsche,Anzahl,K03241,74811
 2021,"dav. Hannover, Lhst.",Deutsche,Anzahl,K03241001,43619
-2021,"dav. Hannover, Umland",Deutsche,Anzahl,K03241999,32614
+2021,"dav. Hannover, Umland",Deutsche,Anzahl,K03241999,31192
 2021,"Diepholz",Deutsche,Anzahl,K03251,8435
 2021,"Hameln-Pyrmont",Deutsche,Anzahl,K03252,9106
 2021,"Hildesheim",Deutsche,Anzahl,K03254,16029
@@ -483,7 +587,7 @@
 2020,"Statistische Region Braunschweig",Deutsche,Anzahl,K031,90412
 2020,"Region Hannover",Deutsche,Anzahl,K03241,78408
 2020,"dav. Hannover, Lhst.",Deutsche,Anzahl,K03241001,45789
-2020,"dav. Hannover, Umland",Deutsche,Anzahl,K03241999,32619
+2020,"dav. Hannover, Umland",Deutsche,Anzahl,K03241999,32614
 2020,"Diepholz",Deutsche,Anzahl,K03251,9053
 2020,"Hameln-Pyrmont",Deutsche,Anzahl,K03252,9573
 2020,"Hildesheim",Deutsche,Anzahl,K03254,16620
@@ -633,7 +737,7 @@
 2014,"Goslar",Deutsche,Anzahl,K03153,13199
 2014,"Helmstedt",Deutsche,Anzahl,K03154,7139
 2014,"Northeim",Deutsche,Anzahl,K03155,9499
-2014,"Osterode",Deutsche,Anzahl,K03159,6325
+2014,"Osterode",Deutsche,Anzahl,,6325
 2014,"Peine",Deutsche,Anzahl,K03157,9571
 2014,"Wolfenbüttel",Deutsche,Anzahl,K03158,8620
 2014,"Statistische Region Braunschweig",Deutsche,Anzahl,K031,116429
@@ -686,7 +790,7 @@
 2012,"Goslar",Deutsche,Anzahl,K03153,13598
 2012,"Helmstedt",Deutsche,Anzahl,K03154,7235
 2012,"Northeim",Deutsche,Anzahl,K03155,9666
-2012,"Osterode",Deutsche,Anzahl,K03159,6912
+2012,"Osterode",Deutsche,Anzahl,,6912
 2012,"Peine",Deutsche,Anzahl,K03157,10365
 2012,"Wolfenbüttel",Deutsche,Anzahl,K03158,8858
 2012,"Statistische Region Braunschweig",Deutsche,Anzahl,K031,121860
@@ -739,7 +843,7 @@
 2011,"Goslar",Deutsche,Anzahl,K03153,13841
 2011,"Helmstedt",Deutsche,Anzahl,K03154,7388
 2011,"Northeim",Deutsche,Anzahl,K03155,9965
-2011,"Osterode",Deutsche,Anzahl,K03159,7194
+2011,"Osterode",Deutsche,Anzahl,,7194
 2011,"Peine",Deutsche,Anzahl,K03157,10559
 2011,"Wolfenbüttel",Deutsche,Anzahl,K03158,9093
 2011,"Statistische Region Braunschweig",Deutsche,Anzahl,K031,125177
@@ -792,7 +896,7 @@
 2010,"Goslar",Deutsche,Anzahl,K03153,14207
 2010,"Helmstedt",Deutsche,Anzahl,K03154,7857
 2010,"Northeim",Deutsche,Anzahl,K03155,10539
-2010,"Osterode",Deutsche,Anzahl,K03159,7690
+2010,"Osterode",Deutsche,Anzahl,,7690
 2010,"Peine",Deutsche,Anzahl,K03157,10680
 2010,"Wolfenbüttel",Deutsche,Anzahl,K03158,9410
 2010,"Statistische Region Braunschweig",Deutsche,Anzahl,K031,132610
@@ -837,6 +941,58 @@
 2010,"Wittmund",Deutsche,Anzahl,K03462,4724
 2010,"Statistische Region Weser-Ems",Deutsche,Anzahl,K034,176020
 2010,"Niedersachsen",Deutsche,Anzahl,K030,598887
+2022,"Braunschweig, Stadt",Ausländerinnen und Ausländer,Anzahl,K03101,9044
+2022,"Salzgitter, Stadt",Ausländerinnen und Ausländer,Anzahl,K03102,7897
+2022,"Wolfsburg, Stadt",Ausländerinnen und Ausländer,Anzahl,K03103,6599
+2022,"Gifhorn",Ausländerinnen und Ausländer,Anzahl,K03151,5393
+2022,"Goslar",Ausländerinnen und Ausländer,Anzahl,K03153,4753
+2022,"Helmstedt",Ausländerinnen und Ausländer,Anzahl,K03154,3216
+2022,"Northeim",Ausländerinnen und Ausländer,Anzahl,K03155,4574
+2022,"Peine",Ausländerinnen und Ausländer,Anzahl,K03157,5881
+2022,"Wolfenbüttel",Ausländerinnen und Ausländer,Anzahl,K03158,4204
+2022,"Göttingen",Ausländerinnen und Ausländer,Anzahl,K03159,11626
+2022,"Statistische Region Braunschweig",Ausländerinnen und Ausländer,Anzahl,K031,63177
+2022,"Region Hannover",Ausländerinnen und Ausländer,Anzahl,K03241,73479
+2022,"dav. Hannover, Lhst.",Ausländerinnen und Ausländer,Anzahl,K03241001,42263
+2022,"dav. Hannover, Umland",Ausländerinnen und Ausländer,Anzahl,K03241999,31216
+2022,"Diepholz",Ausländerinnen und Ausländer,Anzahl,K03251,7621
+2022,"Hameln-Pyrmont",Ausländerinnen und Ausländer,Anzahl,K03252,8228
+2022,"Hildesheim",Ausländerinnen und Ausländer,Anzahl,K03254,11467
+2022,"Holzminden",Ausländerinnen und Ausländer,Anzahl,K03255,2576
+2022,"Nienburg (Weser)",Ausländerinnen und Ausländer,Anzahl,K03256,5610
+2022,"Schaumburg",Ausländerinnen und Ausländer,Anzahl,K03257,6255
+2022,"Statistische Region Hannover",Ausländerinnen und Ausländer,Anzahl,K032,115236
+2022,"Celle",Ausländerinnen und Ausländer,Anzahl,K03351,5994
+2022,"Cuxhaven",Ausländerinnen und Ausländer,Anzahl,K03352,6113
+2022,"Harburg",Ausländerinnen und Ausländer,Anzahl,K03353,8114
+2022,"Lüchow-Dannenberg",Ausländerinnen und Ausländer,Anzahl,K03354,1208
+2022,"Lüneburg",Ausländerinnen und Ausländer,Anzahl,K03355,6140
+2022,"Osterholz",Ausländerinnen und Ausländer,Anzahl,K03356,3246
+2022,"Rotenburg (Wümme)",Ausländerinnen und Ausländer,Anzahl,K03357,4224
+2022,"Heidekreis",Ausländerinnen und Ausländer,Anzahl,K03358,3998
+2022,"Stade",Ausländerinnen und Ausländer,Anzahl,K03359,8584
+2022,"Uelzen",Ausländerinnen und Ausländer,Anzahl,K03360,2906
+2022,"Verden",Ausländerinnen und Ausländer,Anzahl,K03361,3971
+2022,"Statistische Region Lüneburg",Ausländerinnen und Ausländer,Anzahl,K033,54498
+2022,"Delmenhorst, Stadt",Ausländerinnen und Ausländer,Anzahl,K03401,5294
+2022,"Emden, Stadt",Ausländerinnen und Ausländer,Anzahl,K03402,2364
+2022,"Oldenburg (Oldb), Stadt",Ausländerinnen und Ausländer,Anzahl,K03403,7997
+2022,"Osnabrück, Stadt",Ausländerinnen und Ausländer,Anzahl,K03404,8800
+2022,"Wilhelmshaven, Stadt",Ausländerinnen und Ausländer,Anzahl,K03405,4357
+2022,"Ammerland",Ausländerinnen und Ausländer,Anzahl,K03451,3729
+2022,"Aurich",Ausländerinnen und Ausländer,Anzahl,K03452,4761
+2022,"Cloppenburg",Ausländerinnen und Ausländer,Anzahl,K03453,4271
+2022,"Emsland",Ausländerinnen und Ausländer,Anzahl,K03454,8172
+2022,"Friesland",Ausländerinnen und Ausländer,Anzahl,K03455,2560
+2022,"Grafschaft Bentheim",Ausländerinnen und Ausländer,Anzahl,K03456,4132
+2022,"Leer",Ausländerinnen und Ausländer,Anzahl,K03457,5344
+2022,"Oldenburg",Ausländerinnen und Ausländer,Anzahl,K03458,3582
+2022,"Osnabrück",Ausländerinnen und Ausländer,Anzahl,K03459,7974
+2022,"Vechta",Ausländerinnen und Ausländer,Anzahl,K03460,4934
+2022,"Wesermarsch",Ausländerinnen und Ausländer,Anzahl,K03461,3406
+2022,"Wittmund",Ausländerinnen und Ausländer,Anzahl,K03462,1888
+2022,"Statistische Region Weser-Ems",Ausländerinnen und Ausländer,Anzahl,K034,83550
+2022,"Niedersachsen",Ausländerinnen und Ausländer,Anzahl,K030,316471
 2021,"Braunschweig, Stadt",Ausländerinnen und Ausländer,Anzahl,K03101,6325
 2021,"Salzgitter, Stadt",Ausländerinnen und Ausländer,Anzahl,K03102,7372
 2021,"Wolfsburg, Stadt",Ausländerinnen und Ausländer,Anzahl,K03103,5017
@@ -850,7 +1006,7 @@
 2021,"Statistische Region Braunschweig",Ausländerinnen und Ausländer,Anzahl,K031,45847
 2021,"Region Hannover",Ausländerinnen und Ausländer,Anzahl,K03241,61018
 2021,"dav. Hannover, Lhst.",Ausländerinnen und Ausländer,Anzahl,K03241001,36097
-2021,"dav. Hannover, Umland",Ausländerinnen und Ausländer,Anzahl,K03241999,25911
+2021,"dav. Hannover, Umland",Ausländerinnen und Ausländer,Anzahl,K03241999,24921
 2021,"Diepholz",Ausländerinnen und Ausländer,Anzahl,K03251,5537
 2021,"Hameln-Pyrmont",Ausländerinnen und Ausländer,Anzahl,K03252,6098
 2021,"Hildesheim",Ausländerinnen und Ausländer,Anzahl,K03254,8296
@@ -902,7 +1058,7 @@
 2020,"Statistische Region Braunschweig",Ausländerinnen und Ausländer,Anzahl,K031,46820
 2020,"Region Hannover",Ausländerinnen und Ausländer,Anzahl,K03241,62553
 2020,"dav. Hannover, Lhst.",Ausländerinnen und Ausländer,Anzahl,K03241001,36637
-2020,"dav. Hannover, Umland",Ausländerinnen und Ausländer,Anzahl,K03241999,25916
+2020,"dav. Hannover, Umland",Ausländerinnen und Ausländer,Anzahl,K03241999,25911
 2020,"Diepholz",Ausländerinnen und Ausländer,Anzahl,K03251,5966
 2020,"Hameln-Pyrmont",Ausländerinnen und Ausländer,Anzahl,K03252,6352
 2020,"Hildesheim",Ausländerinnen und Ausländer,Anzahl,K03254,8772
@@ -1052,7 +1208,7 @@
 2014,"Goslar",Ausländerinnen und Ausländer,Anzahl,K03153,2286
 2014,"Helmstedt",Ausländerinnen und Ausländer,Anzahl,K03154,1286
 2014,"Northeim",Ausländerinnen und Ausländer,Anzahl,K03155,2297
-2014,"Osterode",Ausländerinnen und Ausländer,Anzahl,K03159,1060
+2014,"Osterode",Ausländerinnen und Ausländer,Anzahl,,1060
 2014,"Peine",Ausländerinnen und Ausländer,Anzahl,K03157,2223
 2014,"Wolfenbüttel",Ausländerinnen und Ausländer,Anzahl,K03158,1916
 2014,"Statistische Region Braunschweig",Ausländerinnen und Ausländer,Anzahl,K031,27830
@@ -1105,7 +1261,7 @@
 2012,"Goslar",Ausländerinnen und Ausländer,Anzahl,K03153,1866
 2012,"Helmstedt",Ausländerinnen und Ausländer,Anzahl,K03154,933
 2012,"Northeim",Ausländerinnen und Ausländer,Anzahl,K03155,1924
-2012,"Osterode",Ausländerinnen und Ausländer,Anzahl,K03159,870
+2012,"Osterode",Ausländerinnen und Ausländer,Anzahl,,870
 2012,"Peine",Ausländerinnen und Ausländer,Anzahl,K03157,1605
 2012,"Wolfenbüttel",Ausländerinnen und Ausländer,Anzahl,K03158,1427
 2012,"Statistische Region Braunschweig",Ausländerinnen und Ausländer,Anzahl,K031,22831
@@ -1158,7 +1314,7 @@
 2011,"Goslar",Ausländerinnen und Ausländer,Anzahl,K03153,1839
 2011,"Helmstedt",Ausländerinnen und Ausländer,Anzahl,K03154,951
 2011,"Northeim",Ausländerinnen und Ausländer,Anzahl,K03155,1910
-2011,"Osterode",Ausländerinnen und Ausländer,Anzahl,K03159,886
+2011,"Osterode",Ausländerinnen und Ausländer,Anzahl,,886
 2011,"Peine",Ausländerinnen und Ausländer,Anzahl,K03157,1694
 2011,"Wolfenbüttel",Ausländerinnen und Ausländer,Anzahl,K03158,1382
 2011,"Statistische Region Braunschweig",Ausländerinnen und Ausländer,Anzahl,K031,23168
@@ -1211,7 +1367,7 @@
 2010,"Goslar",Ausländerinnen und Ausländer,Anzahl,K03153,1895
 2010,"Helmstedt",Ausländerinnen und Ausländer,Anzahl,K03154,1029
 2010,"Northeim",Ausländerinnen und Ausländer,Anzahl,K03155,2031
-2010,"Osterode",Ausländerinnen und Ausländer,Anzahl,K03159,927
+2010,"Osterode",Ausländerinnen und Ausländer,Anzahl,,927
 2010,"Peine",Ausländerinnen und Ausländer,Anzahl,K03157,1791
 2010,"Wolfenbüttel",Ausländerinnen und Ausländer,Anzahl,K03158,1389
 2010,"Statistische Region Braunschweig",Ausländerinnen und Ausländer,Anzahl,K031,24848
@@ -1256,6 +1412,58 @@
 2010,"Wittmund",Ausländerinnen und Ausländer,Anzahl,K03462,378
 2010,"Statistische Region Weser-Ems",Ausländerinnen und Ausländer,Anzahl,K034,30015
 2010,"Niedersachsen",Ausländerinnen und Ausländer,Anzahl,K030,128175
+2022,"Braunschweig, Stadt",Insgesamt,Quote,K03101,95
+2022,"Salzgitter, Stadt",Insgesamt,Quote,K03102,145
+2022,"Wolfsburg, Stadt",Insgesamt,Quote,K03103,95
+2022,"Gifhorn",Insgesamt,Quote,K03151,64
+2022,"Goslar",Insgesamt,Quote,K03153,103
+2022,"Helmstedt",Insgesamt,Quote,K03154,86
+2022,"Northeim",Insgesamt,Quote,K03155,85
+2022,"Peine",Insgesamt,Quote,K03157,91
+2022,"Wolfenbüttel",Insgesamt,Quote,K03158,82
+2022,"Göttingen",Insgesamt,Quote,K03159,86
+2022,"Statistische Region Braunschweig",Insgesamt,Quote,K031,91
+2022,"Region Hannover",Insgesamt,Quote,K03241,123
+2022,"dav. Hannover, Lhst.",Insgesamt,Quote,K03241001,153
+2022,"dav. Hannover, Umland",Insgesamt,Quote,K03241999,97
+2022,"Diepholz",Insgesamt,Quote,K03251,71
+2022,"Hameln-Pyrmont",Insgesamt,Quote,K03252,114
+2022,"Hildesheim",Insgesamt,Quote,K03254,96
+2022,"Holzminden",Insgesamt,Quote,K03255,94
+2022,"Nienburg (Weser)",Insgesamt,Quote,K03256,99
+2022,"Schaumburg",Insgesamt,Quote,K03257,83
+2022,"Statistische Region Hannover",Insgesamt,Quote,K032,108
+2022,"Celle",Insgesamt,Quote,K03351,94
+2022,"Cuxhaven",Insgesamt,Quote,K03352,75
+2022,"Harburg",Insgesamt,Quote,K03353,64
+2022,"Lüchow-Dannenberg",Insgesamt,Quote,K03354,89
+2022,"Lüneburg",Insgesamt,Quote,K03355,83
+2022,"Osterholz",Insgesamt,Quote,K03356,56
+2022,"Rotenburg (Wümme)",Insgesamt,Quote,K03357,60
+2022,"Heidekreis",Insgesamt,Quote,K03358,75
+2022,"Stade",Insgesamt,Quote,K03359,88
+2022,"Uelzen",Insgesamt,Quote,K03360,83
+2022,"Verden",Insgesamt,Quote,K03361,63
+2022,"Statistische Region Lüneburg",Insgesamt,Quote,K033,75
+2022,"Delmenhorst, Stadt",Insgesamt,Quote,K03401,150
+2022,"Emden, Stadt",Insgesamt,Quote,K03402,129
+2022,"Oldenburg (Oldb), Stadt",Insgesamt,Quote,K03403,114
+2022,"Osnabrück, Stadt",Insgesamt,Quote,K03404,114
+2022,"Wilhelmshaven, Stadt",Insgesamt,Quote,K03405,166
+2022,"Ammerland",Insgesamt,Quote,K03451,64
+2022,"Aurich",Insgesamt,Quote,K03452,82
+2022,"Cloppenburg",Insgesamt,Quote,K03453,60
+2022,"Emsland",Insgesamt,Quote,K03454,54
+2022,"Friesland",Insgesamt,Quote,K03455,66
+2022,"Grafschaft Bentheim",Insgesamt,Quote,K03456,62
+2022,"Leer",Insgesamt,Quote,K03457,74
+2022,"Oldenburg",Insgesamt,Quote,K03458,58
+2022,"Osnabrück",Insgesamt,Quote,K03459,50
+2022,"Vechta",Insgesamt,Quote,K03460,60
+2022,"Wesermarsch",Insgesamt,Quote,K03461,92
+2022,"Wittmund",Insgesamt,Quote,K03462,83
+2022,"Statistische Region Weser-Ems",Insgesamt,Quote,K034,77
+2022,"Niedersachsen",Insgesamt,Quote,K030,88
 2021,"Braunschweig, Stadt",Insgesamt,Quote,K03101,87
 2021,"Salzgitter, Stadt",Insgesamt,Quote,K03102,143
 2021,"Wolfsburg, Stadt",Insgesamt,Quote,K03103,85
@@ -1269,7 +1477,7 @@
 2021,"Statistische Region Braunschweig",Insgesamt,Quote,K031,83
 2021,"Region Hannover",Insgesamt,Quote,K03241,117
 2021,"dav. Hannover, Lhst.",Insgesamt,Quote,K03241001,149
-2021,"dav. Hannover, Umland",Insgesamt,Quote,K03241999,94
+2021,"dav. Hannover, Umland",Insgesamt,Quote,K03241999,90
 2021,"Diepholz",Insgesamt,Quote,K03251,64
 2021,"Hameln-Pyrmont",Insgesamt,Quote,K03252,102
 2021,"Hildesheim",Insgesamt,Quote,K03254,89
@@ -1321,7 +1529,7 @@
 2020,"Statistische Region Braunschweig",Insgesamt,Quote,K031,86
 2020,"Region Hannover",Insgesamt,Quote,K03241,122
 2020,"dav. Hannover, Lhst.",Insgesamt,Quote,K03241001,154
-2020,"dav. Hannover, Umland",Insgesamt,Quote,K03241999,-32
+2020,"dav. Hannover, Umland",Insgesamt,Quote,K03241999,94
 2020,"Diepholz",Insgesamt,Quote,K03251,69
 2020,"Hameln-Pyrmont",Insgesamt,Quote,K03252,107
 2020,"Hildesheim",Insgesamt,Quote,K03254,92
@@ -1471,7 +1679,7 @@
 2014,"Goslar",Insgesamt,Quote,K03153,113
 2014,"Helmstedt",Insgesamt,Quote,K03154,93
 2014,"Northeim",Insgesamt,Quote,K03155,88
-2014,"Osterode",Insgesamt,Quote,K03159,100
+2014,"Osterode",Insgesamt,Quote,,100
 2014,"Peine",Insgesamt,Quote,K03157,90
 2014,"Wolfenbüttel",Insgesamt,Quote,K03158,88
 2014,"Statistische Region Braunschweig",Insgesamt,Quote,K031,91
@@ -1524,7 +1732,7 @@
 2012,"Goslar",Insgesamt,Quote,K03153,110
 2012,"Helmstedt",Insgesamt,Quote,K03154,89
 2012,"Northeim",Insgesamt,Quote,K03155,85
-2012,"Osterode",Insgesamt,Quote,K03159,103
+2012,"Osterode",Insgesamt,Quote,,103
 2012,"Peine",Insgesamt,Quote,K03157,91
 2012,"Wolfenbüttel",Insgesamt,Quote,K03158,85
 2012,"Statistische Region Braunschweig",Insgesamt,Quote,K031,90
@@ -1577,7 +1785,7 @@
 2011,"Goslar",Insgesamt,Quote,K03153,110
 2011,"Helmstedt",Insgesamt,Quote,K03154,91
 2011,"Northeim",Insgesamt,Quote,K03155,86
-2011,"Osterode",Insgesamt,Quote,K03159,106
+2011,"Osterode",Insgesamt,Quote,,106
 2011,"Peine",Insgesamt,Quote,K03157,93
 2011,"Wolfenbüttel",Insgesamt,Quote,K03158,86
 2011,"Statistische Region Braunschweig",Insgesamt,Quote,K031,92
@@ -1630,7 +1838,7 @@
 2010,"Goslar",Insgesamt,Quote,K03153,113
 2010,"Helmstedt",Insgesamt,Quote,K03154,96
 2010,"Northeim",Insgesamt,Quote,K03155,90
-2010,"Osterode",Insgesamt,Quote,K03159,111
+2010,"Osterode",Insgesamt,Quote,,111
 2010,"Peine",Insgesamt,Quote,K03157,95
 2010,"Wolfenbüttel",Insgesamt,Quote,K03158,88
 2010,"Statistische Region Braunschweig",Insgesamt,Quote,K031,98
@@ -1675,6 +1883,58 @@
 2010,"Wittmund",Insgesamt,Quote,K03462,89
 2010,"Statistische Region Weser-Ems",Insgesamt,Quote,K034,83
 2010,"Niedersachsen",Insgesamt,Quote,K030,92
+2022,"Braunschweig, Stadt",Deutsche,Quote,K03101,68
+2022,"Salzgitter, Stadt",Deutsche,Quote,K03102,88
+2022,"Wolfsburg, Stadt",Deutsche,Quote,K03103,53
+2022,"Gifhorn",Deutsche,Quote,K03151,38
+2022,"Goslar",Deutsche,Quote,K03153,77
+2022,"Helmstedt",Deutsche,Quote,K03154,57
+2022,"Northeim",Deutsche,Quote,K03155,55
+2022,"Peine",Deutsche,Quote,K03157,54
+2022,"Wolfenbüttel",Deutsche,Quote,K03158,51
+2022,"Göttingen",Deutsche,Quote,K03159,57
+2022,"Statistische Region Braunschweig",Deutsche,Quote,K031,58
+2022,"Region Hannover",Deutsche,Quote,K03241,72
+2022,"dav. Hannover, Lhst.",Deutsche,Quote,K03241001,96
+2022,"dav. Hannover, Umland",Deutsche,Quote,K03241999,54
+2022,"Diepholz",Deutsche,Quote,K03251,41
+2022,"Hameln-Pyrmont",Deutsche,Quote,K03252,69
+2022,"Hildesheim",Deutsche,Quote,K03254,62
+2022,"Holzminden",Deutsche,Quote,K03255,64
+2022,"Nienburg (Weser)",Deutsche,Quote,K03256,59
+2022,"Schaumburg",Deutsche,Quote,K03257,49
+2022,"Statistische Region Hannover",Deutsche,Quote,K032,64
+2022,"Celle",Deutsche,Quote,K03351,67
+2022,"Cuxhaven",Deutsche,Quote,K03352,49
+2022,"Harburg",Deutsche,Quote,K03353,37
+2022,"Lüchow-Dannenberg",Deutsche,Quote,K03354,70
+2022,"Lüneburg",Deutsche,Quote,K03355,55
+2022,"Osterholz",Deutsche,Quote,K03356,31
+2022,"Rotenburg (Wümme)",Deutsche,Quote,K03357,38
+2022,"Heidekreis",Deutsche,Quote,K03358,54
+2022,"Stade",Deutsche,Quote,K03359,53
+2022,"Uelzen",Deutsche,Quote,K03360,56
+2022,"Verden",Deutsche,Quote,K03361,38
+2022,"Statistische Region Lüneburg",Deutsche,Quote,K033,48
+2022,"Delmenhorst, Stadt",Deutsche,Quote,K03401,101
+2022,"Emden, Stadt",Deutsche,Quote,K03402,95
+2022,"Oldenburg (Oldb), Stadt",Deutsche,Quote,K03403,78
+2022,"Osnabrück, Stadt",Deutsche,Quote,K03404,74
+2022,"Wilhelmshaven, Stadt",Deutsche,Quote,K03405,124
+2022,"Ammerland",Deutsche,Quote,K03451,38
+2022,"Aurich",Deutsche,Quote,K03452,61
+2022,"Cloppenburg",Deutsche,Quote,K03453,42
+2022,"Emsland",Deutsche,Quote,K03454,35
+2022,"Friesland",Deutsche,Quote,K03455,43
+2022,"Grafschaft Bentheim",Deutsche,Quote,K03456,39
+2022,"Leer",Deutsche,Quote,K03457,49
+2022,"Oldenburg",Deutsche,Quote,K03458,35
+2022,"Osnabrück",Deutsche,Quote,K03459,31
+2022,"Vechta",Deutsche,Quote,K03460,31
+2022,"Wesermarsch",Deutsche,Quote,K03461,60
+2022,"Wittmund",Deutsche,Quote,K03462,54
+2022,"Statistische Region Weser-Ems",Deutsche,Quote,K034,51
+2022,"Niedersachsen",Deutsche,Quote,K030,55
 2021,"Braunschweig, Stadt",Deutsche,Quote,K03101,69
 2021,"Salzgitter, Stadt",Deutsche,Quote,K03102,89
 2021,"Wolfsburg, Stadt",Deutsche,Quote,K03103,54
@@ -1688,7 +1948,7 @@
 2021,"Statistische Region Braunschweig",Deutsche,Quote,K031,60
 2021,"Region Hannover",Deutsche,Quote,K03241,76
 2021,"dav. Hannover, Lhst.",Deutsche,Quote,K03241001,100
-2021,"dav. Hannover, Umland",Deutsche,Quote,K03241999,59
+2021,"dav. Hannover, Umland",Deutsche,Quote,K03241999,56
 2021,"Diepholz",Deutsche,Quote,K03251,42
 2021,"Hameln-Pyrmont",Deutsche,Quote,K03252,69
 2021,"Hildesheim",Deutsche,Quote,K03254,64
@@ -1740,7 +2000,7 @@
 2020,"Statistische Region Braunschweig",Deutsche,Quote,K031,63
 2020,"Region Hannover",Deutsche,Quote,K03241,79
 2020,"dav. Hannover, Lhst.",Deutsche,Quote,K03241001,105
-2020,"dav. Hannover, Umland",Deutsche,Quote,K03241999,-26
+2020,"dav. Hannover, Umland",Deutsche,Quote,K03241999,59
 2020,"Diepholz",Deutsche,Quote,K03251,45
 2020,"Hameln-Pyrmont",Deutsche,Quote,K03252,72
 2020,"Hildesheim",Deutsche,Quote,K03254,66
@@ -1890,7 +2150,7 @@
 2014,"Goslar",Deutsche,Quote,K03153,102
 2014,"Helmstedt",Deutsche,Quote,K03154,82
 2014,"Northeim",Deutsche,Quote,K03155,74
-2014,"Osterode",Deutsche,Quote,K03159,89
+2014,"Osterode",Deutsche,Quote,,89
 2014,"Peine",Deutsche,Quote,K03157,77
 2014,"Wolfenbüttel",Deutsche,Quote,K03158,75
 2014,"Statistische Region Braunschweig",Deutsche,Quote,K031,79
@@ -1943,7 +2203,7 @@
 2012,"Goslar",Deutsche,Quote,K03153,102
 2012,"Helmstedt",Deutsche,Quote,K03154,84
 2012,"Northeim",Deutsche,Quote,K03155,76
-2012,"Osterode",Deutsche,Quote,K03159,97
+2012,"Osterode",Deutsche,Quote,,97
 2012,"Peine",Deutsche,Quote,K03157,85
 2012,"Wolfenbüttel",Deutsche,Quote,K03158,77
 2012,"Statistische Region Braunschweig",Deutsche,Quote,K031,82
@@ -1996,7 +2256,7 @@
 2011,"Goslar",Deutsche,Quote,K03153,103
 2011,"Helmstedt",Deutsche,Quote,K03154,85
 2011,"Northeim",Deutsche,Quote,K03155,78
-2011,"Osterode",Deutsche,Quote,K03159,99
+2011,"Osterode",Deutsche,Quote,,99
 2011,"Peine",Deutsche,Quote,K03157,86
 2011,"Wolfenbüttel",Deutsche,Quote,K03158,79
 2011,"Statistische Region Braunschweig",Deutsche,Quote,K031,84
@@ -2049,7 +2309,7 @@
 2010,"Goslar",Deutsche,Quote,K03153,105
 2010,"Helmstedt",Deutsche,Quote,K03154,90
 2010,"Northeim",Deutsche,Quote,K03155,82
-2010,"Osterode",Deutsche,Quote,K03159,105
+2010,"Osterode",Deutsche,Quote,,105
 2010,"Peine",Deutsche,Quote,K03157,87
 2010,"Wolfenbüttel",Deutsche,Quote,K03158,82
 2010,"Statistische Region Braunschweig",Deutsche,Quote,K031,89
@@ -2094,6 +2354,58 @@
 2010,"Wittmund",Deutsche,Quote,K03462,86
 2010,"Statistische Region Weser-Ems",Deutsche,Quote,K034,76
 2010,"Niedersachsen",Deutsche,Quote,K030,81
+2022,"Braunschweig, Stadt",Ausländerinnen und Ausländer,Quote,K03101,273
+2022,"Salzgitter, Stadt",Ausländerinnen und Ausländer,Quote,K03102,351
+2022,"Wolfsburg, Stadt",Ausländerinnen und Ausländer,Quote,K03103,286
+2022,"Gifhorn",Ausländerinnen und Ausländer,Quote,K03151,345
+2022,"Goslar",Ausländerinnen und Ausländer,Quote,K03153,309
+2022,"Helmstedt",Ausländerinnen und Ausländer,Quote,K03154,381
+2022,"Northeim",Ausländerinnen und Ausländer,Quote,K03155,398
+2022,"Peine",Ausländerinnen und Ausländer,Quote,K03157,420
+2022,"Wolfenbüttel",Ausländerinnen und Ausländer,Quote,K03158,445
+2022,"Göttingen",Ausländerinnen und Ausländer,Quote,K03159,324
+2022,"Statistische Region Braunschweig",Ausländerinnen und Ausländer,Quote,K031,334
+2022,"Region Hannover",Ausländerinnen und Ausländer,Quote,K03241,381
+2022,"dav. Hannover, Lhst.",Ausländerinnen und Ausländer,Quote,K03241001,373
+2022,"dav. Hannover, Umland",Ausländerinnen und Ausländer,Quote,K03241999,392
+2022,"Diepholz",Ausländerinnen und Ausländer,Quote,K03251,332
+2022,"Hameln-Pyrmont",Ausländerinnen und Ausländer,Quote,K03252,418
+2022,"Hildesheim",Ausländerinnen und Ausländer,Quote,K03254,390
+2022,"Holzminden",Ausländerinnen und Ausländer,Quote,K03255,364
+2022,"Nienburg (Weser)",Ausländerinnen und Ausländer,Quote,K03256,437
+2022,"Schaumburg",Ausländerinnen und Ausländer,Quote,K03257,373
+2022,"Statistische Region Hannover",Ausländerinnen und Ausländer,Quote,K032,382
+2022,"Celle",Ausländerinnen und Ausländer,Quote,K03351,348
+2022,"Cuxhaven",Ausländerinnen und Ausländer,Quote,K03352,398
+2022,"Harburg",Ausländerinnen und Ausländer,Quote,K03353,323
+2022,"Lüchow-Dannenberg",Ausländerinnen und Ausländer,Quote,K03354,323
+2022,"Lüneburg",Ausländerinnen und Ausländer,Quote,K03355,399
+2022,"Osterholz",Ausländerinnen und Ausländer,Quote,K03356,373
+2022,"Rotenburg (Wümme)",Ausländerinnen und Ausländer,Quote,K03357,298
+2022,"Heidekreis",Ausländerinnen und Ausländer,Quote,K03358,229
+2022,"Stade",Ausländerinnen und Ausländer,Quote,K03359,372
+2022,"Uelzen",Ausländerinnen und Ausländer,Quote,K03360,380
+2022,"Verden",Ausländerinnen und Ausländer,Quote,K03361,284
+2022,"Statistische Region Lüneburg",Ausländerinnen und Ausländer,Quote,K033,337
+2022,"Delmenhorst, Stadt",Ausländerinnen und Ausländer,Quote,K03401,363
+2022,"Emden, Stadt",Ausländerinnen und Ausländer,Quote,K03402,354
+2022,"Oldenburg (Oldb), Stadt",Ausländerinnen und Ausländer,Quote,K03403,361
+2022,"Osnabrück, Stadt",Ausländerinnen und Ausländer,Quote,K03404,323
+2022,"Wilhelmshaven, Stadt",Ausländerinnen und Ausländer,Quote,K03405,463
+2022,"Ammerland",Ausländerinnen und Ausländer,Quote,K03451,360
+2022,"Aurich",Ausländerinnen und Ausländer,Quote,K03452,358
+2022,"Cloppenburg",Ausländerinnen und Ausländer,Quote,K03453,173
+2022,"Emsland",Ausländerinnen und Ausländer,Quote,K03454,180
+2022,"Friesland",Ausländerinnen und Ausländer,Quote,K03455,443
+2022,"Grafschaft Bentheim",Ausländerinnen und Ausländer,Quote,K03456,176
+2022,"Leer",Ausländerinnen und Ausländer,Quote,K03457,303
+2022,"Oldenburg",Ausländerinnen und Ausländer,Quote,K03458,273
+2022,"Osnabrück",Ausländerinnen und Ausländer,Quote,K03459,205
+2022,"Vechta",Ausländerinnen und Ausländer,Quote,K03460,224
+2022,"Wesermarsch",Ausländerinnen und Ausländer,Quote,K03461,383
+2022,"Wittmund",Ausländerinnen und Ausländer,Quote,K03462,479
+2022,"Statistische Region Weser-Ems",Ausländerinnen und Ausländer,Quote,K034,272
+2022,"Niedersachsen",Ausländerinnen und Ausländer,Quote,K030,330
 2021,"Braunschweig, Stadt",Ausländerinnen und Ausländer,Quote,K03101,222
 2021,"Salzgitter, Stadt",Ausländerinnen und Ausländer,Quote,K03102,356
 2021,"Wolfsburg, Stadt",Ausländerinnen und Ausländer,Quote,K03103,247
@@ -2107,7 +2419,7 @@
 2021,"Statistische Region Braunschweig",Ausländerinnen und Ausländer,Quote,K031,284
 2021,"Region Hannover",Ausländerinnen und Ausländer,Quote,K03241,358
 2021,"dav. Hannover, Lhst.",Ausländerinnen und Ausländer,Quote,K03241001,357
-2021,"dav. Hannover, Umland",Ausländerinnen und Ausländer,Quote,K03241999,385
+2021,"dav. Hannover, Umland",Ausländerinnen und Ausländer,Quote,K03241999,359
 2021,"Diepholz",Ausländerinnen und Ausländer,Quote,K03251,285
 2021,"Hameln-Pyrmont",Ausländerinnen und Ausländer,Quote,K03252,358
 2021,"Hildesheim",Ausländerinnen und Ausländer,Quote,K03254,340
@@ -2159,7 +2471,7 @@
 2020,"Statistische Region Braunschweig",Ausländerinnen und Ausländer,Quote,K031,302
 2020,"Region Hannover",Ausländerinnen und Ausländer,Quote,K03241,380
 2020,"dav. Hannover, Lhst.",Ausländerinnen und Ausländer,Quote,K03241001,376
-2020,"dav. Hannover, Umland",Ausländerinnen und Ausländer,Quote,K03241999,4
+2020,"dav. Hannover, Umland",Ausländerinnen und Ausländer,Quote,K03241999,385
 2020,"Diepholz",Ausländerinnen und Ausländer,Quote,K03251,314
 2020,"Hameln-Pyrmont",Ausländerinnen und Ausländer,Quote,K03252,390
 2020,"Hildesheim",Ausländerinnen und Ausländer,Quote,K03254,370
@@ -2309,7 +2621,7 @@
 2014,"Goslar",Ausländerinnen und Ausländer,Quote,K03153,279
 2014,"Helmstedt",Ausländerinnen und Ausländer,Quote,K03154,322
 2014,"Northeim",Ausländerinnen und Ausländer,Quote,K03155,414
-2014,"Osterode",Ausländerinnen und Ausländer,Quote,K03159,352
+2014,"Osterode",Ausländerinnen und Ausländer,Quote,,352
 2014,"Peine",Ausländerinnen und Ausländer,Quote,K03157,328
 2014,"Wolfenbüttel",Ausländerinnen und Ausländer,Quote,K03158,387
 2014,"Statistische Region Braunschweig",Ausländerinnen und Ausländer,Quote,K031,268
@@ -2362,7 +2674,7 @@
 2012,"Goslar",Ausländerinnen und Ausländer,Quote,K03153,224
 2012,"Helmstedt",Ausländerinnen und Ausländer,Quote,K03154,174
 2012,"Northeim",Ausländerinnen und Ausländer,Quote,K03155,195
-2012,"Osterode",Ausländerinnen und Ausländer,Quote,K03159,223
+2012,"Osterode",Ausländerinnen und Ausländer,Quote,,223
 2012,"Peine",Ausländerinnen und Ausländer,Quote,K03157,192
 2012,"Wolfenbüttel",Ausländerinnen und Ausländer,Quote,K03158,210
 2012,"Statistische Region Braunschweig",Ausländerinnen und Ausländer,Quote,K031,189
@@ -2415,7 +2727,7 @@
 2011,"Goslar",Ausländerinnen und Ausländer,Quote,K03153,230
 2011,"Helmstedt",Ausländerinnen und Ausländer,Quote,K03154,183
 2011,"Northeim",Ausländerinnen und Ausländer,Quote,K03155,195
-2011,"Osterode",Ausländerinnen und Ausländer,Quote,K03159,228
+2011,"Osterode",Ausländerinnen und Ausländer,Quote,,228
 2011,"Peine",Ausländerinnen und Ausländer,Quote,K03157,206
 2011,"Wolfenbüttel",Ausländerinnen und Ausländer,Quote,K03158,208
 2011,"Statistische Region Braunschweig",Ausländerinnen und Ausländer,Quote,K031,197
@@ -2468,7 +2780,7 @@
 2010,"Goslar",Ausländerinnen und Ausländer,Quote,K03153,239
 2010,"Helmstedt",Ausländerinnen und Ausländer,Quote,K03154,198
 2010,"Northeim",Ausländerinnen und Ausländer,Quote,K03155,208
-2010,"Osterode",Ausländerinnen und Ausländer,Quote,K03159,238
+2010,"Osterode",Ausländerinnen und Ausländer,Quote,,238
 2010,"Peine",Ausländerinnen und Ausländer,Quote,K03157,220
 2010,"Wolfenbüttel",Ausländerinnen und Ausländer,Quote,K03158,211
 2010,"Statistische Region Braunschweig",Ausländerinnen und Ausländer,Quote,K031,215
