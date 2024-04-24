@@ -96,6 +96,7 @@
             "constraints": {
               "enum": [
                 "Anzahl",
+                "Prozent",
                 ""
               ]
             },
@@ -108,7 +109,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
