@@ -76,14 +76,27 @@
             }
           },
           {
+            "name": "Geschlecht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "Männer",
+                "Frauen",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Qualifikation",
             "type": "string",
             "constraints": {
               "enum": [
-                "hoch",
-                "mittel",
-                "niedrig",
-                "unbekannt",
+                "Insgesamt",
+                "Akademischer Abschluss",
+                "mit anerkanntem Berufsabschluss",
+                "ohne beruflichen Ausbildungsabschluss",
+                "Ausbildung unbekannt",
                 ""
               ]
             }
@@ -93,6 +106,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Anzahl",
                 "Prozent",
                 ""
               ]
