@@ -27,7 +27,7 @@
                 "Kosovo",
                 "Polen",
                 "Rumänien",
-                "Serbien",
+                "Serbien, Serbien und Montegro",
                 "Türkei",
                 "Ukraine",
                 "EU Staaten",
@@ -44,25 +44,13 @@
                 "Palestinensische Gebiete",
                 "Syrien, Arabische Republik",
                 "Australien und Ozeanien",
-                "Sonstige Herkunnft",
+                "Sonstige Ziele",
                 "staatenlos",
                 "ungeklärt",
-                "Insgesamt",
                 ""
               ]
             },
             "title": "Land der Staatsangehörigkeit"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Anzahl",
-                ""
-              ]
-            },
-            "title": "Units"
           },
           {
             "name": "Value",

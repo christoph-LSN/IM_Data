@@ -1,449 +1,460 @@
-Year,Land der Staatsangehörigkeit,Units,Value
-2007,Europa insgesamt,Anzahl,5866.0
-2007,Bulgarien,Anzahl,33.0
-2007,Griechenland,Anzahl,109.0
-2007,Italien,Anzahl,70.0
-2007,Kosovo,Anzahl,
-2007,Polen,Anzahl,583.0
-2007,Rumänien,Anzahl,209.0
-2007,Serbien,Anzahl,1198.0
-2007,Türkei,Anzahl,2162.0
-2007,Ukraine,Anzahl,493.0
-2007,EU Staaten,Anzahl,1289.0
-2007,Afrika insgesamt,Anzahl,521.0
-2007,Ägypten,Anzahl,24.0
-2007,Tunesien,Anzahl,112.0
-2007,Amerika insgesamt,Anzahl,266.0
-2007,Asien insgesamt,Anzahl,2375.0
-2007,Afganistan,Anzahl,230.0
-2007,Libanon,Anzahl,377.0
-2007,Indien,Anzahl,33.0
-2007,Irak,Anzahl,286.0
-2007,"Iran, Islamische Republik",Anzahl,362.0
-2007,Palestinensische Gebiete,Anzahl,
-2007,"Syrien, Arabische Republik",Anzahl,210.0
-2007,Australien und Ozeanien,Anzahl,1.0
-2007,Sonstige Herkunnft,Anzahl,222.0
-2007,staatenlos,Anzahl,136.0
-2007,ungeklärt,Anzahl,86.0
-2007,Insgesamt,Anzahl,9251.0
-2008,Europa insgesamt,Anzahl,4488.0
-2008,Bulgarien,Anzahl,58.0
-2008,Griechenland,Anzahl,98.0
-2008,Italien,Anzahl,88.0
-2008,Kosovo,Anzahl,
-2008,Polen,Anzahl,548.0
-2008,Rumänien,Anzahl,124.0
-2008,Serbien,Anzahl,540.0
-2008,Türkei,Anzahl,2020.0
-2008,Ukraine,Anzahl,185.0
-2008,EU Staaten,Anzahl,1232.0
-2008,Afrika insgesamt,Anzahl,564.0
-2008,Ägypten,Anzahl,23.0
-2008,Tunesien,Anzahl,76.0
-2008,Amerika insgesamt,Anzahl,233.0
-2008,Asien insgesamt,Anzahl,2272.0
-2008,Afganistan,Anzahl,219.0
-2008,Libanon,Anzahl,367.0
-2008,Indien,Anzahl,38.0
-2008,Irak,Anzahl,306.0
-2008,"Iran, Islamische Republik",Anzahl,303.0
-2008,Palestinensische Gebiete,Anzahl,
-2008,"Syrien, Arabische Republik",Anzahl,208.0
-2008,Australien und Ozeanien,Anzahl,0.0
-2008,Sonstige Herkunnft,Anzahl,147.0
-2008,staatenlos,Anzahl,99.0
-2008,ungeklärt,Anzahl,48.0
-2008,Insgesamt,Anzahl,7704.0
-2009,Europa insgesamt,Anzahl,3947.0
-2009,Bulgarien,Anzahl,60.0
-2009,Griechenland,Anzahl,69.0
-2009,Italien,Anzahl,53.0
-2009,Kosovo,Anzahl,34.0
-2009,Polen,Anzahl,434.0
-2009,Rumänien,Anzahl,119.0
-2009,Serbien,Anzahl,109.0
-2009,Türkei,Anzahl,2170.0
-2009,Ukraine,Anzahl,143.0
-2009,EU Staaten,Anzahl,1017.0
-2009,Afrika insgesamt,Anzahl,542.0
-2009,Ägypten,Anzahl,23.0
-2009,Tunesien,Anzahl,73.0
-2009,Amerika insgesamt,Anzahl,211.0
-2009,Asien insgesamt,Anzahl,2338.0
-2009,Afganistan,Anzahl,210.0
-2009,Libanon,Anzahl,335.0
-2009,Indien,Anzahl,34.0
-2009,Irak,Anzahl,361.0
-2009,"Iran, Islamische Republik",Anzahl,323.0
-2009,Palestinensische Gebiete,Anzahl,
-2009,"Syrien, Arabische Republik",Anzahl,225.0
-2009,Australien und Ozeanien,Anzahl,1.0
-2009,Sonstige Herkunnft,Anzahl,184.0
-2009,staatenlos,Anzahl,125.0
-2009,ungeklärt,Anzahl,59.0
-2009,Insgesamt,Anzahl,7223.0
-2010,Europa insgesamt,Anzahl,4205.0
-2010,Bulgarien,Anzahl,92.0
-2010,Griechenland,Anzahl,72.0
-2010,Italien,Anzahl,52.0
-2010,Kosovo,Anzahl,170.0
-2010,Polen,Anzahl,422.0
-2010,Rumänien,Anzahl,136.0
-2010,Serbien,Anzahl,187.0
-2010,Türkei,Anzahl,1892.0
-2010,Ukraine,Anzahl,268.0
-2010,EU Staaten,Anzahl,1165.0
-2010,Afrika insgesamt,Anzahl,489.0
-2010,Ägypten,Anzahl,17.0
-2010,Tunesien,Anzahl,89.0
-2010,Amerika insgesamt,Anzahl,225.0
-2010,Asien insgesamt,Anzahl,2290.0
-2010,Afganistan,Anzahl,161.0
-2010,Libanon,Anzahl,295.0
-2010,Indien,Anzahl,41.0
-2010,Irak,Anzahl,392.0
-2010,"Iran, Islamische Republik",Anzahl,245.0
-2010,Palestinensische Gebiete,Anzahl,
-2010,"Syrien, Arabische Republik",Anzahl,219.0
-2010,Australien und Ozeanien,Anzahl,2.0
-2010,Sonstige Herkunnft,Anzahl,152.0
-2010,staatenlos,Anzahl,125.0
-2010,ungeklärt,Anzahl,27.0
-2010,Insgesamt,Anzahl,7363.0
-2011,Europa insgesamt,Anzahl,4595.0
-2011,Bulgarien,Anzahl,62.0
-2011,Griechenland,Anzahl,126.0
-2011,Italien,Anzahl,77.0
-2011,Kosovo,Anzahl,221.0
-2011,Polen,Anzahl,477.0
-2011,Rumänien,Anzahl,132.0
-2011,Serbien,Anzahl,258.0
-2011,Türkei,Anzahl,2010.0
-2011,Ukraine,Anzahl,380.0
-2011,EU Staaten,Anzahl,1263.0
-2011,Afrika insgesamt,Anzahl,599.0
-2011,Ägypten,Anzahl,24.0
-2011,Tunesien,Anzahl,96.0
-2011,Amerika insgesamt,Anzahl,211.0
-2011,Asien insgesamt,Anzahl,2443.0
-2011,Afganistan,Anzahl,124.0
-2011,Libanon,Anzahl,240.0
-2011,Indien,Anzahl,44.0
-2011,Irak,Anzahl,434.0
-2011,"Iran, Islamische Republik",Anzahl,255.0
-2011,Palestinensische Gebiete,Anzahl,
-2011,"Syrien, Arabische Republik",Anzahl,219.0
-2011,Australien und Ozeanien,Anzahl,3.0
-2011,Sonstige Herkunnft,Anzahl,144.0
-2011,staatenlos,Anzahl,99.0
-2011,ungeklärt,Anzahl,45.0
-2011,Insgesamt,Anzahl,7995.0
-2012,Europa insgesamt,Anzahl,5096.0
-2012,Bulgarien,Anzahl,61.0
-2012,Griechenland,Anzahl,344.0
-2012,Italien,Anzahl,89.0
-2012,Kosovo,Anzahl,181.0
-2012,Polen,Anzahl,518.0
-2012,Rumänien,Anzahl,81.0
-2012,Serbien,Anzahl,225.0
-2012,Türkei,Anzahl,2361.0
-2012,Ukraine,Anzahl,325.0
-2012,EU Staaten,Anzahl,1482.0
-2012,Afrika insgesamt,Anzahl,596.0
-2012,Ägypten,Anzahl,28.0
-2012,Tunesien,Anzahl,110.0
-2012,Amerika insgesamt,Anzahl,211.0
-2012,Asien insgesamt,Anzahl,2488.0
-2012,Afganistan,Anzahl,121.0
-2012,Libanon,Anzahl,209.0
-2012,Indien,Anzahl,64.0
-2012,Irak,Anzahl,273.0
-2012,"Iran, Islamische Republik",Anzahl,227.0
-2012,Palestinensische Gebiete,Anzahl,
-2012,"Syrien, Arabische Republik",Anzahl,208.0
-2012,Australien und Ozeanien,Anzahl,2.0
-2012,Sonstige Herkunnft,Anzahl,133.0
-2012,staatenlos,Anzahl,117.0
-2012,ungeklärt,Anzahl,16.0
-2012,Insgesamt,Anzahl,8526.0
-2013,Europa insgesamt,Anzahl,4900.0
-2013,Bulgarien,Anzahl,70.0
-2013,Griechenland,Anzahl,231.0
-2013,Italien,Anzahl,114.0
-2013,Kosovo,Anzahl,222.0
-2013,Polen,Anzahl,655.0
-2013,Rumänien,Anzahl,115.0
-2013,Serbien,Anzahl,215.0
-2013,Türkei,Anzahl,1864.0
-2013,Ukraine,Anzahl,382.0
-2013,EU Staaten,Anzahl,1739.0
-2013,Afrika insgesamt,Anzahl,589.0
-2013,Ägypten,Anzahl,30.0
-2013,Tunesien,Anzahl,111.0
-2013,Amerika insgesamt,Anzahl,228.0
-2013,Asien insgesamt,Anzahl,2348.0
-2013,Afganistan,Anzahl,129.0
-2013,Libanon,Anzahl,243.0
-2013,Indien,Anzahl,61.0
-2013,Irak,Anzahl,326.0
-2013,"Iran, Islamische Republik",Anzahl,227.0
-2013,Palestinensische Gebiete,Anzahl,17.0
-2013,"Syrien, Arabische Republik",Anzahl,247.0
-2013,Australien und Ozeanien,Anzahl,1.0
-2013,Sonstige Herkunnft,Anzahl,150.0
-2013,staatenlos,Anzahl,113.0
-2013,ungeklärt,Anzahl,37.0
-2013,Insgesamt,Anzahl,8216.0
-2014,Europa insgesamt,Anzahl,4399.0
-2014,Bulgarien,Anzahl,68.0
-2014,Griechenland,Anzahl,195.0
-2014,Italien,Anzahl,128.0
-2014,Kosovo,Anzahl,216.0
-2014,Polen,Anzahl,576.0
-2014,Rumänien,Anzahl,113.0
-2014,Serbien,Anzahl,174.0
-2014,Türkei,Anzahl,1657.0
-2014,Ukraine,Anzahl,148.0
-2014,EU Staaten,Anzahl,1769.0
-2014,Afrika insgesamt,Anzahl,596.0
-2014,Ägypten,Anzahl,30.0
-2014,Tunesien,Anzahl,119.0
-2014,Amerika insgesamt,Anzahl,256.0
-2014,Asien insgesamt,Anzahl,2364.0
-2014,Afganistan,Anzahl,129.0
-2014,Libanon,Anzahl,254.0
-2014,Indien,Anzahl,63.0
-2014,Irak,Anzahl,317.0
-2014,"Iran, Islamische Republik",Anzahl,262.0
-2014,Palestinensische Gebiete,Anzahl,23.0
-2014,"Syrien, Arabische Republik",Anzahl,300.0
-2014,Australien und Ozeanien,Anzahl,0.0
-2014,Sonstige Herkunnft,Anzahl,107.0
-2014,staatenlos,Anzahl,83.0
-2014,ungeklärt,Anzahl,24.0
-2014,Insgesamt,Anzahl,7722.0
-2015,Europa insgesamt,Anzahl,4598.0
-2015,Bulgarien,Anzahl,73.0
-2015,Griechenland,Anzahl,191.0
-2015,Italien,Anzahl,139.0
-2015,Kosovo,Anzahl,242.0
-2015,Polen,Anzahl,559.0
-2015,Rumänien,Anzahl,156.0
-2015,Serbien,Anzahl,162.0
-2015,Türkei,Anzahl,1709.0
-2015,Ukraine,Anzahl,328.0
-2015,EU Staaten,Anzahl,1765.0
-2015,Afrika insgesamt,Anzahl,625.0
-2015,Ägypten,Anzahl,34.0
-2015,Tunesien,Anzahl,112.0
-2015,Amerika insgesamt,Anzahl,260.0
-2015,Asien insgesamt,Anzahl,2392.0
-2015,Afganistan,Anzahl,129.0
-2015,Libanon,Anzahl,259.0
-2015,Indien,Anzahl,65.0
-2015,Irak,Anzahl,313.0
-2015,"Iran, Islamische Republik",Anzahl,221.0
-2015,Palestinensische Gebiete,Anzahl,23.0
-2015,"Syrien, Arabische Republik",Anzahl,398.0
-2015,Australien und Ozeanien,Anzahl,1.0
-2015,Sonstige Herkunnft,Anzahl,112.0
-2015,staatenlos,Anzahl,80.0
-2015,ungeklärt,Anzahl,32.0
-2015,Insgesamt,Anzahl,7988.0
-2016,Europa insgesamt,Anzahl,4880.0
-2016,Bulgarien,Anzahl,76.0
-2016,Griechenland,Anzahl,222.0
-2016,Italien,Anzahl,160.0
-2016,Kosovo,Anzahl,215.0
-2016,Polen,Anzahl,650.0
-2016,Rumänien,Anzahl,193.0
-2016,Serbien,Anzahl,214.0
-2016,Türkei,Anzahl,1278.0
-2016,Ukraine,Anzahl,449.0
-2016,EU Staaten,Anzahl,2262.0
-2016,Afrika insgesamt,Anzahl,647.0
-2016,Ägypten,Anzahl,58.0
-2016,Tunesien,Anzahl,134.0
-2016,Amerika insgesamt,Anzahl,270.0
-2016,Asien insgesamt,Anzahl,2614.0
-2016,Afganistan,Anzahl,150.0
-2016,Libanon,Anzahl,303.0
-2016,Indien,Anzahl,96.0
-2016,Irak,Anzahl,430.0
-2016,"Iran, Islamische Republik",Anzahl,255.0
-2016,Palestinensische Gebiete,Anzahl,53.0
-2016,"Syrien, Arabische Republik",Anzahl,368.0
-2016,Australien und Ozeanien,Anzahl,0.0
-2016,Sonstige Herkunnft,Anzahl,108.0
-2016,staatenlos,Anzahl,70.0
-2016,ungeklärt,Anzahl,38.0
-2016,Insgesamt,Anzahl,8519.0
-2017,Europa insgesamt,Anzahl,5044.0
-2017,Bulgarien,Anzahl,100.0
-2017,Griechenland,Anzahl,224.0
-2017,Italien,Anzahl,226.0
-2017,Kosovo,Anzahl,247.0
-2017,Polen,Anzahl,664.0
-2017,Rumänien,Anzahl,241.0
-2017,Serbien,Anzahl,142.0
-2017,Türkei,Anzahl,1208.0
-2017,Ukraine,Anzahl,238.0
-2017,EU Staaten,Anzahl,2787.0
-2017,Afrika insgesamt,Anzahl,673.0
-2017,Ägypten,Anzahl,39.0
-2017,Tunesien,Anzahl,108.0
-2017,Amerika insgesamt,Anzahl,296.0
-2017,Asien insgesamt,Anzahl,2599.0
-2017,Afganistan,Anzahl,158.0
-2017,Libanon,Anzahl,238.0
-2017,Indien,Anzahl,103.0
-2017,Irak,Anzahl,403.0
-2017,"Iran, Islamische Republik",Anzahl,260.0
-2017,Palestinensische Gebiete,Anzahl,24.0
-2017,"Syrien, Arabische Republik",Anzahl,444.0
-2017,Australien und Ozeanien,Anzahl,2.0
-2017,Sonstige Herkunnft,Anzahl,171.0
-2017,staatenlos,Anzahl,138.0
-2017,ungeklärt,Anzahl,33.0
-2017,Insgesamt,Anzahl,8785.0
-2018,Europa insgesamt,Anzahl,4743.0
-2018,Bulgarien,Anzahl,92.0
-2018,Griechenland,Anzahl,206.0
-2018,Italien,Anzahl,199.0
-2018,Kosovo,Anzahl,217.0
-2018,Polen,Anzahl,598.0
-2018,Rumänien,Anzahl,239.0
-2018,Serbien,Anzahl,254.0
-2018,Türkei,Anzahl,1185.0
-2018,Ukraine,Anzahl,180.0
-2018,EU Staaten,Anzahl,2501.0
-2018,Afrika insgesamt,Anzahl,658.0
-2018,Ägypten,Anzahl,78.0
-2018,Tunesien,Anzahl,119.0
-2018,Amerika insgesamt,Anzahl,247.0
-2018,Asien insgesamt,Anzahl,2694.0
-2018,Afganistan,Anzahl,131.0
-2018,Libanon,Anzahl,233.0
-2018,Indien,Anzahl,73.0
-2018,Irak,Anzahl,389.0
-2018,"Iran, Islamische Republik",Anzahl,243.0
-2018,Palestinensische Gebiete,Anzahl,59.0
-2018,"Syrien, Arabische Republik",Anzahl,664.0
-2018,Australien und Ozeanien,Anzahl,1.0
-2018,Sonstige Herkunnft,Anzahl,127.0
-2018,staatenlos,Anzahl,104.0
-2018,ungeklärt,Anzahl,23.0
-2018,Insgesamt,Anzahl,8470.0
-2019,Europa insgesamt,Anzahl,6722.0
-2019,Bulgarien,Anzahl,85.0
-2019,Griechenland,Anzahl,157.0
-2019,Italien,Anzahl,170.0
-2019,Kosovo,Anzahl,188.0
-2019,Polen,Anzahl,644.0
-2019,Rumänien,Anzahl,337.0
-2019,Serbien,Anzahl,275.0
-2019,Türkei,Anzahl,1331.0
-2019,Ukraine,Anzahl,303.0
-2019,EU Staaten,Anzahl,4241.0
-2019,Afrika insgesamt,Anzahl,661.0
-2019,Ägypten,Anzahl,72.0
-2019,Tunesien,Anzahl,124.0
-2019,Amerika insgesamt,Anzahl,288.0
-2019,Asien insgesamt,Anzahl,3120.0
-2019,Afganistan,Anzahl,167.0
-2019,Libanon,Anzahl,209.0
-2019,Indien,Anzahl,157.0
-2019,Irak,Anzahl,465.0
-2019,"Iran, Islamische Republik",Anzahl,308.0
-2019,Palestinensische Gebiete,Anzahl,43.0
-2019,"Syrien, Arabische Republik",Anzahl,857.0
-2019,Australien und Ozeanien,Anzahl,3.0
-2019,Sonstige Herkunnft,Anzahl,137.0
-2019,staatenlos,Anzahl,115.0
-2019,ungeklärt,Anzahl,22.0
-2019,Insgesamt,Anzahl,10932.0
-2020,Europa insgesamt,Anzahl,4041.0
-2020,Bulgarien,Anzahl,114.0
-2020,Griechenland,Anzahl,127.0
-2020,Italien,Anzahl,153.0
-2020,Kosovo,Anzahl,171.0
-2020,Polen,Anzahl,572.0
-2020,Rumänien,Anzahl,369.0
-2020,Serbien,Anzahl,268.0
-2020,Türkei,Anzahl,783.0
-2020,Ukraine,Anzahl,164.0
-2020,EU Staaten,Anzahl,2376.0
-2020,Afrika insgesamt,Anzahl,744.0
-2020,Ägypten,Anzahl,80.0
-2020,Tunesien,Anzahl,150.0
-2020,Amerika insgesamt,Anzahl,272.0
-2020,Asien insgesamt,Anzahl,3645.0
-2020,Afganistan,Anzahl,184.0
-2020,Libanon,Anzahl,194.0
-2020,Indien,Anzahl,117.0
-2020,Irak,Anzahl,477.0
-2020,"Iran, Islamische Republik",Anzahl,336.0
-2020,Palestinensische Gebiete,Anzahl,42.0
-2020,"Syrien, Arabische Republik",Anzahl,1414.0
-2020,Australien und Ozeanien,Anzahl,5.0
-2020,Sonstige Herkunnft,Anzahl,171.0
-2020,staatenlos,Anzahl,146.0
-2020,ungeklärt,Anzahl,25.0
-2020,Insgesamt,Anzahl,8878.0
-2021,Europa insgesamt,Anzahl,4066.0
-2021,Bulgarien,Anzahl,124.0
-2021,Griechenland,Anzahl,195.0
-2021,Italien,Anzahl,214.0
-2021,Kosovo,Anzahl,175.0
-2021,Polen,Anzahl,619.0
-2021,Rumänien,Anzahl,369.0
-2021,Serbien,Anzahl,187.0
-2021,Türkei,Anzahl,899.0
-2021,Ukraine,Anzahl,97.0
-2021,EU Staaten,Anzahl,2243.0
-2021,Afrika insgesamt,Anzahl,793.0
-2021,Ägypten,Anzahl,103.0
-2021,Tunesien,Anzahl,142.0
-2021,Amerika insgesamt,Anzahl,293.0
-2021,Asien insgesamt,Anzahl,5045.0
-2021,Afganistan,Anzahl,292.0
-2021,Libanon,Anzahl,200.0
-2021,Indien,Anzahl,131.0
-2021,Irak,Anzahl,527.0
-2021,"Iran, Islamische Republik",Anzahl,331.0
-2021,Palestinensische Gebiete,Anzahl,145.0
-2021,"Syrien, Arabische Republik",Anzahl,2592.0
-2021,Australien und Ozeanien,Anzahl,3.0
-2021,Sonstige Herkunnft,Anzahl,217.0
-2021,staatenlos,Anzahl,144.0
-2021,ungeklärt,Anzahl,73.0
-2021,Insgesamt,Anzahl,10419.0
-2022,Europa insgesamt,Anzahl,4041.0
-2022,Bulgarien,Anzahl,124.0
-2022,Griechenland,Anzahl,106.0
-2022,Italien,Anzahl,144.0
-2022,Kosovo,Anzahl,159.0
-2022,Polen,Anzahl,524.0
-2022,Rumänien,Anzahl,382.0
-2022,Serbien,Anzahl,200.0
-2022,Türkei,Anzahl,1088.0
-2022,Ukraine,Anzahl,473.0
-2022,EU Staaten,Anzahl,1794.0
-2022,Afrika insgesamt,Anzahl,775.0
-2022,Ägypten,Anzahl,115.0
-2022,Tunesien,Anzahl,124.0
-2022,Amerika insgesamt,Anzahl,246.0
-2022,Asien insgesamt,Anzahl,8015.0
-2022,Afganistan,Anzahl,275.0
-2022,Libanon,Anzahl,175.0
-2022,Indien,Anzahl,125.0
-2022,Irak,Anzahl,1064.0
-2022,"Iran, Islamische Republik",Anzahl,427.0
-2022,Palestinensische Gebiete,Anzahl,205.0
-2022,"Syrien, Arabische Republik",Anzahl,5038.0
-2022,Australien und Ozeanien,Anzahl,1.0
-2022,Sonstige Herkunnft,Anzahl,356.0
-2022,staatenlos,Anzahl,223.0
-2022,ungeklärt,Anzahl,133.0
-2022,Insgesamt,Anzahl,13435.0
+Year,Land der Staatsangehörigkeit,Value
+2007,Europa insgesamt,5866.0
+2007,Bulgarien,33.0
+2007,Griechenland,109.0
+2007,Italien,70.0
+2007,Kosovo,
+2007,Polen,583.0
+2007,Rumänien,209.0
+2007,"Serbien, Serbien und Montegro",1198.0
+2007,Türkei,2162.0
+2007,Ukraine,493.0
+2007,EU Staaten,1289.0
+2007,Afrika insgesamt,521.0
+2007,Ägypten,24.0
+2007,Tunesien,112.0
+2007,Amerika insgesamt,266.0
+2007,Asien insgesamt,2375.0
+2007,Afganistan,230.0
+2007,Libanon,377.0
+2007,Indien,33.0
+2007,Irak,286.0
+2007,"Iran, Islamische Republik",362.0
+2007,Palestinensische Gebiete,
+2007,"Syrien, Arabische Republik",210.0
+2007,Australien und Ozeanien,1.0
+2007,Sonstige Ziele,222.0
+2007,staatenlos,136.0
+2007,ungeklärt,86.0
+2008,Europa insgesamt,4488.0
+2008,Bulgarien,58.0
+2008,Griechenland,98.0
+2008,Italien,88.0
+2008,Kosovo,
+2008,Polen,548.0
+2008,Rumänien,124.0
+2008,"Serbien, Serbien und Montegro",540.0
+2008,Türkei,2020.0
+2008,Ukraine,185.0
+2008,EU Staaten,1232.0
+2008,Afrika insgesamt,564.0
+2008,Ägypten,23.0
+2008,Tunesien,76.0
+2008,Amerika insgesamt,233.0
+2008,Asien insgesamt,2272.0
+2008,Afganistan,219.0
+2008,Libanon,367.0
+2008,Indien,38.0
+2008,Irak,306.0
+2008,"Iran, Islamische Republik",303.0
+2008,Palestinensische Gebiete,
+2008,"Syrien, Arabische Republik",208.0
+2008,Australien und Ozeanien,
+2008,Sonstige Ziele,147.0
+2008,staatenlos,99.0
+2008,ungeklärt,48.0
+2009,Europa insgesamt,3947.0
+2009,Bulgarien,60.0
+2009,Griechenland,69.0
+2009,Italien,53.0
+2009,Kosovo,34.0
+2009,Polen,434.0
+2009,Rumänien,119.0
+2009,"Serbien, Serbien und Montegro",109.0
+2009,Türkei,2170.0
+2009,Ukraine,143.0
+2009,EU Staaten,1017.0
+2009,Afrika insgesamt,542.0
+2009,Ägypten,23.0
+2009,Tunesien,73.0
+2009,Amerika insgesamt,211.0
+2009,Asien insgesamt,2338.0
+2009,Afganistan,210.0
+2009,Libanon,335.0
+2009,Indien,34.0
+2009,Irak,361.0
+2009,"Iran, Islamische Republik",323.0
+2009,Palestinensische Gebiete,
+2009,"Syrien, Arabische Republik",225.0
+2009,Australien und Ozeanien,1.0
+2009,Sonstige Ziele,184.0
+2009,staatenlos,125.0
+2009,ungeklärt,59.0
+2010,Europa insgesamt,4205.0
+2010,Bulgarien,92.0
+2010,Griechenland,72.0
+2010,Italien,52.0
+2010,Kosovo,170.0
+2010,Polen,422.0
+2010,Rumänien,136.0
+2010,"Serbien, Serbien und Montegro",187.0
+2010,Türkei,1892.0
+2010,Ukraine,268.0
+2010,EU Staaten,1165.0
+2010,Afrika insgesamt,489.0
+2010,Ägypten,17.0
+2010,Tunesien,89.0
+2010,Amerika insgesamt,225.0
+2010,Asien insgesamt,2290.0
+2010,Afganistan,161.0
+2010,Libanon,295.0
+2010,Indien,41.0
+2010,Irak,392.0
+2010,"Iran, Islamische Republik",245.0
+2010,Palestinensische Gebiete,
+2010,"Syrien, Arabische Republik",219.0
+2010,Australien und Ozeanien,2.0
+2010,Sonstige Ziele,152.0
+2010,staatenlos,125.0
+2010,ungeklärt,27.0
+2011,Europa insgesamt,4595.0
+2011,Bulgarien,62.0
+2011,Griechenland,126.0
+2011,Italien,77.0
+2011,Kosovo,221.0
+2011,Polen,477.0
+2011,Rumänien,132.0
+2011,"Serbien, Serbien und Montegro",258.0
+2011,Türkei,2010.0
+2011,Ukraine,380.0
+2011,EU Staaten,1263.0
+2011,Afrika insgesamt,599.0
+2011,Ägypten,24.0
+2011,Tunesien,96.0
+2011,Amerika insgesamt,211.0
+2011,Asien insgesamt,2443.0
+2011,Afganistan,124.0
+2011,Libanon,240.0
+2011,Indien,44.0
+2011,Irak,434.0
+2011,"Iran, Islamische Republik",255.0
+2011,Palestinensische Gebiete,
+2011,"Syrien, Arabische Republik",219.0
+2011,Australien und Ozeanien,3.0
+2011,Sonstige Ziele,144.0
+2011,staatenlos,99.0
+2011,ungeklärt,45.0
+2012,Europa insgesamt,5096.0
+2012,Bulgarien,61.0
+2012,Griechenland,344.0
+2012,Italien,89.0
+2012,Kosovo,181.0
+2012,Polen,518.0
+2012,Rumänien,81.0
+2012,"Serbien, Serbien und Montegro",225.0
+2012,Türkei,2361.0
+2012,Ukraine,325.0
+2012,EU Staaten,1482.0
+2012,Afrika insgesamt,596.0
+2012,Ägypten,28.0
+2012,Tunesien,110.0
+2012,Amerika insgesamt,211.0
+2012,Asien insgesamt,2488.0
+2012,Afganistan,121.0
+2012,Libanon,209.0
+2012,Indien,64.0
+2012,Irak,273.0
+2012,"Iran, Islamische Republik",227.0
+2012,Palestinensische Gebiete,
+2012,"Syrien, Arabische Republik",208.0
+2012,Australien und Ozeanien,2.0
+2012,Sonstige Ziele,133.0
+2012,staatenlos,117.0
+2012,ungeklärt,16.0
+2013,Europa insgesamt,4900.0
+2013,Bulgarien,70.0
+2013,Griechenland,231.0
+2013,Italien,114.0
+2013,Kosovo,222.0
+2013,Polen,655.0
+2013,Rumänien,115.0
+2013,"Serbien, Serbien und Montegro",215.0
+2013,Türkei,1864.0
+2013,Ukraine,382.0
+2013,EU Staaten,1739.0
+2013,Afrika insgesamt,589.0
+2013,Ägypten,30.0
+2013,Tunesien,111.0
+2013,Amerika insgesamt,228.0
+2013,Asien insgesamt,2348.0
+2013,Afganistan,129.0
+2013,Libanon,243.0
+2013,Indien,61.0
+2013,Irak,326.0
+2013,"Iran, Islamische Republik",227.0
+2013,Palestinensische Gebiete,17.0
+2013,"Syrien, Arabische Republik",247.0
+2013,Australien und Ozeanien,1.0
+2013,Sonstige Ziele,150.0
+2013,staatenlos,113.0
+2013,ungeklärt,37.0
+2014,Europa insgesamt,4399.0
+2014,Bulgarien,68.0
+2014,Griechenland,195.0
+2014,Italien,128.0
+2014,Kosovo,216.0
+2014,Polen,576.0
+2014,Rumänien,113.0
+2014,"Serbien, Serbien und Montegro",174.0
+2014,Türkei,1657.0
+2014,Ukraine,148.0
+2014,EU Staaten,1769.0
+2014,Afrika insgesamt,596.0
+2014,Ägypten,30.0
+2014,Tunesien,119.0
+2014,Amerika insgesamt,256.0
+2014,Asien insgesamt,2364.0
+2014,Afganistan,129.0
+2014,Libanon,254.0
+2014,Indien,63.0
+2014,Irak,317.0
+2014,"Iran, Islamische Republik",262.0
+2014,Palestinensische Gebiete,23.0
+2014,"Syrien, Arabische Republik",300.0
+2014,Australien und Ozeanien,
+2014,Sonstige Ziele,107.0
+2014,staatenlos,83.0
+2014,ungeklärt,24.0
+2015,Europa insgesamt,4598.0
+2015,Bulgarien,73.0
+2015,Griechenland,191.0
+2015,Italien,139.0
+2015,Kosovo,242.0
+2015,Polen,559.0
+2015,Rumänien,156.0
+2015,"Serbien, Serbien und Montegro",162.0
+2015,Türkei,1709.0
+2015,Ukraine,328.0
+2015,EU Staaten,1765.0
+2015,Afrika insgesamt,625.0
+2015,Ägypten,34.0
+2015,Tunesien,112.0
+2015,Amerika insgesamt,260.0
+2015,Asien insgesamt,2392.0
+2015,Afganistan,129.0
+2015,Libanon,259.0
+2015,Indien,65.0
+2015,Irak,313.0
+2015,"Iran, Islamische Republik",221.0
+2015,Palestinensische Gebiete,23.0
+2015,"Syrien, Arabische Republik",398.0
+2015,Australien und Ozeanien,1.0
+2015,Sonstige Ziele,112.0
+2015,staatenlos,80.0
+2015,ungeklärt,32.0
+2016,Europa insgesamt,4880.0
+2016,Bulgarien,76.0
+2016,Griechenland,222.0
+2016,Italien,160.0
+2016,Kosovo,215.0
+2016,Polen,650.0
+2016,Rumänien,193.0
+2016,"Serbien, Serbien und Montegro",214.0
+2016,Türkei,1278.0
+2016,Ukraine,449.0
+2016,EU Staaten,2262.0
+2016,Afrika insgesamt,647.0
+2016,Ägypten,58.0
+2016,Tunesien,134.0
+2016,Amerika insgesamt,270.0
+2016,Asien insgesamt,2614.0
+2016,Afganistan,150.0
+2016,Libanon,303.0
+2016,Indien,96.0
+2016,Irak,430.0
+2016,"Iran, Islamische Republik",255.0
+2016,Palestinensische Gebiete,53.0
+2016,"Syrien, Arabische Republik",368.0
+2016,Australien und Ozeanien,
+2016,Sonstige Ziele,108.0
+2016,staatenlos,70.0
+2016,ungeklärt,38.0
+2017,Europa insgesamt,5044.0
+2017,Bulgarien,100.0
+2017,Griechenland,224.0
+2017,Italien,226.0
+2017,Kosovo,247.0
+2017,Polen,664.0
+2017,Rumänien,241.0
+2017,"Serbien, Serbien und Montegro",142.0
+2017,Türkei,1208.0
+2017,Ukraine,238.0
+2017,EU Staaten,2787.0
+2017,Afrika insgesamt,673.0
+2017,Ägypten,39.0
+2017,Tunesien,108.0
+2017,Amerika insgesamt,296.0
+2017,Asien insgesamt,2599.0
+2017,Afganistan,158.0
+2017,Libanon,238.0
+2017,Indien,103.0
+2017,Irak,403.0
+2017,"Iran, Islamische Republik",260.0
+2017,Palestinensische Gebiete,24.0
+2017,"Syrien, Arabische Republik",444.0
+2017,Australien und Ozeanien,2.0
+2017,Sonstige Ziele,171.0
+2017,staatenlos,138.0
+2017,ungeklärt,33.0
+2018,Europa insgesamt,4743.0
+2018,Bulgarien,92.0
+2018,Griechenland,206.0
+2018,Italien,199.0
+2018,Kosovo,217.0
+2018,Polen,598.0
+2018,Rumänien,239.0
+2018,"Serbien, Serbien und Montegro",254.0
+2018,Türkei,1185.0
+2018,Ukraine,180.0
+2018,EU Staaten,2501.0
+2018,Afrika insgesamt,658.0
+2018,Ägypten,78.0
+2018,Tunesien,119.0
+2018,Amerika insgesamt,247.0
+2018,Asien insgesamt,2694.0
+2018,Afganistan,131.0
+2018,Libanon,233.0
+2018,Indien,73.0
+2018,Irak,389.0
+2018,"Iran, Islamische Republik",243.0
+2018,Palestinensische Gebiete,59.0
+2018,"Syrien, Arabische Republik",664.0
+2018,Australien und Ozeanien,1.0
+2018,Sonstige Ziele,127.0
+2018,staatenlos,104.0
+2018,ungeklärt,23.0
+2019,Europa insgesamt,6722.0
+2019,Bulgarien,85.0
+2019,Griechenland,157.0
+2019,Italien,170.0
+2019,Kosovo,188.0
+2019,Polen,644.0
+2019,Rumänien,337.0
+2019,"Serbien, Serbien und Montegro",275.0
+2019,Türkei,1331.0
+2019,Ukraine,303.0
+2019,EU Staaten,4241.0
+2019,Afrika insgesamt,661.0
+2019,Ägypten,72.0
+2019,Tunesien,124.0
+2019,Amerika insgesamt,288.0
+2019,Asien insgesamt,3120.0
+2019,Afganistan,167.0
+2019,Libanon,209.0
+2019,Indien,157.0
+2019,Irak,465.0
+2019,"Iran, Islamische Republik",308.0
+2019,Palestinensische Gebiete,43.0
+2019,"Syrien, Arabische Republik",857.0
+2019,Australien und Ozeanien,3.0
+2019,Sonstige Ziele,137.0
+2019,staatenlos,115.0
+2019,ungeklärt,22.0
+2020,Europa insgesamt,4041.0
+2020,Bulgarien,114.0
+2020,Griechenland,127.0
+2020,Italien,153.0
+2020,Kosovo,171.0
+2020,Polen,572.0
+2020,Rumänien,369.0
+2020,"Serbien, Serbien und Montegro",268.0
+2020,Türkei,783.0
+2020,Ukraine,164.0
+2020,EU Staaten,2376.0
+2020,Afrika insgesamt,744.0
+2020,Ägypten,80.0
+2020,Tunesien,150.0
+2020,Amerika insgesamt,272.0
+2020,Asien insgesamt,3645.0
+2020,Afganistan,184.0
+2020,Libanon,194.0
+2020,Indien,117.0
+2020,Irak,477.0
+2020,"Iran, Islamische Republik",336.0
+2020,Palestinensische Gebiete,42.0
+2020,"Syrien, Arabische Republik",1414.0
+2020,Australien und Ozeanien,5.0
+2020,Sonstige Ziele,171.0
+2020,staatenlos,146.0
+2020,ungeklärt,25.0
+2021,Europa insgesamt,4066.0
+2021,Bulgarien,124.0
+2021,Griechenland,195.0
+2021,Italien,214.0
+2021,Kosovo,175.0
+2021,Polen,619.0
+2021,Rumänien,369.0
+2021,"Serbien, Serbien und Montegro",187.0
+2021,Türkei,899.0
+2021,Ukraine,97.0
+2021,EU Staaten,2243.0
+2021,Afrika insgesamt,793.0
+2021,Ägypten,103.0
+2021,Tunesien,142.0
+2021,Amerika insgesamt,293.0
+2021,Asien insgesamt,5045.0
+2021,Afganistan,292.0
+2021,Libanon,200.0
+2021,Indien,131.0
+2021,Irak,527.0
+2021,"Iran, Islamische Republik",331.0
+2021,Palestinensische Gebiete,145.0
+2021,"Syrien, Arabische Republik",2592.0
+2021,Australien und Ozeanien,3.0
+2021,Sonstige Ziele,217.0
+2021,staatenlos,144.0
+2021,ungeklärt,73.0
+2022,Europa insgesamt,4041.0
+2022,Bulgarien,124.0
+2022,Griechenland,106.0
+2022,Italien,144.0
+2022,Kosovo,159.0
+2022,Polen,524.0
+2022,Rumänien,382.0
+2022,"Serbien, Serbien und Montegro",200.0
+2022,Türkei,1088.0
+2022,Ukraine,473.0
+2022,EU Staaten,1794.0
+2022,Afrika insgesamt,775.0
+2022,Ägypten,115.0
+2022,Tunesien,124.0
+2022,Amerika insgesamt,246.0
+2022,Asien insgesamt,8015.0
+2022,Afganistan,275.0
+2022,Libanon,175.0
+2022,Indien,125.0
+2022,Irak,1064.0
+2022,"Iran, Islamische Republik",427.0
+2022,Palestinensische Gebiete,205.0
+2022,"Syrien, Arabische Republik",5038.0
+2022,Australien und Ozeanien,1.0
+2022,Sonstige Ziele,356.0
+2022,staatenlos,223.0
+2022,ungeklärt,133.0
+2023,Europa insgesamt,3622.0
+2023,Bulgarien,146.0
+2023,Griechenland,118.0
+2023,Italien,112.0
+2023,Kosovo,129.0
+2023,Polen,593.0
+2023,Rumänien,297.0
+2023,"Serbien, Serbien und Montegro",172.0
+2023,Türkei,776.0
+2023,Ukraine,531.0
+2023,EU Staaten,1743.0
+2023,Afrika insgesamt,995.0
+2023,Ägypten,106.0
+2023,Tunesien,175.0
+2023,Amerika insgesamt,287.0
+2023,Asien insgesamt,11342.0
+2023,Afganistan,475.0
+2023,Libanon,195.0
+2023,Indien,199.0
+2023,Irak,1317.0
+2023,"Iran, Islamische Republik",585.0
+2023,Palestinensische Gebiete,196.0
+2023,"Syrien, Arabische Republik",7615.0
+2023,Australien und Ozeanien,0.0
+2023,Sonstige Ziele,622.0
+2023,staatenlos,481.0
+2023,ungeklärt,141.0
