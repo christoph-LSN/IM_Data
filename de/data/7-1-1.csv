@@ -1,4 +1,4 @@
-Year,Migrationsstatus,Lebensform,mit oder ohne ledige Kinder,Value
+Year,Migrationsstatus,Lebennsform,mit oder ohne ledige Kinder,Value
 2011,mit und ohne Migrationshintergrund,Insgesamt,Insgesamt,2227.8
 2011,ohne Migrationshintergrund,Insgesamt,Insgesamt,1831.3
 2011,mit Migrationshintergrund,Insgesamt,Insgesamt,396.5
@@ -107,18 +107,18 @@ Year,Migrationsstatus,Lebensform,mit oder ohne ledige Kinder,Value
 2019,mit und ohne Migrationshintergrund,Alleinerziehende,Insgesamt,240.0
 2019,ohne Migrationshintergrund,Alleinerziehende,Insgesamt,184.2
 2019,mit Migrationshintergrund,Alleinerziehende,Insgesamt,55.8
-2020,mit und ohne Migrationshintergrund,Insgesamt,Insgesamt,
-2020,ohne Migrationshintergrund,Insgesamt,Insgesamt,
-2020,mit Migrationshintergrund,Insgesamt,Insgesamt,
-2020,mit und ohne Migrationshintergrund,Ehepaare,Insgesamt,
-2020,ohne Migrationshintergrund,Ehepaare,Insgesamt,
-2020,mit Migrationshintergrund,Ehepaare,Insgesamt,
-2020,mit und ohne Migrationshintergrund,Lebensgemeinschaften,Insgesamt,
-2020,ohne Migrationshintergrund,Lebensgemeinschaften,Insgesamt,
-2020,mit Migrationshintergrund,Lebensgemeinschaften,Insgesamt,
-2020,mit und ohne Migrationshintergrund,Alleinerziehende,Insgesamt,
-2020,ohne Migrationshintergrund,Alleinerziehende,Insgesamt,
-2020,mit Migrationshintergrund,Alleinerziehende,Insgesamt,
+2020,mit und ohne Migrationshintergrund,Insgesamt,Insgesamt,0.0
+2020,ohne Migrationshintergrund,Insgesamt,Insgesamt,0.0
+2020,mit Migrationshintergrund,Insgesamt,Insgesamt,0.0
+2020,mit und ohne Migrationshintergrund,Ehepaare,Insgesamt,0.0
+2020,ohne Migrationshintergrund,Ehepaare,Insgesamt,0.0
+2020,mit Migrationshintergrund,Ehepaare,Insgesamt,0.0
+2020,mit und ohne Migrationshintergrund,Lebensgemeinschaften,Insgesamt,0.0
+2020,ohne Migrationshintergrund,Lebensgemeinschaften,Insgesamt,0.0
+2020,mit Migrationshintergrund,Lebensgemeinschaften,Insgesamt,0.0
+2020,mit und ohne Migrationshintergrund,Alleinerziehende,Insgesamt,0.0
+2020,ohne Migrationshintergrund,Alleinerziehende,Insgesamt,0.0
+2020,mit Migrationshintergrund,Alleinerziehende,Insgesamt,0.0
 2021,mit und ohne Migrationshintergrund,Insgesamt,Insgesamt,2277.0
 2021,ohne Migrationshintergrund,Insgesamt,Insgesamt,1667.0
 2021,mit Migrationshintergrund,Insgesamt,Insgesamt,610.0
@@ -131,18 +131,30 @@ Year,Migrationsstatus,Lebensform,mit oder ohne ledige Kinder,Value
 2021,mit und ohne Migrationshintergrund,Alleinerziehende,Insgesamt,241.0
 2021,ohne Migrationshintergrund,Alleinerziehende,Insgesamt,168.0
 2021,mit Migrationshintergrund,Alleinerziehende,Insgesamt,73.0
-2022,mit und ohne Migrationshintergrund,Insgesamt,Insgesamt,2298.0
-2022,ohne Migrationshintergrund,Insgesamt,Insgesamt,1656.0
-2022,mit Migrationshintergrund,Insgesamt,Insgesamt,643.0
-2022,mit und ohne Migrationshintergrund,Ehepaare,Insgesamt,1719.0
-2022,ohne Migrationshintergrund,Ehepaare,Insgesamt,1478.0
-2022,mit Migrationshintergrund,Ehepaare,Insgesamt,478.0
-2022,mit und ohne Migrationshintergrund,Lebensgemeinschaften,Insgesamt,328.0
-2022,ohne Migrationshintergrund,Lebensgemeinschaften,Insgesamt,663.0
-2022,mit Migrationshintergrund,Lebensgemeinschaften,Insgesamt,79.0
-2022,mit und ohne Migrationshintergrund,Alleinerziehende,Insgesamt,252.0
-2022,ohne Migrationshintergrund,Alleinerziehende,Insgesamt,170.0
-2022,mit Migrationshintergrund,Alleinerziehende,Insgesamt,82.0
+2022,mit und ohne Migrationshintergrund,Insgesamt,Insgesamt,2296.0
+2022,ohne Migrationshintergrund,Insgesamt,Insgesamt,1655.0
+2022,mit Migrationshintergrund,Insgesamt,Insgesamt,641.0
+2022,mit und ohne Migrationshintergrund,Ehepaare,Insgesamt,1713.0
+2022,ohne Migrationshintergrund,Ehepaare,Insgesamt,1237.0
+2022,mit Migrationshintergrund,Ehepaare,Insgesamt,476.0
+2022,mit und ohne Migrationshintergrund,Lebensgemeinschaften,Insgesamt,326.0
+2022,ohne Migrationshintergrund,Lebensgemeinschaften,Insgesamt,245.0
+2022,mit Migrationshintergrund,Lebensgemeinschaften,Insgesamt,81.0
+2022,mit und ohne Migrationshintergrund,Alleinerziehende,Insgesamt,256.0
+2022,ohne Migrationshintergrund,Alleinerziehende,Insgesamt,173.0
+2022,mit Migrationshintergrund,Alleinerziehende,Insgesamt,83.0
+2023,mit und ohne Migrationshintergrund,Insgesamt,Insgesamt,2309.0
+2023,ohne Migrationshintergrund,Insgesamt,Insgesamt,1646.0
+2023,mit Migrationshintergrund,Insgesamt,Insgesamt,663.0
+2023,mit und ohne Migrationshintergrund,Ehepaare,Insgesamt,1696.0
+2023,ohne Migrationshintergrund,Ehepaare,Insgesamt,1224.0
+2023,mit Migrationshintergrund,Ehepaare,Insgesamt,472.0
+2023,mit und ohne Migrationshintergrund,Lebensgemeinschaften,Insgesamt,334.0
+2023,ohne Migrationshintergrund,Lebensgemeinschaften,Insgesamt,247.0
+2023,mit Migrationshintergrund,Lebensgemeinschaften,Insgesamt,87.0
+2023,mit und ohne Migrationshintergrund,Alleinerziehende,Insgesamt,279.0
+2023,ohne Migrationshintergrund,Alleinerziehende,Insgesamt,176.0
+2023,mit Migrationshintergrund,Alleinerziehende,Insgesamt,102.0
 2011,mit und ohne Migrationshintergrund,Insgesamt,ohne Kinder,1122.3
 2011,ohne Migrationshintergrund,Insgesamt,ohne Kinder,971.6
 2011,mit Migrationshintergrund,Insgesamt,ohne Kinder,150.7
@@ -152,9 +164,9 @@ Year,Migrationsstatus,Lebensform,mit oder ohne ledige Kinder,Value
 2011,mit und ohne Migrationshintergrund,Lebensgemeinschaften,ohne Kinder,183.6
 2011,ohne Migrationshintergrund,Lebensgemeinschaften,ohne Kinder,159.4
 2011,mit Migrationshintergrund,Lebensgemeinschaften,ohne Kinder,24.2
-2011,mit und ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,
-2011,ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,
-2011,mit Migrationshintergrund,Alleinerziehende,ohne Kinder,
+2011,mit und ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,0.0
+2011,ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,0.0
+2011,mit Migrationshintergrund,Alleinerziehende,ohne Kinder,0.0
 2012,mit und ohne Migrationshintergrund,Insgesamt,ohne Kinder,1128.4
 2012,ohne Migrationshintergrund,Insgesamt,ohne Kinder,970.1
 2012,mit Migrationshintergrund,Insgesamt,ohne Kinder,158.2
@@ -164,9 +176,9 @@ Year,Migrationsstatus,Lebensform,mit oder ohne ledige Kinder,Value
 2012,mit und ohne Migrationshintergrund,Lebensgemeinschaften,ohne Kinder,177.9
 2012,ohne Migrationshintergrund,Lebensgemeinschaften,ohne Kinder,153.9
 2012,mit Migrationshintergrund,Lebensgemeinschaften,ohne Kinder,24.0
-2012,mit und ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,
-2012,ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,
-2012,mit Migrationshintergrund,Alleinerziehende,ohne Kinder,
+2012,mit und ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,0.0
+2012,ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,0.0
+2012,mit Migrationshintergrund,Alleinerziehende,ohne Kinder,0.0
 2013,mit und ohne Migrationshintergrund,Insgesamt,ohne Kinder,1139.4
 2013,ohne Migrationshintergrund,Insgesamt,ohne Kinder,959.3
 2013,mit Migrationshintergrund,Insgesamt,ohne Kinder,180.1
@@ -176,9 +188,9 @@ Year,Migrationsstatus,Lebensform,mit oder ohne ledige Kinder,Value
 2013,mit und ohne Migrationshintergrund,Lebensgemeinschaften,ohne Kinder,179.5
 2013,ohne Migrationshintergrund,Lebensgemeinschaften,ohne Kinder,144.5
 2013,mit Migrationshintergrund,Lebensgemeinschaften,ohne Kinder,35.0
-2013,mit und ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,
-2013,ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,
-2013,mit Migrationshintergrund,Alleinerziehende,ohne Kinder,
+2013,mit und ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,0.0
+2013,ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,0.0
+2013,mit Migrationshintergrund,Alleinerziehende,ohne Kinder,0.0
 2014,mit und ohne Migrationshintergrund,Insgesamt,ohne Kinder,1146.5
 2014,ohne Migrationshintergrund,Insgesamt,ohne Kinder,977.0
 2014,mit Migrationshintergrund,Insgesamt,ohne Kinder,169.5
@@ -188,9 +200,9 @@ Year,Migrationsstatus,Lebensform,mit oder ohne ledige Kinder,Value
 2014,mit und ohne Migrationshintergrund,Lebensgemeinschaften,ohne Kinder,186.5
 2014,ohne Migrationshintergrund,Lebensgemeinschaften,ohne Kinder,157.9
 2014,mit Migrationshintergrund,Lebensgemeinschaften,ohne Kinder,28.6
-2014,mit und ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,
-2014,ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,
-2014,mit Migrationshintergrund,Alleinerziehende,ohne Kinder,
+2014,mit und ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,0.0
+2014,ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,0.0
+2014,mit Migrationshintergrund,Alleinerziehende,ohne Kinder,0.0
 2015,mit und ohne Migrationshintergrund,Insgesamt,ohne Kinder,1148.0
 2015,ohne Migrationshintergrund,Insgesamt,ohne Kinder,978.4
 2015,mit Migrationshintergrund,Insgesamt,ohne Kinder,169.6
@@ -200,9 +212,9 @@ Year,Migrationsstatus,Lebensform,mit oder ohne ledige Kinder,Value
 2015,mit und ohne Migrationshintergrund,Lebensgemeinschaften,ohne Kinder,194.3
 2015,ohne Migrationshintergrund,Lebensgemeinschaften,ohne Kinder,164.2
 2015,mit Migrationshintergrund,Lebensgemeinschaften,ohne Kinder,30.1
-2015,mit und ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,
-2015,ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,
-2015,mit Migrationshintergrund,Alleinerziehende,ohne Kinder,
+2015,mit und ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,0.0
+2015,ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,0.0
+2015,mit Migrationshintergrund,Alleinerziehende,ohne Kinder,0.0
 2016,mit und ohne Migrationshintergrund,Insgesamt,ohne Kinder,1144.1
 2016,ohne Migrationshintergrund,Insgesamt,ohne Kinder,959.4
 2016,mit Migrationshintergrund,Insgesamt,ohne Kinder,184.6
@@ -212,9 +224,9 @@ Year,Migrationsstatus,Lebensform,mit oder ohne ledige Kinder,Value
 2016,mit und ohne Migrationshintergrund,Lebensgemeinschaften,ohne Kinder,189.2
 2016,ohne Migrationshintergrund,Lebensgemeinschaften,ohne Kinder,157.6
 2016,mit Migrationshintergrund,Lebensgemeinschaften,ohne Kinder,31.5
-2016,mit und ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,
-2016,ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,
-2016,mit Migrationshintergrund,Alleinerziehende,ohne Kinder,
+2016,mit und ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,0.0
+2016,ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,0.0
+2016,mit Migrationshintergrund,Alleinerziehende,ohne Kinder,0.0
 2017,mit und ohne Migrationshintergrund,Insgesamt,ohne Kinder,1143.2
 2017,ohne Migrationshintergrund,Insgesamt,ohne Kinder,948.1
 2017,mit Migrationshintergrund,Insgesamt,ohne Kinder,195.1
@@ -224,9 +236,9 @@ Year,Migrationsstatus,Lebensform,mit oder ohne ledige Kinder,Value
 2017,mit und ohne Migrationshintergrund,Lebensgemeinschaften,ohne Kinder,207.4
 2017,ohne Migrationshintergrund,Lebensgemeinschaften,ohne Kinder,171.0
 2017,mit Migrationshintergrund,Lebensgemeinschaften,ohne Kinder,36.4
-2017,mit und ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,
-2017,ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,
-2017,mit Migrationshintergrund,Alleinerziehende,ohne Kinder,
+2017,mit und ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,0.0
+2017,ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,0.0
+2017,mit Migrationshintergrund,Alleinerziehende,ohne Kinder,0.0
 2018,mit und ohne Migrationshintergrund,Insgesamt,ohne Kinder,1172.7
 2018,ohne Migrationshintergrund,Insgesamt,ohne Kinder,954.3
 2018,mit Migrationshintergrund,Insgesamt,ohne Kinder,218.3
@@ -236,9 +248,9 @@ Year,Migrationsstatus,Lebensform,mit oder ohne ledige Kinder,Value
 2018,mit und ohne Migrationshintergrund,Lebensgemeinschaften,ohne Kinder,217.0
 2018,ohne Migrationshintergrund,Lebensgemeinschaften,ohne Kinder,172.0
 2018,mit Migrationshintergrund,Lebensgemeinschaften,ohne Kinder,45.1
-2018,mit und ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,
-2018,ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,
-2018,mit Migrationshintergrund,Alleinerziehende,ohne Kinder,
+2018,mit und ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,0.0
+2018,ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,0.0
+2018,mit Migrationshintergrund,Alleinerziehende,ohne Kinder,0.0
 2019,mit und ohne Migrationshintergrund,Insgesamt,ohne Kinder,1154.3
 2019,ohne Migrationshintergrund,Insgesamt,ohne Kinder,943.0
 2019,mit Migrationshintergrund,Insgesamt,ohne Kinder,211.3
@@ -248,21 +260,21 @@ Year,Migrationsstatus,Lebensform,mit oder ohne ledige Kinder,Value
 2019,mit und ohne Migrationshintergrund,Lebensgemeinschaften,ohne Kinder,207.5
 2019,ohne Migrationshintergrund,Lebensgemeinschaften,ohne Kinder,167.6
 2019,mit Migrationshintergrund,Lebensgemeinschaften,ohne Kinder,39.9
-2019,mit und ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,
-2019,ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,
-2019,mit Migrationshintergrund,Alleinerziehende,ohne Kinder,
-2020,mit und ohne Migrationshintergrund,Insgesamt,ohne Kinder,
-2020,ohne Migrationshintergrund,Insgesamt,ohne Kinder,
-2020,mit Migrationshintergrund,Insgesamt,ohne Kinder,
-2020,mit und ohne Migrationshintergrund,Ehepaare,ohne Kinder,
-2020,ohne Migrationshintergrund,Ehepaare,ohne Kinder,
-2020,mit Migrationshintergrund,Ehepaare,ohne Kinder,
-2020,mit und ohne Migrationshintergrund,Lebensgemeinschaften,ohne Kinder,
-2020,ohne Migrationshintergrund,Lebensgemeinschaften,ohne Kinder,
-2020,mit Migrationshintergrund,Lebensgemeinschaften,ohne Kinder,
-2020,mit und ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,
-2020,ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,
-2020,mit Migrationshintergrund,Alleinerziehende,ohne Kinder,
+2019,mit und ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,0.0
+2019,ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,0.0
+2019,mit Migrationshintergrund,Alleinerziehende,ohne Kinder,0.0
+2020,mit und ohne Migrationshintergrund,Insgesamt,ohne Kinder,0.0
+2020,ohne Migrationshintergrund,Insgesamt,ohne Kinder,0.0
+2020,mit Migrationshintergrund,Insgesamt,ohne Kinder,0.0
+2020,mit und ohne Migrationshintergrund,Ehepaare,ohne Kinder,0.0
+2020,ohne Migrationshintergrund,Ehepaare,ohne Kinder,0.0
+2020,mit Migrationshintergrund,Ehepaare,ohne Kinder,0.0
+2020,mit und ohne Migrationshintergrund,Lebensgemeinschaften,ohne Kinder,0.0
+2020,ohne Migrationshintergrund,Lebensgemeinschaften,ohne Kinder,0.0
+2020,mit Migrationshintergrund,Lebensgemeinschaften,ohne Kinder,0.0
+2020,mit und ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,0.0
+2020,ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,0.0
+2020,mit Migrationshintergrund,Alleinerziehende,ohne Kinder,0.0
 2021,mit und ohne Migrationshintergrund,Insgesamt,ohne Kinder,1171.0
 2021,ohne Migrationshintergrund,Insgesamt,ohne Kinder,941.0
 2021,mit Migrationshintergrund,Insgesamt,ohne Kinder,230.0
@@ -272,21 +284,33 @@ Year,Migrationsstatus,Lebensform,mit oder ohne ledige Kinder,Value
 2021,mit und ohne Migrationshintergrund,Lebensgemeinschaften,ohne Kinder,216.0
 2021,ohne Migrationshintergrund,Lebensgemeinschaften,ohne Kinder,174.0
 2021,mit Migrationshintergrund,Lebensgemeinschaften,ohne Kinder,42.0
-2021,mit und ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,
-2021,ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,
-2021,mit Migrationshintergrund,Alleinerziehende,ohne Kinder,
-2022,mit und ohne Migrationshintergrund,Insgesamt,ohne Kinder,1173.0
+2021,mit und ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,0.0
+2021,ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,0.0
+2021,mit Migrationshintergrund,Alleinerziehende,ohne Kinder,0.0
+2022,mit und ohne Migrationshintergrund,Insgesamt,ohne Kinder,1171.0
 2022,ohne Migrationshintergrund,Insgesamt,ohne Kinder,932.0
-2022,mit Migrationshintergrund,Insgesamt,ohne Kinder,241.0
+2022,mit Migrationshintergrund,Insgesamt,ohne Kinder,239.0
 2022,mit und ohne Migrationshintergrund,Ehepaare,ohne Kinder,944.0
 2022,ohne Migrationshintergrund,Ehepaare,ohne Kinder,754.0
 2022,mit Migrationshintergrund,Ehepaare,ohne Kinder,190.0
-2022,mit und ohne Migrationshintergrund,Lebensgemeinschaften,ohne Kinder,229.0
-2022,ohne Migrationshintergrund,Lebensgemeinschaften,ohne Kinder,179.0
-2022,mit Migrationshintergrund,Lebensgemeinschaften,ohne Kinder,47.0
-2022,mit und ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,
-2022,ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,
-2022,mit Migrationshintergrund,Alleinerziehende,ohne Kinder,
+2022,mit und ohne Migrationshintergrund,Lebensgemeinschaften,ohne Kinder,226.0
+2022,ohne Migrationshintergrund,Lebensgemeinschaften,ohne Kinder,177.0
+2022,mit Migrationshintergrund,Lebensgemeinschaften,ohne Kinder,49.0
+2022,mit und ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,0.0
+2022,ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,0.0
+2022,mit Migrationshintergrund,Alleinerziehende,ohne Kinder,0.0
+2023,mit und ohne Migrationshintergrund,Insgesamt,ohne Kinder,1155.0
+2023,ohne Migrationshintergrund,Insgesamt,ohne Kinder,917.0
+2023,mit Migrationshintergrund,Insgesamt,ohne Kinder,237.0
+2023,mit und ohne Migrationshintergrund,Ehepaare,ohne Kinder,929.0
+2023,ohne Migrationshintergrund,Ehepaare,ohne Kinder,743.0
+2023,mit Migrationshintergrund,Ehepaare,ohne Kinder,186.0
+2023,mit und ohne Migrationshintergrund,Lebensgemeinschaften,ohne Kinder,226.0
+2023,ohne Migrationshintergrund,Lebensgemeinschaften,ohne Kinder,175.0
+2023,mit Migrationshintergrund,Lebensgemeinschaften,ohne Kinder,51.0
+2023,mit und ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,0.0
+2023,ohne Migrationshintergrund,Alleinerziehende,ohne Kinder,0.0
+2023,mit Migrationshintergrund,Alleinerziehende,ohne Kinder,0.0
 2011,mit und ohne Migrationshintergrund,Insgesamt,mit Kindern,1105.5
 2011,ohne Migrationshintergrund,Insgesamt,mit Kindern,859.7
 2011,mit Migrationshintergrund,Insgesamt,mit Kindern,245.8
@@ -395,18 +419,18 @@ Year,Migrationsstatus,Lebensform,mit oder ohne ledige Kinder,Value
 2019,mit und ohne Migrationshintergrund,Alleinerziehende,mit Kindern,240.0
 2019,ohne Migrationshintergrund,Alleinerziehende,mit Kindern,184.2
 2019,mit Migrationshintergrund,Alleinerziehende,mit Kindern,55.8
-2020,mit und ohne Migrationshintergrund,Insgesamt,mit Kindern,
-2020,ohne Migrationshintergrund,Insgesamt,mit Kindern,
-2020,mit Migrationshintergrund,Insgesamt,mit Kindern,
-2020,mit und ohne Migrationshintergrund,Ehepaare,mit Kindern,
-2020,ohne Migrationshintergrund,Ehepaare,mit Kindern,
-2020,mit Migrationshintergrund,Ehepaare,mit Kindern,
-2020,mit und ohne Migrationshintergrund,Lebensgemeinschaften,mit Kindern,
-2020,ohne Migrationshintergrund,Lebensgemeinschaften,mit Kindern,
-2020,mit Migrationshintergrund,Lebensgemeinschaften,mit Kindern,
-2020,mit und ohne Migrationshintergrund,Alleinerziehende,mit Kindern,
-2020,ohne Migrationshintergrund,Alleinerziehende,mit Kindern,
-2020,mit Migrationshintergrund,Alleinerziehende,mit Kindern,
+2020,mit und ohne Migrationshintergrund,Insgesamt,mit Kindern,0.0
+2020,ohne Migrationshintergrund,Insgesamt,mit Kindern,0.0
+2020,mit Migrationshintergrund,Insgesamt,mit Kindern,0.0
+2020,mit und ohne Migrationshintergrund,Ehepaare,mit Kindern,0.0
+2020,ohne Migrationshintergrund,Ehepaare,mit Kindern,0.0
+2020,mit Migrationshintergrund,Ehepaare,mit Kindern,0.0
+2020,mit und ohne Migrationshintergrund,Lebensgemeinschaften,mit Kindern,0.0
+2020,ohne Migrationshintergrund,Lebensgemeinschaften,mit Kindern,0.0
+2020,mit Migrationshintergrund,Lebensgemeinschaften,mit Kindern,0.0
+2020,mit und ohne Migrationshintergrund,Alleinerziehende,mit Kindern,0.0
+2020,ohne Migrationshintergrund,Alleinerziehende,mit Kindern,0.0
+2020,mit Migrationshintergrund,Alleinerziehende,mit Kindern,0.0
 2021,mit und ohne Migrationshintergrund,Insgesamt,mit Kindern,1106.0
 2021,ohne Migrationshintergrund,Insgesamt,mit Kindern,726.0
 2021,mit Migrationshintergrund,Insgesamt,mit Kindern,380.0
@@ -420,14 +444,26 @@ Year,Migrationsstatus,Lebensform,mit oder ohne ledige Kinder,Value
 2021,ohne Migrationshintergrund,Alleinerziehende,mit Kindern,168.0
 2021,mit Migrationshintergrund,Alleinerziehende,mit Kindern,73.0
 2022,mit und ohne Migrationshintergrund,Insgesamt,mit Kindern,1125.0
-2022,ohne Migrationshintergrund,Insgesamt,mit Kindern,724.0
+2022,ohne Migrationshintergrund,Insgesamt,mit Kindern,723.0
 2022,mit Migrationshintergrund,Insgesamt,mit Kindern,402.0
-2022,mit und ohne Migrationshintergrund,Ehepaare,mit Kindern,775.0
-2022,ohne Migrationshintergrund,Ehepaare,mit Kindern,724.0
-2022,mit Migrationshintergrund,Ehepaare,mit Kindern,288.0
-2022,mit und ohne Migrationshintergrund,Lebensgemeinschaften,mit Kindern,99.0
-2022,ohne Migrationshintergrund,Lebensgemeinschaften,mit Kindern,484.0
+2022,mit und ohne Migrationshintergrund,Ehepaare,mit Kindern,769.0
+2022,ohne Migrationshintergrund,Ehepaare,mit Kindern,483.0
+2022,mit Migrationshintergrund,Ehepaare,mit Kindern,286.0
+2022,mit und ohne Migrationshintergrund,Lebensgemeinschaften,mit Kindern,100.0
+2022,ohne Migrationshintergrund,Lebensgemeinschaften,mit Kindern,68.0
 2022,mit Migrationshintergrund,Lebensgemeinschaften,mit Kindern,32.0
-2022,mit und ohne Migrationshintergrund,Alleinerziehende,mit Kindern,252.0
-2022,ohne Migrationshintergrund,Alleinerziehende,mit Kindern,170.0
-2022,mit Migrationshintergrund,Alleinerziehende,mit Kindern,82.0
+2022,mit und ohne Migrationshintergrund,Alleinerziehende,mit Kindern,256.0
+2022,ohne Migrationshintergrund,Alleinerziehende,mit Kindern,173.0
+2022,mit Migrationshintergrund,Alleinerziehende,mit Kindern,83.0
+2023,mit und ohne Migrationshintergrund,Insgesamt,mit Kindern,1154.0
+2023,ohne Migrationshintergrund,Insgesamt,mit Kindern,729.0
+2023,mit Migrationshintergrund,Insgesamt,mit Kindern,426.0
+2023,mit und ohne Migrationshintergrund,Ehepaare,mit Kindern,767.0
+2023,ohne Migrationshintergrund,Ehepaare,mit Kindern,481.0
+2023,mit Migrationshintergrund,Ehepaare,mit Kindern,286.0
+2023,mit und ohne Migrationshintergrund,Lebensgemeinschaften,mit Kindern,108.0
+2023,ohne Migrationshintergrund,Lebensgemeinschaften,mit Kindern,72.0
+2023,mit Migrationshintergrund,Lebensgemeinschaften,mit Kindern,36.0
+2023,mit und ohne Migrationshintergrund,Alleinerziehende,mit Kindern,279.0
+2023,ohne Migrationshintergrund,Alleinerziehende,mit Kindern,176.0
+2023,mit Migrationshintergrund,Alleinerziehende,mit Kindern,102.0
