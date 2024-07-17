@@ -1540,8 +1540,8 @@
             "constraints": {
               "enum": [
                 "Insgesamt",
-                "Rechtskreis SGB II³⁾",
-                "Rechtskreis SGB III³⁾",
+                "Rechtskreis SGB II3)",
+                "Rechtskreis SGB III3)",
                 ""
               ]
             }
