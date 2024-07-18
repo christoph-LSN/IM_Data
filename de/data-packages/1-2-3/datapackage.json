@@ -78,29 +78,29 @@
             "title": "Gebietseinheit"
           },
           {
-            "name": "Aufenthaltsdauer in Jahren",
+            "name": "Aufenthaltsdauer",
             "type": "string",
             "constraints": {
               "enum": [
-                "10 und mehr",
-                "8 - 10",
-                "6 - 8",
-                "4 - 6",
-                "1 - 4",
                 "unter 1",
+                "1 - 4",
+                "4 - 6",
+                "6 - 8",
+                "8 - 10",
+                "10 und mehr",
                 ""
               ]
             },
-            "title": "Aufenthaltsdauer in Jahren"
+            "title": "Aufenthaltsdauer"
           },
           {
             "name": "Geschlecht",
             "type": "string",
             "constraints": {
               "enum": [
-                "weiblich",
-                "männlich",
                 "Insgesamt",
+                "männlich",
+                "weiblich",
                 ""
               ]
             },
