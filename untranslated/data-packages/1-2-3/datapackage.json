@@ -76,7 +76,7 @@
             }
           },
           {
-            "name": "Aufenthaltsdauer",
+            "name": "Aufenthaltsdauer in Jahren",
             "type": "string",
             "constraints": {
               "enum": [
