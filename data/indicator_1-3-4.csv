@@ -68,7 +68,7 @@
 2021,EU-27  ,Insgesamt,"in 1000",,193     
 2021,Afrika ,Insgesamt,"in 1000",,566     
 2021,Marokko,Insgesamt,"in 1000",,67      
-2021,Amerika ,Insgesamt,"in 1000",(),7
+2021,Amerika ,Insgesamt,"in 1000","Aussagewert eingeschränkt, da der Zahlenwert statistisch relativ unsicher ist.",7
 2021,Asien, Australien und Ozeanien,Insgesamt,"in 1000",,35      
 2021,Afghanistan,Insgesamt,"in 1000",,547     
 2021,Irak,Insgesamt,"in 1000",,35      
@@ -236,7 +236,7 @@
 2023,Ukraine,männlich,"in 1000",,43
 2023,EU-27,männlich,"in 1000",,290
 2023,Afrika,männlich,"in 1000",,50
-2023,Marokko,männlich,"in 1000",/,
+2023,Marokko,männlich,"in 1000","Nicht veröffentlicht, weil nicht ausreichend genau oder nicht repräsentativ.",
 2023,Amerika,männlich,"in 1000",,19
 2023,Asien, Australien und Ozeanien,männlich,"in 1000",,307
 2023,Afghanistan,männlich,"in 1000",,26
@@ -251,7 +251,7 @@
 2022,Europa,männlich,"in 1000",,584
 2022,Bulgarien,männlich,"in 1000",,16
 2022,Italien,männlich,"in 1000",,22
-2022,Kroatien,männlich,"in 1000",/,
+2022,Kroatien,männlich,"in 1000","Nicht veröffentlicht, weil nicht ausreichend genau oder nicht repräsentativ.",
 2022,Polen,männlich,"in 1000",,120
 2022,Rumänien,männlich,"in 1000",,32
 2022,Spanien,männlich,"in 1000",,10
@@ -263,7 +263,7 @@
 2022,Ukraine,männlich,"in 1000",,17
 2022,EU-27,männlich,"in 1000",,290
 2022,Afrika,männlich,"in 1000",,45
-2022,Marokko,männlich,"in 1000",/,
+2022,Marokko,männlich,"in 1000","Nicht veröffentlicht, weil nicht ausreichend genau oder nicht repräsentativ.",
 2022,Amerika,männlich,"in 1000",,19
 2022,Asien, Australien und Ozeanien,männlich,"in 1000",,298
 2022,Afghanistan,männlich,"in 1000",,23
@@ -276,27 +276,27 @@
 2022,Gebiet der ehemaligen Sowjetunion (nachrichtlich),männlich,"in 1000",,224
 2022,Insgesamt  ,männlich,"in 1000",,1019
 2021,Europa ,männlich,"in 1000",,567     
-2021,Bulgarien,männlich,"in 1000",(),12
+2021,Bulgarien,männlich,"in 1000","Aussagewert eingeschränkt, da der Zahlenwert statistisch relativ unsicher ist.",12
 2021,talien ,männlich,"in 1000",,25      
-2021,Kroatien,männlich,"in 1000",/,
+2021,Kroatien,männlich,"in 1000","Nicht veröffentlicht, weil nicht ausreichend genau oder nicht repräsentativ.",
 2021,Polen ,männlich,"in 1000",,118     
 2021,Rumänien ,männlich,"in 1000",,34      
-2021,Spanien,männlich,"in 1000",(),11
+2021,Spanien,männlich,"in 1000","Aussagewert eingeschränkt, da der Zahlenwert statistisch relativ unsicher ist.",11
 2021,Sonstiges Europa ,männlich,"in 1000",,277     
 2021,Kosovo,männlich,"in 1000",,28      
 2021,Russische Föderation ,männlich,"in 1000",,85      
-2021,Serbien,männlich,"in 1000",(),10
+2021,Serbien,männlich,"in 1000","Aussagewert eingeschränkt, da der Zahlenwert statistisch relativ unsicher ist.",10
 2021,Türkei ,männlich,"in 1000",,95      
 2021,EU-27  ,männlich,"in 1000",,291     
 2021,Afrika ,männlich,"in 1000",,39      
-2021,Marokko,männlich,"in 1000",/,
+2021,Marokko,männlich,"in 1000","Nicht veröffentlicht, weil nicht ausreichend genau oder nicht repräsentativ.",
 2021,Amerika ,männlich,"in 1000",,17      
 2021,Asien, Australien und Ozeanien,männlich,"in 1000",,284     
 2021,Afghanistan,männlich,"in 1000",,21      
 2021,Irak,männlich,"in 1000",,29      
 2021,Kasachstan,männlich,"in 1000",,84      
 2021,Syrien,männlich,"in 1000",,67      
-2021,Vietnam,männlich,"in 1000",(),10
+2021,Vietnam,männlich,"in 1000","Aussagewert eingeschränkt, da der Zahlenwert statistisch relativ unsicher ist.",10
 2021,Ohne Angabe, unbestimmt ,männlich,"in 1000",,81      
 2021,Gebiet des ehemaligen Jugoslawien  (nachrichtlich),männlich,"in 1000",,64      
 2021,Gebiet der ehemaligen Sowjetunion  (nachrichtlich),männlich,"in 1000",,217     
@@ -446,7 +446,7 @@
 2023,Europa,weiblich,"in 1000",,614
 2023,Bulgarien,weiblich,"in 1000",,16
 2023,Italien,weiblich,"in 1000",,18
-2023,Kroatien,weiblich,"in 1000",/,
+2023,Kroatien,weiblich,"in 1000","Nicht veröffentlicht, weil nicht ausreichend genau oder nicht repräsentativ.",
 2023,Polen,weiblich,"in 1000",,135
 2023,Rumänien,weiblich,"in 1000",,25
 2023,Spanien,weiblich,"in 1000",,9
@@ -458,7 +458,7 @@
 2023,Ukraine,weiblich,"in 1000",,69
 2023,EU-27,weiblich,"in 1000",,286
 2023,Afrika,weiblich,"in 1000",,39
-2023,Marokko,weiblich,"in 1000",/,
+2023,Marokko,weiblich,"in 1000","Nicht veröffentlicht, weil nicht ausreichend genau oder nicht repräsentativ.",
 2023,Amerika,weiblich,"in 1000",,24
 2023,Asien, Australien und Ozeanien,weiblich,"in 1000",,291
 2023,Afghanistan,weiblich,"in 1000",,18
@@ -473,7 +473,7 @@
 2022,Europa,weiblich,"in 1000",,581
 2022,Bulgarien,weiblich,"in 1000",,15
 2022,Italien,weiblich,"in 1000",,18
-2022,Kroatien,weiblich,"in 1000",/,
+2022,Kroatien,weiblich,"in 1000","Nicht veröffentlicht, weil nicht ausreichend genau oder nicht repräsentativ.",
 2022,Polen,weiblich,"in 1000",,127
 2022,Rumänien,weiblich,"in 1000",,27
 2022,Spanien,weiblich,"in 1000",,7
@@ -485,7 +485,7 @@
 2022,Ukraine,weiblich,"in 1000",,29
 2022,EU-27,weiblich,"in 1000",,281
 2022,Afrika,weiblich,"in 1000",,36
-2022,Marokko,weiblich,"in 1000",/,
+2022,Marokko,weiblich,"in 1000","Nicht veröffentlicht, weil nicht ausreichend genau oder nicht repräsentativ.",
 2022,Amerika,weiblich,"in 1000",,21
 2022,Asien, Australien und Ozeanien,weiblich,"in 1000",,283
 2022,Afghanistan,weiblich,"in 1000",,16
@@ -498,27 +498,27 @@
 2022,Gebiet der ehemaligen Sowjetunion (nachrichtlich),weiblich,"in 1000",,254
 2022,Insgesamt  ,weiblich,"in 1000",,993
 2021,Europa ,weiblich,"in 1000",,558     
-2021,Bulgarien,weiblich,"in 1000",(),13
+2021,Bulgarien,weiblich,"in 1000","Aussagewert eingeschränkt, da der Zahlenwert statistisch relativ unsicher ist.",13
 2021,talien ,weiblich,"in 1000",,20      
-2021,Kroatien,weiblich,"in 1000",(),7
+2021,Kroatien,weiblich,"in 1000","Aussagewert eingeschränkt, da der Zahlenwert statistisch relativ unsicher ist.",7
 2021,Polen ,weiblich,"in 1000",,123     
 2021,Rumänien ,weiblich,"in 1000",,30      
-2021,Spanien,weiblich,"in 1000",(),8
+2021,Spanien,weiblich,"in 1000","Aussagewert eingeschränkt, da der Zahlenwert statistisch relativ unsicher ist.",8
 2021,Sonstiges Europa ,weiblich,"in 1000",,283     
 2021,Kosovo,weiblich,"in 1000",,24      
 2021,Russische Föderation ,weiblich,"in 1000",,98      
-2021,Serbien,weiblich,"in 1000",(),9
+2021,Serbien,weiblich,"in 1000","Aussagewert eingeschränkt, da der Zahlenwert statistisch relativ unsicher ist.",9
 2021,Türkei ,weiblich,"in 1000",,98      
 2021,EU-27  ,weiblich,"in 1000",,275     
 2021,Afrika ,weiblich,"in 1000",,28      
-2021,Marokko,weiblich,"in 1000",/,
+2021,Marokko,weiblich,"in 1000","Nicht veröffentlicht, weil nicht ausreichend genau oder nicht repräsentativ.",
 2021,Amerika ,weiblich,"in 1000",,18      
 2021,Asien, Australien und Ozeanien,weiblich,"in 1000",,263     
 2021,Afghanistan,weiblich,"in 1000",,15      
 2021,Irak,weiblich,"in 1000",,26      
 2021,Kasachstan,weiblich,"in 1000",,87      
 2021,Syrien,weiblich,"in 1000",,49      
-2021,Vietnam,weiblich,"in 1000",(),11
+2021,Vietnam,weiblich,"in 1000","Aussagewert eingeschränkt, da der Zahlenwert statistisch relativ unsicher ist.",11
 2021,Ohne Angabe, unbestimmt ,weiblich,"in 1000",,71      
 2021,Gebiet des ehemaligen Jugoslawien  (nachrichtlich),weiblich,"in 1000",,57      
 2021,Gebiet der ehemaligen Sowjetunion  (nachrichtlich),weiblich,"in 1000",,236     
@@ -573,7 +573,7 @@
 2018,Ukraine,weiblich,"in 1000",,17
 2018,EU-Staaten,weiblich,"in 1000",,268
 2018,Afrika,weiblich,"in 1000",,16
-2018,Ägypten, Algerien, Libyen, Tunesien,weiblich,"in 1000",/,
+2018,Ägypten, Algerien, Libyen, Tunesien,weiblich,"in 1000","Nicht veröffentlicht, weil nicht ausreichend genau oder nicht repräsentativ.",
 2018,Amerika,weiblich,"in 1000",,20
 2018,Asien, Australien und Ozeanien,weiblich,"in 1000",,223
 2018,Irak,weiblich,"in 1000",,11
@@ -653,7 +653,7 @@
 2014,Spanien,weiblich,"in 1000",,5,9
 2014,Vereinigtes Königreich,weiblich,"in 1000",,5
 2014,Kroatien,weiblich,"in 1000",,5,2
-2014,Österreich,weiblich,"in 1000",/,
+2014,Österreich,weiblich,"in 1000","Nicht veröffentlicht, weil nicht ausreichend genau oder nicht repräsentativ.",
 2014,EU-Staaten,weiblich,"in 1000",,182
 2014,Afrika,weiblich,"in 1000",,12
 2014,Amerika,weiblich,"in 1000",,13
@@ -662,6 +662,6 @@
 2014,Vietnam,weiblich,"in 1000",,9,8
 2014,Libanon,weiblich,"in 1000",,8,7
 2014,Iran,weiblich,"in 1000",,6,7
-2014,Syrien,weiblich,"in 1000",/,
+2014,Syrien,weiblich,"in 1000","Nicht veröffentlicht, weil nicht ausreichend genau oder nicht repräsentativ.",
 2014,Ohne Angabe,weiblich,"in 1000",,64
 2014,Insgesamt,weiblich,"in 1000",,674
