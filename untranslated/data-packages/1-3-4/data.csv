@@ -1,8 +1,667 @@
 Year,Herkunftsland,Geschlecht,Units,COMMENT_OBS,Value
-2022,Europa,Insgesamt,in 1000,"Aussagewert eingeschränkt, da der Zahlenwert statistisch relativ unsicher ist.",1165.0
-2021,Europa,Insgesamt,in 1000,"Nicht veröffentlicht, weil nicht ausreichend genau oder nicht repräsentativ.",
-2020,Europa,Insgesamt,in 1000,"Aussagewert eingeschränkt, da der Zahlenwert statistisch relativ unsicher ist.",1432.0
-2019,Europa,Insgesamt,in 1000,"Aussagewert eingeschränkt, da der Zahlenwert statistisch relativ unsicher ist.",1111.0
-2018,Europa,Insgesamt,in 1000,"Nicht veröffentlicht, weil nicht ausreichend genau oder nicht repräsentativ.",
-2017,Europa,Insgesamt,in 1000,"Aussagewert eingeschränkt, da der Zahlenwert statistisch relativ unsicher ist.",2222.0
-2016,Europa,Insgesamt,in 1000,,1999.0
+2023,Europa,Insgesamt,in 1000,,3.0
+2023,Bulgarien,Insgesamt,in 1000,,1206.0
+2023,Italien,Insgesamt,in 1000,,32.0
+2023,Kroatien,Insgesamt,in 1000,,41.0
+2023,Polen,Insgesamt,in 1000,,14.0
+2023,Rumänien,Insgesamt,in 1000,,257.0
+2023,Spanien,Insgesamt,in 1000,,51.0
+2023,Sonstiges Europa,Insgesamt,in 1000,,19.0
+2023,Kosovo,Insgesamt,in 1000,,630.0
+2023,Russische Förderation,Insgesamt,in 1000,,39.0
+2023,Serbien,Insgesamt,in 1000,,165.0
+2023,Türkei,Insgesamt,in 1000,,23.0
+2023,Ukraine,Insgesamt,in 1000,,194.0
+2023,EU-27,Insgesamt,in 1000,,112.0
+2023,Afrika,Insgesamt,in 1000,,576.0
+2023,Marokko,Insgesamt,in 1000,,89.0
+2023,Amerika,Insgesamt,in 1000,,9.0
+2023,"Asien, Australien und Ozeanien",Insgesamt,in 1000,,43.0
+2023,Afghanistan,Insgesamt,in 1000,,598.0
+2023,Irak,Insgesamt,in 1000,,43.0
+2023,Kasachstan,Insgesamt,in 1000,,60.0
+2023,Syrien,Insgesamt,in 1000,,171.0
+2023,Vietnam,Insgesamt,in 1000,,134.0
+2023,"Ohne Angaben, unbestimmt",Insgesamt,in 1000,,16.0
+2023,Gebiet des ehemaligen Jugoslawien (nachrichtlich),Insgesamt,in 1000,,138.0
+2023,Gebiet der ehemaligen Sowjetunion (nachrichtlich),Insgesamt,in 1000,,112.0
+2023,Insgesamt  ,Insgesamt,in 1000,,533.0
+2022,Europa,Insgesamt,in 1000,,2074.0
+2022,Bulgarien,Insgesamt,in 1000,,1165.0
+2022,Italien,Insgesamt,in 1000,,32.0
+2022,Kroatien,Insgesamt,in 1000,,40.0
+2022,Polen,Insgesamt,in 1000,,13.0
+2022,Rumänien,Insgesamt,in 1000,,246.0
+2022,Spanien,Insgesamt,in 1000,,59.0
+2022,Sonstiges Europa,Insgesamt,in 1000,,17.0
+2022,Kosovo,Insgesamt,in 1000,,593.0
+2022,Russische Förderation,Insgesamt,in 1000,,49.0
+2022,Serbien,Insgesamt,in 1000,,180.0
+2022,Türkei,Insgesamt,in 1000,,31.0
+2022,Ukraine,Insgesamt,in 1000,,197.0
+2022,EU-27,Insgesamt,in 1000,,46.0
+2022,Afrika,Insgesamt,in 1000,,571.0
+2022,Marokko,Insgesamt,in 1000,,81.0
+2022,Amerika,Insgesamt,in 1000,,7.0
+2022,"Asien, Australien und Ozeanien",Insgesamt,in 1000,,40.0
+2022,Afghanistan,Insgesamt,in 1000,,581.0
+2022,Irak,Insgesamt,in 1000,,39.0
+2022,Kasachstan,Insgesamt,in 1000,,57.0
+2022,Syrien,Insgesamt,in 1000,,176.0
+2022,Vietnam,Insgesamt,in 1000,,132.0
+2022,"Ohne Angaben, unbestimmt",Insgesamt,in 1000,,20.0
+2022,Gebiet des ehemaligen Jugoslawien (nachrichtlich),Insgesamt,in 1000,,145.0
+2022,Gebiet der ehemaligen Sowjetunion (nachrichtlich),Insgesamt,in 1000,,128.0
+2022,Insgesamt  ,Insgesamt,in 1000,,478.0
+2021,Europa ,Insgesamt,in 1000,,2012.0
+2021,Bulgarien,Insgesamt,in 1000,,1126.0
+2021,talien ,Insgesamt,in 1000,,25.0
+2021,Kroatien,Insgesamt,in 1000,,45.0
+2021,Polen ,Insgesamt,in 1000,,13.0
+2021,Rumänien ,Insgesamt,in 1000,,242.0
+2021,Spanien,Insgesamt,in 1000,,64.0
+2021,Sonstiges Europa ,Insgesamt,in 1000,,19.0
+2021,Kosovo,Insgesamt,in 1000,,560.0
+2021,Russische Föderation ,Insgesamt,in 1000,,52.0
+2021,Serbien,Insgesamt,in 1000,,183.0
+2021,Türkei ,Insgesamt,in 1000,,19.0
+2021,EU-27  ,Insgesamt,in 1000,,193.0
+2021,Afrika ,Insgesamt,in 1000,,566.0
+2021,Marokko,Insgesamt,in 1000,,67.0
+2021,Amerika ,Insgesamt,in 1000,"Aussagewert eingeschränkt, da der Zahlenwert statistisch relativ unsicher ist.",7.0
+2021,"Asien, Australien und Ozeanien",Insgesamt,in 1000,,35.0
+2021,Afghanistan,Insgesamt,in 1000,,547.0
+2021,Irak,Insgesamt,in 1000,,35.0
+2021,Kasachstan,Insgesamt,in 1000,,55.0
+2021,Syrien,Insgesamt,in 1000,,171.0
+2021,Vietnam,Insgesamt,in 1000,,116.0
+2021,"Ohne Angabe, unbestimmt ",Insgesamt,in 1000,,21.0
+2021,Gebiet des ehemaligen Jugoslawien  (nachrichtlich),Insgesamt,in 1000,,152.0
+2021,Gebiet der ehemaligen Sowjetunion  (nachrichtlich),Insgesamt,in 1000,,120.0
+2021,Insgesamt,Insgesamt,in 1000,,452.0
+2019,Europa ,Insgesamt,in 1000,,1926.0
+2019,Bulgarien ,Insgesamt,in 1000,,1069.568
+2019,Frankreich ,Insgesamt,in 1000,,23.99
+2019,Griechenland ,Insgesamt,in 1000,,7.889
+2019,Italien ,Insgesamt,in 1000,,24.66
+2019,Kroatien ,Insgesamt,in 1000,,37.345
+2019,Niederlande ,Insgesamt,in 1000,,16.246
+2019,Österreich ,Insgesamt,in 1000,,41.393
+2019,Polen ,Insgesamt,in 1000,,13.145
+2019,Portugal ,Insgesamt,in 1000,,245.253
+2019,Rumänien ,Insgesamt,in 1000,,6.647
+2019,Spanien ,Insgesamt,in 1000,,44.097
+2019,Vereinigtes Königreich ,Insgesamt,in 1000,,17.314
+2019,Sonstiges Europa ,Insgesamt,in 1000,,19.812
+2019,Bosnien und Herzegowina ,Insgesamt,in 1000,,522.297
+2019,Kosovo ,Insgesamt,in 1000,,16.424
+2019,Russische Föderation ,Insgesamt,in 1000,,44.127
+2019,Serbien ,Insgesamt,in 1000,,179.209
+2019,Türkei ,Insgesamt,in 1000,,20.809
+2019,Ukraine ,Insgesamt,in 1000,,186.631
+2019,EU-Staaten,Insgesamt,in 1000,,27.589
+2019,Afrika ,Insgesamt,in 1000,,547.271
+2019,Marokko ,Insgesamt,in 1000,,54.087
+2019,"Ägypten, Algerien, Libyen, Tunesien ",Insgesamt,in 1000,,6.678
+2019,Amerika ,Insgesamt,in 1000,,13.024
+2019,"Asien, Australien und Ozeanien ",Insgesamt,in 1000,,35.924
+2019,Irak ,Insgesamt,in 1000,,468.1
+2019,Iran ,Insgesamt,in 1000,,38.106
+2019,Kasachstan ,Insgesamt,in 1000,,20.597
+2019,Syrien ,Insgesamt,in 1000,,152.543
+2019,Afghanistan ,Insgesamt,in 1000,,94.406
+2019,Vietnam ,Insgesamt,in 1000,,25.153
+2019,Ohne Angabe,Insgesamt,in 1000,,18.516
+2019,Insgesamt,Insgesamt,in 1000,,50.156
+2018,Europa,Insgesamt,in 1000,,1750.792
+2018,Bulgarien,Insgesamt,in 1000,,1062.0
+2018,Griechenland,Insgesamt,in 1000,,20.0
+2018,Italien,Insgesamt,in 1000,,23.0
+2018,Niederlande,Insgesamt,in 1000,,39.0
+2018,Polen,Insgesamt,in 1000,,48.0
+2018,Rumänien,Insgesamt,in 1000,,255.0
+2018,Spanien,Insgesamt,in 1000,,41.0
+2018,Vereinigtes Königreich,Insgesamt,in 1000,,18.0
+2018,Kosovo,Insgesamt,in 1000,,17.0
+2018,Russische Föderation,Insgesamt,in 1000,,41.0
+2018,Serbien,Insgesamt,in 1000,,178.0
+2018,Türkei,Insgesamt,in 1000,,19.0
+2018,Ukraine,Insgesamt,in 1000,,182.0
+2018,EU-Staaten,Insgesamt,in 1000,,29.0
+2018,Afrika,Insgesamt,in 1000,,560.0
+2018,"Ägypten, Algerien, Libyen, Tunesien",Insgesamt,in 1000,,49.0
+2018,Amerika,Insgesamt,in 1000,,14.0
+2018,"Asien, Australien und Ozeanien",Insgesamt,in 1000,,35.0
+2018,Irak,Insgesamt,in 1000,,471.0
+2018,Iran,Insgesamt,in 1000,,31.0
+2018,Kasachstan,Insgesamt,in 1000,,20.0
+2018,Syrien,Insgesamt,in 1000,,163.0
+2018,Afghanistan,Insgesamt,in 1000,,99.0
+2018,Vietnam,Insgesamt,in 1000,,21.0
+2018,Ohne Angabe,Insgesamt,in 1000,,22.0
+2018,Insgesamt,Insgesamt,in 1000,,39.0
+2017,Europa,Insgesamt,in 1000,,1726.0
+2017,Bulgarien,Insgesamt,in 1000,,1063.6
+2017,Griechenland,Insgesamt,in 1000,,18.7
+2017,Italien,Insgesamt,in 1000,,20.8
+2017,Niederlande,Insgesamt,in 1000,,35.2
+2017,Polen,Insgesamt,in 1000,,41.6
+2017,Rumänien,Insgesamt,in 1000,,245.1
+2017,Spanien,Insgesamt,in 1000,,38.2
+2017,Vereinigtes Königreich,Insgesamt,in 1000,,16.3
+2017,Kosovo,Insgesamt,in 1000,,16.2
+2017,Russische Föderation,Insgesamt,in 1000,,39.3
+2017,Serbien,Insgesamt,in 1000,,203.0
+2017,Türkei,Insgesamt,in 1000,,23.6
+2017,Ukraine,Insgesamt,in 1000,,186.8
+2017,EU-Staaten,Insgesamt,in 1000,,27.3
+2017,Afrika,Insgesamt,in 1000,,525.8
+2017,"Ägypten, Algerien, Libyen, Tunesien",Insgesamt,in 1000,,50.2
+2017,Amerika,Insgesamt,in 1000,,13.8
+2017,"Asien, Australien und Ozeanien",Insgesamt,in 1000,,31.4
+2017,Irak,Insgesamt,in 1000,,446.1
+2017,Iran,Insgesamt,in 1000,,33.5
+2017,Kasachstan,Insgesamt,in 1000,,18.4
+2017,Syrien,Insgesamt,in 1000,,159.9
+2017,Afghanistan,Insgesamt,in 1000,,85.3
+2017,Vietnam,Insgesamt,in 1000,,18.9
+2017,Ohne Angabe,Insgesamt,in 1000,,17.8
+2017,Insgesamt,Insgesamt,in 1000,,64.7
+2015,Europa,Insgesamt,in 1000,,1656.0
+2015,Türkei,Insgesamt,in 1000,,883.3
+2015,Polen,Insgesamt,in 1000,,192.9
+2015,Russische Föderation,Insgesamt,in 1000,,163.1
+2015,Niederlande,Insgesamt,in 1000,,153.0
+2015,Italien,Insgesamt,in 1000,,45.8
+2015,Rumänien,Insgesamt,in 1000,,34.1
+2015,Sowjetunion,Insgesamt,in 1000,,24.9
+2015,Griechenland,Insgesamt,in 1000,,24.6
+2015,Serbien,Insgesamt,in 1000,,20.7
+2015,Kosovo,Insgesamt,in 1000,,20.6
+2015,Ukraine,Insgesamt,in 1000,,19.4
+2015,Spanien,Insgesamt,in 1000,,19.0
+2015,Bulgarien,Insgesamt,in 1000,,15.2
+2015,Österreich,Insgesamt,in 1000,,14.7
+2015,EU-Staaten,Insgesamt,in 1000,,13.1
+2015,Afrika,Insgesamt,in 1000,,398.6
+2015,Amerika,Insgesamt,in 1000,,28.7
+2015,"Asien, Australien und Ozeanien",Insgesamt,in 1000,,23.5
+2015,Kasachstan,Insgesamt,in 1000,,310.3
+2015,Syrien,Insgesamt,in 1000,,138.4
+2015,Libanon,Insgesamt,in 1000,,23.2
+2015,Vietnam,Insgesamt,in 1000,,19.3
+2015,Iran,Insgesamt,in 1000,,17.6
+2015,Irak,Insgesamt,in 1000,,15.7
+2015,Ohne Angabe,Insgesamt,in 1000,,14.6
+2015,Insgesamt,Insgesamt,in 1000,,154.4
+2014,Europa,Insgesamt,in 1000,,1400.2
+2014,Türkei,Insgesamt,in 1000,,896.0
+2014,Russische Föderation,Insgesamt,in 1000,,193.0
+2014,Polen,Insgesamt,in 1000,,176.4
+2014,Niederlande,Insgesamt,in 1000,,165.3
+2014,Italien,Insgesamt,in 1000,,47.8
+2014,Sowjetunion,Insgesamt,in 1000,,32.8
+2014,Ukraine,Insgesamt,in 1000,,29.5
+2014,Serbien,Insgesamt,in 1000,,25.8
+2014,Rumänien,Insgesamt,in 1000,,22.5
+2014,Kosovo,Insgesamt,in 1000,,21.5
+2014,Griechenland,Insgesamt,in 1000,,19.7
+2014,Spanien,Insgesamt,in 1000,,18.4
+2014,Vereinigtes Königreich,Insgesamt,in 1000,,15.3
+2014,Kroatien,Insgesamt,in 1000,,13.9
+2014,Österreich,Insgesamt,in 1000,,11.9
+2014,EU-Staaten,Insgesamt,in 1000,,11.1
+2014,Afrika,Insgesamt,in 1000,,389.0
+2014,Amerika,Insgesamt,in 1000,,33.0
+2014,"Asien, Australien und Ozeanien",Insgesamt,in 1000,,22.0
+2014,Kasachstan,Insgesamt,in 1000,,278.0
+2014,Vietnam,Insgesamt,in 1000,,129.2
+2014,Libanon,Insgesamt,in 1000,,17.8
+2014,Iran,Insgesamt,in 1000,,17.8
+2014,Syrien,Insgesamt,in 1000,,13.3
+2014,Ohne Angabe,Insgesamt,in 1000,,10.7
+2014,Insgesamt,Insgesamt,in 1000,,126.0
+2023,Europa,männlich,in 1000,,592.0
+2023,Bulgarien,männlich,in 1000,,17.0
+2023,Italien,männlich,in 1000,,23.0
+2023,Kroatien,männlich,in 1000,,8.0
+2023,Polen,männlich,in 1000,,122.0
+2023,Rumänien,männlich,in 1000,,27.0
+2023,Spanien,männlich,in 1000,,10.0
+2023,Sonstiges Europa,männlich,in 1000,,302.0
+2023,Kosovo,männlich,in 1000,,21.0
+2023,Russische Förderation,männlich,in 1000,,74.0
+2023,Serbien,männlich,in 1000,,12.0
+2023,Türkei,männlich,in 1000,,101.0
+2023,Ukraine,männlich,in 1000,,43.0
+2023,EU-27,männlich,in 1000,,290.0
+2023,Afrika,männlich,in 1000,,50.0
+2023,Marokko,männlich,in 1000,"Nicht veröffentlicht, weil nicht ausreichend genau oder nicht repräsentativ.",
+2023,Amerika,männlich,in 1000,,19.0
+2023,"Asien, Australien und Ozeanien",männlich,in 1000,,307.0
+2023,Afghanistan,männlich,in 1000,,26.0
+2023,Irak,männlich,in 1000,,33.0
+2023,Kasachstan,männlich,in 1000,,82.0
+2023,Syrien,männlich,in 1000,,75.0
+2023,Vietnam,männlich,in 1000,,7.0
+2023,"Ohne Angaben, unbestimmt",männlich,in 1000,,73.0
+2023,Gebiet des ehemaligen Jugoslawien (nachrichtlich),männlich,in 1000,,60.0
+2023,Gebiet der ehemaligen Sowjetunion (nachrichtlich),männlich,in 1000,,241.0
+2023,Insgesamt  ,männlich,in 1000,,1041.0
+2022,Europa,männlich,in 1000,,584.0
+2022,Bulgarien,männlich,in 1000,,16.0
+2022,Italien,männlich,in 1000,,22.0
+2022,Kroatien,männlich,in 1000,"Nicht veröffentlicht, weil nicht ausreichend genau oder nicht repräsentativ.",
+2022,Polen,männlich,in 1000,,120.0
+2022,Rumänien,männlich,in 1000,,32.0
+2022,Spanien,männlich,in 1000,,10.0
+2022,Sonstiges Europa,männlich,in 1000,,294.0
+2022,Kosovo,männlich,in 1000,,26.0
+2022,Russische Förderation,männlich,in 1000,,83.0
+2022,Serbien,männlich,in 1000,,16.0
+2022,Türkei,männlich,in 1000,,103.0
+2022,Ukraine,männlich,in 1000,,17.0
+2022,EU-27,männlich,in 1000,,290.0
+2022,Afrika,männlich,in 1000,,45.0
+2022,Marokko,männlich,in 1000,"Nicht veröffentlicht, weil nicht ausreichend genau oder nicht repräsentativ.",
+2022,Amerika,männlich,in 1000,,19.0
+2022,"Asien, Australien und Ozeanien",männlich,in 1000,,298.0
+2022,Afghanistan,männlich,in 1000,,23.0
+2022,Irak,männlich,in 1000,,30.0
+2022,Kasachstan,männlich,in 1000,,87.0
+2022,Syrien,männlich,in 1000,,73.0
+2022,Vietnam,männlich,in 1000,,9.0
+2022,"Ohne Angaben, unbestimmt",männlich,in 1000,,73.0
+2022,Gebiet des ehemaligen Jugoslawien (nachrichtlich),männlich,in 1000,,68.0
+2022,Gebiet der ehemaligen Sowjetunion (nachrichtlich),männlich,in 1000,,224.0
+2022,Insgesamt  ,männlich,in 1000,,1019.0
+2021,Europa ,männlich,in 1000,,567.0
+2021,Bulgarien,männlich,in 1000,"Aussagewert eingeschränkt, da der Zahlenwert statistisch relativ unsicher ist.",12.0
+2021,talien ,männlich,in 1000,,25.0
+2021,Kroatien,männlich,in 1000,"Nicht veröffentlicht, weil nicht ausreichend genau oder nicht repräsentativ.",
+2021,Polen ,männlich,in 1000,,118.0
+2021,Rumänien ,männlich,in 1000,,34.0
+2021,Spanien,männlich,in 1000,"Aussagewert eingeschränkt, da der Zahlenwert statistisch relativ unsicher ist.",11.0
+2021,Sonstiges Europa ,männlich,in 1000,,277.0
+2021,Kosovo,männlich,in 1000,,28.0
+2021,Russische Föderation ,männlich,in 1000,,85.0
+2021,Serbien,männlich,in 1000,"Aussagewert eingeschränkt, da der Zahlenwert statistisch relativ unsicher ist.",10.0
+2021,Türkei ,männlich,in 1000,,95.0
+2021,EU-27  ,männlich,in 1000,,291.0
+2021,Afrika ,männlich,in 1000,,39.0
+2021,Marokko,männlich,in 1000,"Nicht veröffentlicht, weil nicht ausreichend genau oder nicht repräsentativ.",
+2021,Amerika ,männlich,in 1000,,17.0
+2021,"Asien, Australien und Ozeanien",männlich,in 1000,,284.0
+2021,Afghanistan,männlich,in 1000,,21.0
+2021,Irak,männlich,in 1000,,29.0
+2021,Kasachstan,männlich,in 1000,,84.0
+2021,Syrien,männlich,in 1000,,67.0
+2021,Vietnam,männlich,in 1000,"Aussagewert eingeschränkt, da der Zahlenwert statistisch relativ unsicher ist.",10.0
+2021,"Ohne Angabe, unbestimmt ",männlich,in 1000,,81.0
+2021,Gebiet des ehemaligen Jugoslawien  (nachrichtlich),männlich,in 1000,,64.0
+2021,Gebiet der ehemaligen Sowjetunion  (nachrichtlich),männlich,in 1000,,217.0
+2021,Insgesamt,männlich,in 1000,,988.0
+2019,Europa ,männlich,in 1000,,540.302
+2019,Bulgarien ,männlich,in 1000,,12.865
+2019,Frankreich ,männlich,in 1000,,4.088
+2019,Griechenland ,männlich,in 1000,,14.11
+2019,Italien ,männlich,in 1000,,22.067
+2019,Kroatien ,männlich,in 1000,,8.937
+2019,Niederlande ,männlich,in 1000,,25.547
+2019,Österreich ,männlich,in 1000,,6.445
+2019,Polen ,männlich,in 1000,,120.11
+2019,Portugal ,männlich,in 1000,,3.766
+2019,Rumänien ,männlich,in 1000,,23.337
+2019,Spanien ,männlich,in 1000,,10.167
+2019,Vereinigtes Königreich ,männlich,in 1000,,12.516
+2019,Sonstiges Europa ,männlich,in 1000,,253.935
+2019,Bosnien und Herzegowina ,männlich,in 1000,,7.748
+2019,Kosovo ,männlich,in 1000,,22.157
+2019,Russische Föderation ,männlich,in 1000,,83.476
+2019,Serbien ,männlich,in 1000,,10.463
+2019,Türkei ,männlich,in 1000,,94.712
+2019,Ukraine ,männlich,in 1000,,12.117
+2019,EU-Staaten,männlich,in 1000,,286.367
+2019,Afrika ,männlich,in 1000,,34.247
+2019,Marokko ,männlich,in 1000,,3.834
+2019,"Ägypten, Algerien, Libyen, Tunesien ",männlich,in 1000,,9.355
+2019,Amerika ,männlich,in 1000,,17.595
+2019,"Asien, Australien und Ozeanien ",männlich,in 1000,,246.272
+2019,Irak ,männlich,in 1000,,20.61
+2019,Iran ,männlich,in 1000,,12.776
+2019,Kasachstan ,männlich,in 1000,,75.487
+2019,Syrien ,männlich,in 1000,,55.947
+2019,Afghanistan ,männlich,in 1000,,14.985
+2019,Vietnam ,männlich,in 1000,,9.132
+2019,Ohne Angabe,männlich,in 1000,,25.944
+2019,Insgesamt,männlich,in 1000,,901.277
+2018,Europa,männlich,in 1000,,537.0
+2018,Bulgarien,männlich,in 1000,,11.0
+2018,Griechenland,männlich,in 1000,,12.0
+2018,Italien,männlich,in 1000,,23.0
+2018,Niederlande,männlich,in 1000,,29.0
+2018,Polen,männlich,in 1000,,125.0
+2018,Rumänien,männlich,in 1000,,22.0
+2018,Spanien,männlich,in 1000,,9.0
+2018,Vereinigtes Königreich,männlich,in 1000,,11.0
+2018,Kosovo,männlich,in 1000,,22.0
+2018,Russische Föderation,männlich,in 1000,,85.0
+2018,Serbien,männlich,in 1000,,10.0
+2018,Türkei,männlich,in 1000,,92.0
+2018,Ukraine,männlich,in 1000,,12.0
+2018,EU-Staaten,männlich,in 1000,,291.0
+2018,Afrika,männlich,in 1000,,33.0
+2018,"Ägypten, Algerien, Libyen, Tunesien",männlich,in 1000,,9.0
+2018,Amerika,männlich,in 1000,,15.0
+2018,"Asien, Australien und Ozeanien",männlich,in 1000,,249.0
+2018,Irak,männlich,in 1000,,20.0
+2018,Iran,männlich,in 1000,,12.0
+2018,Kasachstan,männlich,in 1000,,81.0
+2018,Syrien,männlich,in 1000,,58.0
+2018,Afghanistan,männlich,in 1000,,12.0
+2018,Vietnam,männlich,in 1000,,11.0
+2018,Ohne Angabe,männlich,in 1000,,21.0
+2018,Insgesamt,männlich,in 1000,,890.0
+2017,Europa,männlich,in 1000,,547.0
+2017,Bulgarien,männlich,in 1000,,10.2
+2017,Griechenland,männlich,in 1000,,11.7
+2017,Italien,männlich,in 1000,,22.4
+2017,Niederlande,männlich,in 1000,,26.1
+2017,Polen,männlich,in 1000,,119.0
+2017,Rumänien,männlich,in 1000,,20.5
+2017,Spanien,männlich,in 1000,,8.2
+2017,Vereinigtes Königreich,männlich,in 1000,,11.7
+2017,Kosovo,männlich,in 1000,,21.3
+2017,Russische Föderation,männlich,in 1000,,95.9
+2017,Serbien,männlich,in 1000,,13.5
+2017,Türkei,männlich,in 1000,,96.3
+2017,Ukraine,männlich,in 1000,,11.7
+2017,EU-Staaten,männlich,in 1000,,278.5
+2017,Afrika,männlich,in 1000,,33.8
+2017,"Ägypten, Algerien, Libyen, Tunesien",männlich,in 1000,,8.1
+2017,Amerika,männlich,in 1000,,12.8
+2017,"Asien, Australien und Ozeanien",männlich,in 1000,,238.4
+2017,Irak,männlich,in 1000,,20.2
+2017,Iran,männlich,in 1000,,10.2
+2017,Kasachstan,männlich,in 1000,,81.9
+2017,Syrien,männlich,in 1000,,50.0
+2017,Afghanistan,männlich,in 1000,,12.3
+2017,Vietnam,männlich,in 1000,,8.5
+2017,Ohne Angabe,männlich,in 1000,,32.9
+2017,Insgesamt,männlich,in 1000,,864.9
+2015,Europa,männlich,in 1000,,450.0
+2015,Türkei,männlich,in 1000,,99.1
+2015,Polen,männlich,in 1000,,80.0
+2015,Russische Föderation,männlich,in 1000,,73.4
+2015,Niederlande,männlich,in 1000,,26.3
+2015,Italien,männlich,in 1000,,20.9
+2015,Rumänien,männlich,in 1000,,12.4
+2015,Sowjetunion,männlich,in 1000,,12.6
+2015,Griechenland,männlich,in 1000,,11.7
+2015,Serbien,männlich,in 1000,,10.5
+2015,Kosovo,männlich,in 1000,,10.4
+2015,Ukraine,männlich,in 1000,,8.2
+2015,Spanien,männlich,in 1000,,8.2
+2015,Bulgarien,männlich,in 1000,,6.7
+2015,Österreich,männlich,in 1000,,8.1
+2015,EU-Staaten,männlich,in 1000,,208.7
+2015,Afrika,männlich,in 1000,,17.5
+2015,Amerika,männlich,in 1000,,10.8
+2015,"Asien, Australien und Ozeanien",männlich,in 1000,,152.6
+2015,Kasachstan,männlich,in 1000,,65.4
+2015,Syrien,männlich,in 1000,,12.9
+2015,Libanon,männlich,in 1000,,9.4
+2015,Vietnam,männlich,in 1000,,9.1
+2015,Iran,männlich,in 1000,,8.7
+2015,Irak,männlich,in 1000,,9.3
+2015,Ohne Angabe,männlich,in 1000,,81.3
+2015,Insgesamt,männlich,in 1000,,712.1
+2014,Europa,männlich,in 1000,,453.0
+2014,Türkei,männlich,in 1000,,97.1
+2014,Russische Föderation,männlich,in 1000,,82.1
+2014,Polen,männlich,in 1000,,83.8
+2014,Niederlande,männlich,in 1000,,26.2
+2014,Italien,männlich,in 1000,,18.4
+2014,Sowjetunion,männlich,in 1000,,14.1
+2014,Ukraine,männlich,in 1000,,11.6
+2014,Serbien,männlich,in 1000,,11.1
+2014,Rumänien,männlich,in 1000,,10.3
+2014,Kosovo,männlich,in 1000,,9.9
+2014,Griechenland,männlich,in 1000,,9.5
+2014,Spanien,männlich,in 1000,,9.3
+2014,Vereinigtes Königreich,männlich,in 1000,,8.9
+2014,Kroatien,männlich,in 1000,,6.8
+2014,Österreich,männlich,in 1000,,7.1
+2014,EU-Staaten,männlich,in 1000,,207.0
+2014,Afrika,männlich,in 1000,,21.0
+2014,Amerika,männlich,in 1000,,10.0
+2014,"Asien, Australien und Ozeanien",männlich,in 1000,,136.0
+2014,Kasachstan,männlich,in 1000,,62.6
+2014,Vietnam,männlich,in 1000,,8.0
+2014,Libanon,männlich,in 1000,,9.1
+2014,Iran,männlich,in 1000,,6.6
+2014,Syrien,männlich,in 1000,,6.4
+2014,Ohne Angabe,männlich,in 1000,,62.0
+2014,Insgesamt,männlich,in 1000,,682.0
+2023,Europa,weiblich,in 1000,,614.0
+2023,Bulgarien,weiblich,in 1000,,16.0
+2023,Italien,weiblich,in 1000,,18.0
+2023,Kroatien,weiblich,in 1000,"Nicht veröffentlicht, weil nicht ausreichend genau oder nicht repräsentativ.",
+2023,Polen,weiblich,in 1000,,135.0
+2023,Rumänien,weiblich,in 1000,,25.0
+2023,Spanien,weiblich,in 1000,,9.0
+2023,Sonstiges Europa,weiblich,in 1000,,328.0
+2023,Kosovo,weiblich,in 1000,,18.0
+2023,Russische Förderation,weiblich,in 1000,,91.0
+2023,Serbien,weiblich,in 1000,,11.0
+2023,Türkei,weiblich,in 1000,,93.0
+2023,Ukraine,weiblich,in 1000,,69.0
+2023,EU-27,weiblich,in 1000,,286.0
+2023,Afrika,weiblich,in 1000,,39.0
+2023,Marokko,weiblich,in 1000,"Nicht veröffentlicht, weil nicht ausreichend genau oder nicht repräsentativ.",
+2023,Amerika,weiblich,in 1000,,24.0
+2023,"Asien, Australien und Ozeanien",weiblich,in 1000,,291.0
+2023,Afghanistan,weiblich,in 1000,,18.0
+2023,Irak,weiblich,in 1000,,28.0
+2023,Kasachstan,weiblich,in 1000,,89.0
+2023,Syrien,weiblich,in 1000,,59.0
+2023,Vietnam,weiblich,in 1000,,8.0
+2023,"Ohne Angaben, unbestimmt",weiblich,in 1000,,65.0
+2023,Gebiet des ehemaligen Jugoslawien (nachrichtlich),weiblich,in 1000,,52.0
+2023,Gebiet der ehemaligen Sowjetunion (nachrichtlich),weiblich,in 1000,,293.0
+2023,Insgesamt  ,weiblich,in 1000,,1033.0
+2022,Europa,weiblich,in 1000,,581.0
+2022,Bulgarien,weiblich,in 1000,,15.0
+2022,Italien,weiblich,in 1000,,18.0
+2022,Kroatien,weiblich,in 1000,"Nicht veröffentlicht, weil nicht ausreichend genau oder nicht repräsentativ.",
+2022,Polen,weiblich,in 1000,,127.0
+2022,Rumänien,weiblich,in 1000,,27.0
+2022,Spanien,weiblich,in 1000,,7.0
+2022,Sonstiges Europa,weiblich,in 1000,,300.0
+2022,Kosovo,weiblich,in 1000,,23.0
+2022,Russische Förderation,weiblich,in 1000,,97.0
+2022,Serbien,weiblich,in 1000,,15.0
+2022,Türkei,weiblich,in 1000,,93.0
+2022,Ukraine,weiblich,in 1000,,29.0
+2022,EU-27,weiblich,in 1000,,281.0
+2022,Afrika,weiblich,in 1000,,36.0
+2022,Marokko,weiblich,in 1000,"Nicht veröffentlicht, weil nicht ausreichend genau oder nicht repräsentativ.",
+2022,Amerika,weiblich,in 1000,,21.0
+2022,"Asien, Australien und Ozeanien",weiblich,in 1000,,283.0
+2022,Afghanistan,weiblich,in 1000,,16.0
+2022,Irak,weiblich,in 1000,,27.0
+2022,Kasachstan,weiblich,in 1000,,89.0
+2022,Syrien,weiblich,in 1000,,59.0
+2022,Vietnam,weiblich,in 1000,,11.0
+2022,"Ohne Angaben, unbestimmt",weiblich,in 1000,,72.0
+2022,Gebiet des ehemaligen Jugoslawien (nachrichtlich),weiblich,in 1000,,60.0
+2022,Gebiet der ehemaligen Sowjetunion (nachrichtlich),weiblich,in 1000,,254.0
+2022,Insgesamt  ,weiblich,in 1000,,993.0
+2021,Europa ,weiblich,in 1000,,558.0
+2021,Bulgarien,weiblich,in 1000,"Aussagewert eingeschränkt, da der Zahlenwert statistisch relativ unsicher ist.",13.0
+2021,talien ,weiblich,in 1000,,20.0
+2021,Kroatien,weiblich,in 1000,"Aussagewert eingeschränkt, da der Zahlenwert statistisch relativ unsicher ist.",7.0
+2021,Polen ,weiblich,in 1000,,123.0
+2021,Rumänien ,weiblich,in 1000,,30.0
+2021,Spanien,weiblich,in 1000,"Aussagewert eingeschränkt, da der Zahlenwert statistisch relativ unsicher ist.",8.0
+2021,Sonstiges Europa ,weiblich,in 1000,,283.0
+2021,Kosovo,weiblich,in 1000,,24.0
+2021,Russische Föderation ,weiblich,in 1000,,98.0
+2021,Serbien,weiblich,in 1000,"Aussagewert eingeschränkt, da der Zahlenwert statistisch relativ unsicher ist.",9.0
+2021,Türkei ,weiblich,in 1000,,98.0
+2021,EU-27  ,weiblich,in 1000,,275.0
+2021,Afrika ,weiblich,in 1000,,28.0
+2021,Marokko,weiblich,in 1000,"Nicht veröffentlicht, weil nicht ausreichend genau oder nicht repräsentativ.",
+2021,Amerika ,weiblich,in 1000,,18.0
+2021,"Asien, Australien und Ozeanien",weiblich,in 1000,,263.0
+2021,Afghanistan,weiblich,in 1000,,15.0
+2021,Irak,weiblich,in 1000,,26.0
+2021,Kasachstan,weiblich,in 1000,,87.0
+2021,Syrien,weiblich,in 1000,,49.0
+2021,Vietnam,weiblich,in 1000,"Aussagewert eingeschränkt, da der Zahlenwert statistisch relativ unsicher ist.",11.0
+2021,"Ohne Angabe, unbestimmt ",weiblich,in 1000,,71.0
+2021,Gebiet des ehemaligen Jugoslawien  (nachrichtlich),weiblich,in 1000,,57.0
+2021,Gebiet der ehemaligen Sowjetunion  (nachrichtlich),weiblich,in 1000,,236.0
+2021,Insgesamt,weiblich,in 1000,,938.0
+2019,Europa ,weiblich,in 1000,,529.266
+2019,Bulgarien ,weiblich,in 1000,,11.125
+2019,Frankreich ,weiblich,in 1000,,3.801
+2019,Griechenland ,weiblich,in 1000,,10.549
+2019,Italien ,weiblich,in 1000,,15.278
+2019,Kroatien ,weiblich,in 1000,,7.31
+2019,Niederlande ,weiblich,in 1000,,15.845
+2019,Österreich ,weiblich,in 1000,,6.7
+2019,Polen ,weiblich,in 1000,,125.143
+2019,Portugal ,weiblich,in 1000,,2.881
+2019,Rumänien ,weiblich,in 1000,,20.759
+2019,Spanien ,weiblich,in 1000,,7.147
+2019,Vereinigtes Königreich ,weiblich,in 1000,,7.297
+2019,Sonstiges Europa ,weiblich,in 1000,,268.362
+2019,Bosnien und Herzegowina ,weiblich,in 1000,,8.677
+2019,Kosovo ,weiblich,in 1000,,21.969
+2019,Russische Föderation ,weiblich,in 1000,,95.732
+2019,Serbien ,weiblich,in 1000,,10.346
+2019,Türkei ,weiblich,in 1000,,91.919
+2019,Ukraine ,weiblich,in 1000,,15.472
+2019,EU-Staaten,weiblich,in 1000,,260.904
+2019,Afrika ,weiblich,in 1000,,19.84
+2019,Marokko ,weiblich,in 1000,,2.844
+2019,"Ägypten, Algerien, Libyen, Tunesien ",weiblich,in 1000,,3.669
+2019,Amerika ,weiblich,in 1000,,18.329
+2019,"Asien, Australien und Ozeanien ",weiblich,in 1000,,221.828
+2019,Irak ,weiblich,in 1000,,17.496
+2019,Iran ,weiblich,in 1000,,7.821
+2019,Kasachstan ,weiblich,in 1000,,77.056
+2019,Syrien ,weiblich,in 1000,,38.459
+2019,Afghanistan ,weiblich,in 1000,,10.168
+2019,Vietnam ,weiblich,in 1000,,9.384
+2019,Ohne Angabe,weiblich,in 1000,,24.212
+2019,Insgesamt,weiblich,in 1000,,849.515
+2018,Europa,weiblich,in 1000,,526.0
+2018,Bulgarien,weiblich,in 1000,,9.0
+2018,Griechenland,weiblich,in 1000,,11.0
+2018,Italien,weiblich,in 1000,,16.0
+2018,Niederlande,weiblich,in 1000,,20.0
+2018,Polen,weiblich,in 1000,,130.0
+2018,Rumänien,weiblich,in 1000,,19.0
+2018,Spanien,weiblich,in 1000,,8.0
+2018,Vereinigtes Königreich,weiblich,in 1000,,7.0
+2018,Kosovo,weiblich,in 1000,,19.0
+2018,Russische Föderation,weiblich,in 1000,,94.0
+2018,Serbien,weiblich,in 1000,,9.0
+2018,Türkei,weiblich,in 1000,,89.0
+2018,Ukraine,weiblich,in 1000,,17.0
+2018,EU-Staaten,weiblich,in 1000,,268.0
+2018,Afrika,weiblich,in 1000,,16.0
+2018,"Ägypten, Algerien, Libyen, Tunesien",weiblich,in 1000,"Nicht veröffentlicht, weil nicht ausreichend genau oder nicht repräsentativ.",
+2018,Amerika,weiblich,in 1000,,20.0
+2018,"Asien, Australien und Ozeanien",weiblich,in 1000,,223.0
+2018,Irak,weiblich,in 1000,,11.0
+2018,Iran,weiblich,in 1000,,8.0
+2018,Kasachstan,weiblich,in 1000,,83.0
+2018,Syrien,weiblich,in 1000,,40.0
+2018,Afghanistan,weiblich,in 1000,,9.0
+2018,Vietnam,weiblich,in 1000,,12.0
+2018,Ohne Angabe,weiblich,in 1000,,18.0
+2018,Insgesamt,weiblich,in 1000,,836.0
+2017,Europa,weiblich,in 1000,,516.6
+2017,Bulgarien,weiblich,in 1000,,8.6
+2017,Griechenland,weiblich,in 1000,,9.1
+2017,Italien,weiblich,in 1000,,12.7
+2017,Niederlande,weiblich,in 1000,,15.6
+2017,Polen,weiblich,in 1000,,126.1
+2017,Rumänien,weiblich,in 1000,,17.7
+2017,Spanien,weiblich,in 1000,,8.1
+2017,Vereinigtes Königreich,weiblich,in 1000,,4.4
+2017,Kosovo,weiblich,in 1000,,18.0
+2017,Russische Föderation,weiblich,in 1000,,107.1
+2017,Serbien,weiblich,in 1000,,10.1
+2017,Türkei,weiblich,in 1000,,90.6
+2017,Ukraine,weiblich,in 1000,,15.6
+2017,EU-Staaten,weiblich,in 1000,,247.3
+2017,Afrika,weiblich,in 1000,,16.4
+2017,"Ägypten, Algerien, Libyen, Tunesien",weiblich,in 1000,,5.8
+2017,Amerika,weiblich,in 1000,,18.6
+2017,"Asien, Australien und Ozeanien",weiblich,in 1000,,207.6
+2017,Irak,weiblich,in 1000,,13.2
+2017,Iran,weiblich,in 1000,,8.2
+2017,Kasachstan,weiblich,in 1000,,77.9
+2017,Syrien,weiblich,in 1000,,35.3
+2017,Afghanistan,weiblich,in 1000,,6.6
+2017,Vietnam,weiblich,in 1000,,9.4
+2017,Ohne Angabe,weiblich,in 1000,,31.8
+2017,Insgesamt,weiblich,in 1000,,791.0
+2015,Europa,weiblich,in 1000,,433.3
+2015,Türkei,weiblich,in 1000,,93.9
+2015,Polen,weiblich,in 1000,,83.0
+2015,Russische Föderation,weiblich,in 1000,,79.6
+2015,Niederlande,weiblich,in 1000,,19.5
+2015,Italien,weiblich,in 1000,,13.3
+2015,Rumänien,weiblich,in 1000,,12.6
+2015,Sowjetunion,weiblich,in 1000,,12.0
+2015,Griechenland,weiblich,in 1000,,9.0
+2015,Serbien,weiblich,in 1000,,10.1
+2015,Kosovo,weiblich,in 1000,,8.9
+2015,Ukraine,weiblich,in 1000,,10.8
+2015,Spanien,weiblich,in 1000,,7.0
+2015,Bulgarien,weiblich,in 1000,,8.1
+2015,Österreich,weiblich,in 1000,,5.0
+2015,EU-Staaten,weiblich,in 1000,,189.9
+2015,Afrika,weiblich,in 1000,,11.3
+2015,Amerika,weiblich,in 1000,,12.7
+2015,"Asien, Australien und Ozeanien",weiblich,in 1000,,157.7
+2015,Kasachstan,weiblich,in 1000,,72.9
+2015,Syrien,weiblich,in 1000,,10.3
+2015,Libanon,weiblich,in 1000,,9.9
+2015,Vietnam,weiblich,in 1000,,8.6
+2015,Iran,weiblich,in 1000,,7.0
+2015,Irak,weiblich,in 1000,,5.4
+2015,Ohne Angabe,weiblich,in 1000,,73.1
+2015,Insgesamt,weiblich,in 1000,,688.1
+2014,Europa,weiblich,in 1000,,443.0
+2014,Türkei,weiblich,in 1000,,95.9
+2014,Russische Föderation,weiblich,in 1000,,94.3
+2014,Polen,weiblich,in 1000,,81.5
+2014,Niederlande,weiblich,in 1000,,21.6
+2014,Italien,weiblich,in 1000,,14.4
+2014,Sowjetunion,weiblich,in 1000,,15.4
+2014,Ukraine,weiblich,in 1000,,14.2
+2014,Serbien,weiblich,in 1000,,11.4
+2014,Rumänien,weiblich,in 1000,,11.2
+2014,Kosovo,weiblich,in 1000,,9.8
+2014,Griechenland,weiblich,in 1000,,9.0
+2014,Spanien,weiblich,in 1000,,5.9
+2014,Vereinigtes Königreich,weiblich,in 1000,,5.0
+2014,Kroatien,weiblich,in 1000,,5.2
+2014,Österreich,weiblich,in 1000,"Nicht veröffentlicht, weil nicht ausreichend genau oder nicht repräsentativ.",
+2014,EU-Staaten,weiblich,in 1000,,182.0
+2014,Afrika,weiblich,in 1000,,12.0
+2014,Amerika,weiblich,in 1000,,13.0
+2014,"Asien, Australien und Ozeanien",weiblich,in 1000,,142.0
+2014,Kasachstan,weiblich,in 1000,,66.7
+2014,Vietnam,weiblich,in 1000,,9.8
+2014,Libanon,weiblich,in 1000,,8.7
+2014,Iran,weiblich,in 1000,,6.7
+2014,Syrien,weiblich,in 1000,"Nicht veröffentlicht, weil nicht ausreichend genau oder nicht repräsentativ.",
+2014,Ohne Angabe,weiblich,in 1000,,64.0
+2014,Insgesamt,weiblich,in 1000,,674.0
