@@ -13,7 +13,7 @@ Indicator,Disaggregations,Number of disaggregations
 #1-3-1,"Kategorie, Gebietseinheit",2
 #1-3-2,"Kategorie, Gebietseinheit",2
 #1-3-3,"Geschlecht, Altersgruppe",2
-#1-3-4,"Herkunftsland, Geschlecht",2
+#1-3-4,"Herkunftsland, Geschlecht, COMMENT_OBS",3
 #1-4-1,Wanderungsherkunft,1
 #1-4-2,Wanderungsziel,1
 #1-4-3,Land,1
