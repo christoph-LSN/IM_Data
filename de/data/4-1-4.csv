@@ -2505,7 +2505,7 @@ Year,Gebietseinheit,Nationalität,Units,GeoCode,Value
 2021,Peine,Deutsche,Prozent,K03157,3.08848080133556
 2021,Wolfenbüttel,Deutsche,Prozent,K03158,4.71204188481675
 2021,Göttingen,Deutsche,Prozent,K03159,3.73721479150275
-2021,Statistische Region Braunschweig,Deutsche,Prozent,K031,13.0
+2021,Statistische Region Braunschweig,Deutsche,Prozent,K031,17.0
 2021,Region Hannover,Deutsche,Prozent,K03241,4.92572322126661
 2021,"dav. Hannover, Lhst.",Deutsche,Prozent,K03241001,6.29900679560899
 2021,"dav. Hannover, Umland",Deutsche,Prozent,K03241999,3.90091671542813
@@ -2557,7 +2557,7 @@ Year,Gebietseinheit,Nationalität,Units,GeoCode,Value
 2021,Peine,Ausländerinnen und Ausländer,Prozent,K03157,10.0
 2021,Wolfenbüttel,Ausländerinnen und Ausländer,Prozent,K03158,18.3098591549296
 2021,Göttingen,Ausländerinnen und Ausländer,Prozent,K03159,16.8674698795181
-2021,Statistische Region Braunschweig,Ausländerinnen und Ausländer,Prozent,K031,14.0
+2021,Statistische Region Braunschweig,Ausländerinnen und Ausländer,Prozent,K031,18.0
 2021,Region Hannover,Ausländerinnen und Ausländer,Prozent,K03241,15.6200941915228
 2021,"dav. Hannover, Lhst.",Ausländerinnen und Ausländer,Prozent,K03241001,15.9539473684211
 2021,"dav. Hannover, Umland",Ausländerinnen und Ausländer,Prozent,K03241999,15.3153153153153
@@ -2609,7 +2609,7 @@ Year,Gebietseinheit,Nationalität,Units,GeoCode,Value
 2022,Peine,Deutsche,Prozent,K03157,3.52839931153184
 2022,Wolfenbüttel,Deutsche,Prozent,K03158,4.44444444444444
 2022,Göttingen,Deutsche,Prozent,K03159,5.24590163934426
-2022,Statistische Region Braunschweig,Deutsche,Prozent,K031,15.0
+2022,Statistische Region Braunschweig,Deutsche,Prozent,K031,19.0
 2022,Region Hannover,Deutsche,Prozent,K03241,4.66168816474315
 2022,"dav. Hannover, Lhst.",Deutsche,Prozent,K03241001,5.7462090981644
 2022,"dav. Hannover, Umland",Deutsche,Prozent,K03241999,3.85902736759205
@@ -2661,7 +2661,7 @@ Year,Gebietseinheit,Nationalität,Units,GeoCode,Value
 2022,Peine,Ausländerinnen und Ausländer,Prozent,K03157,12.6373626373626
 2022,Wolfenbüttel,Ausländerinnen und Ausländer,Prozent,K03158,14.4927536231884
 2022,Göttingen,Ausländerinnen und Ausländer,Prozent,K03159,17.0940170940171
-2022,Statistische Region Braunschweig,Ausländerinnen und Ausländer,Prozent,K031,16.0
+2022,Statistische Region Braunschweig,Ausländerinnen und Ausländer,Prozent,K031,20.0
 2022,Region Hannover,Ausländerinnen und Ausländer,Prozent,K03241,15.7388316151203
 2022,"dav. Hannover, Lhst.",Ausländerinnen und Ausländer,Prozent,K03241001,16.2516382699869
 2022,"dav. Hannover, Umland",Ausländerinnen und Ausländer,Prozent,K03241999,15.1734104046243
@@ -2703,3 +2703,211 @@ Year,Gebietseinheit,Nationalität,Units,GeoCode,Value
 2022,Wittmund,Ausländerinnen und Ausländer,Prozent,K03462,23.0769230769231
 2022,Statistische Region Weser-Ems,Ausländerinnen und Ausländer,Prozent,K034,22.1333333333333
 2022,Niedersachsen,Ausländerinnen und Ausländer,Prozent,K030,18.8706311945749
+2023,"Braunschweig, Stadt",Deutsche,Anzahl,K03101,136.0
+2023,"Salzgitter, Stadt",Deutsche,Anzahl,K03102,59.0
+2023,"Wolfsburg, Stadt",Deutsche,Anzahl,K03103,42.0
+2023,Gifhorn,Deutsche,Anzahl,K03151,91.0
+2023,Goslar,Deutsche,Anzahl,K03153,73.0
+2023,Helmstedt,Deutsche,Anzahl,K03154,33.0
+2023,Northeim,Deutsche,Anzahl,K03155,55.0
+2023,Peine,Deutsche,Anzahl,K03157,61.0
+2023,Wolfenbüttel,Deutsche,Anzahl,K03158,57.0
+2023,Göttingen,Deutsche,Anzahl,K03159,124.0
+2023,Statistische Region Braunschweig,Deutsche,Anzahl,K031,731.0
+2023,Region Hannover,Deutsche,Anzahl,K03241,474.0
+2023,"dav. Hannover, Lhst.",Deutsche,Anzahl,K03241001,230.0
+2023,"dav. Hannover, Umland",Deutsche,Anzahl,K03241999,244.0
+2023,Diepholz,Deutsche,Anzahl,K03251,84.0
+2023,Hameln-Pyrmont,Deutsche,Anzahl,K03252,71.0
+2023,Hildesheim,Deutsche,Anzahl,K03254,144.0
+2023,Holzminden,Deutsche,Anzahl,K03255,44.0
+2023,Nienburg (Weser),Deutsche,Anzahl,K03256,63.0
+2023,Schaumburg,Deutsche,Anzahl,K03257,84.0
+2023,Statistische Region Hannover,Deutsche,Anzahl,K032,964.0
+2023,Celle,Deutsche,Anzahl,K03351,118.0
+2023,Cuxhaven,Deutsche,Anzahl,K03352,98.0
+2023,Harburg,Deutsche,Anzahl,K03353,85.0
+2023,Lüchow-Dannenberg,Deutsche,Anzahl,K03354,46.0
+2023,Lüneburg,Deutsche,Anzahl,K03355,57.0
+2023,Osterholz,Deutsche,Anzahl,K03356,28.0
+2023,Rotenburg (Wümme),Deutsche,Anzahl,K03357,114.0
+2023,Heidekreis,Deutsche,Anzahl,K03358,131.0
+2023,Stade,Deutsche,Anzahl,K03359,107.0
+2023,Uelzen,Deutsche,Anzahl,K03360,40.0
+2023,Verden,Deutsche,Anzahl,K03361,41.0
+2023,Statistische Region Lüneburg,Deutsche,Anzahl,K033,865.0
+2023,"Delmenhorst, Stadt",Deutsche,Anzahl,K03401,23.0
+2023,"Emden, Stadt",Deutsche,Anzahl,K03402,37.0
+2023,"Oldenburg (Oldb), Stadt",Deutsche,Anzahl,K03403,88.0
+2023,"Osnabrück, Stadt",Deutsche,Anzahl,K03404,74.0
+2023,"Wilhelmshaven, Stadt",Deutsche,Anzahl,K03405,27.0
+2023,Ammerland,Deutsche,Anzahl,K03451,79.0
+2023,Aurich,Deutsche,Anzahl,K03452,183.0
+2023,Cloppenburg,Deutsche,Anzahl,K03453,109.0
+2023,Emsland,Deutsche,Anzahl,K03454,157.0
+2023,Friesland,Deutsche,Anzahl,K03455,53.0
+2023,Grafschaft Bentheim,Deutsche,Anzahl,K03456,102.0
+2023,Leer,Deutsche,Anzahl,K03457,98.0
+2023,Oldenburg,Deutsche,Anzahl,K03458,50.0
+2023,Osnabrück,Deutsche,Anzahl,K03459,168.0
+2023,Vechta,Deutsche,Anzahl,K03460,93.0
+2023,Wesermarsch,Deutsche,Anzahl,K03461,44.0
+2023,Wittmund,Deutsche,Anzahl,K03462,34.0
+2023,Statistische Region Weser-Ems,Deutsche,Anzahl,K034,1419.0
+2023,Niedersachsen,Deutsche,Anzahl,K030,3979.0
+2023,"Braunschweig, Stadt",Ausländerinnen und Ausländer,Anzahl,K03101,51.0
+2023,"Salzgitter, Stadt",Ausländerinnen und Ausländer,Anzahl,K03102,54.0
+2023,"Wolfsburg, Stadt",Ausländerinnen und Ausländer,Anzahl,K03103,27.0
+2023,Gifhorn,Ausländerinnen und Ausländer,Anzahl,K03151,19.0
+2023,Goslar,Ausländerinnen und Ausländer,Anzahl,K03153,24.0
+2023,Helmstedt,Ausländerinnen und Ausländer,Anzahl,K03154,13.0
+2023,Northeim,Ausländerinnen und Ausländer,Anzahl,K03155,31.0
+2023,Peine,Ausländerinnen und Ausländer,Anzahl,K03157,26.0
+2023,Wolfenbüttel,Ausländerinnen und Ausländer,Anzahl,K03158,19.0
+2023,Göttingen,Ausländerinnen und Ausländer,Anzahl,K03159,45.0
+2023,Statistische Region Braunschweig,Ausländerinnen und Ausländer,Anzahl,K031,309.0
+2023,Region Hannover,Ausländerinnen und Ausländer,Anzahl,K03241,309.0
+2023,"dav. Hannover, Lhst.",Ausländerinnen und Ausländer,Anzahl,K03241001,149.0
+2023,"dav. Hannover, Umland",Ausländerinnen und Ausländer,Anzahl,K03241999,160.0
+2023,Diepholz,Ausländerinnen und Ausländer,Anzahl,K03251,54.0
+2023,Hameln-Pyrmont,Ausländerinnen und Ausländer,Anzahl,K03252,61.0
+2023,Hildesheim,Ausländerinnen und Ausländer,Anzahl,K03254,54.0
+2023,Holzminden,Ausländerinnen und Ausländer,Anzahl,K03255,20.0
+2023,Nienburg (Weser),Ausländerinnen und Ausländer,Anzahl,K03256,19.0
+2023,Schaumburg,Ausländerinnen und Ausländer,Anzahl,K03257,32.0
+2023,Statistische Region Hannover,Ausländerinnen und Ausländer,Anzahl,K032,549.0
+2023,Celle,Ausländerinnen und Ausländer,Anzahl,K03351,34.0
+2023,Cuxhaven,Ausländerinnen und Ausländer,Anzahl,K03352,51.0
+2023,Harburg,Ausländerinnen und Ausländer,Anzahl,K03353,15.0
+2023,Lüchow-Dannenberg,Ausländerinnen und Ausländer,Anzahl,K03354,19.0
+2023,Lüneburg,Ausländerinnen und Ausländer,Anzahl,K03355,33.0
+2023,Osterholz,Ausländerinnen und Ausländer,Anzahl,K03356,10.0
+2023,Rotenburg (Wümme),Ausländerinnen und Ausländer,Anzahl,K03357,44.0
+2023,Heidekreis,Ausländerinnen und Ausländer,Anzahl,K03358,32.0
+2023,Stade,Ausländerinnen und Ausländer,Anzahl,K03359,79.0
+2023,Uelzen,Ausländerinnen und Ausländer,Anzahl,K03360,20.0
+2023,Verden,Ausländerinnen und Ausländer,Anzahl,K03361,26.0
+2023,Statistische Region Lüneburg,Ausländerinnen und Ausländer,Anzahl,K033,363.0
+2023,"Delmenhorst, Stadt",Ausländerinnen und Ausländer,Anzahl,K03401,21.0
+2023,"Emden, Stadt",Ausländerinnen und Ausländer,Anzahl,K03402,18.0
+2023,"Oldenburg (Oldb), Stadt",Ausländerinnen und Ausländer,Anzahl,K03403,63.0
+2023,"Osnabrück, Stadt",Ausländerinnen und Ausländer,Anzahl,K03404,26.0
+2023,"Wilhelmshaven, Stadt",Ausländerinnen und Ausländer,Anzahl,K03405,10.0
+2023,Ammerland,Ausländerinnen und Ausländer,Anzahl,K03451,17.0
+2023,Aurich,Ausländerinnen und Ausländer,Anzahl,K03452,30.0
+2023,Cloppenburg,Ausländerinnen und Ausländer,Anzahl,K03453,54.0
+2023,Emsland,Ausländerinnen und Ausländer,Anzahl,K03454,138.0
+2023,Friesland,Ausländerinnen und Ausländer,Anzahl,K03455,19.0
+2023,Grafschaft Bentheim,Ausländerinnen und Ausländer,Anzahl,K03456,41.0
+2023,Leer,Ausländerinnen und Ausländer,Anzahl,K03457,31.0
+2023,Oldenburg,Ausländerinnen und Ausländer,Anzahl,K03458,20.0
+2023,Osnabrück,Ausländerinnen und Ausländer,Anzahl,K03459,131.0
+2023,Vechta,Ausländerinnen und Ausländer,Anzahl,K03460,57.0
+2023,Wesermarsch,Ausländerinnen und Ausländer,Anzahl,K03461,10.0
+2023,Wittmund,Ausländerinnen und Ausländer,Anzahl,K03462,9.0
+2023,Statistische Region Weser-Ems,Ausländerinnen und Ausländer,Anzahl,K034,695.0
+2023,Niedersachsen,Ausländerinnen und Ausländer,Anzahl,K030,1916.0
+2023,"Braunschweig, Stadt",Deutsche,Prozent,K03101,6.27885503231764
+2023,"Salzgitter, Stadt",Deutsche,Prozent,K03102,8.11554332874828
+2023,"Wolfsburg, Stadt",Deutsche,Prozent,K03103,3.2258064516129
+2023,Gifhorn,Deutsche,Prozent,K03151,6.02649006622516
+2023,Goslar,Deutsche,Prozent,K03153,7.19921104536489
+2023,Helmstedt,Deutsche,Prozent,K03154,5.41871921182266
+2023,Northeim,Deutsche,Prozent,K03155,4.76603119584055
+2023,Peine,Deutsche,Prozent,K03157,5.4561717352415
+2023,Wolfenbüttel,Deutsche,Prozent,K03158,6.0
+2023,Göttingen,Deutsche,Prozent,K03159,5.3014108593416
+2023,Statistische Region Braunschweig,Deutsche,Prozent,K031,21.0
+2023,Region Hannover,Deutsche,Prozent,K03241,5.14322916666667
+2023,"dav. Hannover, Lhst.",Deutsche,Prozent,K03241001,5.67761046655147
+2023,"dav. Hannover, Umland",Deutsche,Prozent,K03241999,4.72410454985479
+2023,Diepholz,Deutsche,Prozent,K03251,4.59518599562363
+2023,Hameln-Pyrmont,Deutsche,Prozent,K03252,5.89700996677741
+2023,Hildesheim,Deutsche,Prozent,K03254,5.49618320610687
+2023,Holzminden,Deutsche,Prozent,K03255,10.6280193236715
+2023,Nienburg (Weser),Deutsche,Prozent,K03256,6.14634146341463
+2023,Schaumburg,Deutsche,Prozent,K03257,6.74698795180723
+2023,Statistische Region Hannover,Deutsche,Prozent,K032,5.4922515952598
+2023,Celle,Deutsche,Prozent,K03351,7.75805391190007
+2023,Cuxhaven,Deutsche,Prozent,K03352,6.02706027060271
+2023,Harburg,Deutsche,Prozent,K03353,3.68763557483731
+2023,Lüchow-Dannenberg,Deutsche,Prozent,K03354,8.93203883495146
+2023,Lüneburg,Deutsche,Prozent,K03355,3.60531309297913
+2023,Osterholz,Deutsche,Prozent,K03356,3.08030803080308
+2023,Rotenburg (Wümme),Deutsche,Prozent,K03357,7.32177263969171
+2023,Heidekreis,Deutsche,Prozent,K03358,9.71810089020772
+2023,Stade,Deutsche,Prozent,K03359,5.81837955410549
+2023,Uelzen,Deutsche,Prozent,K03360,5.1413881748072
+2023,Verden,Deutsche,Prozent,K03361,3.2695374800638
+2023,Statistische Region Lüneburg,Deutsche,Prozent,K033,5.67846123547561
+2023,"Delmenhorst, Stadt",Deutsche,Prozent,K03401,3.85906040268456
+2023,"Emden, Stadt",Deutsche,Prozent,K03402,7.31225296442688
+2023,"Oldenburg (Oldb), Stadt",Deutsche,Prozent,K03403,5.32043530834341
+2023,"Osnabrück, Stadt",Deutsche,Prozent,K03404,4.15964024732996
+2023,"Wilhelmshaven, Stadt",Deutsche,Prozent,K03405,4.87364620938628
+2023,Ammerland,Deutsche,Prozent,K03451,6.93590869183494
+2023,Aurich,Deutsche,Prozent,K03452,11.0240963855422
+2023,Cloppenburg,Deutsche,Prozent,K03453,6.23569794050343
+2023,Emsland,Deutsche,Prozent,K03454,5.24207011686144
+2023,Friesland,Deutsche,Prozent,K03455,6.78617157490397
+2023,Grafschaft Bentheim,Deutsche,Prozent,K03456,8.6661002548853
+2023,Leer,Deutsche,Prozent,K03457,6.83403068340307
+2023,Oldenburg,Deutsche,Prozent,K03458,5.0
+2023,Osnabrück,Deutsche,Prozent,K03459,6.0781476121563
+2023,Vechta,Deutsche,Prozent,K03460,6.15894039735099
+2023,Wesermarsch,Deutsche,Prozent,K03461,5.30759951749095
+2023,Wittmund,Deutsche,Prozent,K03462,5.92334494773519
+2023,Statistische Region Weser-Ems,Deutsche,Prozent,K034,6.2511013215859
+2023,Niedersachsen,Deutsche,Prozent,K030,5.81946353877205
+2023,"Braunschweig, Stadt",Ausländerinnen und Ausländer,Prozent,K03101,19.7674418604651
+2023,"Salzgitter, Stadt",Ausländerinnen und Ausländer,Prozent,K03102,19.0140845070423
+2023,"Wolfsburg, Stadt",Ausländerinnen und Ausländer,Prozent,K03103,16.1676646706587
+2023,Gifhorn,Ausländerinnen und Ausländer,Prozent,K03151,18.6274509803922
+2023,Goslar,Ausländerinnen und Ausländer,Prozent,K03153,24.0
+2023,Helmstedt,Ausländerinnen und Ausländer,Prozent,K03154,24.5283018867925
+2023,Northeim,Ausländerinnen und Ausländer,Prozent,K03155,36.046511627907
+2023,Peine,Ausländerinnen und Ausländer,Prozent,K03157,16.1490683229814
+2023,Wolfenbüttel,Ausländerinnen und Ausländer,Prozent,K03158,22.8915662650602
+2023,Göttingen,Ausländerinnen und Ausländer,Prozent,K03159,18.5185185185185
+2023,Statistische Region Braunschweig,Ausländerinnen und Ausländer,Prozent,K031,22.0
+2023,Region Hannover,Ausländerinnen und Ausländer,Prozent,K03241,20.0
+2023,"dav. Hannover, Lhst.",Ausländerinnen und Ausländer,Prozent,K03241001,19.5795006570302
+2023,"dav. Hannover, Umland",Ausländerinnen und Ausländer,Prozent,K03241999,20.4081632653061
+2023,Diepholz,Ausländerinnen und Ausländer,Prozent,K03251,19.7802197802198
+2023,Hameln-Pyrmont,Ausländerinnen und Ausländer,Prozent,K03252,30.5
+2023,Hildesheim,Ausländerinnen und Ausländer,Prozent,K03254,21.011673151751
+2023,Holzminden,Ausländerinnen und Ausländer,Prozent,K03255,27.027027027027
+2023,Nienburg (Weser),Ausländerinnen und Ausländer,Prozent,K03256,15.2
+2023,Schaumburg,Ausländerinnen und Ausländer,Prozent,K03257,20.253164556962
+2023,Statistische Region Hannover,Ausländerinnen und Ausländer,Prozent,K032,20.8586626139818
+2023,Celle,Ausländerinnen und Ausländer,Prozent,K03351,23.7762237762238
+2023,Cuxhaven,Ausländerinnen und Ausländer,Prozent,K03352,34.9315068493151
+2023,Harburg,Ausländerinnen und Ausländer,Prozent,K03353,8.92857142857143
+2023,Lüchow-Dannenberg,Ausländerinnen und Ausländer,Prozent,K03354,39.5833333333333
+2023,Lüneburg,Ausländerinnen und Ausländer,Prozent,K03355,24.4444444444444
+2023,Osterholz,Ausländerinnen und Ausländer,Prozent,K03356,19.6078431372549
+2023,Rotenburg (Wümme),Ausländerinnen und Ausländer,Prozent,K03357,31.2056737588652
+2023,Heidekreis,Ausländerinnen und Ausländer,Prozent,K03358,24.8062015503876
+2023,Stade,Ausländerinnen und Ausländer,Prozent,K03359,33.6170212765957
+2023,Uelzen,Ausländerinnen und Ausländer,Prozent,K03360,25.6410256410256
+2023,Verden,Ausländerinnen und Ausländer,Prozent,K03361,23.8532110091743
+2023,Statistische Region Lüneburg,Ausländerinnen und Ausländer,Prozent,K033,26.2472885032538
+2023,"Delmenhorst, Stadt",Ausländerinnen und Ausländer,Prozent,K03401,12.8834355828221
+2023,"Emden, Stadt",Ausländerinnen und Ausländer,Prozent,K03402,32.7272727272727
+2023,"Oldenburg (Oldb), Stadt",Ausländerinnen und Ausländer,Prozent,K03403,21.7241379310345
+2023,"Osnabrück, Stadt",Ausländerinnen und Ausländer,Prozent,K03404,13.1979695431472
+2023,"Wilhelmshaven, Stadt",Ausländerinnen und Ausländer,Prozent,K03405,11.6279069767442
+2023,Ammerland,Ausländerinnen und Ausländer,Prozent,K03451,14.0495867768595
+2023,Aurich,Ausländerinnen und Ausländer,Prozent,K03452,29.126213592233
+2023,Cloppenburg,Ausländerinnen und Ausländer,Prozent,K03453,24.6575342465753
+2023,Emsland,Ausländerinnen und Ausländer,Prozent,K03454,28.1632653061224
+2023,Friesland,Ausländerinnen und Ausländer,Prozent,K03455,33.9285714285714
+2023,Grafschaft Bentheim,Ausländerinnen und Ausländer,Prozent,K03456,24.6987951807229
+2023,Leer,Ausländerinnen und Ausländer,Prozent,K03457,24.6031746031746
+2023,Oldenburg,Ausländerinnen und Ausländer,Prozent,K03458,14.2857142857143
+2023,Osnabrück,Ausländerinnen und Ausländer,Prozent,K03459,40.0611620795107
+2023,Vechta,Ausländerinnen und Ausländer,Prozent,K03460,23.4567901234568
+2023,Wesermarsch,Ausländerinnen und Ausländer,Prozent,K03461,10.2040816326531
+2023,Wittmund,Ausländerinnen und Ausländer,Prozent,K03462,18.0
+2023,Statistische Region Weser-Ems,Ausländerinnen und Ausländer,Prozent,K034,23.7201365187713
+2023,Niedersachsen,Ausländerinnen und Ausländer,Prozent,K030,22.5890120254657
