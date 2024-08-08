@@ -1,4 +1,56 @@
 Year,Gebietseinheit,Wanderung,Nationalität / Geschlecht,Units,GeoCode,Value
+2023,"Braunschweig, Stadt",Zuzüge,Insgesamt,Anzahl,K03101,10860
+2023,"Salzgitter, Stadt",Zuzüge,Insgesamt,Anzahl,K03102,2234
+2023,"Wolfsburg, Stadt",Zuzüge,Insgesamt,Anzahl,K03103,2265
+2023,Gifhorn,Zuzüge,Insgesamt,Anzahl,K03151,1755
+2023,Goslar,Zuzüge,Insgesamt,Anzahl,K03153,3908
+2023,Helmstedt,Zuzüge,Insgesamt,Anzahl,K03154,1209
+2023,Northeim,Zuzüge,Insgesamt,Anzahl,K03155,1602
+2023,Peine,Zuzüge,Insgesamt,Anzahl,K03157,2173
+2023,Wolfenbüttel,Zuzüge,Insgesamt,Anzahl,K03158,1167
+2023,Göttingen,Zuzüge,Insgesamt,Anzahl,K03159,16193
+2023,Statistische Region Braunschweig,Zuzüge,Insgesamt,Anzahl,K031,43366
+2023,Region Hannover,Zuzüge,Insgesamt,Anzahl,K03241,20488
+2023,"dav. Hannover, Lhst.",Zuzüge,Insgesamt,Anzahl,K03241001,11946
+2023,"dav. Hannover, Umland",Zuzüge,Insgesamt,Anzahl,K03241999,8542
+2023,Diepholz,Zuzüge,Insgesamt,Anzahl,K03251,3746
+2023,Hameln-Pyrmont,Zuzüge,Insgesamt,Anzahl,K03252,2392
+2023,Hildesheim,Zuzüge,Insgesamt,Anzahl,K03254,3419
+2023,Holzminden,Zuzüge,Insgesamt,Anzahl,K03255,1136
+2023,Nienburg (Weser),Zuzüge,Insgesamt,Anzahl,K03256,1945
+2023,Schaumburg,Zuzüge,Insgesamt,Anzahl,K03257,2022
+2023,Statistische Region Hannover,Zuzüge,Insgesamt,Anzahl,K032,35148
+2023,Celle,Zuzüge,Insgesamt,Anzahl,K03351,2673
+2023,Cuxhaven,Zuzüge,Insgesamt,Anzahl,K03352,2279
+2023,Harburg,Zuzüge,Insgesamt,Anzahl,K03353,3806
+2023,Lüchow-Dannenberg,Zuzüge,Insgesamt,Anzahl,K03354,596
+2023,Lüneburg,Zuzüge,Insgesamt,Anzahl,K03355,2661
+2023,Osterholz,Zuzüge,Insgesamt,Anzahl,K03356,1038
+2023,Rotenburg (Wümme),Zuzüge,Insgesamt,Anzahl,K03357,2159
+2023,Heidekreis,Zuzüge,Insgesamt,Anzahl,K03358,5506
+2023,Stade,Zuzüge,Insgesamt,Anzahl,K03359,3791
+2023,Uelzen,Zuzüge,Insgesamt,Anzahl,K03360,2361
+2023,Verden,Zuzüge,Insgesamt,Anzahl,K03361,2035
+2023,Statistische Region Lüneburg,Zuzüge,Insgesamt,Anzahl,K033,28905
+2023,"Delmenhorst, Stadt",Zuzüge,Insgesamt,Anzahl,K03401,1859
+2023,"Emden, Stadt",Zuzüge,Insgesamt,Anzahl,K03402,1047
+2023,"Oldenburg (Oldb), Stadt",Zuzüge,Insgesamt,Anzahl,K03403,5832
+2023,"Osnabrück, Stadt",Zuzüge,Insgesamt,Anzahl,K03404,4975
+2023,"Wilhelmshaven, Stadt",Zuzüge,Insgesamt,Anzahl,K03405,1785
+2023,Ammerland,Zuzüge,Insgesamt,Anzahl,K03451,1827
+2023,Aurich,Zuzüge,Insgesamt,Anzahl,K03452,2551
+2023,Cloppenburg,Zuzüge,Insgesamt,Anzahl,K03453,9488
+2023,Emsland,Zuzüge,Insgesamt,Anzahl,K03454,10225
+2023,Friesland,Zuzüge,Insgesamt,Anzahl,K03455,1094
+2023,Grafschaft Bentheim,Zuzüge,Insgesamt,Anzahl,K03456,2616
+2023,Leer,Zuzüge,Insgesamt,Anzahl,K03457,2269
+2023,Oldenburg,Zuzüge,Insgesamt,Anzahl,K03458,3101
+2023,Osnabrück,Zuzüge,Insgesamt,Anzahl,K03459,17867
+2023,Vechta,Zuzüge,Insgesamt,Anzahl,K03460,3964
+2023,Wesermarsch,Zuzüge,Insgesamt,Anzahl,K03461,1362
+2023,Wittmund,Zuzüge,Insgesamt,Anzahl,K03462,749
+2023,Statistische Region Weser-Ems,Zuzüge,Insgesamt,Anzahl,K034,72611
+2023,Niedersachsen,Zuzüge,Insgesamt,Anzahl,,180030
 2022,"Braunschweig, Stadt",Zuzüge,Insgesamt,Anzahl,K03101,8929
 2022,"Salzgitter, Stadt",Zuzüge,Insgesamt,Anzahl,K03102,2965
 2022,"Wolfsburg, Stadt",Zuzüge,Insgesamt,Anzahl,K03103,3685
@@ -675,6 +727,58 @@ Year,Gebietseinheit,Wanderung,Nationalität / Geschlecht,Units,GeoCode,Value
 2010,Wittmund,Zuzüge,Insgesamt,Anzahl,K03462,360
 2010,Statistische Region Weser-Ems,Zuzüge,Insgesamt,Anzahl,K034,33668
 2010,Niedersachsen,Zuzüge,Insgesamt,Anzahl,,76783
+2023,"Braunschweig, Stadt",Zuzüge,Deutsche,Anzahl,K03101,547
+2023,"Salzgitter, Stadt",Zuzüge,Deutsche,Anzahl,K03102,214
+2023,"Wolfsburg, Stadt",Zuzüge,Deutsche,Anzahl,K03103,230
+2023,Gifhorn,Zuzüge,Deutsche,Anzahl,K03151,265
+2023,Goslar,Zuzüge,Deutsche,Anzahl,K03153,271
+2023,Helmstedt,Zuzüge,Deutsche,Anzahl,K03154,172
+2023,Northeim,Zuzüge,Deutsche,Anzahl,K03155,232
+2023,Peine,Zuzüge,Deutsche,Anzahl,K03157,243
+2023,Wolfenbüttel,Zuzüge,Deutsche,Anzahl,K03158,182
+2023,Göttingen,Zuzüge,Deutsche,Anzahl,K03159,6793
+2023,Statistische Region Braunschweig,Zuzüge,Deutsche,Anzahl,K031,9149
+2023,Region Hannover,Zuzüge,Deutsche,Anzahl,K03241,2655
+2023,"dav. Hannover, Lhst.",Zuzüge,Deutsche,Anzahl,K03241001,1489
+2023,"dav. Hannover, Umland",Zuzüge,Deutsche,Anzahl,K03241999,1166
+2023,Diepholz,Zuzüge,Deutsche,Anzahl,K03251,485
+2023,Hameln-Pyrmont,Zuzüge,Deutsche,Anzahl,K03252,338
+2023,Hildesheim,Zuzüge,Deutsche,Anzahl,K03254,436
+2023,Holzminden,Zuzüge,Deutsche,Anzahl,K03255,155
+2023,Nienburg (Weser),Zuzüge,Deutsche,Anzahl,K03256,275
+2023,Schaumburg,Zuzüge,Deutsche,Anzahl,K03257,328
+2023,Statistische Region Hannover,Zuzüge,Deutsche,Anzahl,K032,4672
+2023,Celle,Zuzüge,Deutsche,Anzahl,K03351,418
+2023,Cuxhaven,Zuzüge,Deutsche,Anzahl,K03352,414
+2023,Harburg,Zuzüge,Deutsche,Anzahl,K03353,473
+2023,Lüchow-Dannenberg,Zuzüge,Deutsche,Anzahl,K03354,162
+2023,Lüneburg,Zuzüge,Deutsche,Anzahl,K03355,495
+2023,Osterholz,Zuzüge,Deutsche,Anzahl,K03356,161
+2023,Rotenburg (Wümme),Zuzüge,Deutsche,Anzahl,K03357,305
+2023,Heidekreis,Zuzüge,Deutsche,Anzahl,K03358,274
+2023,Stade,Zuzüge,Deutsche,Anzahl,K03359,392
+2023,Uelzen,Zuzüge,Deutsche,Anzahl,K03360,214
+2023,Verden,Zuzüge,Deutsche,Anzahl,K03361,252
+2023,Statistische Region Lüneburg,Zuzüge,Deutsche,Anzahl,K033,3560
+2023,"Delmenhorst, Stadt",Zuzüge,Deutsche,Anzahl,K03401,210
+2023,"Emden, Stadt",Zuzüge,Deutsche,Anzahl,K03402,114
+2023,"Oldenburg (Oldb), Stadt",Zuzüge,Deutsche,Anzahl,K03403,457
+2023,"Osnabrück, Stadt",Zuzüge,Deutsche,Anzahl,K03404,371
+2023,"Wilhelmshaven, Stadt",Zuzüge,Deutsche,Anzahl,K03405,310
+2023,Ammerland,Zuzüge,Deutsche,Anzahl,K03451,181
+2023,Aurich,Zuzüge,Deutsche,Anzahl,K03452,355
+2023,Cloppenburg,Zuzüge,Deutsche,Anzahl,K03453,329
+2023,Emsland,Zuzüge,Deutsche,Anzahl,K03454,684
+2023,Friesland,Zuzüge,Deutsche,Anzahl,K03455,167
+2023,Grafschaft Bentheim,Zuzüge,Deutsche,Anzahl,K03456,212
+2023,Leer,Zuzüge,Deutsche,Anzahl,K03457,384
+2023,Oldenburg,Zuzüge,Deutsche,Anzahl,K03458,212
+2023,Osnabrück,Zuzüge,Deutsche,Anzahl,K03459,512
+2023,Vechta,Zuzüge,Deutsche,Anzahl,K03460,288
+2023,Wesermarsch,Zuzüge,Deutsche,Anzahl,K03461,231
+2023,Wittmund,Zuzüge,Deutsche,Anzahl,K03462,136
+2023,Statistische Region Weser-Ems,Zuzüge,Deutsche,Anzahl,K034,5153
+2023,Niedersachsen,Zuzüge,Deutsche,Anzahl,,22534
 2022,"Braunschweig, Stadt",Zuzüge,Deutsche,Anzahl,K03101,473
 2022,"Salzgitter, Stadt",Zuzüge,Deutsche,Anzahl,K03102,189
 2022,"Wolfsburg, Stadt",Zuzüge,Deutsche,Anzahl,K03103,197
@@ -1351,6 +1455,58 @@ Year,Gebietseinheit,Wanderung,Nationalität / Geschlecht,Units,GeoCode,Value
 2010,Wittmund,Zuzüge,Deutsche,Anzahl,K03462,74
 2010,Statistische Region Weser-Ems,Zuzüge,Deutsche,Anzahl,K034,2162
 2010,Niedersachsen,Zuzüge,Deutsche,Anzahl,,9915
+2023,"Braunschweig, Stadt",Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03101,10313
+2023,"Salzgitter, Stadt",Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03102,2020
+2023,"Wolfsburg, Stadt",Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03103,2035
+2023,Gifhorn,Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03151,1490
+2023,Goslar,Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03153,3637
+2023,Helmstedt,Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03154,1037
+2023,Northeim,Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03155,1370
+2023,Peine,Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03157,1930
+2023,Wolfenbüttel,Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03158,985
+2023,Göttingen,Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03159,9400
+2023,Statistische Region Braunschweig,Zuzüge,Ausländerinnen und Ausländer,Anzahl,K031,34217
+2023,Region Hannover,Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03241,17833
+2023,"dav. Hannover, Lhst.",Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03241001,10457
+2023,"dav. Hannover, Umland",Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03241999,7376
+2023,Diepholz,Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03251,3261
+2023,Hameln-Pyrmont,Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03252,2054
+2023,Hildesheim,Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03254,2983
+2023,Holzminden,Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03255,981
+2023,Nienburg (Weser),Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03256,1670
+2023,Schaumburg,Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03257,1694
+2023,Statistische Region Hannover,Zuzüge,Ausländerinnen und Ausländer,Anzahl,K032,30476
+2023,Celle,Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03351,2255
+2023,Cuxhaven,Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03352,1865
+2023,Harburg,Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03353,3333
+2023,Lüchow-Dannenberg,Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03354,434
+2023,Lüneburg,Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03355,2166
+2023,Osterholz,Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03356,877
+2023,Rotenburg (Wümme),Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03357,1854
+2023,Heidekreis,Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03358,5232
+2023,Stade,Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03359,3399
+2023,Uelzen,Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03360,2147
+2023,Verden,Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03361,1783
+2023,Statistische Region Lüneburg,Zuzüge,Ausländerinnen und Ausländer,Anzahl,K033,25345
+2023,"Delmenhorst, Stadt",Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03401,1649
+2023,"Emden, Stadt",Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03402,933
+2023,"Oldenburg (Oldb), Stadt",Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03403,5375
+2023,"Osnabrück, Stadt",Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03404,4604
+2023,"Wilhelmshaven, Stadt",Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03405,1475
+2023,Ammerland,Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03451,1646
+2023,Aurich,Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03452,2196
+2023,Cloppenburg,Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03453,9159
+2023,Emsland,Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03454,9541
+2023,Friesland,Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03455,927
+2023,Grafschaft Bentheim,Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03456,2404
+2023,Leer,Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03457,1885
+2023,Oldenburg,Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03458,2889
+2023,Osnabrück,Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03459,17355
+2023,Vechta,Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03460,3676
+2023,Wesermarsch,Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03461,1131
+2023,Wittmund,Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03462,613
+2023,Statistische Region Weser-Ems,Zuzüge,Ausländerinnen und Ausländer,Anzahl,K034,67458
+2023,Niedersachsen,Zuzüge,Ausländerinnen und Ausländer,Anzahl,,157496
 2022,"Braunschweig, Stadt",Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03101,8456
 2022,"Salzgitter, Stadt",Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03102,2776
 2022,"Wolfsburg, Stadt",Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03103,3488
@@ -2027,6 +2183,58 @@ Year,Gebietseinheit,Wanderung,Nationalität / Geschlecht,Units,GeoCode,Value
 2010,Wittmund,Zuzüge,Ausländerinnen und Ausländer,Anzahl,K03462,286
 2010,Statistische Region Weser-Ems,Zuzüge,Ausländerinnen und Ausländer,Anzahl,K034,31506
 2010,Niedersachsen,Zuzüge,Ausländerinnen und Ausländer,Anzahl,,66868
+2023,"Braunschweig, Stadt",Zuzüge,Männer,Anzahl,K03101,7052
+2023,"Salzgitter, Stadt",Zuzüge,Männer,Anzahl,K03102,1396
+2023,"Wolfsburg, Stadt",Zuzüge,Männer,Anzahl,K03103,1268
+2023,Gifhorn,Zuzüge,Männer,Anzahl,K03151,1044
+2023,Goslar,Zuzüge,Männer,Anzahl,K03153,2439
+2023,Helmstedt,Zuzüge,Männer,Anzahl,K03154,704
+2023,Northeim,Zuzüge,Männer,Anzahl,K03155,942
+2023,Peine,Zuzüge,Männer,Anzahl,K03157,1333
+2023,Wolfenbüttel,Zuzüge,Männer,Anzahl,K03158,697
+2023,Göttingen,Zuzüge,Männer,Anzahl,K03159,8533
+2023,Statistische Region Braunschweig,Zuzüge,Männer,Anzahl,K031,25408
+2023,Region Hannover,Zuzüge,Männer,Anzahl,K03241,12104
+2023,"dav. Hannover, Lhst.",Zuzüge,Männer,Anzahl,K03241001,6840
+2023,"dav. Hannover, Umland",Zuzüge,Männer,Anzahl,K03241999,5264
+2023,Diepholz,Zuzüge,Männer,Anzahl,K03251,2250
+2023,Hameln-Pyrmont,Zuzüge,Männer,Anzahl,K03252,1329
+2023,Hildesheim,Zuzüge,Männer,Anzahl,K03254,2021
+2023,Holzminden,Zuzüge,Männer,Anzahl,K03255,633
+2023,Nienburg (Weser),Zuzüge,Männer,Anzahl,K03256,1178
+2023,Schaumburg,Zuzüge,Männer,Anzahl,K03257,1227
+2023,Statistische Region Hannover,Zuzüge,Männer,Anzahl,K032,20742
+2023,Celle,Zuzüge,Männer,Anzahl,K03351,1558
+2023,Cuxhaven,Zuzüge,Männer,Anzahl,K03352,1277
+2023,Harburg,Zuzüge,Männer,Anzahl,K03353,2376
+2023,Lüchow-Dannenberg,Zuzüge,Männer,Anzahl,K03354,334
+2023,Lüneburg,Zuzüge,Männer,Anzahl,K03355,1507
+2023,Osterholz,Zuzüge,Männer,Anzahl,K03356,551
+2023,Rotenburg (Wümme),Zuzüge,Männer,Anzahl,K03357,1278
+2023,Heidekreis,Zuzüge,Männer,Anzahl,K03358,3523
+2023,Stade,Zuzüge,Männer,Anzahl,K03359,2178
+2023,Uelzen,Zuzüge,Männer,Anzahl,K03360,1520
+2023,Verden,Zuzüge,Männer,Anzahl,K03361,1209
+2023,Statistische Region Lüneburg,Zuzüge,Männer,Anzahl,K033,17311
+2023,"Delmenhorst, Stadt",Zuzüge,Männer,Anzahl,K03401,1113
+2023,"Emden, Stadt",Zuzüge,Männer,Anzahl,K03402,678
+2023,"Oldenburg (Oldb), Stadt",Zuzüge,Männer,Anzahl,K03403,3406
+2023,"Osnabrück, Stadt",Zuzüge,Männer,Anzahl,K03404,3001
+2023,"Wilhelmshaven, Stadt",Zuzüge,Männer,Anzahl,K03405,1058
+2023,Ammerland,Zuzüge,Männer,Anzahl,K03451,1106
+2023,Aurich,Zuzüge,Männer,Anzahl,K03452,1471
+2023,Cloppenburg,Zuzüge,Männer,Anzahl,K03453,5942
+2023,Emsland,Zuzüge,Männer,Anzahl,K03454,6760
+2023,Friesland,Zuzüge,Männer,Anzahl,K03455,606
+2023,Grafschaft Bentheim,Zuzüge,Männer,Anzahl,K03456,1497
+2023,Leer,Zuzüge,Männer,Anzahl,K03457,1442
+2023,Oldenburg,Zuzüge,Männer,Anzahl,K03458,1760
+2023,Osnabrück,Zuzüge,Männer,Anzahl,K03459,11587
+2023,Vechta,Zuzüge,Männer,Anzahl,K03460,2223
+2023,Wesermarsch,Zuzüge,Männer,Anzahl,K03461,837
+2023,Wittmund,Zuzüge,Männer,Anzahl,K03462,389
+2023,Statistische Region Weser-Ems,Zuzüge,Männer,Anzahl,K034,44876
+2023,Niedersachsen,Zuzüge,Männer,Anzahl,,108337
 2022,"Braunschweig, Stadt",Zuzüge,Männer,Anzahl,K03101,4660
 2022,"Salzgitter, Stadt",Zuzüge,Männer,Anzahl,K03102,1563
 2022,"Wolfsburg, Stadt",Zuzüge,Männer,Anzahl,K03103,1694
@@ -2703,6 +2911,58 @@ Year,Gebietseinheit,Wanderung,Nationalität / Geschlecht,Units,GeoCode,Value
 2010,Wittmund,Zuzüge,Männer,Anzahl,K03462,197
 2010,Statistische Region Weser-Ems,Zuzüge,Männer,Anzahl,K034,19929
 2010,Niedersachsen,Zuzüge,Männer,Anzahl,,46028
+2023,"Braunschweig, Stadt",Zuzüge,Frauen,Anzahl,K03101,3808
+2023,"Salzgitter, Stadt",Zuzüge,Frauen,Anzahl,K03102,838
+2023,"Wolfsburg, Stadt",Zuzüge,Frauen,Anzahl,K03103,997
+2023,Gifhorn,Zuzüge,Frauen,Anzahl,K03151,711
+2023,Goslar,Zuzüge,Frauen,Anzahl,K03153,1469
+2023,Helmstedt,Zuzüge,Frauen,Anzahl,K03154,505
+2023,Northeim,Zuzüge,Frauen,Anzahl,K03155,660
+2023,Peine,Zuzüge,Frauen,Anzahl,K03157,840
+2023,Wolfenbüttel,Zuzüge,Frauen,Anzahl,K03158,470
+2023,Göttingen,Zuzüge,Frauen,Anzahl,K03159,7660
+2023,Statistische Region Braunschweig,Zuzüge,Frauen,Anzahl,K031,17958
+2023,Region Hannover,Zuzüge,Frauen,Anzahl,K03241,8384
+2023,"dav. Hannover, Lhst.",Zuzüge,Frauen,Anzahl,K03241001,5106
+2023,"dav. Hannover, Umland",Zuzüge,Frauen,Anzahl,K03241999,3278
+2023,Diepholz,Zuzüge,Frauen,Anzahl,K03251,1496
+2023,Hameln-Pyrmont,Zuzüge,Frauen,Anzahl,K03252,1063
+2023,Hildesheim,Zuzüge,Frauen,Anzahl,K03254,1398
+2023,Holzminden,Zuzüge,Frauen,Anzahl,K03255,503
+2023,Nienburg (Weser),Zuzüge,Frauen,Anzahl,K03256,767
+2023,Schaumburg,Zuzüge,Frauen,Anzahl,K03257,795
+2023,Statistische Region Hannover,Zuzüge,Frauen,Anzahl,K032,14406
+2023,Celle,Zuzüge,Frauen,Anzahl,K03351,1115
+2023,Cuxhaven,Zuzüge,Frauen,Anzahl,K03352,1002
+2023,Harburg,Zuzüge,Frauen,Anzahl,K03353,1430
+2023,Lüchow-Dannenberg,Zuzüge,Frauen,Anzahl,K03354,262
+2023,Lüneburg,Zuzüge,Frauen,Anzahl,K03355,1154
+2023,Osterholz,Zuzüge,Frauen,Anzahl,K03356,487
+2023,Rotenburg (Wümme),Zuzüge,Frauen,Anzahl,K03357,881
+2023,Heidekreis,Zuzüge,Frauen,Anzahl,K03358,1983
+2023,Stade,Zuzüge,Frauen,Anzahl,K03359,1613
+2023,Uelzen,Zuzüge,Frauen,Anzahl,K03360,841
+2023,Verden,Zuzüge,Frauen,Anzahl,K03361,826
+2023,Statistische Region Lüneburg,Zuzüge,Frauen,Anzahl,K033,11594
+2023,"Delmenhorst, Stadt",Zuzüge,Frauen,Anzahl,K03401,746
+2023,"Emden, Stadt",Zuzüge,Frauen,Anzahl,K03402,369
+2023,"Oldenburg (Oldb), Stadt",Zuzüge,Frauen,Anzahl,K03403,2426
+2023,"Osnabrück, Stadt",Zuzüge,Frauen,Anzahl,K03404,1974
+2023,"Wilhelmshaven, Stadt",Zuzüge,Frauen,Anzahl,K03405,727
+2023,Ammerland,Zuzüge,Frauen,Anzahl,K03451,721
+2023,Aurich,Zuzüge,Frauen,Anzahl,K03452,1080
+2023,Cloppenburg,Zuzüge,Frauen,Anzahl,K03453,3546
+2023,Emsland,Zuzüge,Frauen,Anzahl,K03454,3465
+2023,Friesland,Zuzüge,Frauen,Anzahl,K03455,488
+2023,Grafschaft Bentheim,Zuzüge,Frauen,Anzahl,K03456,1119
+2023,Leer,Zuzüge,Frauen,Anzahl,K03457,827
+2023,Oldenburg,Zuzüge,Frauen,Anzahl,K03458,1341
+2023,Osnabrück,Zuzüge,Frauen,Anzahl,K03459,6280
+2023,Vechta,Zuzüge,Frauen,Anzahl,K03460,1741
+2023,Wesermarsch,Zuzüge,Frauen,Anzahl,K03461,525
+2023,Wittmund,Zuzüge,Frauen,Anzahl,K03462,360
+2023,Statistische Region Weser-Ems,Zuzüge,Frauen,Anzahl,K034,27735
+2023,Niedersachsen,Zuzüge,Frauen,Anzahl,,71693
 2022,"Braunschweig, Stadt",Zuzüge,Frauen,Anzahl,K03101,4269
 2022,"Salzgitter, Stadt",Zuzüge,Frauen,Anzahl,K03102,1402
 2022,"Wolfsburg, Stadt",Zuzüge,Frauen,Anzahl,K03103,1991
@@ -3379,6 +3639,58 @@ Year,Gebietseinheit,Wanderung,Nationalität / Geschlecht,Units,GeoCode,Value
 2010,Wittmund,Zuzüge,Frauen,Anzahl,K03462,163
 2010,Statistische Region Weser-Ems,Zuzüge,Frauen,Anzahl,K034,13739
 2010,Niedersachsen,Zuzüge,Frauen,Anzahl,,30755
+2023,"Braunschweig, Stadt",Fortzüge,Insgesamt,Anzahl,K03101,5629
+2023,"Salzgitter, Stadt",Fortzüge,Insgesamt,Anzahl,K03102,1419
+2023,"Wolfsburg, Stadt",Fortzüge,Insgesamt,Anzahl,K03103,1383
+2023,Gifhorn,Fortzüge,Insgesamt,Anzahl,K03151,1368
+2023,Goslar,Fortzüge,Insgesamt,Anzahl,K03153,1626
+2023,Helmstedt,Fortzüge,Insgesamt,Anzahl,K03154,970
+2023,Northeim,Fortzüge,Insgesamt,Anzahl,K03155,1186
+2023,Peine,Fortzüge,Insgesamt,Anzahl,K03157,1639
+2023,Wolfenbüttel,Fortzüge,Insgesamt,Anzahl,K03158,830
+2023,Göttingen,Fortzüge,Insgesamt,Anzahl,K03159,4378
+2023,Statistische Region Braunschweig,Fortzüge,Insgesamt,Anzahl,K031,20428
+2023,Region Hannover,Fortzüge,Insgesamt,Anzahl,K03241,14360
+2023,"dav. Hannover, Lhst.",Fortzüge,Insgesamt,Anzahl,K03241001,7860
+2023,"dav. Hannover, Umland",Fortzüge,Insgesamt,Anzahl,K03241999,6500
+2023,Diepholz,Fortzüge,Insgesamt,Anzahl,K03251,3145
+2023,Hameln-Pyrmont,Fortzüge,Insgesamt,Anzahl,K03252,1886
+2023,Hildesheim,Fortzüge,Insgesamt,Anzahl,K03254,2894
+2023,Holzminden,Fortzüge,Insgesamt,Anzahl,K03255,752
+2023,Nienburg (Weser),Fortzüge,Insgesamt,Anzahl,K03256,1582
+2023,Schaumburg,Fortzüge,Insgesamt,Anzahl,K03257,1758
+2023,Statistische Region Hannover,Fortzüge,Insgesamt,Anzahl,K032,26377
+2023,Celle,Fortzüge,Insgesamt,Anzahl,K03351,2076
+2023,Cuxhaven,Fortzüge,Insgesamt,Anzahl,K03352,1789
+2023,Harburg,Fortzüge,Insgesamt,Anzahl,K03353,3445
+2023,Lüchow-Dannenberg,Fortzüge,Insgesamt,Anzahl,K03354,444
+2023,Lüneburg,Fortzüge,Insgesamt,Anzahl,K03355,2329
+2023,Osterholz,Fortzüge,Insgesamt,Anzahl,K03356,894
+2023,Rotenburg (Wümme),Fortzüge,Insgesamt,Anzahl,K03357,1860
+2023,Heidekreis,Fortzüge,Insgesamt,Anzahl,K03358,3707
+2023,Stade,Fortzüge,Insgesamt,Anzahl,K03359,2987
+2023,Uelzen,Fortzüge,Insgesamt,Anzahl,K03360,953
+2023,Verden,Fortzüge,Insgesamt,Anzahl,K03361,1524
+2023,Statistische Region Lüneburg,Fortzüge,Insgesamt,Anzahl,K033,22008
+2023,"Delmenhorst, Stadt",Fortzüge,Insgesamt,Anzahl,K03401,1546
+2023,"Emden, Stadt",Fortzüge,Insgesamt,Anzahl,K03402,743
+2023,"Oldenburg (Oldb), Stadt",Fortzüge,Insgesamt,Anzahl,K03403,2025
+2023,"Osnabrück, Stadt",Fortzüge,Insgesamt,Anzahl,K03404,1955
+2023,"Wilhelmshaven, Stadt",Fortzüge,Insgesamt,Anzahl,K03405,921
+2023,Ammerland,Fortzüge,Insgesamt,Anzahl,K03451,1566
+2023,Aurich,Fortzüge,Insgesamt,Anzahl,K03452,1874
+2023,Cloppenburg,Fortzüge,Insgesamt,Anzahl,K03453,9199
+2023,Emsland,Fortzüge,Insgesamt,Anzahl,K03454,8060
+2023,Friesland,Fortzüge,Insgesamt,Anzahl,K03455,911
+2023,Grafschaft Bentheim,Fortzüge,Insgesamt,Anzahl,K03456,1890
+2023,Leer,Fortzüge,Insgesamt,Anzahl,K03457,3208
+2023,Oldenburg,Fortzüge,Insgesamt,Anzahl,K03458,2756
+2023,Osnabrück,Fortzüge,Insgesamt,Anzahl,K03459,6823
+2023,Vechta,Fortzüge,Insgesamt,Anzahl,K03460,3487
+2023,Wesermarsch,Fortzüge,Insgesamt,Anzahl,K03461,1229
+2023,Wittmund,Fortzüge,Insgesamt,Anzahl,K03462,604
+2023,Statistische Region Weser-Ems,Fortzüge,Insgesamt,Anzahl,K034,48797
+2023,Niedersachsen,Fortzüge,Insgesamt,Anzahl,,117610
 2022,"Braunschweig, Stadt",Fortzüge,Insgesamt,Anzahl,K03101,2745
 2022,"Salzgitter, Stadt",Fortzüge,Insgesamt,Anzahl,K03102,1280
 2022,"Wolfsburg, Stadt",Fortzüge,Insgesamt,Anzahl,K03103,1257
@@ -4055,6 +4367,58 @@ Year,Gebietseinheit,Wanderung,Nationalität / Geschlecht,Units,GeoCode,Value
 2010,Wittmund,Fortzüge,Insgesamt,Anzahl,K03462,245
 2010,Statistische Region Weser-Ems,Fortzüge,Insgesamt,Anzahl,K034,27455
 2010,Niedersachsen,Fortzüge,Insgesamt,Anzahl,,62325
+2023,"Braunschweig, Stadt",Fortzüge,Deutsche,Anzahl,K03101,712
+2023,"Salzgitter, Stadt",Fortzüge,Deutsche,Anzahl,K03102,246
+2023,"Wolfsburg, Stadt",Fortzüge,Deutsche,Anzahl,K03103,316
+2023,Gifhorn,Fortzüge,Deutsche,Anzahl,K03151,292
+2023,Goslar,Fortzüge,Deutsche,Anzahl,K03153,352
+2023,Helmstedt,Fortzüge,Deutsche,Anzahl,K03154,216
+2023,Northeim,Fortzüge,Deutsche,Anzahl,K03155,280
+2023,Peine,Fortzüge,Deutsche,Anzahl,K03157,312
+2023,Wolfenbüttel,Fortzüge,Deutsche,Anzahl,K03158,244
+2023,Göttingen,Fortzüge,Deutsche,Anzahl,K03159,1210
+2023,Statistische Region Braunschweig,Fortzüge,Deutsche,Anzahl,K031,4180
+2023,Region Hannover,Fortzüge,Deutsche,Anzahl,K03241,3479
+2023,"dav. Hannover, Lhst.",Fortzüge,Deutsche,Anzahl,K03241001,1973
+2023,"dav. Hannover, Umland",Fortzüge,Deutsche,Anzahl,K03241999,1506
+2023,Diepholz,Fortzüge,Deutsche,Anzahl,K03251,675
+2023,Hameln-Pyrmont,Fortzüge,Deutsche,Anzahl,K03252,426
+2023,Hildesheim,Fortzüge,Deutsche,Anzahl,K03254,601
+2023,Holzminden,Fortzüge,Deutsche,Anzahl,K03255,175
+2023,Nienburg (Weser),Fortzüge,Deutsche,Anzahl,K03256,341
+2023,Schaumburg,Fortzüge,Deutsche,Anzahl,K03257,466
+2023,Statistische Region Hannover,Fortzüge,Deutsche,Anzahl,K032,6163
+2023,Celle,Fortzüge,Deutsche,Anzahl,K03351,464
+2023,Cuxhaven,Fortzüge,Deutsche,Anzahl,K03352,557
+2023,Harburg,Fortzüge,Deutsche,Anzahl,K03353,723
+2023,Lüchow-Dannenberg,Fortzüge,Deutsche,Anzahl,K03354,171
+2023,Lüneburg,Fortzüge,Deutsche,Anzahl,K03355,600
+2023,Osterholz,Fortzüge,Deutsche,Anzahl,K03356,253
+2023,Rotenburg (Wümme),Fortzüge,Deutsche,Anzahl,K03357,407
+2023,Heidekreis,Fortzüge,Deutsche,Anzahl,K03358,374
+2023,Stade,Fortzüge,Deutsche,Anzahl,K03359,619
+2023,Uelzen,Fortzüge,Deutsche,Anzahl,K03360,293
+2023,Verden,Fortzüge,Deutsche,Anzahl,K03361,303
+2023,Statistische Region Lüneburg,Fortzüge,Deutsche,Anzahl,K033,4764
+2023,"Delmenhorst, Stadt",Fortzüge,Deutsche,Anzahl,K03401,307
+2023,"Emden, Stadt",Fortzüge,Deutsche,Anzahl,K03402,178
+2023,"Oldenburg (Oldb), Stadt",Fortzüge,Deutsche,Anzahl,K03403,624
+2023,"Osnabrück, Stadt",Fortzüge,Deutsche,Anzahl,K03404,489
+2023,"Wilhelmshaven, Stadt",Fortzüge,Deutsche,Anzahl,K03405,287
+2023,Ammerland,Fortzüge,Deutsche,Anzahl,K03451,221
+2023,Aurich,Fortzüge,Deutsche,Anzahl,K03452,426
+2023,Cloppenburg,Fortzüge,Deutsche,Anzahl,K03453,417
+2023,Emsland,Fortzüge,Deutsche,Anzahl,K03454,839
+2023,Friesland,Fortzüge,Deutsche,Anzahl,K03455,214
+2023,Grafschaft Bentheim,Fortzüge,Deutsche,Anzahl,K03456,282
+2023,Leer,Fortzüge,Deutsche,Anzahl,K03457,430
+2023,Oldenburg,Fortzüge,Deutsche,Anzahl,K03458,220
+2023,Osnabrück,Fortzüge,Deutsche,Anzahl,K03459,825
+2023,Vechta,Fortzüge,Deutsche,Anzahl,K03460,383
+2023,Wesermarsch,Fortzüge,Deutsche,Anzahl,K03461,282
+2023,Wittmund,Fortzüge,Deutsche,Anzahl,K03462,137
+2023,Statistische Region Weser-Ems,Fortzüge,Deutsche,Anzahl,K034,6561
+2023,Niedersachsen,Fortzüge,Deutsche,Anzahl,,21668
 2022,"Braunschweig, Stadt",Fortzüge,Deutsche,Anzahl,K03101,684
 2022,"Salzgitter, Stadt",Fortzüge,Deutsche,Anzahl,K03102,245
 2022,"Wolfsburg, Stadt",Fortzüge,Deutsche,Anzahl,K03103,300
@@ -4731,6 +5095,58 @@ Year,Gebietseinheit,Wanderung,Nationalität / Geschlecht,Units,GeoCode,Value
 2010,Wittmund,Fortzüge,Deutsche,Anzahl,K03462,56
 2010,Statistische Region Weser-Ems,Fortzüge,Deutsche,Anzahl,K034,2455
 2010,Niedersachsen,Fortzüge,Deutsche,Anzahl,,9700
+2023,"Braunschweig, Stadt",Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03101,4917
+2023,"Salzgitter, Stadt",Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03102,1173
+2023,"Wolfsburg, Stadt",Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03103,1067
+2023,Gifhorn,Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03151,1076
+2023,Goslar,Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03153,1274
+2023,Helmstedt,Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03154,754
+2023,Northeim,Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03155,906
+2023,Peine,Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03157,1327
+2023,Wolfenbüttel,Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03158,586
+2023,Göttingen,Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03159,3168
+2023,Statistische Region Braunschweig,Fortzüge,Ausländerinnen und Ausländer,Anzahl,K031,16248
+2023,Region Hannover,Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03241,10881
+2023,"dav. Hannover, Lhst.",Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03241001,5887
+2023,"dav. Hannover, Umland",Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03241999,4994
+2023,Diepholz,Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03251,2470
+2023,Hameln-Pyrmont,Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03252,1460
+2023,Hildesheim,Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03254,2293
+2023,Holzminden,Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03255,577
+2023,Nienburg (Weser),Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03256,1241
+2023,Schaumburg,Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03257,1292
+2023,Statistische Region Hannover,Fortzüge,Ausländerinnen und Ausländer,Anzahl,K032,20214
+2023,Celle,Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03351,1612
+2023,Cuxhaven,Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03352,1232
+2023,Harburg,Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03353,2722
+2023,Lüchow-Dannenberg,Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03354,273
+2023,Lüneburg,Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03355,1729
+2023,Osterholz,Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03356,641
+2023,Rotenburg (Wümme),Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03357,1453
+2023,Heidekreis,Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03358,3333
+2023,Stade,Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03359,2368
+2023,Uelzen,Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03360,660
+2023,Verden,Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03361,1221
+2023,Statistische Region Lüneburg,Fortzüge,Ausländerinnen und Ausländer,Anzahl,K033,17244
+2023,"Delmenhorst, Stadt",Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03401,1239
+2023,"Emden, Stadt",Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03402,565
+2023,"Oldenburg (Oldb), Stadt",Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03403,1401
+2023,"Osnabrück, Stadt",Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03404,1466
+2023,"Wilhelmshaven, Stadt",Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03405,634
+2023,Ammerland,Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03451,1345
+2023,Aurich,Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03452,1448
+2023,Cloppenburg,Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03453,8782
+2023,Emsland,Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03454,7221
+2023,Friesland,Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03455,697
+2023,Grafschaft Bentheim,Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03456,1608
+2023,Leer,Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03457,2778
+2023,Oldenburg,Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03458,2536
+2023,Osnabrück,Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03459,5998
+2023,Vechta,Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03460,3104
+2023,Wesermarsch,Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03461,947
+2023,Wittmund,Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03462,467
+2023,Statistische Region Weser-Ems,Fortzüge,Ausländerinnen und Ausländer,Anzahl,K034,42236
+2023,Niedersachsen,Fortzüge,Ausländerinnen und Ausländer,Anzahl,,95942
 2022,"Braunschweig, Stadt",Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03101,2061
 2022,"Salzgitter, Stadt",Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03102,1035
 2022,"Wolfsburg, Stadt",Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03103,957
@@ -5407,6 +5823,58 @@ Year,Gebietseinheit,Wanderung,Nationalität / Geschlecht,Units,GeoCode,Value
 2010,Wittmund,Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03462,189
 2010,Statistische Region Weser-Ems,Fortzüge,Ausländerinnen und Ausländer,Anzahl,K034,25000
 2010,Niedersachsen,Fortzüge,Ausländerinnen und Ausländer,Anzahl,,52625
+2023,"Braunschweig, Stadt",Fortzüge,Männer,Anzahl,K03101,3694
+2023,"Salzgitter, Stadt",Fortzüge,Männer,Anzahl,K03102,889
+2023,"Wolfsburg, Stadt",Fortzüge,Männer,Anzahl,K03103,790
+2023,Gifhorn,Fortzüge,Männer,Anzahl,K03151,751
+2023,Goslar,Fortzüge,Männer,Anzahl,K03153,993
+2023,Helmstedt,Fortzüge,Männer,Anzahl,K03154,563
+2023,Northeim,Fortzüge,Männer,Anzahl,K03155,662
+2023,Peine,Fortzüge,Männer,Anzahl,K03157,1024
+2023,Wolfenbüttel,Fortzüge,Männer,Anzahl,K03158,488
+2023,Göttingen,Fortzüge,Männer,Anzahl,K03159,2408
+2023,Statistische Region Braunschweig,Fortzüge,Männer,Anzahl,K031,12262
+2023,Region Hannover,Fortzüge,Männer,Anzahl,K03241,8803
+2023,"dav. Hannover, Lhst.",Fortzüge,Männer,Anzahl,K03241001,4726
+2023,"dav. Hannover, Umland",Fortzüge,Männer,Anzahl,K03241999,4077
+2023,Diepholz,Fortzüge,Männer,Anzahl,K03251,1860
+2023,Hameln-Pyrmont,Fortzüge,Männer,Anzahl,K03252,1106
+2023,Hildesheim,Fortzüge,Männer,Anzahl,K03254,1696
+2023,Holzminden,Fortzüge,Männer,Anzahl,K03255,413
+2023,Nienburg (Weser),Fortzüge,Männer,Anzahl,K03256,973
+2023,Schaumburg,Fortzüge,Männer,Anzahl,K03257,1073
+2023,Statistische Region Hannover,Fortzüge,Männer,Anzahl,K032,15924
+2023,Celle,Fortzüge,Männer,Anzahl,K03351,1226
+2023,Cuxhaven,Fortzüge,Männer,Anzahl,K03352,988
+2023,Harburg,Fortzüge,Männer,Anzahl,K03353,2203
+2023,Lüchow-Dannenberg,Fortzüge,Männer,Anzahl,K03354,258
+2023,Lüneburg,Fortzüge,Männer,Anzahl,K03355,1383
+2023,Osterholz,Fortzüge,Männer,Anzahl,K03356,462
+2023,Rotenburg (Wümme),Fortzüge,Männer,Anzahl,K03357,1125
+2023,Heidekreis,Fortzüge,Männer,Anzahl,K03358,2317
+2023,Stade,Fortzüge,Männer,Anzahl,K03359,1789
+2023,Uelzen,Fortzüge,Männer,Anzahl,K03360,548
+2023,Verden,Fortzüge,Männer,Anzahl,K03361,906
+2023,Statistische Region Lüneburg,Fortzüge,Männer,Anzahl,K033,13205
+2023,"Delmenhorst, Stadt",Fortzüge,Männer,Anzahl,K03401,910
+2023,"Emden, Stadt",Fortzüge,Männer,Anzahl,K03402,482
+2023,"Oldenburg (Oldb), Stadt",Fortzüge,Männer,Anzahl,K03403,1156
+2023,"Osnabrück, Stadt",Fortzüge,Männer,Anzahl,K03404,1110
+2023,"Wilhelmshaven, Stadt",Fortzüge,Männer,Anzahl,K03405,572
+2023,Ammerland,Fortzüge,Männer,Anzahl,K03451,932
+2023,Aurich,Fortzüge,Männer,Anzahl,K03452,1079
+2023,Cloppenburg,Fortzüge,Männer,Anzahl,K03453,5844
+2023,Emsland,Fortzüge,Männer,Anzahl,K03454,5551
+2023,Friesland,Fortzüge,Männer,Anzahl,K03455,525
+2023,Grafschaft Bentheim,Fortzüge,Männer,Anzahl,K03456,1151
+2023,Leer,Fortzüge,Männer,Anzahl,K03457,2366
+2023,Oldenburg,Fortzüge,Männer,Anzahl,K03458,1567
+2023,Osnabrück,Fortzüge,Männer,Anzahl,K03459,4110
+2023,Vechta,Fortzüge,Männer,Anzahl,K03460,2001
+2023,Wesermarsch,Fortzüge,Männer,Anzahl,K03461,749
+2023,Wittmund,Fortzüge,Männer,Anzahl,K03462,308
+2023,Statistische Region Weser-Ems,Fortzüge,Männer,Anzahl,K034,30413
+2023,Niedersachsen,Fortzüge,Männer,Anzahl,,71804
 2022,"Braunschweig, Stadt",Fortzüge,Männer,Anzahl,K03101,1699
 2022,"Salzgitter, Stadt",Fortzüge,Männer,Anzahl,K03102,823
 2022,"Wolfsburg, Stadt",Fortzüge,Männer,Anzahl,K03103,749
@@ -6083,6 +6551,58 @@ Year,Gebietseinheit,Wanderung,Nationalität / Geschlecht,Units,GeoCode,Value
 2010,Wittmund,Fortzüge,Männer,Anzahl,K03462,106
 2010,Statistische Region Weser-Ems,Fortzüge,Männer,Anzahl,K034,16146
 2010,Niedersachsen,Fortzüge,Männer,Anzahl,,38113
+2023,"Braunschweig, Stadt",Fortzüge,Frauen,Anzahl,K03101,1935
+2023,"Salzgitter, Stadt",Fortzüge,Frauen,Anzahl,K03102,530
+2023,"Wolfsburg, Stadt",Fortzüge,Frauen,Anzahl,K03103,593
+2023,Gifhorn,Fortzüge,Frauen,Anzahl,K03151,617
+2023,Goslar,Fortzüge,Frauen,Anzahl,K03153,633
+2023,Helmstedt,Fortzüge,Frauen,Anzahl,K03154,407
+2023,Northeim,Fortzüge,Frauen,Anzahl,K03155,524
+2023,Peine,Fortzüge,Frauen,Anzahl,K03157,615
+2023,Wolfenbüttel,Fortzüge,Frauen,Anzahl,K03158,342
+2023,Göttingen,Fortzüge,Frauen,Anzahl,K03159,1970
+2023,Statistische Region Braunschweig,Fortzüge,Frauen,Anzahl,K031,8166
+2023,Region Hannover,Fortzüge,Frauen,Anzahl,K03241,5557
+2023,"dav. Hannover, Lhst.",Fortzüge,Frauen,Anzahl,K03241001,3134
+2023,"dav. Hannover, Umland",Fortzüge,Frauen,Anzahl,K03241999,2423
+2023,Diepholz,Fortzüge,Frauen,Anzahl,K03251,1285
+2023,Hameln-Pyrmont,Fortzüge,Frauen,Anzahl,K03252,780
+2023,Hildesheim,Fortzüge,Frauen,Anzahl,K03254,1198
+2023,Holzminden,Fortzüge,Frauen,Anzahl,K03255,339
+2023,Nienburg (Weser),Fortzüge,Frauen,Anzahl,K03256,609
+2023,Schaumburg,Fortzüge,Frauen,Anzahl,K03257,685
+2023,Statistische Region Hannover,Fortzüge,Frauen,Anzahl,K032,10453
+2023,Celle,Fortzüge,Frauen,Anzahl,K03351,850
+2023,Cuxhaven,Fortzüge,Frauen,Anzahl,K03352,801
+2023,Harburg,Fortzüge,Frauen,Anzahl,K03353,1242
+2023,Lüchow-Dannenberg,Fortzüge,Frauen,Anzahl,K03354,186
+2023,Lüneburg,Fortzüge,Frauen,Anzahl,K03355,946
+2023,Osterholz,Fortzüge,Frauen,Anzahl,K03356,432
+2023,Rotenburg (Wümme),Fortzüge,Frauen,Anzahl,K03357,735
+2023,Heidekreis,Fortzüge,Frauen,Anzahl,K03358,1390
+2023,Stade,Fortzüge,Frauen,Anzahl,K03359,1198
+2023,Uelzen,Fortzüge,Frauen,Anzahl,K03360,405
+2023,Verden,Fortzüge,Frauen,Anzahl,K03361,618
+2023,Statistische Region Lüneburg,Fortzüge,Frauen,Anzahl,K033,8803
+2023,"Delmenhorst, Stadt",Fortzüge,Frauen,Anzahl,K03401,636
+2023,"Emden, Stadt",Fortzüge,Frauen,Anzahl,K03402,261
+2023,"Oldenburg (Oldb), Stadt",Fortzüge,Frauen,Anzahl,K03403,869
+2023,"Osnabrück, Stadt",Fortzüge,Frauen,Anzahl,K03404,845
+2023,"Wilhelmshaven, Stadt",Fortzüge,Frauen,Anzahl,K03405,349
+2023,Ammerland,Fortzüge,Frauen,Anzahl,K03451,634
+2023,Aurich,Fortzüge,Frauen,Anzahl,K03452,795
+2023,Cloppenburg,Fortzüge,Frauen,Anzahl,K03453,3355
+2023,Emsland,Fortzüge,Frauen,Anzahl,K03454,2509
+2023,Friesland,Fortzüge,Frauen,Anzahl,K03455,386
+2023,Grafschaft Bentheim,Fortzüge,Frauen,Anzahl,K03456,739
+2023,Leer,Fortzüge,Frauen,Anzahl,K03457,842
+2023,Oldenburg,Fortzüge,Frauen,Anzahl,K03458,1189
+2023,Osnabrück,Fortzüge,Frauen,Anzahl,K03459,2713
+2023,Vechta,Fortzüge,Frauen,Anzahl,K03460,1486
+2023,Wesermarsch,Fortzüge,Frauen,Anzahl,K03461,480
+2023,Wittmund,Fortzüge,Frauen,Anzahl,K03462,296
+2023,Statistische Region Weser-Ems,Fortzüge,Frauen,Anzahl,K034,18384
+2023,Niedersachsen,Fortzüge,Frauen,Anzahl,,45806
 2022,"Braunschweig, Stadt",Fortzüge,Frauen,Anzahl,K03101,1046
 2022,"Salzgitter, Stadt",Fortzüge,Frauen,Anzahl,K03102,457
 2022,"Wolfsburg, Stadt",Fortzüge,Frauen,Anzahl,K03103,508
@@ -6759,6 +7279,58 @@ Year,Gebietseinheit,Wanderung,Nationalität / Geschlecht,Units,GeoCode,Value
 2010,Wittmund,Fortzüge,Frauen,Anzahl,K03462,139
 2010,Statistische Region Weser-Ems,Fortzüge,Frauen,Anzahl,K034,11309
 2010,Niedersachsen,Fortzüge,Frauen,Anzahl,,24212
+2023,"Braunschweig, Stadt",Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03101,5231
+2023,"Salzgitter, Stadt",Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03102,815
+2023,"Wolfsburg, Stadt",Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03103,882
+2023,Gifhorn,Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03151,387
+2023,Goslar,Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03153,2282
+2023,Helmstedt,Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03154,239
+2023,Northeim,Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03155,416
+2023,Peine,Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03157,534
+2023,Wolfenbüttel,Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03158,337
+2023,Göttingen,Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03159,11815
+2023,Statistische Region Braunschweig,Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K031,22938
+2023,Region Hannover,Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03241,6128
+2023,"dav. Hannover, Lhst.",Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03241001,4086
+2023,"dav. Hannover, Umland",Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03241999,2042
+2023,Diepholz,Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03251,601
+2023,Hameln-Pyrmont,Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03252,506
+2023,Hildesheim,Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03254,525
+2023,Holzminden,Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03255,384
+2023,Nienburg (Weser),Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03256,363
+2023,Schaumburg,Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03257,264
+2023,Statistische Region Hannover,Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K032,8771
+2023,Celle,Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03351,597
+2023,Cuxhaven,Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03352,490
+2023,Harburg,Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03353,361
+2023,Lüchow-Dannenberg,Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03354,152
+2023,Lüneburg,Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03355,332
+2023,Osterholz,Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03356,144
+2023,Rotenburg (Wümme),Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03357,299
+2023,Heidekreis,Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03358,1799
+2023,Stade,Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03359,804
+2023,Uelzen,Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03360,1408
+2023,Verden,Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03361,511
+2023,Statistische Region Lüneburg,Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K033,6897
+2023,"Delmenhorst, Stadt",Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03401,313
+2023,"Emden, Stadt",Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03402,304
+2023,"Oldenburg (Oldb), Stadt",Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03403,3807
+2023,"Osnabrück, Stadt",Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03404,3020
+2023,"Wilhelmshaven, Stadt",Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03405,864
+2023,Ammerland,Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03451,261
+2023,Aurich,Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03452,677
+2023,Cloppenburg,Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03453,289
+2023,Emsland,Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03454,2165
+2023,Friesland,Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03455,183
+2023,Grafschaft Bentheim,Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03456,726
+2023,Leer,Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03457,-939
+2023,Oldenburg,Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03458,345
+2023,Osnabrück,Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03459,11044
+2023,Vechta,Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03460,477
+2023,Wesermarsch,Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03461,133
+2023,Wittmund,Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03462,145
+2023,Statistische Region Weser-Ems,Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K034,23814
+2023,Niedersachsen,Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,,62420
 2022,"Braunschweig, Stadt",Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03101,6184
 2022,"Salzgitter, Stadt",Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03102,1685
 2022,"Wolfsburg, Stadt",Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03103,2428
@@ -7435,6 +8007,58 @@ Year,Gebietseinheit,Wanderung,Nationalität / Geschlecht,Units,GeoCode,Value
 2010,Wittmund,Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K03462,115
 2010,Statistische Region Weser-Ems,Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,K034,6213
 2010,Niedersachsen,Saldo der Zu- und Fortzüge,Insgesamt,Anzahl,,14458
+2023,"Braunschweig, Stadt",Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03101,-165
+2023,"Salzgitter, Stadt",Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03102,-32
+2023,"Wolfsburg, Stadt",Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03103,-86
+2023,Gifhorn,Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03151,-27
+2023,Goslar,Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03153,-81
+2023,Helmstedt,Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03154,-44
+2023,Northeim,Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03155,-48
+2023,Peine,Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03157,-69
+2023,Wolfenbüttel,Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03158,-62
+2023,Göttingen,Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03159,5583
+2023,Statistische Region Braunschweig,Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K031,4969
+2023,Region Hannover,Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03241,-824
+2023,"dav. Hannover, Lhst.",Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03241001,-484
+2023,"dav. Hannover, Umland",Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03241999,-340
+2023,Diepholz,Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03251,-190
+2023,Hameln-Pyrmont,Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03252,-88
+2023,Hildesheim,Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03254,-165
+2023,Holzminden,Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03255,-20
+2023,Nienburg (Weser),Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03256,-66
+2023,Schaumburg,Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03257,-138
+2023,Statistische Region Hannover,Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K032,-1491
+2023,Celle,Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03351,-46
+2023,Cuxhaven,Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03352,-143
+2023,Harburg,Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03353,-250
+2023,Lüchow-Dannenberg,Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03354,-9
+2023,Lüneburg,Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03355,-105
+2023,Osterholz,Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03356,-92
+2023,Rotenburg (Wümme),Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03357,-102
+2023,Heidekreis,Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03358,-100
+2023,Stade,Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03359,-227
+2023,Uelzen,Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03360,-79
+2023,Verden,Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03361,-51
+2023,Statistische Region Lüneburg,Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K033,-1204
+2023,"Delmenhorst, Stadt",Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03401,-97
+2023,"Emden, Stadt",Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03402,-64
+2023,"Oldenburg (Oldb), Stadt",Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03403,-167
+2023,"Osnabrück, Stadt",Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03404,-118
+2023,"Wilhelmshaven, Stadt",Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03405,23
+2023,Ammerland,Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03451,-40
+2023,Aurich,Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03452,-71
+2023,Cloppenburg,Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03453,-88
+2023,Emsland,Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03454,-155
+2023,Friesland,Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03455,-47
+2023,Grafschaft Bentheim,Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03456,-70
+2023,Leer,Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03457,-46
+2023,Oldenburg,Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03458,-8
+2023,Osnabrück,Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03459,-313
+2023,Vechta,Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03460,-95
+2023,Wesermarsch,Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03461,-51
+2023,Wittmund,Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03462,-1
+2023,Statistische Region Weser-Ems,Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K034,-1408
+2023,Niedersachsen,Saldo der Zu- und Fortzüge,Deutsche,Anzahl,,866
 2022,"Braunschweig, Stadt",Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03101,-211
 2022,"Salzgitter, Stadt",Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03102,-56
 2022,"Wolfsburg, Stadt",Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03103,-103
@@ -8111,6 +8735,58 @@ Year,Gebietseinheit,Wanderung,Nationalität / Geschlecht,Units,GeoCode,Value
 2010,Wittmund,Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K03462,18
 2010,Statistische Region Weser-Ems,Saldo der Zu- und Fortzüge,Deutsche,Anzahl,K034,-293
 2010,Niedersachsen,Saldo der Zu- und Fortzüge,Deutsche,Anzahl,,215
+2023,"Braunschweig, Stadt",Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03101,5396
+2023,"Salzgitter, Stadt",Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03102,847
+2023,"Wolfsburg, Stadt",Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03103,968
+2023,Gifhorn,Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03151,414
+2023,Goslar,Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03153,2363
+2023,Helmstedt,Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03154,283
+2023,Northeim,Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03155,464
+2023,Peine,Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03157,603
+2023,Wolfenbüttel,Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03158,399
+2023,Göttingen,Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03159,6232
+2023,Statistische Region Braunschweig,Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K031,17969
+2023,Region Hannover,Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03241,6952
+2023,"dav. Hannover, Lhst.",Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03241001,4570
+2023,"dav. Hannover, Umland",Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03241999,2382
+2023,Diepholz,Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03251,791
+2023,Hameln-Pyrmont,Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03252,594
+2023,Hildesheim,Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03254,690
+2023,Holzminden,Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03255,404
+2023,Nienburg (Weser),Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03256,429
+2023,Schaumburg,Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03257,402
+2023,Statistische Region Hannover,Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K032,10262
+2023,Celle,Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03351,643
+2023,Cuxhaven,Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03352,633
+2023,Harburg,Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03353,611
+2023,Lüchow-Dannenberg,Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03354,161
+2023,Lüneburg,Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03355,437
+2023,Osterholz,Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03356,236
+2023,Rotenburg (Wümme),Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03357,401
+2023,Heidekreis,Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03358,1899
+2023,Stade,Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03359,1031
+2023,Uelzen,Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03360,1487
+2023,Verden,Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03361,562
+2023,Statistische Region Lüneburg,Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K033,8101
+2023,"Delmenhorst, Stadt",Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03401,410
+2023,"Emden, Stadt",Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03402,368
+2023,"Oldenburg (Oldb), Stadt",Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03403,3974
+2023,"Osnabrück, Stadt",Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03404,3138
+2023,"Wilhelmshaven, Stadt",Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03405,841
+2023,Ammerland,Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03451,301
+2023,Aurich,Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03452,748
+2023,Cloppenburg,Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03453,377
+2023,Emsland,Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03454,2320
+2023,Friesland,Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03455,230
+2023,Grafschaft Bentheim,Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03456,796
+2023,Leer,Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03457,-893
+2023,Oldenburg,Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03458,353
+2023,Osnabrück,Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03459,11357
+2023,Vechta,Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03460,572
+2023,Wesermarsch,Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03461,184
+2023,Wittmund,Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03462,146
+2023,Statistische Region Weser-Ems,Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K034,25222
+2023,Niedersachsen,Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,,61554
 2022,"Braunschweig, Stadt",Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03101,6395
 2022,"Salzgitter, Stadt",Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03102,1741
 2022,"Wolfsburg, Stadt",Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03103,2531
@@ -8787,6 +9463,58 @@ Year,Gebietseinheit,Wanderung,Nationalität / Geschlecht,Units,GeoCode,Value
 2010,Wittmund,Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K03462,97
 2010,Statistische Region Weser-Ems,Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,K034,6506
 2010,Niedersachsen,Saldo der Zu- und Fortzüge,Ausländerinnen und Ausländer,Anzahl,,14243
+2023,"Braunschweig, Stadt",Saldo der Zu- und Fortzüge,Männer,Anzahl,K03101,3358
+2023,"Salzgitter, Stadt",Saldo der Zu- und Fortzüge,Männer,Anzahl,K03102,507
+2023,"Wolfsburg, Stadt",Saldo der Zu- und Fortzüge,Männer,Anzahl,K03103,478
+2023,Gifhorn,Saldo der Zu- und Fortzüge,Männer,Anzahl,K03151,293
+2023,Goslar,Saldo der Zu- und Fortzüge,Männer,Anzahl,K03153,1446
+2023,Helmstedt,Saldo der Zu- und Fortzüge,Männer,Anzahl,K03154,141
+2023,Northeim,Saldo der Zu- und Fortzüge,Männer,Anzahl,K03155,280
+2023,Peine,Saldo der Zu- und Fortzüge,Männer,Anzahl,K03157,309
+2023,Wolfenbüttel,Saldo der Zu- und Fortzüge,Männer,Anzahl,K03158,209
+2023,Göttingen,Saldo der Zu- und Fortzüge,Männer,Anzahl,K03159,6125
+2023,Statistische Region Braunschweig,Saldo der Zu- und Fortzüge,Männer,Anzahl,K031,13146
+2023,Region Hannover,Saldo der Zu- und Fortzüge,Männer,Anzahl,K03241,3301
+2023,"dav. Hannover, Lhst.",Saldo der Zu- und Fortzüge,Männer,Anzahl,K03241001,2114
+2023,"dav. Hannover, Umland",Saldo der Zu- und Fortzüge,Männer,Anzahl,K03241999,1187
+2023,Diepholz,Saldo der Zu- und Fortzüge,Männer,Anzahl,K03251,390
+2023,Hameln-Pyrmont,Saldo der Zu- und Fortzüge,Männer,Anzahl,K03252,223
+2023,Hildesheim,Saldo der Zu- und Fortzüge,Männer,Anzahl,K03254,325
+2023,Holzminden,Saldo der Zu- und Fortzüge,Männer,Anzahl,K03255,220
+2023,Nienburg (Weser),Saldo der Zu- und Fortzüge,Männer,Anzahl,K03256,205
+2023,Schaumburg,Saldo der Zu- und Fortzüge,Männer,Anzahl,K03257,154
+2023,Statistische Region Hannover,Saldo der Zu- und Fortzüge,Männer,Anzahl,K032,4818
+2023,Celle,Saldo der Zu- und Fortzüge,Männer,Anzahl,K03351,332
+2023,Cuxhaven,Saldo der Zu- und Fortzüge,Männer,Anzahl,K03352,289
+2023,Harburg,Saldo der Zu- und Fortzüge,Männer,Anzahl,K03353,173
+2023,Lüchow-Dannenberg,Saldo der Zu- und Fortzüge,Männer,Anzahl,K03354,76
+2023,Lüneburg,Saldo der Zu- und Fortzüge,Männer,Anzahl,K03355,124
+2023,Osterholz,Saldo der Zu- und Fortzüge,Männer,Anzahl,K03356,89
+2023,Rotenburg (Wümme),Saldo der Zu- und Fortzüge,Männer,Anzahl,K03357,153
+2023,Heidekreis,Saldo der Zu- und Fortzüge,Männer,Anzahl,K03358,1206
+2023,Stade,Saldo der Zu- und Fortzüge,Männer,Anzahl,K03359,389
+2023,Uelzen,Saldo der Zu- und Fortzüge,Männer,Anzahl,K03360,972
+2023,Verden,Saldo der Zu- und Fortzüge,Männer,Anzahl,K03361,303
+2023,Statistische Region Lüneburg,Saldo der Zu- und Fortzüge,Männer,Anzahl,K033,4106
+2023,"Delmenhorst, Stadt",Saldo der Zu- und Fortzüge,Männer,Anzahl,K03401,203
+2023,"Emden, Stadt",Saldo der Zu- und Fortzüge,Männer,Anzahl,K03402,196
+2023,"Oldenburg (Oldb), Stadt",Saldo der Zu- und Fortzüge,Männer,Anzahl,K03403,2250
+2023,"Osnabrück, Stadt",Saldo der Zu- und Fortzüge,Männer,Anzahl,K03404,1891
+2023,"Wilhelmshaven, Stadt",Saldo der Zu- und Fortzüge,Männer,Anzahl,K03405,486
+2023,Ammerland,Saldo der Zu- und Fortzüge,Männer,Anzahl,K03451,174
+2023,Aurich,Saldo der Zu- und Fortzüge,Männer,Anzahl,K03452,392
+2023,Cloppenburg,Saldo der Zu- und Fortzüge,Männer,Anzahl,K03453,98
+2023,Emsland,Saldo der Zu- und Fortzüge,Männer,Anzahl,K03454,1209
+2023,Friesland,Saldo der Zu- und Fortzüge,Männer,Anzahl,K03455,81
+2023,Grafschaft Bentheim,Saldo der Zu- und Fortzüge,Männer,Anzahl,K03456,346
+2023,Leer,Saldo der Zu- und Fortzüge,Männer,Anzahl,K03457,-924
+2023,Oldenburg,Saldo der Zu- und Fortzüge,Männer,Anzahl,K03458,193
+2023,Osnabrück,Saldo der Zu- und Fortzüge,Männer,Anzahl,K03459,7477
+2023,Vechta,Saldo der Zu- und Fortzüge,Männer,Anzahl,K03460,222
+2023,Wesermarsch,Saldo der Zu- und Fortzüge,Männer,Anzahl,K03461,88
+2023,Wittmund,Saldo der Zu- und Fortzüge,Männer,Anzahl,K03462,81
+2023,Statistische Region Weser-Ems,Saldo der Zu- und Fortzüge,Männer,Anzahl,K034,14463
+2023,Niedersachsen,Saldo der Zu- und Fortzüge,Männer,Anzahl,,36533
 2022,"Braunschweig, Stadt",Saldo der Zu- und Fortzüge,Männer,Anzahl,K03101,2961
 2022,"Salzgitter, Stadt",Saldo der Zu- und Fortzüge,Männer,Anzahl,K03102,740
 2022,"Wolfsburg, Stadt",Saldo der Zu- und Fortzüge,Männer,Anzahl,K03103,945
@@ -9463,6 +10191,58 @@ Year,Gebietseinheit,Wanderung,Nationalität / Geschlecht,Units,GeoCode,Value
 2010,Wittmund,Saldo der Zu- und Fortzüge,Männer,Anzahl,K03462,91
 2010,Statistische Region Weser-Ems,Saldo der Zu- und Fortzüge,Männer,Anzahl,K034,3783
 2010,Niedersachsen,Saldo der Zu- und Fortzüge,Männer,Anzahl,,7915
+2023,"Braunschweig, Stadt",Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03101,1873
+2023,"Salzgitter, Stadt",Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03102,308
+2023,"Wolfsburg, Stadt",Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03103,404
+2023,Gifhorn,Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03151,94
+2023,Goslar,Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03153,836
+2023,Helmstedt,Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03154,98
+2023,Northeim,Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03155,136
+2023,Peine,Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03157,225
+2023,Wolfenbüttel,Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03158,128
+2023,Göttingen,Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03159,5690
+2023,Statistische Region Braunschweig,Saldo der Zu- und Fortzüge,Frauen,Anzahl,K031,9792
+2023,Region Hannover,Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03241,2827
+2023,"dav. Hannover, Lhst.",Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03241001,1972
+2023,"dav. Hannover, Umland",Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03241999,855
+2023,Diepholz,Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03251,211
+2023,Hameln-Pyrmont,Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03252,283
+2023,Hildesheim,Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03254,200
+2023,Holzminden,Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03255,164
+2023,Nienburg (Weser),Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03256,158
+2023,Schaumburg,Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03257,110
+2023,Statistische Region Hannover,Saldo der Zu- und Fortzüge,Frauen,Anzahl,K032,3953
+2023,Celle,Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03351,265
+2023,Cuxhaven,Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03352,201
+2023,Harburg,Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03353,188
+2023,Lüchow-Dannenberg,Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03354,76
+2023,Lüneburg,Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03355,208
+2023,Osterholz,Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03356,55
+2023,Rotenburg (Wümme),Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03357,146
+2023,Heidekreis,Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03358,593
+2023,Stade,Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03359,415
+2023,Uelzen,Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03360,436
+2023,Verden,Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03361,208
+2023,Statistische Region Lüneburg,Saldo der Zu- und Fortzüge,Frauen,Anzahl,K033,2791
+2023,"Delmenhorst, Stadt",Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03401,110
+2023,"Emden, Stadt",Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03402,108
+2023,"Oldenburg (Oldb), Stadt",Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03403,1557
+2023,"Osnabrück, Stadt",Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03404,1129
+2023,"Wilhelmshaven, Stadt",Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03405,378
+2023,Ammerland,Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03451,87
+2023,Aurich,Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03452,285
+2023,Cloppenburg,Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03453,191
+2023,Emsland,Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03454,956
+2023,Friesland,Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03455,102
+2023,Grafschaft Bentheim,Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03456,380
+2023,Leer,Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03457,-15
+2023,Oldenburg,Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03458,152
+2023,Osnabrück,Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03459,3567
+2023,Vechta,Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03460,255
+2023,Wesermarsch,Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03461,45
+2023,Wittmund,Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03462,64
+2023,Statistische Region Weser-Ems,Saldo der Zu- und Fortzüge,Frauen,Anzahl,K034,9351
+2023,Niedersachsen,Saldo der Zu- und Fortzüge,Frauen,Anzahl,,25887
 2022,"Braunschweig, Stadt",Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03101,3223
 2022,"Salzgitter, Stadt",Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03102,945
 2022,"Wolfsburg, Stadt",Saldo der Zu- und Fortzüge,Frauen,Anzahl,K03103,1483
