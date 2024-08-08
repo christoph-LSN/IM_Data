@@ -35,7 +35,7 @@
                 "Türkei",
                 "Ukraine",
                 "Ungarn",
-                "Vereinigtes Königreich, Nordirland",
+                "Vereinigtes Königreich, No",
                 "EU Staaten",
                 "Afrika insgesamt",
                 "Amerika insgesamt",
@@ -52,18 +52,8 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Anzahl",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

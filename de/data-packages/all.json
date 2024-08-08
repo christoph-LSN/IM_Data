@@ -1874,7 +1874,7 @@
                 "Türkei",
                 "Ukraine",
                 "Ungarn",
-                "Vereinigtes Königreich, Nordirland",
+                "Vereinigtes Königreich, No",
                 "EU Staaten",
                 "Afrika insgesamt",
                 "Amerika insgesamt",
@@ -1892,19 +1892,8 @@
             "title": "Wanderungsziel"
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Anzahl",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
