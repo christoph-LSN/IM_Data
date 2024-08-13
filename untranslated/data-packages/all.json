@@ -4310,7 +4310,7 @@
             "type": "integer"
           },
           {
-            "name": "Gebiet",
+            "name": "Land der Staatsangehörigkeit",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4446,6 +4446,16 @@
             "constraints": {
               "enum": [
                 "Insgesamt",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Anzahl",
                 ""
               ]
             }

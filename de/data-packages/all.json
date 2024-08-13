@@ -4564,7 +4564,7 @@
             "title": "Jahr"
           },
           {
-            "name": "Gebiet",
+            "name": "Land der Staatsangehörigkeit",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4693,7 +4693,7 @@
                 ""
               ]
             },
-            "title": "Gebiet"
+            "title": "Land der Staatsangehörigkeit"
           },
           {
             "name": "Geschlecht",
@@ -4705,6 +4705,17 @@
               ]
             },
             "title": "Geschlecht"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Anzahl",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "GeoCode",
