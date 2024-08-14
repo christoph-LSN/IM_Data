@@ -141,7 +141,7 @@ map_layers:
     exclude_columns: ['Gebietseinheit']
   - geojson_file: world2.geojson #maps\NI_Kurz_Mikrozensus_Diss.geojson
     name_property: GENW
-    id_property: AGSW
+    id_property: AGSWI
     output_subfolder: World
     filename_prefix: indicator_
     exclude_columns: ['Gebietseinheit']
