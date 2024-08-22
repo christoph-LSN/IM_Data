@@ -3309,7 +3309,7 @@
             "title": "Geschlecht"
           },
           {
-            "name": "Qualifikation",
+            "name": "Kategorie",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3321,7 +3321,7 @@
                 ""
               ]
             },
-            "title": "Qualifikation"
+            "title": "Kategorie"
           },
           {
             "name": "Units",

@@ -3128,7 +3128,7 @@
             }
           },
           {
-            "name": "Qualifikation",
+            "name": "Kategorie",
             "type": "string",
             "constraints": {
               "enum": [
