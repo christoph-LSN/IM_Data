@@ -1,4 +1,4 @@
-﻿Year,Gebietseinheit,Geschlecht,Qualifikation,Units,GeoCode,Value
+﻿Year,Gebietseinheit,Geschlecht,Kategorie,Units,GeoCode,Value
 2023,"Braunschweig, Stadt",Insgesamt,"Insgesamt",Anzahl,K03101,14650
 2023,"Salzgitter, Stadt",Insgesamt,"Insgesamt",Anzahl,K03102,5873
 2023,"Wolfsburg, Stadt",Insgesamt,"Insgesamt",Anzahl,K03103,11293
@@ -155,58 +155,6 @@
 2021,"Wittmund",Insgesamt,"Insgesamt",Anzahl,K03462,998
 2021,"Statistische Region Weser-Ems",Insgesamt,"Insgesamt",Anzahl,K034,111939
 2021,"Niedersachsen",Insgesamt,"Insgesamt",Anzahl,K030,318015
-2020,"Braunschweig, Stadt",Insgesamt,"Insgesamt",Anzahl,K03101,11541
-2020,"Salzgitter, Stadt",Insgesamt,"Insgesamt",Anzahl,K03102,4878
-2020,"Wolfsburg, Stadt",Insgesamt,"Insgesamt",Anzahl,K03103,10661
-2020,"Gifhorn",Insgesamt,"Insgesamt",Anzahl,K03151,3257
-2020,"Goslar",Insgesamt,"Insgesamt",Anzahl,K03153,3225
-2020,"Helmstedt",Insgesamt,"Insgesamt",Anzahl,K03154,1701
-2020,"Northeim",Insgesamt,"Insgesamt",Anzahl,K03155,3416
-2020,"Peine",Insgesamt,"Insgesamt",Anzahl,K03157,3368
-2020,"Wolfenbüttel",Insgesamt,"Insgesamt",Anzahl,K03158,1586
-2020,"Göttingen",Insgesamt,"Insgesamt",Anzahl,K03159,9833
-2020,"Statistische Region Braunschweig",Insgesamt,"Insgesamt",Anzahl,K031,53466
-2020,"Region Hannover",Insgesamt,"Insgesamt",Anzahl,K03241,62632
-2020,"dav. Hannover, Lhst.",Insgesamt,"Insgesamt",Anzahl,K03241001,38815
-2020,"dav. Hannover, Umland",Insgesamt,"Insgesamt",Anzahl,K03241999,23817
-2020,"Diepholz",Insgesamt,"Insgesamt",Anzahl,K03251,6594
-2020,"Hameln-Pyrmont",Insgesamt,"Insgesamt",Anzahl,K03252,4124
-2020,"Hildesheim",Insgesamt,"Insgesamt",Anzahl,K03254,6461
-2020,"Holzminden",Insgesamt,"Insgesamt",Anzahl,K03255,1484
-2020,"Nienburg (Weser)",Insgesamt,"Insgesamt",Anzahl,K03256,4349
-2020,"Schaumburg",Insgesamt,"Insgesamt",Anzahl,K03257,3862
-2020,"Statistische Region Hannover",Insgesamt,"Insgesamt",Anzahl,K032,89506
-2020,"Celle",Insgesamt,"Insgesamt",Anzahl,K03351,4092
-2020,"Cuxhaven",Insgesamt,"Insgesamt",Anzahl,K03352,4388
-2020,"Harburg",Insgesamt,"Insgesamt",Anzahl,K03353,9737
-2020,"Lüchow-Dannenberg",Insgesamt,"Insgesamt",Anzahl,K03354,750
-2020,"Lüneburg",Insgesamt,"Insgesamt",Anzahl,K03355,3926
-2020,"Osterholz",Insgesamt,"Insgesamt",Anzahl,K03356,2020
-2020,"Rotenburg (Wümme)",Insgesamt,"Insgesamt",Anzahl,K03357,4630
-2020,"Heidekreis",Insgesamt,"Insgesamt",Anzahl,K03358,4303
-2020,"Stade",Insgesamt,"Insgesamt",Anzahl,K03359,5874
-2020,"Uelzen",Insgesamt,"Insgesamt",Anzahl,K03360,1682
-2020,"Verden",Insgesamt,"Insgesamt",Anzahl,K03361,5629
-2020,"Statistische Region Lüneburg",Insgesamt,"Insgesamt",Anzahl,K033,47031
-2020,"Delmenhorst, Stadt",Insgesamt,"Insgesamt",Anzahl,K03401,1864
-2020,"Emden, Stadt",Insgesamt,"Insgesamt",Anzahl,K03402,1823
-2020,"Oldenburg (Oldb), Stadt",Insgesamt,"Insgesamt",Anzahl,K03403,6162
-2020,"Osnabrück, Stadt",Insgesamt,"Insgesamt",Anzahl,K03404,8847
-2020,"Wilhelmshaven, Stadt",Insgesamt,"Insgesamt",Anzahl,K03405,1855
-2020,"Ammerland",Insgesamt,"Insgesamt",Anzahl,K03451,4153
-2020,"Aurich",Insgesamt,"Insgesamt",Anzahl,K03452,4164
-2020,"Cloppenburg",Insgesamt,"Insgesamt",Anzahl,K03453,10632
-2020,"Emsland",Insgesamt,"Insgesamt",Anzahl,K03454,14967
-2020,"Friesland",Insgesamt,"Insgesamt",Anzahl,K03455,1524
-2020,"Grafschaft Bentheim",Insgesamt,"Insgesamt",Anzahl,K03456,5790
-2020,"Leer",Insgesamt,"Insgesamt",Anzahl,K03457,3766
-2020,"Oldenburg",Insgesamt,"Insgesamt",Anzahl,K03458,3842
-2020,"Osnabrück",Insgesamt,"Insgesamt",Anzahl,K03459,17707
-2020,"Vechta",Insgesamt,"Insgesamt",Anzahl,K03460,11205
-2020,"Wesermarsch",Insgesamt,"Insgesamt",Anzahl,K03461,2505
-2020,"Wittmund",Insgesamt,"Insgesamt",Anzahl,K03462,924
-2020,"Statistische Region Weser-Ems",Insgesamt,"Insgesamt",Anzahl,K034,101730
-2020,"Niedersachsen",Insgesamt,"Insgesamt",Anzahl,K030,291733
 2020,"Braunschweig, Stadt",Insgesamt,"Insgesamt",Anzahl,K03101,11541
 2020,"Salzgitter, Stadt",Insgesamt,"Insgesamt",Anzahl,K03102,4878
 2020,"Wolfsburg, Stadt",Insgesamt,"Insgesamt",Anzahl,K03103,10661
@@ -935,58 +883,6 @@
 2020,"Wittmund",Insgesamt,"Akademischer Abschluss",Anzahl,K03462,63
 2020,"Statistische Region Weser-Ems",Insgesamt,"Akademischer Abschluss",Anzahl,K034,7517
 2020,"Niedersachsen",Insgesamt,"Akademischer Abschluss",Anzahl,K030,34334
-2020,"Braunschweig, Stadt",Insgesamt,"Akademischer Abschluss",Anzahl,K03101,2875
-2020,"Salzgitter, Stadt",Insgesamt,"Akademischer Abschluss",Anzahl,K03102,439
-2020,"Wolfsburg, Stadt",Insgesamt,"Akademischer Abschluss",Anzahl,K03103,2716
-2020,"Gifhorn",Insgesamt,"Akademischer Abschluss",Anzahl,K03151,563
-2020,"Goslar",Insgesamt,"Akademischer Abschluss",Anzahl,K03153,567
-2020,"Helmstedt",Insgesamt,"Akademischer Abschluss",Anzahl,K03154,230
-2020,"Northeim",Insgesamt,"Akademischer Abschluss",Anzahl,K03155,349
-2020,"Peine",Insgesamt,"Akademischer Abschluss",Anzahl,K03157,224
-2020,"Wolfenbüttel",Insgesamt,"Akademischer Abschluss",Anzahl,K03158,205
-2020,"Göttingen",Insgesamt,"Akademischer Abschluss",Anzahl,K03159,2771
-2020,"Statistische Region Braunschweig",Insgesamt,"Akademischer Abschluss",Anzahl,K031,10939
-2020,"Region Hannover",Insgesamt,"Akademischer Abschluss",Anzahl,K03241,8609
-2020,"dav. Hannover, Lhst.",Insgesamt,"Akademischer Abschluss",Anzahl,K03241001,6687
-2020,"dav. Hannover, Umland",Insgesamt,"Akademischer Abschluss",Anzahl,K03241999,1922
-2020,"Diepholz",Insgesamt,"Akademischer Abschluss",Anzahl,K03251,477
-2020,"Hameln-Pyrmont",Insgesamt,"Akademischer Abschluss",Anzahl,K03252,458
-2020,"Hildesheim",Insgesamt,"Akademischer Abschluss",Anzahl,K03254,1168
-2020,"Holzminden",Insgesamt,"Akademischer Abschluss",Anzahl,K03255,188
-2020,"Nienburg (Weser)",Insgesamt,"Akademischer Abschluss",Anzahl,K03256,243
-2020,"Schaumburg",Insgesamt,"Akademischer Abschluss",Anzahl,K03257,338
-2020,"Statistische Region Hannover",Insgesamt,"Akademischer Abschluss",Anzahl,K032,11481
-2020,"Celle",Insgesamt,"Akademischer Abschluss",Anzahl,K03351,576
-2020,"Cuxhaven",Insgesamt,"Akademischer Abschluss",Anzahl,K03352,293
-2020,"Harburg",Insgesamt,"Akademischer Abschluss",Anzahl,K03353,677
-2020,"Lüchow-Dannenberg",Insgesamt,"Akademischer Abschluss",Anzahl,K03354,87
-2020,"Lüneburg",Insgesamt,"Akademischer Abschluss",Anzahl,K03355,588
-2020,"Osterholz",Insgesamt,"Akademischer Abschluss",Anzahl,K03356,232
-2020,"Rotenburg (Wümme)",Insgesamt,"Akademischer Abschluss",Anzahl,K03357,413
-2020,"Heidekreis",Insgesamt,"Akademischer Abschluss",Anzahl,K03358,341
-2020,"Stade",Insgesamt,"Akademischer Abschluss",Anzahl,K03359,534
-2020,"Uelzen",Insgesamt,"Akademischer Abschluss",Anzahl,K03360,225
-2020,"Verden",Insgesamt,"Akademischer Abschluss",Anzahl,K03361,431
-2020,"Statistische Region Lüneburg",Insgesamt,"Akademischer Abschluss",Anzahl,K033,4397
-2020,"Delmenhorst, Stadt",Insgesamt,"Akademischer Abschluss",Anzahl,K03401,186
-2020,"Emden, Stadt",Insgesamt,"Akademischer Abschluss",Anzahl,K03402,184
-2020,"Oldenburg (Oldb), Stadt",Insgesamt,"Akademischer Abschluss",Anzahl,K03403,1119
-2020,"Osnabrück, Stadt",Insgesamt,"Akademischer Abschluss",Anzahl,K03404,1002
-2020,"Wilhelmshaven, Stadt",Insgesamt,"Akademischer Abschluss",Anzahl,K03405,273
-2020,"Ammerland",Insgesamt,"Akademischer Abschluss",Anzahl,K03451,307
-2020,"Aurich",Insgesamt,"Akademischer Abschluss",Anzahl,K03452,375
-2020,"Cloppenburg",Insgesamt,"Akademischer Abschluss",Anzahl,K03453,336
-2020,"Emsland",Insgesamt,"Akademischer Abschluss",Anzahl,K03454,1103
-2020,"Friesland",Insgesamt,"Akademischer Abschluss",Anzahl,K03455,191
-2020,"Grafschaft Bentheim",Insgesamt,"Akademischer Abschluss",Anzahl,K03456,412
-2020,"Leer",Insgesamt,"Akademischer Abschluss",Anzahl,K03457,309
-2020,"Oldenburg",Insgesamt,"Akademischer Abschluss",Anzahl,K03458,198
-2020,"Osnabrück",Insgesamt,"Akademischer Abschluss",Anzahl,K03459,807
-2020,"Vechta",Insgesamt,"Akademischer Abschluss",Anzahl,K03460,478
-2020,"Wesermarsch",Insgesamt,"Akademischer Abschluss",Anzahl,K03461,174
-2020,"Wittmund",Insgesamt,"Akademischer Abschluss",Anzahl,K03462,63
-2020,"Statistische Region Weser-Ems",Insgesamt,"Akademischer Abschluss",Anzahl,K034,7517
-2020,"Niedersachsen",Insgesamt,"Akademischer Abschluss",Anzahl,K030,34334
 2019,"Braunschweig, Stadt",Insgesamt,"Akademischer Abschluss",Anzahl,K03101,2615
 2019,"Salzgitter, Stadt",Insgesamt,"Akademischer Abschluss",Anzahl,K03102,405
 2019,"Wolfsburg, Stadt",Insgesamt,"Akademischer Abschluss",Anzahl,K03103,2462
@@ -1611,58 +1507,6 @@
 2021,"Wittmund",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03462,251
 2021,"Statistische Region Weser-Ems",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K034,30007
 2021,"Niedersachsen",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K030,96082
-2020,"Braunschweig, Stadt",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03101,3224
-2020,"Salzgitter, Stadt",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03102,1954
-2020,"Wolfsburg, Stadt",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03103,3468
-2020,"Gifhorn",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03151,896
-2020,"Goslar",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03153,982
-2020,"Helmstedt",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03154,741
-2020,"Northeim",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03155,1459
-2020,"Peine",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03157,1074
-2020,"Wolfenbüttel",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03158,646
-2020,"Göttingen",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03159,2820
-2020,"Statistische Region Braunschweig",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K031,17264
-2020,"Region Hannover",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03241,20633
-2020,"dav. Hannover, Lhst.",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03241001,12561
-2020,"dav. Hannover, Umland",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03241999,8072
-2020,"Diepholz",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03251,2173
-2020,"Hameln-Pyrmont",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03252,1522
-2020,"Hildesheim",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03254,2297
-2020,"Holzminden",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03255,491
-2020,"Nienburg (Weser)",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03256,1081
-2020,"Schaumburg",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03257,1660
-2020,"Statistische Region Hannover",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K032,29857
-2020,"Celle",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03351,1242
-2020,"Cuxhaven",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03352,1364
-2020,"Harburg",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03353,2594
-2020,"Lüchow-Dannenberg",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03354,239
-2020,"Lüneburg",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03355,1231
-2020,"Osterholz",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03356,670
-2020,"Rotenburg (Wümme)",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03357,1643
-2020,"Heidekreis",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03358,1565
-2020,"Stade",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03359,1465
-2020,"Uelzen",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03360,605
-2020,"Verden",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03361,1356
-2020,"Statistische Region Lüneburg",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K033,13974
-2020,"Delmenhorst, Stadt",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03401,583
-2020,"Emden, Stadt",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03402,607
-2020,"Oldenburg (Oldb), Stadt",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03403,1521
-2020,"Osnabrück, Stadt",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03404,2674
-2020,"Wilhelmshaven, Stadt",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03405,508
-2020,"Ammerland",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03451,1062
-2020,"Aurich",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03452,1154
-2020,"Cloppenburg",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03453,2166
-2020,"Emsland",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03454,4220
-2020,"Friesland",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03455,448
-2020,"Grafschaft Bentheim",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03456,2095
-2020,"Leer",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03457,1127
-2020,"Oldenburg",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03458,1008
-2020,"Osnabrück",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03459,4053
-2020,"Vechta",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03460,2412
-2020,"Wesermarsch",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03461,886
-2020,"Wittmund",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03462,229
-2020,"Statistische Region Weser-Ems",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K034,26753
-2020,"Niedersachsen",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K030,87848
 2020,"Braunschweig, Stadt",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03101,3224
 2020,"Salzgitter, Stadt",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03102,1954
 2020,"Wolfsburg, Stadt",Insgesamt,"mit anerkanntem Berufsabschluss",Anzahl,K03103,3468
@@ -2391,58 +2235,6 @@
 2020,"Wittmund",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03462,175
 2020,"Statistische Region Weser-Ems",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K034,26395
 2020,"Niedersachsen",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K030,75423
-2020,"Braunschweig, Stadt",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03101,2695
-2020,"Salzgitter, Stadt",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03102,1065
-2020,"Wolfsburg, Stadt",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03103,1624
-2020,"Gifhorn",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03151,801
-2020,"Goslar",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03153,843
-2020,"Helmstedt",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03154,388
-2020,"Northeim",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03155,805
-2020,"Peine",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03157,954
-2020,"Wolfenbüttel",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03158,379
-2020,"Göttingen",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03159,2489
-2020,"Statistische Region Braunschweig",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K031,12043
-2020,"Region Hannover",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03241,17390
-2020,"dav. Hannover, Lhst.",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03241001,10501
-2020,"dav. Hannover, Umland",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03241999,6889
-2020,"Diepholz",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03251,1605
-2020,"Hameln-Pyrmont",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03252,1166
-2020,"Hildesheim",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03254,1644
-2020,"Holzminden",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03255,413
-2020,"Nienburg (Weser)",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03256,1309
-2020,"Schaumburg",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03257,1062
-2020,"Statistische Region Hannover",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K032,24589
-2020,"Celle",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03351,1284
-2020,"Cuxhaven",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03352,1148
-2020,"Harburg",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03353,2788
-2020,"Lüchow-Dannenberg",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03354,125
-2020,"Lüneburg",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03355,1067
-2020,"Osterholz",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03356,538
-2020,"Rotenburg (Wümme)",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03357,1221
-2020,"Heidekreis",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03358,938
-2020,"Stade",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03359,1348
-2020,"Uelzen",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03360,372
-2020,"Verden",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03361,1567
-2020,"Statistische Region Lüneburg",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K033,12396
-2020,"Delmenhorst, Stadt",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03401,599
-2020,"Emden, Stadt",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03402,480
-2020,"Oldenburg (Oldb), Stadt",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03403,1794
-2020,"Osnabrück, Stadt",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03404,2857
-2020,"Wilhelmshaven, Stadt",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03405,620
-2020,"Ammerland",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03451,1117
-2020,"Aurich",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03452,1133
-2020,"Cloppenburg",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03453,3199
-2020,"Emsland",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03454,2967
-2020,"Friesland",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03455,352
-2020,"Grafschaft Bentheim",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03456,1280
-2020,"Leer",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03457,693
-2020,"Oldenburg",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03458,1051
-2020,"Osnabrück",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03459,4493
-2020,"Vechta",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03460,3057
-2020,"Wesermarsch",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03461,528
-2020,"Wittmund",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03462,175
-2020,"Statistische Region Weser-Ems",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K034,26395
-2020,"Niedersachsen",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K030,75423
 2019,"Braunschweig, Stadt",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03101,2664
 2019,"Salzgitter, Stadt",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03102,1082
 2019,"Wolfsburg, Stadt",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03103,1515
@@ -3067,58 +2859,6 @@
 2021,"Wittmund",Insgesamt,"Ausbildung unbekannt",Anzahl,K03462,482
 2021,"Statistische Region Weser-Ems",Insgesamt,"Ausbildung unbekannt",Anzahl,K034,43357
 2021,"Niedersachsen",Insgesamt,"Ausbildung unbekannt",Anzahl,K030,98019
-2020,"Braunschweig, Stadt",Insgesamt,"Ausbildung unbekannt",Anzahl,K03101,2747
-2020,"Salzgitter, Stadt",Insgesamt,"Ausbildung unbekannt",Anzahl,K03102,1420
-2020,"Wolfsburg, Stadt",Insgesamt,"Ausbildung unbekannt",Anzahl,K03103,2853
-2020,"Gifhorn",Insgesamt,"Ausbildung unbekannt",Anzahl,K03151,997
-2020,"Goslar",Insgesamt,"Ausbildung unbekannt",Anzahl,K03153,833
-2020,"Helmstedt",Insgesamt,"Ausbildung unbekannt",Anzahl,K03154,342
-2020,"Northeim",Insgesamt,"Ausbildung unbekannt",Anzahl,K03155,803
-2020,"Peine",Insgesamt,"Ausbildung unbekannt",Anzahl,K03157,1116
-2020,"Wolfenbüttel",Insgesamt,"Ausbildung unbekannt",Anzahl,K03158,356
-2020,"Göttingen",Insgesamt,"Ausbildung unbekannt",Anzahl,K03159,1753
-2020,"Statistische Region Braunschweig",Insgesamt,"Ausbildung unbekannt",Anzahl,K031,13220
-2020,"Region Hannover",Insgesamt,"Ausbildung unbekannt",Anzahl,K03241,16000
-2020,"dav. Hannover, Lhst.",Insgesamt,"Ausbildung unbekannt",Anzahl,K03241001,9066
-2020,"dav. Hannover, Umland",Insgesamt,"Ausbildung unbekannt",Anzahl,K03241999,6934
-2020,"Diepholz",Insgesamt,"Ausbildung unbekannt",Anzahl,K03251,2339
-2020,"Hameln-Pyrmont",Insgesamt,"Ausbildung unbekannt",Anzahl,K03252,978
-2020,"Hildesheim",Insgesamt,"Ausbildung unbekannt",Anzahl,K03254,1352
-2020,"Holzminden",Insgesamt,"Ausbildung unbekannt",Anzahl,K03255,392
-2020,"Nienburg (Weser)",Insgesamt,"Ausbildung unbekannt",Anzahl,K03256,1716
-2020,"Schaumburg",Insgesamt,"Ausbildung unbekannt",Anzahl,K03257,802
-2020,"Statistische Region Hannover",Insgesamt,"Ausbildung unbekannt",Anzahl,K032,23579
-2020,"Celle",Insgesamt,"Ausbildung unbekannt",Anzahl,K03351,990
-2020,"Cuxhaven",Insgesamt,"Ausbildung unbekannt",Anzahl,K03352,1583
-2020,"Harburg",Insgesamt,"Ausbildung unbekannt",Anzahl,K03353,3678
-2020,"Lüchow-Dannenberg",Insgesamt,"Ausbildung unbekannt",Anzahl,K03354,299
-2020,"Lüneburg",Insgesamt,"Ausbildung unbekannt",Anzahl,K03355,1040
-2020,"Osterholz",Insgesamt,"Ausbildung unbekannt",Anzahl,K03356,580
-2020,"Rotenburg (Wümme)",Insgesamt,"Ausbildung unbekannt",Anzahl,K03357,1353
-2020,"Heidekreis",Insgesamt,"Ausbildung unbekannt",Anzahl,K03358,1459
-2020,"Stade",Insgesamt,"Ausbildung unbekannt",Anzahl,K03359,2527
-2020,"Uelzen",Insgesamt,"Ausbildung unbekannt",Anzahl,K03360,480
-2020,"Verden",Insgesamt,"Ausbildung unbekannt",Anzahl,K03361,2275
-2020,"Statistische Region Lüneburg",Insgesamt,"Ausbildung unbekannt",Anzahl,K033,16264
-2020,"Delmenhorst, Stadt",Insgesamt,"Ausbildung unbekannt",Anzahl,K03401,496
-2020,"Emden, Stadt",Insgesamt,"Ausbildung unbekannt",Anzahl,K03402,552
-2020,"Oldenburg (Oldb), Stadt",Insgesamt,"Ausbildung unbekannt",Anzahl,K03403,1728
-2020,"Osnabrück, Stadt",Insgesamt,"Ausbildung unbekannt",Anzahl,K03404,2314
-2020,"Wilhelmshaven, Stadt",Insgesamt,"Ausbildung unbekannt",Anzahl,K03405,454
-2020,"Ammerland",Insgesamt,"Ausbildung unbekannt",Anzahl,K03451,1667
-2020,"Aurich",Insgesamt,"Ausbildung unbekannt",Anzahl,K03452,1502
-2020,"Cloppenburg",Insgesamt,"Ausbildung unbekannt",Anzahl,K03453,4931
-2020,"Emsland",Insgesamt,"Ausbildung unbekannt",Anzahl,K03454,6677
-2020,"Friesland",Insgesamt,"Ausbildung unbekannt",Anzahl,K03455,533
-2020,"Grafschaft Bentheim",Insgesamt,"Ausbildung unbekannt",Anzahl,K03456,2003
-2020,"Leer",Insgesamt,"Ausbildung unbekannt",Anzahl,K03457,1637
-2020,"Oldenburg",Insgesamt,"Ausbildung unbekannt",Anzahl,K03458,1585
-2020,"Osnabrück",Insgesamt,"Ausbildung unbekannt",Anzahl,K03459,8354
-2020,"Vechta",Insgesamt,"Ausbildung unbekannt",Anzahl,K03460,5258
-2020,"Wesermarsch",Insgesamt,"Ausbildung unbekannt",Anzahl,K03461,917
-2020,"Wittmund",Insgesamt,"Ausbildung unbekannt",Anzahl,K03462,457
-2020,"Statistische Region Weser-Ems",Insgesamt,"Ausbildung unbekannt",Anzahl,K034,41065
-2020,"Niedersachsen",Insgesamt,"Ausbildung unbekannt",Anzahl,K030,94128
 2020,"Braunschweig, Stadt",Insgesamt,"Ausbildung unbekannt",Anzahl,K03101,2747
 2020,"Salzgitter, Stadt",Insgesamt,"Ausbildung unbekannt",Anzahl,K03102,1420
 2020,"Wolfsburg, Stadt",Insgesamt,"Ausbildung unbekannt",Anzahl,K03103,2853
@@ -3847,58 +3587,6 @@
 2020,"Wittmund",Männer,"Insgesamt",Anzahl,K03462,546
 2020,"Statistische Region Weser-Ems",Männer,"Insgesamt",Anzahl,K034,68487
 2020,"Niedersachsen",Männer,"Insgesamt",Anzahl,K030,192854
-2020,"Braunschweig, Stadt",Männer,"Insgesamt",Anzahl,K03101,6997
-2020,"Salzgitter, Stadt",Männer,"Insgesamt",Anzahl,K03102,3738
-2020,"Wolfsburg, Stadt",Männer,"Insgesamt",Anzahl,K03103,7333
-2020,"Gifhorn",Männer,"Insgesamt",Anzahl,K03151,2169
-2020,"Goslar",Männer,"Insgesamt",Anzahl,K03153,2090
-2020,"Helmstedt",Männer,"Insgesamt",Anzahl,K03154,1149
-2020,"Northeim",Männer,"Insgesamt",Anzahl,K03155,2534
-2020,"Peine",Männer,"Insgesamt",Anzahl,K03157,2434
-2020,"Wolfenbüttel",Männer,"Insgesamt",Anzahl,K03158,1010
-2020,"Göttingen",Männer,"Insgesamt",Anzahl,K03159,6074
-2020,"Statistische Region Braunschweig",Männer,"Insgesamt",Anzahl,K031,35528
-2020,"Region Hannover",Männer,"Insgesamt",Anzahl,K03241,38889
-2020,"dav. Hannover, Lhst.",Männer,"Insgesamt",Anzahl,K03241001,22979
-2020,"dav. Hannover, Umland",Männer,"Insgesamt",Anzahl,K03241999,15910
-2020,"Diepholz",Männer,"Insgesamt",Anzahl,K03251,4544
-2020,"Hameln-Pyrmont",Männer,"Insgesamt",Anzahl,K03252,2541
-2020,"Hildesheim",Männer,"Insgesamt",Anzahl,K03254,4211
-2020,"Holzminden",Männer,"Insgesamt",Anzahl,K03255,998
-2020,"Nienburg (Weser)",Männer,"Insgesamt",Anzahl,K03256,3022
-2020,"Schaumburg",Männer,"Insgesamt",Anzahl,K03257,2539
-2020,"Statistische Region Hannover",Männer,"Insgesamt",Anzahl,K032,56744
-2020,"Celle",Männer,"Insgesamt",Anzahl,K03351,2631
-2020,"Cuxhaven",Männer,"Insgesamt",Anzahl,K03352,2924
-2020,"Harburg",Männer,"Insgesamt",Anzahl,K03353,7051
-2020,"Lüchow-Dannenberg",Männer,"Insgesamt",Anzahl,K03354,456
-2020,"Lüneburg",Männer,"Insgesamt",Anzahl,K03355,2530
-2020,"Osterholz",Männer,"Insgesamt",Anzahl,K03356,1391
-2020,"Rotenburg (Wümme)",Männer,"Insgesamt",Anzahl,K03357,3136
-2020,"Heidekreis",Männer,"Insgesamt",Anzahl,K03358,2824
-2020,"Stade",Männer,"Insgesamt",Anzahl,K03359,4173
-2020,"Uelzen",Männer,"Insgesamt",Anzahl,K03360,1035
-2020,"Verden",Männer,"Insgesamt",Anzahl,K03361,3944
-2020,"Statistische Region Lüneburg",Männer,"Insgesamt",Anzahl,K033,32095
-2020,"Delmenhorst, Stadt",Männer,"Insgesamt",Anzahl,K03401,1219
-2020,"Emden, Stadt",Männer,"Insgesamt",Anzahl,K03402,1350
-2020,"Oldenburg (Oldb), Stadt",Männer,"Insgesamt",Anzahl,K03403,3917
-2020,"Osnabrück, Stadt",Männer,"Insgesamt",Anzahl,K03404,4934
-2020,"Wilhelmshaven, Stadt",Männer,"Insgesamt",Anzahl,K03405,1310
-2020,"Ammerland",Männer,"Insgesamt",Anzahl,K03451,2852
-2020,"Aurich",Männer,"Insgesamt",Anzahl,K03452,2658
-2020,"Cloppenburg",Männer,"Insgesamt",Anzahl,K03453,7314
-2020,"Emsland",Männer,"Insgesamt",Anzahl,K03454,10881
-2020,"Friesland",Männer,"Insgesamt",Anzahl,K03455,982
-2020,"Grafschaft Bentheim",Männer,"Insgesamt",Anzahl,K03456,3984
-2020,"Leer",Männer,"Insgesamt",Anzahl,K03457,2684
-2020,"Oldenburg",Männer,"Insgesamt",Anzahl,K03458,2708
-2020,"Osnabrück",Männer,"Insgesamt",Anzahl,K03459,11697
-2020,"Vechta",Männer,"Insgesamt",Anzahl,K03460,7462
-2020,"Wesermarsch",Männer,"Insgesamt",Anzahl,K03461,1989
-2020,"Wittmund",Männer,"Insgesamt",Anzahl,K03462,546
-2020,"Statistische Region Weser-Ems",Männer,"Insgesamt",Anzahl,K034,68487
-2020,"Niedersachsen",Männer,"Insgesamt",Anzahl,K030,192854
 2019,"Braunschweig, Stadt",Männer,"Insgesamt",Anzahl,K03101,6758
 2019,"Salzgitter, Stadt",Männer,"Insgesamt",Anzahl,K03102,3672
 2019,"Wolfsburg, Stadt",Männer,"Insgesamt",Anzahl,K03103,7063
@@ -4523,58 +4211,6 @@
 2021,"Wittmund",Männer,"Akademischer Abschluss",Anzahl,K03462,43
 2021,"Statistische Region Weser-Ems",Männer,"Akademischer Abschluss",Anzahl,K034,4617
 2021,"Niedersachsen",Männer,"Akademischer Abschluss",Anzahl,K030,21019
-2020,"Braunschweig, Stadt",Männer,"Akademischer Abschluss",Anzahl,K03101,1637
-2020,"Salzgitter, Stadt",Männer,"Akademischer Abschluss",Anzahl,K03102,273
-2020,"Wolfsburg, Stadt",Männer,"Akademischer Abschluss",Anzahl,K03103,1769
-2020,"Gifhorn",Männer,"Akademischer Abschluss",Anzahl,K03151,332
-2020,"Goslar",Männer,"Akademischer Abschluss",Anzahl,K03153,333
-2020,"Helmstedt",Männer,"Akademischer Abschluss",Anzahl,K03154,127
-2020,"Northeim",Männer,"Akademischer Abschluss",Anzahl,K03155,214
-2020,"Peine",Männer,"Akademischer Abschluss",Anzahl,K03157,123
-2020,"Wolfenbüttel",Männer,"Akademischer Abschluss",Anzahl,K03158,92
-2020,"Göttingen",Männer,"Akademischer Abschluss",Anzahl,K03159,1471
-2020,"Statistische Region Braunschweig",Männer,"Akademischer Abschluss",Anzahl,K031,6371
-2020,"Region Hannover",Männer,"Akademischer Abschluss",Anzahl,K03241,4455
-2020,"dav. Hannover, Lhst.",Männer,"Akademischer Abschluss",Anzahl,K03241001,3402
-2020,"dav. Hannover, Umland",Männer,"Akademischer Abschluss",Anzahl,K03241999,1053
-2020,"Diepholz",Männer,"Akademischer Abschluss",Anzahl,K03251,247
-2020,"Hameln-Pyrmont",Männer,"Akademischer Abschluss",Anzahl,K03252,243
-2020,"Hildesheim",Männer,"Akademischer Abschluss",Anzahl,K03254,683
-2020,"Holzminden",Männer,"Akademischer Abschluss",Anzahl,K03255,96
-2020,"Nienburg (Weser)",Männer,"Akademischer Abschluss",Anzahl,K03256,111
-2020,"Schaumburg",Männer,"Akademischer Abschluss",Anzahl,K03257,184
-2020,"Statistische Region Hannover",Männer,"Akademischer Abschluss",Anzahl,K032,6019
-2020,"Celle",Männer,"Akademischer Abschluss",Anzahl,K03351,347
-2020,"Cuxhaven",Männer,"Akademischer Abschluss",Anzahl,K03352,153
-2020,"Harburg",Männer,"Akademischer Abschluss",Anzahl,K03353,365
-2020,"Lüchow-Dannenberg",Männer,"Akademischer Abschluss",Anzahl,K03354,43
-2020,"Lüneburg",Männer,"Akademischer Abschluss",Anzahl,K03355,288
-2020,"Osterholz",Männer,"Akademischer Abschluss",Anzahl,K03356,113
-2020,"Rotenburg (Wümme)",Männer,"Akademischer Abschluss",Anzahl,K03357,206
-2020,"Heidekreis",Männer,"Akademischer Abschluss",Anzahl,K03358,178
-2020,"Stade",Männer,"Akademischer Abschluss",Anzahl,K03359,291
-2020,"Uelzen",Männer,"Akademischer Abschluss",Anzahl,K03360,105
-2020,"Verden",Männer,"Akademischer Abschluss",Anzahl,K03361,214
-2020,"Statistische Region Lüneburg",Männer,"Akademischer Abschluss",Anzahl,K033,2303
-2020,"Delmenhorst, Stadt",Männer,"Akademischer Abschluss",Anzahl,K03401,104
-2020,"Emden, Stadt",Männer,"Akademischer Abschluss",Anzahl,K03402,102
-2020,"Oldenburg (Oldb), Stadt",Männer,"Akademischer Abschluss",Anzahl,K03403,581
-2020,"Osnabrück, Stadt",Männer,"Akademischer Abschluss",Anzahl,K03404,502
-2020,"Wilhelmshaven, Stadt",Männer,"Akademischer Abschluss",Anzahl,K03405,155
-2020,"Ammerland",Männer,"Akademischer Abschluss",Anzahl,K03451,173
-2020,"Aurich",Männer,"Akademischer Abschluss",Anzahl,K03452,222
-2020,"Cloppenburg",Männer,"Akademischer Abschluss",Anzahl,K03453,177
-2020,"Emsland",Männer,"Akademischer Abschluss",Anzahl,K03454,668
-2020,"Friesland",Männer,"Akademischer Abschluss",Anzahl,K03455,93
-2020,"Grafschaft Bentheim",Männer,"Akademischer Abschluss",Anzahl,K03456,215
-2020,"Leer",Männer,"Akademischer Abschluss",Anzahl,K03457,164
-2020,"Oldenburg",Männer,"Akademischer Abschluss",Anzahl,K03458,117
-2020,"Osnabrück",Männer,"Akademischer Abschluss",Anzahl,K03459,419
-2020,"Vechta",Männer,"Akademischer Abschluss",Anzahl,K03460,254
-2020,"Wesermarsch",Männer,"Akademischer Abschluss",Anzahl,K03461,110
-2020,"Wittmund",Männer,"Akademischer Abschluss",Anzahl,K03462,33
-2020,"Statistische Region Weser-Ems",Männer,"Akademischer Abschluss",Anzahl,K034,4089
-2020,"Niedersachsen",Männer,"Akademischer Abschluss",Anzahl,K030,18782
 2020,"Braunschweig, Stadt",Männer,"Akademischer Abschluss",Anzahl,K03101,1637
 2020,"Salzgitter, Stadt",Männer,"Akademischer Abschluss",Anzahl,K03102,273
 2020,"Wolfsburg, Stadt",Männer,"Akademischer Abschluss",Anzahl,K03103,1769
@@ -5303,58 +4939,6 @@
 2020,"Wittmund",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03462,125
 2020,"Statistische Region Weser-Ems",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K034,18023
 2020,"Niedersachsen",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K030,56463
-2020,"Braunschweig, Stadt",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03101,1884
-2020,"Salzgitter, Stadt",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03102,1503
-2020,"Wolfsburg, Stadt",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03103,2304
-2020,"Gifhorn",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03151,510
-2020,"Goslar",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03153,599
-2020,"Helmstedt",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03154,535
-2020,"Northeim",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03155,1131
-2020,"Peine",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03157,729
-2020,"Wolfenbüttel",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03158,447
-2020,"Göttingen",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03159,1696
-2020,"Statistische Region Braunschweig",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K031,11338
-2020,"Region Hannover",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03241,12210
-2020,"dav. Hannover, Lhst.",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03241001,7133
-2020,"dav. Hannover, Umland",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03241999,5077
-2020,"Diepholz",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03251,1511
-2020,"Hameln-Pyrmont",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03252,867
-2020,"Hildesheim",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03254,1428
-2020,"Holzminden",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03255,332
-2020,"Nienburg (Weser)",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03256,774
-2020,"Schaumburg",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03257,1036
-2020,"Statistische Region Hannover",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K032,18158
-2020,"Celle",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03351,733
-2020,"Cuxhaven",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03352,869
-2020,"Harburg",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03353,1681
-2020,"Lüchow-Dannenberg",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03354,148
-2020,"Lüneburg",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03355,744
-2020,"Osterholz",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03356,451
-2020,"Rotenburg (Wümme)",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03357,1096
-2020,"Heidekreis",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03358,1002
-2020,"Stade",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03359,934
-2020,"Uelzen",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03360,350
-2020,"Verden",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03361,936
-2020,"Statistische Region Lüneburg",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K033,8944
-2020,"Delmenhorst, Stadt",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03401,360
-2020,"Emden, Stadt",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03402,444
-2020,"Oldenburg (Oldb), Stadt",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03403,883
-2020,"Osnabrück, Stadt",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03404,1460
-2020,"Wilhelmshaven, Stadt",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03405,334
-2020,"Ammerland",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03451,696
-2020,"Aurich",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03452,723
-2020,"Cloppenburg",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03453,1578
-2020,"Emsland",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03454,3165
-2020,"Friesland",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03455,276
-2020,"Grafschaft Bentheim",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03456,1354
-2020,"Leer",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03457,754
-2020,"Oldenburg",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03458,685
-2020,"Osnabrück",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03459,2794
-2020,"Vechta",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03460,1715
-2020,"Wesermarsch",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03461,677
-2020,"Wittmund",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03462,125
-2020,"Statistische Region Weser-Ems",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K034,18023
-2020,"Niedersachsen",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K030,56463
 2019,"Braunschweig, Stadt",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03101,1781
 2019,"Salzgitter, Stadt",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03102,1519
 2019,"Wolfsburg, Stadt",Männer,"mit anerkanntem Berufsabschluss",Anzahl,K03103,2267
@@ -5979,58 +5563,6 @@
 2021,"Wittmund",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03462,118
 2021,"Statistische Region Weser-Ems",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K034,20676
 2021,"Niedersachsen",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K030,59026
-2020,"Braunschweig, Stadt",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03101,1732
-2020,"Salzgitter, Stadt",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03102,817
-2020,"Wolfsburg, Stadt",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03103,1131
-2020,"Gifhorn",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03151,542
-2020,"Goslar",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03153,564
-2020,"Helmstedt",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03154,238
-2020,"Northeim",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03155,576
-2020,"Peine",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03157,694
-2020,"Wolfenbüttel",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03158,238
-2020,"Göttingen",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03159,1734
-2020,"Statistische Region Braunschweig",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K031,8266
-2020,"Region Hannover",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03241,11524
-2020,"dav. Hannover, Lhst.",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03241001,6680
-2020,"dav. Hannover, Umland",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03241999,4844
-2020,"Diepholz",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03251,1043
-2020,"Hameln-Pyrmont",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03252,783
-2020,"Hildesheim",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03254,1139
-2020,"Holzminden",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03255,300
-2020,"Nienburg (Weser)",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03256,879
-2020,"Schaumburg",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03257,743
-2020,"Statistische Region Hannover",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K032,16411
-2020,"Celle",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03351,874
-2020,"Cuxhaven",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03352,732
-2020,"Harburg",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03353,2184
-2020,"Lüchow-Dannenberg",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03354,87
-2020,"Lüneburg",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03355,784
-2020,"Osterholz",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03356,397
-2020,"Rotenburg (Wümme)",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03357,867
-2020,"Heidekreis",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03358,624
-2020,"Stade",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03359,952
-2020,"Uelzen",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03360,245
-2020,"Verden",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03361,1179
-2020,"Statistische Region Lüneburg",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K033,8925
-2020,"Delmenhorst, Stadt",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03401,415
-2020,"Emden, Stadt",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03402,361
-2020,"Oldenburg (Oldb), Stadt",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03403,1251
-2020,"Osnabrück, Stadt",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03404,1680
-2020,"Wilhelmshaven, Stadt",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03405,479
-2020,"Ammerland",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03451,810
-2020,"Aurich",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03452,789
-2020,"Cloppenburg",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03453,2132
-2020,"Emsland",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03454,2026
-2020,"Friesland",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03455,241
-2020,"Grafschaft Bentheim",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03456,850
-2020,"Leer",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03457,507
-2020,"Oldenburg",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03458,720
-2020,"Osnabrück",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03459,3092
-2020,"Vechta",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03460,2029
-2020,"Wesermarsch",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03461,416
-2020,"Wittmund",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03462,118
-2020,"Statistische Region Weser-Ems",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K034,17916
-2020,"Niedersachsen",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K030,51518
 2020,"Braunschweig, Stadt",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03101,1732
 2020,"Salzgitter, Stadt",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03102,817
 2020,"Wolfsburg, Stadt",Männer,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03103,1131
@@ -6759,58 +6291,6 @@
 2020,"Wittmund",Männer,"Ausbildung unbekannt",Anzahl,K03462,270
 2020,"Statistische Region Weser-Ems",Männer,"Ausbildung unbekannt",Anzahl,K034,28459
 2020,"Niedersachsen",Männer,"Ausbildung unbekannt",Anzahl,K030,66091
-2020,"Braunschweig, Stadt",Männer,"Ausbildung unbekannt",Anzahl,K03101,1744
-2020,"Salzgitter, Stadt",Männer,"Ausbildung unbekannt",Anzahl,K03102,1145
-2020,"Wolfsburg, Stadt",Männer,"Ausbildung unbekannt",Anzahl,K03103,2129
-2020,"Gifhorn",Männer,"Ausbildung unbekannt",Anzahl,K03151,785
-2020,"Goslar",Männer,"Ausbildung unbekannt",Anzahl,K03153,594
-2020,"Helmstedt",Männer,"Ausbildung unbekannt",Anzahl,K03154,249
-2020,"Northeim",Männer,"Ausbildung unbekannt",Anzahl,K03155,613
-2020,"Peine",Männer,"Ausbildung unbekannt",Anzahl,K03157,888
-2020,"Wolfenbüttel",Männer,"Ausbildung unbekannt",Anzahl,K03158,233
-2020,"Göttingen",Männer,"Ausbildung unbekannt",Anzahl,K03159,1173
-2020,"Statistische Region Braunschweig",Männer,"Ausbildung unbekannt",Anzahl,K031,9553
-2020,"Region Hannover",Männer,"Ausbildung unbekannt",Anzahl,K03241,10700
-2020,"dav. Hannover, Lhst.",Männer,"Ausbildung unbekannt",Anzahl,K03241001,5764
-2020,"dav. Hannover, Umland",Männer,"Ausbildung unbekannt",Anzahl,K03241999,4936
-2020,"Diepholz",Männer,"Ausbildung unbekannt",Anzahl,K03251,1743
-2020,"Hameln-Pyrmont",Männer,"Ausbildung unbekannt",Anzahl,K03252,648
-2020,"Hildesheim",Männer,"Ausbildung unbekannt",Anzahl,K03254,961
-2020,"Holzminden",Männer,"Ausbildung unbekannt",Anzahl,K03255,270
-2020,"Nienburg (Weser)",Männer,"Ausbildung unbekannt",Anzahl,K03256,1258
-2020,"Schaumburg",Männer,"Ausbildung unbekannt",Anzahl,K03257,576
-2020,"Statistische Region Hannover",Männer,"Ausbildung unbekannt",Anzahl,K032,16156
-2020,"Celle",Männer,"Ausbildung unbekannt",Anzahl,K03351,677
-2020,"Cuxhaven",Männer,"Ausbildung unbekannt",Anzahl,K03352,1170
-2020,"Harburg",Männer,"Ausbildung unbekannt",Anzahl,K03353,2821
-2020,"Lüchow-Dannenberg",Männer,"Ausbildung unbekannt",Anzahl,K03354,178
-2020,"Lüneburg",Männer,"Ausbildung unbekannt",Anzahl,K03355,714
-2020,"Osterholz",Männer,"Ausbildung unbekannt",Anzahl,K03356,430
-2020,"Rotenburg (Wümme)",Männer,"Ausbildung unbekannt",Anzahl,K03357,967
-2020,"Heidekreis",Männer,"Ausbildung unbekannt",Anzahl,K03358,1020
-2020,"Stade",Männer,"Ausbildung unbekannt",Anzahl,K03359,1996
-2020,"Uelzen",Männer,"Ausbildung unbekannt",Anzahl,K03360,335
-2020,"Verden",Männer,"Ausbildung unbekannt",Anzahl,K03361,1615
-2020,"Statistische Region Lüneburg",Männer,"Ausbildung unbekannt",Anzahl,K033,11923
-2020,"Delmenhorst, Stadt",Männer,"Ausbildung unbekannt",Anzahl,K03401,340
-2020,"Emden, Stadt",Männer,"Ausbildung unbekannt",Anzahl,K03402,443
-2020,"Oldenburg (Oldb), Stadt",Männer,"Ausbildung unbekannt",Anzahl,K03403,1202
-2020,"Osnabrück, Stadt",Männer,"Ausbildung unbekannt",Anzahl,K03404,1292
-2020,"Wilhelmshaven, Stadt",Männer,"Ausbildung unbekannt",Anzahl,K03405,342
-2020,"Ammerland",Männer,"Ausbildung unbekannt",Anzahl,K03451,1173
-2020,"Aurich",Männer,"Ausbildung unbekannt",Anzahl,K03452,924
-2020,"Cloppenburg",Männer,"Ausbildung unbekannt",Anzahl,K03453,3427
-2020,"Emsland",Männer,"Ausbildung unbekannt",Anzahl,K03454,5022
-2020,"Friesland",Männer,"Ausbildung unbekannt",Anzahl,K03455,372
-2020,"Grafschaft Bentheim",Männer,"Ausbildung unbekannt",Anzahl,K03456,1565
-2020,"Leer",Männer,"Ausbildung unbekannt",Anzahl,K03457,1259
-2020,"Oldenburg",Männer,"Ausbildung unbekannt",Anzahl,K03458,1186
-2020,"Osnabrück",Männer,"Ausbildung unbekannt",Anzahl,K03459,5392
-2020,"Vechta",Männer,"Ausbildung unbekannt",Anzahl,K03460,3464
-2020,"Wesermarsch",Männer,"Ausbildung unbekannt",Anzahl,K03461,786
-2020,"Wittmund",Männer,"Ausbildung unbekannt",Anzahl,K03462,270
-2020,"Statistische Region Weser-Ems",Männer,"Ausbildung unbekannt",Anzahl,K034,28459
-2020,"Niedersachsen",Männer,"Ausbildung unbekannt",Anzahl,K030,66091
 2019,"Braunschweig, Stadt",Männer,"Ausbildung unbekannt",Anzahl,K03101,1783
 2019,"Salzgitter, Stadt",Männer,"Ausbildung unbekannt",Anzahl,K03102,1071
 2019,"Wolfsburg, Stadt",Männer,"Ausbildung unbekannt",Anzahl,K03103,2152
@@ -7435,58 +6915,6 @@
 2021,"Wittmund",Frauen,"Insgesamt",Anzahl,K03462,426
 2021,"Statistische Region Weser-Ems",Frauen,"Insgesamt",Anzahl,K034,36481
 2021,"Niedersachsen",Frauen,"Insgesamt",Anzahl,K030,107476
-2020,"Braunschweig, Stadt",Frauen,"Insgesamt",Anzahl,K03101,4544
-2020,"Salzgitter, Stadt",Frauen,"Insgesamt",Anzahl,K03102,1140
-2020,"Wolfsburg, Stadt",Frauen,"Insgesamt",Anzahl,K03103,3328
-2020,"Gifhorn",Frauen,"Insgesamt",Anzahl,K03151,1088
-2020,"Goslar",Frauen,"Insgesamt",Anzahl,K03153,1135
-2020,"Helmstedt",Frauen,"Insgesamt",Anzahl,K03154,552
-2020,"Northeim",Frauen,"Insgesamt",Anzahl,K03155,882
-2020,"Peine",Frauen,"Insgesamt",Anzahl,K03157,934
-2020,"Wolfenbüttel",Frauen,"Insgesamt",Anzahl,K03158,576
-2020,"Göttingen",Frauen,"Insgesamt",Anzahl,K03159,3759
-2020,"Statistische Region Braunschweig",Frauen,"Insgesamt",Anzahl,K031,17938
-2020,"Region Hannover",Frauen,"Insgesamt",Anzahl,K03241,23743
-2020,"dav. Hannover, Lhst.",Frauen,"Insgesamt",Anzahl,K03241001,15836
-2020,"dav. Hannover, Umland",Frauen,"Insgesamt",Anzahl,K03241999,7907
-2020,"Diepholz",Frauen,"Insgesamt",Anzahl,K03251,2050
-2020,"Hameln-Pyrmont",Frauen,"Insgesamt",Anzahl,K03252,1583
-2020,"Hildesheim",Frauen,"Insgesamt",Anzahl,K03254,2250
-2020,"Holzminden",Frauen,"Insgesamt",Anzahl,K03255,486
-2020,"Nienburg (Weser)",Frauen,"Insgesamt",Anzahl,K03256,1327
-2020,"Schaumburg",Frauen,"Insgesamt",Anzahl,K03257,1323
-2020,"Statistische Region Hannover",Frauen,"Insgesamt",Anzahl,K032,32762
-2020,"Celle",Frauen,"Insgesamt",Anzahl,K03351,1461
-2020,"Cuxhaven",Frauen,"Insgesamt",Anzahl,K03352,1464
-2020,"Harburg",Frauen,"Insgesamt",Anzahl,K03353,2686
-2020,"Lüchow-Dannenberg",Frauen,"Insgesamt",Anzahl,K03354,294
-2020,"Lüneburg",Frauen,"Insgesamt",Anzahl,K03355,1396
-2020,"Osterholz",Frauen,"Insgesamt",Anzahl,K03356,629
-2020,"Rotenburg (Wümme)",Frauen,"Insgesamt",Anzahl,K03357,1494
-2020,"Heidekreis",Frauen,"Insgesamt",Anzahl,K03358,1479
-2020,"Stade",Frauen,"Insgesamt",Anzahl,K03359,1701
-2020,"Uelzen",Frauen,"Insgesamt",Anzahl,K03360,647
-2020,"Verden",Frauen,"Insgesamt",Anzahl,K03361,1685
-2020,"Statistische Region Lüneburg",Frauen,"Insgesamt",Anzahl,K033,14936
-2020,"Delmenhorst, Stadt",Frauen,"Insgesamt",Anzahl,K03401,645
-2020,"Emden, Stadt",Frauen,"Insgesamt",Anzahl,K03402,473
-2020,"Oldenburg (Oldb), Stadt",Frauen,"Insgesamt",Anzahl,K03403,2245
-2020,"Osnabrück, Stadt",Frauen,"Insgesamt",Anzahl,K03404,3913
-2020,"Wilhelmshaven, Stadt",Frauen,"Insgesamt",Anzahl,K03405,545
-2020,"Ammerland",Frauen,"Insgesamt",Anzahl,K03451,1301
-2020,"Aurich",Frauen,"Insgesamt",Anzahl,K03452,1506
-2020,"Cloppenburg",Frauen,"Insgesamt",Anzahl,K03453,3318
-2020,"Emsland",Frauen,"Insgesamt",Anzahl,K03454,4086
-2020,"Friesland",Frauen,"Insgesamt",Anzahl,K03455,542
-2020,"Grafschaft Bentheim",Frauen,"Insgesamt",Anzahl,K03456,1806
-2020,"Leer",Frauen,"Insgesamt",Anzahl,K03457,1082
-2020,"Oldenburg",Frauen,"Insgesamt",Anzahl,K03458,1134
-2020,"Osnabrück",Frauen,"Insgesamt",Anzahl,K03459,6010
-2020,"Vechta",Frauen,"Insgesamt",Anzahl,K03460,3743
-2020,"Wesermarsch",Frauen,"Insgesamt",Anzahl,K03461,516
-2020,"Wittmund",Frauen,"Insgesamt",Anzahl,K03462,378
-2020,"Statistische Region Weser-Ems",Frauen,"Insgesamt",Anzahl,K034,33243
-2020,"Niedersachsen",Frauen,"Insgesamt",Anzahl,K030,98879
 2020,"Braunschweig, Stadt",Frauen,"Insgesamt",Anzahl,K03101,4544
 2020,"Salzgitter, Stadt",Frauen,"Insgesamt",Anzahl,K03102,1140
 2020,"Wolfsburg, Stadt",Frauen,"Insgesamt",Anzahl,K03103,3328
@@ -8215,58 +7643,6 @@
 2020,"Wittmund",Frauen,"Akademischer Abschluss",Anzahl,K03462,30
 2020,"Statistische Region Weser-Ems",Frauen,"Akademischer Abschluss",Anzahl,K034,3428
 2020,"Niedersachsen",Frauen,"Akademischer Abschluss",Anzahl,K030,15552
-2020,"Braunschweig, Stadt",Frauen,"Akademischer Abschluss",Anzahl,K03101,1238
-2020,"Salzgitter, Stadt",Frauen,"Akademischer Abschluss",Anzahl,K03102,166
-2020,"Wolfsburg, Stadt",Frauen,"Akademischer Abschluss",Anzahl,K03103,947
-2020,"Gifhorn",Frauen,"Akademischer Abschluss",Anzahl,K03151,231
-2020,"Goslar",Frauen,"Akademischer Abschluss",Anzahl,K03153,234
-2020,"Helmstedt",Frauen,"Akademischer Abschluss",Anzahl,K03154,103
-2020,"Northeim",Frauen,"Akademischer Abschluss",Anzahl,K03155,135
-2020,"Peine",Frauen,"Akademischer Abschluss",Anzahl,K03157,101
-2020,"Wolfenbüttel",Frauen,"Akademischer Abschluss",Anzahl,K03158,113
-2020,"Göttingen",Frauen,"Akademischer Abschluss",Anzahl,K03159,1300
-2020,"Statistische Region Braunschweig",Frauen,"Akademischer Abschluss",Anzahl,K031,4568
-2020,"Region Hannover",Frauen,"Akademischer Abschluss",Anzahl,K03241,4154
-2020,"dav. Hannover, Lhst.",Frauen,"Akademischer Abschluss",Anzahl,K03241001,3285
-2020,"dav. Hannover, Umland",Frauen,"Akademischer Abschluss",Anzahl,K03241999,869
-2020,"Diepholz",Frauen,"Akademischer Abschluss",Anzahl,K03251,230
-2020,"Hameln-Pyrmont",Frauen,"Akademischer Abschluss",Anzahl,K03252,215
-2020,"Hildesheim",Frauen,"Akademischer Abschluss",Anzahl,K03254,485
-2020,"Holzminden",Frauen,"Akademischer Abschluss",Anzahl,K03255,92
-2020,"Nienburg (Weser)",Frauen,"Akademischer Abschluss",Anzahl,K03256,132
-2020,"Schaumburg",Frauen,"Akademischer Abschluss",Anzahl,K03257,154
-2020,"Statistische Region Hannover",Frauen,"Akademischer Abschluss",Anzahl,K032,5462
-2020,"Celle",Frauen,"Akademischer Abschluss",Anzahl,K03351,229
-2020,"Cuxhaven",Frauen,"Akademischer Abschluss",Anzahl,K03352,140
-2020,"Harburg",Frauen,"Akademischer Abschluss",Anzahl,K03353,312
-2020,"Lüchow-Dannenberg",Frauen,"Akademischer Abschluss",Anzahl,K03354,44
-2020,"Lüneburg",Frauen,"Akademischer Abschluss",Anzahl,K03355,300
-2020,"Osterholz",Frauen,"Akademischer Abschluss",Anzahl,K03356,119
-2020,"Rotenburg (Wümme)",Frauen,"Akademischer Abschluss",Anzahl,K03357,207
-2020,"Heidekreis",Frauen,"Akademischer Abschluss",Anzahl,K03358,163
-2020,"Stade",Frauen,"Akademischer Abschluss",Anzahl,K03359,243
-2020,"Uelzen",Frauen,"Akademischer Abschluss",Anzahl,K03360,120
-2020,"Verden",Frauen,"Akademischer Abschluss",Anzahl,K03361,217
-2020,"Statistische Region Lüneburg",Frauen,"Akademischer Abschluss",Anzahl,K033,2094
-2020,"Delmenhorst, Stadt",Frauen,"Akademischer Abschluss",Anzahl,K03401,82
-2020,"Emden, Stadt",Frauen,"Akademischer Abschluss",Anzahl,K03402,82
-2020,"Oldenburg (Oldb), Stadt",Frauen,"Akademischer Abschluss",Anzahl,K03403,538
-2020,"Osnabrück, Stadt",Frauen,"Akademischer Abschluss",Anzahl,K03404,500
-2020,"Wilhelmshaven, Stadt",Frauen,"Akademischer Abschluss",Anzahl,K03405,118
-2020,"Ammerland",Frauen,"Akademischer Abschluss",Anzahl,K03451,134
-2020,"Aurich",Frauen,"Akademischer Abschluss",Anzahl,K03452,153
-2020,"Cloppenburg",Frauen,"Akademischer Abschluss",Anzahl,K03453,159
-2020,"Emsland",Frauen,"Akademischer Abschluss",Anzahl,K03454,435
-2020,"Friesland",Frauen,"Akademischer Abschluss",Anzahl,K03455,98
-2020,"Grafschaft Bentheim",Frauen,"Akademischer Abschluss",Anzahl,K03456,197
-2020,"Leer",Frauen,"Akademischer Abschluss",Anzahl,K03457,145
-2020,"Oldenburg",Frauen,"Akademischer Abschluss",Anzahl,K03458,81
-2020,"Osnabrück",Frauen,"Akademischer Abschluss",Anzahl,K03459,388
-2020,"Vechta",Frauen,"Akademischer Abschluss",Anzahl,K03460,224
-2020,"Wesermarsch",Frauen,"Akademischer Abschluss",Anzahl,K03461,64
-2020,"Wittmund",Frauen,"Akademischer Abschluss",Anzahl,K03462,30
-2020,"Statistische Region Weser-Ems",Frauen,"Akademischer Abschluss",Anzahl,K034,3428
-2020,"Niedersachsen",Frauen,"Akademischer Abschluss",Anzahl,K030,15552
 2019,"Braunschweig, Stadt",Frauen,"Akademischer Abschluss",Anzahl,K03101,1168
 2019,"Salzgitter, Stadt",Frauen,"Akademischer Abschluss",Anzahl,K03102,154
 2019,"Wolfsburg, Stadt",Frauen,"Akademischer Abschluss",Anzahl,K03103,859
@@ -8891,58 +8267,6 @@
 2021,"Wittmund",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03462,122
 2021,"Statistische Region Weser-Ems",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K034,9702
 2021,"Niedersachsen",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K030,34148
-2020,"Braunschweig, Stadt",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03101,1340
-2020,"Salzgitter, Stadt",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03102,451
-2020,"Wolfsburg, Stadt",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03103,1164
-2020,"Gifhorn",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03151,386
-2020,"Goslar",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03153,383
-2020,"Helmstedt",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03154,206
-2020,"Northeim",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03155,328
-2020,"Peine",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03157,345
-2020,"Wolfenbüttel",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03158,199
-2020,"Göttingen",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03159,1124
-2020,"Statistische Region Braunschweig",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K031,5926
-2020,"Region Hannover",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03241,8423
-2020,"dav. Hannover, Lhst.",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03241001,5428
-2020,"dav. Hannover, Umland",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03241999,2995
-2020,"Diepholz",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03251,662
-2020,"Hameln-Pyrmont",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03252,655
-2020,"Hildesheim",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03254,869
-2020,"Holzminden",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03255,159
-2020,"Nienburg (Weser)",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03256,307
-2020,"Schaumburg",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03257,624
-2020,"Statistische Region Hannover",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K032,11699
-2020,"Celle",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03351,509
-2020,"Cuxhaven",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03352,495
-2020,"Harburg",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03353,913
-2020,"Lüchow-Dannenberg",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03354,91
-2020,"Lüneburg",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03355,487
-2020,"Osterholz",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03356,219
-2020,"Rotenburg (Wümme)",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03357,547
-2020,"Heidekreis",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03358,563
-2020,"Stade",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03359,531
-2020,"Uelzen",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03360,255
-2020,"Verden",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03361,420
-2020,"Statistische Region Lüneburg",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K033,5030
-2020,"Delmenhorst, Stadt",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03401,223
-2020,"Emden, Stadt",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03402,163
-2020,"Oldenburg (Oldb), Stadt",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03403,638
-2020,"Osnabrück, Stadt",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03404,1214
-2020,"Wilhelmshaven, Stadt",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03405,174
-2020,"Ammerland",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03451,366
-2020,"Aurich",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03452,431
-2020,"Cloppenburg",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03453,588
-2020,"Emsland",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03454,1055
-2020,"Friesland",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03455,172
-2020,"Grafschaft Bentheim",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03456,741
-2020,"Leer",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03457,373
-2020,"Oldenburg",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03458,323
-2020,"Osnabrück",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03459,1259
-2020,"Vechta",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03460,697
-2020,"Wesermarsch",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03461,209
-2020,"Wittmund",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03462,104
-2020,"Statistische Region Weser-Ems",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K034,8730
-2020,"Niedersachsen",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K030,31385
 2020,"Braunschweig, Stadt",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03101,1340
 2020,"Salzgitter, Stadt",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03102,451
 2020,"Wolfsburg, Stadt",Frauen,"mit anerkanntem Berufsabschluss",Anzahl,K03103,1164
@@ -9671,58 +8995,6 @@
 2020,"Wittmund",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03462,57
 2020,"Statistische Region Weser-Ems",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K034,8479
 2020,"Niedersachsen",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K030,23905
-2020,"Braunschweig, Stadt",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03101,963
-2020,"Salzgitter, Stadt",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03102,248
-2020,"Wolfsburg, Stadt",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03103,493
-2020,"Gifhorn",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03151,259
-2020,"Goslar",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03153,279
-2020,"Helmstedt",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03154,150
-2020,"Northeim",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03155,229
-2020,"Peine",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03157,260
-2020,"Wolfenbüttel",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03158,141
-2020,"Göttingen",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03159,755
-2020,"Statistische Region Braunschweig",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K031,3777
-2020,"Region Hannover",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03241,5866
-2020,"dav. Hannover, Lhst.",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03241001,3821
-2020,"dav. Hannover, Umland",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03241999,2045
-2020,"Diepholz",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03251,562
-2020,"Hameln-Pyrmont",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03252,383
-2020,"Hildesheim",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03254,505
-2020,"Holzminden",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03255,113
-2020,"Nienburg (Weser)",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03256,430
-2020,"Schaumburg",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03257,319
-2020,"Statistische Region Hannover",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K032,8178
-2020,"Celle",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03351,410
-2020,"Cuxhaven",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03352,416
-2020,"Harburg",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03353,604
-2020,"Lüchow-Dannenberg",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03354,38
-2020,"Lüneburg",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03355,283
-2020,"Osterholz",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03356,141
-2020,"Rotenburg (Wümme)",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03357,354
-2020,"Heidekreis",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03358,314
-2020,"Stade",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03359,396
-2020,"Uelzen",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03360,127
-2020,"Verden",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03361,388
-2020,"Statistische Region Lüneburg",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K033,3471
-2020,"Delmenhorst, Stadt",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03401,184
-2020,"Emden, Stadt",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03402,119
-2020,"Oldenburg (Oldb), Stadt",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03403,543
-2020,"Osnabrück, Stadt",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03404,1177
-2020,"Wilhelmshaven, Stadt",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03405,141
-2020,"Ammerland",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03451,307
-2020,"Aurich",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03452,344
-2020,"Cloppenburg",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03453,1067
-2020,"Emsland",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03454,941
-2020,"Friesland",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03455,111
-2020,"Grafschaft Bentheim",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03456,430
-2020,"Leer",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03457,186
-2020,"Oldenburg",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03458,331
-2020,"Osnabrück",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03459,1401
-2020,"Vechta",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03460,1028
-2020,"Wesermarsch",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03461,112
-2020,"Wittmund",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03462,57
-2020,"Statistische Region Weser-Ems",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K034,8479
-2020,"Niedersachsen",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K030,23905
 2019,"Braunschweig, Stadt",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03101,917
 2019,"Salzgitter, Stadt",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03102,251
 2019,"Wolfsburg, Stadt",Frauen,"ohne beruflichen Ausbildungsabschluss",Anzahl,K03103,474
@@ -10347,58 +9619,6 @@
 2021,"Wittmund",Frauen,"Ausbildung unbekannt",Anzahl,K03462,200
 2021,"Statistische Region Weser-Ems",Frauen,"Ausbildung unbekannt",Anzahl,K034,13497
 2021,"Niedersachsen",Frauen,"Ausbildung unbekannt",Anzahl,K030,29459
-2020,"Braunschweig, Stadt",Frauen,"Ausbildung unbekannt",Anzahl,K03101,1003
-2020,"Salzgitter, Stadt",Frauen,"Ausbildung unbekannt",Anzahl,K03102,275
-2020,"Wolfsburg, Stadt",Frauen,"Ausbildung unbekannt",Anzahl,K03103,724
-2020,"Gifhorn",Frauen,"Ausbildung unbekannt",Anzahl,K03151,212
-2020,"Goslar",Frauen,"Ausbildung unbekannt",Anzahl,K03153,239
-2020,"Helmstedt",Frauen,"Ausbildung unbekannt",Anzahl,K03154,93
-2020,"Northeim",Frauen,"Ausbildung unbekannt",Anzahl,K03155,190
-2020,"Peine",Frauen,"Ausbildung unbekannt",Anzahl,K03157,228
-2020,"Wolfenbüttel",Frauen,"Ausbildung unbekannt",Anzahl,K03158,123
-2020,"Göttingen",Frauen,"Ausbildung unbekannt",Anzahl,K03159,580
-2020,"Statistische Region Braunschweig",Frauen,"Ausbildung unbekannt",Anzahl,K031,3667
-2020,"Region Hannover",Frauen,"Ausbildung unbekannt",Anzahl,K03241,5300
-2020,"dav. Hannover, Lhst.",Frauen,"Ausbildung unbekannt",Anzahl,K03241001,3302
-2020,"dav. Hannover, Umland",Frauen,"Ausbildung unbekannt",Anzahl,K03241999,1998
-2020,"Diepholz",Frauen,"Ausbildung unbekannt",Anzahl,K03251,596
-2020,"Hameln-Pyrmont",Frauen,"Ausbildung unbekannt",Anzahl,K03252,330
-2020,"Hildesheim",Frauen,"Ausbildung unbekannt",Anzahl,K03254,391
-2020,"Holzminden",Frauen,"Ausbildung unbekannt",Anzahl,K03255,122
-2020,"Nienburg (Weser)",Frauen,"Ausbildung unbekannt",Anzahl,K03256,458
-2020,"Schaumburg",Frauen,"Ausbildung unbekannt",Anzahl,K03257,226
-2020,"Statistische Region Hannover",Frauen,"Ausbildung unbekannt",Anzahl,K032,7423
-2020,"Celle",Frauen,"Ausbildung unbekannt",Anzahl,K03351,313
-2020,"Cuxhaven",Frauen,"Ausbildung unbekannt",Anzahl,K03352,413
-2020,"Harburg",Frauen,"Ausbildung unbekannt",Anzahl,K03353,857
-2020,"Lüchow-Dannenberg",Frauen,"Ausbildung unbekannt",Anzahl,K03354,121
-2020,"Lüneburg",Frauen,"Ausbildung unbekannt",Anzahl,K03355,326
-2020,"Osterholz",Frauen,"Ausbildung unbekannt",Anzahl,K03356,150
-2020,"Rotenburg (Wümme)",Frauen,"Ausbildung unbekannt",Anzahl,K03357,386
-2020,"Heidekreis",Frauen,"Ausbildung unbekannt",Anzahl,K03358,439
-2020,"Stade",Frauen,"Ausbildung unbekannt",Anzahl,K03359,531
-2020,"Uelzen",Frauen,"Ausbildung unbekannt",Anzahl,K03360,145
-2020,"Verden",Frauen,"Ausbildung unbekannt",Anzahl,K03361,660
-2020,"Statistische Region Lüneburg",Frauen,"Ausbildung unbekannt",Anzahl,K033,4341
-2020,"Delmenhorst, Stadt",Frauen,"Ausbildung unbekannt",Anzahl,K03401,156
-2020,"Emden, Stadt",Frauen,"Ausbildung unbekannt",Anzahl,K03402,109
-2020,"Oldenburg (Oldb), Stadt",Frauen,"Ausbildung unbekannt",Anzahl,K03403,526
-2020,"Osnabrück, Stadt",Frauen,"Ausbildung unbekannt",Anzahl,K03404,1022
-2020,"Wilhelmshaven, Stadt",Frauen,"Ausbildung unbekannt",Anzahl,K03405,112
-2020,"Ammerland",Frauen,"Ausbildung unbekannt",Anzahl,K03451,494
-2020,"Aurich",Frauen,"Ausbildung unbekannt",Anzahl,K03452,578
-2020,"Cloppenburg",Frauen,"Ausbildung unbekannt",Anzahl,K03453,1504
-2020,"Emsland",Frauen,"Ausbildung unbekannt",Anzahl,K03454,1655
-2020,"Friesland",Frauen,"Ausbildung unbekannt",Anzahl,K03455,161
-2020,"Grafschaft Bentheim",Frauen,"Ausbildung unbekannt",Anzahl,K03456,438
-2020,"Leer",Frauen,"Ausbildung unbekannt",Anzahl,K03457,378
-2020,"Oldenburg",Frauen,"Ausbildung unbekannt",Anzahl,K03458,399
-2020,"Osnabrück",Frauen,"Ausbildung unbekannt",Anzahl,K03459,2962
-2020,"Vechta",Frauen,"Ausbildung unbekannt",Anzahl,K03460,1794
-2020,"Wesermarsch",Frauen,"Ausbildung unbekannt",Anzahl,K03461,131
-2020,"Wittmund",Frauen,"Ausbildung unbekannt",Anzahl,K03462,187
-2020,"Statistische Region Weser-Ems",Frauen,"Ausbildung unbekannt",Anzahl,K034,12606
-2020,"Niedersachsen",Frauen,"Ausbildung unbekannt",Anzahl,K030,28037
 2020,"Braunschweig, Stadt",Frauen,"Ausbildung unbekannt",Anzahl,K03101,1003
 2020,"Salzgitter, Stadt",Frauen,"Ausbildung unbekannt",Anzahl,K03102,275
 2020,"Wolfsburg, Stadt",Frauen,"Ausbildung unbekannt",Anzahl,K03103,724
@@ -11127,58 +10347,6 @@
 2020,"Wittmund",Insgesamt,"Insgesamt",Prozent,K03462,100
 2020,"Statistische Region Weser-Ems",Insgesamt,"Insgesamt",Prozent,K034,100
 2020,"Niedersachsen",Insgesamt,"Insgesamt",Prozent,K030,100
-2020,"Braunschweig, Stadt",Insgesamt,"Insgesamt",Prozent,K03101,100
-2020,"Salzgitter, Stadt",Insgesamt,"Insgesamt",Prozent,K03102,100
-2020,"Wolfsburg, Stadt",Insgesamt,"Insgesamt",Prozent,K03103,100
-2020,"Gifhorn",Insgesamt,"Insgesamt",Prozent,K03151,100
-2020,"Goslar",Insgesamt,"Insgesamt",Prozent,K03153,100
-2020,"Helmstedt",Insgesamt,"Insgesamt",Prozent,K03154,100
-2020,"Northeim",Insgesamt,"Insgesamt",Prozent,K03155,100
-2020,"Peine",Insgesamt,"Insgesamt",Prozent,K03157,100
-2020,"Wolfenbüttel",Insgesamt,"Insgesamt",Prozent,K03158,100
-2020,"Göttingen",Insgesamt,"Insgesamt",Prozent,K03159,100
-2020,"Statistische Region Braunschweig",Insgesamt,"Insgesamt",Prozent,K031,100
-2020,"Region Hannover",Insgesamt,"Insgesamt",Prozent,K03241,100
-2020,"dav. Hannover, Lhst.",Insgesamt,"Insgesamt",Prozent,K03241001,100
-2020,"dav. Hannover, Umland",Insgesamt,"Insgesamt",Prozent,K03241999,100
-2020,"Diepholz",Insgesamt,"Insgesamt",Prozent,K03251,100
-2020,"Hameln-Pyrmont",Insgesamt,"Insgesamt",Prozent,K03252,100
-2020,"Hildesheim",Insgesamt,"Insgesamt",Prozent,K03254,100
-2020,"Holzminden",Insgesamt,"Insgesamt",Prozent,K03255,100
-2020,"Nienburg (Weser)",Insgesamt,"Insgesamt",Prozent,K03256,100
-2020,"Schaumburg",Insgesamt,"Insgesamt",Prozent,K03257,100
-2020,"Statistische Region Hannover",Insgesamt,"Insgesamt",Prozent,K032,100
-2020,"Celle",Insgesamt,"Insgesamt",Prozent,K03351,100
-2020,"Cuxhaven",Insgesamt,"Insgesamt",Prozent,K03352,100
-2020,"Harburg",Insgesamt,"Insgesamt",Prozent,K03353,100
-2020,"Lüchow-Dannenberg",Insgesamt,"Insgesamt",Prozent,K03354,100
-2020,"Lüneburg",Insgesamt,"Insgesamt",Prozent,K03355,100
-2020,"Osterholz",Insgesamt,"Insgesamt",Prozent,K03356,100
-2020,"Rotenburg (Wümme)",Insgesamt,"Insgesamt",Prozent,K03357,100
-2020,"Heidekreis",Insgesamt,"Insgesamt",Prozent,K03358,100
-2020,"Stade",Insgesamt,"Insgesamt",Prozent,K03359,100
-2020,"Uelzen",Insgesamt,"Insgesamt",Prozent,K03360,100
-2020,"Verden",Insgesamt,"Insgesamt",Prozent,K03361,100
-2020,"Statistische Region Lüneburg",Insgesamt,"Insgesamt",Prozent,K033,100
-2020,"Delmenhorst, Stadt",Insgesamt,"Insgesamt",Prozent,K03401,100
-2020,"Emden, Stadt",Insgesamt,"Insgesamt",Prozent,K03402,100
-2020,"Oldenburg (Oldb), Stadt",Insgesamt,"Insgesamt",Prozent,K03403,100
-2020,"Osnabrück, Stadt",Insgesamt,"Insgesamt",Prozent,K03404,100
-2020,"Wilhelmshaven, Stadt",Insgesamt,"Insgesamt",Prozent,K03405,100
-2020,"Ammerland",Insgesamt,"Insgesamt",Prozent,K03451,100
-2020,"Aurich",Insgesamt,"Insgesamt",Prozent,K03452,100
-2020,"Cloppenburg",Insgesamt,"Insgesamt",Prozent,K03453,100
-2020,"Emsland",Insgesamt,"Insgesamt",Prozent,K03454,100
-2020,"Friesland",Insgesamt,"Insgesamt",Prozent,K03455,100
-2020,"Grafschaft Bentheim",Insgesamt,"Insgesamt",Prozent,K03456,100
-2020,"Leer",Insgesamt,"Insgesamt",Prozent,K03457,100
-2020,"Oldenburg",Insgesamt,"Insgesamt",Prozent,K03458,100
-2020,"Osnabrück",Insgesamt,"Insgesamt",Prozent,K03459,100
-2020,"Vechta",Insgesamt,"Insgesamt",Prozent,K03460,100
-2020,"Wesermarsch",Insgesamt,"Insgesamt",Prozent,K03461,100
-2020,"Wittmund",Insgesamt,"Insgesamt",Prozent,K03462,100
-2020,"Statistische Region Weser-Ems",Insgesamt,"Insgesamt",Prozent,K034,100
-2020,"Niedersachsen",Insgesamt,"Insgesamt",Prozent,K030,100
 2019,"Braunschweig, Stadt",Insgesamt,"Insgesamt",Prozent,K03101,100
 2019,"Salzgitter, Stadt",Insgesamt,"Insgesamt",Prozent,K03102,100
 2019,"Wolfsburg, Stadt",Insgesamt,"Insgesamt",Prozent,K03103,100
@@ -11803,58 +10971,6 @@
 2021,"Wittmund",Insgesamt,"Akademischer Abschluss",Prozent,K03462,8.71743486973948
 2021,"Statistische Region Weser-Ems",Insgesamt,"Akademischer Abschluss",Prozent,K034,7.5684077935304
 2021,"Niedersachsen",Insgesamt,"Akademischer Abschluss",Prozent,K030,12.0679842145811
-2020,"Braunschweig, Stadt",Insgesamt,"Akademischer Abschluss",Prozent,K03101,24.9111862057014
-2020,"Salzgitter, Stadt",Insgesamt,"Akademischer Abschluss",Prozent,K03102,8.99958999589996
-2020,"Wolfsburg, Stadt",Insgesamt,"Akademischer Abschluss",Prozent,K03103,25.4760341431385
-2020,"Gifhorn",Insgesamt,"Akademischer Abschluss",Prozent,K03151,17.2858458704329
-2020,"Goslar",Insgesamt,"Akademischer Abschluss",Prozent,K03153,17.5813953488372
-2020,"Helmstedt",Insgesamt,"Akademischer Abschluss",Prozent,K03154,13.5214579659024
-2020,"Northeim",Insgesamt,"Akademischer Abschluss",Prozent,K03155,10.2166276346604
-2020,"Peine",Insgesamt,"Akademischer Abschluss",Prozent,K03157,6.65083135391924
-2020,"Wolfenbüttel",Insgesamt,"Akademischer Abschluss",Prozent,K03158,12.9255989911728
-2020,"Göttingen",Insgesamt,"Akademischer Abschluss",Prozent,K03159,28.1806162920777
-2020,"Statistische Region Braunschweig",Insgesamt,"Akademischer Abschluss",Prozent,K031,20.4597314180975
-2020,"Region Hannover",Insgesamt,"Akademischer Abschluss",Prozent,K03241,13.7453697790267
-2020,"dav. Hannover, Lhst.",Insgesamt,"Akademischer Abschluss",Prozent,K03241001,17.2278758212031
-2020,"dav. Hannover, Umland",Insgesamt,"Akademischer Abschluss",Prozent,K03241999,8.06986606205651
-2020,"Diepholz",Insgesamt,"Akademischer Abschluss",Prozent,K03251,7.23384895359418
-2020,"Hameln-Pyrmont",Insgesamt,"Akademischer Abschluss",Prozent,K03252,11.105722599418
-2020,"Hildesheim",Insgesamt,"Akademischer Abschluss",Prozent,K03254,18.0776969509364
-2020,"Holzminden",Insgesamt,"Akademischer Abschluss",Prozent,K03255,12.6684636118598
-2020,"Nienburg (Weser)",Insgesamt,"Akademischer Abschluss",Prozent,K03256,5.58749137732812
-2020,"Schaumburg",Insgesamt,"Akademischer Abschluss",Prozent,K03257,8.75194199896427
-2020,"Statistische Region Hannover",Insgesamt,"Akademischer Abschluss",Prozent,K032,12.8270730453824
-2020,"Celle",Insgesamt,"Akademischer Abschluss",Prozent,K03351,14.0762463343109
-2020,"Cuxhaven",Insgesamt,"Akademischer Abschluss",Prozent,K03352,6.67730173199635
-2020,"Harburg",Insgesamt,"Akademischer Abschluss",Prozent,K03353,6.95286022388826
-2020,"Lüchow-Dannenberg",Insgesamt,"Akademischer Abschluss",Prozent,K03354,11.6
-2020,"Lüneburg",Insgesamt,"Akademischer Abschluss",Prozent,K03355,14.9770759042282
-2020,"Osterholz",Insgesamt,"Akademischer Abschluss",Prozent,K03356,11.4851485148515
-2020,"Rotenburg (Wümme)",Insgesamt,"Akademischer Abschluss",Prozent,K03357,8.92008639308855
-2020,"Heidekreis",Insgesamt,"Akademischer Abschluss",Prozent,K03358,7.92470369509644
-2020,"Stade",Insgesamt,"Akademischer Abschluss",Prozent,K03359,9.09090909090909
-2020,"Uelzen",Insgesamt,"Akademischer Abschluss",Prozent,K03360,13.3769322235434
-2020,"Verden",Insgesamt,"Akademischer Abschluss",Prozent,K03361,7.65677740273583
-2020,"Statistische Region Lüneburg",Insgesamt,"Akademischer Abschluss",Prozent,K033,9.34915268652591
-2020,"Delmenhorst, Stadt",Insgesamt,"Akademischer Abschluss",Prozent,K03401,9.97854077253219
-2020,"Emden, Stadt",Insgesamt,"Akademischer Abschluss",Prozent,K03402,10.0932528798683
-2020,"Oldenburg (Oldb), Stadt",Insgesamt,"Akademischer Abschluss",Prozent,K03403,18.159688412853
-2020,"Osnabrück, Stadt",Insgesamt,"Akademischer Abschluss",Prozent,K03404,11.3258731773483
-2020,"Wilhelmshaven, Stadt",Insgesamt,"Akademischer Abschluss",Prozent,K03405,14.7169811320755
-2020,"Ammerland",Insgesamt,"Akademischer Abschluss",Prozent,K03451,7.39224656874548
-2020,"Aurich",Insgesamt,"Akademischer Abschluss",Prozent,K03452,9.00576368876081
-2020,"Cloppenburg",Insgesamt,"Akademischer Abschluss",Prozent,K03453,3.16027088036117
-2020,"Emsland",Insgesamt,"Akademischer Abschluss",Prozent,K03454,7.36954633527093
-2020,"Friesland",Insgesamt,"Akademischer Abschluss",Prozent,K03455,12.5328083989501
-2020,"Grafschaft Bentheim",Insgesamt,"Akademischer Abschluss",Prozent,K03456,7.11571675302245
-2020,"Leer",Insgesamt,"Akademischer Abschluss",Prozent,K03457,8.20499203398832
-2020,"Oldenburg",Insgesamt,"Akademischer Abschluss",Prozent,K03458,5.15356585111921
-2020,"Osnabrück",Insgesamt,"Akademischer Abschluss",Prozent,K03459,4.55751962500706
-2020,"Vechta",Insgesamt,"Akademischer Abschluss",Prozent,K03460,4.26595269968764
-2020,"Wesermarsch",Insgesamt,"Akademischer Abschluss",Prozent,K03461,6.94610778443114
-2020,"Wittmund",Insgesamt,"Akademischer Abschluss",Prozent,K03462,6.81818181818182
-2020,"Statistische Region Weser-Ems",Insgesamt,"Akademischer Abschluss",Prozent,K034,7.38916740391232
-2020,"Niedersachsen",Insgesamt,"Akademischer Abschluss",Prozent,K030,11.7689805404257
 2020,"Braunschweig, Stadt",Insgesamt,"Akademischer Abschluss",Prozent,K03101,24.9111862057014
 2020,"Salzgitter, Stadt",Insgesamt,"Akademischer Abschluss",Prozent,K03102,8.99958999589996
 2020,"Wolfsburg, Stadt",Insgesamt,"Akademischer Abschluss",Prozent,K03103,25.4760341431385
@@ -12583,58 +11699,6 @@
 2020,"Wittmund",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03462,24.7835497835498
 2020,"Statistische Region Weser-Ems",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K034,26.2980438415413
 2020,"Niedersachsen",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K030,30.1124658506237
-2020,"Braunschweig, Stadt",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03101,27.9351875920631
-2020,"Salzgitter, Stadt",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03102,40.0574005740057
-2020,"Wolfsburg, Stadt",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03103,32.5297814463934
-2020,"Gifhorn",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03151,27.5099785078293
-2020,"Goslar",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03153,30.4496124031008
-2020,"Helmstedt",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03154,43.5626102292769
-2020,"Northeim",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03155,42.7107728337237
-2020,"Peine",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03157,31.8883610451306
-2020,"Wolfenbüttel",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03158,40.7313997477932
-2020,"Göttingen",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03159,28.6789382690939
-2020,"Statistische Region Braunschweig",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K031,32.2896794224367
-2020,"Region Hannover",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03241,32.9432239110998
-2020,"dav. Hannover, Lhst.",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03241001,32.3612005667912
-2020,"dav. Hannover, Umland",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03241999,33.8917579879918
-2020,"Diepholz",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03251,32.9542007885957
-2020,"Hameln-Pyrmont",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03252,36.905916585839
-2020,"Hildesheim",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03254,35.5517721714905
-2020,"Holzminden",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03255,33.0862533692722
-2020,"Nienburg (Weser)",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03256,24.8562888020235
-2020,"Schaumburg",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03257,42.9829104091145
-2020,"Statistische Region Hannover",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K032,33.3575402766295
-2020,"Celle",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03351,30.3519061583578
-2020,"Cuxhaven",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03352,31.0847766636281
-2020,"Harburg",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03353,26.6406490705556
-2020,"Lüchow-Dannenberg",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03354,31.8666666666667
-2020,"Lüneburg",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03355,31.3550687722873
-2020,"Osterholz",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03356,33.1683168316832
-2020,"Rotenburg (Wümme)",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03357,35.4859611231102
-2020,"Heidekreis",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03358,36.3699744364397
-2020,"Stade",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03359,24.9404153898536
-2020,"Uelzen",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03360,35.9690844233056
-2020,"Verden",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03361,24.0895363297211
-2020,"Statistische Region Lüneburg",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K033,29.7123174076673
-2020,"Delmenhorst, Stadt",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03401,31.2768240343348
-2020,"Emden, Stadt",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03402,33.2967635765222
-2020,"Oldenburg (Oldb), Stadt",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03403,24.6835443037975
-2020,"Osnabrück, Stadt",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03404,30.2249350062168
-2020,"Wilhelmshaven, Stadt",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03405,27.3854447439353
-2020,"Ammerland",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03451,25.5718757524681
-2020,"Aurich",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03452,27.7137367915466
-2020,"Cloppenburg",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03453,20.372460496614
-2020,"Emsland",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03454,28.1953631322242
-2020,"Friesland",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03455,29.3963254593176
-2020,"Grafschaft Bentheim",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03456,36.1830742659758
-2020,"Leer",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03457,29.9256505576208
-2020,"Oldenburg",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03458,26.2363352420614
-2020,"Osnabrück",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03459,22.8892528378607
-2020,"Vechta",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03460,21.5261044176707
-2020,"Wesermarsch",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03461,35.3692614770459
-2020,"Wittmund",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03462,24.7835497835498
-2020,"Statistische Region Weser-Ems",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K034,26.2980438415413
-2020,"Niedersachsen",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K030,30.1124658506237
 2019,"Braunschweig, Stadt",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03101,27.6866541184906
 2019,"Salzgitter, Stadt",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03102,41.0364440699389
 2019,"Wolfsburg, Stadt",Insgesamt,"mit anerkanntem Berufsabschluss",Prozent,K03103,33.0093312597201
@@ -13259,58 +12323,6 @@
 2021,"Wittmund",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03462,17.8356713426854
 2021,"Statistische Region Weser-Ems",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K034,26.8923252843066
 2021,"Niedersachsen",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K030,26.8968444884675
-2020,"Braunschweig, Stadt",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03101,23.351529330214
-2020,"Salzgitter, Stadt",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03102,21.8327183271833
-2020,"Wolfsburg, Stadt",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03103,15.2330925804334
-2020,"Gifhorn",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03151,24.5931839115751
-2020,"Goslar",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03153,26.1395348837209
-2020,"Helmstedt",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03154,22.8101116990006
-2020,"Northeim",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03155,23.5655737704918
-2020,"Peine",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03157,28.3254156769596
-2020,"Wolfenbüttel",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03158,23.8965952080706
-2020,"Göttingen",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03159,25.3127224651683
-2020,"Statistische Region Braunschweig",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K031,22.524595069764
-2020,"Region Hannover",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03241,27.765359560608
-2020,"dav. Hannover, Lhst.",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03241001,27.0539739791318
-2020,"dav. Hannover, Umland",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03241999,28.9247176386615
-2020,"Diepholz",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03251,24.3403093721565
-2020,"Hameln-Pyrmont",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03252,28.2735208535403
-2020,"Hildesheim",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03254,25.4449775576536
-2020,"Holzminden",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03255,27.8301886792453
-2020,"Nienburg (Weser)",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03256,30.0988733042079
-2020,"Schaumburg",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03257,27.4987053340238
-2020,"Statistische Region Hannover",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K032,27.4719013250508
-2020,"Celle",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03351,31.3782991202346
-2020,"Cuxhaven",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03352,26.1622607110301
-2020,"Harburg",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03353,28.6330491937969
-2020,"Lüchow-Dannenberg",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03354,16.6666666666667
-2020,"Lüneburg",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03355,27.1777890983189
-2020,"Osterholz",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03356,26.6336633663366
-2020,"Rotenburg (Wümme)",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03357,26.3714902807775
-2020,"Heidekreis",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03358,21.7987450615849
-2020,"Stade",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03359,22.9485869935308
-2020,"Uelzen",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03360,22.1165279429251
-2020,"Verden",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03361,27.8379818795523
-2020,"Statistische Region Lüneburg",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K033,26.3570836256937
-2020,"Delmenhorst, Stadt",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03401,32.1351931330472
-2020,"Emden, Stadt",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03402,26.3302249040044
-2020,"Oldenburg (Oldb), Stadt",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03403,29.1139240506329
-2020,"Osnabrück, Stadt",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03404,32.2934328020798
-2020,"Wilhelmshaven, Stadt",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03405,33.4231805929919
-2020,"Ammerland",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03451,26.8962196002889
-2020,"Aurich",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03452,27.209414024976
-2020,"Cloppenburg",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03453,30.0884123401053
-2020,"Emsland",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03454,19.8236119462818
-2020,"Friesland",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03455,23.0971128608924
-2020,"Grafschaft Bentheim",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03456,22.1070811744387
-2020,"Leer",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03457,18.4014869888476
-2020,"Oldenburg",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03458,27.3555439875065
-2020,"Osnabrück",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03459,25.3741458180381
-2020,"Vechta",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03460,27.2824631860776
-2020,"Wesermarsch",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03461,21.0778443113772
-2020,"Wittmund",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03462,18.9393939393939
-2020,"Statistische Region Weser-Ems",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K034,25.9461319178217
-2020,"Niedersachsen",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K030,25.8534344760449
 2020,"Braunschweig, Stadt",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03101,23.351529330214
 2020,"Salzgitter, Stadt",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03102,21.8327183271833
 2020,"Wolfsburg, Stadt",Insgesamt,"ohne beruflichen Ausbildungsabschluss",Prozent,K03103,15.2330925804334
@@ -14039,58 +13051,6 @@
 2020,"Wittmund",Insgesamt,"Ausbildung unbekannt",Prozent,K03462,49.4588744588745
 2020,"Statistische Region Weser-Ems",Insgesamt,"Ausbildung unbekannt",Prozent,K034,40.3666568367247
 2020,"Niedersachsen",Insgesamt,"Ausbildung unbekannt",Prozent,K030,32.2651191329058
-2020,"Braunschweig, Stadt",Insgesamt,"Ausbildung unbekannt",Prozent,K03101,23.8020968720215
-2020,"Salzgitter, Stadt",Insgesamt,"Ausbildung unbekannt",Prozent,K03102,29.110291102911
-2020,"Wolfsburg, Stadt",Insgesamt,"Ausbildung unbekannt",Prozent,K03103,26.7610918300347
-2020,"Gifhorn",Insgesamt,"Ausbildung unbekannt",Prozent,K03151,30.6109917101627
-2020,"Goslar",Insgesamt,"Ausbildung unbekannt",Prozent,K03153,25.8294573643411
-2020,"Helmstedt",Insgesamt,"Ausbildung unbekannt",Prozent,K03154,20.1058201058201
-2020,"Northeim",Insgesamt,"Ausbildung unbekannt",Prozent,K03155,23.5070257611241
-2020,"Peine",Insgesamt,"Ausbildung unbekannt",Prozent,K03157,33.1353919239905
-2020,"Wolfenbüttel",Insgesamt,"Ausbildung unbekannt",Prozent,K03158,22.4464060529634
-2020,"Göttingen",Insgesamt,"Ausbildung unbekannt",Prozent,K03159,17.8277229736601
-2020,"Statistische Region Braunschweig",Insgesamt,"Ausbildung unbekannt",Prozent,K031,24.7259940897019
-2020,"Region Hannover",Insgesamt,"Ausbildung unbekannt",Prozent,K03241,25.5460467492656
-2020,"dav. Hannover, Lhst.",Insgesamt,"Ausbildung unbekannt",Prozent,K03241001,23.3569496328739
-2020,"dav. Hannover, Umland",Insgesamt,"Ausbildung unbekannt",Prozent,K03241999,29.1136583112903
-2020,"Diepholz",Insgesamt,"Ausbildung unbekannt",Prozent,K03251,35.4716408856536
-2020,"Hameln-Pyrmont",Insgesamt,"Ausbildung unbekannt",Prozent,K03252,23.7148399612027
-2020,"Hildesheim",Insgesamt,"Ausbildung unbekannt",Prozent,K03254,20.9255533199195
-2020,"Holzminden",Insgesamt,"Ausbildung unbekannt",Prozent,K03255,26.4150943396226
-2020,"Nienburg (Weser)",Insgesamt,"Ausbildung unbekannt",Prozent,K03256,39.4573465164406
-2020,"Schaumburg",Insgesamt,"Ausbildung unbekannt",Prozent,K03257,20.7664422578975
-2020,"Statistische Region Hannover",Insgesamt,"Ausbildung unbekannt",Prozent,K032,26.3434853529372
-2020,"Celle",Insgesamt,"Ausbildung unbekannt",Prozent,K03351,24.1935483870968
-2020,"Cuxhaven",Insgesamt,"Ausbildung unbekannt",Prozent,K03352,36.0756608933455
-2020,"Harburg",Insgesamt,"Ausbildung unbekannt",Prozent,K03353,37.7734415117593
-2020,"Lüchow-Dannenberg",Insgesamt,"Ausbildung unbekannt",Prozent,K03354,39.8666666666667
-2020,"Lüneburg",Insgesamt,"Ausbildung unbekannt",Prozent,K03355,26.4900662251656
-2020,"Osterholz",Insgesamt,"Ausbildung unbekannt",Prozent,K03356,28.7128712871287
-2020,"Rotenburg (Wümme)",Insgesamt,"Ausbildung unbekannt",Prozent,K03357,29.2224622030238
-2020,"Heidekreis",Insgesamt,"Ausbildung unbekannt",Prozent,K03358,33.9065768068789
-2020,"Stade",Insgesamt,"Ausbildung unbekannt",Prozent,K03359,43.0200885257065
-2020,"Uelzen",Insgesamt,"Ausbildung unbekannt",Prozent,K03360,28.5374554102259
-2020,"Verden",Insgesamt,"Ausbildung unbekannt",Prozent,K03361,40.4157043879908
-2020,"Statistische Region Lüneburg",Insgesamt,"Ausbildung unbekannt",Prozent,K033,34.5814462801131
-2020,"Delmenhorst, Stadt",Insgesamt,"Ausbildung unbekannt",Prozent,K03401,26.6094420600858
-2020,"Emden, Stadt",Insgesamt,"Ausbildung unbekannt",Prozent,K03402,30.279758639605
-2020,"Oldenburg (Oldb), Stadt",Insgesamt,"Ausbildung unbekannt",Prozent,K03403,28.0428432327167
-2020,"Osnabrück, Stadt",Insgesamt,"Ausbildung unbekannt",Prozent,K03404,26.1557590143552
-2020,"Wilhelmshaven, Stadt",Insgesamt,"Ausbildung unbekannt",Prozent,K03405,24.4743935309973
-2020,"Ammerland",Insgesamt,"Ausbildung unbekannt",Prozent,K03451,40.1396580784975
-2020,"Aurich",Insgesamt,"Ausbildung unbekannt",Prozent,K03452,36.0710854947166
-2020,"Cloppenburg",Insgesamt,"Ausbildung unbekannt",Prozent,K03453,46.3788562829195
-2020,"Emsland",Insgesamt,"Ausbildung unbekannt",Prozent,K03454,44.611478586223
-2020,"Friesland",Insgesamt,"Ausbildung unbekannt",Prozent,K03455,34.9737532808399
-2020,"Grafschaft Bentheim",Insgesamt,"Ausbildung unbekannt",Prozent,K03456,34.594127806563
-2020,"Leer",Insgesamt,"Ausbildung unbekannt",Prozent,K03457,43.4678704195433
-2020,"Oldenburg",Insgesamt,"Ausbildung unbekannt",Prozent,K03458,41.2545549193129
-2020,"Osnabrück",Insgesamt,"Ausbildung unbekannt",Prozent,K03459,47.1790817190941
-2020,"Vechta",Insgesamt,"Ausbildung unbekannt",Prozent,K03460,46.925479696564
-2020,"Wesermarsch",Insgesamt,"Ausbildung unbekannt",Prozent,K03461,36.6067864271457
-2020,"Wittmund",Insgesamt,"Ausbildung unbekannt",Prozent,K03462,49.4588744588745
-2020,"Statistische Region Weser-Ems",Insgesamt,"Ausbildung unbekannt",Prozent,K034,40.3666568367247
-2020,"Niedersachsen",Insgesamt,"Ausbildung unbekannt",Prozent,K030,32.2651191329058
 2019,"Braunschweig, Stadt",Insgesamt,"Ausbildung unbekannt",Prozent,K03101,24.9977592542798
 2019,"Salzgitter, Stadt",Insgesamt,"Ausbildung unbekannt",Prozent,K03102,27.6385085317042
 2019,"Wolfsburg, Stadt",Insgesamt,"Ausbildung unbekannt",Prozent,K03103,28.3339813374806
@@ -14715,58 +13675,6 @@
 2021,"Wittmund",Männer,"Insgesamt",Prozent,K03462,100
 2021,"Statistische Region Weser-Ems",Männer,"Insgesamt",Prozent,K034,100
 2021,"Niedersachsen",Männer,"Insgesamt",Prozent,K030,100
-2020,"Braunschweig, Stadt",Männer,"Insgesamt",Prozent,K03101,100
-2020,"Salzgitter, Stadt",Männer,"Insgesamt",Prozent,K03102,100
-2020,"Wolfsburg, Stadt",Männer,"Insgesamt",Prozent,K03103,100
-2020,"Gifhorn",Männer,"Insgesamt",Prozent,K03151,100
-2020,"Goslar",Männer,"Insgesamt",Prozent,K03153,100
-2020,"Helmstedt",Männer,"Insgesamt",Prozent,K03154,100
-2020,"Northeim",Männer,"Insgesamt",Prozent,K03155,100
-2020,"Peine",Männer,"Insgesamt",Prozent,K03157,100
-2020,"Wolfenbüttel",Männer,"Insgesamt",Prozent,K03158,100
-2020,"Göttingen",Männer,"Insgesamt",Prozent,K03159,100
-2020,"Statistische Region Braunschweig",Männer,"Insgesamt",Prozent,K031,100
-2020,"Region Hannover",Männer,"Insgesamt",Prozent,K03241,100
-2020,"dav. Hannover, Lhst.",Männer,"Insgesamt",Prozent,K03241001,100
-2020,"dav. Hannover, Umland",Männer,"Insgesamt",Prozent,K03241999,100
-2020,"Diepholz",Männer,"Insgesamt",Prozent,K03251,100
-2020,"Hameln-Pyrmont",Männer,"Insgesamt",Prozent,K03252,100
-2020,"Hildesheim",Männer,"Insgesamt",Prozent,K03254,100
-2020,"Holzminden",Männer,"Insgesamt",Prozent,K03255,100
-2020,"Nienburg (Weser)",Männer,"Insgesamt",Prozent,K03256,100
-2020,"Schaumburg",Männer,"Insgesamt",Prozent,K03257,100
-2020,"Statistische Region Hannover",Männer,"Insgesamt",Prozent,K032,100
-2020,"Celle",Männer,"Insgesamt",Prozent,K03351,100
-2020,"Cuxhaven",Männer,"Insgesamt",Prozent,K03352,100
-2020,"Harburg",Männer,"Insgesamt",Prozent,K03353,100
-2020,"Lüchow-Dannenberg",Männer,"Insgesamt",Prozent,K03354,100
-2020,"Lüneburg",Männer,"Insgesamt",Prozent,K03355,100
-2020,"Osterholz",Männer,"Insgesamt",Prozent,K03356,100
-2020,"Rotenburg (Wümme)",Männer,"Insgesamt",Prozent,K03357,100
-2020,"Heidekreis",Männer,"Insgesamt",Prozent,K03358,100
-2020,"Stade",Männer,"Insgesamt",Prozent,K03359,100
-2020,"Uelzen",Männer,"Insgesamt",Prozent,K03360,100
-2020,"Verden",Männer,"Insgesamt",Prozent,K03361,100
-2020,"Statistische Region Lüneburg",Männer,"Insgesamt",Prozent,K033,100
-2020,"Delmenhorst, Stadt",Männer,"Insgesamt",Prozent,K03401,100
-2020,"Emden, Stadt",Männer,"Insgesamt",Prozent,K03402,100
-2020,"Oldenburg (Oldb), Stadt",Männer,"Insgesamt",Prozent,K03403,100
-2020,"Osnabrück, Stadt",Männer,"Insgesamt",Prozent,K03404,100
-2020,"Wilhelmshaven, Stadt",Männer,"Insgesamt",Prozent,K03405,100
-2020,"Ammerland",Männer,"Insgesamt",Prozent,K03451,100
-2020,"Aurich",Männer,"Insgesamt",Prozent,K03452,100
-2020,"Cloppenburg",Männer,"Insgesamt",Prozent,K03453,100
-2020,"Emsland",Männer,"Insgesamt",Prozent,K03454,100
-2020,"Friesland",Männer,"Insgesamt",Prozent,K03455,100
-2020,"Grafschaft Bentheim",Männer,"Insgesamt",Prozent,K03456,100
-2020,"Leer",Männer,"Insgesamt",Prozent,K03457,100
-2020,"Oldenburg",Männer,"Insgesamt",Prozent,K03458,100
-2020,"Osnabrück",Männer,"Insgesamt",Prozent,K03459,100
-2020,"Vechta",Männer,"Insgesamt",Prozent,K03460,100
-2020,"Wesermarsch",Männer,"Insgesamt",Prozent,K03461,100
-2020,"Wittmund",Männer,"Insgesamt",Prozent,K03462,100
-2020,"Statistische Region Weser-Ems",Männer,"Insgesamt",Prozent,K034,100
-2020,"Niedersachsen",Männer,"Insgesamt",Prozent,K030,100
 2020,"Braunschweig, Stadt",Männer,"Insgesamt",Prozent,K03101,100
 2020,"Salzgitter, Stadt",Männer,"Insgesamt",Prozent,K03102,100
 2020,"Wolfsburg, Stadt",Männer,"Insgesamt",Prozent,K03103,100
@@ -15495,58 +14403,6 @@
 2020,"Wittmund",Männer,"Akademischer Abschluss",Prozent,K03462,6.04395604395604
 2020,"Statistische Region Weser-Ems",Männer,"Akademischer Abschluss",Prozent,K034,5.97047614875816
 2020,"Niedersachsen",Männer,"Akademischer Abschluss",Prozent,K030,9.73897352401298
-2020,"Braunschweig, Stadt",Männer,"Akademischer Abschluss",Prozent,K03101,23.3957410318708
-2020,"Salzgitter, Stadt",Männer,"Akademischer Abschluss",Prozent,K03102,7.30337078651685
-2020,"Wolfsburg, Stadt",Männer,"Akademischer Abschluss",Prozent,K03103,24.1238238101732
-2020,"Gifhorn",Männer,"Akademischer Abschluss",Prozent,K03151,15.3065928999539
-2020,"Goslar",Männer,"Akademischer Abschluss",Prozent,K03153,15.933014354067
-2020,"Helmstedt",Männer,"Akademischer Abschluss",Prozent,K03154,11.053089643168
-2020,"Northeim",Männer,"Akademischer Abschluss",Prozent,K03155,8.44514601420679
-2020,"Peine",Männer,"Akademischer Abschluss",Prozent,K03157,5.05341002465078
-2020,"Wolfenbüttel",Männer,"Akademischer Abschluss",Prozent,K03158,9.10891089108911
-2020,"Göttingen",Männer,"Akademischer Abschluss",Prozent,K03159,24.2179782680277
-2020,"Statistische Region Braunschweig",Männer,"Akademischer Abschluss",Prozent,K031,17.9323350596712
-2020,"Region Hannover",Männer,"Akademischer Abschluss",Prozent,K03241,11.4556815551956
-2020,"dav. Hannover, Lhst.",Männer,"Akademischer Abschluss",Prozent,K03241001,14.8048217938117
-2020,"dav. Hannover, Umland",Männer,"Akademischer Abschluss",Prozent,K03241999,6.61847894406034
-2020,"Diepholz",Männer,"Akademischer Abschluss",Prozent,K03251,5.43573943661972
-2020,"Hameln-Pyrmont",Männer,"Akademischer Abschluss",Prozent,K03252,9.56316410861865
-2020,"Hildesheim",Männer,"Akademischer Abschluss",Prozent,K03254,16.2194253146521
-2020,"Holzminden",Männer,"Akademischer Abschluss",Prozent,K03255,9.61923847695391
-2020,"Nienburg (Weser)",Männer,"Akademischer Abschluss",Prozent,K03256,3.67306419589676
-2020,"Schaumburg",Männer,"Akademischer Abschluss",Prozent,K03257,7.24694761717212
-2020,"Statistische Region Hannover",Männer,"Akademischer Abschluss",Prozent,K032,10.607288876357
-2020,"Celle",Männer,"Akademischer Abschluss",Prozent,K03351,13.1889015583428
-2020,"Cuxhaven",Männer,"Akademischer Abschluss",Prozent,K03352,5.23255813953488
-2020,"Harburg",Männer,"Akademischer Abschluss",Prozent,K03353,5.1765706991916
-2020,"Lüchow-Dannenberg",Männer,"Akademischer Abschluss",Prozent,K03354,9.42982456140351
-2020,"Lüneburg",Männer,"Akademischer Abschluss",Prozent,K03355,11.3833992094862
-2020,"Osterholz",Männer,"Akademischer Abschluss",Prozent,K03356,8.12365204888569
-2020,"Rotenburg (Wümme)",Männer,"Akademischer Abschluss",Prozent,K03357,6.56887755102041
-2020,"Heidekreis",Männer,"Akademischer Abschluss",Prozent,K03358,6.30311614730878
-2020,"Stade",Männer,"Akademischer Abschluss",Prozent,K03359,6.97340043134436
-2020,"Uelzen",Männer,"Akademischer Abschluss",Prozent,K03360,10.1449275362319
-2020,"Verden",Männer,"Akademischer Abschluss",Prozent,K03361,5.42596348884381
-2020,"Statistische Region Lüneburg",Männer,"Akademischer Abschluss",Prozent,K033,7.17557251908397
-2020,"Delmenhorst, Stadt",Männer,"Akademischer Abschluss",Prozent,K03401,8.53158326497129
-2020,"Emden, Stadt",Männer,"Akademischer Abschluss",Prozent,K03402,7.55555555555556
-2020,"Oldenburg (Oldb), Stadt",Männer,"Akademischer Abschluss",Prozent,K03403,14.8327801889201
-2020,"Osnabrück, Stadt",Männer,"Akademischer Abschluss",Prozent,K03404,10.1743007701662
-2020,"Wilhelmshaven, Stadt",Männer,"Akademischer Abschluss",Prozent,K03405,11.8320610687023
-2020,"Ammerland",Männer,"Akademischer Abschluss",Prozent,K03451,6.06591865357644
-2020,"Aurich",Männer,"Akademischer Abschluss",Prozent,K03452,8.35214446952596
-2020,"Cloppenburg",Männer,"Akademischer Abschluss",Prozent,K03453,2.42001640689089
-2020,"Emsland",Männer,"Akademischer Abschluss",Prozent,K03454,6.13914162301259
-2020,"Friesland",Männer,"Akademischer Abschluss",Prozent,K03455,9.4704684317719
-2020,"Grafschaft Bentheim",Männer,"Akademischer Abschluss",Prozent,K03456,5.39658634538153
-2020,"Leer",Männer,"Akademischer Abschluss",Prozent,K03457,6.11028315946349
-2020,"Oldenburg",Männer,"Akademischer Abschluss",Prozent,K03458,4.3205317577548
-2020,"Osnabrück",Männer,"Akademischer Abschluss",Prozent,K03459,3.58211507224075
-2020,"Vechta",Männer,"Akademischer Abschluss",Prozent,K03460,3.40391316001072
-2020,"Wesermarsch",Männer,"Akademischer Abschluss",Prozent,K03461,5.53041729512318
-2020,"Wittmund",Männer,"Akademischer Abschluss",Prozent,K03462,6.04395604395604
-2020,"Statistische Region Weser-Ems",Männer,"Akademischer Abschluss",Prozent,K034,5.97047614875816
-2020,"Niedersachsen",Männer,"Akademischer Abschluss",Prozent,K030,9.73897352401298
 2019,"Braunschweig, Stadt",Männer,"Akademischer Abschluss",Prozent,K03101,21.4116602545132
 2019,"Salzgitter, Stadt",Männer,"Akademischer Abschluss",Prozent,K03102,6.83551198257081
 2019,"Wolfsburg, Stadt",Männer,"Akademischer Abschluss",Prozent,K03103,22.6957383548067
@@ -16171,58 +15027,6 @@
 2021,"Wittmund",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03462,22.5524475524476
 2021,"Statistische Region Weser-Ems",Männer,"mit anerkanntem Berufsabschluss",Prozent,K034,26.9090089851308
 2021,"Niedersachsen",Männer,"mit anerkanntem Berufsabschluss",Prozent,K030,29.4168776331226
-2020,"Braunschweig, Stadt",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03101,26.925825353723
-2020,"Salzgitter, Stadt",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03102,40.2086677367576
-2020,"Wolfsburg, Stadt",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03103,31.4196099822719
-2020,"Gifhorn",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03151,23.5131396957123
-2020,"Goslar",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03153,28.6602870813397
-2020,"Helmstedt",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03154,46.562228024369
-2020,"Northeim",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03155,44.6329913180742
-2020,"Peine",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03157,29.9506984387839
-2020,"Wolfenbüttel",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03158,44.2574257425743
-2020,"Göttingen",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03159,27.9222917352651
-2020,"Statistische Region Braunschweig",Männer,"mit anerkanntem Berufsabschluss",Prozent,K031,31.912857464535
-2020,"Region Hannover",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03241,31.3970531512767
-2020,"dav. Hannover, Lhst.",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03241001,31.041385612951
-2020,"dav. Hannover, Umland",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03241999,31.9107479572596
-2020,"Diepholz",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03251,33.2526408450704
-2020,"Hameln-Pyrmont",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03252,34.1204250295159
-2020,"Hildesheim",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03254,33.9111849916884
-2020,"Holzminden",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03255,33.2665330661323
-2020,"Nienburg (Weser)",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03256,25.6121773659828
-2020,"Schaumburg",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03257,40.8034659314691
-2020,"Statistische Region Hannover",Männer,"mit anerkanntem Berufsabschluss",Prozent,K032,31.9998590159312
-2020,"Celle",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03351,27.8601292284303
-2020,"Cuxhaven",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03352,29.7195622435021
-2020,"Harburg",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03353,23.8405899872359
-2020,"Lüchow-Dannenberg",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03354,32.4561403508772
-2020,"Lüneburg",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03355,29.4071146245059
-2020,"Osterholz",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03356,32.4227174694464
-2020,"Rotenburg (Wümme)",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03357,34.9489795918367
-2020,"Heidekreis",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03358,35.4815864022663
-2020,"Stade",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03359,22.3819793913252
-2020,"Uelzen",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03360,33.8164251207729
-2020,"Verden",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03361,23.7322515212982
-2020,"Statistische Region Lüneburg",Männer,"mit anerkanntem Berufsabschluss",Prozent,K033,27.8672690450226
-2020,"Delmenhorst, Stadt",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03401,29.532403609516
-2020,"Emden, Stadt",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03402,32.8888888888889
-2020,"Oldenburg (Oldb), Stadt",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03403,22.5427623181006
-2020,"Osnabrück, Stadt",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03404,29.5905958654236
-2020,"Wilhelmshaven, Stadt",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03405,25.4961832061069
-2020,"Ammerland",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03451,24.4039270687237
-2020,"Aurich",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03452,27.2009029345372
-2020,"Cloppenburg",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03453,21.5750615258409
-2020,"Emsland",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03454,29.087400055142
-2020,"Friesland",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03455,28.1059063136456
-2020,"Grafschaft Bentheim",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03456,33.9859437751004
-2020,"Leer",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03457,28.0923994038748
-2020,"Oldenburg",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03458,25.2954209748892
-2020,"Osnabrück",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03459,23.8864666153715
-2020,"Vechta",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03460,22.9831144465291
-2020,"Wesermarsch",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03461,34.0372046254399
-2020,"Wittmund",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03462,22.8937728937729
-2020,"Statistische Region Weser-Ems",Männer,"mit anerkanntem Berufsabschluss",Prozent,K034,26.3159431716968
-2020,"Niedersachsen",Männer,"mit anerkanntem Berufsabschluss",Prozent,K030,29.2775882273637
 2020,"Braunschweig, Stadt",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03101,26.925825353723
 2020,"Salzgitter, Stadt",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03102,40.2086677367576
 2020,"Wolfsburg, Stadt",Männer,"mit anerkanntem Berufsabschluss",Prozent,K03103,31.4196099822719
@@ -16951,58 +15755,6 @@
 2020,"Wittmund",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03462,21.6117216117216
 2020,"Statistische Region Weser-Ems",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K034,26.1597091418809
 2020,"Niedersachsen",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K030,26.7134723676978
-2020,"Braunschweig, Stadt",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03101,24.7534657710447
-2020,"Salzgitter, Stadt",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03102,21.856607811664
-2020,"Wolfsburg, Stadt",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03103,15.4234283376517
-2020,"Gifhorn",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03151,24.9884739511296
-2020,"Goslar",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03153,26.9856459330144
-2020,"Helmstedt",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03154,20.7136640557006
-2020,"Northeim",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03155,22.7308602999211
-2020,"Peine",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03157,28.5127362366475
-2020,"Wolfenbüttel",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03158,23.5643564356436
-2020,"Göttingen",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03159,28.5479091208429
-2020,"Statistische Region Braunschweig",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K031,23.2661562711101
-2020,"Region Hannover",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03241,29.6330581912623
-2020,"dav. Hannover, Lhst.",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03241001,29.0700204534575
-2020,"dav. Hannover, Umland",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03241999,30.4462602137021
-2020,"Diepholz",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03251,22.9533450704225
-2020,"Hameln-Pyrmont",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03252,30.814639905549
-2020,"Hildesheim",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03254,27.0482070767039
-2020,"Holzminden",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03255,30.060120240481
-2020,"Nienburg (Weser)",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03256,29.0866975512905
-2020,"Schaumburg",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03257,29.26348956282
-2020,"Statistische Region Hannover",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K032,28.9211194135063
-2020,"Celle",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03351,33.2193082478145
-2020,"Cuxhaven",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03352,25.0341997264022
-2020,"Harburg",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03353,30.9743298822862
-2020,"Lüchow-Dannenberg",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03354,19.0789473684211
-2020,"Lüneburg",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03355,30.9881422924901
-2020,"Osterholz",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03356,28.5406182602444
-2020,"Rotenburg (Wümme)",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03357,27.6466836734694
-2020,"Heidekreis",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03358,22.0963172804533
-2020,"Stade",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03359,22.8133237479032
-2020,"Uelzen",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03360,23.6714975845411
-2020,"Verden",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03361,29.893509127789
-2020,"Statistische Region Lüneburg",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K033,27.8080697928026
-2020,"Delmenhorst, Stadt",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03401,34.0442986054143
-2020,"Emden, Stadt",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03402,26.7407407407407
-2020,"Oldenburg (Oldb), Stadt",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03403,31.937707429155
-2020,"Osnabrück, Stadt",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03404,34.0494527766518
-2020,"Wilhelmshaven, Stadt",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03405,36.5648854961832
-2020,"Ammerland",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03451,28.4011220196353
-2020,"Aurich",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03452,29.6839729119639
-2020,"Cloppenburg",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03453,29.1495761553186
-2020,"Emsland",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03454,18.6196121679993
-2020,"Friesland",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03455,24.5417515274949
-2020,"Grafschaft Bentheim",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03456,21.3353413654618
-2020,"Leer",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03457,18.8897168405365
-2020,"Oldenburg",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03458,26.5878877400295
-2020,"Osnabrück",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03459,26.4341284089938
-2020,"Vechta",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03460,27.1911015813455
-2020,"Wesermarsch",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03461,20.9150326797386
-2020,"Wittmund",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03462,21.6117216117216
-2020,"Statistische Region Weser-Ems",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K034,26.1597091418809
-2020,"Niedersachsen",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K030,26.7134723676978
 2019,"Braunschweig, Stadt",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03101,25.8508434448062
 2019,"Salzgitter, Stadt",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03102,22.6307189542484
 2019,"Wolfsburg, Stadt",Männer,"ohne beruflichen Ausbildungsabschluss",Prozent,K03103,14.7387795554297
@@ -17627,58 +16379,6 @@
 2021,"Wittmund",Männer,"Ausbildung unbekannt",Prozent,K03462,49.3006993006993
 2021,"Statistische Region Weser-Ems",Männer,"Ausbildung unbekannt",Prozent,K034,39.5716822603302
 2021,"Niedersachsen",Männer,"Ausbildung unbekannt",Prozent,K030,32.5640380167095
-2020,"Braunschweig, Stadt",Männer,"Ausbildung unbekannt",Prozent,K03101,24.9249678433614
-2020,"Salzgitter, Stadt",Männer,"Ausbildung unbekannt",Prozent,K03102,30.6313536650615
-2020,"Wolfsburg, Stadt",Männer,"Ausbildung unbekannt",Prozent,K03103,29.0331378699032
-2020,"Gifhorn",Männer,"Ausbildung unbekannt",Prozent,K03151,36.1917934532042
-2020,"Goslar",Männer,"Ausbildung unbekannt",Prozent,K03153,28.4210526315789
-2020,"Helmstedt",Männer,"Ausbildung unbekannt",Prozent,K03154,21.6710182767624
-2020,"Northeim",Männer,"Ausbildung unbekannt",Prozent,K03155,24.191002367798
-2020,"Peine",Männer,"Ausbildung unbekannt",Prozent,K03157,36.4831552999178
-2020,"Wolfenbüttel",Männer,"Ausbildung unbekannt",Prozent,K03158,23.0693069306931
-2020,"Göttingen",Männer,"Ausbildung unbekannt",Prozent,K03159,19.3118208758643
-2020,"Statistische Region Braunschweig",Männer,"Ausbildung unbekannt",Prozent,K031,26.8886512046836
-2020,"Region Hannover",Männer,"Ausbildung unbekannt",Prozent,K03241,27.5142071022654
-2020,"dav. Hannover, Lhst.",Männer,"Ausbildung unbekannt",Prozent,K03241001,25.0837721397798
-2020,"dav. Hannover, Umland",Männer,"Ausbildung unbekannt",Prozent,K03241999,31.024512884978
-2020,"Diepholz",Männer,"Ausbildung unbekannt",Prozent,K03251,38.3582746478873
-2020,"Hameln-Pyrmont",Männer,"Ausbildung unbekannt",Prozent,K03252,25.5017709563164
-2020,"Hildesheim",Männer,"Ausbildung unbekannt",Prozent,K03254,22.8211826169556
-2020,"Holzminden",Männer,"Ausbildung unbekannt",Prozent,K03255,27.0541082164329
-2020,"Nienburg (Weser)",Männer,"Ausbildung unbekannt",Prozent,K03256,41.6280608868299
-2020,"Schaumburg",Männer,"Ausbildung unbekannt",Prozent,K03257,22.6860968885388
-2020,"Statistische Region Hannover",Männer,"Ausbildung unbekannt",Prozent,K032,28.4717326942056
-2020,"Celle",Männer,"Ausbildung unbekannt",Prozent,K03351,25.7316609654124
-2020,"Cuxhaven",Männer,"Ausbildung unbekannt",Prozent,K03352,40.0136798905609
-2020,"Harburg",Männer,"Ausbildung unbekannt",Prozent,K03353,40.0085094312863
-2020,"Lüchow-Dannenberg",Männer,"Ausbildung unbekannt",Prozent,K03354,39.0350877192982
-2020,"Lüneburg",Männer,"Ausbildung unbekannt",Prozent,K03355,28.2213438735178
-2020,"Osterholz",Männer,"Ausbildung unbekannt",Prozent,K03356,30.9130122214234
-2020,"Rotenburg (Wümme)",Männer,"Ausbildung unbekannt",Prozent,K03357,30.8354591836735
-2020,"Heidekreis",Männer,"Ausbildung unbekannt",Prozent,K03358,36.1189801699717
-2020,"Stade",Männer,"Ausbildung unbekannt",Prozent,K03359,47.8312964294273
-2020,"Uelzen",Männer,"Ausbildung unbekannt",Prozent,K03360,32.3671497584541
-2020,"Verden",Männer,"Ausbildung unbekannt",Prozent,K03361,40.948275862069
-2020,"Statistische Region Lüneburg",Männer,"Ausbildung unbekannt",Prozent,K033,37.1490886430908
-2020,"Delmenhorst, Stadt",Männer,"Ausbildung unbekannt",Prozent,K03401,27.8917145200984
-2020,"Emden, Stadt",Männer,"Ausbildung unbekannt",Prozent,K03402,32.8148148148148
-2020,"Oldenburg (Oldb), Stadt",Männer,"Ausbildung unbekannt",Prozent,K03403,30.6867500638244
-2020,"Osnabrück, Stadt",Männer,"Ausbildung unbekannt",Prozent,K03404,26.1856505877584
-2020,"Wilhelmshaven, Stadt",Männer,"Ausbildung unbekannt",Prozent,K03405,26.1068702290076
-2020,"Ammerland",Männer,"Ausbildung unbekannt",Prozent,K03451,41.1290322580645
-2020,"Aurich",Männer,"Ausbildung unbekannt",Prozent,K03452,34.7629796839729
-2020,"Cloppenburg",Männer,"Ausbildung unbekannt",Prozent,K03453,46.8553459119497
-2020,"Emsland",Männer,"Ausbildung unbekannt",Prozent,K03454,46.1538461538462
-2020,"Friesland",Männer,"Ausbildung unbekannt",Prozent,K03455,37.8818737270876
-2020,"Grafschaft Bentheim",Männer,"Ausbildung unbekannt",Prozent,K03456,39.2821285140562
-2020,"Leer",Männer,"Ausbildung unbekannt",Prozent,K03457,46.9076005961252
-2020,"Oldenburg",Männer,"Ausbildung unbekannt",Prozent,K03458,43.7961595273264
-2020,"Osnabrück",Männer,"Ausbildung unbekannt",Prozent,K03459,46.097289903394
-2020,"Vechta",Männer,"Ausbildung unbekannt",Prozent,K03460,46.4218708121147
-2020,"Wesermarsch",Männer,"Ausbildung unbekannt",Prozent,K03461,39.5173453996983
-2020,"Wittmund",Männer,"Ausbildung unbekannt",Prozent,K03462,49.4505494505495
-2020,"Statistische Region Weser-Ems",Männer,"Ausbildung unbekannt",Prozent,K034,41.5538715376641
-2020,"Niedersachsen",Männer,"Ausbildung unbekannt",Prozent,K030,34.2699658809255
 2020,"Braunschweig, Stadt",Männer,"Ausbildung unbekannt",Prozent,K03101,24.9249678433614
 2020,"Salzgitter, Stadt",Männer,"Ausbildung unbekannt",Prozent,K03102,30.6313536650615
 2020,"Wolfsburg, Stadt",Männer,"Ausbildung unbekannt",Prozent,K03103,29.0331378699032
@@ -18407,58 +17107,6 @@
 2020,"Wittmund",Frauen,"Insgesamt",Prozent,K03462,100
 2020,"Statistische Region Weser-Ems",Frauen,"Insgesamt",Prozent,K034,100
 2020,"Niedersachsen",Frauen,"Insgesamt",Prozent,K030,100
-2020,"Braunschweig, Stadt",Frauen,"Insgesamt",Prozent,K03101,100
-2020,"Salzgitter, Stadt",Frauen,"Insgesamt",Prozent,K03102,100
-2020,"Wolfsburg, Stadt",Frauen,"Insgesamt",Prozent,K03103,100
-2020,"Gifhorn",Frauen,"Insgesamt",Prozent,K03151,100
-2020,"Goslar",Frauen,"Insgesamt",Prozent,K03153,100
-2020,"Helmstedt",Frauen,"Insgesamt",Prozent,K03154,100
-2020,"Northeim",Frauen,"Insgesamt",Prozent,K03155,100
-2020,"Peine",Frauen,"Insgesamt",Prozent,K03157,100
-2020,"Wolfenbüttel",Frauen,"Insgesamt",Prozent,K03158,100
-2020,"Göttingen",Frauen,"Insgesamt",Prozent,K03159,100
-2020,"Statistische Region Braunschweig",Frauen,"Insgesamt",Prozent,K031,100
-2020,"Region Hannover",Frauen,"Insgesamt",Prozent,K03241,100
-2020,"dav. Hannover, Lhst.",Frauen,"Insgesamt",Prozent,K03241001,100
-2020,"dav. Hannover, Umland",Frauen,"Insgesamt",Prozent,K03241999,100
-2020,"Diepholz",Frauen,"Insgesamt",Prozent,K03251,100
-2020,"Hameln-Pyrmont",Frauen,"Insgesamt",Prozent,K03252,100
-2020,"Hildesheim",Frauen,"Insgesamt",Prozent,K03254,100
-2020,"Holzminden",Frauen,"Insgesamt",Prozent,K03255,100
-2020,"Nienburg (Weser)",Frauen,"Insgesamt",Prozent,K03256,100
-2020,"Schaumburg",Frauen,"Insgesamt",Prozent,K03257,100
-2020,"Statistische Region Hannover",Frauen,"Insgesamt",Prozent,K032,100
-2020,"Celle",Frauen,"Insgesamt",Prozent,K03351,100
-2020,"Cuxhaven",Frauen,"Insgesamt",Prozent,K03352,100
-2020,"Harburg",Frauen,"Insgesamt",Prozent,K03353,100
-2020,"Lüchow-Dannenberg",Frauen,"Insgesamt",Prozent,K03354,100
-2020,"Lüneburg",Frauen,"Insgesamt",Prozent,K03355,100
-2020,"Osterholz",Frauen,"Insgesamt",Prozent,K03356,100
-2020,"Rotenburg (Wümme)",Frauen,"Insgesamt",Prozent,K03357,100
-2020,"Heidekreis",Frauen,"Insgesamt",Prozent,K03358,100
-2020,"Stade",Frauen,"Insgesamt",Prozent,K03359,100
-2020,"Uelzen",Frauen,"Insgesamt",Prozent,K03360,100
-2020,"Verden",Frauen,"Insgesamt",Prozent,K03361,100
-2020,"Statistische Region Lüneburg",Frauen,"Insgesamt",Prozent,K033,100
-2020,"Delmenhorst, Stadt",Frauen,"Insgesamt",Prozent,K03401,100
-2020,"Emden, Stadt",Frauen,"Insgesamt",Prozent,K03402,100
-2020,"Oldenburg (Oldb), Stadt",Frauen,"Insgesamt",Prozent,K03403,100
-2020,"Osnabrück, Stadt",Frauen,"Insgesamt",Prozent,K03404,100
-2020,"Wilhelmshaven, Stadt",Frauen,"Insgesamt",Prozent,K03405,100
-2020,"Ammerland",Frauen,"Insgesamt",Prozent,K03451,100
-2020,"Aurich",Frauen,"Insgesamt",Prozent,K03452,100
-2020,"Cloppenburg",Frauen,"Insgesamt",Prozent,K03453,100
-2020,"Emsland",Frauen,"Insgesamt",Prozent,K03454,100
-2020,"Friesland",Frauen,"Insgesamt",Prozent,K03455,100
-2020,"Grafschaft Bentheim",Frauen,"Insgesamt",Prozent,K03456,100
-2020,"Leer",Frauen,"Insgesamt",Prozent,K03457,100
-2020,"Oldenburg",Frauen,"Insgesamt",Prozent,K03458,100
-2020,"Osnabrück",Frauen,"Insgesamt",Prozent,K03459,100
-2020,"Vechta",Frauen,"Insgesamt",Prozent,K03460,100
-2020,"Wesermarsch",Frauen,"Insgesamt",Prozent,K03461,100
-2020,"Wittmund",Frauen,"Insgesamt",Prozent,K03462,100
-2020,"Statistische Region Weser-Ems",Frauen,"Insgesamt",Prozent,K034,100
-2020,"Niedersachsen",Frauen,"Insgesamt",Prozent,K030,100
 2019,"Braunschweig, Stadt",Frauen,"Insgesamt",Prozent,K03101,100
 2019,"Salzgitter, Stadt",Frauen,"Insgesamt",Prozent,K03102,100
 2019,"Wolfsburg, Stadt",Frauen,"Insgesamt",Prozent,K03103,100
@@ -19083,58 +17731,6 @@
 2021,"Wittmund",Frauen,"Akademischer Abschluss",Prozent,K03462,10.3286384976526
 2021,"Statistische Region Weser-Ems",Frauen,"Akademischer Abschluss",Prozent,K034,10.5671445409939
 2021,"Niedersachsen",Frauen,"Akademischer Abschluss",Prozent,K030,16.1515128959023
-2020,"Braunschweig, Stadt",Frauen,"Akademischer Abschluss",Prozent,K03101,27.2447183098592
-2020,"Salzgitter, Stadt",Frauen,"Akademischer Abschluss",Prozent,K03102,14.5614035087719
-2020,"Wolfsburg, Stadt",Frauen,"Akademischer Abschluss",Prozent,K03103,28.4555288461538
-2020,"Gifhorn",Frauen,"Akademischer Abschluss",Prozent,K03151,21.2316176470588
-2020,"Goslar",Frauen,"Akademischer Abschluss",Prozent,K03153,20.6167400881057
-2020,"Helmstedt",Frauen,"Akademischer Abschluss",Prozent,K03154,18.6594202898551
-2020,"Northeim",Frauen,"Akademischer Abschluss",Prozent,K03155,15.3061224489796
-2020,"Peine",Frauen,"Akademischer Abschluss",Prozent,K03157,10.813704496788
-2020,"Wolfenbüttel",Frauen,"Akademischer Abschluss",Prozent,K03158,19.6180555555556
-2020,"Göttingen",Frauen,"Akademischer Abschluss",Prozent,K03159,34.5836658685821
-2020,"Statistische Region Braunschweig",Frauen,"Akademischer Abschluss",Prozent,K031,25.4654922510871
-2020,"Region Hannover",Frauen,"Akademischer Abschluss",Prozent,K03241,17.4956829381291
-2020,"dav. Hannover, Lhst.",Frauen,"Akademischer Abschluss",Prozent,K03241001,20.7438747158373
-2020,"dav. Hannover, Umland",Frauen,"Akademischer Abschluss",Prozent,K03241999,10.9902617933477
-2020,"Diepholz",Frauen,"Akademischer Abschluss",Prozent,K03251,11.219512195122
-2020,"Hameln-Pyrmont",Frauen,"Akademischer Abschluss",Prozent,K03252,13.5818066961466
-2020,"Hildesheim",Frauen,"Akademischer Abschluss",Prozent,K03254,21.5555555555556
-2020,"Holzminden",Frauen,"Akademischer Abschluss",Prozent,K03255,18.9300411522634
-2020,"Nienburg (Weser)",Frauen,"Akademischer Abschluss",Prozent,K03256,9.94724943481537
-2020,"Schaumburg",Frauen,"Akademischer Abschluss",Prozent,K03257,11.6402116402116
-2020,"Statistische Region Hannover",Frauen,"Akademischer Abschluss",Prozent,K032,16.6717538611806
-2020,"Celle",Frauen,"Akademischer Abschluss",Prozent,K03351,15.6741957563313
-2020,"Cuxhaven",Frauen,"Akademischer Abschluss",Prozent,K03352,9.56284153005464
-2020,"Harburg",Frauen,"Akademischer Abschluss",Prozent,K03353,11.6157855547282
-2020,"Lüchow-Dannenberg",Frauen,"Akademischer Abschluss",Prozent,K03354,14.9659863945578
-2020,"Lüneburg",Frauen,"Akademischer Abschluss",Prozent,K03355,21.4899713467049
-2020,"Osterholz",Frauen,"Akademischer Abschluss",Prozent,K03356,18.9189189189189
-2020,"Rotenburg (Wümme)",Frauen,"Akademischer Abschluss",Prozent,K03357,13.855421686747
-2020,"Heidekreis",Frauen,"Akademischer Abschluss",Prozent,K03358,11.0209601081812
-2020,"Stade",Frauen,"Akademischer Abschluss",Prozent,K03359,14.2857142857143
-2020,"Uelzen",Frauen,"Akademischer Abschluss",Prozent,K03360,18.5471406491499
-2020,"Verden",Frauen,"Akademischer Abschluss",Prozent,K03361,12.8783382789318
-2020,"Statistische Region Lüneburg",Frauen,"Akademischer Abschluss",Prozent,K033,14.0198178896626
-2020,"Delmenhorst, Stadt",Frauen,"Akademischer Abschluss",Prozent,K03401,12.7131782945736
-2020,"Emden, Stadt",Frauen,"Akademischer Abschluss",Prozent,K03402,17.3361522198731
-2020,"Oldenburg (Oldb), Stadt",Frauen,"Akademischer Abschluss",Prozent,K03403,23.9643652561247
-2020,"Osnabrück, Stadt",Frauen,"Akademischer Abschluss",Prozent,K03404,12.7779197546639
-2020,"Wilhelmshaven, Stadt",Frauen,"Akademischer Abschluss",Prozent,K03405,21.651376146789
-2020,"Ammerland",Frauen,"Akademischer Abschluss",Prozent,K03451,10.2997694081476
-2020,"Aurich",Frauen,"Akademischer Abschluss",Prozent,K03452,10.1593625498008
-2020,"Cloppenburg",Frauen,"Akademischer Abschluss",Prozent,K03453,4.79204339963834
-2020,"Emsland",Frauen,"Akademischer Abschluss",Prozent,K03454,10.6461086637298
-2020,"Friesland",Frauen,"Akademischer Abschluss",Prozent,K03455,18.0811808118081
-2020,"Grafschaft Bentheim",Frauen,"Akademischer Abschluss",Prozent,K03456,10.9080841638981
-2020,"Leer",Frauen,"Akademischer Abschluss",Prozent,K03457,13.4011090573013
-2020,"Oldenburg",Frauen,"Akademischer Abschluss",Prozent,K03458,7.14285714285714
-2020,"Osnabrück",Frauen,"Akademischer Abschluss",Prozent,K03459,6.45590682196339
-2020,"Vechta",Frauen,"Akademischer Abschluss",Prozent,K03460,5.98450440822869
-2020,"Wesermarsch",Frauen,"Akademischer Abschluss",Prozent,K03461,12.4031007751938
-2020,"Wittmund",Frauen,"Akademischer Abschluss",Prozent,K03462,7.93650793650794
-2020,"Statistische Region Weser-Ems",Frauen,"Akademischer Abschluss",Prozent,K034,10.311945371958
-2020,"Niedersachsen",Frauen,"Akademischer Abschluss",Prozent,K030,15.7283144044742
 2020,"Braunschweig, Stadt",Frauen,"Akademischer Abschluss",Prozent,K03101,27.2447183098592
 2020,"Salzgitter, Stadt",Frauen,"Akademischer Abschluss",Prozent,K03102,14.5614035087719
 2020,"Wolfsburg, Stadt",Frauen,"Akademischer Abschluss",Prozent,K03103,28.4555288461538
@@ -19863,58 +18459,6 @@
 2020,"Wittmund",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03462,27.5132275132275
 2020,"Statistische Region Weser-Ems",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K034,26.2611677646422
 2020,"Niedersachsen",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K030,31.7408145308913
-2020,"Braunschweig, Stadt",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03101,29.4894366197183
-2020,"Salzgitter, Stadt",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03102,39.5614035087719
-2020,"Wolfsburg, Stadt",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03103,34.9759615384615
-2020,"Gifhorn",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03151,35.4779411764706
-2020,"Goslar",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03153,33.7444933920705
-2020,"Helmstedt",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03154,37.3188405797101
-2020,"Northeim",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03155,37.18820861678
-2020,"Peine",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03157,36.9379014989293
-2020,"Wolfenbüttel",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03158,34.5486111111111
-2020,"Göttingen",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03159,29.901569566374
-2020,"Statistische Region Braunschweig",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K031,33.0360129334374
-2020,"Region Hannover",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03241,35.4757191593312
-2020,"dav. Hannover, Lhst.",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03241001,34.2763324071735
-2020,"dav. Hannover, Umland",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03241999,37.8778297710889
-2020,"Diepholz",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03251,32.2926829268293
-2020,"Hameln-Pyrmont",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03252,41.3771320277953
-2020,"Hildesheim",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03254,38.6222222222222
-2020,"Holzminden",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03255,32.7160493827161
-2020,"Nienburg (Weser)",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03256,23.1348907309721
-2020,"Schaumburg",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03257,47.1655328798186
-2020,"Statistische Region Hannover",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K032,35.7090531713571
-2020,"Celle",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03351,34.839151266256
-2020,"Cuxhaven",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03352,33.8114754098361
-2020,"Harburg",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03353,33.9910647803425
-2020,"Lüchow-Dannenberg",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03354,30.952380952381
-2020,"Lüneburg",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03355,34.8853868194842
-2020,"Osterholz",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03356,34.8171701112878
-2020,"Rotenburg (Wümme)",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03357,36.6131191432396
-2020,"Heidekreis",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03358,38.0662609871535
-2020,"Stade",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03359,31.2169312169312
-2020,"Uelzen",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03360,39.4126738794436
-2020,"Verden",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03361,24.9258160237389
-2020,"Statistische Region Lüneburg",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K033,33.6770219603642
-2020,"Delmenhorst, Stadt",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03401,34.5736434108527
-2020,"Emden, Stadt",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03402,34.46088794926
-2020,"Oldenburg (Oldb), Stadt",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03403,28.4187082405345
-2020,"Osnabrück, Stadt",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03404,31.024789164324
-2020,"Wilhelmshaven, Stadt",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03405,31.9266055045872
-2020,"Ammerland",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03451,28.1322059953882
-2020,"Aurich",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03452,28.6188579017264
-2020,"Cloppenburg",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03453,17.7215189873418
-2020,"Emsland",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03454,25.8198727361723
-2020,"Friesland",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03455,31.7343173431734
-2020,"Grafschaft Bentheim",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03456,41.0299003322259
-2020,"Leer",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03457,34.4731977818854
-2020,"Oldenburg",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03458,28.4832451499118
-2020,"Osnabrück",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03459,20.9484193011647
-2020,"Vechta",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03460,18.6214266631045
-2020,"Wesermarsch",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03461,40.5038759689922
-2020,"Wittmund",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03462,27.5132275132275
-2020,"Statistische Region Weser-Ems",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K034,26.2611677646422
-2020,"Niedersachsen",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K030,31.7408145308913
 2019,"Braunschweig, Stadt",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03101,29.7340304614685
 2019,"Salzgitter, Stadt",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03102,39.906976744186
 2019,"Wolfsburg, Stadt",Frauen,"mit anerkanntem Berufsabschluss",Prozent,K03103,35.0077519379845
@@ -20591,58 +19135,6 @@
 2020,"Wittmund",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03462,15.0793650793651
 2020,"Statistische Region Weser-Ems",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K034,25.5061215895076
 2020,"Niedersachsen",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K030,24.1760131069287
-2020,"Braunschweig, Stadt",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03101,21.1927816901408
-2020,"Salzgitter, Stadt",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03102,21.7543859649123
-2020,"Wolfsburg, Stadt",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03103,14.8137019230769
-2020,"Gifhorn",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03151,23.8051470588235
-2020,"Goslar",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03153,24.5814977973568
-2020,"Helmstedt",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03154,27.1739130434783
-2020,"Northeim",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03155,25.9637188208617
-2020,"Peine",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03157,27.8372591006424
-2020,"Wolfenbüttel",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03158,24.4791666666667
-2020,"Göttingen",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03159,20.0851290236765
-2020,"Statistische Region Braunschweig",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K031,21.0558590701304
-2020,"Region Hannover",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03241,24.7062292043971
-2020,"dav. Hannover, Lhst.",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03241001,24.1285678201566
-2020,"dav. Hannover, Umland",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03241999,25.8631592260023
-2020,"Diepholz",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03251,27.4146341463415
-2020,"Hameln-Pyrmont",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03252,24.1945672773215
-2020,"Hildesheim",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03254,22.4444444444444
-2020,"Holzminden",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03255,23.2510288065844
-2020,"Nienburg (Weser)",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03256,32.4039186134137
-2020,"Schaumburg",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03257,24.1118669690098
-2020,"Statistische Region Hannover",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K032,24.9618460411452
-2020,"Celle",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03351,28.062970568104
-2020,"Cuxhaven",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03352,28.4153005464481
-2020,"Harburg",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03353,22.4869694713328
-2020,"Lüchow-Dannenberg",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03354,12.9251700680272
-2020,"Lüneburg",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03355,20.2722063037249
-2020,"Osterholz",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03356,22.4165341812401
-2020,"Rotenburg (Wümme)",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03357,23.6947791164659
-2020,"Heidekreis",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03358,21.2305611899932
-2020,"Stade",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03359,23.2804232804233
-2020,"Uelzen",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03360,19.629057187017
-2020,"Verden",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03361,23.026706231454
-2020,"Statistische Region Lüneburg",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K033,23.2391537225495
-2020,"Delmenhorst, Stadt",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03401,28.5271317829457
-2020,"Emden, Stadt",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03402,25.1585623678647
-2020,"Oldenburg (Oldb), Stadt",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03403,24.1870824053452
-2020,"Osnabrück, Stadt",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03404,30.0792231024789
-2020,"Wilhelmshaven, Stadt",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03405,25.8715596330275
-2020,"Ammerland",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03451,23.5972328977709
-2020,"Aurich",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03452,22.8419654714475
-2020,"Cloppenburg",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03453,32.1579264617239
-2020,"Emsland",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03454,23.0298580518845
-2020,"Friesland",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03455,20.479704797048
-2020,"Grafschaft Bentheim",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03456,23.8095238095238
-2020,"Leer",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03457,17.1903881700555
-2020,"Oldenburg",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03458,29.1887125220459
-2020,"Osnabrück",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03459,23.3111480865225
-2020,"Vechta",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03460,27.4646005877638
-2020,"Wesermarsch",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03461,21.7054263565891
-2020,"Wittmund",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03462,15.0793650793651
-2020,"Statistische Region Weser-Ems",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K034,25.5061215895076
-2020,"Niedersachsen",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K030,24.1760131069287
 2019,"Braunschweig, Stadt",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03101,20.845646737895
 2019,"Salzgitter, Stadt",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03102,23.3488372093023
 2019,"Wolfsburg, Stadt",Frauen,"ohne beruflichen Ausbildungsabschluss",Prozent,K03103,14.6976744186047
@@ -21267,58 +19759,6 @@
 2021,"Wittmund",Frauen,"Ausbildung unbekannt",Prozent,K03462,46.9483568075117
 2021,"Statistische Region Weser-Ems",Frauen,"Ausbildung unbekannt",Prozent,K034,36.9973410816589
 2021,"Niedersachsen",Frauen,"Ausbildung unbekannt",Prozent,K030,27.4098403364472
-2020,"Braunschweig, Stadt",Frauen,"Ausbildung unbekannt",Prozent,K03101,22.0730633802817
-2020,"Salzgitter, Stadt",Frauen,"Ausbildung unbekannt",Prozent,K03102,24.1228070175439
-2020,"Wolfsburg, Stadt",Frauen,"Ausbildung unbekannt",Prozent,K03103,21.7548076923077
-2020,"Gifhorn",Frauen,"Ausbildung unbekannt",Prozent,K03151,19.4852941176471
-2020,"Goslar",Frauen,"Ausbildung unbekannt",Prozent,K03153,21.057268722467
-2020,"Helmstedt",Frauen,"Ausbildung unbekannt",Prozent,K03154,16.8478260869565
-2020,"Northeim",Frauen,"Ausbildung unbekannt",Prozent,K03155,21.5419501133787
-2020,"Peine",Frauen,"Ausbildung unbekannt",Prozent,K03157,24.4111349036403
-2020,"Wolfenbüttel",Frauen,"Ausbildung unbekannt",Prozent,K03158,21.3541666666667
-2020,"Göttingen",Frauen,"Ausbildung unbekannt",Prozent,K03159,15.4296355413674
-2020,"Statistische Region Braunschweig",Frauen,"Ausbildung unbekannt",Prozent,K031,20.4426357453451
-2020,"Region Hannover",Frauen,"Ausbildung unbekannt",Prozent,K03241,22.3223686981426
-2020,"dav. Hannover, Lhst.",Frauen,"Ausbildung unbekannt",Prozent,K03241001,20.8512250568325
-2020,"dav. Hannover, Umland",Frauen,"Ausbildung unbekannt",Prozent,K03241999,25.2687492095611
-2020,"Diepholz",Frauen,"Ausbildung unbekannt",Prozent,K03251,29.0731707317073
-2020,"Hameln-Pyrmont",Frauen,"Ausbildung unbekannt",Prozent,K03252,20.8464939987366
-2020,"Hildesheim",Frauen,"Ausbildung unbekannt",Prozent,K03254,17.3777777777778
-2020,"Holzminden",Frauen,"Ausbildung unbekannt",Prozent,K03255,25.1028806584362
-2020,"Nienburg (Weser)",Frauen,"Ausbildung unbekannt",Prozent,K03256,34.5139412207988
-2020,"Schaumburg",Frauen,"Ausbildung unbekannt",Prozent,K03257,17.0823885109599
-2020,"Statistische Region Hannover",Frauen,"Ausbildung unbekannt",Prozent,K032,22.6573469263171
-2020,"Celle",Frauen,"Ausbildung unbekannt",Prozent,K03351,21.4236824093087
-2020,"Cuxhaven",Frauen,"Ausbildung unbekannt",Prozent,K03352,28.2103825136612
-2020,"Harburg",Frauen,"Ausbildung unbekannt",Prozent,K03353,31.9061801935964
-2020,"Lüchow-Dannenberg",Frauen,"Ausbildung unbekannt",Prozent,K03354,41.156462585034
-2020,"Lüneburg",Frauen,"Ausbildung unbekannt",Prozent,K03355,23.352435530086
-2020,"Osterholz",Frauen,"Ausbildung unbekannt",Prozent,K03356,23.8473767885533
-2020,"Rotenburg (Wümme)",Frauen,"Ausbildung unbekannt",Prozent,K03357,25.8366800535475
-2020,"Heidekreis",Frauen,"Ausbildung unbekannt",Prozent,K03358,29.6822177146721
-2020,"Stade",Frauen,"Ausbildung unbekannt",Prozent,K03359,31.2169312169312
-2020,"Uelzen",Frauen,"Ausbildung unbekannt",Prozent,K03360,22.4111282843895
-2020,"Verden",Frauen,"Ausbildung unbekannt",Prozent,K03361,39.1691394658754
-2020,"Statistische Region Lüneburg",Frauen,"Ausbildung unbekannt",Prozent,K033,29.0640064274237
-2020,"Delmenhorst, Stadt",Frauen,"Ausbildung unbekannt",Prozent,K03401,24.1860465116279
-2020,"Emden, Stadt",Frauen,"Ausbildung unbekannt",Prozent,K03402,23.0443974630021
-2020,"Oldenburg (Oldb), Stadt",Frauen,"Ausbildung unbekannt",Prozent,K03403,23.4298440979955
-2020,"Osnabrück, Stadt",Frauen,"Ausbildung unbekannt",Prozent,K03404,26.1180679785331
-2020,"Wilhelmshaven, Stadt",Frauen,"Ausbildung unbekannt",Prozent,K03405,20.5504587155963
-2020,"Ammerland",Frauen,"Ausbildung unbekannt",Prozent,K03451,37.9707916986933
-2020,"Aurich",Frauen,"Ausbildung unbekannt",Prozent,K03452,38.3798140770252
-2020,"Cloppenburg",Frauen,"Ausbildung unbekannt",Prozent,K03453,45.328511151296
-2020,"Emsland",Frauen,"Ausbildung unbekannt",Prozent,K03454,40.5041605482134
-2020,"Friesland",Frauen,"Ausbildung unbekannt",Prozent,K03455,29.7047970479705
-2020,"Grafschaft Bentheim",Frauen,"Ausbildung unbekannt",Prozent,K03456,24.2524916943522
-2020,"Leer",Frauen,"Ausbildung unbekannt",Prozent,K03457,34.9353049907579
-2020,"Oldenburg",Frauen,"Ausbildung unbekannt",Prozent,K03458,35.1851851851852
-2020,"Osnabrück",Frauen,"Ausbildung unbekannt",Prozent,K03459,49.2845257903494
-2020,"Vechta",Frauen,"Ausbildung unbekannt",Prozent,K03460,47.929468340903
-2020,"Wesermarsch",Frauen,"Ausbildung unbekannt",Prozent,K03461,25.3875968992248
-2020,"Wittmund",Frauen,"Ausbildung unbekannt",Prozent,K03462,49.4708994708995
-2020,"Statistische Region Weser-Ems",Frauen,"Ausbildung unbekannt",Prozent,K034,37.9207652738923
-2020,"Niedersachsen",Frauen,"Ausbildung unbekannt",Prozent,K030,28.3548579577059
 2020,"Braunschweig, Stadt",Frauen,"Ausbildung unbekannt",Prozent,K03101,22.0730633802817
 2020,"Salzgitter, Stadt",Frauen,"Ausbildung unbekannt",Prozent,K03102,24.1228070175439
 2020,"Wolfsburg, Stadt",Frauen,"Ausbildung unbekannt",Prozent,K03103,21.7548076923077
