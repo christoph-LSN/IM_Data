@@ -5053,7 +5053,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                " Insgesamt",
+                "Insgesamt",
                 "männlich",
                 "weiblich",
                 ""
