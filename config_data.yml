@@ -1,4 +1,4 @@
-### This config file is for use with the `build_data` and `check_data` functions,
+## This config file is for use with the `build_data` and `check_data` functions,
 # which are helpers for implementations of Open SDG. This file allows easy use
 # of those functions without altering Python code.
 
@@ -98,7 +98,7 @@ reporting_status_extra_fields: []
 # below and adjust if you would like to use the Open SDG mapping functionality.
 # Note that the GeoJSON files can either be remote (as in the example below) or
 # local, relative to the src_dir specified above.
-#map_layers:
+##map_layers:
 #  - geojson_file: https://geoportal1-ons.opendata.arcgis.com/datasets/4fcca2a47fed4bfaa1793015a18537ac_4.geojson
 #    name_property: rgn17nm
 #    id_property: rgn17cd
@@ -137,6 +137,12 @@ map_layers:
     name_property: GENRH
     id_property: AGSRH
     output_subfolder: NI_Hannover_Region
+    filename_prefix: indicator_
+    exclude_columns: ['Gebietseinheit']
+  - geojson_file: world2.geojson #maps\NI_Kurz_Mikrozensus_Diss.geojson
+    name_property: GENW
+    id_property: AGSWI
+    output_subfolder: World
     filename_prefix: indicator_
     exclude_columns: ['Gebietseinheit']
 
