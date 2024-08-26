@@ -27,13 +27,24 @@
             }
           },
           {
+            "name": "Altersgruppe",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "18 - 25",
+                "25 - 65",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Bildungsstand",
             "type": "string",
             "constraints": {
               "enum": [
                 "Insgesamt",
                 "Frühe Schulabgänger/innen",
-                "Personen mit geringem Bildungsstand",
+                "Personen mit geringem Bildudngsstand",
                 ""
               ]
             }
@@ -43,7 +54,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Insgesamt",
+                "Ingesamt",
                 "männlich",
                 "weiblich",
                 ""

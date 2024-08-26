@@ -1,1 +1,1 @@
-{"From":["Migrationsstatus","Bildungsstand"],"To":["Bildungsstand","Geschlecht"]}
+{"From":["Migrationsstatus","Altersgruppe","Bildungsstand"],"To":["Altersgruppe","Bildungsstand","Geschlecht"]}
