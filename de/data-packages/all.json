@@ -5355,7 +5355,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ingesamt",
+                " Insgesamt",
                 "männlich",
                 "weiblich",
                 ""
