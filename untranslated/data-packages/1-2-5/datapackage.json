@@ -56,11 +56,11 @@
             }
           },
           {
-            "name": "Kategorie",
+            "name": "Geschlecht",
             "type": "string",
             "constraints": {
               "enum": [
-                "Ausländerinnen und Ausländer",
+                "Insgesamt",
                 "Männer",
                 "Frauen",
                 ""
@@ -73,7 +73,7 @@
             "constraints": {
               "enum": [
                 "Anzahl",
-                "Veränderung der Anzahl der Ausländerinnen und Ausländer gegenüber 2005 in Prozent",
+                "Veränderung der Anzahl der Insgesamt gegenüber 2005 in Prozent",
                 ""
               ]
             }

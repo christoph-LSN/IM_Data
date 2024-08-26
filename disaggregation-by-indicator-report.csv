@@ -6,7 +6,7 @@ Indicator,Disaggregations,Number of disaggregations
 #1-2-2,Gebietseinheit,1
 #1-2-3,"Geschlecht, Gebietseinheit, Aufenthaltsdauer in Jahren",3
 #1-2-4,"Gebietseinheit, Land der Staatsangehörigkeit",2
-#1-2-5,"Land der Staatsangehörigkeit, Kategorie",2
+#1-2-5,"Geschlecht, Land der Staatsangehörigkeit",2
 #1-2-5_tests,"Geschlecht, Gebiet",2
 #1-2-5funktioniert,"Geschlecht, Land der Staatsangehörigkeit",2
 #1-2-6,"Gebietseinheit, Altersgruppe",2
