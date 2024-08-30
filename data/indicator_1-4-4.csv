@@ -1,28 +1,52 @@
 ﻿Year,Kategorie,Altersgruppe,Units,Value
+2023,Zuzüge,Insgesamt,Anzahl,180030
+2023,Fortzüge,Insgesamt,Anzahl,117610
+2023,Saldo,Insgesamt,Anzahl,62420
+2023,Zuzüge,0 - 5,Anzahl,7953
+2023,Fortzüge,0 - 5,Anzahl,4829
+2023,Saldo,0 - 5,Anzahl,3124
+2023,Zuzüge,5 - 15,Anzahl,16534
+2023,Fortzüge,5 - 15,Anzahl,9692
+2023,Saldo,5 - 15,Anzahl,6842
+2023,Zuzüge,15 - 20,Anzahl,14404
+2023,Fortzüge,15 - 20,Anzahl,6736
+2023,Saldo,15 - 20,Anzahl,7668
+2023,Zuzüge,20 - 40,Anzahl,94889
+2023,Fortzüge,20 - 40,Anzahl,58954
+2023,Saldo,20 - 40,Anzahl,35935
+2023,Zuzüge,40 - 65,Anzahl,42165
+2023,Fortzüge,40 - 65,Anzahl,33440
+2023,Saldo,40 - 65,Anzahl,8725
+2023,Zuzüge,65 - 80,Anzahl,3543
+2023,Fortzüge,65 - 80,Anzahl,3341
+2023,Saldo,65 - 80,Anzahl,202
+2023,Zuzüge,80 u.ä.,Anzahl,542
+2023,Fortzüge,80 u.ä.,Anzahl,618
+2023,Saldo,80 u.ä.,Anzahl,-76
 2022,Zuzüge,Insgesamt,Anzahl,260751
 2022,Fortzüge,Insgesamt,Anzahl,111943
 2022,Saldo,Insgesamt,Anzahl,+148808
-2022,Zuzüge,0 - 5,Anzahl,14394
-2022,Fortzüge,0 - 5,Anzahl,5021
-2022,Saldo,0 - 5,Anzahl,+9373
-2022,Zuzüge,5 - 15,Anzahl,38635
-2022,Fortzüge,5 - 15,Anzahl,9952
-2022,Saldo,5 - 15,Anzahl,+28683
-2022,Zuzüge,15 - 20,Anzahl,21033
-2022,Fortzüge,15 - 20,Anzahl,6042
-2022,Saldo,15 - 20,Anzahl,+14991
-2022,Zuzüge,20 - 40,Anzahl,112598
-2022,Fortzüge,20 - 40,Anzahl,56040
-2022,Saldo,20 - 40,Anzahl,+56558
-2022,Zuzüge,40 - 65,Anzahl,63660
-2022,Fortzüge,40 - 65,Anzahl,31075
-2022,Saldo,40 - 65,Anzahl,+32585
-2022,Zuzüge,65 - 80,Anzahl,9088
-2022,Fortzüge,65 - 80,Anzahl,3163
-2022,Saldo,65 - 80,Anzahl,+5925
-2022,Zuzüge,80 u.ä.,Anzahl,1343
-2022,Fortzüge,80 u.ä.,Anzahl,650
-2022,Saldo,80 u.ä.,Anzahl,+693
+2022,Zuzüge,0 - 5,Anzahl,14436
+2022,Fortzüge,0 - 5,Anzahl,5087
+2022,Saldo,0 - 5,Anzahl,+9349
+2022,Zuzüge,5 - 15,Anzahl,38607
+2022,Fortzüge,5 - 15,Anzahl,9912
+2022,Saldo,5 - 15,Anzahl,+28695
+2022,Zuzüge,15 - 20,Anzahl,21091
+2022,Fortzüge,15 - 20,Anzahl,6199
+2022,Saldo,15 - 20,Anzahl,+14892
+2022,Zuzüge,20 - 40,Anzahl,112581
+2022,Fortzüge,20 - 40,Anzahl,56017
+2022,Saldo,20 - 40,Anzahl,+56564
+2022,Zuzüge,40 - 65,Anzahl,63615
+2022,Fortzüge,40 - 65,Anzahl,30942
+2022,Saldo,40 - 65,Anzahl,+32673
+2022,Zuzüge,65 - 80,Anzahl,9081
+2022,Fortzüge,65 - 80,Anzahl,3144
+2022,Saldo,65 - 80,Anzahl,+5937
+2022,Zuzüge,80 u.ä.,Anzahl,1340
+2022,Fortzüge,80 u.ä.,Anzahl,642
+2022,Saldo,80 u.ä.,Anzahl,+698
 2021,Zuzüge,Insgesamt,Anzahl,128077
 2021,Fortzüge,Insgesamt,Anzahl,86187
 2021,Saldo,Insgesamt,Anzahl,+41890
