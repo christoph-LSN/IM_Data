@@ -23,13 +23,14 @@
                 "Geisteswissenschaften",
                 "Sport",
                 "Rechts-, Wirtschafts-, Sozialwissenschaften",
-                "Mathematik, Naturwissenschaften",
+                "Mathematik, Natruwissenschaften",
                 "Humanmedizin, Gesundheitswissenschaften",
                 "Agrar-, Forst-, Ernährungswissenschaften, Veterinärmedizin",
                 "Ingenieurwissenschaften",
                 "Kunst, Kunstwissenschaften",
                 "Außerhalb der Studienbereichsgliederung",
                 "Fächerguppen zusammen",
+                "Mathematik, Naturwissenschaften",
                 ""
               ]
             },
@@ -75,7 +76,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]
