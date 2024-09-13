@@ -1,0 +1,83 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1254",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Migrationsstatus",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "Kein Haushaltsmitglied hat einen Migrationshintergrund",
+                "Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund",
+                "Alle Haushaltsmitglieder haben einen Migrationshintergrund",
+                ""
+              ]
+            },
+            "title": "Migrationsstatus"
+          },
+          {
+            "name": "Hauhaltsnettoeinkommen",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "unter 500",
+                "500 - 1000",
+                "1000 - 1250",
+                "1250 - 1500",
+                "1500 - 2000",
+                "2000 - 2500",
+                "2500 - 3000",
+                "3000 - 3500",
+                "3500 - 4000",
+                "4000 - 5000",
+                "5000 und mehr",
+                ""
+              ]
+            },
+            "title": "Hauhaltsnettoeinkommen"
+          },
+          {
+            "name": "Haushaltsgröße",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "insgesamt",
+                "Einpersonenhaushalte",
+                "Mehrpersonenhaushalte (zusammen)",
+                "davon mit 2 Personen",
+                "davon mit 3 Personen",
+                "davon mit 4 Personen",
+                "davon mit 5 und mehr Personen",
+                ""
+              ]
+            },
+            "title": "Haushaltsgröße"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-3-2",
+  "title": "Bevölkerung am Ort der Hauptwohnung nach Zuwanderungsgeschichte und überwiegendem Lebensunterhalt in Niedersachsen"
+}

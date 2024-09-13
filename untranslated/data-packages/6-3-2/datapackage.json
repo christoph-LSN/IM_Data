@@ -1,0 +1,78 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "cp1254",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Migrationsstatus",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "Kein Haushaltsmitglied hat einen Migrationshintergrund",
+                "Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund",
+                "Alle Haushaltsmitglieder haben einen Migrationshintergrund",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Hauhaltsnettoeinkommen",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "unter 500",
+                "500 - 1000",
+                "1000 - 1250",
+                "1250 - 1500",
+                "1500 - 2000",
+                "2000 - 2500",
+                "2500 - 3000",
+                "3000 - 3500",
+                "3500 - 4000",
+                "4000 - 5000",
+                "5000 und mehr",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Haushaltsgröße",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "insgesamt",
+                "Einpersonenhaushalte",
+                "Mehrpersonenhaushalte (zusammen)",
+                "davon mit 2 Personen",
+                "davon mit 3 Personen",
+                "davon mit 4 Personen",
+                "davon mit 5 und mehr Personen",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-3-2",
+  "title": "global_indicators.6-3-1-title"
+}
