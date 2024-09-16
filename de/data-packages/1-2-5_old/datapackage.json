@@ -1,0 +1,97 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Land der Staatsangehörigkeit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bulgarien",
+                "Griechenland",
+                "Italien",
+                "Serbien (ohne Kosovo) ab 2008",
+                "Kroatien",
+                "Kosovo",
+                "Niederlande",
+                "Polen",
+                "Rumänien",
+                "Russische Föderation",
+                "Spanien",
+                "Türkei",
+                "Ukraine",
+                "übrige europäische Staaten",
+                "Europa insgesamt",
+                "übrige afrikanische Staaten",
+                "Afrika insgesamt",
+                "übrige amerikanische Staaten",
+                "Amerika insgesamt",
+                "Afghanistan",
+                "China",
+                "Indien",
+                "Irak",
+                "Iran, Islamische Republik",
+                "Syrien, Arabische Republik",
+                "Vietnam",
+                "übrige asiatische Staaten",
+                "Asien insgesamt",
+                "Australien und Ozeanien",
+                "staatenlos",
+                "ungeklärt,oh.Angabe,unbekannt",
+                "Ausländer insgesamt",
+                ""
+              ]
+            },
+            "title": "Land der Staatsangehörigkeit"
+          },
+          {
+            "name": "Geschlecht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "Männer",
+                "Frauen",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Anzahl",
+                "Veränderung der Anzahl der Insgesamt gegenüber 2005 in Prozent",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "1-2-5_old",
+  "title": "1-2-5_old"
+}
