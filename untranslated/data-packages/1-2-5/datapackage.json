@@ -15,6 +15,17 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Alle Länder",
+                "Top 8 Asylherkunftsländer",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Land der Staatsangehörigkeit",
             "type": "string",
             "constraints": {
