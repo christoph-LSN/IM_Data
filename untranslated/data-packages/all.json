@@ -3908,6 +3908,16 @@
             }
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Anzahl",
+                ""
+              ]
+            }
+          },
+          {
             "name": "GeoCode",
             "type": "string"
           },

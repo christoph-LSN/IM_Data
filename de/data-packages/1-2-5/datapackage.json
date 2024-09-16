@@ -261,6 +261,17 @@
             "title": "Geschlecht"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Anzahl",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
