@@ -3665,7 +3665,7 @@
             "type": "integer"
           },
           {
-            "name": "Land",
+            "name": "Land der Staatsangehörigkeit",
             "type": "string",
             "constraints": {
               "enum": [
