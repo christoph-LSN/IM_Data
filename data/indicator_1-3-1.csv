@@ -1,56 +1,108 @@
 ﻿Year,Gebietseinheit,Kategorie,Units,GeoCode,Value
+2023,"Braunschweig, Stadt",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03101,177.8
+2023,"Salzgitter, Stadt",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03102,58.9
+2023,"Wolfsburg, Stadt",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03103,80.8
+2023,"Gifhorn",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03151,129.4
+2023,"Goslar",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03153,105.2
+2023,"Helmstedt",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03154,75.6
+2023,"Northeim",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03155,108.7
+2023,"Peine",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03157,103.5
+2023,"Wolfenbüttel",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03158,93
+2023,"Göttingen",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03159,245.9
+2023,"Statistische Region Braunschweig",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ031,1178.8
+2023,"Region Hannover",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03241,760.3
+2023,"dav. Hannover, Lhst.",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03241001,312.4
+2023,"dav. Hannover, Umland",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03241999,447.9
+2023,"Diepholz",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03251,165.8
+2023,"Hameln-Pyrmont",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03252,103.4
+2023,"Hildesheim",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03254,210.6
+2023,"Holzminden",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03255,54
+2023,"Nienburg (Weser)",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03256,92.9
+2023,"Schaumburg",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03257,119.9
+2023,"Statistische Region Hannover",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ032,1507
+2023,"Celle",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03351,140.4
+2023,"Cuxhaven",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03352,163.5
+2023,"Harburg",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03353,205.5
+2023,"Uelzen Lüchow-Dannenberg",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03354360,112.9
+2023,"Lüneburg",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03355,149.7
+2023,"Osterholz",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03356,97
+2023,"Rotenburg (Wümme)",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03357,135.2
+2023,"Heidekreis",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03358,107.9
+2023,"Stade",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03359,158.1
+2023,"Uelzen Lüchow-Dannenberg",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03354360,112.9
+2023,"Verden",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03361,105
+2023,"Statistische Region Lüneburg",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ033,1375.2
+2023,"Delmenhorst, Stadt",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03401,45.8
+2023,"Emden, Stadt / Leer",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03402457,178.1
+2023,"Oldenburg (Oldb), Stadt",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03403,129.5
+2023,"Osnabrück, Stadt",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03404,103.9
+2023,"Wilhelmshaven, Stadt",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03405,53.8
+2023,"Ammerland",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03451,103.5
+2023,"Aurich",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03452,168.8
+2023,"Cloppenburg",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03453,123.4
+2023,"Emsland",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03454,257.5
+2023,"Friesland / Wittmund",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03455462,135.3
+2023,"Grafschaft Bentheim",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03456,99.9
+2023,"Emden, Stadt / Leer",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03402457,178.1
+2023,"Oldenburg",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03458,99.1
+2023,"Osnabrück",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03459,271.3
+2023,"Vechta",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03460,103.7
+2023,"Wesermarsch",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03461,69.6
+2023,"Friesland / Wittmund",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03455462,135.3
+2023,"Statistische Region Weser-Ems",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ034,1943.2
+2023,"Niedersachsen",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ030,6004.2
 2022,"Braunschweig, Stadt",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03101,174.7
-2022,"Salzgitter, Stadt",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03102,57.6
-2022,"Wolfsburg, Stadt",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03103,77.1
-2022,"Gifhorn",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03151,129.2
-2022,"Goslar",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03153,107.1
-2022,"Helmstedt",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03154,74.8
-2022,"Northeim",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03155,110
-2022,"Peine",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03157,92.7
-2022,"Wolfenbüttel",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03158,94.8
-2022,"Göttingen",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03159,253.3
-2022,"Statistische Region Braunschweig",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ031,1171.4
-2022,"Region Hannover",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03241,761.7
-2022,"dav. Hannover, Lhst.",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03241001,317.3
-2022,"dav. Hannover, Umland",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03241999,444.4
-2022,"Diepholz",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03251,166
-2022,"Hameln-Pyrmont",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03252,105.3
-2022,"Hildesheim",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03254,207.4
-2022,"Holzminden",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03255,56.5
-2022,"Nienburg (Weser)",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03256,88.6
-2022,"Schaumburg",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03257,118.7
-2022,"Statistische Region Hannover",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ032,1504.2
-2022,"Celle",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03351,139.7
-2022,"Cuxhaven",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03352,159.2
-2022,"Harburg",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03353,194.6
-2022,"Uelzen Lüchow-Dannenberg",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03354360,110.2
-2022,"Lüneburg",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03355,152.1
-2022,"Osterholz",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03356,97.5
-2022,"Rotenburg (Wümme)",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03357,137.6
-2022,"Heidekreis",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03358,114.2
-2022,"Stade",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03359,167
-2022,"Uelzen Lüchow-Dannenberg",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03354360,110.2
-2022,"Verden",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03361,106.2
-2022,"Statistische Region Lüneburg",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ033,1378.5
-2022,"Delmenhorst, Stadt",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03401,45.2
-2022,"Emden, Stadt / Leer",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03402457,180.7
-2022,"Oldenburg (Oldb), Stadt",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03403,131.4
-2022,"Osnabrück, Stadt",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03404,101.8
-2022,"Wilhelmshaven, Stadt",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03405,54.4
-2022,"Ammerland",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03451,105.9
-2022,"Aurich",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03452,168.5
-2022,"Cloppenburg",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03453,128.5
-2022,"Emsland",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03454,255.7
-2022,"Friesland / Wittmund",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03455462,137.8
-2022,"Grafschaft Bentheim",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03456,91.5
-2022,"Emden, Stadt / Leer",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03402457,180.7
-2022,"Oldenburg",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03458,108.5
-2022,"Osnabrück",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03459,266.9
-2022,"Vechta",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03460,98.9
-2022,"Wesermarsch",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03461,68.6
-2022,"Friesland / Wittmund",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03455462,137.8
-2022,"Statistische Region Weser-Ems",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ034,1944.2
-2022,"Niedersachsen",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ030,5998.3
+2022,"Salzgitter, Stadt",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03102,57.8
+2022,"Wolfsburg, Stadt",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03103,76.6
+2022,"Gifhorn",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03151,128.7
+2022,"Goslar",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03153,106.7
+2022,"Helmstedt",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03154,74.9
+2022,"Northeim",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03155,110.4
+2022,"Peine",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03157,92.8
+2022,"Wolfenbüttel",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03158,94.9
+2022,"Göttingen",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03159,252.2
+2022,"Statistische Region Braunschweig",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ031,1169.8
+2022,"Region Hannover",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03241,762.1
+2022,"dav. Hannover, Lhst.",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03241001,316.3
+2022,"dav. Hannover, Umland",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03241999,445.8
+2022,"Diepholz",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03251,166.8
+2022,"Hameln-Pyrmont",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03252,106.3
+2022,"Hildesheim",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03254,207.1
+2022,"Holzminden",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03255,56.2
+2022,"Nienburg (Weser)",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03256,87.4
+2022,"Schaumburg",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03257,118
+2022,"Statistische Region Hannover",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ032,1503.9
+2022,"Celle",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03351,139.4
+2022,"Cuxhaven",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03352,161.3
+2022,"Harburg",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03353,195.2
+2022,"Uelzen Lüchow-Dannenberg",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03354360,111.4
+2022,"Lüneburg",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03355,151.7
+2022,"Osterholz",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03356,97.4
+2022,"Rotenburg (Wümme)",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03357,135.8
+2022,"Heidekreis",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03358,114.1
+2022,"Stade",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03359,166.3
+2022,"Uelzen Lüchow-Dannenberg",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03354360,111.4
+2022,"Verden",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03361,105.4
+2022,"Statistische Region Lüneburg",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ033,1378.1
+2022,"Delmenhorst, Stadt",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03401,45.4
+2022,"Emden, Stadt / Leer",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03402457,181.5
+2022,"Oldenburg (Oldb), Stadt",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03403,132.4
+2022,"Osnabrück, Stadt",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03404,100.3
+2022,"Wilhelmshaven, Stadt",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03405,54.3
+2022,"Ammerland",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03451,105.6
+2022,"Aurich",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03452,169
+2022,"Cloppenburg",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03453,128.9
+2022,"Emsland",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03454,257.5
+2022,"Friesland / Wittmund",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03455462,137.5
+2022,"Grafschaft Bentheim",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03456,91.9
+2022,"Emden, Stadt / Leer",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03402457,181.5
+2022,"Oldenburg",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03458,108.4
+2022,"Osnabrück",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03459,269.8
+2022,"Vechta",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03460,97
+2022,"Wesermarsch",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03461,68.1
+2022,"Friesland / Wittmund",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03455462,137.5
+2022,"Statistische Region Weser-Ems",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ034,1947.5
+2022,"Niedersachsen",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ030,5999.4
 2021,"Braunschweig, Stadt",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03101,174.8
 2021,"Salzgitter, Stadt",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03102,63
 2021,"Wolfsburg, Stadt",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03103,74.9
@@ -572,58 +624,110 @@
 2011,"Friesland / Wittmund",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ03455462,146.12044
 2011,"Statistische Region Weser-Ems",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ034,2017.76782
 2011,"Niedersachsen",Personen ohne Migrationshintergrund,"Anzahl in 1000",MZ030,6510.69657
-2022,"Braunschweig, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03101,72.8
+2023,"Braunschweig, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03101,72.9
+2023,"Salzgitter, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03102,44.5
+2023,"Wolfsburg, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03103,44.1
+2023,"Gifhorn",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03151,51.7
+2023,"Goslar",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03153,28.9
+2023,"Helmstedt",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03154,17.3
+2023,"Northeim",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03155,22.8
+2023,"Peine",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03157,33.5
+2023,"Wolfenbüttel",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03158,25.6
+2023,"Göttingen",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03159,73.2
+2023,"Statistische Region Braunschweig",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ031,414.3
+2023,"Region Hannover",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03241,405.6
+2023,"dav. Hannover, Lhst.",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03241001,231.7
+2023,"dav. Hannover, Umland",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03241999,173.9
+2023,"Diepholz",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03251,55.4
+2023,"Hameln-Pyrmont",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03252,44.3
+2023,"Hildesheim",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03254,63.1
+2023,"Holzminden",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03255,17.4
+2023,"Nienburg (Weser)",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03256,31.6
+2023,"Schaumburg",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03257,38.1
+2023,"Statistische Region Hannover",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ032,655.5
+2023,"Celle",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03351,38.9
+2023,"Cuxhaven",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03352,37.8
+2023,"Harburg",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03353,56.8
+2023,"Uelzen Lüchow-Dannenberg",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03354360,28.6
+2023,"Lüneburg",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03355,37.3
+2023,"Osterholz",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03356,19.5
+2023,"Rotenburg (Wümme)",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03357,30.1
+2023,"Heidekreis",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03358,34.9
+2023,"Stade",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03359,53.2
+2023,"Uelzen Lüchow-Dannenberg",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03354360,28.6
+2023,"Verden",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03361,35.5
+2023,"Statistische Region Lüneburg",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ033,372.6
+2023,"Delmenhorst, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03401,32.3
+2023,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03402457,44.3
+2023,"Oldenburg (Oldb), Stadt",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03403,43.6
+2023,"Osnabrück, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03404,62.9
+2023,"Wilhelmshaven, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03405,21.5
+2023,"Ammerland",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03451,24.2
+2023,"Aurich",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03452,23.9
+2023,"Cloppenburg",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03453,54.2
+2023,"Emsland",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03454,73.9
+2023,"Friesland / Wittmund",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03455462,21.8
+2023,"Grafschaft Bentheim",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03456,42.2
+2023,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03402457,44.3
+2023,"Oldenburg",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03458,34.8
+2023,"Osnabrück",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03459,90.5
+2023,"Vechta",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03460,44.8
+2023,"Wesermarsch",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03461,16.6
+2023,"Friesland / Wittmund",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03455462,21.8
+2023,"Statistische Region Weser-Ems",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ034,631.5
+2023,"Niedersachsen",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ030,2074
+2022,"Braunschweig, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03101,73.3
 2022,"Salzgitter, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03102,45
-2022,"Wolfsburg, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03103,44.5
-2022,"Gifhorn",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03151,51.6
-2022,"Goslar",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03153,26.5
-2022,"Helmstedt",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03154,16.2
-2022,"Northeim",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03155,23
+2022,"Wolfsburg, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03103,45.2
+2022,"Gifhorn",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03151,52.1
+2022,"Goslar",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03153,27
+2022,"Helmstedt",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03154,16.3
+2022,"Northeim",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03155,22.6
 2022,"Peine",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03157,44.9
-2022,"Wolfenbüttel",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03158,18.6
-2022,"Göttingen",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03159,63.5
-2022,"Statistische Region Braunschweig",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ031,406.7
-2022,"Region Hannover",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03241,393.2
-2022,"dav. Hannover, Lhst.",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03241001,217.9
-2022,"dav. Hannover, Umland",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03241999,175.4
-2022,"Diepholz",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03251,53.5
-2022,"Hameln-Pyrmont",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03252,41.6
-2022,"Hildesheim",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03254,61.6
-2022,"Holzminden",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03255,14.9
-2022,"Nienburg (Weser)",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03256,33.9
-2022,"Schaumburg",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03257,36.4
-2022,"Statistische Region Hannover",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ032,635.2
-2022,"Celle",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03351,40.1
-2022,"Cuxhaven",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03352,40.1
-2022,"Harburg",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03353,66.3
-2022,"Uelzen Lüchow-Dannenberg",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03354360,27.7
-2022,"Lüneburg",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03355,33.5
-2022,"Osterholz",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03356,18.7
-2022,"Rotenburg (Wümme)",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03357,26.5
-2022,"Heidekreis",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03358,30.8
-2022,"Stade",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03359,41.4
-2022,"Uelzen Lüchow-Dannenberg",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03354360,27.7
-2022,"Verden",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03361,32.2
-2022,"Statistische Region Lüneburg",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ033,357.4
-2022,"Delmenhorst, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03401,32.2
-2022,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03402457,40.2
-2022,"Oldenburg (Oldb), Stadt",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03403,40.1
-2022,"Osnabrück, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03404,63.8
-2022,"Wilhelmshaven, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03405,20.9
+2022,"Wolfenbüttel",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03158,19
+2022,"Göttingen",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03159,64.3
+2022,"Statistische Region Braunschweig",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ031,409.7
+2022,"Region Hannover",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03241,392.6
+2022,"dav. Hannover, Lhst.",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03241001,218.7
+2022,"dav. Hannover, Umland",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03241999,173.9
+2022,"Diepholz",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03251,52.7
+2022,"Hameln-Pyrmont",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03252,40.6
+2022,"Hildesheim",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03254,61.7
+2022,"Holzminden",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03255,15.3
+2022,"Nienburg (Weser)",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03256,35.2
+2022,"Schaumburg",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03257,37.2
+2022,"Statistische Region Hannover",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ032,635.3
+2022,"Celle",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03351,40.5
+2022,"Cuxhaven",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03352,38
+2022,"Harburg",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03353,65.7
+2022,"Uelzen Lüchow-Dannenberg",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03354360,26.6
+2022,"Lüneburg",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03355,33.9
+2022,"Osterholz",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03356,18.8
+2022,"Rotenburg (Wümme)",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03357,28.3
+2022,"Heidekreis",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03358,30.9
+2022,"Stade",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03359,42
+2022,"Uelzen Lüchow-Dannenberg",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03354360,26.6
+2022,"Verden",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03361,33
+2022,"Statistische Region Lüneburg",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ033,357.8
+2022,"Delmenhorst, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03401,32
+2022,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03402457,39.5
+2022,"Oldenburg (Oldb), Stadt",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03403,39
+2022,"Osnabrück, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03404,65.3
+2022,"Wilhelmshaven, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03405,21
 2022,"Ammerland",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03451,18.9
-2022,"Aurich",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03452,23.7
-2022,"Cloppenburg",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03453,48.6
-2022,"Emsland",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03454,77.8
-2022,"Friesland / Wittmund",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03455462,17.2
-2022,"Grafschaft Bentheim",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03456,46.6
-2022,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03402457,40.2
-2022,"Oldenburg",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03458,24.4
-2022,"Osnabrück",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03459,96.5
-2022,"Vechta",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03460,43.3
-2022,"Wesermarsch",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03461,17.9
-2022,"Friesland / Wittmund",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03455462,17.2
-2022,"Statistische Region Weser-Ems",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ034,612
-2022,"Niedersachsen",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ030,2011.3
+2022,"Aurich",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03452,23.1
+2022,"Cloppenburg",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03453,48.4
+2022,"Emsland",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03454,75.9
+2022,"Friesland / Wittmund",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03455462,17.5
+2022,"Grafschaft Bentheim",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03456,46.2
+2022,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03402457,39.5
+2022,"Oldenburg",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03458,24.5
+2022,"Osnabrück",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03459,94.3
+2022,"Vechta",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03460,44.8
+2022,"Wesermarsch",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03461,18.5
+2022,"Friesland / Wittmund",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03455462,17.5
+2022,"Statistische Region Weser-Ems",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ034,608.8
+2022,"Niedersachsen",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ030,2011.6
 2021,"Braunschweig, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03101,71.6
 2021,"Salzgitter, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03102,38.8
 2021,"Wolfsburg, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03103,45.3
@@ -1145,58 +1249,110 @@
 2011,"Friesland / Wittmund",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ03455462,
 2011,"Statistische Region Weser-Ems",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ034,
 2011,"Niedersachsen",Personen mit Migrationshintergrund im weiteren Sinne,"Anzahl in 1000",MZ030,
-2022,"Braunschweig, Stadt",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03101,68
+2023,"Braunschweig, Stadt",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03101,66.4
+2023,"Salzgitter, Stadt",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03102,42.5
+2023,"Wolfsburg, Stadt",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03103,41.2
+2023,"Gifhorn",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03151,47.8
+2023,"Goslar",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03153,26.4
+2023,"Helmstedt",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03154,15.8
+2023,"Northeim",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03155,21.1
+2023,"Peine",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03157,31.6
+2023,"Wolfenbüttel",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03158,24
+2023,"Göttingen",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03159,65.3
+2023,"Statistische Region Braunschweig",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ031,382
+2023,"Region Hannover",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03241,376.8
+2023,"dav. Hannover, Lhst.",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03241001,217.1
+2023,"dav. Hannover, Umland",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03241999,159.7
+2023,"Diepholz",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03251,51.4
+2023,"Hameln-Pyrmont",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03252,41.6
+2023,"Hildesheim",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03254,57.2
+2023,"Holzminden",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03255,16.7
+2023,"Nienburg (Weser)",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03256,29.3
+2023,"Schaumburg",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03257,35.4
+2023,"Statistische Region Hannover",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ032,608.4
+2023,"Celle",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03351,35.3
+2023,"Cuxhaven",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03352,34.6
+2023,"Harburg",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03353,53.2
+2023,"Uelzen Lüchow-Dannenberg",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03354360,25.2
+2023,"Lüneburg",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03355,33.3
+2023,"Osterholz",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03356,16.2
+2023,"Rotenburg (Wümme)",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03357,26.8
+2023,"Heidekreis",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03358,32.9
+2023,"Stade",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03359,50.3
+2023,"Uelzen Lüchow-Dannenberg",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03354360,25.2
+2023,"Verden",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03361,33.6
+2023,"Statistische Region Lüneburg",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ033,341.3
+2023,"Delmenhorst, Stadt",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03401,29.5
+2023,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03402457,41.5
+2023,"Oldenburg (Oldb), Stadt",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03403,39.8
+2023,"Osnabrück, Stadt",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03404,59.3
+2023,"Wilhelmshaven, Stadt",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03405,19.6
+2023,"Ammerland",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03451,22.9
+2023,"Aurich",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03452,21.6
+2023,"Cloppenburg",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03453,53.1
+2023,"Emsland",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03454,70.6
+2023,"Friesland / Wittmund",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03455462,19.8
+2023,"Grafschaft Bentheim",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03456,40.3
+2023,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03402457,41.5
+2023,"Oldenburg",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03458,32.9
+2023,"Osnabrück",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03459,84.5
+2023,"Vechta",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03460,44.1
+2023,"Wesermarsch",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03461,14.9
+2023,"Friesland / Wittmund",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03455462,19.8
+2023,"Statistische Region Weser-Ems",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ034,594.3
+2023,"Niedersachsen",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ030,1926
+2022,"Braunschweig, Stadt",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03101,68.3
 2022,"Salzgitter, Stadt",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03102,43.2
-2022,"Wolfsburg, Stadt",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03103,42.2
-2022,"Gifhorn",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03151,47.1
-2022,"Goslar",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03153,24.2
+2022,"Wolfsburg, Stadt",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03103,42.9
+2022,"Gifhorn",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03151,47.5
+2022,"Goslar",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03153,24.8
 2022,"Helmstedt",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03154,14.9
-2022,"Northeim",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03155,20.4
-2022,"Peine",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03157,42.8
-2022,"Wolfenbüttel",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03158,16.8
-2022,"Göttingen",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03159,57.5
-2022,"Statistische Region Braunschweig",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ031,377.1
-2022,"Region Hannover",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03241,363.4
-2022,"dav. Hannover, Lhst.",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03241001,202.1
-2022,"dav. Hannover, Umland",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03241999,161.3
-2022,"Diepholz",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03251,49.6
-2022,"Hameln-Pyrmont",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03252,38.7
+2022,"Northeim",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03155,20.1
+2022,"Peine",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03157,42.7
+2022,"Wolfenbüttel",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03158,17.1
+2022,"Göttingen",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03159,58
+2022,"Statistische Region Braunschweig",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ031,379.5
+2022,"Region Hannover",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03241,362.4
+2022,"dav. Hannover, Lhst.",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03241001,202.5
+2022,"dav. Hannover, Umland",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03241999,159.9
+2022,"Diepholz",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03251,48.9
+2022,"Hameln-Pyrmont",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03252,37.8
 2022,"Hildesheim",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03254,56.7
-2022,"Holzminden",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03255,13.5
-2022,"Nienburg (Weser)",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03256,32.1
-2022,"Schaumburg",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03257,34.4
-2022,"Statistische Region Hannover",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ032,588.4
-2022,"Celle",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03351,36.8
-2022,"Cuxhaven",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03352,36.9
-2022,"Harburg",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03353,61.8
-2022,"Uelzen Lüchow-Dannenberg",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03354360,25.3
-2022,"Lüneburg",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03355,30.1
+2022,"Holzminden",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03255,13.9
+2022,"Nienburg (Weser)",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03256,33
+2022,"Schaumburg",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03257,35.1
+2022,"Statistische Region Hannover",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ032,587.8
+2022,"Celle",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03351,37.2
+2022,"Cuxhaven",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03352,34.8
+2022,"Harburg",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03353,61.2
+2022,"Uelzen Lüchow-Dannenberg",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03354360,24
+2022,"Lüneburg",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03355,30.6
 2022,"Osterholz",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03356,16.8
-2022,"Rotenburg (Wümme)",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03357,24.6
-2022,"Heidekreis",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03358,28.8
-2022,"Stade",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03359,37.6
-2022,"Uelzen Lüchow-Dannenberg",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03354360,25.3
-2022,"Verden",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03361,30.1
-2022,"Statistische Region Lüneburg",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ033,328.8
-2022,"Delmenhorst, Stadt",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03401,29.3
-2022,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03402457,37.1
-2022,"Oldenburg (Oldb), Stadt",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03403,36.4
-2022,"Osnabrück, Stadt",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03404,61.1
-2022,"Wilhelmshaven, Stadt",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03405,19.7
-2022,"Ammerland",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03451,16
-2022,"Aurich",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03452,21.7
-2022,"Cloppenburg",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03453,47.1
-2022,"Emsland",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03454,75.5
-2022,"Friesland / Wittmund",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03455462,15.2
-2022,"Grafschaft Bentheim",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03456,44.3
-2022,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03402457,37.1
-2022,"Oldenburg",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03458,22.1
-2022,"Osnabrück",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03459,91.8
-2022,"Vechta",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03460,42.5
-2022,"Wesermarsch",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03461,16.8
-2022,"Friesland / Wittmund",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03455462,15.2
-2022,"Statistische Region Weser-Ems",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ034,576.7
-2022,"Niedersachsen",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ030,1871.1
+2022,"Rotenburg (Wümme)",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03357,26.3
+2022,"Heidekreis",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03358,28.9
+2022,"Stade",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03359,38.4
+2022,"Uelzen Lüchow-Dannenberg",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03354360,24
+2022,"Verden",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03361,30.7
+2022,"Statistische Region Lüneburg",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ033,329
+2022,"Delmenhorst, Stadt",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03401,29.1
+2022,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03402457,36.3
+2022,"Oldenburg (Oldb), Stadt",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03403,35.4
+2022,"Osnabrück, Stadt",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03404,62.2
+2022,"Wilhelmshaven, Stadt",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03405,19.8
+2022,"Ammerland",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03451,16.4
+2022,"Aurich",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03452,21.2
+2022,"Cloppenburg",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03453,46.9
+2022,"Emsland",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03454,73.7
+2022,"Friesland / Wittmund",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03455462,15.3
+2022,"Grafschaft Bentheim",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03456,44.1
+2022,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03402457,36.3
+2022,"Oldenburg",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03458,22.3
+2022,"Osnabrück",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03459,89.8
+2022,"Vechta",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03460,44.2
+2022,"Wesermarsch",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03461,17.4
+2022,"Friesland / Wittmund",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03455462,15.3
+2022,"Statistische Region Weser-Ems",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ034,574
+2022,"Niedersachsen",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ030,1870.3
 2021,"Braunschweig, Stadt",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03101,66.9
 2021,"Salzgitter, Stadt",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03102,35.4
 2021,"Wolfsburg, Stadt",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03103,42.2
@@ -1718,58 +1874,110 @@
 2011,"Friesland / Wittmund",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ03455462,8.79809
 2011,"Statistische Region Weser-Ems",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ034,420.4411
 2011,"Niedersachsen",Personen mit Migrationshintergrund im engeren Sinne,"Anzahl in 1000",MZ030,1267.60197
-2022,"Braunschweig, Stadt",Personen ohne Migrationshintergrund,%,MZ03101,70.5573505654281
-2022,"Salzgitter, Stadt",Personen ohne Migrationshintergrund,%,MZ03102,56.140350877193
-2022,"Wolfsburg, Stadt",Personen ohne Migrationshintergrund,%,MZ03103,63.4046052631579
-2022,"Gifhorn",Personen ohne Migrationshintergrund,%,MZ03151,71.4601769911504
-2022,"Goslar",Personen ohne Migrationshintergrund,%,MZ03153,80.2247191011236
-2022,"Helmstedt",Personen ohne Migrationshintergrund,%,MZ03154,82.1075740944018
-2022,"Northeim",Personen ohne Migrationshintergrund,%,MZ03155,82.7067669172932
-2022,"Peine",Personen ohne Migrationshintergrund,%,MZ03157,67.3691860465116
-2022,"Wolfenbüttel",Personen ohne Migrationshintergrund,%,MZ03158,83.5242290748899
-2022,"Göttingen",Personen ohne Migrationshintergrund,%,MZ03159,79.9558080808081
-2022,"Statistische Region Braunschweig",Personen ohne Migrationshintergrund,%,MZ031,74.2285026297446
-2022,"Region Hannover",Personen ohne Migrationshintergrund,%,MZ03241,65.9537622304962
-2022,"dav. Hannover, Lhst.",Personen ohne Migrationshintergrund,%,MZ03241001,59.2862481315396
-2022,"dav. Hannover, Umland",Personen ohne Migrationshintergrund,%,MZ03241999,71.7121187671454
-2022,"Diepholz",Personen ohne Migrationshintergrund,%,MZ03251,75.591985428051
-2022,"Hameln-Pyrmont",Personen ohne Migrationshintergrund,%,MZ03252,71.6814159292035
-2022,"Hildesheim",Personen ohne Migrationshintergrund,%,MZ03254,77.1290442543697
-2022,"Holzminden",Personen ohne Migrationshintergrund,%,MZ03255,79.020979020979
-2022,"Nienburg (Weser)",Personen ohne Migrationshintergrund,%,MZ03256,72.3265306122449
-2022,"Schaumburg",Personen ohne Migrationshintergrund,%,MZ03257,76.5312701482914
-2022,"Statistische Region Hannover",Personen ohne Migrationshintergrund,%,MZ032,70.3094325511826
-2022,"Celle",Personen ohne Migrationshintergrund,%,MZ03351,77.6974416017797
-2022,"Cuxhaven",Personen ohne Migrationshintergrund,%,MZ03352,79.8795785248369
-2022,"Harburg",Personen ohne Migrationshintergrund,%,MZ03353,74.5879647374473
-2022,"Uelzen Lüchow-Dannenberg",Personen ohne Migrationshintergrund,%,MZ03354360,79.8550724637681
-2022,"Lüneburg",Personen ohne Migrationshintergrund,%,MZ03355,81.9504310344828
-2022,"Osterholz",Personen ohne Migrationshintergrund,%,MZ03356,83.9070567986231
-2022,"Rotenburg (Wümme)",Personen ohne Migrationshintergrund,%,MZ03357,83.8513101767215
-2022,"Heidekreis",Personen ohne Migrationshintergrund,%,MZ03358,78.7043418332185
-2022,"Stade",Personen ohne Migrationshintergrund,%,MZ03359,80.1343570057581
-2022,"Uelzen Lüchow-Dannenberg",Personen ohne Migrationshintergrund,%,MZ03354360,79.8550724637681
-2022,"Verden",Personen ohne Migrationshintergrund,%,MZ03361,76.7341040462428
-2022,"Statistische Region Lüneburg",Personen ohne Migrationshintergrund,%,MZ033,79.415831316972
-2022,"Delmenhorst, Stadt",Personen ohne Migrationshintergrund,%,MZ03401,58.3979328165375
-2022,"Emden, Stadt / Leer",Personen ohne Migrationshintergrund,%,MZ03402457,81.8017202354006
-2022,"Oldenburg (Oldb), Stadt",Personen ohne Migrationshintergrund,%,MZ03403,76.6180758017493
-2022,"Osnabrück, Stadt",Personen ohne Migrationshintergrund,%,MZ03404,61.5105740181269
-2022,"Wilhelmshaven, Stadt",Personen ohne Migrationshintergrund,%,MZ03405,72.2443559096946
-2022,"Ammerland",Personen ohne Migrationshintergrund,%,MZ03451,84.9238171611869
-2022,"Aurich",Personen ohne Migrationshintergrund,%,MZ03452,87.7147319104633
-2022,"Cloppenburg",Personen ohne Migrationshintergrund,%,MZ03453,72.557876905703
-2022,"Emsland",Personen ohne Migrationshintergrund,%,MZ03454,76.671664167916
-2022,"Friesland / Wittmund",Personen ohne Migrationshintergrund,%,MZ03455462,88.9032258064516
-2022,"Grafschaft Bentheim",Personen ohne Migrationshintergrund,%,MZ03456,66.2563359884142
-2022,"Emden, Stadt / Leer",Personen ohne Migrationshintergrund,%,MZ03402457,81.8017202354006
-2022,"Oldenburg",Personen ohne Migrationshintergrund,%,MZ03458,81.640331075997
-2022,"Osnabrück",Personen ohne Migrationshintergrund,%,MZ03459,73.4250343878955
-2022,"Vechta",Personen ohne Migrationshintergrund,%,MZ03460,69.549929676512
-2022,"Wesermarsch",Personen ohne Migrationshintergrund,%,MZ03461,79.3063583815029
-2022,"Friesland / Wittmund",Personen ohne Migrationshintergrund,%,MZ03455462,88.9032258064516
-2022,"Statistische Region Weser-Ems",Personen ohne Migrationshintergrund,%,MZ034,76.0552360834018
-2022,"Niedersachsen",Personen ohne Migrationshintergrund,%,MZ030,74.888883339992
+2023,"Braunschweig, Stadt",Personen ohne Migrationshintergrund,%,MZ03101,70.9497206703911
+2023,"Salzgitter, Stadt",Personen ohne Migrationshintergrund,%,MZ03102,56.9082125603865
+2023,"Wolfsburg, Stadt",Personen ohne Migrationshintergrund,%,MZ03103,64.7435897435898
+2023,"Gifhorn",Personen ohne Migrationshintergrund,%,MZ03151,71.4522363335174
+2023,"Goslar",Personen ohne Migrationshintergrund,%,MZ03153,78.4489187173751
+2023,"Helmstedt",Personen ohne Migrationshintergrund,%,MZ03154,81.3778256189451
+2023,"Northeim",Personen ohne Migrationshintergrund,%,MZ03155,82.7245053272451
+2023,"Peine",Personen ohne Migrationshintergrund,%,MZ03157,75.5474452554745
+2023,"Wolfenbüttel",Personen ohne Migrationshintergrund,%,MZ03158,78.4148397976391
+2023,"Göttingen",Personen ohne Migrationshintergrund,%,MZ03159,77.0604826073331
+2023,"Statistische Region Braunschweig",Personen ohne Migrationshintergrund,%,MZ031,73.9894551845343
+2023,"Region Hannover",Personen ohne Migrationshintergrund,%,MZ03241,65.2114246504846
+2023,"dav. Hannover, Lhst.",Personen ohne Migrationshintergrund,%,MZ03241001,57.4159161918765
+2023,"dav. Hannover, Umland",Personen ohne Migrationshintergrund,%,MZ03241999,72.0328079768414
+2023,"Diepholz",Personen ohne Migrationshintergrund,%,MZ03251,74.9547920433997
+2023,"Hameln-Pyrmont",Personen ohne Migrationshintergrund,%,MZ03252,70.0067704807041
+2023,"Hildesheim",Personen ohne Migrationshintergrund,%,MZ03254,76.9174579985391
+2023,"Holzminden",Personen ohne Migrationshintergrund,%,MZ03255,75.6302521008403
+2023,"Nienburg (Weser)",Personen ohne Migrationshintergrund,%,MZ03256,74.6784565916399
+2023,"Schaumburg",Personen ohne Migrationshintergrund,%,MZ03257,75.8860759493671
+2023,"Statistische Region Hannover",Personen ohne Migrationshintergrund,%,MZ032,69.6878612716763
+2023,"Celle",Personen ohne Migrationshintergrund,%,MZ03351,78.3045175683213
+2023,"Cuxhaven",Personen ohne Migrationshintergrund,%,MZ03352,81.1817279046673
+2023,"Harburg",Personen ohne Migrationshintergrund,%,MZ03353,78.3454060236371
+2023,"Uelzen Lüchow-Dannenberg",Personen ohne Migrationshintergrund,%,MZ03354360,79.7879858657244
+2023,"Lüneburg",Personen ohne Migrationshintergrund,%,MZ03355,80.0534759358289
+2023,"Osterholz",Personen ohne Migrationshintergrund,%,MZ03356,83.2618025751073
+2023,"Rotenburg (Wümme)",Personen ohne Migrationshintergrund,%,MZ03357,81.8401937046005
+2023,"Heidekreis",Personen ohne Migrationshintergrund,%,MZ03358,75.5602240896359
+2023,"Stade",Personen ohne Migrationshintergrund,%,MZ03359,74.8225272124941
+2023,"Uelzen Lüchow-Dannenberg",Personen ohne Migrationshintergrund,%,MZ03354360,79.7879858657244
+2023,"Verden",Personen ohne Migrationshintergrund,%,MZ03361,74.7330960854093
+2023,"Statistische Region Lüneburg",Personen ohne Migrationshintergrund,%,MZ033,78.6817713697219
+2023,"Delmenhorst, Stadt",Personen ohne Migrationshintergrund,%,MZ03401,58.6427656850192
+2023,"Emden, Stadt / Leer",Personen ohne Migrationshintergrund,%,MZ03402457,80.0809352517986
+2023,"Oldenburg (Oldb), Stadt",Personen ohne Migrationshintergrund,%,MZ03403,74.8122472559214
+2023,"Osnabrück, Stadt",Personen ohne Migrationshintergrund,%,MZ03404,62.3275344931014
+2023,"Wilhelmshaven, Stadt",Personen ohne Migrationshintergrund,%,MZ03405,71.4475431606906
+2023,"Ammerland",Personen ohne Migrationshintergrund,%,MZ03451,81.1128526645768
+2023,"Aurich",Personen ohne Migrationshintergrund,%,MZ03452,87.59730150493
+2023,"Cloppenburg",Personen ohne Migrationshintergrund,%,MZ03453,69.481981981982
+2023,"Emsland",Personen ohne Migrationshintergrund,%,MZ03454,77.7006638503319
+2023,"Friesland / Wittmund",Personen ohne Migrationshintergrund,%,MZ03455462,86.1234882240611
+2023,"Grafschaft Bentheim",Personen ohne Migrationshintergrund,%,MZ03456,70.3026038001407
+2023,"Emden, Stadt / Leer",Personen ohne Migrationshintergrund,%,MZ03402457,80.0809352517986
+2023,"Oldenburg",Personen ohne Migrationshintergrund,%,MZ03458,74.0104555638536
+2023,"Osnabrück",Personen ohne Migrationshintergrund,%,MZ03459,74.9861802100608
+2023,"Vechta",Personen ohne Migrationshintergrund,%,MZ03460,69.8316498316498
+2023,"Wesermarsch",Personen ohne Migrationshintergrund,%,MZ03461,80.7424593967517
+2023,"Friesland / Wittmund",Personen ohne Migrationshintergrund,%,MZ03455462,86.1234882240611
+2023,"Statistische Region Weser-Ems",Personen ohne Migrationshintergrund,%,MZ034,75.472870625704
+2023,"Niedersachsen",Personen ohne Migrationshintergrund,%,MZ030,74.3250436354183
+2022,"Braunschweig, Stadt",Personen ohne Migrationshintergrund,%,MZ03101,70.4435483870968
+2022,"Salzgitter, Stadt",Personen ohne Migrationshintergrund,%,MZ03102,56.2256809338521
+2022,"Wolfsburg, Stadt",Personen ohne Migrationshintergrund,%,MZ03103,62.8899835796388
+2022,"Gifhorn",Personen ohne Migrationshintergrund,%,MZ03151,71.2230215827338
+2022,"Goslar",Personen ohne Migrationshintergrund,%,MZ03153,79.8055347793568
+2022,"Helmstedt",Personen ohne Migrationshintergrund,%,MZ03154,82.1271929824561
+2022,"Northeim",Personen ohne Migrationshintergrund,%,MZ03155,82.9451540195342
+2022,"Peine",Personen ohne Migrationshintergrund,%,MZ03157,67.3928830791576
+2022,"Wolfenbüttel",Personen ohne Migrationshintergrund,%,MZ03158,83.3187006145742
+2022,"Göttingen",Personen ohne Migrationshintergrund,%,MZ03159,79.6840442338073
+2022,"Statistische Region Braunschweig",Personen ohne Migrationshintergrund,%,MZ031,74.0614118391896
+2022,"Region Hannover",Personen ohne Migrationshintergrund,%,MZ03241,65.9998267948385
+2022,"dav. Hannover, Lhst.",Personen ohne Migrationshintergrund,%,MZ03241001,59.1214953271028
+2022,"dav. Hannover, Umland",Personen ohne Migrationshintergrund,%,MZ03241999,71.9380345328385
+2022,"Diepholz",Personen ohne Migrationshintergrund,%,MZ03251,75.9562841530055
+2022,"Hameln-Pyrmont",Personen ohne Migrationshintergrund,%,MZ03252,72.3621511232131
+2022,"Hildesheim",Personen ohne Migrationshintergrund,%,MZ03254,77.0461309523809
+2022,"Holzminden",Personen ohne Migrationshintergrund,%,MZ03255,78.7114845938375
+2022,"Nienburg (Weser)",Personen ohne Migrationshintergrund,%,MZ03256,71.2887438825449
+2022,"Schaumburg",Personen ohne Migrationshintergrund,%,MZ03257,76.0309278350516
+2022,"Statistische Region Hannover",Personen ohne Migrationshintergrund,%,MZ032,70.3019820493643
+2022,"Celle",Personen ohne Migrationshintergrund,%,MZ03351,77.4874930516954
+2022,"Cuxhaven",Personen ohne Migrationshintergrund,%,MZ03352,80.9332664325138
+2022,"Harburg",Personen ohne Migrationshintergrund,%,MZ03353,74.8179379072442
+2022,"Uelzen Lüchow-Dannenberg",Personen ohne Migrationshintergrund,%,MZ03354360,80.7246376811594
+2022,"Lüneburg",Personen ohne Migrationshintergrund,%,MZ03355,81.7349137931034
+2022,"Osterholz",Personen ohne Migrationshintergrund,%,MZ03356,83.8209982788296
+2022,"Rotenburg (Wümme)",Personen ohne Migrationshintergrund,%,MZ03357,82.7544180377818
+2022,"Heidekreis",Personen ohne Migrationshintergrund,%,MZ03358,78.6896551724138
+2022,"Stade",Personen ohne Migrationshintergrund,%,MZ03359,79.8367738838214
+2022,"Uelzen Lüchow-Dannenberg",Personen ohne Migrationshintergrund,%,MZ03354360,80.7246376811594
+2022,"Verden",Personen ohne Migrationshintergrund,%,MZ03361,76.1560693641619
+2022,"Statistische Region Lüneburg",Personen ohne Migrationshintergrund,%,MZ033,79.3882136067746
+2022,"Delmenhorst, Stadt",Personen ohne Migrationshintergrund,%,MZ03401,58.656330749354
+2022,"Emden, Stadt / Leer",Personen ohne Migrationshintergrund,%,MZ03402457,82.1638750565867
+2022,"Oldenburg (Oldb), Stadt",Personen ohne Migrationshintergrund,%,MZ03403,77.201166180758
+2022,"Osnabrück, Stadt",Personen ohne Migrationshintergrund,%,MZ03404,60.5676328502416
+2022,"Wilhelmshaven, Stadt",Personen ohne Migrationshintergrund,%,MZ03405,72.1115537848606
+2022,"Ammerland",Personen ohne Migrationshintergrund,%,MZ03451,84.8192771084337
+2022,"Aurich",Personen ohne Migrationshintergrund,%,MZ03452,87.9750130140552
+2022,"Cloppenburg",Personen ohne Migrationshintergrund,%,MZ03453,72.7426636568849
+2022,"Emsland",Personen ohne Migrationshintergrund,%,MZ03454,77.2345530893821
+2022,"Friesland / Wittmund",Personen ohne Migrationshintergrund,%,MZ03455462,88.7096774193548
+2022,"Grafschaft Bentheim",Personen ohne Migrationshintergrund,%,MZ03456,66.545981173063
+2022,"Emden, Stadt / Leer",Personen ohne Migrationshintergrund,%,MZ03402457,82.1638750565867
+2022,"Oldenburg",Personen ohne Migrationshintergrund,%,MZ03458,81.5650865312265
+2022,"Osnabrück",Personen ohne Migrationshintergrund,%,MZ03459,74.1208791208791
+2022,"Vechta",Personen ohne Migrationshintergrund,%,MZ03460,68.454481298518
+2022,"Wesermarsch",Personen ohne Migrationshintergrund,%,MZ03461,78.6374133949192
+2022,"Friesland / Wittmund",Personen ohne Migrationshintergrund,%,MZ03455462,88.7096774193548
+2022,"Statistische Region Weser-Ems",Personen ohne Migrationshintergrund,%,MZ034,76.1813487717102
+2022,"Niedersachsen",Personen ohne Migrationshintergrund,%,MZ030,74.8895269005118
 2021,"Braunschweig, Stadt",Personen ohne Migrationshintergrund,%,MZ03101,70.9415584415585
 2021,"Salzgitter, Stadt",Personen ohne Migrationshintergrund,%,MZ03102,61.8860510805501
 2021,"Wolfsburg, Stadt",Personen ohne Migrationshintergrund,%,MZ03103,62.3128119800333
@@ -2291,58 +2499,110 @@
 2011,"Friesland / Wittmund",Personen ohne Migrationshintergrund,%,MZ03455462,94.32
 2011,"Statistische Region Weser-Ems",Personen ohne Migrationshintergrund,%,MZ034,82.76
 2011,"Niedersachsen",Personen ohne Migrationshintergrund,%,MZ030,83.7
-2022,"Braunschweig, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03101,29.4022617124394
-2022,"Salzgitter, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03102,43.859649122807
-2022,"Wolfsburg, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03103,36.5953947368421
-2022,"Gifhorn",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03151,28.5398230088496
-2022,"Goslar",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03153,19.8501872659176
-2022,"Helmstedt",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03154,17.7826564215148
-2022,"Northeim",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03155,17.2932330827068
-2022,"Peine",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03157,32.6308139534884
-2022,"Wolfenbüttel",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03158,16.3876651982379
-2022,"Göttingen",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03159,20.0441919191919
-2022,"Statistische Region Braunschweig",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ031,25.7714973702554
-2022,"Region Hannover",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03241,34.0462377695039
-2022,"dav. Hannover, Lhst.",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03241001,40.7137518684604
-2022,"dav. Hannover, Umland",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03241999,28.3040180732613
-2022,"Diepholz",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03251,24.3624772313297
-2022,"Hameln-Pyrmont",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03252,28.3185840707965
-2022,"Hildesheim",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03254,22.9081442915582
-2022,"Holzminden",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03255,20.8391608391608
-2022,"Nienburg (Weser)",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03256,27.6734693877551
-2022,"Schaumburg",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03257,23.4687298517086
-2022,"Statistische Region Hannover",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ032,29.6905674488174
-2022,"Celle",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03351,22.3025583982202
-2022,"Cuxhaven",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03352,20.1204214751631
-2022,"Harburg",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03353,25.4120352625527
-2022,"Uelzen Lüchow-Dannenberg",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03354360,20.0724637681159
-2022,"Lüneburg",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03355,18.0495689655172
-2022,"Osterholz",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03356,16.0929432013769
-2022,"Rotenburg (Wümme)",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03357,16.1486898232785
-2022,"Heidekreis",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03358,21.2267401791868
-2022,"Stade",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03359,19.8656429942418
-2022,"Uelzen Lüchow-Dannenberg",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03354360,20.0724637681159
-2022,"Verden",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03361,23.2658959537572
-2022,"Statistische Region Lüneburg",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ033,20.589929715405
-2022,"Delmenhorst, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03401,41.6020671834625
-2022,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03402457,18.1982797645994
-2022,"Oldenburg (Oldb), Stadt",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03403,23.3819241982507
-2022,"Osnabrück, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03404,38.5498489425982
-2022,"Wilhelmshaven, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03405,27.7556440903054
-2022,"Ammerland",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03451,15.1563753007217
-2022,"Aurich",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03452,12.3373243102551
-2022,"Cloppenburg",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03453,27.442123094297
-2022,"Emsland",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03454,23.328335832084
-2022,"Friesland / Wittmund",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03455462,11.0967741935484
-2022,"Grafschaft Bentheim",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03456,33.7436640115858
-2022,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03402457,18.1982797645994
-2022,"Oldenburg",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03458,18.359668924003
-2022,"Osnabrück",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03459,26.5474552957359
-2022,"Vechta",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03460,30.450070323488
-2022,"Wesermarsch",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03461,20.6936416184971
-2022,"Friesland / Wittmund",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03455462,11.0967741935484
-2022,"Statistische Region Weser-Ems",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ034,23.9408520126746
-2022,"Niedersachsen",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ030,25.111116660008
+2023,"Braunschweig, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03101,29.0901835594573
+2023,"Salzgitter, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03102,42.9951690821256
+2023,"Wolfsburg, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03103,35.3365384615385
+2023,"Gifhorn",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03151,28.5477636664826
+2023,"Goslar",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03153,21.5510812826249
+2023,"Helmstedt",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03154,18.6221743810549
+2023,"Northeim",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03155,17.351598173516
+2023,"Peine",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03157,24.4525547445256
+2023,"Wolfenbüttel",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03158,21.5851602023609
+2023,"Göttingen",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03159,22.9395173926669
+2023,"Statistische Region Braunschweig",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ031,26.0042681395933
+2023,"Region Hannover",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03241,34.7885753495154
+2023,"dav. Hannover, Lhst.",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03241001,42.5840838081235
+2023,"dav. Hannover, Umland",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03241999,27.9671920231586
+2023,"Diepholz",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03251,25.0452079566004
+2023,"Hameln-Pyrmont",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03252,29.9932295192959
+2023,"Hildesheim",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03254,23.0460189919649
+2023,"Holzminden",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03255,24.3697478991597
+2023,"Nienburg (Weser)",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03256,25.4019292604502
+2023,"Schaumburg",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03257,24.1139240506329
+2023,"Statistische Region Hannover",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ032,30.3121387283237
+2023,"Celle",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03351,21.6954824316787
+2023,"Cuxhaven",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03352,18.7686196623635
+2023,"Harburg",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03353,21.6545939763629
+2023,"Uelzen Lüchow-Dannenberg",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03354360,20.2120141342756
+2023,"Lüneburg",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03355,19.9465240641711
+2023,"Osterholz",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03356,16.7381974248927
+2023,"Rotenburg (Wümme)",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03357,18.2203389830508
+2023,"Heidekreis",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03358,24.4397759103641
+2023,"Stade",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03359,25.1774727875059
+2023,"Uelzen Lüchow-Dannenberg",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03354360,20.2120141342756
+2023,"Verden",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03361,25.2669039145907
+2023,"Statistische Region Lüneburg",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ033,21.3182286302781
+2023,"Delmenhorst, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03401,41.3572343149808
+2023,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03402457,19.9190647482014
+2023,"Oldenburg (Oldb), Stadt",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03403,25.1877527440786
+2023,"Osnabrück, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03404,37.7324535092981
+2023,"Wilhelmshaven, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03405,28.5524568393094
+2023,"Ammerland",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03451,18.9655172413793
+2023,"Aurich",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03452,12.4026984950701
+2023,"Cloppenburg",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03453,30.518018018018
+2023,"Emsland",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03454,22.2993361496681
+2023,"Friesland / Wittmund",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03455462,13.8765117759389
+2023,"Grafschaft Bentheim",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03456,29.6973961998593
+2023,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03402457,19.9190647482014
+2023,"Oldenburg",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03458,25.9895444361464
+2023,"Osnabrück",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03459,25.0138197899392
+2023,"Vechta",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03460,30.1683501683502
+2023,"Wesermarsch",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03461,19.2575406032483
+2023,"Friesland / Wittmund",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03455462,13.8765117759389
+2023,"Statistische Region Weser-Ems",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ034,24.527129374296
+2023,"Niedersachsen",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ030,25.6737184803733
+2022,"Braunschweig, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03101,29.5564516129032
+2022,"Salzgitter, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03102,43.7743190661479
+2022,"Wolfsburg, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03103,37.1100164203613
+2022,"Gifhorn",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03151,28.8323187603763
+2022,"Goslar",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03153,20.1944652206432
+2022,"Helmstedt",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03154,17.8728070175439
+2022,"Northeim",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03155,16.9797145003757
+2022,"Peine",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03157,32.6071169208424
+2022,"Wolfenbüttel",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03158,16.6812993854258
+2022,"Göttingen",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03159,20.3159557661927
+2022,"Statistische Region Braunschweig",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ031,25.9385881608104
+2022,"Region Hannover",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03241,34.0001732051615
+2022,"dav. Hannover, Lhst.",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03241001,40.8785046728972
+2022,"dav. Hannover, Umland",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03241999,28.0619654671615
+2022,"Diepholz",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03251,23.9981785063752
+2022,"Hameln-Pyrmont",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03252,27.6378488767869
+2022,"Hildesheim",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03254,22.953869047619
+2022,"Holzminden",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03255,21.4285714285714
+2022,"Nienburg (Weser)",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03256,28.7112561174551
+2022,"Schaumburg",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03257,23.9690721649485
+2022,"Statistische Region Hannover",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ032,29.6980179506358
+2022,"Celle",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03351,22.5125069483046
+2022,"Cuxhaven",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03352,19.0667335674862
+2022,"Harburg",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03353,25.1820620927558
+2022,"Uelzen Lüchow-Dannenberg",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03354360,19.2753623188406
+2022,"Lüneburg",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03355,18.2650862068966
+2022,"Osterholz",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03356,16.1790017211704
+2022,"Rotenburg (Wümme)",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03357,17.2455819622182
+2022,"Heidekreis",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03358,21.3103448275862
+2022,"Stade",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03359,20.1632261161786
+2022,"Uelzen Lüchow-Dannenberg",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03354360,19.2753623188406
+2022,"Verden",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03361,23.8439306358381
+2022,"Statistische Region Lüneburg",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ033,20.6117863932254
+2022,"Delmenhorst, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03401,41.343669250646
+2022,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03402457,17.8813942960616
+2022,"Oldenburg (Oldb), Stadt",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03403,22.7405247813411
+2022,"Osnabrück, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03404,39.4323671497584
+2022,"Wilhelmshaven, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03405,27.8884462151394
+2022,"Ammerland",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03451,15.1807228915663
+2022,"Aurich",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03452,12.0249869859448
+2022,"Cloppenburg",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03453,27.313769751693
+2022,"Emsland",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03454,22.7654469106179
+2022,"Friesland / Wittmund",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03455462,11.2903225806452
+2022,"Grafschaft Bentheim",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03456,33.454018826937
+2022,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03402457,17.8813942960616
+2022,"Oldenburg",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03458,18.4349134687735
+2022,"Osnabrück",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03459,25.9065934065934
+2022,"Vechta",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03460,31.6160903316867
+2022,"Wesermarsch",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03461,21.3625866050808
+2022,"Friesland / Wittmund",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03455462,11.2903225806452
+2022,"Statistische Region Weser-Ems",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ034,23.8147394773901
+2022,"Niedersachsen",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ030,25.1104730994882
 2021,"Braunschweig, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03101,29.0584415584416
 2021,"Salzgitter, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03102,38.1139489194499
 2021,"Wolfsburg, Stadt",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03103,37.6871880199667
@@ -2864,58 +3124,110 @@
 2011,"Friesland / Wittmund",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ03455462,
 2011,"Statistische Region Weser-Ems",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ034,
 2011,"Niedersachsen",Personen mit Migrationshintergrund im weiteren Sinne,%,MZ030,
-2022,"Braunschweig, Stadt",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03101,27.4636510500808
-2022,"Salzgitter, Stadt",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03102,42.1052631578947
-2022,"Wolfsburg, Stadt",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03103,34.7039473684211
-2022,"Gifhorn",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03151,26.0508849557522
-2022,"Goslar",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03153,18.12734082397
-2022,"Helmstedt",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03154,16.3556531284303
-2022,"Northeim",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03155,15.3383458646617
-2022,"Peine",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03157,31.1046511627907
-2022,"Wolfenbüttel",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03158,14.8017621145374
-2022,"Göttingen",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03159,18.1502525252525
-2022,"Statistische Region Braunschweig",Personen mit Migrationshintergrund im engeren Sinne,%,MZ031,23.8958240922629
-2022,"Region Hannover",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03241,31.4659277859555
-2022,"dav. Hannover, Lhst.",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03241001,37.7615844544096
-2022,"dav. Hannover, Umland",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03241999,26.0287235759238
-2022,"Diepholz",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03251,22.5865209471767
-2022,"Hameln-Pyrmont",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03252,26.3444520081688
-2022,"Hildesheim",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03254,21.0859055410933
-2022,"Holzminden",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03255,18.8811188811189
-2022,"Nienburg (Weser)",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03256,26.2040816326531
-2022,"Schaumburg",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03257,22.1792392005158
-2022,"Statistische Region Hannover",Personen mit Migrationshintergrund im engeren Sinne,%,MZ032,27.5030382350192
-2022,"Celle",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03351,20.4671857619577
-2022,"Cuxhaven",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03352,18.5148018063221
-2022,"Harburg",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03353,23.6872364890763
-2022,"Uelzen Lüchow-Dannenberg",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03354360,18.3333333333333
-2022,"Lüneburg",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03355,16.2176724137931
+2023,"Braunschweig, Stadt",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03101,26.4964086193136
+2023,"Salzgitter, Stadt",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03102,41.0628019323672
+2023,"Wolfsburg, Stadt",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03103,33.0128205128205
+2023,"Gifhorn",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03151,26.3942573163998
+2023,"Goslar",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03153,19.6868008948546
+2023,"Helmstedt",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03154,17.0075349838536
+2023,"Northeim",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03155,16.0578386605784
+2023,"Peine",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03157,23.0656934306569
+2023,"Wolfenbüttel",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03158,20.2360876897133
+2023,"Göttingen",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03159,20.4638044500157
+2023,"Statistische Region Braunschweig",Personen mit Migrationshintergrund im engeren Sinne,%,MZ031,23.9769018327894
+2023,"Region Hannover",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03241,32.3183806501415
+2023,"dav. Hannover, Lhst.",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03241001,39.9007535379526
+2023,"dav. Hannover, Umland",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03241999,25.6834995175298
+2023,"Diepholz",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03251,23.2368896925859
+2023,"Hameln-Pyrmont",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03252,28.1651997291808
+2023,"Hildesheim",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03254,20.891161431702
+2023,"Holzminden",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03255,23.3893557422969
+2023,"Nienburg (Weser)",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03256,23.5530546623794
+2023,"Schaumburg",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03257,22.4050632911392
+2023,"Statistische Region Hannover",Personen mit Migrationshintergrund im engeren Sinne,%,MZ032,28.1341040462428
+2023,"Celle",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03351,19.6876742889013
+2023,"Cuxhaven",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03352,17.1797418073486
+2023,"Harburg",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03353,20.2821197102554
+2023,"Uelzen Lüchow-Dannenberg",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03354360,17.8091872791519
+2023,"Lüneburg",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03355,17.807486631016
+2023,"Osterholz",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03356,13.9055793991416
+2023,"Rotenburg (Wümme)",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03357,16.2227602905569
+2023,"Heidekreis",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03358,23.0392156862745
+2023,"Stade",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03359,23.8050165641268
+2023,"Uelzen Lüchow-Dannenberg",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03354360,17.8091872791519
+2023,"Verden",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03361,23.914590747331
+2023,"Statistische Region Lüneburg",Personen mit Migrationshintergrund im engeren Sinne,%,MZ033,19.5274058816798
+2023,"Delmenhorst, Stadt",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03401,37.7720870678617
+2023,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03402457,18.660071942446
+2023,"Oldenburg (Oldb), Stadt",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03403,22.9924898902369
+2023,"Osnabrück, Stadt",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03404,35.5728854229154
+2023,"Wilhelmshaven, Stadt",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03405,26.0292164674635
+2023,"Ammerland",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03451,17.9467084639498
+2023,"Aurich",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03452,11.2091333679294
+2023,"Cloppenburg",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03453,29.8986486486487
+2023,"Emsland",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03454,21.3035606517803
+2023,"Friesland / Wittmund",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03455462,12.6034373010821
+2023,"Grafschaft Bentheim",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03456,28.3603096410978
+2023,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03402457,18.660071942446
+2023,"Oldenburg",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03458,24.5705750560119
+2023,"Osnabrück",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03459,23.355444997236
+2023,"Vechta",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03460,29.6969696969697
+2023,"Wesermarsch",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03461,17.2853828306265
+2023,"Friesland / Wittmund",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03455462,12.6034373010821
+2023,"Statistische Region Weser-Ems",Personen mit Migrationshintergrund im engeren Sinne,%,MZ034,23.0823008505845
+2023,"Niedersachsen",Personen mit Migrationshintergrund im engeren Sinne,%,MZ030,23.8416498520728
+2022,"Braunschweig, Stadt",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03101,27.5403225806452
+2022,"Salzgitter, Stadt",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03102,42.023346303502
+2022,"Wolfsburg, Stadt",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03103,35.2216748768473
+2022,"Gifhorn",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03151,26.2866629773105
+2022,"Goslar",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03153,18.548990276739
+2022,"Helmstedt",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03154,16.3377192982456
+2022,"Northeim",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03155,15.1014274981217
+2022,"Peine",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03157,31.0094408133624
+2022,"Wolfenbüttel",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03158,15.0131694468832
+2022,"Göttingen",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03159,18.3254344391785
+2022,"Statistische Region Braunschweig",Personen mit Migrationshintergrund im engeren Sinne,%,MZ031,24.0265906932574
+2022,"Region Hannover",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03241,31.3847752663029
+2022,"dav. Hannover, Lhst.",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03241001,37.8504672897196
+2022,"dav. Hannover, Umland",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03241999,25.8028078102308
+2022,"Diepholz",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03251,22.2677595628415
+2022,"Hameln-Pyrmont",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03252,25.7317903335602
+2022,"Hildesheim",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03254,21.09375
+2022,"Holzminden",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03255,19.4677871148459
+2022,"Nienburg (Weser)",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03256,26.9168026101142
+2022,"Schaumburg",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03257,22.6159793814433
+2022,"Statistische Region Hannover",Personen mit Migrationshintergrund im engeren Sinne,%,MZ032,27.4775617053104
+2022,"Celle",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03351,20.6781545302946
+2022,"Cuxhaven",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03352,17.4611138986453
+2022,"Harburg",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03353,23.4572633192794
+2022,"Uelzen Lüchow-Dannenberg",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03354360,17.3913043478261
+2022,"Lüneburg",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03355,16.4870689655172
 2022,"Osterholz",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03356,14.4578313253012
-2022,"Rotenburg (Wümme)",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03357,14.9908592321755
-2022,"Heidekreis",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03358,19.8483804272915
-2022,"Stade",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03359,18.042226487524
-2022,"Uelzen Lüchow-Dannenberg",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03354360,18.3333333333333
-2022,"Verden",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03361,21.7485549132948
-2022,"Statistische Region Lüneburg",Personen mit Migrationshintergrund im engeren Sinne,%,MZ033,18.9422744555824
-2022,"Delmenhorst, Stadt",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03401,37.8552971576227
-2022,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03402457,16.7949298325034
-2022,"Oldenburg (Oldb), Stadt",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03403,21.2244897959184
-2022,"Osnabrück, Stadt",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03404,36.9184290030211
-2022,"Wilhelmshaven, Stadt",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03405,26.1620185922975
-2022,"Ammerland",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03451,12.8307939053729
-2022,"Aurich",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03452,11.2961998958876
-2022,"Cloppenburg",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03453,26.5951439864483
-2022,"Emsland",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03454,22.6386806596702
-2022,"Friesland / Wittmund",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03455462,9.80645161290322
-2022,"Grafschaft Bentheim",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03456,32.0782041998552
-2022,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03402457,16.7949298325034
-2022,"Oldenburg",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03458,16.6290443942814
-2022,"Osnabrück",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03459,25.2544704264099
-2022,"Vechta",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03460,29.887482419128
-2022,"Wesermarsch",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03461,19.4219653179191
-2022,"Friesland / Wittmund",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03455462,9.80645161290322
-2022,"Statistische Region Weser-Ems",Personen mit Migrationshintergrund im engeren Sinne,%,MZ034,22.5599499276298
-2022,"Niedersachsen",Personen mit Migrationshintergrund im engeren Sinne,%,MZ030,23.3607171394327
+2022,"Rotenburg (Wümme)",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03357,16.0268129189519
+2022,"Heidekreis",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03358,19.9310344827586
+2022,"Stade",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03359,18.4349495919347
+2022,"Uelzen Lüchow-Dannenberg",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03354360,17.3913043478261
+2022,"Verden",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03361,22.1820809248555
+2022,"Statistische Region Lüneburg",Personen mit Migrationshintergrund im engeren Sinne,%,MZ033,18.9527046488853
+2022,"Delmenhorst, Stadt",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03401,37.5968992248062
+2022,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03402457,16.4327750113173
+2022,"Oldenburg (Oldb), Stadt",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03403,20.6413994169096
+2022,"Osnabrück, Stadt",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03404,37.56038647343
+2022,"Wilhelmshaven, Stadt",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03405,26.2948207171315
+2022,"Ammerland",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03451,13.1726907630522
+2022,"Aurich",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03452,11.0359187922957
+2022,"Cloppenburg",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03453,26.4672686230248
+2022,"Emsland",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03454,22.1055788842232
+2022,"Friesland / Wittmund",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03455462,9.87096774193548
+2022,"Grafschaft Bentheim",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03456,31.9333816075308
+2022,"Emden, Stadt / Leer",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03402457,16.4327750113173
+2022,"Oldenburg",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03458,16.7795334838224
+2022,"Osnabrück",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03459,24.6703296703297
+2022,"Vechta",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03460,31.1926605504587
+2022,"Wesermarsch",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03461,20.0923787528868
+2022,"Friesland / Wittmund",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03455462,9.87096774193548
+2022,"Statistische Region Weser-Ems",Personen mit Migrationshintergrund im engeren Sinne,%,MZ034,22.4534501642935
+2022,"Niedersachsen",Personen mit Migrationshintergrund im engeren Sinne,%,MZ030,23.3466483585071
 2021,"Braunschweig, Stadt",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03101,27.150974025974
 2021,"Salzgitter, Stadt",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03102,34.7740667976424
 2021,"Wolfsburg, Stadt",Personen mit Migrationshintergrund im engeren Sinne,%,MZ03103,35.108153078203
