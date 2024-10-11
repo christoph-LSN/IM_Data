@@ -1844,7 +1844,7 @@
             "title": "Migrationsstatus"
           },
           {
-            "name": "Hauhaltsnettoeinkommen",
+            "name": "Haushaltsnettoeinkommen",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1863,7 +1863,7 @@
                 ""
               ]
             },
-            "title": "Hauhaltsnettoeinkommen"
+            "title": "Haushaltsnettoeinkommen"
           },
           {
             "name": "Haushaltsgröße",

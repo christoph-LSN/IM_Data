@@ -1732,7 +1732,7 @@
             }
           },
           {
-            "name": "Hauhaltsnettoeinkommen",
+            "name": "Haushaltsnettoeinkommen",
             "type": "string",
             "constraints": {
               "enum": [
