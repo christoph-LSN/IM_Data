@@ -1,9 +1,29 @@
 Year,Wirtschaftsabschnitte (WZ 2008) Zusammenfassungen,Geschlecht,Units,COMMENT_OBS,Value
+2023,Insgesamt (inkl. sonstiger Abschnitte),Männer,in 1000,,538.15208
+2023,Insgesamt (inkl. sonstiger Abschnitte),Frauen,in 1000,,414.02611
+2023,"Kunst, Unterhaltung und Erholung; Erbringung von sonstigen Dienstleistungen",Männer,in 1000,,16.68019
+2023,"Kunst, Unterhaltung und Erholung; Erbringung von sonstigen Dienstleistungen",Frauen,in 1000,,23.89276
+2023,"ÖffentlicheVerwaltung, Verteidigung, Sozialversicherung; Erziehung und Unterricht; Gesundheits- und Sozialwesen",Männer,in 1000,,55.24528
+2023,"ÖffentlicheVerwaltung, Verteidigung, Sozialversicherung; Erziehung und Unterricht; Gesundheits- und Sozialwesen",Frauen,in 1000,,154.74249
+2023,"Erbringung von Finanz- und Versicherungsleistungen; Grundstücks- und Wohnungswesen; Freiberufliche, wiss. u. techn. Dienstleistungen; sonst. wirt. Dienstleistungen",Männer,in 1000,,57.06867
+2023,"Erbringung von Finanz- und Versicherungsleistungen; Grundstücks- und Wohnungswesen; Freiberufliche, wiss. u. techn. Dienstleistungen; sonst. wirt. Dienstleistungen",Frauen,in 1000,,59.32167
+2023,Gastgewerbe,Männer,in 1000,,36.29443
+2023,Gastgewerbe,Frauen,in 1000,,27.21049
+2023,Verkehr und Lagerei; Information und Kommunikation,Männer,in 1000,,71.72531
+2023,Verkehr und Lagerei; Information und Kommunikation,Frauen,in 1000,,23.35703
+2023,"Handel, Instandhaltung und Reparatur von Kfz",Männer,in 1000,,72.68812
+2023,"Handel, Instandhaltung und Reparatur von Kfz",Frauen,in 1000,,64.65433
+2023,Baugewerbe,Frauen,in 1000,Statistisch unsicher,
+2023,Baugewerbe,Männer,in 1000,,64.77292
+2023,"Energieversorgung; Wasserversorgung, Entsorg., Beseitig. v. Umweltverschmutzungen",Frauen,in 1000,Gesperrt,
+2023,"Energieversorgung; Wasserversorgung, Entsorg., Beseitig. v. Umweltverschmutzungen",Männer,in 1000,Statistisch unsicher,
+2023,Bergbau und Gewinnung von Steinen und Erden; Verarbeitendes Gewerbe,Männer,in 1000,,148.35594
+2023,Bergbau und Gewinnung von Steinen und Erden; Verarbeitendes Gewerbe,Frauen,in 1000,,43.82833
+2023,"Land- und Forstwirtschaft, Fischerei",Frauen,in 1000,Gesperrt,
+2023,"Land- und Forstwirtschaft, Fischerei",Männer,in 1000,Statistisch unsicher,
 2012,"Land- und Forstwirtschaft, Fischerei",Männer,in 1000,Gesperrt,
 2012,"Energieversorgung; Wasserversorgung, Entsorg., Beseitig. v. Umweltverschmutzungen",Männer,in 1000,Gesperrt,
 2010,"Energieversorgung; Wasserversorgung, Entsorg., Beseitig. v. Umweltverschmutzungen",Männer,in 1000,Gesperrt,
-2023,"Land- und Forstwirtschaft, Fischerei",Frauen,in 989,Gesperrt,
-2023,"Energieversorgung; Wasserversorgung, Entsorg., Beseitig. v. Umweltverschmutzungen",Frauen,in 991,Gesperrt,
 2022,"Land- und Forstwirtschaft, Fischerei",Frauen,in 1000,Gesperrt,
 2022,"Energieversorgung; Wasserversorgung, Entsorg., Beseitig. v. Umweltverschmutzungen",Frauen,in 1000,Gesperrt,
 2021,"Energieversorgung; Wasserversorgung, Entsorg., Beseitig. v. Umweltverschmutzungen",Frauen,in 1000,Gesperrt,
@@ -51,8 +71,6 @@ Year,Wirtschaftsabschnitte (WZ 2008) Zusammenfassungen,Geschlecht,Units,COMMENT_
 2011,"Energieversorgung; Wasserversorgung, Entsorg., Beseitig. v. Umweltverschmutzungen",Insgesamt,in 1000,Statistisch unsicher,
 2010,"Land- und Forstwirtschaft, Fischerei",Insgesamt,in 1000,Statistisch unsicher,
 2010,"Energieversorgung; Wasserversorgung, Entsorg., Beseitig. v. Umweltverschmutzungen",Insgesamt,in 1000,Statistisch unsicher,
-2023,"Land- und Forstwirtschaft, Fischerei",Männer,in 989,Statistisch unsicher,
-2023,"Energieversorgung; Wasserversorgung, Entsorg., Beseitig. v. Umweltverschmutzungen",Männer,in 991,Statistisch unsicher,
 2022,"Land- und Forstwirtschaft, Fischerei",Männer,in 1000,Statistisch unsicher,
 2022,"Energieversorgung; Wasserversorgung, Entsorg., Beseitig. v. Umweltverschmutzungen",Männer,in 1000,Statistisch unsicher,
 2021,"Energieversorgung; Wasserversorgung, Entsorg., Beseitig. v. Umweltverschmutzungen",Männer,in 1000,Statistisch unsicher,
@@ -76,7 +94,6 @@ Year,Wirtschaftsabschnitte (WZ 2008) Zusammenfassungen,Geschlecht,Units,COMMENT_
 2011,"Kunst, Unterhaltung und Erholung; Erbringung von sonstigen Dienstleistungen",Männer,in 1000,Statistisch unsicher,
 2010,"Land- und Forstwirtschaft, Fischerei",Männer,in 1000,Statistisch unsicher,
 2010,"Kunst, Unterhaltung und Erholung; Erbringung von sonstigen Dienstleistungen",Männer,in 1000,Statistisch unsicher,
-2023,Baugewerbe,Frauen,in 992,Statistisch unsicher,
 2022,Baugewerbe,Frauen,in 1000,Statistisch unsicher,
 2021,"Land- und Forstwirtschaft, Fischerei",Frauen,in 1000,Statistisch unsicher,
 2021,Baugewerbe,Frauen,in 1000,Statistisch unsicher,
@@ -215,15 +232,6 @@ Year,Wirtschaftsabschnitte (WZ 2008) Zusammenfassungen,Geschlecht,Units,COMMENT_
 2010,"Öff.Verwaltung, Verteidigung, Sozialversicherung; Erziehung und Unterricht; Gesundheits- und Sozialwesen",Insgesamt,in 1000,,110.24489
 2010,"Kunst, Unterhaltung und Erholung; Erbringung von sonstigen Dienstleistungen",Insgesamt,in 1000,,25.87738
 2010,Insgesamt (inkl. sonstiger Abschnitte),Insgesamt,in 1000,,553.26731
-2023,Bergbau und Gewinnung von Steinen und Erden; Verarbeitendes Gewerbe,Männer,in 990,,148.35594
-2023,Baugewerbe,Männer,in 992,,64.77292
-2023,"Handel, Instandhaltung und Reparatur von Kfz",Männer,in 993,,72.68812
-2023,Verkehr und Lagerei; Information und Kommunikation,Männer,in 994,,71.72531
-2023,Gastgewerbe,Männer,in 995,,36.29443
-2023,"Erbringung von Finanz- und Versicherungsleistungen; Grundstücks- und Wohnungswesen; Freiberufliche, wiss. u. techn. Dienstleistungen; sonst. wirt. Dienstleistungen",Männer,in 996,,57.06867
-2023,"ÖffentlicheVerwaltung, Verteidigung, Sozialversicherung; Erziehung und Unterricht; Gesundheits- und Sozialwesen",Männer,in 997,,55.24528
-2023,"Kunst, Unterhaltung und Erholung; Erbringung von sonstigen Dienstleistungen",Männer,in 998,,16.68019
-2023,Insgesamt (inkl. sonstiger Abschnitte),Männer,in 999,,538.15208
 2022,Bergbau und Gewinnung von Steinen und Erden; Verarbeitendes Gewerbe,Männer,in 1000,,153.34922
 2022,Baugewerbe,Männer,in 1000,,63.33437
 2022,"Handel, Instandhaltung und Reparatur von Kfz",Männer,in 1000,,70.13672
@@ -330,14 +338,6 @@ Year,Wirtschaftsabschnitte (WZ 2008) Zusammenfassungen,Geschlecht,Units,COMMENT_
 2010,"Erbringung von Finanz- und Versicherungsleistungen; Grundstücks- und Wohnungswesen; Freiberufliche, wiss. u. techn. Dienstleistungen; sonst. wirt. Dienstleistungen",Männer,in 1000,,30.43019
 2010,"Öff.Verwaltung, Verteidigung, Sozialversicherung; Erziehung und Unterricht; Gesundheits- und Sozialwesen",Männer,in 1000,,30.26269
 2010,Insgesamt (inkl. sonstiger Abschnitte),Männer,in 1000,,309.77223
-2023,Bergbau und Gewinnung von Steinen und Erden; Verarbeitendes Gewerbe,Frauen,in 990,,43.82833
-2023,"Handel, Instandhaltung und Reparatur von Kfz",Frauen,in 993,,64.65433
-2023,Verkehr und Lagerei; Information und Kommunikation,Frauen,in 994,,23.35703
-2023,Gastgewerbe,Frauen,in 995,,27.21049
-2023,"Erbringung von Finanz- und Versicherungsleistungen; Grundstücks- und Wohnungswesen; Freiberufliche, wiss. u. techn. Dienstleistungen; sonst. wirt. Dienstleistungen",Frauen,in 996,,59.32167
-2023,"ÖffentlicheVerwaltung, Verteidigung, Sozialversicherung; Erziehung und Unterricht; Gesundheits- und Sozialwesen",Frauen,in 997,,154.74249
-2023,"Kunst, Unterhaltung und Erholung; Erbringung von sonstigen Dienstleistungen",Frauen,in 998,,23.89276
-2023,Insgesamt (inkl. sonstiger Abschnitte),Frauen,in 999,,414.02611
 2022,Bergbau und Gewinnung von Steinen und Erden; Verarbeitendes Gewerbe,Frauen,in 1000,,47.12454
 2022,"Handel, Instandhaltung und Reparatur von Kfz",Frauen,in 1000,,63.26872
 2022,Verkehr und Lagerei; Information und Kommunikation,Frauen,in 1000,,18.28469
