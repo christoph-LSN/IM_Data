@@ -1,3 +1,4 @@
 From,To
-Migrationsstatus,Haushaltsnettoeinkommen
-Haushaltsnettoeinkommen,Haushaltsgröße
+Migrationsstatus,Hauhaltsnettoeinkommen
+Hauhaltsnettoeinkommen,Haushaltsgröße
+Haushaltsgröße,COMMENT_OBS

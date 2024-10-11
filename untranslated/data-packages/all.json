@@ -1732,7 +1732,7 @@
             }
           },
           {
-            "name": "Haushaltsnettoeinkommen",
+            "name": "Hauhaltsnettoeinkommen",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1769,11 +1769,12 @@
             }
           },
           {
-            "name": "Units",
+            "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
               "enum": [
-                "in 1000",
+                "gesperrt",
+                "Statistisch unsicher",
                 ""
               ]
             }
