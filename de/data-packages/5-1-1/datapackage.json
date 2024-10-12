@@ -20,18 +20,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Insgesamt (inkl. sonstiger Abschnitte)",
-                "Kunst, Unterhaltung und Erholung; Erbringung von sonstigen Dienstleistungen",
-                "ÖffentlicheVerwaltung, Verteidigung, Sozialversicherung; Erziehung und Unterricht; Gesundheits- und Sozialwesen",
-                "Erbringung von Finanz- und Versicherungsleistungen; Grundstücks- und Wohnungswesen; Freiberufliche, wiss. u. techn. Dienstleistungen; sonst. wirt. Dienstleistungen",
-                "Gastgewerbe",
-                "Verkehr und Lagerei; Information und Kommunikation",
-                "Handel, Instandhaltung und Reparatur von Kfz",
-                "Baugewerbe",
-                "Energieversorgung; Wasserversorgung, Entsorg., Beseitig. v. Umweltverschmutzungen",
-                "Bergbau und Gewinnung von Steinen und Erden; Verarbeitendes Gewerbe",
                 "Land- und Forstwirtschaft, Fischerei",
-                "Öff.Verwaltung, Verteidigung, Sozialversicherung; Erziehung und Unterricht; Gesundheits- und Sozialwesen",
+                "Bergbau und Gewinnung von Steinen und Erden; Verarbeitendes Gewerbe",
+                "Energieversorgung; Wasserversorgung, Entsorg., Beseitig. v. Umweltverschmutzungen",
+                "Baugewerbe",
+                "Handel, Instandhaltung und Reparatur von Kfz",
+                "Verkehr und Lagerei; Information und Kommunikation",
+                "Gastgewerbe",
+                "Erbringung von Finanz- und Versicherungsleistungen; Grundstücks- und Wohnungswesen; Freiberufliche, wiss. u. techn. Dienstleistungen; sonst. wirt. Dienstleistungen",
+                "ÖffentlicheVerwaltung, Verteidigung, Sozialversicherung; Erziehung und Unterricht; Gesundheits- und Sozialwesen",
+                "Kunst, Unterhaltung und Erholung; Erbringung von sonstigen Dienstleistungen",
+                "Insgesamt (inkl. sonstiger Abschnitte)",
                 ""
               ]
             },
@@ -42,9 +41,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Insgesamt",
                 "Männer",
                 "Frauen",
-                "Insgesamt",
                 ""
               ]
             },
@@ -56,6 +55,17 @@
             "constraints": {
               "enum": [
                 "in 1000",
+                "in 989",
+                "in 990",
+                "in 991",
+                "in 992",
+                "in 993",
+                "in 994",
+                "in 995",
+                "in 996",
+                "in 997",
+                "in 998",
+                "in 999",
                 ""
               ]
             },
