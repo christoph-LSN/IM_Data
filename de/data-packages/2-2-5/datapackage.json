@@ -12,12 +12,55 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Jahr"
           },
           {
+            "name": "Kategorie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "unbegleitete Einreise aus dem Ausland",
+                "Vorläufige Inobhutnahme nach §42 SGB VIII",
+                "Reguläre Inobhutnahmen (nach § 42 Absatz 1 Nummer 3 SGB VIII)",
+                "Vorläufige Inobhutnahme ",
+                "Reguläre Inobhutnahmen",
+                ""
+              ]
+            },
+            "title": "Kategorie"
+          },
+          {
+            "name": "Altersgrupppe",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "unter 3 Jahren",
+                "3 bis unter 6 Jahren",
+                "6 bis unter 9 Jahren",
+                "9 bis unter 12 Jahren",
+                "12 bis unter 14 Jahren",
+                "14 bis unter 16 Jahren",
+                "16 bis unter 18 Jahren",
+                ""
+              ]
+            },
+            "title": "Altersgrupppe"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Fälle",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]
@@ -26,5 +69,5 @@
   ],
   "profile": "data-package",
   "name": "2-2-5",
-  "title": "global_indicators.2-2-5-title"
+  "title": "Inobhutnahmen unbegleitet eingereister Kinder und Jugendlicher"
 }

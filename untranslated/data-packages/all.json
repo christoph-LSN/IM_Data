@@ -2387,6 +2387,68 @@
       "title": "global_indicators.4-4-1-title"
     },
     {
+      "path": "2-2-5/data.csv",
+      "name": "2-2-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Kategorie",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "unbegleitete Einreise aus dem Ausland",
+                "Vorläufige Inobhutnahme nach §42 SGB VIII",
+                "Reguläre Inobhutnahmen (nach § 42 Absatz 1 Nummer 3 SGB VIII)",
+                "Vorläufige Inobhutnahme ",
+                "Reguläre Inobhutnahmen",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Altersgrupppe",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "unter 3 Jahren",
+                "3 bis unter 6 Jahren",
+                "6 bis unter 9 Jahren",
+                "9 bis unter 12 Jahren",
+                "12 bis unter 14 Jahren",
+                "14 bis unter 16 Jahren",
+                "16 bis unter 18 Jahren",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Fälle",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "string"
+          }
+        ]
+      },
+      "title": "global_indicators.2-2-5-title"
+    },
+    {
       "path": "1-4-2/data.csv",
       "name": "1-4-2",
       "profile": "tabular-data-resource",
@@ -5522,28 +5584,6 @@
         ]
       },
       "title": "global_indicators.2-1-2-title"
-    },
-    {
-      "path": "2-2-5/data.csv",
-      "name": "2-2-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.2-2-5-title"
     }
   ]
 }
