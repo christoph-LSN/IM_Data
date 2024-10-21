@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Ohne Abschluss",
+                "Ohne Abschluss1)",
                 "Abgeschlossene Berufsausbildung",
                 "Tertiärer Abschluss",
                 ""
