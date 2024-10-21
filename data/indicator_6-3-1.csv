@@ -1,8 +1,10 @@
 ﻿Year,Migrationsstatus,Überwiegender Lebensunterhalt,Units,Value
-2022,ohne Migrationshintergrund,"Insgesamt","in 1000",5998.277859
-2022,mit Migrationshintergrund,"Insgesamt","in 1000",2011.337828
-2021,ohne Migrationshintergrund,"Insgesamt","in 1000",5991.125666
-2021,mit Migrationshintergrund,"Insgesamt","in 1000",1926.0626
+2023,ohne Migrationshintergrund,"Insgesamt","in 1000",6004
+2023,mit Migrationshintergrund,"Insgesamt","in 1000",2074
+2022,ohne Migrationshintergrund,"Insgesamt","in 1000",5998
+2022,mit Migrationshintergrund,"Insgesamt","in 1000",2012
+2021,ohne Migrationshintergrund,"Insgesamt","in 1000",5991
+2021,mit Migrationshintergrund,"Insgesamt","in 1000",1926
 2020,ohne Migrationshintergrund,"Insgesamt","in 1000",6097
 2020,mit Migrationshintergrund,"Insgesamt","in 1000",1798
 2019,ohne Migrationshintergrund,"Insgesamt","in 1000",6103.5
@@ -23,11 +25,13 @@
 2012,mit Migrationshintergrund,"Insgesamt","in 1000",1311
 2011,ohne Migrationshintergrund,"Insgesamt","in 1000",6517
 2011,mit Migrationshintergrund,"Insgesamt","in 1000",1273
-2022,ohne Migrationshintergrund,"eigene Erwerbs-/ Berufstätigkeit","in 1000",2734.954584
-2022,mit Migrationshintergrund,"eigene Erwerbs-/ Berufstätigkeit","in 1000",827.108268
-2021,mit Migrationshintergrund,"eigene Erwerbs-/ Berufstätigkeit","in 1000",827.108268
-2021,ohne Migrationshintergrund,"eigene Erwerbs-/ Berufstätigkeit","in 1000",2730.381573
-2020,mit Migrationshintergrund,"eigene Erwerbs-/ Berufstätigkeit","in 1000",779.473827
+2023,ohne Migrationshintergrund,"eigene Erwerbs-/ Berufstätigkeit","in 1000",2776
+2023,mit Migrationshintergrund,"eigene Erwerbs-/ Berufstätigkeit","in 1000",831
+2022,mit Migrationshintergrund,"eigene Erwerbs-/ Berufstätigkeit","in 1000",831
+2022,ohne Migrationshintergrund,"eigene Erwerbs-/ Berufstätigkeit","in 1000",2732
+2021,mit Migrationshintergrund,"eigene Erwerbs-/ Berufstätigkeit","in 1000",827
+2021,ohne Migrationshintergrund,"eigene Erwerbs-/ Berufstätigkeit","in 1000",2730
+2020,mit Migrationshintergrund,"eigene Erwerbs-/ Berufstätigkeit","in 1000",779
 2020,ohne Migrationshintergrund,"eigene Erwerbs-/ Berufstätigkeit","in 1000",2877
 2019,mit Migrationshintergrund,"eigene Erwerbs-/ Berufstätigkeit","in 1000",760
 2019,ohne Migrationshintergrund,"eigene Erwerbs-/ Berufstätigkeit","in 1000",2876.7
@@ -47,34 +51,38 @@
 2012,ohne Migrationshintergrund,"eigene Erwerbs-/ Berufstätigkeit","in 1000",2787
 2011,mit Migrationshintergrund,"eigene Erwerbs-/ Berufstätigkeit","in 1000",488
 2011,ohne Migrationshintergrund,"eigene Erwerbs-/ Berufstätigkeit","in 1000",2794
-2022,ohne Migrationshintergrund,"Arbeitslosengeld I / Hartz IV","in 1000",152.56237
-2022,mit Migrationshintergrund,"Arbeitslosengeld I / Hartz IV","in 1000",214.358618
-2021,ohne Migrationshintergrund,"Arbeitslosengeld I / Hartz IV","in 1000",159.316153
-2021,mit Migrationshintergrund,"Arbeitslosengeld I / Hartz IV","in 1000",181.34436
-2020,ohne Migrationshintergrund,"Arbeitslosengeld I / Hartz IV","in 1000",131
-2020,mit Migrationshintergrund,"Arbeitslosengeld I / Hartz IV","in 1000",169
-2019,ohne Migrationshintergrund,"Arbeitslosengeld I / Hartz IV","in 1000",150.4
-2019,mit Migrationshintergrund,"Arbeitslosengeld I / Hartz IV","in 1000",135.5
-2018,ohne Migrationshintergrund,"Arbeitslosengeld I / Hartz IV","in 1000",155.7
-2018,mit Migrationshintergrund,"Arbeitslosengeld I / Hartz IV","in 1000",134.4
-2017,ohne Migrationshintergrund,"Arbeitslosengeld I / Hartz IV","in 1000",164
-2017,mit Migrationshintergrund,"Arbeitslosengeld I / Hartz IV","in 1000",123
-2016,ohne Migrationshintergrund,"Arbeitslosengeld I / Hartz IV","in 1000",178
-2016,mit Migrationshintergrund,"Arbeitslosengeld I / Hartz IV","in 1000",108
-2015,ohne Migrationshintergrund,"Arbeitslosengeld I / Hartz IV","in 1000",202
-2015,mit Migrationshintergrund,"Arbeitslosengeld I / Hartz IV","in 1000",112
-2014,ohne Migrationshintergrund,"Arbeitslosengeld I / Hartz IV","in 1000",211
-2014,mit Migrationshintergrund,"Arbeitslosengeld I / Hartz IV","in 1000",99
-2013,ohne Migrationshintergrund,"Arbeitslosengeld I / Hartz IV","in 1000",211
-2013,mit Migrationshintergrund,"Arbeitslosengeld I / Hartz IV","in 1000",110
-2012,ohne Migrationshintergrund,"Arbeitslosengeld I / Hartz IV","in 1000",214
-2012,mit Migrationshintergrund,"Arbeitslosengeld I / Hartz IV","in 1000",103
-2011,ohne Migrationshintergrund,"Arbeitslosengeld I / Hartz IV","in 1000",232
-2011,mit Migrationshintergrund,"Arbeitslosengeld I / Hartz IV","in 1000",112
-2022,ohne Migrationshintergrund,"Rente und Pension","in 1000",1580.274531
-2022,mit Migrationshintergrund,"Rente und Pension","in 1000",190.778709
-2021,ohne Migrationshintergrund,"Rente und Pension","in 1000",1568.269964
-2021,mit Migrationshintergrund,"Rente und Pension","in 1000",196.972381
+2023,ohne Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld","in 1000",153
+2023,mit Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld","in 1000",269
+2022,ohne Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld","in 1000",157
+2022,mit Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld","in 1000",215
+2021,ohne Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld","in 1000",159
+2021,mit Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld","in 1000",181
+2020,ohne Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld","in 1000",131
+2020,mit Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld","in 1000",169
+2019,ohne Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld","in 1000",150.4
+2019,mit Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld","in 1000",135.5
+2018,ohne Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld","in 1000",155.7
+2018,mit Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld","in 1000",134.4
+2017,ohne Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld","in 1000",164
+2017,mit Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld","in 1000",123
+2016,ohne Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld","in 1000",178
+2016,mit Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld","in 1000",108
+2015,ohne Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld","in 1000",202
+2015,mit Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld","in 1000",112
+2014,ohne Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld","in 1000",211
+2014,mit Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld","in 1000",99
+2013,ohne Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld","in 1000",211
+2013,mit Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld","in 1000",110
+2012,ohne Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld","in 1000",214
+2012,mit Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld","in 1000",103
+2011,ohne Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld","in 1000",232
+2011,mit Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld","in 1000",112
+2023,ohne Migrationshintergrund,"Rente und Pension","in 1000",1587
+2023,mit Migrationshintergrund,"Rente und Pension","in 1000",198
+2022,ohne Migrationshintergrund,"Rente und Pension","in 1000",1583
+2022,mit Migrationshintergrund,"Rente und Pension","in 1000",191
+2021,ohne Migrationshintergrund,"Rente und Pension","in 1000",1568
+2021,mit Migrationshintergrund,"Rente und Pension","in 1000",197
 2020,ohne Migrationshintergrund,"Rente und Pension","in 1000",1636
 2020,mit Migrationshintergrund,"Rente und Pension","in 1000",176
 2019,ohne Migrationshintergrund,"Rente und Pension","in 1000",1534.6
@@ -95,10 +103,12 @@
 2012,mit Migrationshintergrund,"Rente und Pension","in 1000",131
 2011,ohne Migrationshintergrund,"Rente und Pension","in 1000",1593
 2011,mit Migrationshintergrund,"Rente und Pension","in 1000",126
-2022,ohne Migrationshintergrund,"Einkünfte von Angehörigen","in 1000",1264.667327
-2022,mit Migrationshintergrund,"Einkünfte von Angehörigen","in 1000",641.3256
-2021,ohne Migrationshintergrund,"Einkünfte von Angehörigen","in 1000",1272.621304
-2021,mit Migrationshintergrund,"Einkünfte von Angehörigen","in 1000",642.604809
+2023,ohne Migrationshintergrund,"Einkünfte von Angehörigen","in 1000",1238
+2023,mit Migrationshintergrund,"Einkünfte von Angehörigen","in 1000",619
+2022,ohne Migrationshintergrund,"Einkünfte von Angehörigen","in 1000",1260
+2022,mit Migrationshintergrund,"Einkünfte von Angehörigen","in 1000",642
+2021,ohne Migrationshintergrund,"Einkünfte von Angehörigen","in 1000",1273
+2021,mit Migrationshintergrund,"Einkünfte von Angehörigen","in 1000",643
 2020,ohne Migrationshintergrund,"Einkünfte von Angehörigen","in 1000",1205
 2020,mit Migrationshintergrund,"Einkünfte von Angehörigen","in 1000",547
 2019,ohne Migrationshintergrund,"Einkünfte von Angehörigen","in 1000",1362.4
@@ -119,10 +129,12 @@
 2012,mit Migrationshintergrund,"Einkünfte von Angehörigen","in 1000",528
 2011,ohne Migrationshintergrund,"Einkünfte von Angehörigen","in 1000",1714
 2011,mit Migrationshintergrund,"Einkünfte von Angehörigen","in 1000",504
-2022,ohne Migrationshintergrund,"Sozialhilfe","in 1000",46.905609
-2022,mit Migrationshintergrund,"Sozialhilfe","in 1000",46.220132
-2021,ohne Migrationshintergrund,"Sozialhilfe","in 1000",49.191677
-2021,mit Migrationshintergrund,"Sozialhilfe","in 1000",38.142018
+2023,ohne Migrationshintergrund,"Sozialhilfe","in 1000",55
+2023,mit Migrationshintergrund,"Sozialhilfe","in 1000",52
+2022,ohne Migrationshintergrund,"Sozialhilfe","in 1000",48
+2022,mit Migrationshintergrund,"Sozialhilfe","in 1000",46
+2021,ohne Migrationshintergrund,"Sozialhilfe","in 1000",49
+2021,mit Migrationshintergrund,"Sozialhilfe","in 1000",38
 2020,ohne Migrationshintergrund,"Sozialhilfe","in 1000",39
 2020,mit Migrationshintergrund,"Sozialhilfe","in 1000",41
 2019,ohne Migrationshintergrund,"Sozialhilfe","in 1000",39
@@ -143,10 +155,12 @@
 2012,mit Migrationshintergrund,"Sozialhilfe","in 1000",25
 2011,ohne Migrationshintergrund,"Sozialhilfe","in 1000",51
 2011,mit Migrationshintergrund,"Sozialhilfe","in 1000",28
-2022,ohne Migrationshintergrund,"eigenes Vermögen, Vermietung, Zinsen, Altenteil, BAföG, Elterngeld und weitere Einkünfte","in 1000",218.913438
-2022,mit Migrationshintergrund,"eigenes Vermögen, Vermietung, Zinsen, Altenteil, BAföG, Elterngeld und weitere Einkünfte","in 1000",91.546501
-2021,ohne Migrationshintergrund,"eigenes Vermögen, Vermietung, Zinsen, Altenteil, BAföG, Elterngeld und weitere Einkünfte","in 1000",211.344995
-2021,mit Migrationshintergrund,"eigenes Vermögen, Vermietung, Zinsen, Altenteil, BAföG, Elterngeld und weitere Einkünfte","in 1000",87.525205
+2023,ohne Migrationshintergrund,"eigenes Vermögen, Vermietung, Zinsen, Altenteil, BAföG, Elterngeld und weitere Einkünfte","in 1000",195
+2023,mit Migrationshintergrund,"eigenes Vermögen, Vermietung, Zinsen, Altenteil, BAföG, Elterngeld und weitere Einkünfte","in 1000",105
+2022,ohne Migrationshintergrund,"eigenes Vermögen, Vermietung, Zinsen, Altenteil, BAföG, Elterngeld und weitere Einkünfte","in 1000",218
+2022,mit Migrationshintergrund,"eigenes Vermögen, Vermietung, Zinsen, Altenteil, BAföG, Elterngeld und weitere Einkünfte","in 1000",91
+2021,ohne Migrationshintergrund,"eigenes Vermögen, Vermietung, Zinsen, Altenteil, BAföG, Elterngeld und weitere Einkünfte","in 1000",212
+2021,mit Migrationshintergrund,"eigenes Vermögen, Vermietung, Zinsen, Altenteil, BAföG, Elterngeld und weitere Einkünfte","in 1000",88
 2020,ohne Migrationshintergrund,"eigenes Vermögen, Vermietung, Zinsen, Altenteil, BAföG, Elterngeld und weitere Einkünfte","in 1000",209
 2020,mit Migrationshintergrund,"eigenes Vermögen, Vermietung, Zinsen, Altenteil, BAföG, Elterngeld und weitere Einkünfte","in 1000",105
 2019,ohne Migrationshintergrund,"eigenes Vermögen, Vermietung, Zinsen, Altenteil, BAföG, Elterngeld und weitere Einkünfte","in 1000",140.4
@@ -167,6 +181,8 @@
 2012,mit Migrationshintergrund,"eigenes Vermögen, Vermietung, Zinsen, Altenteil, BAföG, Elterngeld und weitere Einkünfte","in 1000",36
 2011,ohne Migrationshintergrund,"eigenes Vermögen, Vermietung, Zinsen, Altenteil, BAföG, Elterngeld und weitere Einkünfte","in 1000",133
 2011,mit Migrationshintergrund,"eigenes Vermögen, Vermietung, Zinsen, Altenteil, BAföG, Elterngeld und weitere Einkünfte","in 1000",30
+2023,ohne Migrationshintergrund,"Insgesamt",%,100
+2023,mit Migrationshintergrund,"Insgesamt",%,100
 2022,ohne Migrationshintergrund,"Insgesamt",%,100
 2022,mit Migrationshintergrund,"Insgesamt",%,100
 2021,ohne Migrationshintergrund,"Insgesamt",%,100
@@ -191,10 +207,12 @@
 2012,mit Migrationshintergrund,"Insgesamt",%,100
 2011,ohne Migrationshintergrund,"Insgesamt",%,100
 2011,mit Migrationshintergrund,"Insgesamt",%,100
-2022,ohne Migrationshintergrund,"eigene Erwerbs-/ Berufstätigkeit",%,45.5956634269016
-2022,mit Migrationshintergrund,"eigene Erwerbs-/ Berufstätigkeit",%,41.1222946481569
-2021,ohne Migrationshintergrund,"eigene Erwerbs-/ Berufstätigkeit",%,45.5737656863898
-2021,mit Migrationshintergrund,"eigene Erwerbs-/ Berufstätigkeit",%,40.4698075233899
+2023,ohne Migrationshintergrund,"eigene Erwerbs-/ Berufstätigkeit",%,46.2358427714857
+2023,mit Migrationshintergrund,"eigene Erwerbs-/ Berufstätigkeit",%,40.0675024108004
+2022,ohne Migrationshintergrund,"eigene Erwerbs-/ Berufstätigkeit",%,45.5485161720574
+2022,mit Migrationshintergrund,"eigene Erwerbs-/ Berufstätigkeit",%,41.10337972167
+2021,ohne Migrationshintergrund,"eigene Erwerbs-/ Berufstätigkeit",%,45.5683525287932
+2021,mit Migrationshintergrund,"eigene Erwerbs-/ Berufstätigkeit",%,40.4465212876428
 2020,ohne Migrationshintergrund,"eigene Erwerbs-/ Berufstätigkeit",%,47.187141216992
 2020,mit Migrationshintergrund,"eigene Erwerbs-/ Berufstätigkeit",%,42.2691879866518
 2019,ohne Migrationshintergrund,"eigene Erwerbs-/ Berufstätigkeit",%,47.131973457852
@@ -215,34 +233,38 @@
 2012,mit Migrationshintergrund,"eigene Erwerbs-/ Berufstätigkeit",%,37.2234935163997
 2011,ohne Migrationshintergrund,"eigene Erwerbs-/ Berufstätigkeit",%,42.872487340801
 2011,mit Migrationshintergrund,"eigene Erwerbs-/ Berufstätigkeit",%,37.1563236449332
-2022,ohne Migrationshintergrund,"Arbeitslosengeld I / Hartz IV",%,2.5434361926247
-2022,mit Migrationshintergrund,"Arbeitslosengeld I / Hartz IV",%,10.6575143675963
-2021,ohne Migrationshintergrund,"Arbeitslosengeld I / Hartz IV",%,2.65920232493417
-2021,mit Migrationshintergrund,"Arbeitslosengeld I / Hartz IV",%,9.41528899424141
-2020,ohne Migrationshintergrund,"Arbeitslosengeld I / Hartz IV",%,2.14859767098573
-2020,mit Migrationshintergrund,"Arbeitslosengeld I / Hartz IV",%,9.39933259176863
-2019,ohne Migrationshintergrund,"Arbeitslosengeld I / Hartz IV",%,2.46415990824937
-2019,mit Migrationshintergrund,"Arbeitslosengeld I / Hartz IV",%,7.58508732646664
-2018,ohne Migrationshintergrund,"Arbeitslosengeld I / Hartz IV",%,2.54986734794144
-2018,mit Migrationshintergrund,"Arbeitslosengeld I / Hartz IV",%,7.63072730369613
-2017,ohne Migrationshintergrund,"Arbeitslosengeld I / Hartz IV",%,2.63369198651036
-2017,mit Migrationshintergrund,"Arbeitslosengeld I / Hartz IV",%,7.2310405643739
-2016,ohne Migrationshintergrund,"Arbeitslosengeld I / Hartz IV",%,2.78168463822472
-2016,mit Migrationshintergrund,"Arbeitslosengeld I / Hartz IV",%,6.7754077791719
-2015,ohne Migrationshintergrund,"Arbeitslosengeld I / Hartz IV",%,3.12838779619018
-2015,mit Migrationshintergrund,"Arbeitslosengeld I / Hartz IV",%,7.95454545454545
-2014,ohne Migrationshintergrund,"Arbeitslosengeld I / Hartz IV",%,3.28200342199409
-2014,mit Migrationshintergrund,"Arbeitslosengeld I / Hartz IV",%,7.26872246696035
-2013,ohne Migrationshintergrund,"Arbeitslosengeld I / Hartz IV",%,3.3108426172917
-2013,mit Migrationshintergrund,"Arbeitslosengeld I / Hartz IV",%,7.8069552874379
-2012,ohne Migrationshintergrund,"Arbeitslosengeld I / Hartz IV",%,3.29738058551618
-2012,mit Migrationshintergrund,"Arbeitslosengeld I / Hartz IV",%,7.85659801678108
-2011,ohne Migrationshintergrund,"Arbeitslosengeld I / Hartz IV",%,3.55992020868498
-2011,mit Migrationshintergrund,"Arbeitslosengeld I / Hartz IV",%,8.79811468970935
-2022,ohne Migrationshintergrund,"Rente und Pension",%,26.3454706191863
-2022,mit Migrationshintergrund,"Rente und Pension",%,9.48516486609827
-2021,ohne Migrationshintergrund,"Rente und Pension",%,26.1765493069195
-2021,mit Migrationshintergrund,"Rente und Pension",%,10.2266863496545
+2023,ohne Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld",%,2.54830113257828
+2023,mit Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld",%,12.970106075217
+2022,ohne Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld",%,2.61753917972658
+2022,mit Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld",%,10.6858846918489
+2021,ohne Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld",%,2.65398097145719
+2021,mit Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld",%,9.39771547248183
+2020,ohne Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld",%,2.14859767098573
+2020,mit Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld",%,9.39933259176863
+2019,ohne Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld",%,2.46415990824937
+2019,mit Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld",%,7.58508732646664
+2018,ohne Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld",%,2.54986734794144
+2018,mit Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld",%,7.63072730369613
+2017,ohne Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld",%,2.63369198651036
+2017,mit Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld",%,7.2310405643739
+2016,ohne Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld",%,2.78168463822472
+2016,mit Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld",%,6.7754077791719
+2015,ohne Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld",%,3.12838779619018
+2015,mit Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld",%,7.95454545454545
+2014,ohne Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld",%,3.28200342199409
+2014,mit Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld",%,7.26872246696035
+2013,ohne Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld",%,3.3108426172917
+2013,mit Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld",%,7.8069552874379
+2012,ohne Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld",%,3.29738058551618
+2012,mit Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld",%,7.85659801678108
+2011,ohne Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld",%,3.55992020868498
+2011,mit Migrationshintergrund,"Arbeitslosengeld I / Bürgergeld",%,8.79811468970935
+2023,ohne Migrationshintergrund,"Rente und Pension",%,26.4323784143904
+2023,mit Migrationshintergrund,"Rente und Pension",%,9.54676952748313
+2022,ohne Migrationshintergrund,"Rente und Pension",%,26.3921307102367
+2022,mit Migrationshintergrund,"Rente und Pension",%,9.49304174950298
+2021,ohne Migrationshintergrund,"Rente und Pension",%,26.1725922216658
+2021,mit Migrationshintergrund,"Rente und Pension",%,10.2284527518172
 2020,ohne Migrationshintergrund,"Rente und Pension",%,26.8328686239134
 2020,mit Migrationshintergrund,"Rente und Pension",%,9.78865406006674
 2019,ohne Migrationshintergrund,"Rente und Pension",%,25.142950765954
@@ -263,10 +285,12 @@
 2012,mit Migrationshintergrund,"Rente und Pension",%,9.99237223493516
 2011,ohne Migrationshintergrund,"Rente und Pension",%,24.443762467393
 2011,mit Migrationshintergrund,"Rente und Pension",%,9.89787902592302
-2022,ohne Migrationshintergrund,"Einkünfte von Angehörigen",%,21.0838403409814
-2022,mit Migrationshintergrund,"Einkünfte von Angehörigen",%,31.885523708253
-2021,ohne Migrationshintergrund,"Einkünfte von Angehörigen",%,21.2417728311426
-2021,mit Migrationshintergrund,"Einkünfte von Angehörigen",%,33.363651264502
+2023,ohne Migrationshintergrund,"Einkünfte von Angehörigen",%,20.6195869420386
+2023,mit Migrationshintergrund,"Einkünfte von Angehörigen",%,29.8457087753134
+2022,ohne Migrationshintergrund,"Einkünfte von Angehörigen",%,21.0070023341114
+2022,mit Migrationshintergrund,"Einkünfte von Angehörigen",%,31.9085487077535
+2021,ohne Migrationshintergrund,"Einkünfte von Angehörigen",%,21.2485394758805
+2021,mit Migrationshintergrund,"Einkünfte von Angehörigen",%,33.3852544132918
 2020,ohne Migrationshintergrund,"Einkünfte von Angehörigen",%,19.763818271281
 2020,mit Migrationshintergrund,"Einkünfte von Angehörigen",%,30.4226918798665
 2019,ohne Migrationshintergrund,"Einkünfte von Angehörigen",%,22.321618743344
@@ -287,10 +311,12 @@
 2012,mit Migrationshintergrund,"Einkünfte von Angehörigen",%,40.2745995423341
 2011,ohne Migrationshintergrund,"Einkünfte von Angehörigen",%,26.3004449900261
 2011,mit Migrationshintergrund,"Einkünfte von Angehörigen",%,39.5915161036921
-2022,ohne Migrationshintergrund,"Sozialhilfe",%,0.781984597956252
-2022,mit Migrationshintergrund,"Sozialhilfe",%,2.29797955154851
-2021,ohne Migrationshintergrund,"Sozialhilfe",%,0.821075700000181
-2021,mit Migrationshintergrund,"Sozialhilfe",%,1.98031040112611
+2023,ohne Migrationshintergrund,"Sozialhilfe",%,0.916055962691539
+2023,mit Migrationshintergrund,"Sozialhilfe",%,2.50723240115718
+2022,ohne Migrationshintergrund,"Sozialhilfe",%,0.800266755585195
+2022,mit Migrationshintergrund,"Sozialhilfe",%,2.28628230616302
+2021,ohne Migrationshintergrund,"Sozialhilfe",%,0.817893506927057
+2021,mit Migrationshintergrund,"Sozialhilfe",%,1.9730010384216
 2020,ohne Migrationshintergrund,"Sozialhilfe",%,0.639658848614073
 2020,mit Migrationshintergrund,"Sozialhilfe",%,2.28031145717464
 2019,ohne Migrationshintergrund,"Sozialhilfe",%,0.638977635782748
@@ -311,10 +337,12 @@
 2012,mit Migrationshintergrund,"Sozialhilfe",%,1.906941266209
 2011,ohne Migrationshintergrund,"Sozialhilfe",%,0.78256866656437
 2011,mit Migrationshintergrund,"Sozialhilfe",%,2.19952867242734
-2022,ohne Migrationshintergrund,"eigenes Vermögen, Vermietung, Zinsen, Altenteil, BAföG, Elterngeld und weitere Einkünfte",%,3.64960482234973
-2022,mit Migrationshintergrund,"eigenes Vermögen, Vermietung, Zinsen, Altenteil, BAföG, Elterngeld und weitere Einkünfte",%,4.551522858347
-2021,ohne Migrationshintergrund,"eigenes Vermögen, Vermietung, Zinsen, Altenteil, BAföG, Elterngeld und weitere Einkünfte",%,3.52763415061372
-2021,mit Migrationshintergrund,"eigenes Vermögen, Vermietung, Zinsen, Altenteil, BAföG, Elterngeld und weitere Einkünfte",%,4.54425546708606
+2023,ohne Migrationshintergrund,"eigenes Vermögen, Vermietung, Zinsen, Altenteil, BAföG, Elterngeld und weitere Einkünfte",%,3.24783477681546
+2023,mit Migrationshintergrund,"eigenes Vermögen, Vermietung, Zinsen, Altenteil, BAföG, Elterngeld und weitere Einkünfte",%,5.06268081002893
+2022,ohne Migrationshintergrund,"eigenes Vermögen, Vermietung, Zinsen, Altenteil, BAföG, Elterngeld und weitere Einkünfte",%,3.63454484828276
+2022,mit Migrationshintergrund,"eigenes Vermögen, Vermietung, Zinsen, Altenteil, BAföG, Elterngeld und weitere Einkünfte",%,4.52286282306163
+2021,ohne Migrationshintergrund,"eigenes Vermögen, Vermietung, Zinsen, Altenteil, BAföG, Elterngeld und weitere Einkünfte",%,3.53864129527625
+2021,mit Migrationshintergrund,"eigenes Vermögen, Vermietung, Zinsen, Altenteil, BAföG, Elterngeld und weitere Einkünfte",%,4.56905503634476
 2020,ohne Migrationshintergrund,"eigenes Vermögen, Vermietung, Zinsen, Altenteil, BAföG, Elterngeld und weitere Einkünfte",%,3.42791536821388
 2020,mit Migrationshintergrund,"eigenes Vermögen, Vermietung, Zinsen, Altenteil, BAföG, Elterngeld und weitere Einkünfte",%,5.83982202447164
 2019,ohne Migrationshintergrund,"eigenes Vermögen, Vermietung, Zinsen, Altenteil, BAföG, Elterngeld und weitere Einkünfte",%,2.30031948881789
