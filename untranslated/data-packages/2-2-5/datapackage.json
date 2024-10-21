@@ -20,10 +20,9 @@
             "constraints": {
               "enum": [
                 "unbegleitete Einreise aus dem Ausland",
-                "Vorläufige Inobhutnahme nach §42 SGB VIII",
+                "Vorläufige Inobhutnahme nach §42 SGB VIII nach §42 SGB VIII",
                 "Reguläre Inobhutnahmen (nach § 42 Absatz 1 Nummer 3 SGB VIII)",
-                "Vorläufige Inobhutnahme ",
-                "Reguläre Inobhutnahmen",
+                "Vorläufige Inobhutnahme nach §42 SGB VIII",
                 ""
               ]
             }
