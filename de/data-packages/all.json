@@ -2591,7 +2591,7 @@
           }
         ]
       },
-      "title": "Inobhutnahmen unbegleitet eingereister Kinder und Jugendlicher"
+      "title": "Inobhutnahmen unbegleitet eingereister Kinder und Jugendlicher in Niedersachsen"
     },
     {
       "path": "1-4-2/data.csv",
@@ -5387,7 +5387,7 @@
               "enum": [
                 "Insgesamt",
                 "eigene Erwerbs-/ Berufstätigkeit",
-                "Arbeitslosengeld I / Hartz IV",
+                "Arbeitslosengeld I / Bürgergeld",
                 "Rente und Pension",
                 "Einkünfte von Angehörigen",
                 "Sozialhilfe",
