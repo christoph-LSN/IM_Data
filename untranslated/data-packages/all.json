@@ -2405,7 +2405,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "aufgrund unbegleiteter Einreise aus dem Ausland",
+                "Inobhutnahmen aufgrund unbegleiteter Einreise aus dem Ausland",
                 "Vorläufige Inobhutnahme nach §42a SGB VIII",
                 "Reguläre Inobhutnahme nach § 42 Absatz 1 Nummer 3 SGB VIII",
                 ""
@@ -2440,7 +2440,7 @@
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
