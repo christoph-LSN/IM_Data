@@ -262,10 +262,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ingesamt",
+                "insgesamt",
                 "männlich",
                 "weiblich",
-                "insgesamt",
                 ""
               ]
             }
