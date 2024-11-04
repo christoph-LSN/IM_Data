@@ -12,13 +12,88 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Herkunftsland",
             "type": "string",
             "constraints": {
               "enum": [
+                "Europa",
+                "Bulgarien",
+                "Italien",
+                "Kroatien",
+                "Polen",
+                "Rumänien",
+                "Spanien",
+                "Sonstiges Europa",
+                "Kosovo",
+                "Russische Förderation",
+                "Serbien",
+                "Türkei",
+                "Ukraine",
+                "EU-27",
+                "Afrika",
+                "Marokko",
+                "Amerika",
+                "Asien, Australien und Ozeanien",
+                "Afghanistan",
+                "Irak",
+                "Kasachstan",
+                "Syrien",
+                "Vietnam",
+                "Ohne Angaben, unbestimmt",
+                "Gebiet des ehemaligen Jugoslawien (nachrichtlich)",
+                "Gebiet der ehemaligen Sowjetunion (nachrichtlich)",
+                "Insgesamt  ",
+                "Europa ",
+                "talien ",
+                "Polen ",
+                "Rumänien ",
+                "Sonstiges Europa ",
+                "Russische Föderation ",
+                "Türkei ",
+                "EU-27  ",
+                "Afrika ",
+                "Amerika ",
+                "Ohne Angabe, unbestimmt ",
+                "Gebiet des ehemaligen Jugoslawien  (nachrichtlich)",
+                "Gebiet der ehemaligen Sowjetunion  (nachrichtlich)",
+                "Insgesamt",
+                "Bulgarien ",
+                "Frankreich ",
+                "Griechenland ",
+                "Italien ",
+                "Kroatien ",
+                "Niederlande ",
+                "Österreich ",
+                "Portugal ",
+                "Spanien ",
+                "Vereinigtes Königreich ",
+                "Bosnien und Herzegowina ",
+                "Kosovo ",
+                "Serbien ",
+                "Ukraine ",
+                "EU-Staaten",
+                "Marokko ",
+                "Ägypten, Algerien, Libyen, Tunesien ",
+                "Asien, Australien und Ozeanien ",
+                "Irak ",
+                "Iran ",
+                "Kasachstan ",
+                "Syrien ",
+                "Afghanistan ",
+                "Vietnam ",
+                "Ohne Angabe",
+                "Griechenland",
+                "Niederlande",
+                "Vereinigtes Königreich",
+                "Russische Föderation",
+                "Ägypten, Algerien, Libyen, Tunesien",
+                "Iran",
+                "Sowjetunion",
+                "Österreich",
+                "Libanon",
                 ""
               ]
             }
@@ -28,6 +103,9 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Insgesamt",
+                "männlich",
+                "weiblich",
                 ""
               ]
             }
@@ -37,6 +115,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "in 1000",
                 ""
               ]
             }
@@ -46,13 +125,15 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Aussagewert eingeschränkt, da der Zahlenwert statistisch relativ unsicher ist.",
+                "Nicht veröffentlicht, weil nicht ausreichend genau oder nicht repräsentativ.",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       }
