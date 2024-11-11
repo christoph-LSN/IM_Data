@@ -218,7 +218,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2005,Alle Länder,Übriges Ozeanien,insgesamt,Anzahl,W599,
 2005,Alle Länder,Unbekanntes Ausland,insgesamt,Anzahl,W996,
 2005,Alle Länder,Staatenlos,insgesamt,Anzahl,W997,1620.0
-2005,Alle Länder,Ungeklärt ,insgesamt,Anzahl,W998,6845.0
+2005,Alle Länder,Ungeklärt,insgesamt,Anzahl,W998,6845.0
 2005,Alle Länder,Ohne Angabe,insgesamt,Anzahl,W999,
 2005,Alle Länder,Ausländer:innen insgesamt,insgesamt,Anzahl,W9999,461486.0
 2005,Alle Länder,Europa insgesamt,männlich,Anzahl,0,181041.0
@@ -440,7 +440,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2005,Alle Länder,Übriges Ozeanien,männlich,Anzahl,W599,
 2005,Alle Länder,Unbekanntes Ausland,männlich,Anzahl,W996,
 2005,Alle Länder,Staatenlos,männlich,Anzahl,W997,926.0
-2005,Alle Länder,Ungeklärt ,männlich,Anzahl,W998,3854.0
+2005,Alle Länder,Ungeklärt,männlich,Anzahl,W998,3854.0
 2005,Alle Länder,Ohne Angabe,männlich,Anzahl,W999,
 2005,Alle Länder,Ausländer:innen insgesamt,männlich,Anzahl,W9999,237244.0
 2005,Alle Länder,Europa insgesamt,weiblich,Anzahl,0,171713.0
@@ -662,7 +662,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2005,Alle Länder,Übriges Ozeanien,weiblich,Anzahl,W599,
 2005,Alle Länder,Unbekanntes Ausland,weiblich,Anzahl,W996,
 2005,Alle Länder,Staatenlos,weiblich,Anzahl,W997,694.0
-2005,Alle Länder,Ungeklärt ,weiblich,Anzahl,W998,2991.0
+2005,Alle Länder,Ungeklärt,weiblich,Anzahl,W998,2991.0
 2005,Alle Länder,Ohne Angabe,weiblich,Anzahl,W999,
 2005,Alle Länder,Ausländer:innen insgesamt,weiblich,Anzahl,W9999,224242.0
 2006,Alle Länder,Europa insgesamt,insgesamt,Anzahl,0,352052.0
@@ -884,7 +884,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2006,Alle Länder,Übriges Ozeanien,insgesamt,Anzahl,W599,
 2006,Alle Länder,Unbekanntes Ausland,insgesamt,Anzahl,W996,
 2006,Alle Länder,Staatenlos,insgesamt,Anzahl,W997,1651.0
-2006,Alle Länder,Ungeklärt ,insgesamt,Anzahl,W998,6738.0
+2006,Alle Länder,Ungeklärt,insgesamt,Anzahl,W998,6738.0
 2006,Alle Länder,Ohne Angabe,insgesamt,Anzahl,W999,
 2006,Alle Länder,Ausländer:innen insgesamt,insgesamt,Anzahl,W9999,458757.0
 2006,Alle Länder,Europa insgesamt,männlich,Anzahl,0,181109.0
@@ -1106,7 +1106,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2006,Alle Länder,Übriges Ozeanien,männlich,Anzahl,W599,
 2006,Alle Länder,Unbekanntes Ausland,männlich,Anzahl,W996,
 2006,Alle Länder,Staatenlos,männlich,Anzahl,W997,964.0
-2006,Alle Länder,Ungeklärt ,männlich,Anzahl,W998,3789.0
+2006,Alle Länder,Ungeklärt,männlich,Anzahl,W998,3789.0
 2006,Alle Länder,Ohne Angabe,männlich,Anzahl,W999,
 2006,Alle Länder,Ausländer:innen insgesamt,männlich,Anzahl,W9999,235826.0
 2006,Alle Länder,Europa insgesamt,weiblich,Anzahl,0,170943.0
@@ -1328,7 +1328,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2006,Alle Länder,Übriges Ozeanien,weiblich,Anzahl,W599,
 2006,Alle Länder,Unbekanntes Ausland,weiblich,Anzahl,W996,
 2006,Alle Länder,Staatenlos,weiblich,Anzahl,W997,687.0
-2006,Alle Länder,Ungeklärt ,weiblich,Anzahl,W998,2949.0
+2006,Alle Länder,Ungeklärt,weiblich,Anzahl,W998,2949.0
 2006,Alle Länder,Ohne Angabe,weiblich,Anzahl,W999,
 2006,Alle Länder,Ausländer:innen insgesamt,weiblich,Anzahl,W9999,222931.0
 2007,Alle Länder,Europa insgesamt,insgesamt,Anzahl,0,352701.0
@@ -1550,7 +1550,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2007,Alle Länder,Übriges Ozeanien,insgesamt,Anzahl,W599,
 2007,Alle Länder,Unbekanntes Ausland,insgesamt,Anzahl,W996,
 2007,Alle Länder,Staatenlos,insgesamt,Anzahl,W997,1590.0
-2007,Alle Länder,Ungeklärt ,insgesamt,Anzahl,W998,6534.0
+2007,Alle Länder,Ungeklärt,insgesamt,Anzahl,W998,6534.0
 2007,Alle Länder,Ohne Angabe,insgesamt,Anzahl,W999,
 2007,Alle Länder,Ausländer:innen insgesamt,insgesamt,Anzahl,W9999,457099.0
 2007,Alle Länder,Europa insgesamt,männlich,Anzahl,0,181123.0
@@ -1772,7 +1772,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2007,Alle Länder,Übriges Ozeanien,männlich,Anzahl,W599,
 2007,Alle Länder,Unbekanntes Ausland,männlich,Anzahl,W996,
 2007,Alle Länder,Staatenlos,männlich,Anzahl,W997,930.0
-2007,Alle Länder,Ungeklärt ,männlich,Anzahl,W998,3691.0
+2007,Alle Länder,Ungeklärt,männlich,Anzahl,W998,3691.0
 2007,Alle Länder,Ohne Angabe,männlich,Anzahl,W999,
 2007,Alle Länder,Ausländer:innen insgesamt,männlich,Anzahl,W9999,234098.0
 2007,Alle Länder,Europa insgesamt,weiblich,Anzahl,0,171578.0
@@ -1994,7 +1994,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2007,Alle Länder,Übriges Ozeanien,weiblich,Anzahl,W599,
 2007,Alle Länder,Unbekanntes Ausland,weiblich,Anzahl,W996,
 2007,Alle Länder,Staatenlos,weiblich,Anzahl,W997,660.0
-2007,Alle Länder,Ungeklärt ,weiblich,Anzahl,W998,2843.0
+2007,Alle Länder,Ungeklärt,weiblich,Anzahl,W998,2843.0
 2007,Alle Länder,Ohne Angabe,weiblich,Anzahl,W999,
 2007,Alle Länder,Ausländer:innen insgesamt,weiblich,Anzahl,W9999,223001.0
 2008,Alle Länder,Europa insgesamt,insgesamt,Anzahl,0,351009.0
@@ -2216,7 +2216,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2008,Alle Länder,Übriges Ozeanien,insgesamt,Anzahl,W599,
 2008,Alle Länder,Unbekanntes Ausland,insgesamt,Anzahl,W996,
 2008,Alle Länder,Staatenlos,insgesamt,Anzahl,W997,1633.0
-2008,Alle Länder,Ungeklärt ,insgesamt,Anzahl,W998,6165.0
+2008,Alle Länder,Ungeklärt,insgesamt,Anzahl,W998,6165.0
 2008,Alle Länder,Ohne Angabe,insgesamt,Anzahl,W999,
 2008,Alle Länder,Ausländer:innen insgesamt,insgesamt,Anzahl,W9999,453141.0
 2008,Alle Länder,Europa insgesamt,männlich,Anzahl,0,180114.0
@@ -2438,7 +2438,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2008,Alle Länder,Übriges Ozeanien,männlich,Anzahl,W599,
 2008,Alle Länder,Unbekanntes Ausland,männlich,Anzahl,W996,
 2008,Alle Länder,Staatenlos,männlich,Anzahl,W997,941.0
-2008,Alle Länder,Ungeklärt ,männlich,Anzahl,W998,3479.0
+2008,Alle Länder,Ungeklärt,männlich,Anzahl,W998,3479.0
 2008,Alle Länder,Ohne Angabe,männlich,Anzahl,W999,
 2008,Alle Länder,Ausländer:innen insgesamt,männlich,Anzahl,W9999,231830.0
 2008,Alle Länder,Europa insgesamt,weiblich,Anzahl,0,170895.0
@@ -2660,7 +2660,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2008,Alle Länder,Übriges Ozeanien,weiblich,Anzahl,W599,
 2008,Alle Länder,Unbekanntes Ausland,weiblich,Anzahl,W996,
 2008,Alle Länder,Staatenlos,weiblich,Anzahl,W997,692.0
-2008,Alle Länder,Ungeklärt ,weiblich,Anzahl,W998,2686.0
+2008,Alle Länder,Ungeklärt,weiblich,Anzahl,W998,2686.0
 2008,Alle Länder,Ohne Angabe,weiblich,Anzahl,W999,
 2008,Alle Länder,Ausländer:innen insgesamt,weiblich,Anzahl,W9999,221311.0
 2009,Alle Länder,Europa insgesamt,insgesamt,Anzahl,0,350996.0
@@ -2882,7 +2882,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2009,Alle Länder,Übriges Ozeanien,insgesamt,Anzahl,W599,
 2009,Alle Länder,Unbekanntes Ausland,insgesamt,Anzahl,W996,
 2009,Alle Länder,Staatenlos,insgesamt,Anzahl,W997,1679.0
-2009,Alle Länder,Ungeklärt ,insgesamt,Anzahl,W998,5939.0
+2009,Alle Länder,Ungeklärt,insgesamt,Anzahl,W998,5939.0
 2009,Alle Länder,Ohne Angabe,insgesamt,Anzahl,W999,
 2009,Alle Länder,Ausländer:innen insgesamt,insgesamt,Anzahl,W9999,453636.0
 2009,Alle Länder,Europa insgesamt,männlich,Anzahl,0,179948.0
@@ -3104,7 +3104,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2009,Alle Länder,Übriges Ozeanien,männlich,Anzahl,W599,
 2009,Alle Länder,Unbekanntes Ausland,männlich,Anzahl,W996,
 2009,Alle Länder,Staatenlos,männlich,Anzahl,W997,986.0
-2009,Alle Länder,Ungeklärt ,männlich,Anzahl,W998,3344.0
+2009,Alle Länder,Ungeklärt,männlich,Anzahl,W998,3344.0
 2009,Alle Länder,Ohne Angabe,männlich,Anzahl,W999,
 2009,Alle Länder,Ausländer:innen insgesamt,männlich,Anzahl,W9999,231895.0
 2009,Alle Länder,Europa insgesamt,weiblich,Anzahl,0,171048.0
@@ -3326,7 +3326,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2009,Alle Länder,Übriges Ozeanien,weiblich,Anzahl,W599,
 2009,Alle Länder,Unbekanntes Ausland,weiblich,Anzahl,W996,
 2009,Alle Länder,Staatenlos,weiblich,Anzahl,W997,693.0
-2009,Alle Länder,Ungeklärt ,weiblich,Anzahl,W998,2595.0
+2009,Alle Länder,Ungeklärt,weiblich,Anzahl,W998,2595.0
 2009,Alle Länder,Ohne Angabe,weiblich,Anzahl,W999,
 2009,Alle Länder,Ausländer:innen insgesamt,weiblich,Anzahl,W9999,221741.0
 2010,Alle Länder,Europa insgesamt,insgesamt,Anzahl,0,354890.0
@@ -3548,7 +3548,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2010,Alle Länder,Übriges Ozeanien,insgesamt,Anzahl,W599,
 2010,Alle Länder,Unbekanntes Ausland,insgesamt,Anzahl,W996,
 2010,Alle Länder,Staatenlos,insgesamt,Anzahl,W997,1665.0
-2010,Alle Länder,Ungeklärt ,insgesamt,Anzahl,W998,5641.0
+2010,Alle Länder,Ungeklärt,insgesamt,Anzahl,W998,5641.0
 2010,Alle Länder,Ohne Angabe,insgesamt,Anzahl,W999,
 2010,Alle Länder,Ausländer:innen insgesamt,insgesamt,Anzahl,W9999,458153.0
 2010,Alle Länder,Europa insgesamt,männlich,Anzahl,0,182843.0
@@ -3770,7 +3770,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2010,Alle Länder,Übriges Ozeanien,männlich,Anzahl,W599,
 2010,Alle Länder,Unbekanntes Ausland,männlich,Anzahl,W996,
 2010,Alle Länder,Staatenlos,männlich,Anzahl,W997,968.0
-2010,Alle Länder,Ungeklärt ,männlich,Anzahl,W998,3184.0
+2010,Alle Länder,Ungeklärt,männlich,Anzahl,W998,3184.0
 2010,Alle Länder,Ohne Angabe,männlich,Anzahl,W999,
 2010,Alle Länder,Ausländer:innen insgesamt,männlich,Anzahl,W9999,235118.0
 2010,Alle Länder,Europa insgesamt,weiblich,Anzahl,0,172047.0
@@ -3992,7 +3992,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2010,Alle Länder,Übriges Ozeanien,weiblich,Anzahl,W599,
 2010,Alle Länder,Unbekanntes Ausland,weiblich,Anzahl,W996,
 2010,Alle Länder,Staatenlos,weiblich,Anzahl,W997,697.0
-2010,Alle Länder,Ungeklärt ,weiblich,Anzahl,W998,2457.0
+2010,Alle Länder,Ungeklärt,weiblich,Anzahl,W998,2457.0
 2010,Alle Länder,Ohne Angabe,weiblich,Anzahl,W999,
 2010,Alle Länder,Ausländer:innen insgesamt,weiblich,Anzahl,W9999,223035.0
 2011,Alle Länder,Europa insgesamt,insgesamt,Anzahl,0,365424.0
@@ -4214,7 +4214,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2011,Alle Länder,Übriges Ozeanien,insgesamt,Anzahl,W599,
 2011,Alle Länder,Unbekanntes Ausland,insgesamt,Anzahl,W996,
 2011,Alle Länder,Staatenlos,insgesamt,Anzahl,W997,1676.0
-2011,Alle Länder,Ungeklärt ,insgesamt,Anzahl,W998,5200.0
+2011,Alle Länder,Ungeklärt,insgesamt,Anzahl,W998,5200.0
 2011,Alle Länder,Ohne Angabe,insgesamt,Anzahl,W999,
 2011,Alle Länder,Ausländer:innen insgesamt,insgesamt,Anzahl,W9999,470683.0
 2011,Alle Länder,Europa insgesamt,männlich,Anzahl,0,189263.0
@@ -4436,7 +4436,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2011,Alle Länder,Übriges Ozeanien,männlich,Anzahl,W599,
 2011,Alle Länder,Unbekanntes Ausland,männlich,Anzahl,W996,
 2011,Alle Länder,Staatenlos,männlich,Anzahl,W997,966.0
-2011,Alle Länder,Ungeklärt ,männlich,Anzahl,W998,2935.0
+2011,Alle Länder,Ungeklärt,männlich,Anzahl,W998,2935.0
 2011,Alle Länder,Ohne Angabe,männlich,Anzahl,W999,
 2011,Alle Länder,Ausländer:innen insgesamt,männlich,Anzahl,W9999,242335.0
 2011,Alle Länder,Europa insgesamt,weiblich,Anzahl,0,176161.0
@@ -4658,7 +4658,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2011,Alle Länder,Übriges Ozeanien,weiblich,Anzahl,W599,
 2011,Alle Länder,Unbekanntes Ausland,weiblich,Anzahl,W996,
 2011,Alle Länder,Staatenlos,weiblich,Anzahl,W997,710.0
-2011,Alle Länder,Ungeklärt ,weiblich,Anzahl,W998,2265.0
+2011,Alle Länder,Ungeklärt,weiblich,Anzahl,W998,2265.0
 2011,Alle Länder,Ohne Angabe,weiblich,Anzahl,W999,
 2011,Alle Länder,Ausländer:innen insgesamt,weiblich,Anzahl,W9999,228348.0
 2012,Alle Länder,Europa insgesamt,insgesamt,Anzahl,0,383316.0
@@ -4880,7 +4880,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2012,Alle Länder,Übriges Ozeanien,insgesamt,Anzahl,W599,
 2012,Alle Länder,Unbekanntes Ausland,insgesamt,Anzahl,W996,
 2012,Alle Länder,Staatenlos,insgesamt,Anzahl,W997,1694.0
-2012,Alle Länder,Ungeklärt ,insgesamt,Anzahl,W998,5405.0
+2012,Alle Länder,Ungeklärt,insgesamt,Anzahl,W998,5405.0
 2012,Alle Länder,Ohne Angabe,insgesamt,Anzahl,W999,
 2012,Alle Länder,Ausländer:innen insgesamt,insgesamt,Anzahl,W9999,492072.0
 2012,Alle Länder,Europa insgesamt,männlich,Anzahl,0,200610.0
@@ -5102,7 +5102,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2012,Alle Länder,Übriges Ozeanien,männlich,Anzahl,W599,
 2012,Alle Länder,Unbekanntes Ausland,männlich,Anzahl,W996,
 2012,Alle Länder,Staatenlos,männlich,Anzahl,W997,989.0
-2012,Alle Länder,Ungeklärt ,männlich,Anzahl,W998,3153.0
+2012,Alle Länder,Ungeklärt,männlich,Anzahl,W998,3153.0
 2012,Alle Länder,Ohne Angabe,männlich,Anzahl,W999,
 2012,Alle Länder,Ausländer:innen insgesamt,männlich,Anzahl,W9999,255855.0
 2012,Alle Länder,Europa insgesamt,weiblich,Anzahl,0,182706.0
@@ -5324,7 +5324,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2012,Alle Länder,Übriges Ozeanien,weiblich,Anzahl,W599,
 2012,Alle Länder,Unbekanntes Ausland,weiblich,Anzahl,W996,
 2012,Alle Länder,Staatenlos,weiblich,Anzahl,W997,705.0
-2012,Alle Länder,Ungeklärt ,weiblich,Anzahl,W998,2252.0
+2012,Alle Länder,Ungeklärt,weiblich,Anzahl,W998,2252.0
 2012,Alle Länder,Ohne Angabe,weiblich,Anzahl,W999,
 2012,Alle Länder,Ausländer:innen insgesamt,weiblich,Anzahl,W9999,236217.0
 2013,Alle Länder,Europa insgesamt,insgesamt,Anzahl,0,408227.0
@@ -5546,7 +5546,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2013,Alle Länder,Übriges Ozeanien,insgesamt,Anzahl,W599,
 2013,Alle Länder,Unbekanntes Ausland,insgesamt,Anzahl,W996,
 2013,Alle Länder,Staatenlos,insgesamt,Anzahl,W997,1707.0
-2013,Alle Länder,Ungeklärt ,insgesamt,Anzahl,W998,5148.0
+2013,Alle Länder,Ungeklärt,insgesamt,Anzahl,W998,5148.0
 2013,Alle Länder,Ohne Angabe,insgesamt,Anzahl,W999,
 2013,Alle Länder,Ausländer:innen insgesamt,insgesamt,Anzahl,W9999,525689.0
 2013,Alle Länder,Europa insgesamt,männlich,Anzahl,0,215221.0
@@ -5768,7 +5768,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2013,Alle Länder,Übriges Ozeanien,männlich,Anzahl,W599,
 2013,Alle Länder,Unbekanntes Ausland,männlich,Anzahl,W996,
 2013,Alle Länder,Staatenlos,männlich,Anzahl,W997,1018.0
-2013,Alle Länder,Ungeklärt ,männlich,Anzahl,W998,3000.0
+2013,Alle Länder,Ungeklärt,männlich,Anzahl,W998,3000.0
 2013,Alle Länder,Ohne Angabe,männlich,Anzahl,W999,
 2013,Alle Länder,Ausländer:innen insgesamt,männlich,Anzahl,W9999,275914.0
 2013,Alle Länder,Europa insgesamt,weiblich,Anzahl,0,193006.0
@@ -5990,7 +5990,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2013,Alle Länder,Übriges Ozeanien,weiblich,Anzahl,W599,
 2013,Alle Länder,Unbekanntes Ausland,weiblich,Anzahl,W996,
 2013,Alle Länder,Staatenlos,weiblich,Anzahl,W997,689.0
-2013,Alle Länder,Ungeklärt ,weiblich,Anzahl,W998,2148.0
+2013,Alle Länder,Ungeklärt,weiblich,Anzahl,W998,2148.0
 2013,Alle Länder,Ohne Angabe,weiblich,Anzahl,W999,
 2013,Alle Länder,Ausländer:innen insgesamt,weiblich,Anzahl,W9999,249775.0
 2014,Alle Länder,Europa insgesamt,insgesamt,Anzahl,0,438412.0
@@ -6212,7 +6212,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2014,Alle Länder,Übriges Ozeanien,insgesamt,Anzahl,W599,
 2014,Alle Länder,Unbekanntes Ausland,insgesamt,Anzahl,W996,
 2014,Alle Länder,Staatenlos,insgesamt,Anzahl,W997,1814.0
-2014,Alle Länder,Ungeklärt ,insgesamt,Anzahl,W998,5754.0
+2014,Alle Länder,Ungeklärt,insgesamt,Anzahl,W998,5754.0
 2014,Alle Länder,Ohne Angabe,insgesamt,Anzahl,W999,
 2014,Alle Länder,Ausländer:innen insgesamt,insgesamt,Anzahl,W9999,570988.0
 2014,Alle Länder,Europa insgesamt,männlich,Anzahl,0,232437.0
@@ -6434,7 +6434,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2014,Alle Länder,Übriges Ozeanien,männlich,Anzahl,W599,
 2014,Alle Länder,Unbekanntes Ausland,männlich,Anzahl,W996,
 2014,Alle Länder,Staatenlos,männlich,Anzahl,W997,1053.0
-2014,Alle Länder,Ungeklärt ,männlich,Anzahl,W998,3370.0
+2014,Alle Länder,Ungeklärt,männlich,Anzahl,W998,3370.0
 2014,Alle Länder,Ohne Angabe,männlich,Anzahl,W999,
 2014,Alle Länder,Ausländer:innen insgesamt,männlich,Anzahl,W9999,302438.0
 2014,Alle Länder,Europa insgesamt,weiblich,Anzahl,0,205975.0
@@ -6656,7 +6656,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2014,Alle Länder,Übriges Ozeanien,weiblich,Anzahl,W599,
 2014,Alle Länder,Unbekanntes Ausland,weiblich,Anzahl,W996,
 2014,Alle Länder,Staatenlos,weiblich,Anzahl,W997,761.0
-2014,Alle Länder,Ungeklärt ,weiblich,Anzahl,W998,2384.0
+2014,Alle Länder,Ungeklärt,weiblich,Anzahl,W998,2384.0
 2014,Alle Länder,Ohne Angabe,weiblich,Anzahl,W999,
 2014,Alle Länder,Ausländer:innen insgesamt,weiblich,Anzahl,W9999,268550.0
 2015,Alle Länder,Europa insgesamt,insgesamt,Anzahl,0,478323.0
@@ -6878,7 +6878,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2015,Alle Länder,Übriges Ozeanien,insgesamt,Anzahl,W599,
 2015,Alle Länder,Unbekanntes Ausland,insgesamt,Anzahl,W996,
 2015,Alle Länder,Staatenlos,insgesamt,Anzahl,W997,2082.0
-2015,Alle Länder,Ungeklärt ,insgesamt,Anzahl,W998,7720.0
+2015,Alle Länder,Ungeklärt,insgesamt,Anzahl,W998,7720.0
 2015,Alle Länder,Ohne Angabe,insgesamt,Anzahl,W999,
 2015,Alle Länder,Ausländer:innen insgesamt,insgesamt,Anzahl,W9999,663817.0
 2015,Alle Länder,Europa insgesamt,männlich,Anzahl,0,255328.0
@@ -7100,7 +7100,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2015,Alle Länder,Übriges Ozeanien,männlich,Anzahl,W599,
 2015,Alle Länder,Unbekanntes Ausland,männlich,Anzahl,W996,
 2015,Alle Länder,Staatenlos,männlich,Anzahl,W997,1215.0
-2015,Alle Länder,Ungeklärt ,männlich,Anzahl,W998,4681.0
+2015,Alle Länder,Ungeklärt,männlich,Anzahl,W998,4681.0
 2015,Alle Länder,Ohne Angabe,männlich,Anzahl,W999,
 2015,Alle Länder,Ausländer:innen insgesamt,männlich,Anzahl,W9999,361111.0
 2015,Alle Länder,Europa insgesamt,weiblich,Anzahl,0,222995.0
@@ -7322,7 +7322,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2015,Alle Länder,Übriges Ozeanien,weiblich,Anzahl,W599,
 2015,Alle Länder,Unbekanntes Ausland,weiblich,Anzahl,W996,
 2015,Alle Länder,Staatenlos,weiblich,Anzahl,W997,867.0
-2015,Alle Länder,Ungeklärt ,weiblich,Anzahl,W998,3039.0
+2015,Alle Länder,Ungeklärt,weiblich,Anzahl,W998,3039.0
 2015,Alle Länder,Ohne Angabe,weiblich,Anzahl,W999,
 2015,Alle Länder,Ausländer:innen insgesamt,weiblich,Anzahl,W9999,302706.0
 2016,Alle Länder,Europa insgesamt,insgesamt,Anzahl,0,494310.0
@@ -7544,7 +7544,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2016,Alle Länder,Übriges Ozeanien,insgesamt,Anzahl,W599,
 2016,Alle Länder,Unbekanntes Ausland,insgesamt,Anzahl,W996,
 2016,Alle Länder,Staatenlos,insgesamt,Anzahl,W997,2630.0
-2016,Alle Länder,Ungeklärt ,insgesamt,Anzahl,W998,8410.0
+2016,Alle Länder,Ungeklärt,insgesamt,Anzahl,W998,8410.0
 2016,Alle Länder,Ohne Angabe,insgesamt,Anzahl,W999,
 2016,Alle Länder,Ausländer:innen insgesamt,insgesamt,Anzahl,W9999,745185.0
 2016,Alle Länder,Europa insgesamt,männlich,Anzahl,0,264705.0
@@ -7766,7 +7766,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2016,Alle Länder,Übriges Ozeanien,männlich,Anzahl,W599,
 2016,Alle Länder,Unbekanntes Ausland,männlich,Anzahl,W996,
 2016,Alle Länder,Staatenlos,männlich,Anzahl,W997,1550.0
-2016,Alle Länder,Ungeklärt ,männlich,Anzahl,W998,5160.0
+2016,Alle Länder,Ungeklärt,männlich,Anzahl,W998,5160.0
 2016,Alle Länder,Ohne Angabe,männlich,Anzahl,W999,
 2016,Alle Länder,Ausländer:innen insgesamt,männlich,Anzahl,W9999,410010.0
 2016,Alle Länder,Europa insgesamt,weiblich,Anzahl,0,229605.0
@@ -7988,7 +7988,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2016,Alle Länder,Übriges Ozeanien,weiblich,Anzahl,W599,
 2016,Alle Länder,Unbekanntes Ausland,weiblich,Anzahl,W996,
 2016,Alle Länder,Staatenlos,weiblich,Anzahl,W997,1080.0
-2016,Alle Länder,Ungeklärt ,weiblich,Anzahl,W998,3250.0
+2016,Alle Länder,Ungeklärt,weiblich,Anzahl,W998,3250.0
 2016,Alle Länder,Ohne Angabe,weiblich,Anzahl,W999,
 2016,Alle Länder,Ausländer:innen insgesamt,weiblich,Anzahl,W9999,335175.0
 2017,Alle Länder,Europa insgesamt,insgesamt,Anzahl,0,509435.0
@@ -8210,7 +8210,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2017,Alle Länder,Übriges Ozeanien,insgesamt,Anzahl,W599,
 2017,Alle Länder,Unbekanntes Ausland,insgesamt,Anzahl,W996,
 2017,Alle Länder,Staatenlos,insgesamt,Anzahl,W997,3030.0
-2017,Alle Länder,Ungeklärt ,insgesamt,Anzahl,W998,8335.0
+2017,Alle Länder,Ungeklärt,insgesamt,Anzahl,W998,8335.0
 2017,Alle Länder,Ohne Angabe,insgesamt,Anzahl,W999,
 2017,Alle Länder,Ausländer:innen insgesamt,insgesamt,Anzahl,W9999,776860.0
 2017,Alle Länder,Europa insgesamt,männlich,Anzahl,0,273785.0
@@ -8432,7 +8432,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2017,Alle Länder,Übriges Ozeanien,männlich,Anzahl,W599,
 2017,Alle Länder,Unbekanntes Ausland,männlich,Anzahl,W996,
 2017,Alle Länder,Staatenlos,männlich,Anzahl,W997,1720.0
-2017,Alle Länder,Ungeklärt ,männlich,Anzahl,W998,5040.0
+2017,Alle Länder,Ungeklärt,männlich,Anzahl,W998,5040.0
 2017,Alle Länder,Ohne Angabe,männlich,Anzahl,W999,
 2017,Alle Länder,Ausländer:innen insgesamt,männlich,Anzahl,W9999,425770.0
 2017,Alle Länder,Europa insgesamt,weiblich,Anzahl,0,235650.0
@@ -8654,7 +8654,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2017,Alle Länder,Übriges Ozeanien,weiblich,Anzahl,W599,
 2017,Alle Länder,Unbekanntes Ausland,weiblich,Anzahl,W996,
 2017,Alle Länder,Staatenlos,weiblich,Anzahl,W997,1310.0
-2017,Alle Länder,Ungeklärt ,weiblich,Anzahl,W998,3295.0
+2017,Alle Länder,Ungeklärt,weiblich,Anzahl,W998,3295.0
 2017,Alle Länder,Ohne Angabe,weiblich,Anzahl,W999,
 2017,Alle Länder,Ausländer:innen insgesamt,weiblich,Anzahl,W9999,351090.0
 2018,Alle Länder,Europa insgesamt,insgesamt,Anzahl,0,528900.0
@@ -8876,7 +8876,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2018,Alle Länder,Übriges Ozeanien,insgesamt,Anzahl,W599,
 2018,Alle Länder,Unbekanntes Ausland,insgesamt,Anzahl,W996,
 2018,Alle Länder,Staatenlos,insgesamt,Anzahl,W997,3290.0
-2018,Alle Länder,Ungeklärt ,insgesamt,Anzahl,W998,8560.0
+2018,Alle Länder,Ungeklärt,insgesamt,Anzahl,W998,8560.0
 2018,Alle Länder,Ohne Angabe,insgesamt,Anzahl,W999,
 2018,Alle Länder,Ausländer:innen insgesamt,insgesamt,Anzahl,W9999,813080.0
 2018,Alle Länder,Europa insgesamt,männlich,Anzahl,0,284965.0
@@ -9098,7 +9098,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2018,Alle Länder,Übriges Ozeanien,männlich,Anzahl,W599,
 2018,Alle Länder,Unbekanntes Ausland,männlich,Anzahl,W996,
 2018,Alle Länder,Staatenlos,männlich,Anzahl,W997,1870.0
-2018,Alle Länder,Ungeklärt ,männlich,Anzahl,W998,5100.0
+2018,Alle Länder,Ungeklärt,männlich,Anzahl,W998,5100.0
 2018,Alle Länder,Ohne Angabe,männlich,Anzahl,W999,
 2018,Alle Länder,Ausländer:innen insgesamt,männlich,Anzahl,W9999,444740.0
 2018,Alle Länder,Europa insgesamt,weiblich,Anzahl,0,243935.0
@@ -9320,7 +9320,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2018,Alle Länder,Übriges Ozeanien,weiblich,Anzahl,W599,
 2018,Alle Länder,Unbekanntes Ausland,weiblich,Anzahl,W996,
 2018,Alle Länder,Staatenlos,weiblich,Anzahl,W997,1420.0
-2018,Alle Länder,Ungeklärt ,weiblich,Anzahl,W998,3460.0
+2018,Alle Länder,Ungeklärt,weiblich,Anzahl,W998,3460.0
 2018,Alle Länder,Ohne Angabe,weiblich,Anzahl,W999,
 2018,Alle Länder,Ausländer:innen insgesamt,weiblich,Anzahl,W9999,368340.0
 2019,Alle Länder,Europa insgesamt,insgesamt,Anzahl,0,542155.0
@@ -9542,7 +9542,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2019,Alle Länder,Übriges Ozeanien,insgesamt,Anzahl,W599,
 2019,Alle Länder,Unbekanntes Ausland,insgesamt,Anzahl,W996,
 2019,Alle Länder,Staatenlos,insgesamt,Anzahl,W997,3540.0
-2019,Alle Länder,Ungeklärt ,insgesamt,Anzahl,W998,8730.0
+2019,Alle Länder,Ungeklärt,insgesamt,Anzahl,W998,8730.0
 2019,Alle Länder,Ohne Angabe,insgesamt,Anzahl,W999,
 2019,Alle Länder,Ausländer:innen insgesamt,insgesamt,Anzahl,W9999,841165.0
 2019,Alle Länder,Europa insgesamt,männlich,Anzahl,0,290985.0
@@ -9764,7 +9764,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2019,Alle Länder,Übriges Ozeanien,männlich,Anzahl,W599,
 2019,Alle Länder,Unbekanntes Ausland,männlich,Anzahl,W996,
 2019,Alle Länder,Staatenlos,männlich,Anzahl,W997,2005.0
-2019,Alle Länder,Ungeklärt ,männlich,Anzahl,W998,5110.0
+2019,Alle Länder,Ungeklärt,männlich,Anzahl,W998,5110.0
 2019,Alle Länder,Ohne Angabe,männlich,Anzahl,W999,
 2019,Alle Länder,Ausländer:innen insgesamt,männlich,Anzahl,W9999,457315.0
 2019,Alle Länder,Europa insgesamt,weiblich,Anzahl,0,251170.0
@@ -9986,7 +9986,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2019,Alle Länder,Übriges Ozeanien,weiblich,Anzahl,W599,
 2019,Alle Länder,Unbekanntes Ausland,weiblich,Anzahl,W996,
 2019,Alle Länder,Staatenlos,weiblich,Anzahl,W997,1530.0
-2019,Alle Länder,Ungeklärt ,weiblich,Anzahl,W998,3620.0
+2019,Alle Länder,Ungeklärt,weiblich,Anzahl,W998,3620.0
 2019,Alle Länder,Ohne Angabe,weiblich,Anzahl,W999,
 2019,Alle Länder,Ausländer:innen insgesamt,weiblich,Anzahl,W9999,383850.0
 2020,Alle Länder,Europa insgesamt,insgesamt,Anzahl,0,552325.0
@@ -10208,7 +10208,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2020,Alle Länder,Übriges Ozeanien,insgesamt,Anzahl,W599,
 2020,Alle Länder,Unbekanntes Ausland,insgesamt,Anzahl,W996,
 2020,Alle Länder,Staatenlos,insgesamt,Anzahl,W997,3465.0
-2020,Alle Länder,Ungeklärt ,insgesamt,Anzahl,W998,9090.0
+2020,Alle Länder,Ungeklärt,insgesamt,Anzahl,W998,9090.0
 2020,Alle Länder,Ohne Angabe,insgesamt,Anzahl,W999,
 2020,Alle Länder,Ausländer:innen insgesamt,insgesamt,Anzahl,W9999,857895.0
 2020,Alle Länder,Europa insgesamt,männlich,Anzahl,0,294975.0
@@ -10430,7 +10430,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2020,Alle Länder,Übriges Ozeanien,männlich,Anzahl,W599,
 2020,Alle Länder,Unbekanntes Ausland,männlich,Anzahl,W996,
 2020,Alle Länder,Staatenlos,männlich,Anzahl,W997,1960.0
-2020,Alle Länder,Ungeklärt ,männlich,Anzahl,W998,5290.0
+2020,Alle Länder,Ungeklärt,männlich,Anzahl,W998,5290.0
 2020,Alle Länder,Ohne Angabe,männlich,Anzahl,W999,
 2020,Alle Länder,Ausländer:innen insgesamt,männlich,Anzahl,W9999,464080.0
 2020,Alle Länder,Europa insgesamt,weiblich,Anzahl,0,257355.0
@@ -10652,7 +10652,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2020,Alle Länder,Übriges Ozeanien,weiblich,Anzahl,W599,
 2020,Alle Länder,Unbekanntes Ausland,weiblich,Anzahl,W996,
 2020,Alle Länder,Staatenlos,weiblich,Anzahl,W997,1505.0
-2020,Alle Länder,Ungeklärt ,weiblich,Anzahl,W998,3795.0
+2020,Alle Länder,Ungeklärt,weiblich,Anzahl,W998,3795.0
 2020,Alle Länder,Ohne Angabe,weiblich,Anzahl,W999,
 2020,Alle Länder,Ausländer:innen insgesamt,weiblich,Anzahl,W9999,393815.0
 2021,Alle Länder,Europa insgesamt,insgesamt,Anzahl,0,572025.0
@@ -10874,7 +10874,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2021,Alle Länder,Übriges Ozeanien,insgesamt,Anzahl,W599,
 2021,Alle Länder,Unbekanntes Ausland,insgesamt,Anzahl,W996,
 2021,Alle Länder,Staatenlos,insgesamt,Anzahl,W997,3590.0
-2021,Alle Länder,Ungeklärt ,insgesamt,Anzahl,W998,9480.0
+2021,Alle Länder,Ungeklärt,insgesamt,Anzahl,W998,9480.0
 2021,Alle Länder,Ohne Angabe,insgesamt,Anzahl,W999,
 2021,Alle Länder,Ausländer:innen insgesamt,insgesamt,Anzahl,W9999,895490.0
 2021,Alle Länder,Europa insgesamt,männlich,Anzahl,0,304970.0
@@ -11096,7 +11096,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2021,Alle Länder,Übriges Ozeanien,männlich,Anzahl,W599,
 2021,Alle Länder,Unbekanntes Ausland,männlich,Anzahl,W996,
 2021,Alle Länder,Staatenlos,männlich,Anzahl,W997,2055.0
-2021,Alle Länder,Ungeklärt ,männlich,Anzahl,W998,5505.0
+2021,Alle Länder,Ungeklärt,männlich,Anzahl,W998,5505.0
 2021,Alle Länder,Ohne Angabe,männlich,Anzahl,W999,
 2021,Alle Länder,Ausländer:innen insgesamt,männlich,Anzahl,W9999,482995.0
 2021,Alle Länder,Europa insgesamt,weiblich,Anzahl,0,267055.0
@@ -11318,7 +11318,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2021,Alle Länder,Übriges Ozeanien,weiblich,Anzahl,W599,
 2021,Alle Länder,Unbekanntes Ausland,weiblich,Anzahl,W996,
 2021,Alle Länder,Staatenlos,weiblich,Anzahl,W997,1535.0
-2021,Alle Länder,Ungeklärt ,weiblich,Anzahl,W998,3975.0
+2021,Alle Länder,Ungeklärt,weiblich,Anzahl,W998,3975.0
 2021,Alle Länder,Ohne Angabe,weiblich,Anzahl,W999,
 2021,Alle Länder,Ausländer:innen insgesamt,weiblich,Anzahl,W9999,412500.0
 2022,Alle Länder,Europa insgesamt,insgesamt,Anzahl,0,695750.0
@@ -11540,7 +11540,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2022,Alle Länder,Übriges Ozeanien,insgesamt,Anzahl,W599,
 2022,Alle Länder,Unbekanntes Ausland,insgesamt,Anzahl,W996,
 2022,Alle Länder,Staatenlos,insgesamt,Anzahl,W997,3755.0
-2022,Alle Länder,Ungeklärt ,insgesamt,Anzahl,W998,9650.0
+2022,Alle Länder,Ungeklärt,insgesamt,Anzahl,W998,9650.0
 2022,Alle Länder,Ohne Angabe,insgesamt,Anzahl,W999,
 2022,Alle Länder,Ausländer:innen insgesamt,insgesamt,Anzahl,W9999,1045140.0
 2022,Alle Länder,Europa insgesamt,männlich,Anzahl,0,353500.0
@@ -11762,7 +11762,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2022,Alle Länder,Übriges Ozeanien,männlich,Anzahl,W599,
 2022,Alle Länder,Unbekanntes Ausland,männlich,Anzahl,W996,
 2022,Alle Länder,Staatenlos,männlich,Anzahl,W997,2180.0
-2022,Alle Länder,Ungeklärt ,männlich,Anzahl,W998,5605.0
+2022,Alle Länder,Ungeklärt,männlich,Anzahl,W998,5605.0
 2022,Alle Länder,Ohne Angabe,männlich,Anzahl,W999,
 2022,Alle Länder,Ausländer:innen insgesamt,männlich,Anzahl,W9999,546590.0
 2022,Alle Länder,Europa insgesamt,weiblich,Anzahl,0,342250.0
@@ -11984,7 +11984,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2022,Alle Länder,Übriges Ozeanien,weiblich,Anzahl,W599,
 2022,Alle Länder,Unbekanntes Ausland,weiblich,Anzahl,W996,
 2022,Alle Länder,Staatenlos,weiblich,Anzahl,W997,1580.0
-2022,Alle Länder,Ungeklärt ,weiblich,Anzahl,W998,4050.0
+2022,Alle Länder,Ungeklärt,weiblich,Anzahl,W998,4050.0
 2022,Alle Länder,Ohne Angabe,weiblich,Anzahl,W999,
 2022,Alle Länder,Ausländer:innen insgesamt,weiblich,Anzahl,W9999,498555.0
 2023,Alle Länder,Europa insgesamt,insgesamt,Anzahl,0,714795.0
@@ -12206,7 +12206,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2023,Alle Länder,Übriges Ozeanien,insgesamt,Anzahl,W599,
 2023,Alle Länder,Unbekanntes Ausland,insgesamt,Anzahl,W996,
 2023,Alle Länder,Staatenlos,insgesamt,Anzahl,W997,3870.0
-2023,Alle Länder,Ungeklärt ,insgesamt,Anzahl,W998,9385.0
+2023,Alle Länder,Ungeklärt,insgesamt,Anzahl,W998,9385.0
 2023,Alle Länder,Ohne Angabe,insgesamt,Anzahl,W999,
 2023,Alle Länder,Ausländer:innen insgesamt,insgesamt,Anzahl,W9999,1085315.0
 2023,Alle Länder,Europa insgesamt,männlich,Anzahl,0,366620.0
@@ -12428,7 +12428,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2023,Alle Länder,Übriges Ozeanien,männlich,Anzahl,W599,
 2023,Alle Länder,Unbekanntes Ausland,männlich,Anzahl,W996,
 2023,Alle Länder,Staatenlos,männlich,Anzahl,W997,2250.0
-2023,Alle Länder,Ungeklärt ,männlich,Anzahl,W998,5450.0
+2023,Alle Länder,Ungeklärt,männlich,Anzahl,W998,5450.0
 2023,Alle Länder,Ohne Angabe,männlich,Anzahl,W999,
 2023,Alle Länder,Ausländer:innen insgesamt,männlich,Anzahl,W9999,572005.0
 2023,Alle Länder,Europa insgesamt,weiblich,Anzahl,0,348175.0
@@ -12650,7 +12650,7 @@ Year,Series,Land der Staatsangehörigkeit,Geschlecht,Units,GeoCode,Value
 2023,Alle Länder,Übriges Ozeanien,weiblich,Anzahl,W599,
 2023,Alle Länder,Unbekanntes Ausland,weiblich,Anzahl,W996,
 2023,Alle Länder,Staatenlos,weiblich,Anzahl,W997,1615.0
-2023,Alle Länder,Ungeklärt ,weiblich,Anzahl,W998,3930.0
+2023,Alle Länder,Ungeklärt,weiblich,Anzahl,W998,3930.0
 2023,Alle Länder,Ohne Angabe,weiblich,Anzahl,W999,
 2023,Alle Länder,Ausländer:innen insgesamt,weiblich,Anzahl,W9999,513310.0
 2005,Top 8 Asylherkunftsländer,,insgesamt,Anzahl,,24668.0
