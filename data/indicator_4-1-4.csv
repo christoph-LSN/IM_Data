@@ -360,7 +360,7 @@
 2013,"Osnabrück",Deutsche,Anzahl,K03459,105
 2013,"Vechta",Deutsche,Anzahl,K03460,55
 2013,"Wesermarsch",Deutsche,Anzahl,K03461,38
-2013,"Wittmund",Deutsche,Anzahl,K03462,
+2013,"Wittmund",Deutsche,Anzahl,K03462,-
 2013,"Statistische Region Weser-Ems",Deutsche,Anzahl,K034,1314
 2013,"Niedersachsen",Deutsche,Anzahl,K030,3723
 2013,"Braunschweig, Stadt",Ausländerinnen und Ausländer,Anzahl,K03101,25
@@ -412,7 +412,7 @@
 2013,"Osnabrück",Ausländerinnen und Ausländer,Anzahl,K03459,38
 2013,"Vechta",Ausländerinnen und Ausländer,Anzahl,K03460,26
 2013,"Wesermarsch",Ausländerinnen und Ausländer,Anzahl,K03461,6
-2013,"Wittmund",Ausländerinnen und Ausländer,Anzahl,K03462,
+2013,"Wittmund",Ausländerinnen und Ausländer,Anzahl,K03462,-
 2013,"Statistische Region Weser-Ems",Ausländerinnen und Ausländer,Anzahl,K034,230
 2013,"Niedersachsen",Ausländerinnen und Ausländer,Anzahl,K030,649
 2014,"Braunschweig, Stadt",Deutsche,Anzahl,K03101,115
@@ -660,7 +660,7 @@
 2016,"Emden, Stadt",Deutsche,Anzahl,K03402,34
 2016,"Oldenburg (Oldb), Stadt",Deutsche,Anzahl,K03403,87
 2016,"Osnabrück, Stadt",Deutsche,Anzahl,K03404,88
-2016,"Wilhelmshaven, Stadt",Deutsche,Anzahl,K03405,
+2016,"Wilhelmshaven, Stadt",Deutsche,Anzahl,K03405,-
 2016,"Ammerland",Deutsche,Anzahl,K03451,46
 2016,"Aurich",Deutsche,Anzahl,K03452,162
 2016,"Cloppenburg",Deutsche,Anzahl,K03453,72
@@ -712,7 +712,7 @@
 2016,"Emden, Stadt",Ausländerinnen und Ausländer,Anzahl,K03402,9
 2016,"Oldenburg (Oldb), Stadt",Ausländerinnen und Ausländer,Anzahl,K03403,13
 2016,"Osnabrück, Stadt",Ausländerinnen und Ausländer,Anzahl,K03404,23
-2016,"Wilhelmshaven, Stadt",Ausländerinnen und Ausländer,Anzahl,K03405,
+2016,"Wilhelmshaven, Stadt",Ausländerinnen und Ausländer,Anzahl,K03405,-
 2016,"Ammerland",Ausländerinnen und Ausländer,Anzahl,K03451,4
 2016,"Aurich",Ausländerinnen und Ausländer,Anzahl,K03452,10
 2016,"Cloppenburg",Ausländerinnen und Ausländer,Anzahl,K03453,14
@@ -1712,7 +1712,7 @@
 2013,"Osnabrück",Deutsche,Prozent,K03459,3.17604355716878
 2013,"Vechta",Deutsche,Prozent,K03460,3.25829383886256
 2013,"Wesermarsch",Deutsche,Prozent,K03461,3.8
-2013,"Wittmund",Deutsche,Prozent,K03462,
+2013,"Wittmund",Deutsche,Prozent,K03462,-
 2013,"Statistische Region Weser-Ems",Deutsche,Prozent,K034,4.71745530264953
 2013,"Niedersachsen",Deutsche,Prozent,K030,4.55580029368576
 2013,"Braunschweig, Stadt",Ausländerinnen und Ausländer,Prozent,K03101,16.5562913907285
@@ -1764,7 +1764,7 @@
 2013,"Osnabrück",Ausländerinnen und Ausländer,Prozent,K03459,23.75
 2013,"Vechta",Ausländerinnen und Ausländer,Prozent,K03460,27.3684210526316
 2013,"Wesermarsch",Ausländerinnen und Ausländer,Prozent,K03461,8.82352941176471
-2013,"Wittmund",Ausländerinnen und Ausländer,Prozent,K03462,
+2013,"Wittmund",Ausländerinnen und Ausländer,Prozent,K03462,-
 2013,"Statistische Region Weser-Ems",Ausländerinnen und Ausländer,Prozent,K034,18.4590690208668
 2013,"Niedersachsen",Ausländerinnen und Ausländer,Prozent,K030,13.6919831223629
 2014,"Braunschweig, Stadt",Deutsche,Prozent,K03101,4.88530161427358
@@ -2012,7 +2012,7 @@
 2016,"Emden, Stadt",Deutsche,Prozent,K03402,6.33147113594041
 2016,"Oldenburg (Oldb), Stadt",Deutsche,Prozent,K03403,4.79074889867841
 2016,"Osnabrück, Stadt",Deutsche,Prozent,K03404,4.29268292682927
-2016,"Wilhelmshaven, Stadt",Deutsche,Prozent,K03405,
+2016,"Wilhelmshaven, Stadt",Deutsche,Prozent,K03405,-
 2016,"Ammerland",Deutsche,Prozent,K03451,3.56865787432118
 2016,"Aurich",Deutsche,Prozent,K03452,7.61994355597366
 2016,"Cloppenburg",Deutsche,Prozent,K03453,3.62903225806452
@@ -2064,7 +2064,7 @@
 2016,"Emden, Stadt",Ausländerinnen und Ausländer,Prozent,K03402,69.2307692307692
 2016,"Oldenburg (Oldb), Stadt",Ausländerinnen und Ausländer,Prozent,K03403,12.621359223301
 2016,"Osnabrück, Stadt",Ausländerinnen und Ausländer,Prozent,K03404,13.5294117647059
-2016,"Wilhelmshaven, Stadt",Ausländerinnen und Ausländer,Prozent,K03405,
+2016,"Wilhelmshaven, Stadt",Ausländerinnen und Ausländer,Prozent,K03405,-
 2016,"Ammerland",Ausländerinnen und Ausländer,Prozent,K03451,15.3846153846154
 2016,"Aurich",Ausländerinnen und Ausländer,Prozent,K03452,24.390243902439
 2016,"Cloppenburg",Ausländerinnen und Ausländer,Prozent,K03453,18.6666666666667
@@ -2505,7 +2505,7 @@
 2021,"Peine",Deutsche,Prozent,K03157,3.08848080133556
 2021,"Wolfenbüttel",Deutsche,Prozent,K03158,4.71204188481675
 2021,"Göttingen",Deutsche,Prozent,K03159,3.73721479150275
-2021,"Statistische Region Braunschweig",Deutsche,Prozent,K031,17
+2021,"Statistische Region Braunschweig",Deutsche,Prozent,K031,4.52792348040728
 2021,"Region Hannover",Deutsche,Prozent,K03241,4.92572322126661
 2021,"dav. Hannover, Lhst.",Deutsche,Prozent,K03241001,6.29900679560899
 2021,"dav. Hannover, Umland",Deutsche,Prozent,K03241999,3.90091671542813
@@ -2557,7 +2557,7 @@
 2021,"Peine",Ausländerinnen und Ausländer,Prozent,K03157,10
 2021,"Wolfenbüttel",Ausländerinnen und Ausländer,Prozent,K03158,18.3098591549296
 2021,"Göttingen",Ausländerinnen und Ausländer,Prozent,K03159,16.8674698795181
-2021,"Statistische Region Braunschweig",Ausländerinnen und Ausländer,Prozent,K031,18
+2021,"Statistische Region Braunschweig",Ausländerinnen und Ausländer,Prozent,K031,15.7031924072476
 2021,"Region Hannover",Ausländerinnen und Ausländer,Prozent,K03241,15.6200941915228
 2021,"dav. Hannover, Lhst.",Ausländerinnen und Ausländer,Prozent,K03241001,15.9539473684211
 2021,"dav. Hannover, Umland",Ausländerinnen und Ausländer,Prozent,K03241999,15.3153153153153
@@ -2609,7 +2609,7 @@
 2022,"Peine",Deutsche,Prozent,K03157,3.52839931153184
 2022,"Wolfenbüttel",Deutsche,Prozent,K03158,4.44444444444444
 2022,"Göttingen",Deutsche,Prozent,K03159,5.24590163934426
-2022,"Statistische Region Braunschweig",Deutsche,Prozent,K031,19
+2022,"Statistische Region Braunschweig",Deutsche,Prozent,K031,4.66095089633671
 2022,"Region Hannover",Deutsche,Prozent,K03241,4.66168816474315
 2022,"dav. Hannover, Lhst.",Deutsche,Prozent,K03241001,5.7462090981644
 2022,"dav. Hannover, Umland",Deutsche,Prozent,K03241999,3.85902736759205
@@ -2661,7 +2661,7 @@
 2022,"Peine",Ausländerinnen und Ausländer,Prozent,K03157,12.6373626373626
 2022,"Wolfenbüttel",Ausländerinnen und Ausländer,Prozent,K03158,14.4927536231884
 2022,"Göttingen",Ausländerinnen und Ausländer,Prozent,K03159,17.0940170940171
-2022,"Statistische Region Braunschweig",Ausländerinnen und Ausländer,Prozent,K031,20
+2022,"Statistische Region Braunschweig",Ausländerinnen und Ausländer,Prozent,K031,15.2251608291637
 2022,"Region Hannover",Ausländerinnen und Ausländer,Prozent,K03241,15.7388316151203
 2022,"dav. Hannover, Lhst.",Ausländerinnen und Ausländer,Prozent,K03241001,16.2516382699869
 2022,"dav. Hannover, Umland",Ausländerinnen und Ausländer,Prozent,K03241999,15.1734104046243
@@ -2817,7 +2817,7 @@
 2023,"Peine",Deutsche,Prozent,K03157,5.4561717352415
 2023,"Wolfenbüttel",Deutsche,Prozent,K03158,6
 2023,"Göttingen",Deutsche,Prozent,K03159,5.3014108593416
-2023,"Statistische Region Braunschweig",Deutsche,Prozent,K031,21
+2023,"Statistische Region Braunschweig",Deutsche,Prozent,K031,5.67150283187214
 2023,"Region Hannover",Deutsche,Prozent,K03241,5.14322916666667
 2023,"dav. Hannover, Lhst.",Deutsche,Prozent,K03241001,5.67761046655147
 2023,"dav. Hannover, Umland",Deutsche,Prozent,K03241999,4.72410454985479
@@ -2869,7 +2869,7 @@
 2023,"Peine",Ausländerinnen und Ausländer,Prozent,K03157,16.1490683229814
 2023,"Wolfenbüttel",Ausländerinnen und Ausländer,Prozent,K03158,22.8915662650602
 2023,"Göttingen",Ausländerinnen und Ausländer,Prozent,K03159,18.5185185185185
-2023,"Statistische Region Braunschweig",Ausländerinnen und Ausländer,Prozent,K031,22
+2023,"Statistische Region Braunschweig",Ausländerinnen und Ausländer,Prozent,K031,20.1040988939493
 2023,"Region Hannover",Ausländerinnen und Ausländer,Prozent,K03241,20
 2023,"dav. Hannover, Lhst.",Ausländerinnen und Ausländer,Prozent,K03241001,19.5795006570302
 2023,"dav. Hannover, Umland",Ausländerinnen und Ausländer,Prozent,K03241999,20.4081632653061
