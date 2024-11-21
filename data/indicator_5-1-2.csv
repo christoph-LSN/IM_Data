@@ -1,7 +1,10 @@
 ﻿Year,Kategorie,Migrationsstatus,Geschlecht,Units,Value
-2022,Erwerbsquote,Insgesamt,Männer,%,82.2919356553704
-2022,Erwerbsquote,Insgesamt,Frauen,%,74.3085012201788
-2022,Erwerbsquote,Insgesamt,Insgesamt,%,78.3273341757004
+2023,Erwerbsquote,Insgesamt,Männer,%,82.4953163143652
+2023,Erwerbsquote,Insgesamt,Frauen,%,74.2676677666502
+2023,Erwerbsquote,Insgesamt,Insgesamt,%,78.4073597294374
+2022,Erwerbsquote,Insgesamt,Männer,%,82.3090978851757
+2022,Erwerbsquote,Insgesamt,Frauen,%,74.1822142175426
+2022,Erwerbsquote,Insgesamt,Insgesamt,%,78.2721737384937
 2021,Erwerbsquote,Insgesamt,Männer,%,81.1164745473649
 2021,Erwerbsquote,Insgesamt,Frauen,%,72.5892087838729
 2021,Erwerbsquote,Insgesamt,Insgesamt,%,76.8940573242777
@@ -35,9 +38,12 @@
 2005,Erwerbsquote,Insgesamt,Männer,%,79.62
 2005,Erwerbsquote,Insgesamt,Frauen,%,64.12
 2005,Erwerbsquote,Insgesamt,Insgesamt,%,71.94
-2022,Erwerbsquote,ohne Migrationshintergrund,Männer,%,83.7801448922629
-2022,Erwerbsquote,ohne Migrationshintergrund,Frauen,%,78.0881864941098
-2022,Erwerbsquote,ohne Migrationshintergrund,Insgesamt,%,80.9362312907898
+2023,Erwerbsquote,ohne Migrationshintergrund,Männer,%,84.2463938998863
+2023,Erwerbsquote,ohne Migrationshintergrund,Frauen,%,78.75720585016
+2023,Erwerbsquote,ohne Migrationshintergrund,Insgesamt,%,81.5070061241798
+2022,Erwerbsquote,ohne Migrationshintergrund,Männer,%,83.7474822267213
+2022,Erwerbsquote,ohne Migrationshintergrund,Frauen,%,77.9541930900738
+2022,Erwerbsquote,ohne Migrationshintergrund,Insgesamt,%,80.8528939323281
 2021,Erwerbsquote,ohne Migrationshintergrund,Männer,%,82.6853105105785
 2021,Erwerbsquote,ohne Migrationshintergrund,Frauen,%,76.2275831522131
 2021,Erwerbsquote,ohne Migrationshintergrund,Insgesamt,%,79.4576686548031
@@ -71,9 +77,12 @@
 2005,Erwerbsquote,ohne Migrationshintergrund,Männer,%,80.35
 2005,Erwerbsquote,ohne Migrationshintergrund,Frauen,%,65.97
 2005,Erwerbsquote,ohne Migrationshintergrund,Insgesamt,%,73.21
-2022,Erwerbsquote,mit Migrationshintergrund,Männer,%,78.2005639258352
-2022,Erwerbsquote,mit Migrationshintergrund,Frauen,%,63.4176950428781
-2022,Erwerbsquote,mit Migrationshintergrund,Insgesamt,%,70.9863221441279
+2023,Erwerbsquote,mit Migrationshintergrund,Männer,%,77.7931207632438
+2023,Erwerbsquote,mit Migrationshintergrund,Frauen,%,61.7918790546803
+2023,Erwerbsquote,mit Migrationshintergrund,Insgesamt,%,69.9424511545293
+2022,Erwerbsquote,mit Migrationshintergrund,Männer,%,78.3483097988875
+2022,Erwerbsquote,mit Migrationshintergrund,Frauen,%,63.3241286663184
+2022,Erwerbsquote,mit Migrationshintergrund,Insgesamt,%,71.0068925276248
 2021,Erwerbsquote,mit Migrationshintergrund,Männer,%,76.6581352833638
 2021,Erwerbsquote,mit Migrationshintergrund,Frauen,%,61.4628614628615
 2021,Erwerbsquote,mit Migrationshintergrund,Insgesamt,%,69.3418368507663
@@ -107,9 +116,12 @@
 2005,Erwerbsquote,mit Migrationshintergrund,Männer,%,75.94
 2005,Erwerbsquote,mit Migrationshintergrund,Frauen,%,54.55
 2005,Erwerbsquote,mit Migrationshintergrund,Insgesamt,%,65.45
-2022,Erwerbsquote,mit Migrationshintergrund und eigener Migrationserfahrung,Männer,%,81.3206470028544
-2022,Erwerbsquote,mit Migrationshintergrund und eigener Migrationserfahrung,Frauen,%,62.8747934209491
-2022,Erwerbsquote,mit Migrationshintergrund und eigener Migrationserfahrung,Insgesamt,%,72.2513494167037
+2023,Erwerbsquote,mit Migrationshintergrund und eigener Migrationserfahrung,Männer,%,79.6239056802828
+2023,Erwerbsquote,mit Migrationshintergrund und eigener Migrationserfahrung,Frauen,%,60.6760083317553
+2023,Erwerbsquote,mit Migrationshintergrund und eigener Migrationserfahrung,Insgesamt,%,70.2571158472093
+2022,Erwerbsquote,mit Migrationshintergrund und eigener Migrationserfahrung,Männer,%,81.4775997103493
+2022,Erwerbsquote,mit Migrationshintergrund und eigener Migrationserfahrung,Frauen,%,62.9109272759427
+2022,Erwerbsquote,mit Migrationshintergrund und eigener Migrationserfahrung,Insgesamt,%,72.3373997504039
 2021,Erwerbsquote,mit Migrationshintergrund und eigener Migrationserfahrung,Männer,%,79.4360535689412
 2021,Erwerbsquote,mit Migrationshintergrund und eigener Migrationserfahrung,Frauen,%,61.262975412782
 2021,Erwerbsquote,mit Migrationshintergrund und eigener Migrationserfahrung,Insgesamt,%,70.6244746499375
@@ -143,9 +155,12 @@
 2005,Erwerbsquote,mit Migrationshintergrund und eigener Migrationserfahrung,Männer,%,78.64
 2005,Erwerbsquote,mit Migrationshintergrund und eigener Migrationserfahrung,Frauen,%,55.86
 2005,Erwerbsquote,mit Migrationshintergrund und eigener Migrationserfahrung,Insgesamt,%,67.29
-2022,Erwerbsquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Männer,%,68.9186895263962
-2022,Erwerbsquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Frauen,%,65.1350512263272
-2022,Erwerbsquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Insgesamt,%,67.114690034934
+2023,Erwerbsquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Männer,%,72.1936031701104
+2023,Erwerbsquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Frauen,%,65.4253354671919
+2023,Erwerbsquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Insgesamt,%,68.9510778213559
+2022,Erwerbsquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Männer,%,69.0353314807463
+2022,Erwerbsquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Frauen,%,64.6299056135122
+2022,Erwerbsquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Insgesamt,%,66.9304641650365
 2021,Erwerbsquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Männer,%,68.9548614943163
 2021,Erwerbsquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Frauen,%,62.0468161324192
 2021,Erwerbsquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Insgesamt,%,65.6952175560283
@@ -179,9 +194,12 @@
 2005,Erwerbsquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Männer,%,60.46
 2005,Erwerbsquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Frauen,%,44.98
 2005,Erwerbsquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Insgesamt,%,53.67
-2022,Erwerbstätigenquote,Insgesamt,Männer,%,79.6249601263804
-2022,Erwerbstätigenquote,Insgesamt,Frauen,%,72.4555231372066
-2022,Erwerbstätigenquote,Insgesamt,Insgesamt,%,78.4995670284003
+2023,Erwerbstätigenquote,Insgesamt,Männer,%,79.9542039626819
+2023,Erwerbstätigenquote,Insgesamt,Frauen,%,72.3655011440595
+2023,Erwerbstätigenquote,Insgesamt,Insgesamt,%,78.8135464115416
+2022,Erwerbstätigenquote,Insgesamt,Männer,%,79.6008919718733
+2022,Erwerbstätigenquote,Insgesamt,Frauen,%,72.2830270004002
+2022,Erwerbstätigenquote,Insgesamt,Insgesamt,%,78.4054216809888
 2021,Erwerbstätigenquote,Insgesamt,Männer,%,77.9739154269008
 2021,Erwerbstätigenquote,Insgesamt,Frauen,%,70.4471888656881
 2021,Erwerbstätigenquote,Insgesamt,Insgesamt,%,76.3255806802502
@@ -215,9 +233,12 @@
 2005,Erwerbstätigenquote,Insgesamt,Männer,%,70.92
 2005,Erwerbstätigenquote,Insgesamt,Frauen,%,57.68
 2005,Erwerbstätigenquote,Insgesamt,Insgesamt,%,64.36
-2022,Erwerbstätigenquote,ohne Migrationshintergrund,Männer,%,81.6751161261257
-2022,Erwerbstätigenquote,ohne Migrationshintergrund,Frauen,%,76.4948357391737
-2022,Erwerbstätigenquote,ohne Migrationshintergrund,Insgesamt,%,79.0866200485526
+2023,Erwerbstätigenquote,ohne Migrationshintergrund,Männer,%,82.2928407810057
+2023,Erwerbstätigenquote,ohne Migrationshintergrund,Frauen,%,77.2326408072637
+2023,Erwerbstätigenquote,ohne Migrationshintergrund,Insgesamt,%,79.7673123852041
+2022,Erwerbstätigenquote,ohne Migrationshintergrund,Männer,%,81.5944948142932
+2022,Erwerbstätigenquote,ohne Migrationshintergrund,Frauen,%,76.3394917372299
+2022,Erwerbstätigenquote,ohne Migrationshintergrund,Insgesamt,%,78.9688584900772
 2021,Erwerbstätigenquote,ohne Migrationshintergrund,Männer,%,80.2134744144636
 2021,Erwerbstätigenquote,ohne Migrationshintergrund,Frauen,%,74.4074535696995
 2021,Erwerbstätigenquote,ohne Migrationshintergrund,Insgesamt,%,77.3118199299304
@@ -251,9 +272,12 @@
 2005,Erwerbstätigenquote,ohne Migrationshintergrund,Männer,%,72.95
 2005,Erwerbstätigenquote,ohne Migrationshintergrund,Frauen,%,60.09
 2005,Erwerbstätigenquote,ohne Migrationshintergrund,Insgesamt,%,66.56
-2022,Erwerbstätigenquote,mit Migrationshintergrund,Männer,%,73.9896328785851
-2022,Erwerbstätigenquote,mit Migrationshintergrund,Frauen,%,60.816625332417
-2022,Erwerbstätigenquote,mit Migrationshintergrund,Insgesamt,%,67.5602963049375
+2023,Erwerbstätigenquote,mit Migrationshintergrund,Männer,%,73.6742265740508
+2023,Erwerbstätigenquote,mit Migrationshintergrund,Frauen,%,58.8420991658943
+2023,Erwerbstätigenquote,mit Migrationshintergrund,Insgesamt,%,66.3971580817051
+2022,Erwerbstätigenquote,mit Migrationshintergrund,Männer,%,74.1078305519897
+2022,Erwerbstätigenquote,mit Migrationshintergrund,Frauen,%,60.6060153742817
+2022,Erwerbstätigenquote,mit Migrationshintergrund,Insgesamt,%,67.5103023230371
 2021,Erwerbstätigenquote,mit Migrationshintergrund,Männer,%,71.6095063985375
 2021,Erwerbstätigenquote,mit Migrationshintergrund,Frauen,%,58.3349083349083
 2021,Erwerbstätigenquote,mit Migrationshintergrund,Insgesamt,%,65.2179847877028
@@ -287,9 +311,12 @@
 2005,Erwerbstätigenquote,mit Migrationshintergrund,Männer,%,60.69
 2005,Erwerbstätigenquote,mit Migrationshintergrund,Frauen,%,45.23
 2005,Erwerbstätigenquote,mit Migrationshintergrund,Insgesamt,%,53.11
-2022,Erwerbstätigenquote,mit Migrationshintergrund und eigener Migrationserfahrung,Männer,%,76.6489058039962
-2022,Erwerbstätigenquote,mit Migrationshintergrund und eigener Migrationserfahrung,Frauen,%,60.1302431730542
-2022,Erwerbstätigenquote,mit Migrationshintergrund und eigener Migrationserfahrung,Insgesamt,%,68.5271527791213
+2023,Erwerbstätigenquote,mit Migrationshintergrund und eigener Migrationserfahrung,Männer,%,75.5205537766755
+2023,Erwerbstätigenquote,mit Migrationshintergrund und eigener Migrationserfahrung,Frauen,%,57.5023669759515
+2023,Erwerbstätigenquote,mit Migrationshintergrund und eigener Migrationserfahrung,Insgesamt,%,66.6142513501624
+2022,Erwerbstätigenquote,mit Migrationshintergrund und eigener Migrationserfahrung,Männer,%,76.7917373325457
+2022,Erwerbstätigenquote,mit Migrationshintergrund und eigener Migrationserfahrung,Frauen,%,60.0145408814918
+2022,Erwerbstätigenquote,mit Migrationshintergrund und eigener Migrationserfahrung,Insgesamt,%,68.5325103756518
 2021,Erwerbstätigenquote,mit Migrationshintergrund und eigener Migrationserfahrung,Männer,%,74.1507969673452
 2021,Erwerbstätigenquote,mit Migrationshintergrund und eigener Migrationserfahrung,Frauen,%,57.9670620071457
 2021,Erwerbstätigenquote,mit Migrationshintergrund und eigener Migrationserfahrung,Insgesamt,%,66.3037907210366
@@ -323,9 +350,12 @@
 2005,Erwerbstätigenquote,mit Migrationshintergrund und eigener Migrationserfahrung,Männer,%,63.07
 2005,Erwerbstätigenquote,mit Migrationshintergrund und eigener Migrationserfahrung,Frauen,%,46.05
 2005,Erwerbstätigenquote,mit Migrationshintergrund und eigener Migrationserfahrung,Insgesamt,%,54.59
-2022,Erwerbstätigenquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Männer,%,66.0725400328184
-2022,Erwerbstätigenquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Frauen,%,62.9866501086619
-2022,Erwerbstätigenquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Insgesamt,%,64.6012197288176
+2023,Erwerbstätigenquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Männer,%,68.0328332861591
+2023,Erwerbstätigenquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Frauen,%,63.1970946694571
+2023,Erwerbstätigenquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Insgesamt,%,65.71613930583
+2022,Erwerbstätigenquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Männer,%,66.126013724267
+2022,Erwerbstätigenquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Frauen,%,62.4751614505713
+2022,Erwerbstätigenquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Insgesamt,%,64.381409686407
 2021,Erwerbstätigenquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Männer,%,64.5568921752566
 2021,Erwerbstätigenquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Frauen,%,59.4095485146069
 2021,Erwerbstätigenquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Insgesamt,%,62.1309707690963
@@ -359,9 +389,12 @@
 2005,Erwerbstätigenquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Männer,%,47.04
 2005,Erwerbstätigenquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Frauen,%,39.26
 2005,Erwerbstätigenquote,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Insgesamt,%,43.63
-2022,Erwerbslosenanteil,Insgesamt,Männer,%,2.66697552899002
-2022,Erwerbslosenanteil,Insgesamt,Frauen,%,1.85297808297216
-2022,Erwerbslosenanteil,Insgesamt,Insgesamt,%,2.26273060755569
+2023,Erwerbslosenanteil,Insgesamt,Männer,%,2.54111235168329
+2023,Erwerbslosenanteil,Insgesamt,Frauen,%,1.90216662259067
+2023,Erwerbslosenanteil,Insgesamt,Insgesamt,%,2.22364832955013
+2022,Erwerbslosenanteil,Insgesamt,Männer,%,2.70858579910879
+2022,Erwerbslosenanteil,Insgesamt,Frauen,%,1.89918721714233
+2022,Erwerbslosenanteil,Insgesamt,Insgesamt,%,2.30650850244224
 2021,Erwerbslosenanteil,Insgesamt,Männer,%,3.14255912046413
 2021,Erwerbslosenanteil,Insgesamt,Frauen,%,2.1424080355826
 2021,Erwerbslosenanteil,Insgesamt,Insgesamt,%,2.64731770503019
@@ -395,9 +428,12 @@
 2005,Erwerbslosenanteil,Insgesamt,Männer,%,8.69
 2005,Erwerbslosenanteil,Insgesamt,Frauen,%,6.44
 2005,Erwerbslosenanteil,Insgesamt,Insgesamt,%,7.58
-2022,Erwerbslosenanteil,ohne Migrationshintergrund,Männer,%,2.10502876613726
-2022,Erwerbslosenanteil,ohne Migrationshintergrund,Frauen,%,1.59335075493612
-2022,Erwerbslosenanteil,ohne Migrationshintergrund,Insgesamt,%,1.84935215675708
+2023,Erwerbslosenanteil,ohne Migrationshintergrund,Männer,%,1.95355311888054
+2023,Erwerbslosenanteil,ohne Migrationshintergrund,Frauen,%,1.52508626171439
+2023,Erwerbslosenanteil,ohne Migrationshintergrund,Insgesamt,%,1.7396937389757
+2022,Erwerbslosenanteil,ohne Migrationshintergrund,Männer,%,2.15246961843761
+2022,Erwerbslosenanteil,ohne Migrationshintergrund,Frauen,%,1.61470135284388
+2022,Erwerbslosenanteil,ohne Migrationshintergrund,Insgesamt,%,1.88403544225089
 2021,Erwerbslosenanteil,ohne Migrationshintergrund,Männer,%,2.47183609611495
 2021,Erwerbslosenanteil,ohne Migrationshintergrund,Frauen,%,1.81961454867585
 2021,Erwerbslosenanteil,ohne Migrationshintergrund,Insgesamt,%,2.14584872487264
@@ -431,9 +467,12 @@
 2005,Erwerbslosenanteil,ohne Migrationshintergrund,Männer,%,7.39
 2005,Erwerbslosenanteil,ohne Migrationshintergrund,Frauen,%,5.89
 2005,Erwerbslosenanteil,ohne Migrationshintergrund,Insgesamt,%,6.65
-2022,Erwerbslosenanteil,mit Migrationshintergrund,Männer,%,4.21093104725015
-2022,Erwerbslosenanteil,mit Migrationshintergrund,Frauen,%,2.60106971046105
-2022,Erwerbslosenanteil,mit Migrationshintergrund,Insgesamt,%,3.42602583919041
+2023,Erwerbslosenanteil,mit Migrationshintergrund,Männer,%,4.11749937233241
+2023,Erwerbslosenanteil,mit Migrationshintergrund,Frauen,%,2.94977988878591
+2023,Erwerbslosenanteil,mit Migrationshintergrund,Insgesamt,%,3.54529307282416
+2022,Erwerbslosenanteil,mit Migrationshintergrund,Männer,%,4.23905291684496
+2022,Erwerbslosenanteil,mit Migrationshintergrund,Frauen,%,2.71811329203672
+2022,Erwerbslosenanteil,mit Migrationshintergrund,Insgesamt,%,3.49659020458772
 2021,Erwerbslosenanteil,mit Migrationshintergrund,Männer,%,5.04862888482633
 2021,Erwerbslosenanteil,mit Migrationshintergrund,Frauen,%,3.12795312795313
 2021,Erwerbslosenanteil,mit Migrationshintergrund,Insgesamt,%,4.12461040290596
@@ -467,9 +506,12 @@
 2005,Erwerbslosenanteil,mit Migrationshintergrund,Männer,%,15.25
 2005,Erwerbslosenanteil,mit Migrationshintergrund,Frauen,%,9.32
 2005,Erwerbslosenanteil,mit Migrationshintergrund,Insgesamt,%,12.34
-2022,Erwerbslosenanteil,mit Migrationshintergrund und eigener Migrationserfahrung,Männer,%,4.67174119885823
-2022,Erwerbslosenanteil,mit Migrationshintergrund und eigener Migrationserfahrung,Frauen,%,2.74455024789486
-2022,Erwerbslosenanteil,mit Migrationshintergrund und eigener Migrationserfahrung,Insgesamt,%,3.72419663758246
+2023,Erwerbslosenanteil,mit Migrationshintergrund und eigener Migrationserfahrung,Männer,%,4.10335190360732
+2023,Erwerbslosenanteil,mit Migrationshintergrund und eigener Migrationserfahrung,Frauen,%,3.17174777504261
+2023,Erwerbslosenanteil,mit Migrationshintergrund und eigener Migrationserfahrung,Insgesamt,%,3.64286449704696
+2022,Erwerbslosenanteil,mit Migrationshintergrund und eigener Migrationserfahrung,Männer,%,4.68586237780361
+2022,Erwerbslosenanteil,mit Migrationshintergrund und eigener Migrationserfahrung,Frauen,%,2.89638639445089
+2022,Erwerbslosenanteil,mit Migrationshintergrund und eigener Migrationserfahrung,Insgesamt,%,3.80585680149371
 2021,Erwerbslosenanteil,mit Migrationshintergrund und eigener Migrationserfahrung,Männer,%,5.28525660159592
 2021,Erwerbslosenanteil,mit Migrationshintergrund und eigener Migrationserfahrung,Frauen,%,3.29591340563624
 2021,Erwerbslosenanteil,mit Migrationshintergrund und eigener Migrationserfahrung,Insgesamt,%,4.32068392890092
@@ -503,9 +545,12 @@
 2005,Erwerbslosenanteil,mit Migrationshintergrund und eigener Migrationserfahrung,Männer,%,15.57
 2005,Erwerbslosenanteil,mit Migrationshintergrund und eigener Migrationserfahrung,Frauen,%,9.81
 2005,Erwerbslosenanteil,mit Migrationshintergrund und eigener Migrationserfahrung,Insgesamt,%,12.7
-2022,Erwerbslosenanteil,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Männer,%,2.84049114468398
-2022,Erwerbslosenanteil,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Frauen,%,2.14840111766532
-2022,Erwerbslosenanteil,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Insgesamt,%,2.51050979927764
+2023,Erwerbslosenanteil,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Männer,%,4.16076988395132
+2023,Erwerbslosenanteil,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Frauen,%,2.22824079773483
+2023,Erwerbslosenanteil,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Insgesamt,%,3.23493851552594
+2022,Erwerbslosenanteil,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Männer,%,2.90931775647933
+2022,Erwerbslosenanteil,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Frauen,%,2.15474416294088
+2022,Erwerbslosenanteil,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Insgesamt,%,2.54905447862944
 2021,Erwerbslosenanteil,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Männer,%,4.39796931905971
 2021,Erwerbslosenanteil,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Frauen,%,2.63726761781236
 2021,Erwerbslosenanteil,mit Migrationshintergrund und ohne eigene Migrationserfahrung,Insgesamt,%,3.56716113426398
