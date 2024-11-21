@@ -3432,9 +3432,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "% ",
-                "Prozentpunkte",
                 "%",
+                "Prozentpunkte",
                 ""
               ]
             }
@@ -4400,7 +4399,7 @@
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
