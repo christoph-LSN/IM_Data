@@ -1,58 +1,112 @@
 Year,Altersgruppe,Geschlecht,Migrationsstatus,Units,Value
+2024,15 – 25,Insgesamt,mit und ohne Migrationshintergrund,%,3.77
+2024,25 – 35,Insgesamt,mit und ohne Migrationshintergrund,%,3.24
+2024,35 – 45,Insgesamt,mit und ohne Migrationshintergrund,%,2.57
+2024,45 – 55,Insgesamt,mit und ohne Migrationshintergrund,%,1.84
+2024,55 – 65,Insgesamt,mit und ohne Migrationshintergrund,%,1.49
+2024,15 – 65,Insgesamt,mit und ohne Migrationshintergrund,%,2.49
+2024,15 – 25,Männer,mit und ohne Migrationshintergrund,%,3.84
+2024,25 – 35,Männer,mit und ohne Migrationshintergrund,%,3.68
+2024,35 – 45,Männer,mit und ohne Migrationshintergrund,%,2.59
+2024,45 – 55,Männer,mit und ohne Migrationshintergrund,%,1.85
+2024,55 – 65,Männer,mit und ohne Migrationshintergrund,%,1.65
+2024,15 – 65,Männer,mit und ohne Migrationshintergrund,%,2.65
+2024,15 – 25,Frauen,mit und ohne Migrationshintergrund,%,3.69
+2024,25 – 35,Frauen,mit und ohne Migrationshintergrund,%,2.76
+2024,35 – 45,Frauen,mit und ohne Migrationshintergrund,%,2.54
+2024,45 – 55,Frauen,mit und ohne Migrationshintergrund,%,1.82
+2024,55 – 65,Frauen,mit und ohne Migrationshintergrund,%,1.34
+2024,15 – 65,Frauen,mit und ohne Migrationshintergrund,%,2.33
+2024,15 – 25,Insgesamt,ohne Migrationshintergrund,%,3.26
+2024,25 – 35,Insgesamt,ohne Migrationshintergrund,%,2.26
+2024,35 – 45,Insgesamt,ohne Migrationshintergrund,%,1.58
+2024,45 – 55,Insgesamt,ohne Migrationshintergrund,%,1.27
+2024,55 – 65,Insgesamt,ohne Migrationshintergrund,%,1.24
+2024,15 – 65,Insgesamt,ohne Migrationshintergrund,%,1.81
+2024,15 – 25,Männer,ohne Migrationshintergrund,%,3.45
+2024,25 – 35,Männer,ohne Migrationshintergrund,%,2.37
+2024,35 – 45,Männer,ohne Migrationshintergrund,%,1.78
+2024,45 – 55,Männer,ohne Migrationshintergrund,%,1.52
+2024,55 – 65,Männer,ohne Migrationshintergrund,%,1.39
+2024,15 – 65,Männer,ohne Migrationshintergrund,%,1.99
+2024,15 – 25,Frauen,ohne Migrationshintergrund,%,3.05
+2024,25 – 35,Frauen,ohne Migrationshintergrund,%,2.15
+2024,35 – 45,Frauen,ohne Migrationshintergrund,%,1.38
+2024,45 – 55,Frauen,ohne Migrationshintergrund,%,1.02
+2024,55 – 65,Frauen,ohne Migrationshintergrund,%,1.09
+2024,15 – 65,Frauen,ohne Migrationshintergrund,%,1.62
+2024,15 – 25,Insgesamt,mit Migrationshintergrund,%,4.76
+2024,25 – 35,Insgesamt,mit Migrationshintergrund,%,5.41
+2024,35 – 45,Insgesamt,mit Migrationshintergrund,%,4.43
+2024,45 – 55,Insgesamt,mit Migrationshintergrund,%,3.41
+2024,55 – 65,Insgesamt,mit Migrationshintergrund,%,2.76
+2024,15 – 65,Insgesamt,mit Migrationshintergrund,%,4.29
+2024,15 – 25,Männer,mit Migrationshintergrund,%,4.57
+2024,25 – 35,Männer,mit Migrationshintergrund,%,6.53
+2024,35 – 45,Männer,mit Migrationshintergrund,%,4.13
+2024,45 – 55,Männer,mit Migrationshintergrund,%,2.76
+2024,55 – 65,Männer,mit Migrationshintergrund,%,2.98
+2024,15 – 65,Männer,mit Migrationshintergrund,%,4.37
+2024,15 – 25,Frauen,mit Migrationshintergrund,%,4.97
+2024,25 – 35,Frauen,mit Migrationshintergrund,%,4.17
+2024,35 – 45,Frauen,mit Migrationshintergrund,%,4.74
+2024,45 – 55,Frauen,mit Migrationshintergrund,%,4.04
+2024,55 – 65,Frauen,mit Migrationshintergrund,%,2.56
+2024,15 – 65,Frauen,mit Migrationshintergrund,%,4.2
 2023,15 – 25,Insgesamt,mit und ohne Migrationshintergrund,%,3.33
-2023,25 – 35,Insgesamt,mit und ohne Migrationshintergrund,%,2.9
-2023,35 – 45,Insgesamt,mit und ohne Migrationshintergrund,%,2.06
-2023,45 – 55,Insgesamt,mit und ohne Migrationshintergrund,%,1.85
-2023,55 – 65,Insgesamt,mit und ohne Migrationshintergrund,%,1.46
-2023,15 – 65,Insgesamt,mit und ohne Migrationshintergrund,%,2.25
-2023,15 – 25,Männer,mit und ohne Migrationshintergrund,%,3.49
-2023,25 – 35,Männer,mit und ohne Migrationshintergrund,%,3.64
-2023,35 – 45,Männer,mit und ohne Migrationshintergrund,%,2.23
-2023,45 – 55,Männer,mit und ohne Migrationshintergrund,%,2.04
-2023,55 – 65,Männer,mit und ohne Migrationshintergrund,%,1.7
-2023,15 – 65,Männer,mit und ohne Migrationshintergrund,%,2.57
-2023,15 – 25,Frauen,mit und ohne Migrationshintergrund,%,3.17
-2023,25 – 35,Frauen,mit und ohne Migrationshintergrund,%,2.09
-2023,35 – 45,Frauen,mit und ohne Migrationshintergrund,%,1.9
+2023,25 – 35,Insgesamt,mit und ohne Migrationshintergrund,%,2.91
+2023,35 – 45,Insgesamt,mit und ohne Migrationshintergrund,%,2.11
+2023,45 – 55,Insgesamt,mit und ohne Migrationshintergrund,%,1.84
+2023,55 – 65,Insgesamt,mit und ohne Migrationshintergrund,%,1.49
+2023,15 – 65,Insgesamt,mit und ohne Migrationshintergrund,%,2.26
+2023,15 – 25,Männer,mit und ohne Migrationshintergrund,%,3.57
+2023,25 – 35,Männer,mit und ohne Migrationshintergrund,%,3.66
+2023,35 – 45,Männer,mit und ohne Migrationshintergrund,%,2.31
+2023,45 – 55,Männer,mit und ohne Migrationshintergrund,%,2.0
+2023,55 – 65,Männer,mit und ohne Migrationshintergrund,%,1.75
+2023,15 – 65,Männer,mit und ohne Migrationshintergrund,%,2.6
+2023,15 – 25,Frauen,mit und ohne Migrationshintergrund,%,3.07
+2023,25 – 35,Frauen,mit und ohne Migrationshintergrund,%,2.1
+2023,35 – 45,Frauen,mit und ohne Migrationshintergrund,%,1.91
 2023,45 – 55,Frauen,mit und ohne Migrationshintergrund,%,1.67
-2023,55 – 65,Frauen,mit und ohne Migrationshintergrund,%,1.23
-2023,15 – 65,Frauen,mit und ohne Migrationshintergrund,%,1.93
-2023,15 – 25,Insgesamt,ohne Migrationshintergrund,%,2.84
-2023,25 – 35,Insgesamt,ohne Migrationshintergrund,%,2.31
-2023,35 – 45,Insgesamt,ohne Migrationshintergrund,%,1.43
-2023,45 – 55,Insgesamt,ohne Migrationshintergrund,%,1.38
-2023,55 – 65,Insgesamt,ohne Migrationshintergrund,%,1.29
-2023,15 – 65,Insgesamt,ohne Migrationshintergrund,%,1.77
-2023,15 – 25,Männer,ohne Migrationshintergrund,%,2.97
-2023,25 – 35,Männer,ohne Migrationshintergrund,%,2.83
-2023,35 – 45,Männer,ohne Migrationshintergrund,%,1.68
-2023,45 – 55,Männer,ohne Migrationshintergrund,%,1.32
-2023,55 – 65,Männer,ohne Migrationshintergrund,%,1.48
-2023,15 – 65,Männer,ohne Migrationshintergrund,%,1.99
-2023,15 – 25,Frauen,ohne Migrationshintergrund,%,2.7
-2023,25 – 35,Frauen,ohne Migrationshintergrund,%,1.75
-2023,35 – 45,Frauen,ohne Migrationshintergrund,%,1.19
-2023,45 – 55,Frauen,ohne Migrationshintergrund,%,1.43
-2023,55 – 65,Frauen,ohne Migrationshintergrund,%,1.11
-2023,15 – 65,Frauen,ohne Migrationshintergrund,%,1.55
-2023,15 – 25,Insgesamt,mit Migrationshintergrund,%,4.3
-2023,25 – 35,Insgesamt,mit Migrationshintergrund,%,4.24
-2023,35 – 45,Insgesamt,mit Migrationshintergrund,%,3.28
-2023,45 – 55,Insgesamt,mit Migrationshintergrund,%,3.24
-2023,55 – 65,Insgesamt,mit Migrationshintergrund,%,2.38
-2023,15 – 65,Insgesamt,mit Migrationshintergrund,%,3.56
-2023,15 – 25,Männer,mit Migrationshintergrund,%,4.47
-2023,25 – 35,Männer,mit Migrationshintergrund,%,5.47
-2023,35 – 45,Männer,mit Migrationshintergrund,%,3.28
-2023,45 – 55,Männer,mit Migrationshintergrund,%,4.17
-2023,55 – 65,Männer,mit Migrationshintergrund,%,2.9
-2023,15 – 65,Männer,mit Migrationshintergrund,%,4.12
-2023,15 – 25,Frauen,mit Migrationshintergrund,%,4.12
-2023,25 – 35,Frauen,mit Migrationshintergrund,%,2.87
-2023,35 – 45,Frauen,mit Migrationshintergrund,%,3.27
-2023,45 – 55,Frauen,mit Migrationshintergrund,%,2.35
-2023,55 – 65,Frauen,mit Migrationshintergrund,%,1.88
-2023,15 – 65,Frauen,mit Migrationshintergrund,%,2.98
+2023,55 – 65,Frauen,mit und ohne Migrationshintergrund,%,1.24
+2023,15 – 65,Frauen,mit und ohne Migrationshintergrund,%,1.92
+2023,15 – 25,Insgesamt,ohne Migrationshintergrund,%,2.83
+2023,25 – 35,Insgesamt,ohne Migrationshintergrund,%,2.36
+2023,35 – 45,Insgesamt,ohne Migrationshintergrund,%,1.54
+2023,45 – 55,Insgesamt,ohne Migrationshintergrund,%,1.4
+2023,55 – 65,Insgesamt,ohne Migrationshintergrund,%,1.33
+2023,15 – 65,Insgesamt,ohne Migrationshintergrund,%,1.81
+2023,15 – 25,Männer,ohne Migrationshintergrund,%,3.01
+2023,25 – 35,Männer,ohne Migrationshintergrund,%,2.9
+2023,35 – 45,Männer,ohne Migrationshintergrund,%,1.75
+2023,45 – 55,Männer,ohne Migrationshintergrund,%,1.36
+2023,55 – 65,Männer,ohne Migrationshintergrund,%,1.56
+2023,15 – 65,Männer,ohne Migrationshintergrund,%,2.04
+2023,15 – 25,Frauen,ohne Migrationshintergrund,%,2.64
+2023,25 – 35,Frauen,ohne Migrationshintergrund,%,1.78
+2023,35 – 45,Frauen,ohne Migrationshintergrund,%,1.32
+2023,45 – 55,Frauen,ohne Migrationshintergrund,%,1.44
+2023,55 – 65,Frauen,ohne Migrationshintergrund,%,1.12
+2023,15 – 65,Frauen,ohne Migrationshintergrund,%,1.57
+2023,15 – 25,Insgesamt,mit Migrationshintergrund,%,4.34
+2023,25 – 35,Insgesamt,mit Migrationshintergrund,%,4.2
+2023,35 – 45,Insgesamt,mit Migrationshintergrund,%,3.26
+2023,45 – 55,Insgesamt,mit Migrationshintergrund,%,3.15
+2023,55 – 65,Insgesamt,mit Migrationshintergrund,%,2.35
+2023,15 – 65,Insgesamt,mit Migrationshintergrund,%,3.52
+2023,15 – 25,Männer,mit Migrationshintergrund,%,4.68
+2023,25 – 35,Männer,mit Migrationshintergrund,%,5.4
+2023,35 – 45,Männer,mit Migrationshintergrund,%,3.41
+2023,45 – 55,Männer,mit Migrationshintergrund,%,3.94
+2023,55 – 65,Männer,mit Migrationshintergrund,%,2.78
+2023,15 – 65,Männer,mit Migrationshintergrund,%,4.11
+2023,15 – 25,Frauen,mit Migrationshintergrund,%,3.96
+2023,25 – 35,Frauen,mit Migrationshintergrund,%,2.85
+2023,35 – 45,Frauen,mit Migrationshintergrund,%,3.11
+2023,45 – 55,Frauen,mit Migrationshintergrund,%,2.38
+2023,55 – 65,Frauen,mit Migrationshintergrund,%,1.93
+2023,15 – 65,Frauen,mit Migrationshintergrund,%,2.92
 2022,15 – 25,Insgesamt,mit und ohne Migrationshintergrund,%,2.97
 2022,25 – 35,Insgesamt,mit und ohne Migrationshintergrund,%,3.08
 2022,35 – 45,Insgesamt,mit und ohne Migrationshintergrund,%,2.13
