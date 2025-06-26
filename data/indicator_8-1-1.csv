@@ -1,9 +1,14 @@
 ﻿Year,Altersgruppe,Units,Geschlecht,Value
-2023,18 – 25,"in 1000",Männlich,50.5
-2023,25 – 45,"in 1000",Männlich,136.9
-2023,45 – 65,"in 1000",Männlich,115.2
-2023,65 und älter,"in 1000",Männlich,62.6
-2023,Insgesamt,"in 1000",Männlich,365.1
+2024,18 – 25,"in 1000",Männlich,54.6
+2024,25 – 45,"in 1000",Männlich,138.3
+2024,45 – 65,"in 1000",Männlich,119.2
+2024,65 und älter,"in 1000",Männlich,73.4
+2024,Insgesamt,"in 1000",Männlich,385.5
+2023,18 – 25,"in 1000",Männlich,50.4
+2023,25 – 45,"in 1000",Männlich,136.7
+2023,45 – 65,"in 1000",Männlich,115.9
+2023,65 und älter,"in 1000",Männlich,62.2
+2023,Insgesamt,"in 1000",Männlich,365.2
 2022,18 – 25,"in 1000",Männlich,51.4
 2022,25 – 45,"in 1000",Männlich,137
 2022,45 – 65,"in 1000",Männlich,124.3
@@ -59,11 +64,16 @@
 2011,45 – 65,"in 1000",Männlich,86.01129
 2011,65 und älter,"in 1000",Männlich,31.31798
 2011,Insgesamt,"in 1000",Männlich,268.64905
+2024,18 – 25,"in 1000",Weiblich,49.9
+2024,25 – 45,"in 1000",Weiblich,145.2
+2024,45 – 65,"in 1000",Weiblich,139
+2024,65 und älter,"in 1000",Weiblich,87.9
+2024,Insgesamt,"in 1000",Weiblich,422
 2023,18 – 25,"in 1000",Weiblich,50.2
-2023,25 – 45,"in 1000",Weiblich,135.9
-2023,45 – 65,"in 1000",Weiblich,126.1
-2023,65 und älter,"in 1000",Weiblich,80.8
-2023,Insgesamt,"in 1000",Weiblich,393
+2023,25 – 45,"in 1000",Weiblich,136.5
+2023,45 – 65,"in 1000",Weiblich,127.5
+2023,65 und älter,"in 1000",Weiblich,79.6
+2023,Insgesamt,"in 1000",Weiblich,393.8
 2022,18 – 25,"in 1000",Weiblich,50.3
 2022,25 – 45,"in 1000",Weiblich,140.4
 2022,45 – 65,"in 1000",Weiblich,129.8
@@ -119,11 +129,16 @@
 2011,45 – 65,"in 1000",Weiblich,96.00452
 2011,65 und älter,"in 1000",Weiblich,42.31946
 2011,Insgesamt,"in 1000",Weiblich,285.91306
+2024,18 – 25,"in 1000",Insgesamt,104.5
+2024,25 – 45,"in 1000",Insgesamt,283.5
+2024,45 – 65,"in 1000",Insgesamt,258.2
+2024,65 und älter,"in 1000",Insgesamt,161.3
+2024,Insgesamt,"in 1000",Insgesamt,807.5
 2023,18 – 25,"in 1000",Insgesamt,100.6
-2023,25 – 45,"in 1000",Insgesamt,272.8
-2023,45 – 65,"in 1000",Insgesamt,241.3
-2023,65 und älter,"in 1000",Insgesamt,143.3
-2023,Insgesamt,"in 1000",Insgesamt,758.1
+2023,25 – 45,"in 1000",Insgesamt,273.2
+2023,45 – 65,"in 1000",Insgesamt,243.4
+2023,65 und älter,"in 1000",Insgesamt,141.9
+2023,Insgesamt,"in 1000",Insgesamt,759
 2022,18 – 25,"in 1000",Insgesamt,101.7
 2022,25 – 45,"in 1000",Insgesamt,277.4
 2022,45 – 65,"in 1000",Insgesamt,254.1
@@ -179,11 +194,16 @@
 2011,45 – 65,"in 1000",Insgesamt,182.01581
 2011,65 und älter,"in 1000",Insgesamt,73.63744
 2011,Insgesamt,"in 1000",Insgesamt,554.56211
-2023,18 – 25,%,Männlich,19.3932411674347
-2023,25 – 45,%,Männlich,16.7934249263984
-2023,45 – 65,%,Männlich,11.1703674973335
-2023,65 und älter,%,Männlich,8.20015719151166
-2023,Insgesamt,%,Männlich,12.7199247465422
+2024,18 – 25,%,Männlich,21.84
+2024,25 – 45,%,Männlich,17.0994065281899
+2024,45 – 65,%,Männlich,11.8043176866706
+2024,65 und älter,%,Männlich,9.56725755995829
+2024,Insgesamt,%,Männlich,13.5945269245689
+2023,18 – 25,%,Männlich,19.8816568047337
+2023,25 – 45,%,Männlich,16.9645073219161
+2023,45 – 65,%,Männlich,11.2896941359829
+2023,65 und älter,%,Männlich,8.24277763053273
+2023,Insgesamt,%,Männlich,12.8568913923605
 2022,18 – 25,%,Männlich,19.0018484288355
 2022,25 – 45,%,Männlich,17.0122935551968
 2022,45 – 65,%,Männlich,11.8561617703167
@@ -239,11 +259,16 @@
 2011,45 – 65,%,Männlich,8.1601077357145
 2011,65 und älter,%,Männlich,4.55061222541543
 2011,Insgesamt,%,Männlich,9.17694777955286
-2023,18 – 25,%,Weiblich,24.2161119150989
-2023,25 – 45,%,Weiblich,20.7734637725466
-2023,45 – 65,%,Weiblich,13.3679635322803
-2023,65 und älter,%,Weiblich,9.62707017752889
-2023,Insgesamt,%,Weiblich,14.8638426626324
+2024,18 – 25,%,Weiblich,26.0710553814002
+2024,25 – 45,%,Weiblich,22.5535880708294
+2024,45 – 65,%,Weiblich,15.4084912980823
+2024,65 und älter,%,Weiblich,10.5345158197507
+2024,Insgesamt,%,Weiblich,16.4093790099934
+2023,18 – 25,%,Weiblich,24.8761149653122
+2023,25 – 45,%,Weiblich,21.04532839963
+2023,45 – 65,%,Weiblich,13.6685248713551
+2023,65 und älter,%,Weiblich,9.60888459681313
+2023,Insgesamt,%,Weiblich,15.0783014894513
 2022,18 – 25,%,Weiblich,23.3736059479554
 2022,25 – 45,%,Weiblich,21.6266173752311
 2022,45 – 65,%,Weiblich,13.6144325571638
@@ -299,11 +324,16 @@
 2011,45 – 65,%,Weiblich,9.08985201499229
 2011,65 und älter,%,Weiblich,4.6011067847012
 2011,Insgesamt,%,Weiblich,9.11119380316455
-2023,18 – 25,%,Insgesamt,19.4283507145616
-2023,25 – 45,%,Insgesamt,16.99370834112
-2023,45 – 65,%,Insgesamt,11.4861005331302
-2023,65 und älter,%,Insgesamt,8.51253415706309
-2023,Insgesamt,%,Insgesamt,12.8332740846072
+2024,18 – 25,%,Insgesamt,21.2744299674267
+2024,25 – 45,%,Insgesamt,17.743146826887
+2024,45 – 65,%,Insgesamt,12.5895948120337
+2024,65 und älter,%,Insgesamt,9.54720331459012
+2024,Insgesamt,%,Insgesamt,13.8521974817305
+2023,18 – 25,%,Insgesamt,19.8971518987342
+2023,25 – 45,%,Insgesamt,17.1726695581118
+2023,45 – 65,%,Insgesamt,11.6632325458815
+2023,65 und älter,%,Insgesamt,8.53431166175498
+2023,Insgesamt,%,Insgesamt,12.9830143172371
 2022,18 – 25,%,Insgesamt,18.9738805970149
 2022,25 – 45,%,Insgesamt,17.392939996238
 2022,45 – 65,%,Insgesamt,11.9206230061925
