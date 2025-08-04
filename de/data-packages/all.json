@@ -1936,8 +1936,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "18 - 25",
-                "25 - 65",
+                "18 - 25",
+                "25 - 65",
                 ""
               ]
             },
@@ -1961,7 +1961,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Insgesamt",
+                "Ingesamt",
                 "männlich",
                 "weiblich",
                 ""
