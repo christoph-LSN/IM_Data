@@ -1,4 +1,154 @@
 ﻿Year,Gebietseinheit,Geschlecht,Units,GeoCode,Value
+2024,"Braunschweig, Stadt",männlich,Jahre,RH03101,36.5
+2024,"Braunschweig, Stadt",weiblich,Jahre,RH03101,38.5
+2024,"Braunschweig, Stadt",insgesamt,Jahre,RH03101,37.5
+2024,"Salzgitter, Stadt",männlich,Jahre,RH03102,34.6
+2024,"Salzgitter, Stadt",weiblich,Jahre,RH03102,35.6
+2024,"Salzgitter, Stadt",insgesamt,Jahre,RH03102,35.1
+2024,"Wolfsburg, Stadt",männlich,Jahre,RH03103,36.2
+2024,"Wolfsburg, Stadt",weiblich,Jahre,RH03103,36.8
+2024,"Wolfsburg, Stadt",insgesamt,Jahre,RH03103,36.5
+2024,"Gifhorn",männlich,Jahre,RH03151,35.1
+2024,"Gifhorn",weiblich,Jahre,RH03151,36.8
+2024,"Gifhorn",insgesamt,Jahre,RH03151,35.9
+2024,"Goslar",männlich,Jahre,RH03153,34.4
+2024,"Goslar",weiblich,Jahre,RH03153,37.1
+2024,"Goslar",insgesamt,Jahre,RH03153,35.6
+2024,"Helmstedt",männlich,Jahre,RH03154,35.3
+2024,"Helmstedt",weiblich,Jahre,RH03154,36.1
+2024,"Helmstedt",insgesamt,Jahre,RH03154,35.7
+2024,"Northeim",männlich,Jahre,RH03155,34.4
+2024,"Northeim",weiblich,Jahre,RH03155,36.3
+2024,"Northeim",insgesamt,Jahre,RH03155,35.3
+2024,"Peine",männlich,Jahre,RH03157,34.4
+2024,"Peine",weiblich,Jahre,RH03157,35.8
+2024,"Peine",insgesamt,Jahre,RH03157,35.1
+2024,"Wolfenbüttel",männlich,Jahre,RH03158,34.4
+2024,"Wolfenbüttel",weiblich,Jahre,RH03158,36.1
+2024,"Wolfenbüttel",insgesamt,Jahre,RH03158,35.2
+2024,"Göttingen",männlich,Jahre,RH03159,34.9
+2024,"Göttingen",weiblich,Jahre,RH03159,36.2
+2024,"Göttingen",insgesamt,Jahre,RH03159,35.5
+2024,"Statistische Region Braunschweig",männlich,Jahre,RH031,35.2
+2024,"Statistische Region Braunschweig",weiblich,Jahre,RH031,36.7
+2024,"Statistische Region Braunschweig",insgesamt,Jahre,RH031,35.9
+2024,"Region Hannover",männlich,Jahre,RH03241,37.6
+2024,"Region Hannover",weiblich,Jahre,RH03241,39.1
+2024,"Region Hannover",insgesamt,Jahre,RH03241,38.4
+2024,"Diepholz",männlich,Jahre,RH03251,34.2
+2024,"Diepholz",weiblich,Jahre,RH03251,35.6
+2024,"Diepholz",insgesamt,Jahre,RH03251,34.9
+2024,"Hameln-Pyrmont",männlich,Jahre,RH03252,35.5
+2024,"Hameln-Pyrmont",weiblich,Jahre,RH03252,37
+2024,"Hameln-Pyrmont",insgesamt,Jahre,RH03252,36.3
+2024,"Hildesheim",männlich,Jahre,RH03254,34.8
+2024,"Hildesheim",weiblich,Jahre,RH03254,36.9
+2024,"Hildesheim",insgesamt,Jahre,RH03254,35.8
+2024,"Holzminden",männlich,Jahre,RH03255,35.3
+2024,"Holzminden",weiblich,Jahre,RH03255,37.4
+2024,"Holzminden",insgesamt,Jahre,RH03255,36.3
+2024,"Nienburg (Weser)",männlich,Jahre,RH03256,34.2
+2024,"Nienburg (Weser)",weiblich,Jahre,RH03256,35.1
+2024,"Nienburg (Weser)",insgesamt,Jahre,RH03256,34.6
+2024,"Schaumburg",männlich,Jahre,RH03257,35.9
+2024,"Schaumburg",weiblich,Jahre,RH03257,37.4
+2024,"Schaumburg",insgesamt,Jahre,RH03257,36.6
+2024,"Statistische Region Hannover",männlich,Jahre,RH032,36.7
+2024,"Statistische Region Hannover",weiblich,Jahre,RH032,38.2
+2024,"Statistische Region Hannover",insgesamt,Jahre,RH032,37.4
+2024,"Celle",männlich,Jahre,RH03351,35.3
+2024,"Celle",weiblich,Jahre,RH03351,36.2
+2024,"Celle",insgesamt,Jahre,RH03351,35.7
+2024,"Cuxhaven",männlich,Jahre,RH03352,35.7
+2024,"Cuxhaven",weiblich,Jahre,RH03352,38
+2024,"Cuxhaven",insgesamt,Jahre,RH03352,36.8
+2024,"Harburg",männlich,Jahre,RH03353,36.1
+2024,"Harburg",weiblich,Jahre,RH03353,38.2
+2024,"Harburg",insgesamt,Jahre,RH03353,37
+2024,"Lüchow-Dannenberg",männlich,Jahre,RH03354,34.7
+2024,"Lüchow-Dannenberg",weiblich,Jahre,RH03354,36.7
+2024,"Lüchow-Dannenberg",insgesamt,Jahre,RH03354,35.7
+2024,"Lüneburg",männlich,Jahre,RH03355,34.1
+2024,"Lüneburg",weiblich,Jahre,RH03355,35
+2024,"Lüneburg",insgesamt,Jahre,RH03355,34.5
+2024,"Osterholz",männlich,Jahre,RH03356,34.2
+2024,"Osterholz",weiblich,Jahre,RH03356,36.4
+2024,"Osterholz",insgesamt,Jahre,RH03356,35.3
+2024,"Rotenburg (Wümme)",männlich,Jahre,RH03357,35.3
+2024,"Rotenburg (Wümme)",weiblich,Jahre,RH03357,35.5
+2024,"Rotenburg (Wümme)",insgesamt,Jahre,RH03357,35.4
+2024,"Heidekreis",männlich,Jahre,RH03358,35
+2024,"Heidekreis",weiblich,Jahre,RH03358,36.3
+2024,"Heidekreis",insgesamt,Jahre,RH03358,35.6
+2024,"Stade",männlich,Jahre,RH03359,34.4
+2024,"Stade",weiblich,Jahre,RH03359,35.3
+2024,"Stade",insgesamt,Jahre,RH03359,34.8
+2024,"Uelzen",männlich,Jahre,RH03360,34.1
+2024,"Uelzen",weiblich,Jahre,RH03360,35.9
+2024,"Uelzen",insgesamt,Jahre,RH03360,35
+2024,"Verden",männlich,Jahre,RH03361,35
+2024,"Verden",weiblich,Jahre,RH03361,36.3
+2024,"Verden",insgesamt,Jahre,RH03361,35.6
+2024,"Statistische Region Lüneburg",männlich,Jahre,RH033,35.1
+2024,"Statistische Region Lüneburg",weiblich,Jahre,RH033,36.4
+2024,"Statistische Region Lüneburg",insgesamt,Jahre,RH033,35.7
+2024,"Delmenhorst, Stadt",männlich,Jahre,RH03401,34
+2024,"Delmenhorst, Stadt",weiblich,Jahre,RH03401,35.3
+2024,"Delmenhorst, Stadt",insgesamt,Jahre,RH03401,34.6
+2024,"Emden, Stadt",männlich,Jahre,RH03402,33.2
+2024,"Emden, Stadt",weiblich,Jahre,RH03402,33.5
+2024,"Emden, Stadt",insgesamt,Jahre,RH03402,33.3
+2024,"Oldenburg (Oldb), Stadt",männlich,Jahre,RH03403,33
+2024,"Oldenburg (Oldb), Stadt",weiblich,Jahre,RH03403,34.8
+2024,"Oldenburg (Oldb), Stadt",insgesamt,Jahre,RH03403,33.9
+2024,"Osnabrück, Stadt",männlich,Jahre,RH03404,35.9
+2024,"Osnabrück, Stadt",weiblich,Jahre,RH03404,37.2
+2024,"Osnabrück, Stadt",insgesamt,Jahre,RH03404,36.5
+2024,"Wilhelmshaven, Stadt",männlich,Jahre,RH03405,32.4
+2024,"Wilhelmshaven, Stadt",weiblich,Jahre,RH03405,33.8
+2024,"Wilhelmshaven, Stadt",insgesamt,Jahre,RH03405,33
+2024,"Ammerland",männlich,Jahre,RH03451,34.4
+2024,"Ammerland",weiblich,Jahre,RH03451,35.4
+2024,"Ammerland",insgesamt,Jahre,RH03451,34.9
+2024,"Aurich",männlich,Jahre,RH03452,33.6
+2024,"Aurich",weiblich,Jahre,RH03452,35.4
+2024,"Aurich",insgesamt,Jahre,RH03452,34.4
+2024,"Cloppenburg",männlich,Jahre,RH03453,33.5
+2024,"Cloppenburg",weiblich,Jahre,RH03453,33.6
+2024,"Cloppenburg",insgesamt,Jahre,RH03453,33.6
+2024,"Emsland",männlich,Jahre,RH03454,35.9
+2024,"Emsland",weiblich,Jahre,RH03454,35.2
+2024,"Emsland",insgesamt,Jahre,RH03454,35.6
+2024,"Friesland",männlich,Jahre,RH03455,33.7
+2024,"Friesland",weiblich,Jahre,RH03455,34.9
+2024,"Friesland",insgesamt,Jahre,RH03455,34.3
+2024,"Grafschaft Bentheim",männlich,Jahre,RH03456,41.1
+2024,"Grafschaft Bentheim",weiblich,Jahre,RH03456,41
+2024,"Grafschaft Bentheim",insgesamt,Jahre,RH03456,41
+2024,"Leer",männlich,Jahre,RH03457,34.3
+2024,"Leer",weiblich,Jahre,RH03457,35.1
+2024,"Leer",insgesamt,Jahre,RH03457,34.7
+2024,"Oldenburg",männlich,Jahre,RH03458,34.5
+2024,"Oldenburg",weiblich,Jahre,RH03458,35.7
+2024,"Oldenburg",insgesamt,Jahre,RH03458,35.1
+2024,"Osnabrück",männlich,Jahre,RH03459,36.1
+2024,"Osnabrück",weiblich,Jahre,RH03459,37.1
+2024,"Osnabrück",insgesamt,Jahre,RH03459,36.5
+2024,"Vechta",männlich,Jahre,RH03460,35
+2024,"Vechta",weiblich,Jahre,RH03460,34.9
+2024,"Vechta",insgesamt,Jahre,RH03460,34.9
+2024,"Wesermarsch",männlich,Jahre,RH03461,35.3
+2024,"Wesermarsch",weiblich,Jahre,RH03461,36.1
+2024,"Wesermarsch",insgesamt,Jahre,RH03461,35.7
+2024,"Wittmund",männlich,Jahre,RH03462,32.2
+2024,"Wittmund",weiblich,Jahre,RH03462,35.2
+2024,"Wittmund",insgesamt,Jahre,RH03462,33.7
+2024,"Statistische Region Weser-Ems",männlich,Jahre,RH034,35.2
+2024,"Statistische Region Weser-Ems",weiblich,Jahre,RH034,35.8
+2024,"Statistische Region Weser-Ems",insgesamt,Jahre,RH034,35.5
+2024,"Niedersachsen",männlich,Jahre,RH030,35.6
+2024,"Niedersachsen",weiblich,Jahre,RH030,36.9
+2024,"Niedersachsen",insgesamt,Jahre,RH030,36.2
 2023,"Braunschweig, Stadt",männlich,Jahre,RH03101,36.3
 2023,"Braunschweig, Stadt",weiblich,Jahre,RH03101,38.4
 2023,"Braunschweig, Stadt",insgesamt,Jahre,RH03101,37.3
