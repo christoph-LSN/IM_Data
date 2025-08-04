@@ -1,20 +1,170 @@
 Year,Gebietseinheit,Geschlecht,Kategorie,Units,GeoCode,Value
-2023,"Braunschweig, Stadt",männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03101,4895.0
+2024,"Braunschweig, Stadt",männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03101,4565.0
+2024,"Braunschweig, Stadt",weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03101,4330.0
+2024,"Braunschweig, Stadt",insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03101,8890.0
+2024,"Salzgitter, Stadt",männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03102,4315.0
+2024,"Salzgitter, Stadt",weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03102,3400.0
+2024,"Salzgitter, Stadt",insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03102,7715.0
+2024,"Wolfsburg, Stadt",männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03103,5120.0
+2024,"Wolfsburg, Stadt",weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03103,4360.0
+2024,"Wolfsburg, Stadt",insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03103,9485.0
+2024,Gifhorn,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03151,3185.0
+2024,Gifhorn,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03151,2565.0
+2024,Gifhorn,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03151,5750.0
+2024,Goslar,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03153,2360.0
+2024,Goslar,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03153,2015.0
+2024,Goslar,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03153,4380.0
+2024,Helmstedt,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03154,1775.0
+2024,Helmstedt,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03154,1455.0
+2024,Helmstedt,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03154,3230.0
+2024,Northeim,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03155,2260.0
+2024,Northeim,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03155,1845.0
+2024,Northeim,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03155,4105.0
+2024,Peine,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03157,2695.0
+2024,Peine,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03157,2215.0
+2024,Peine,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03157,4915.0
+2024,Wolfenbüttel,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03158,1370.0
+2024,Wolfenbüttel,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03158,1190.0
+2024,Wolfenbüttel,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03158,2555.0
+2024,Göttingen,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03159,6060.0
+2024,Göttingen,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03159,5730.0
+2024,Göttingen,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03159,11785.0
+2024,Statistische Region Braunschweig,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH031,33700.0
+2024,Statistische Region Braunschweig,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH031,29110.0
+2024,Statistische Region Braunschweig,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH031,62810.0
+2024,Region Hannover,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03241,37370.0
+2024,Region Hannover,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03241,33355.0
+2024,Region Hannover,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03241,70725.0
+2024,Diepholz,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03251,5715.0
+2024,Diepholz,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03251,4740.0
+2024,Diepholz,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03251,10455.0
+2024,Hameln-Pyrmont,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03252,3275.0
+2024,Hameln-Pyrmont,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03252,2860.0
+2024,Hameln-Pyrmont,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03252,6140.0
+2024,Hildesheim,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03254,5020.0
+2024,Hildesheim,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03254,4375.0
+2024,Hildesheim,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03254,9395.0
+2024,Holzminden,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03255,745.0
+2024,Holzminden,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03255,670.0
+2024,Holzminden,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03255,1415.0
+2024,Nienburg (Weser),männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03256,2615.0
+2024,Nienburg (Weser),weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03256,1895.0
+2024,Nienburg (Weser),insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03256,4510.0
+2024,Schaumburg,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03257,3360.0
+2024,Schaumburg,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03257,2705.0
+2024,Schaumburg,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03257,6070.0
+2024,Statistische Region Hannover,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH032,58090.0
+2024,Statistische Region Hannover,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH032,50610.0
+2024,Statistische Region Hannover,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH032,108710.0
+2024,Celle,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03351,3340.0
+2024,Celle,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03351,2850.0
+2024,Celle,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03351,6195.0
+2024,Cuxhaven,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03352,3500.0
+2024,Cuxhaven,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03352,3015.0
+2024,Cuxhaven,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03352,6515.0
+2024,Harburg,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03353,6735.0
+2024,Harburg,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03353,5480.0
+2024,Harburg,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03353,12215.0
+2024,Lüchow-Dannenberg,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03354,755.0
+2024,Lüchow-Dannenberg,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03354,645.0
+2024,Lüchow-Dannenberg,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03354,1400.0
+2024,Lüneburg,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03355,2395.0
+2024,Lüneburg,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03355,2030.0
+2024,Lüneburg,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03355,4425.0
+2024,Osterholz,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03356,1240.0
+2024,Osterholz,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03356,1195.0
+2024,Osterholz,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03356,2435.0
+2024,Rotenburg (Wümme),männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03357,3600.0
+2024,Rotenburg (Wümme),weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03357,2755.0
+2024,Rotenburg (Wümme),insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03357,6355.0
+2024,Heidekreis,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03358,3715.0
+2024,Heidekreis,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03358,2940.0
+2024,Heidekreis,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03358,6655.0
+2024,Stade,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03359,5960.0
+2024,Stade,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03359,4715.0
+2024,Stade,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03359,10675.0
+2024,Uelzen,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03360,1320.0
+2024,Uelzen,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03360,1185.0
+2024,Uelzen,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03360,2505.0
+2024,Verden,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03361,2495.0
+2024,Verden,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03361,2130.0
+2024,Verden,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03361,4625.0
+2024,Statistische Region Lüneburg,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH033,35070.0
+2024,Statistische Region Lüneburg,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH033,28935.0
+2024,Statistische Region Lüneburg,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH033,64005.0
+2024,"Delmenhorst, Stadt",männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03401,3315.0
+2024,"Delmenhorst, Stadt",weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03401,3170.0
+2024,"Delmenhorst, Stadt",insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03401,6485.0
+2024,"Emden, Stadt",männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03402,1575.0
+2024,"Emden, Stadt",weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03402,1160.0
+2024,"Emden, Stadt",insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03402,2730.0
+2024,"Oldenburg (Oldb), Stadt",männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03403,3220.0
+2024,"Oldenburg (Oldb), Stadt",weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03403,3110.0
+2024,"Oldenburg (Oldb), Stadt",insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03403,6330.0
+2024,"Osnabrück, Stadt",männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03404,5370.0
+2024,"Osnabrück, Stadt",weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03404,4945.0
+2024,"Osnabrück, Stadt",insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03404,10315.0
+2024,"Wilhelmshaven, Stadt",männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03405,2030.0
+2024,"Wilhelmshaven, Stadt",weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03405,1380.0
+2024,"Wilhelmshaven, Stadt",insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03405,3405.0
+2024,Ammerland,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03451,2060.0
+2024,Ammerland,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03451,1695.0
+2024,Ammerland,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03451,3760.0
+2024,Aurich,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03452,2850.0
+2024,Aurich,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03452,2405.0
+2024,Aurich,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03452,5255.0
+2024,Cloppenburg,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03453,9060.0
+2024,Cloppenburg,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03453,6715.0
+2024,Cloppenburg,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03453,15775.0
+2024,Emsland,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03454,18070.0
+2024,Emsland,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03454,12480.0
+2024,Emsland,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03454,30550.0
+2024,Friesland,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03455,980.0
+2024,Friesland,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03455,825.0
+2024,Friesland,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03455,1805.0
+2024,Grafschaft Bentheim,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03456,9415.0
+2024,Grafschaft Bentheim,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03456,7655.0
+2024,Grafschaft Bentheim,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03456,17070.0
+2024,Leer,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03457,4510.0
+2024,Leer,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03457,3475.0
+2024,Leer,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03457,7985.0
+2024,Oldenburg,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03458,4435.0
+2024,Oldenburg,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03458,3510.0
+2024,Oldenburg,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03458,7950.0
+2024,Osnabrück,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03459,12510.0
+2024,Osnabrück,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03459,9820.0
+2024,Osnabrück,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03459,22330.0
+2024,Vechta,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03460,6635.0
+2024,Vechta,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03460,5300.0
+2024,Vechta,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03460,11940.0
+2024,Wesermarsch,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03461,2265.0
+2024,Wesermarsch,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03461,1690.0
+2024,Wesermarsch,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03461,3955.0
+2024,Wittmund,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03462,705.0
+2024,Wittmund,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03462,675.0
+2024,Wittmund,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03462,1375.0
+2024,Statistische Region Weser-Ems,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH034,89010.0
+2024,Statistische Region Weser-Ems,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH034,70005.0
+2024,Statistische Region Weser-Ems,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH034,159020.0
+2024,Niedersachsen,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH030,215880.0
+2024,Niedersachsen,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH030,178670.0
+2024,Niedersachsen,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH030,394545.0
+2023,"Braunschweig, Stadt",männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03101,4900.0
 2023,"Braunschweig, Stadt",weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03101,4585.0
-2023,"Braunschweig, Stadt",insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03101,9485.0
-2023,"Salzgitter, Stadt",männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03102,4240.0
-2023,"Salzgitter, Stadt",weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03102,3395.0
-2023,"Salzgitter, Stadt",insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03102,7625.0
+2023,"Braunschweig, Stadt",insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03101,9480.0
+2023,"Salzgitter, Stadt",männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03102,4245.0
+2023,"Salzgitter, Stadt",weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03102,3385.0
+2023,"Salzgitter, Stadt",insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03102,7630.0
 2023,"Wolfsburg, Stadt",männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03103,5400.0
 2023,"Wolfsburg, Stadt",weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03103,4440.0
-2023,"Wolfsburg, Stadt",insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03103,9840.0
+2023,"Wolfsburg, Stadt",insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03103,9845.0
 2023,Gifhorn,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03151,3270.0
-2023,Gifhorn,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03151,2605.0
-2023,Gifhorn,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03151,5865.0
+2023,Gifhorn,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03151,2600.0
+2023,Gifhorn,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03151,5870.0
 2023,Goslar,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03153,2415.0
 2023,Goslar,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03153,2030.0
 2023,Goslar,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03153,4445.0
-2023,Helmstedt,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03154,1770.0
+2023,Helmstedt,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03154,1775.0
 2023,Helmstedt,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03154,1465.0
 2023,Helmstedt,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03154,3240.0
 2023,Northeim,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03155,1985.0
@@ -23,48 +173,48 @@ Year,Gebietseinheit,Geschlecht,Kategorie,Units,GeoCode,Value
 2023,Peine,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03157,2660.0
 2023,Peine,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03157,2175.0
 2023,Peine,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03157,4835.0
-2023,Wolfenbüttel,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03158,1450.0
+2023,Wolfenbüttel,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03158,1455.0
 2023,Wolfenbüttel,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03158,1225.0
 2023,Wolfenbüttel,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03158,2680.0
 2023,Göttingen,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03159,5970.0
-2023,Göttingen,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03159,5630.0
-2023,Göttingen,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03159,11595.0
-2023,Statistische Region Braunschweig,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH031,34065.0
-2023,Statistische Region Braunschweig,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH031,29290.0
-2023,Statistische Region Braunschweig,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH031,63300.0
-2023,Region Hannover,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03241,37075.0
-2023,Region Hannover,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03241,33020.0
-2023,Region Hannover,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03241,70005.0
+2023,Göttingen,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03159,5625.0
+2023,Göttingen,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03159,11605.0
+2023,Statistische Region Braunschweig,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH031,34085.0
+2023,Statistische Region Braunschweig,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH031,29235.0
+2023,Statistische Region Braunschweig,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH031,63320.0
+2023,Region Hannover,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03241,37095.0
+2023,Region Hannover,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03241,32940.0
+2023,Region Hannover,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03241,70035.0
 2023,Diepholz,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03251,5735.0
 2023,Diepholz,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03251,4750.0
 2023,Diepholz,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03251,10485.0
 2023,Hameln-Pyrmont,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03252,3315.0
 2023,Hameln-Pyrmont,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03252,2940.0
 2023,Hameln-Pyrmont,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03252,6260.0
-2023,Hildesheim,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03254,5170.0
+2023,Hildesheim,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03254,5175.0
 2023,Hildesheim,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03254,4400.0
 2023,Hildesheim,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03254,9575.0
 2023,Holzminden,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03255,610.0
 2023,Holzminden,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03255,565.0
 2023,Holzminden,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03255,1180.0
-2023,Nienburg (Weser),männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03256,2795.0
+2023,Nienburg (Weser),männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03256,2800.0
 2023,Nienburg (Weser),weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03256,1990.0
 2023,Nienburg (Weser),insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03256,4790.0
 2023,Schaumburg,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03257,3405.0
 2023,Schaumburg,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03257,2670.0
-2023,Schaumburg,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03257,6075.0
-2023,Statistische Region Hannover,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH032,58120.0
-2023,Statistische Region Hannover,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH032,50360.0
-2023,Statistische Region Hannover,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH032,108370.0
-2023,Celle,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03351,3375.0
+2023,Schaumburg,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03257,6080.0
+2023,Statistische Region Hannover,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH032,58145.0
+2023,Statistische Region Hannover,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH032,50265.0
+2023,Statistische Region Hannover,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH032,108410.0
+2023,Celle,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03351,3380.0
 2023,Celle,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03351,2845.0
-2023,Celle,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03351,6215.0
+2023,Celle,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03351,6220.0
 2023,Cuxhaven,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03352,3610.0
 2023,Cuxhaven,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03352,3070.0
 2023,Cuxhaven,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03352,6680.0
 2023,Harburg,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03353,6790.0
-2023,Harburg,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03353,5545.0
-2023,Harburg,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03353,12310.0
+2023,Harburg,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03353,5530.0
+2023,Harburg,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03353,12325.0
 2023,Lüchow-Dannenberg,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03354,760.0
 2023,Lüchow-Dannenberg,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03354,620.0
 2023,Lüchow-Dannenberg,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03354,1380.0
@@ -77,78 +227,78 @@ Year,Gebietseinheit,Geschlecht,Kategorie,Units,GeoCode,Value
 2023,Rotenburg (Wümme),männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03357,3590.0
 2023,Rotenburg (Wümme),weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03357,2740.0
 2023,Rotenburg (Wümme),insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03357,6330.0
-2023,Heidekreis,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03358,3830.0
+2023,Heidekreis,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03358,3840.0
 2023,Heidekreis,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03358,3005.0
-2023,Heidekreis,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03358,6850.0
+2023,Heidekreis,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03358,6845.0
 2023,Stade,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03359,5930.0
 2023,Stade,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03359,4595.0
-2023,Stade,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03359,10520.0
+2023,Stade,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03359,10525.0
 2023,Uelzen,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03360,1385.0
 2023,Uelzen,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03360,1215.0
 2023,Uelzen,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03360,2600.0
-2023,Verden,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03361,2675.0
+2023,Verden,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03361,2680.0
 2023,Verden,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03361,2170.0
 2023,Verden,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03361,4850.0
-2023,Statistische Region Lüneburg,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH033,35800.0
-2023,Statistische Region Lüneburg,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH033,29165.0
-2023,Statistische Region Lüneburg,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH033,64915.0
-2023,"Delmenhorst, Stadt",männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03401,3685.0
+2023,Statistische Region Lüneburg,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH033,35810.0
+2023,Statistische Region Lüneburg,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH033,29125.0
+2023,Statistische Region Lüneburg,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH033,64935.0
+2023,"Delmenhorst, Stadt",männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03401,3690.0
 2023,"Delmenhorst, Stadt",weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03401,3250.0
 2023,"Delmenhorst, Stadt",insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03401,6940.0
 2023,"Emden, Stadt",männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03402,1695.0
 2023,"Emden, Stadt",weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03402,1240.0
 2023,"Emden, Stadt",insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03402,2935.0
-2023,"Oldenburg (Oldb), Stadt",männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03403,3370.0
+2023,"Oldenburg (Oldb), Stadt",männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03403,3375.0
 2023,"Oldenburg (Oldb), Stadt",weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03403,3170.0
 2023,"Oldenburg (Oldb), Stadt",insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03403,6545.0
 2023,"Osnabrück, Stadt",männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03404,5435.0
-2023,"Osnabrück, Stadt",weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03404,4980.0
-2023,"Osnabrück, Stadt",insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03404,10405.0
+2023,"Osnabrück, Stadt",weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03404,4975.0
+2023,"Osnabrück, Stadt",insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03404,10410.0
 2023,"Wilhelmshaven, Stadt",männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03405,2025.0
 2023,"Wilhelmshaven, Stadt",weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03405,1395.0
 2023,"Wilhelmshaven, Stadt",insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03405,3425.0
 2023,Ammerland,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03451,2085.0
 2023,Ammerland,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03451,1720.0
-2023,Ammerland,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03451,3805.0
+2023,Ammerland,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03451,3810.0
 2023,Aurich,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03452,2980.0
 2023,Aurich,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03452,2540.0
 2023,Aurich,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03452,5525.0
 2023,Cloppenburg,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03453,9180.0
 2023,Cloppenburg,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03453,6660.0
 2023,Cloppenburg,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03453,15835.0
-2023,Emsland,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03454,18380.0
+2023,Emsland,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03454,18385.0
 2023,Emsland,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03454,12225.0
 2023,Emsland,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03454,30610.0
 2023,Friesland,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03455,955.0
-2023,Friesland,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03455,775.0
-2023,Friesland,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03455,1720.0
+2023,Friesland,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03455,770.0
+2023,Friesland,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03455,1725.0
 2023,Grafschaft Bentheim,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03456,9640.0
-2023,Grafschaft Bentheim,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03456,7795.0
-2023,Grafschaft Bentheim,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03456,17425.0
+2023,Grafschaft Bentheim,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03456,7790.0
+2023,Grafschaft Bentheim,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03456,17430.0
 2023,Leer,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03457,4730.0
 2023,Leer,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03457,3535.0
-2023,Leer,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03457,8265.0
+2023,Leer,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03457,8270.0
 2023,Oldenburg,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03458,4645.0
-2023,Oldenburg,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03458,3635.0
-2023,Oldenburg,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03458,8270.0
-2023,Osnabrück,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03459,12750.0
-2023,Osnabrück,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03459,9840.0
-2023,Osnabrück,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03459,22555.0
+2023,Oldenburg,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03458,3630.0
+2023,Oldenburg,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03458,8275.0
+2023,Osnabrück,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03459,12755.0
+2023,Osnabrück,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03459,9815.0
+2023,Osnabrück,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03459,22570.0
 2023,Vechta,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03460,6780.0
 2023,Vechta,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03460,5425.0
-2023,Vechta,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03460,12205.0
-2023,Wesermarsch,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03461,2210.0
-2023,Wesermarsch,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03461,1610.0
-2023,Wesermarsch,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03461,3800.0
+2023,Vechta,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03460,12210.0
+2023,Wesermarsch,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03461,2205.0
+2023,Wesermarsch,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03461,1605.0
+2023,Wesermarsch,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03461,3810.0
 2023,Wittmund,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03462,670.0
 2023,Wittmund,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03462,695.0
 2023,Wittmund,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03462,1365.0
-2023,Statistische Region Weser-Ems,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH034,91230.0
-2023,Statistische Region Weser-Ems,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH034,70525.0
-2023,Statistische Region Weser-Ems,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH034,161640.0
-2023,Niedersachsen,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH030,219205.0
-2023,Niedersachsen,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH030,179330.0
-2023,Niedersachsen,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH030,398230.0
+2023,Statistische Region Weser-Ems,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH034,91245.0
+2023,Statistische Region Weser-Ems,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH034,70450.0
+2023,Statistische Region Weser-Ems,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH034,161695.0
+2023,Niedersachsen,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH030,219280.0
+2023,Niedersachsen,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH030,179075.0
+2023,Niedersachsen,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH030,398360.0
 2022,"Braunschweig, Stadt",männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03101,5010.0
 2022,"Braunschweig, Stadt",weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03101,4625.0
 2022,"Braunschweig, Stadt",insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03101,9630.0
@@ -2099,6 +2249,156 @@ Year,Gebietseinheit,Geschlecht,Kategorie,Units,GeoCode,Value
 2010,Niedersachsen,männlich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH030,95810.0
 2010,Niedersachsen,weiblich,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH030,82335.0
 2010,Niedersachsen,insgesamt,Kein Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH030,178150.0
+2024,"Braunschweig, Stadt",männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03101,11420.0
+2024,"Braunschweig, Stadt",weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03101,11150.0
+2024,"Braunschweig, Stadt",insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03101,22570.0
+2024,"Salzgitter, Stadt",männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03102,7970.0
+2024,"Salzgitter, Stadt",weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03102,7495.0
+2024,"Salzgitter, Stadt",insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03102,15465.0
+2024,"Wolfsburg, Stadt",männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03103,6755.0
+2024,"Wolfsburg, Stadt",weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03103,6885.0
+2024,"Wolfsburg, Stadt",insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03103,13635.0
+2024,Gifhorn,männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03151,4435.0
+2024,Gifhorn,weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03151,4705.0
+2024,Gifhorn,insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03151,9145.0
+2024,Goslar,männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03153,4890.0
+2024,Goslar,weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03153,4700.0
+2024,Goslar,insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03153,9590.0
+2024,Helmstedt,männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03154,2495.0
+2024,Helmstedt,weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03154,2665.0
+2024,Helmstedt,insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03154,5160.0
+2024,Northeim,männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03155,3195.0
+2024,Northeim,weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03155,3440.0
+2024,Northeim,insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03155,6635.0
+2024,Peine,männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03157,4885.0
+2024,Peine,weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03157,4975.0
+2024,Peine,insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03157,9865.0
+2024,Wolfenbüttel,männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03158,3180.0
+2024,Wolfenbüttel,weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03158,3170.0
+2024,Wolfenbüttel,insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03158,6350.0
+2024,Göttingen,männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03159,11550.0
+2024,Göttingen,weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03159,12140.0
+2024,Göttingen,insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03159,23690.0
+2024,Statistische Region Braunschweig,männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH031,60780.0
+2024,Statistische Region Braunschweig,weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH031,61320.0
+2024,Statistische Region Braunschweig,insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH031,122105.0
+2024,Region Hannover,männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03241,64195.0
+2024,Region Hannover,weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03241,64735.0
+2024,Region Hannover,insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03241,128930.0
+2024,Diepholz,männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03251,6040.0
+2024,Diepholz,weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03251,6660.0
+2024,Diepholz,insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03251,12700.0
+2024,Hameln-Pyrmont,männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03252,6895.0
+2024,Hameln-Pyrmont,weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03252,7035.0
+2024,Hameln-Pyrmont,insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03252,13930.0
+2024,Hildesheim,männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03254,9355.0
+2024,Hildesheim,weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03254,9455.0
+2024,Hildesheim,insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03254,18810.0
+2024,Holzminden,männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03255,2365.0
+2024,Holzminden,weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03255,2310.0
+2024,Holzminden,insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03255,4675.0
+2024,Nienburg (Weser),männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03256,3765.0
+2024,Nienburg (Weser),weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03256,4220.0
+2024,Nienburg (Weser),insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03256,7990.0
+2024,Schaumburg,männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03257,4950.0
+2024,Schaumburg,weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03257,5225.0
+2024,Schaumburg,insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03257,10175.0
+2024,Statistische Region Hannover,männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH032,97570.0
+2024,Statistische Region Hannover,weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH032,99635.0
+2024,Statistische Region Hannover,insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH032,197205.0
+2024,Celle,männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03351,4860.0
+2024,Celle,weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03351,5325.0
+2024,Celle,insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03351,10190.0
+2024,Cuxhaven,männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03352,4035.0
+2024,Cuxhaven,weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03352,4170.0
+2024,Cuxhaven,insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03352,8205.0
+2024,Harburg,männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03353,6835.0
+2024,Harburg,weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03353,6230.0
+2024,Harburg,insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03353,13065.0
+2024,Lüchow-Dannenberg,männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03354,790.0
+2024,Lüchow-Dannenberg,weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03354,920.0
+2024,Lüchow-Dannenberg,insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03354,1710.0
+2024,Lüneburg,männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03355,4890.0
+2024,Lüneburg,weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03355,5035.0
+2024,Lüneburg,insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03355,9925.0
+2024,Osterholz,männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03356,2695.0
+2024,Osterholz,weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03356,3075.0
+2024,Osterholz,insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03356,5775.0
+2024,Rotenburg (Wümme),männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03357,3695.0
+2024,Rotenburg (Wümme),weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03357,3855.0
+2024,Rotenburg (Wümme),insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03357,7550.0
+2024,Heidekreis,männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03358,3530.0
+2024,Heidekreis,weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03358,3900.0
+2024,Heidekreis,insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03358,7430.0
+2024,Stade,männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03359,6665.0
+2024,Stade,weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03359,6635.0
+2024,Stade,insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03359,13300.0
+2024,Uelzen,männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03360,2010.0
+2024,Uelzen,weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03360,2160.0
+2024,Uelzen,insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03360,4170.0
+2024,Verden,männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03361,4570.0
+2024,Verden,weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03361,4505.0
+2024,Verden,insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03361,9075.0
+2024,Statistische Region Lüneburg,männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH033,44570.0
+2024,Statistische Region Lüneburg,weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH033,45820.0
+2024,Statistische Region Lüneburg,insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH033,90390.0
+2024,"Delmenhorst, Stadt",männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03401,4360.0
+2024,"Delmenhorst, Stadt",weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03401,4355.0
+2024,"Delmenhorst, Stadt",insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03401,8715.0
+2024,"Emden, Stadt",männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03402,1930.0
+2024,"Emden, Stadt",weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03402,1820.0
+2024,"Emden, Stadt",insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03402,3755.0
+2024,"Oldenburg (Oldb), Stadt",männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03403,7435.0
+2024,"Oldenburg (Oldb), Stadt",weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03403,7770.0
+2024,"Oldenburg (Oldb), Stadt",insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03403,15205.0
+2024,"Osnabrück, Stadt",männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03404,8685.0
+2024,"Osnabrück, Stadt",weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03404,8770.0
+2024,"Osnabrück, Stadt",insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03404,17455.0
+2024,"Wilhelmshaven, Stadt",männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03405,3205.0
+2024,"Wilhelmshaven, Stadt",weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03405,3100.0
+2024,"Wilhelmshaven, Stadt",insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03405,6305.0
+2024,Ammerland,männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03451,2585.0
+2024,Ammerland,weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03451,2795.0
+2024,Ammerland,insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03451,5380.0
+2024,Aurich,männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03452,3315.0
+2024,Aurich,weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03452,3265.0
+2024,Aurich,insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03452,6580.0
+2024,Cloppenburg,männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03453,4645.0
+2024,Cloppenburg,weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03453,4735.0
+2024,Cloppenburg,insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03453,9380.0
+2024,Emsland,männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03454,9010.0
+2024,Emsland,weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03454,8465.0
+2024,Emsland,insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03454,17475.0
+2024,Friesland,männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03455,1690.0
+2024,Friesland,weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03455,1850.0
+2024,Friesland,insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03455,3540.0
+2024,Grafschaft Bentheim,männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03456,3700.0
+2024,Grafschaft Bentheim,weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03456,3910.0
+2024,Grafschaft Bentheim,insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03456,7610.0
+2024,Leer,männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03457,4105.0
+2024,Leer,weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03457,3915.0
+2024,Leer,insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03457,8020.0
+2024,Oldenburg,männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03458,2805.0
+2024,Oldenburg,weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03458,2935.0
+2024,Oldenburg,insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03458,5740.0
+2024,Osnabrück,männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03459,7570.0
+2024,Osnabrück,weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03459,8445.0
+2024,Osnabrück,insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03459,16015.0
+2024,Vechta,männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03460,5635.0
+2024,Vechta,weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03460,5985.0
+2024,Vechta,insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03460,11620.0
+2024,Wesermarsch,männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03461,2355.0
+2024,Wesermarsch,weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03461,2360.0
+2024,Wesermarsch,insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03461,4715.0
+2024,Wittmund,männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03462,1110.0
+2024,Wittmund,weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03462,1185.0
+2024,Wittmund,insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03462,2295.0
+2024,Statistische Region Weser-Ems,männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH034,74135.0
+2024,Statistische Region Weser-Ems,weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH034,75665.0
+2024,Statistische Region Weser-Ems,insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH034,149800.0
+2024,Niedersachsen,männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH030,277055.0
+2024,Niedersachsen,weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH030,282440.0
+2024,Niedersachsen,insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH030,559500.0
 2023,"Braunschweig, Stadt",männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03101,11110.0
 2023,"Braunschweig, Stadt",weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03101,10715.0
 2023,"Braunschweig, Stadt",insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH03101,21830.0
@@ -4199,6 +4499,156 @@ Year,Gebietseinheit,Geschlecht,Kategorie,Units,GeoCode,Value
 2010,Niedersachsen,männlich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH030,123065.0
 2010,Niedersachsen,weiblich,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH030,129090.0
 2010,Niedersachsen,insgesamt,Aufenthaltstitel nach nationalem Recht erforderlich,Anzahl,RH030,252155.0
+2024,"Braunschweig, Stadt",männlich,Ohne Aufenthalstitel,Anzahl,RH03101,1810.0
+2024,"Braunschweig, Stadt",weiblich,Ohne Aufenthalstitel,Anzahl,RH03101,1415.0
+2024,"Braunschweig, Stadt",insgesamt,Ohne Aufenthalstitel,Anzahl,RH03101,3230.0
+2024,"Salzgitter, Stadt",männlich,Ohne Aufenthalstitel,Anzahl,RH03102,955.0
+2024,"Salzgitter, Stadt",weiblich,Ohne Aufenthalstitel,Anzahl,RH03102,495.0
+2024,"Salzgitter, Stadt",insgesamt,Ohne Aufenthalstitel,Anzahl,RH03102,1450.0
+2024,"Wolfsburg, Stadt",männlich,Ohne Aufenthalstitel,Anzahl,RH03103,1400.0
+2024,"Wolfsburg, Stadt",weiblich,Ohne Aufenthalstitel,Anzahl,RH03103,885.0
+2024,"Wolfsburg, Stadt",insgesamt,Ohne Aufenthalstitel,Anzahl,RH03103,2285.0
+2024,Gifhorn,männlich,Ohne Aufenthalstitel,Anzahl,RH03151,1500.0
+2024,Gifhorn,weiblich,Ohne Aufenthalstitel,Anzahl,RH03151,930.0
+2024,Gifhorn,insgesamt,Ohne Aufenthalstitel,Anzahl,RH03151,2430.0
+2024,Goslar,männlich,Ohne Aufenthalstitel,Anzahl,RH03153,1490.0
+2024,Goslar,weiblich,Ohne Aufenthalstitel,Anzahl,RH03153,830.0
+2024,Goslar,insgesamt,Ohne Aufenthalstitel,Anzahl,RH03153,2320.0
+2024,Helmstedt,männlich,Ohne Aufenthalstitel,Anzahl,RH03154,540.0
+2024,Helmstedt,weiblich,Ohne Aufenthalstitel,Anzahl,RH03154,355.0
+2024,Helmstedt,insgesamt,Ohne Aufenthalstitel,Anzahl,RH03154,895.0
+2024,Northeim,männlich,Ohne Aufenthalstitel,Anzahl,RH03155,1165.0
+2024,Northeim,weiblich,Ohne Aufenthalstitel,Anzahl,RH03155,695.0
+2024,Northeim,insgesamt,Ohne Aufenthalstitel,Anzahl,RH03155,1860.0
+2024,Peine,männlich,Ohne Aufenthalstitel,Anzahl,RH03157,885.0
+2024,Peine,weiblich,Ohne Aufenthalstitel,Anzahl,RH03157,550.0
+2024,Peine,insgesamt,Ohne Aufenthalstitel,Anzahl,RH03157,1435.0
+2024,Wolfenbüttel,männlich,Ohne Aufenthalstitel,Anzahl,RH03158,1165.0
+2024,Wolfenbüttel,weiblich,Ohne Aufenthalstitel,Anzahl,RH03158,700.0
+2024,Wolfenbüttel,insgesamt,Ohne Aufenthalstitel,Anzahl,RH03158,1870.0
+2024,Göttingen,männlich,Ohne Aufenthalstitel,Anzahl,RH03159,2025.0
+2024,Göttingen,weiblich,Ohne Aufenthalstitel,Anzahl,RH03159,1490.0
+2024,Göttingen,insgesamt,Ohne Aufenthalstitel,Anzahl,RH03159,3515.0
+2024,Statistische Region Braunschweig,männlich,Ohne Aufenthalstitel,Anzahl,RH031,12935.0
+2024,Statistische Region Braunschweig,weiblich,Ohne Aufenthalstitel,Anzahl,RH031,8355.0
+2024,Statistische Region Braunschweig,insgesamt,Ohne Aufenthalstitel,Anzahl,RH031,21285.0
+2024,Region Hannover,männlich,Ohne Aufenthalstitel,Anzahl,RH03241,10825.0
+2024,Region Hannover,weiblich,Ohne Aufenthalstitel,Anzahl,RH03241,7265.0
+2024,Region Hannover,insgesamt,Ohne Aufenthalstitel,Anzahl,RH03241,18095.0
+2024,Diepholz,männlich,Ohne Aufenthalstitel,Anzahl,RH03251,1295.0
+2024,Diepholz,weiblich,Ohne Aufenthalstitel,Anzahl,RH03251,1015.0
+2024,Diepholz,insgesamt,Ohne Aufenthalstitel,Anzahl,RH03251,2310.0
+2024,Hameln-Pyrmont,männlich,Ohne Aufenthalstitel,Anzahl,RH03252,890.0
+2024,Hameln-Pyrmont,weiblich,Ohne Aufenthalstitel,Anzahl,RH03252,655.0
+2024,Hameln-Pyrmont,insgesamt,Ohne Aufenthalstitel,Anzahl,RH03252,1550.0
+2024,Hildesheim,männlich,Ohne Aufenthalstitel,Anzahl,RH03254,2270.0
+2024,Hildesheim,weiblich,Ohne Aufenthalstitel,Anzahl,RH03254,1330.0
+2024,Hildesheim,insgesamt,Ohne Aufenthalstitel,Anzahl,RH03254,3600.0
+2024,Holzminden,männlich,Ohne Aufenthalstitel,Anzahl,RH03255,350.0
+2024,Holzminden,weiblich,Ohne Aufenthalstitel,Anzahl,RH03255,270.0
+2024,Holzminden,insgesamt,Ohne Aufenthalstitel,Anzahl,RH03255,620.0
+2024,Nienburg (Weser),männlich,Ohne Aufenthalstitel,Anzahl,RH03256,725.0
+2024,Nienburg (Weser),weiblich,Ohne Aufenthalstitel,Anzahl,RH03256,505.0
+2024,Nienburg (Weser),insgesamt,Ohne Aufenthalstitel,Anzahl,RH03256,1230.0
+2024,Schaumburg,männlich,Ohne Aufenthalstitel,Anzahl,RH03257,1265.0
+2024,Schaumburg,weiblich,Ohne Aufenthalstitel,Anzahl,RH03257,970.0
+2024,Schaumburg,insgesamt,Ohne Aufenthalstitel,Anzahl,RH03257,2235.0
+2024,Statistische Region Hannover,männlich,Ohne Aufenthalstitel,Anzahl,RH032,17630.0
+2024,Statistische Region Hannover,weiblich,Ohne Aufenthalstitel,Anzahl,RH032,12010.0
+2024,Statistische Region Hannover,insgesamt,Ohne Aufenthalstitel,Anzahl,RH032,29635.0
+2024,Celle,männlich,Ohne Aufenthalstitel,Anzahl,RH03351,990.0
+2024,Celle,weiblich,Ohne Aufenthalstitel,Anzahl,RH03351,545.0
+2024,Celle,insgesamt,Ohne Aufenthalstitel,Anzahl,RH03351,1535.0
+2024,Cuxhaven,männlich,Ohne Aufenthalstitel,Anzahl,RH03352,1210.0
+2024,Cuxhaven,weiblich,Ohne Aufenthalstitel,Anzahl,RH03352,740.0
+2024,Cuxhaven,insgesamt,Ohne Aufenthalstitel,Anzahl,RH03352,1950.0
+2024,Harburg,männlich,Ohne Aufenthalstitel,Anzahl,RH03353,3735.0
+2024,Harburg,weiblich,Ohne Aufenthalstitel,Anzahl,RH03353,910.0
+2024,Harburg,insgesamt,Ohne Aufenthalstitel,Anzahl,RH03353,4645.0
+2024,Lüchow-Dannenberg,männlich,Ohne Aufenthalstitel,Anzahl,RH03354,330.0
+2024,Lüchow-Dannenberg,weiblich,Ohne Aufenthalstitel,Anzahl,RH03354,250.0
+2024,Lüchow-Dannenberg,insgesamt,Ohne Aufenthalstitel,Anzahl,RH03354,580.0
+2024,Lüneburg,männlich,Ohne Aufenthalstitel,Anzahl,RH03355,1475.0
+2024,Lüneburg,weiblich,Ohne Aufenthalstitel,Anzahl,RH03355,1215.0
+2024,Lüneburg,insgesamt,Ohne Aufenthalstitel,Anzahl,RH03355,2695.0
+2024,Osterholz,männlich,Ohne Aufenthalstitel,Anzahl,RH03356,585.0
+2024,Osterholz,weiblich,Ohne Aufenthalstitel,Anzahl,RH03356,485.0
+2024,Osterholz,insgesamt,Ohne Aufenthalstitel,Anzahl,RH03356,1070.0
+2024,Rotenburg (Wümme),männlich,Ohne Aufenthalstitel,Anzahl,RH03357,1610.0
+2024,Rotenburg (Wümme),weiblich,Ohne Aufenthalstitel,Anzahl,RH03357,960.0
+2024,Rotenburg (Wümme),insgesamt,Ohne Aufenthalstitel,Anzahl,RH03357,2570.0
+2024,Heidekreis,männlich,Ohne Aufenthalstitel,Anzahl,RH03358,470.0
+2024,Heidekreis,weiblich,Ohne Aufenthalstitel,Anzahl,RH03358,330.0
+2024,Heidekreis,insgesamt,Ohne Aufenthalstitel,Anzahl,RH03358,800.0
+2024,Stade,männlich,Ohne Aufenthalstitel,Anzahl,RH03359,1330.0
+2024,Stade,weiblich,Ohne Aufenthalstitel,Anzahl,RH03359,740.0
+2024,Stade,insgesamt,Ohne Aufenthalstitel,Anzahl,RH03359,2065.0
+2024,Uelzen,männlich,Ohne Aufenthalstitel,Anzahl,RH03360,355.0
+2024,Uelzen,weiblich,Ohne Aufenthalstitel,Anzahl,RH03360,230.0
+2024,Uelzen,insgesamt,Ohne Aufenthalstitel,Anzahl,RH03360,585.0
+2024,Verden,männlich,Ohne Aufenthalstitel,Anzahl,RH03361,820.0
+2024,Verden,weiblich,Ohne Aufenthalstitel,Anzahl,RH03361,475.0
+2024,Verden,insgesamt,Ohne Aufenthalstitel,Anzahl,RH03361,1295.0
+2024,Statistische Region Lüneburg,männlich,Ohne Aufenthalstitel,Anzahl,RH033,12910.0
+2024,Statistische Region Lüneburg,weiblich,Ohne Aufenthalstitel,Anzahl,RH033,6880.0
+2024,Statistische Region Lüneburg,insgesamt,Ohne Aufenthalstitel,Anzahl,RH033,19790.0
+2024,"Delmenhorst, Stadt",männlich,Ohne Aufenthalstitel,Anzahl,RH03401,585.0
+2024,"Delmenhorst, Stadt",weiblich,Ohne Aufenthalstitel,Anzahl,RH03401,455.0
+2024,"Delmenhorst, Stadt",insgesamt,Ohne Aufenthalstitel,Anzahl,RH03401,1040.0
+2024,"Emden, Stadt",männlich,Ohne Aufenthalstitel,Anzahl,RH03402,435.0
+2024,"Emden, Stadt",weiblich,Ohne Aufenthalstitel,Anzahl,RH03402,280.0
+2024,"Emden, Stadt",insgesamt,Ohne Aufenthalstitel,Anzahl,RH03402,715.0
+2024,"Oldenburg (Oldb), Stadt",männlich,Ohne Aufenthalstitel,Anzahl,RH03403,850.0
+2024,"Oldenburg (Oldb), Stadt",weiblich,Ohne Aufenthalstitel,Anzahl,RH03403,710.0
+2024,"Oldenburg (Oldb), Stadt",insgesamt,Ohne Aufenthalstitel,Anzahl,RH03403,1560.0
+2024,"Osnabrück, Stadt",männlich,Ohne Aufenthalstitel,Anzahl,RH03404,1230.0
+2024,"Osnabrück, Stadt",weiblich,Ohne Aufenthalstitel,Anzahl,RH03404,845.0
+2024,"Osnabrück, Stadt",insgesamt,Ohne Aufenthalstitel,Anzahl,RH03404,2075.0
+2024,"Wilhelmshaven, Stadt",männlich,Ohne Aufenthalstitel,Anzahl,RH03405,595.0
+2024,"Wilhelmshaven, Stadt",weiblich,Ohne Aufenthalstitel,Anzahl,RH03405,290.0
+2024,"Wilhelmshaven, Stadt",insgesamt,Ohne Aufenthalstitel,Anzahl,RH03405,885.0
+2024,Ammerland,männlich,Ohne Aufenthalstitel,Anzahl,RH03451,925.0
+2024,Ammerland,weiblich,Ohne Aufenthalstitel,Anzahl,RH03451,590.0
+2024,Ammerland,insgesamt,Ohne Aufenthalstitel,Anzahl,RH03451,1510.0
+2024,Aurich,männlich,Ohne Aufenthalstitel,Anzahl,RH03452,1810.0
+2024,Aurich,weiblich,Ohne Aufenthalstitel,Anzahl,RH03452,870.0
+2024,Aurich,insgesamt,Ohne Aufenthalstitel,Anzahl,RH03452,2680.0
+2024,Cloppenburg,männlich,Ohne Aufenthalstitel,Anzahl,RH03453,1105.0
+2024,Cloppenburg,weiblich,Ohne Aufenthalstitel,Anzahl,RH03453,715.0
+2024,Cloppenburg,insgesamt,Ohne Aufenthalstitel,Anzahl,RH03453,1820.0
+2024,Emsland,männlich,Ohne Aufenthalstitel,Anzahl,RH03454,2260.0
+2024,Emsland,weiblich,Ohne Aufenthalstitel,Anzahl,RH03454,1140.0
+2024,Emsland,insgesamt,Ohne Aufenthalstitel,Anzahl,RH03454,3400.0
+2024,Friesland,männlich,Ohne Aufenthalstitel,Anzahl,RH03455,595.0
+2024,Friesland,weiblich,Ohne Aufenthalstitel,Anzahl,RH03455,420.0
+2024,Friesland,insgesamt,Ohne Aufenthalstitel,Anzahl,RH03455,1020.0
+2024,Grafschaft Bentheim,männlich,Ohne Aufenthalstitel,Anzahl,RH03456,875.0
+2024,Grafschaft Bentheim,weiblich,Ohne Aufenthalstitel,Anzahl,RH03456,490.0
+2024,Grafschaft Bentheim,insgesamt,Ohne Aufenthalstitel,Anzahl,RH03456,1365.0
+2024,Leer,männlich,Ohne Aufenthalstitel,Anzahl,RH03457,1395.0
+2024,Leer,weiblich,Ohne Aufenthalstitel,Anzahl,RH03457,885.0
+2024,Leer,insgesamt,Ohne Aufenthalstitel,Anzahl,RH03457,2280.0
+2024,Oldenburg,männlich,Ohne Aufenthalstitel,Anzahl,RH03458,830.0
+2024,Oldenburg,weiblich,Ohne Aufenthalstitel,Anzahl,RH03458,575.0
+2024,Oldenburg,insgesamt,Ohne Aufenthalstitel,Anzahl,RH03458,1405.0
+2024,Osnabrück,männlich,Ohne Aufenthalstitel,Anzahl,RH03459,1765.0
+2024,Osnabrück,weiblich,Ohne Aufenthalstitel,Anzahl,RH03459,1185.0
+2024,Osnabrück,insgesamt,Ohne Aufenthalstitel,Anzahl,RH03459,2950.0
+2024,Vechta,männlich,Ohne Aufenthalstitel,Anzahl,RH03460,640.0
+2024,Vechta,weiblich,Ohne Aufenthalstitel,Anzahl,RH03460,425.0
+2024,Vechta,insgesamt,Ohne Aufenthalstitel,Anzahl,RH03460,1065.0
+2024,Wesermarsch,männlich,Ohne Aufenthalstitel,Anzahl,RH03461,715.0
+2024,Wesermarsch,weiblich,Ohne Aufenthalstitel,Anzahl,RH03461,490.0
+2024,Wesermarsch,insgesamt,Ohne Aufenthalstitel,Anzahl,RH03461,1205.0
+2024,Wittmund,männlich,Ohne Aufenthalstitel,Anzahl,RH03462,410.0
+2024,Wittmund,weiblich,Ohne Aufenthalstitel,Anzahl,RH03462,280.0
+2024,Wittmund,insgesamt,Ohne Aufenthalstitel,Anzahl,RH03462,690.0
+2024,Statistische Region Weser-Ems,männlich,Ohne Aufenthalstitel,Anzahl,RH034,17010.0
+2024,Statistische Region Weser-Ems,weiblich,Ohne Aufenthalstitel,Anzahl,RH034,10655.0
+2024,Statistische Region Weser-Ems,insgesamt,Ohne Aufenthalstitel,Anzahl,RH034,27665.0
+2024,Niedersachsen,männlich,Ohne Aufenthalstitel,Anzahl,RH030,60480.0
+2024,Niedersachsen,weiblich,Ohne Aufenthalstitel,Anzahl,RH030,37895.0
+2024,Niedersachsen,insgesamt,Ohne Aufenthalstitel,Anzahl,RH030,98380.0
 2023,"Braunschweig, Stadt",männlich,Ohne Aufenthalstitel,Anzahl,RH03101,1795.0
 2023,"Braunschweig, Stadt",weiblich,Ohne Aufenthalstitel,Anzahl,RH03101,1265.0
 2023,"Braunschweig, Stadt",insgesamt,Ohne Aufenthalstitel,Anzahl,RH03101,3060.0
@@ -6299,22 +6749,172 @@ Year,Gebietseinheit,Geschlecht,Kategorie,Units,GeoCode,Value
 2010,Niedersachsen,männlich,Ohne Aufenthalstitel,Anzahl,RH030,12315.0
 2010,Niedersachsen,weiblich,Ohne Aufenthalstitel,Anzahl,RH030,8350.0
 2010,Niedersachsen,insgesamt,Ohne Aufenthalstitel,Anzahl,RH030,20665.0
-2023,"Braunschweig, Stadt",männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03101,25.6955380577428
+2024,"Braunschweig, Stadt",männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03101,24.3142476697736
+2024,"Braunschweig, Stadt",weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03101,24.5952854302755
+2024,"Braunschweig, Stadt",insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03101,24.436503573392
+2024,"Salzgitter, Stadt",männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03102,31.9274879763226
+2024,"Salzgitter, Stadt",weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03102,29.1845493562232
+2024,"Salzgitter, Stadt",insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03102,30.6515693285658
+2024,"Wolfsburg, Stadt",männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03103,37.6609047443913
+2024,"Wolfsburg, Stadt",weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03103,35.3036437246964
+2024,"Wolfsburg, Stadt",insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03103,36.5581036808634
+2024,Gifhorn,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03151,33.7931034482759
+2024,Gifhorn,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03151,30.3370786516854
+2024,Gifhorn,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03151,32.158836689038
+2024,Goslar,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03153,25.5826558265583
+2024,Goslar,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03153,25.8002560819462
+2024,Goslar,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03153,25.7117698855298
+2024,Helmstedt,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03154,36.0406091370558
+2024,Helmstedt,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03154,31.8729463307777
+2024,Helmstedt,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03154,34.0179041600843
+2024,Northeim,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03155,30.7273963290279
+2024,Northeim,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03155,27.8700906344411
+2024,Northeim,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03155,29.3738819320215
+2024,Peine,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03157,31.5758640890451
+2024,Peine,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03157,28.4338896020539
+2024,Peine,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03157,30.1071975497703
+2024,Wolfenbüttel,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03158,23.2006773920406
+2024,Wolfenbüttel,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03158,22.8846153846154
+2024,Wolfenbüttel,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03158,23.0076542098154
+2024,Göttingen,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03159,28.9329195512055
+2024,Göttingen,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03159,27.9103750608865
+2024,Göttingen,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03159,28.414707655214
+2024,Statistische Region Braunschweig,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH031,30.0329738882453
+2024,Statistische Region Braunschweig,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH031,28.3792347063125
+2024,Statistische Region Braunschweig,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH031,29.2431966850572
+2024,Region Hannover,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03241,31.7637059073523
+2024,Region Hannover,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03241,30.3655150439255
+2024,Region Hannover,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03241,31.088595353744
+2024,Diepholz,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03251,42.6015654118524
+2024,Diepholz,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03251,37.3081463990555
+2024,Diepholz,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03251,40.0267993874426
+2024,Hameln-Pyrmont,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03252,28.7406757349715
+2024,Hameln-Pyrmont,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03252,26.3594470046083
+2024,Hameln-Pyrmont,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03252,27.5955056179775
+2024,Hildesheim,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03254,28.6529680365297
+2024,Hildesheim,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03254,27.5851197982346
+2024,Hildesheim,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03254,28.1455961653685
+2024,Holzminden,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03255,20.8391608391608
+2024,Holzminden,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03255,20.0899550224888
+2024,Holzminden,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03255,20.4775687409551
+2024,Nienburg (Weser),männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03256,35.1006711409396
+2024,Nienburg (Weser),weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03256,27.4836838288615
+2024,Nienburg (Weser),insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03256,31.439525967236
+2024,Schaumburg,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03257,34.0943683409437
+2024,Schaumburg,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03257,29.7579757975798
+2024,Schaumburg,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03257,32.0316622691293
+2024,Statistische Region Hannover,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH032,32.1169901033892
+2024,Statistische Region Hannover,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH032,30.0213548463637
+2024,Statistische Region Hannover,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH032,31.1088853913292
+2024,Celle,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03351,34.8643006263048
+2024,Celle,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03351,31.4222712238148
+2024,Celle,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03351,33.2082551594747
+2024,Cuxhaven,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03352,39.1280044717719
+2024,Cuxhaven,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03352,37.2682323856613
+2024,Cuxhaven,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03352,38.2447901379513
+2024,Harburg,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03353,37.0767960363336
+2024,Harburg,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03353,41.1565903116786
+2024,Harburg,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03353,38.8024142312579
+2024,Lüchow-Dannenberg,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03354,37.8446115288221
+2024,Lüchow-Dannenberg,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03354,33.419689119171
+2024,Lüchow-Dannenberg,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03354,35.6234096692112
+2024,Lüneburg,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03355,26.4202978488693
+2024,Lüneburg,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03355,23.7983587338804
+2024,Lüneburg,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03355,25.1491901108269
+2024,Osterholz,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03356,27.1334792122538
+2024,Osterholz,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03356,24.8440748440748
+2024,Osterholz,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03356,25.9594882729211
+2024,Rotenburg (Wümme),männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03357,39.344262295082
+2024,Rotenburg (Wümme),weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03357,35.2978859705317
+2024,Rotenburg (Wümme),insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03357,37.4705188679245
+2024,Heidekreis,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03358,46.4084946908182
+2024,Heidekreis,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03358,39.5427034297243
+2024,Heidekreis,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03358,43.1023316062176
+2024,Stade,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03359,41.4897319874695
+2024,Stade,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03359,37.8714859437751
+2024,Stade,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03359,39.8098079433153
+2024,Uelzen,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03360,32.2344322344322
+2024,Uelzen,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03360,29.2592592592593
+2024,Uelzen,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03360,30.7550644567219
+2024,Verden,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03361,31.0516490354698
+2024,Verden,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03361,29.4809688581315
+2024,Verden,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03361,30.307994757536
+2024,Statistische Region Lüneburg,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH033,36.5426695842451
+2024,Statistische Region Lüneburg,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH033,34.1556985185622
+2024,Statistische Region Lüneburg,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH033,35.4225469035364
+2024,"Delmenhorst, Stadt",männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03401,39.4642857142857
+2024,"Delmenhorst, Stadt",weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03401,38.9674247080516
+2024,"Delmenhorst, Stadt",insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03401,39.2316999395039
+2024,"Emden, Stadt",männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03402,37.9975874547648
+2024,"Emden, Stadt",weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03402,34.3195266272189
+2024,"Emden, Stadt",insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03402,36.2790697674419
+2024,"Oldenburg (Oldb), Stadt",männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03403,27.0020964360587
+2024,"Oldenburg (Oldb), Stadt",weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03403,25.9707724425887
+2024,"Oldenburg (Oldb), Stadt",insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03403,26.4853556485356
+2024,"Osnabrück, Stadt",männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03404,33.552014995314
+2024,"Osnabrück, Stadt",weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03404,32.5435998683778
+2024,"Osnabrück, Stadt",insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03404,33.0608974358974
+2024,"Wilhelmshaven, Stadt",männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03405,30.3664921465969
+2024,"Wilhelmshaven, Stadt",weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03405,25.2516010978957
+2024,"Wilhelmshaven, Stadt",insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03405,28.0246913580247
+2024,Ammerland,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03451,33.4959349593496
+2024,Ammerland,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03451,30.4308797127469
+2024,Ammerland,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03451,32.0819112627986
+2024,Aurich,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03452,33.3138515488019
+2024,Aurich,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03452,34.2348754448399
+2024,Aurich,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03452,33.7291399229782
+2024,Cloppenburg,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03453,59.8217233410366
+2024,Cloppenburg,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03453,54.175070592981
+2024,Cloppenburg,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03453,57.2803195352215
+2024,Emsland,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03454,60.1631429998335
+2024,Emsland,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03454,55.2823920265781
+2024,Emsland,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03454,58.0688082113667
+2024,Friesland,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03455,27.3361227336123
+2024,Friesland,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03455,24.5535714285714
+2024,Friesland,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03455,25.9899208063355
+2024,Grafschaft Bentheim,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03456,66.9392108069677
+2024,Grafschaft Bentheim,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03456,63.1079967023908
+2024,Grafschaft Bentheim,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03456,65.1651078450086
+2024,Leer,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03457,43.1166347992352
+2024,Leer,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03457,40.1038661281016
+2024,Leer,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03457,41.7625523012552
+2024,Oldenburg,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03458,54.5846153846154
+2024,Oldenburg,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03458,49.6113074204947
+2024,Oldenburg,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03458,52.2854324235449
+2024,Osnabrück,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03459,55.9231113097899
+2024,Osnabrück,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03459,49.3219487694626
+2024,Osnabrück,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03459,52.8145695364238
+2024,Vechta,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03460,51.0188389081123
+2024,Vechta,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03460,45.0106157112527
+2024,Vechta,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03460,48.1937436932392
+2024,Wesermarsch,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03461,40.1240035429584
+2024,Wesermarsch,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03461,35.3187042842215
+2024,Wesermarsch,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03461,37.9194630872483
+2024,Wittmund,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03462,30.9210526315789
+2024,Wittmund,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03462,30.8219178082192
+2024,Wittmund,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03462,30.7606263982103
+2024,Statistische Region Weser-Ems,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH034,47.7060778218459
+2024,Statistische Region Weser-Ems,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH034,43.3185854398069
+2024,Statistische Region Weser-Ems,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH034,45.671123109841
+2024,Niedersachsen,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH030,37.5032573006966
+2024,Niedersachsen,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH030,34.526938239159
+2024,Niedersachsen,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH030,36.0938057469056
+2023,"Braunschweig, Stadt",männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03101,25.7217847769029
 2023,"Braunschweig, Stadt",weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03101,26.0363429869392
-2023,"Braunschweig, Stadt",insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03101,25.8764152230255
-2023,"Salzgitter, Stadt",männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03102,31.6890881913303
-2023,"Salzgitter, Stadt",weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03102,29.3939393939394
-2023,"Salzgitter, Stadt",insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03102,30.585639791416
+2023,"Braunschweig, Stadt",insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03101,25.8627745191652
+2023,"Salzgitter, Stadt",männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03102,31.7264573991031
+2023,"Salzgitter, Stadt",weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03102,29.3073593073593
+2023,"Salzgitter, Stadt",insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03102,30.6056959486562
 2023,"Wolfsburg, Stadt",männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03103,40.4342942718083
 2023,"Wolfsburg, Stadt",weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03103,37.2015081692501
-2023,"Wolfsburg, Stadt",insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03103,38.9086595492289
+2023,"Wolfsburg, Stadt",insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03103,38.928430209569
 2023,Gifhorn,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03151,35.0670241286863
-2023,Gifhorn,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03151,31.0119047619048
-2023,Gifhorn,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03151,33.0981941309255
+2023,Gifhorn,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03151,30.952380952381
+2023,Gifhorn,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03151,33.1264108352145
 2023,Goslar,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03153,25.7737459978655
 2023,Goslar,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03153,25.6799493991145
 2023,Goslar,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03153,25.7308248914617
-2023,Helmstedt,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03154,36.6839378238342
+2023,Helmstedt,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03154,36.7875647668394
 2023,Helmstedt,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03154,32.4115044247788
 2023,Helmstedt,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03154,34.6524064171123
 2023,Northeim,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03155,29.3856402664693
@@ -6323,48 +6923,48 @@ Year,Gebietseinheit,Geschlecht,Kategorie,Units,GeoCode,Value
 2023,Peine,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03157,32.086851628468
 2023,Peine,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03157,28.5433070866142
 2023,Peine,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03157,30.3992455202766
-2023,Wolfenbüttel,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03158,24.8927038626609
+2023,Wolfenbüttel,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03158,24.9785407725322
 2023,Wolfenbüttel,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03158,23.2227488151659
 2023,Wolfenbüttel,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03158,24.1441441441441
 2023,Göttingen,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03159,29.0157958687728
-2023,Göttingen,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03159,27.9404466501241
-2023,Göttingen,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03159,28.4714548802947
-2023,Statistische Region Braunschweig,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH031,30.7598537180008
-2023,Statistische Region Braunschweig,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH031,28.8856015779093
-2023,Statistische Region Braunschweig,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH031,29.8380824436117
-2023,Region Hannover,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03241,32.0648648648649
-2023,Region Hannover,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03241,30.6948640483384
-2023,Region Hannover,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03241,31.364247311828
+2023,Göttingen,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03159,27.9156327543424
+2023,Göttingen,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03159,28.4960098219767
+2023,Statistische Region Braunschweig,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH031,30.7779132240733
+2023,Statistische Region Braunschweig,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH031,28.8313609467456
+2023,Statistische Region Braunschweig,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH031,29.8475099578119
+2023,Region Hannover,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03241,32.0821621621622
+2023,Region Hannover,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03241,30.620497327446
+2023,Region Hannover,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03241,31.377688172043
 2023,Diepholz,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03251,44.0814757878555
 2023,Diepholz,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03251,38.5395537525355
 2023,Diepholz,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03251,41.3936044216344
 2023,Hameln-Pyrmont,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03252,29.2586054721977
 2023,Hameln-Pyrmont,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03252,27.0220588235294
 2023,Hameln-Pyrmont,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03252,28.1855020261144
-2023,Hildesheim,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03254,29.3583191368541
+2023,Hildesheim,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03254,29.3867120954003
 2023,Hildesheim,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03254,27.6468740182218
 2023,Hildesheim,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03254,28.5650357995227
 2023,Holzminden,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03255,18.0473372781065
 2023,Holzminden,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03255,17.6838810641628
 2023,Holzminden,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03255,17.9331306990881
-2023,Nienburg (Weser),männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03256,36.9953673064196
+2023,Nienburg (Weser),männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03256,37.0615486432826
 2023,Nienburg (Weser),weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03256,28.9034132171387
 2023,Nienburg (Weser),insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03256,33.1602630668051
 2023,Schaumburg,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03257,34.411318847903
 2023,Schaumburg,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03257,29.6501943364797
-2023,Schaumburg,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03257,32.1428571428571
-2023,Statistische Region Hannover,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH032,32.5775622880525
-2023,Statistische Region Hannover,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH032,30.3776088792375
-2023,Statistische Region Hannover,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH032,31.4859741127591
-2023,Celle,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03351,35.470310036784
+2023,Schaumburg,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03257,32.1693121693122
+2023,Statistische Region Hannover,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH032,32.5915753482245
+2023,Statistische Region Hannover,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH032,30.3203040173724
+2023,Statistische Region Hannover,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH032,31.4975957697169
+2023,Celle,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03351,35.5228586442459
 2023,Celle,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03351,31.5235457063712
-2023,Celle,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03351,33.5221143473571
+2023,Celle,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03351,33.5490830636462
 2023,Cuxhaven,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03352,39.8234969663541
 2023,Cuxhaven,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03352,37.2346876895088
 2023,Cuxhaven,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03352,38.5904101675332
 2023,Harburg,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03353,38.0605381165919
-2023,Harburg,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03353,42.1192556019749
-2023,Harburg,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03353,39.7032736655378
+2023,Harburg,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03353,42.0053171287505
+2023,Harburg,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03353,39.7516529592001
 2023,Lüchow-Dannenberg,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03354,38.676844783715
 2023,Lüchow-Dannenberg,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03354,31.8766066838046
 2023,Lüchow-Dannenberg,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03354,35.2941176470588
@@ -6377,78 +6977,78 @@ Year,Gebietseinheit,Geschlecht,Kategorie,Units,GeoCode,Value
 2023,Rotenburg (Wümme),männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03357,39.6028681742967
 2023,Rotenburg (Wümme),weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03357,35.6770833333333
 2023,Rotenburg (Wümme),insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03357,37.7910447761194
-2023,Heidekreis,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03358,43.5722411831627
+2023,Heidekreis,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03358,43.6860068259386
 2023,Heidekreis,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03358,36.5571776155718
-2023,Heidekreis,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03358,40.270429159318
+2023,Heidekreis,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03358,40.2410346854791
 2023,Stade,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03359,41.5120756037802
 2023,Stade,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03359,37.2819472616633
-2023,Stade,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03359,39.5340097707629
+2023,Stade,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03359,39.5527996993611
 2023,Uelzen,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03360,33.2932692307692
 2023,Uelzen,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03360,29.2771084337349
 2023,Uelzen,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03360,31.2687913409501
-2023,Verden,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03361,33.3125778331258
+2023,Verden,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03361,33.3748443337484
 2023,Verden,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03361,30.2439024390244
 2023,Verden,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03361,31.8869165023011
-2023,Statistische Region Lüneburg,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH033,37.256738474347
-2023,Statistische Region Lüneburg,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH033,34.2352388778026
-2023,Statistische Region Lüneburg,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH033,35.8102330713005
-2023,"Delmenhorst, Stadt",männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03401,42.1866056096165
+2023,Statistische Region Lüneburg,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH033,37.2671453845353
+2023,Statistische Region Lüneburg,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH033,34.1882850099777
+2023,Statistische Region Lüneburg,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH033,35.8212660322714
+2023,"Delmenhorst, Stadt",männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03401,42.2438465941614
 2023,"Delmenhorst, Stadt",weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03401,40.0
 2023,"Delmenhorst, Stadt",insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03401,41.1625148279953
 2023,"Emden, Stadt",männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03402,38.5227272727273
 2023,"Emden, Stadt",weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03402,35.3780313837375
 2023,"Emden, Stadt",insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03402,37.1283997469956
-2023,"Oldenburg (Oldb), Stadt",männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03403,27.9900332225914
+2023,"Oldenburg (Oldb), Stadt",männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03403,28.031561461794
 2023,"Oldenburg (Oldb), Stadt",weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03403,26.7172355667931
 2023,"Oldenburg (Oldb), Stadt",insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03403,27.3734838979506
 2023,"Osnabrück, Stadt",männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03404,34.3010413379615
-2023,"Osnabrück, Stadt",weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03404,33.2332332332332
-2023,"Osnabrück, Stadt",insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03404,33.7441219393546
+2023,"Osnabrück, Stadt",weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03404,33.1998665331999
+2023,"Osnabrück, Stadt",insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03404,33.760337279066
 2023,"Wilhelmshaven, Stadt",männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03405,31.0821181887951
 2023,"Wilhelmshaven, Stadt",weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03405,25.5963302752294
 2023,"Wilhelmshaven, Stadt",insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03405,28.6251567070623
 2023,Ammerland,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03451,34.208367514356
 2023,Ammerland,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03451,31.5307057745188
-2023,Ammerland,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03451,32.9437229437229
+2023,Ammerland,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03451,32.987012987013
 2023,Aurich,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03452,35.4973198332341
 2023,Aurich,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03452,35.5244755244755
 2023,Aurich,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03452,35.5419749115471
 2023,Cloppenburg,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03453,60.7343698312934
 2023,Cloppenburg,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03453,54.3451652386781
 2023,Cloppenburg,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03453,57.8553160394593
-2023,Emsland,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03454,62.3050847457627
+2023,Emsland,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03454,62.3220338983051
 2023,Emsland,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03454,56.0651226782848
 2023,Emsland,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03454,59.6628008965988
 2023,Friesland,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03455,26.9774011299435
-2023,Friesland,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03455,23.6641221374046
-2023,Friesland,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03455,25.2384446074835
+2023,Friesland,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03455,23.5114503816794
+2023,Friesland,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03455,25.3118121790169
 2023,Grafschaft Bentheim,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03456,67.1309192200557
-2023,Grafschaft Bentheim,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03456,63.5807504078303
-2023,Grafschaft Bentheim,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03456,65.45830202855
+2023,Grafschaft Bentheim,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03456,63.5399673735726
+2023,Grafschaft Bentheim,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03456,65.4770848985725
 2023,Leer,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03457,44.9406175771972
 2023,Leer,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03457,41.0569105691057
-2023,Leer,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03457,43.1931016461981
+2023,Leer,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03457,43.2192317742357
 2023,Oldenburg,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03458,56.1668681983071
-2023,Oldenburg,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03458,50.207182320442
-2023,Oldenburg,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03458,53.3376330216059
-2023,Osnabrück,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03459,56.6792620582352
-2023,Osnabrück,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03459,49.1263105341987
-2023,Osnabrück,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03459,53.0331530684223
+2023,Oldenburg,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03458,50.1381215469613
+2023,Oldenburg,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03458,53.3698806836504
+2023,Osnabrück,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03459,56.7014892198266
+2023,Osnabrück,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03459,49.0014977533699
+2023,Osnabrück,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03459,53.0684222901481
 2023,Vechta,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03460,51.4806378132119
 2023,Vechta,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03460,45.2271779908295
-2023,Vechta,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03460,48.4999006556726
-2023,Wesermarsch,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03461,40.5132905591201
-2023,Wesermarsch,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03461,34.2553191489362
-2023,Wesermarsch,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03461,37.4199901526342
+2023,Vechta,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03460,48.5197695211603
+2023,Wesermarsch,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03461,40.4216315307058
+2023,Wesermarsch,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03461,34.1489361702128
+2023,Wesermarsch,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03461,37.5184638109306
 2023,Wittmund,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03462,29.004329004329
 2023,Wittmund,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03462,31.2359550561798
 2023,Wittmund,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03462,30.0992282249173
-2023,Statistische Region Weser-Ems,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH034,48.8461744391498
-2023,Statistische Region Weser-Ems,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH034,43.8206785137318
-2023,Statistische Region Weser-Ems,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH034,46.48701504127
-2023,Niedersachsen,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH030,38.3222174631341
-2023,Niedersachsen,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH030,34.9360035845785
-2023,Niedersachsen,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH030,36.6925731239318
+2023,Statistische Region Weser-Ems,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH034,48.8542057075547
+2023,Statistische Region Weser-Ems,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH034,43.7740772958867
+2023,Statistische Region Weser-Ems,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH034,46.5028328204538
+2023,Niedersachsen,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH030,38.3353292366325
+2023,Niedersachsen,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH030,34.8863260018313
+2023,Niedersachsen,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH030,36.7045512132422
 2022,"Braunschweig, Stadt",männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03101,26.6135458167331
 2022,"Braunschweig, Stadt",weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03101,26.8739105171412
 2022,"Braunschweig, Stadt",insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH03101,26.7240183155266
@@ -8399,6 +8999,156 @@ Year,Gebietseinheit,Geschlecht,Kategorie,Units,GeoCode,Value
 2010,Niedersachsen,männlich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH030,40.7641415108388
 2010,Niedersachsen,weiblich,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH030,36.9016672642524
 2010,Niedersachsen,insgesamt,"Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",Prozent,RH030,38.8842204057579
+2024,"Braunschweig, Stadt",männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03101,60.8255659121172
+2024,"Braunschweig, Stadt",weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03101,63.3342800340812
+2024,"Braunschweig, Stadt",insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03101,62.0395821880154
+2024,"Salzgitter, Stadt",männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03102,58.9715131335553
+2024,"Salzgitter, Stadt",weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03102,64.3347639484979
+2024,"Salzgitter, Stadt",insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03102,61.4421930870083
+2024,"Wolfsburg, Stadt",männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03103,49.6873850680397
+2024,"Wolfsburg, Stadt",weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03103,55.748987854251
+2024,"Wolfsburg, Stadt",insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03103,52.5534785122374
+2024,Gifhorn,männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03151,47.0557029177719
+2024,Gifhorn,weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03151,55.6475458308693
+2024,Gifhorn,insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03151,51.1465324384787
+2024,Goslar,männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03153,53.0081300813008
+2024,Goslar,weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03153,60.179257362356
+2024,Goslar,insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03153,56.2958614616965
+2024,Helmstedt,männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03154,50.6598984771574
+2024,Helmstedt,weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03154,58.3789704271632
+2024,Helmstedt,insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03154,54.3443917851501
+2024,Northeim,männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03155,43.4398368456832
+2024,Northeim,weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03155,51.963746223565
+2024,Northeim,insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03155,47.4776386404293
+2024,Peine,männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03157,57.2349150556532
+2024,Peine,weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03157,63.8639281129653
+2024,Peine,insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03157,60.4287901990812
+2024,Wolfenbüttel,männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03158,53.85266723116
+2024,Wolfenbüttel,weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03158,60.9615384615385
+2024,Wolfenbüttel,insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03158,57.1814497973886
+2024,Göttingen,männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03159,55.1444258772977
+2024,Göttingen,weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03159,59.132976132489
+2024,Göttingen,insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03159,57.1187462326703
+2024,Statistische Region Braunschweig,männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH031,54.1662953390963
+2024,Statistische Region Braunschweig,weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH031,59.7806483061175
+2024,Statistische Region Braunschweig,insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH031,56.8498731289429
+2024,Region Hannover,männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03241,54.5643858903527
+2024,Region Hannover,weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03241,58.9330420137466
+2024,Region Hannover,insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03241,56.6737730499571
+2024,Diepholz,männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03251,45.0242266120015
+2024,Diepholz,weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03251,52.4203069657615
+2024,Diepholz,insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03251,48.6217457886677
+2024,Hameln-Pyrmont,männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03252,60.5089951733216
+2024,Hameln-Pyrmont,weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03252,64.8387096774194
+2024,Hameln-Pyrmont,insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03252,62.6067415730337
+2024,Hildesheim,männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03254,53.3961187214612
+2024,Hildesheim,weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03254,59.6153846153846
+2024,Hildesheim,insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03254,56.3511084481726
+2024,Holzminden,männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03255,66.1538461538461
+2024,Holzminden,weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03255,69.2653673163418
+2024,Holzminden,insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03255,67.6555716353111
+2024,Nienburg (Weser),männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03256,50.5369127516779
+2024,Nienburg (Weser),weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03256,61.2037708484409
+2024,Nienburg (Weser),insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03256,55.6988497734402
+2024,Schaumburg,männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03257,50.2283105022831
+2024,Schaumburg,weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03257,57.4807480748075
+2024,Schaumburg,insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03257,53.6939313984169
+2024,Statistische Region Hannover,männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH032,53.9448222480234
+2024,Statistische Region Hannover,weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH032,59.102503262546
+2024,Statistische Region Hannover,insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH032,56.4329660895693
+2024,Celle,männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03351,50.7306889352818
+2024,Celle,weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03351,58.710033076075
+2024,Celle,insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03351,54.6234253551327
+2024,Cuxhaven,männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03352,45.1089994410285
+2024,Cuxhaven,weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03352,51.5451174289246
+2024,Cuxhaven,insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03352,48.1655415321397
+2024,Harburg,männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03353,37.6273052573631
+2024,Harburg,weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03353,46.7893353360871
+2024,Harburg,insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03353,41.502541296061
+2024,Lüchow-Dannenberg,männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03354,39.5989974937343
+2024,Lüchow-Dannenberg,weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03354,47.6683937823834
+2024,Lüchow-Dannenberg,insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03354,43.5114503816794
+2024,Lüneburg,männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03355,53.9437396580254
+2024,Lüneburg,weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03355,59.0269636576788
+2024,Lüneburg,insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03355,56.4080704745666
+2024,Osterholz,männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03356,58.9715536105033
+2024,Osterholz,weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03356,63.9293139293139
+2024,Osterholz,insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03356,61.5671641791045
+2024,Rotenburg (Wümme),männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03357,40.3825136612022
+2024,Rotenburg (Wümme),weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03357,49.3914157591288
+2024,Rotenburg (Wümme),insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03357,44.5165094339623
+2024,Heidekreis,männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03358,44.0974391005621
+2024,Heidekreis,weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03358,52.4546065904506
+2024,Heidekreis,insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03358,48.1217616580311
+2024,Stade,männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03359,46.3974939088061
+2024,Stade,weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03359,53.2931726907631
+2024,Stade,insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03359,49.5991049785568
+2024,Uelzen,männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03360,49.0842490842491
+2024,Uelzen,weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03360,53.3333333333333
+2024,Uelzen,insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03360,51.1970534069982
+2024,Verden,männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03361,56.8761667703796
+2024,Verden,weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03361,62.3529411764706
+2024,Verden,insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03361,59.4692005242464
+2024,Statistische Region Lüneburg,männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH033,46.4415963321871
+2024,Statistische Region Lüneburg,weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH033,54.0872336658207
+2024,Statistische Region Lüneburg,insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH033,50.0249045326249
+2024,"Delmenhorst, Stadt",männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03401,51.9047619047619
+2024,"Delmenhorst, Stadt",weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03401,53.5341118623233
+2024,"Delmenhorst, Stadt",insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03401,52.7223230490018
+2024,"Emden, Stadt",männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03402,46.562123039807
+2024,"Emden, Stadt",weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03402,53.8461538461538
+2024,"Emden, Stadt",insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03402,49.9003322259136
+2024,"Oldenburg (Oldb), Stadt",männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03403,62.3480083857442
+2024,"Oldenburg (Oldb), Stadt",weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03403,64.8851774530271
+2024,"Oldenburg (Oldb), Stadt",insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03403,63.6192468619247
+2024,"Osnabrück, Stadt",männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03404,54.2642924086223
+2024,"Osnabrück, Stadt",weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03404,57.7163540638368
+2024,"Osnabrück, Stadt",insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03404,55.9455128205128
+2024,"Wilhelmshaven, Stadt",männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03405,47.9431563201197
+2024,"Wilhelmshaven, Stadt",weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03405,56.7246111619396
+2024,"Wilhelmshaven, Stadt",insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03405,51.8930041152263
+2024,Ammerland,männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03451,42.0325203252033
+2024,Ammerland,weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03451,50.1795332136445
+2024,Ammerland,insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03451,45.9044368600683
+2024,Aurich,männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03452,38.7492694330801
+2024,Aurich,weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03452,46.4768683274021
+2024,Aurich,insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03452,42.2336328626444
+2024,Cloppenburg,männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03453,30.6701881809178
+2024,Cloppenburg,weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03453,38.2008874546188
+2024,Cloppenburg,insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03453,34.0595497458243
+2024,Emsland,männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03454,29.9983352755119
+2024,Emsland,weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03454,37.4972314507198
+2024,Emsland,insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03454,33.2161186086295
+2024,Friesland,männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03455,47.1408647140865
+2024,Friesland,weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03455,55.0595238095238
+2024,Friesland,insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03455,50.9719222462203
+2024,Grafschaft Bentheim,männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03456,26.3064344116602
+2024,Grafschaft Bentheim,weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03456,32.2341302555647
+2024,Grafschaft Bentheim,insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03456,29.0513456766558
+2024,Leer,männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03457,39.244741873805
+2024,Leer,weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03457,45.1817657241777
+2024,Leer,insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03457,41.9456066945607
+2024,Oldenburg,männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03458,34.5230769230769
+2024,Oldenburg,weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03458,41.4840989399293
+2024,Oldenburg,insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03458,37.7507398881947
+2024,Osnabrück,männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03459,33.8399642378185
+2024,Osnabrück,weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03459,42.4158714213963
+2024,Osnabrück,insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03459,37.8784295175024
+2024,Vechta,männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03460,43.3294886582084
+2024,Vechta,weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03460,50.828025477707
+2024,Vechta,insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03460,46.9021190716448
+2024,Wesermarsch,männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03461,41.718334809566
+2024,Wesermarsch,weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03461,49.3207941483804
+2024,Wesermarsch,insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03461,45.2061361457335
+2024,Wittmund,männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03462,48.6842105263158
+2024,Wittmund,weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03462,54.1095890410959
+2024,Wittmund,insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03462,51.3422818791946
+2024,Statistische Region Weser-Ems,männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH034,39.7336263265087
+2024,Statistische Region Weser-Ems,weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH034,46.8209523220197
+2024,Statistische Region Weser-Ems,insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH034,43.0231055329782
+2024,Niedersachsen,männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH030,48.1307437068951
+2024,Niedersachsen,weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH030,54.5798871453969
+2024,Niedersachsen,insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH030,51.1842358042649
 2023,"Braunschweig, Stadt",männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03101,58.3202099737533
 2023,"Braunschweig, Stadt",weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03101,60.8461101646792
 2023,"Braunschweig, Stadt",insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH03101,59.5553130541536
@@ -10499,6 +11249,156 @@ Year,Gebietseinheit,Geschlecht,Kategorie,Units,GeoCode,Value
 2010,Niedersachsen,männlich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH030,52.3602867658008
 2010,Niedersachsen,weiblich,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH030,57.8567586948727
 2010,Niedersachsen,insgesamt,"Anteil der Ausländerinnen und Ausländer, die einen Aufenthaltstitel besitzen",Prozent,RH030,55.0370507797579
+2024,"Braunschweig, Stadt",männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03101,9.6404793608522
+2024,"Braunschweig, Stadt",weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03101,8.03748934961659
+2024,"Braunschweig, Stadt",insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03101,8.8785046728972
+2024,"Salzgitter, Stadt",männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03102,7.0662227155013
+2024,"Salzgitter, Stadt",weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03102,4.24892703862661
+2024,"Salzgitter, Stadt",insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03102,5.76082638061184
+2024,"Wolfsburg, Stadt",männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03103,10.2979036410445
+2024,"Wolfsburg, Stadt",weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03103,7.16599190283401
+2024,"Wolfsburg, Stadt",insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03103,8.80709192522644
+2024,Gifhorn,männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03151,15.9151193633952
+2024,Gifhorn,weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03151,10.9994086339444
+2024,Gifhorn,insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03151,13.5906040268456
+2024,Goslar,männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03153,16.1517615176152
+2024,Goslar,weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03153,10.6274007682458
+2024,Goslar,insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03153,13.6190196653948
+2024,Helmstedt,männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03154,10.9644670050761
+2024,Helmstedt,weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03154,7.77656078860898
+2024,Helmstedt,insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03154,9.42601369141654
+2024,Northeim,männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03155,15.8395649218219
+2024,Northeim,weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03155,10.4984894259819
+2024,Northeim,insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03155,13.309481216458
+2024,Peine,männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03157,10.3690685413005
+2024,Peine,weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03157,7.06033376123235
+2024,Peine,insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03157,8.79019908116386
+2024,Wolfenbüttel,männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03158,19.7290431837426
+2024,Wolfenbüttel,weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03158,13.4615384615385
+2024,Wolfenbüttel,insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03158,16.8392615938766
+2024,Göttingen,männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03159,9.66817856290284
+2024,Göttingen,weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03159,7.25767169995129
+2024,Göttingen,insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03159,8.47498493068113
+2024,Statistische Region Braunschweig,männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH031,11.5274930933072
+2024,Statistische Region Braunschweig,weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH031,8.14525956617109
+2024,Statistische Region Braunschweig,insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH031,9.90990990990991
+2024,Region Hannover,männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03241,9.20101997450064
+2024,Region Hannover,weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03241,6.61386499157904
+2024,Region Hannover,insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03241,7.95402096749379
+2024,Diepholz,männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03251,9.65337308982482
+2024,Diepholz,weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03251,7.98898071625344
+2024,Diepholz,insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03251,8.843797856049
+2024,Hameln-Pyrmont,männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03252,7.81044317683194
+2024,Hameln-Pyrmont,weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03252,6.036866359447
+2024,Hameln-Pyrmont,insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03252,6.96629213483146
+2024,Hildesheim,männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03254,12.9566210045662
+2024,Hildesheim,weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03254,8.3858764186633
+2024,Hildesheim,insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03254,10.7849011384062
+2024,Holzminden,männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03255,9.79020979020979
+2024,Holzminden,weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03255,8.09595202398801
+2024,Holzminden,insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03255,8.97250361794501
+2024,Nienburg (Weser),männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03256,9.73154362416107
+2024,Nienburg (Weser),weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03256,7.32414793328499
+2024,Nienburg (Weser),insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03256,8.57441617288254
+2024,Schaumburg,männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03257,12.8361237950279
+2024,Schaumburg,weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03257,10.6710671067107
+2024,Schaumburg,insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03257,11.7941952506596
+2024,Statistische Region Hannover,männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH032,9.74733233814342
+2024,Statistische Region Hannover,weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH032,7.12421402301578
+2024,Statistische Region Hannover,insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH032,8.48046930891401
+2024,Celle,männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03351,10.3340292275574
+2024,Celle,weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03351,6.00882028665932
+2024,Celle,insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03351,8.22835700884481
+2024,Cuxhaven,männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03352,13.527110117384
+2024,Cuxhaven,weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03352,9.14709517923362
+2024,Cuxhaven,insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03352,11.4470208394482
+2024,Harburg,männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03353,20.56151940545
+2024,Harburg,weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03353,6.83439729628239
+2024,Harburg,insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03353,14.7554002541296
+2024,Lüchow-Dannenberg,männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03354,16.5413533834586
+2024,Lüchow-Dannenberg,weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03354,12.9533678756477
+2024,Lüchow-Dannenberg,insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03354,14.7582697201018
+2024,Lüneburg,männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03355,16.2713734142306
+2024,Lüneburg,weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03355,14.2438452520516
+2024,Lüneburg,insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03355,15.3168513782325
+2024,Osterholz,männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03356,12.800875273523
+2024,Osterholz,weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03356,10.0831600831601
+2024,Osterholz,insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03356,11.407249466951
+2024,Rotenburg (Wümme),männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03357,17.5956284153005
+2024,Rotenburg (Wümme),weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03357,12.2998078155029
+2024,Rotenburg (Wümme),insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03357,15.1533018867925
+2024,Heidekreis,männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03358,5.87133041848845
+2024,Heidekreis,weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03358,4.43846671149966
+2024,Heidekreis,insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03358,5.18134715025907
+2024,Stade,männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03359,9.25861468847894
+2024,Stade,weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03359,5.94377510040161
+2024,Stade,insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03359,7.70091366772329
+2024,Uelzen,männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03360,8.66910866910867
+2024,Uelzen,weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03360,5.67901234567901
+2024,Uelzen,insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03360,7.18232044198895
+2024,Verden,männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03361,10.2053515868077
+2024,Verden,weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03361,6.57439446366782
+2024,Verden,insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03361,8.48623853211009
+2024,Statistische Region Lüneburg,männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH033,13.4521204543086
+2024,Statistische Region Lüneburg,weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH033,8.12134804934191
+2024,Statistische Region Lüneburg,insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH033,10.9524600143893
+2024,"Delmenhorst, Stadt",männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03401,6.96428571428571
+2024,"Delmenhorst, Stadt",weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03401,5.59311616472034
+2024,"Delmenhorst, Stadt",insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03401,6.29159104658197
+2024,"Emden, Stadt",männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03402,10.4945717732207
+2024,"Emden, Stadt",weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03402,8.28402366863905
+2024,"Emden, Stadt",insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03402,9.50166112956811
+2024,"Oldenburg (Oldb), Stadt",männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03403,7.12788259958071
+2024,"Oldenburg (Oldb), Stadt",weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03403,5.92901878914405
+2024,"Oldenburg (Oldb), Stadt",insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03403,6.52719665271967
+2024,"Osnabrück, Stadt",männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03404,7.68509840674789
+2024,"Osnabrück, Stadt",weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03404,5.56103981572886
+2024,"Osnabrück, Stadt",insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03404,6.65064102564103
+2024,"Wilhelmshaven, Stadt",männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03405,8.90052356020942
+2024,"Wilhelmshaven, Stadt",weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03405,5.30649588289113
+2024,"Wilhelmshaven, Stadt",insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03405,7.28395061728395
+2024,Ammerland,männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03451,15.0406504065041
+2024,Ammerland,weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03451,10.5924596050269
+2024,Ammerland,insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03451,12.8839590443686
+2024,Aurich,männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03452,21.1572180011689
+2024,Aurich,weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03452,12.3843416370107
+2024,Aurich,insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03452,17.201540436457
+2024,Cloppenburg,männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03453,7.29613733905579
+2024,Cloppenburg,weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03453,5.76845502218637
+2024,Cloppenburg,insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03453,6.60856935366739
+2024,Emsland,männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03454,7.52455468619943
+2024,Emsland,weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03454,5.04983388704319
+2024,Emsland,insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03454,6.46264968637141
+2024,Friesland,männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03455,16.5969316596932
+2024,Friesland,weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03455,12.5
+2024,Friesland,insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03455,14.6868250539957
+2024,Grafschaft Bentheim,männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03456,6.22111624600071
+2024,Grafschaft Bentheim,weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03456,4.03957131079967
+2024,Grafschaft Bentheim,insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03456,5.21091811414392
+2024,Leer,männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03457,13.3365200764818
+2024,Leer,weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03457,10.2135025966532
+2024,Leer,insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03457,11.9246861924686
+2024,Oldenburg,männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03458,10.2153846153846
+2024,Oldenburg,weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03458,8.12720848056537
+2024,Oldenburg,insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03458,9.24038145346925
+2024,Osnabrück,männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03459,7.89003129190881
+2024,Osnabrück,weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03459,5.95178302360623
+2024,Osnabrück,insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03459,6.97729422894986
+2024,Vechta,männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03460,4.92118415993849
+2024,Vechta,weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03460,3.60934182590234
+2024,Vechta,insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03460,4.29868819374369
+2024,Wesermarsch,männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03461,12.666076173605
+2024,Wesermarsch,weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03461,10.2403343782654
+2024,Wesermarsch,insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03461,11.5532118887824
+2024,Wittmund,männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03462,17.9824561403509
+2024,Wittmund,weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03462,12.7853881278539
+2024,Wittmund,insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03462,15.4362416107383
+2024,Statistische Region Weser-Ems,männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH034,9.11673276878551
+2024,Statistische Region Weser-Ems,weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH034,6.59323659540237
+2024,Statistische Region Weser-Ems,insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH034,7.94548874879733
+2024,Niedersachsen,männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH030,10.5067491270434
+2024,Niedersachsen,weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH030,7.32298832805133
+2024,Niedersachsen,insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH030,9.00000914821015
 2023,"Braunschweig, Stadt",männlich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03101,9.42257217847769
 2023,"Braunschweig, Stadt",weiblich,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03101,7.18341851220897
 2023,"Braunschweig, Stadt",insgesamt,Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstitel,Prozent,RH03101,8.34811076251535

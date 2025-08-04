@@ -6,7 +6,7 @@ Altersgrupppe,1,7
 Asylanträge,1,1
 Aufenthaltsdauer in Jahren,1,6
 Befristung,1,2
-Befristungsgrund,1,5
+Befristungsgrund,1,6
 Berufsgruppe,1,2
 Besuchte Schule,1,10
 Bildungsstand,1,3
@@ -14,10 +14,11 @@ Durchschnittliche Bewohnerzahl in der Landesaufnahmebehörde Niedersachsen (LAB 
 Entscheidung vor Rechtsbehelf,1,6
 Erreichter Schulabschluss,1,10
 Fächergruppe,1,10
-Gebietseinheit,31,14
+Gebietseinheit,31,54
+Geocode,1,50
 Geschlecht,22,11
 Höchster beruflicher Abschluss,1,3
-Kategorie,11,47
+Kategorie,11,49
 Kinderbetreuung,2,4
 Land der Staatsangehörigkeit,3,31
 Land,1,28
@@ -29,7 +30,7 @@ mit oder ohne ledige Kinder,1,3
 Nationalität / Geschlecht,1,5
 Nationalität / Migrationshintergrund,1,5
 Nationalität,9,3
-ohne Aufenthaltstitel,1,4
+ohne Aufenthaltstitel,1,5
 Rechtskreis,1,3
 Schulabschluss,1,4
 Schulgliederung,1,7

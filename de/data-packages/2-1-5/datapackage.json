@@ -83,6 +83,9 @@
                 "männlich",
                 "weiblich",
                 "insgesamt",
+                "Männlich",
+                "Weiblich",
+                "Insgesamt",
                 ""
               ]
             },
@@ -97,6 +100,7 @@
                 "Duldung",
                 "Aufenthaltsgestattung",
                 "Ohne Duldung oder Gestattung",
+                "Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstite",
                 ""
               ]
             },
