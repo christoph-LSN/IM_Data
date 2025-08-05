@@ -69,7 +69,7 @@
             "title": "Haushaltsgröße"
           },
           {
-            "name": "Comment_OBS",
+            "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
               "enum": [
@@ -78,7 +78,7 @@
                 ""
               ]
             },
-            "title": "Comment_OBS"
+            "title": "COMMENT_OBS"
           },
           {
             "name": "Value",
