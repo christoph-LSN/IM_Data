@@ -10,12 +10,15 @@ Befristungsgrund,1,6
 Berufsgruppe,1,2
 Besuchte Schule,1,10
 Bildungsstand,1,3
+Comment_OBS,1,2
 Durchschnittliche Bewohnerzahl in der Landesaufnahmebehörde Niedersachsen (LAB NI),1,2
 Entscheidung vor Rechtsbehelf,1,6
 Erreichter Schulabschluss,1,10
 Fächergruppe,1,10
 Gebietseinheit,31,14
 Geschlecht,22,11
+Hauhaltsnettoeinkommen,1,12
+Haushaltsgröße,1,7
 Höchster beruflicher Abschluss,1,3
 Kategorie,11,49
 Kinderbetreuung,2,4
@@ -24,7 +27,7 @@ Land,1,28
 Lebensform,1,4
 Migrationserfahrung,1,2
 Migrationshintergrund,1,3
-Migrationsstatus,9,8
+Migrationsstatus,10,11
 mit oder ohne ledige Kinder,1,3
 Nationalität / Geschlecht,1,5
 Nationalität / Migrationshintergrund,1,5
