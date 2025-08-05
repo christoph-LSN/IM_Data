@@ -1754,7 +1754,7 @@
               "enum": [
                 "Insgesamt",
                 "Kein Haushaltsmitglied hat einen Migrationshintergrund",
-                "Ein Teil der Haushaltsmitglieder hat einen Migrationshintergrund",
+                "Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund",
                 "Alle Haushaltsmitglieder haben einen Migrationshintergrund",
                 ""
               ]
@@ -1762,7 +1762,7 @@
             "title": "Migrationsstatus"
           },
           {
-            "name": "Haushaltsnettoeinkommen",
+            "name": "Hauhaltsnettoeinkommen",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1781,7 +1781,7 @@
                 ""
               ]
             },
-            "title": "Haushaltsnettoeinkommen"
+            "title": "Hauhaltsnettoeinkommen"
           },
           {
             "name": "Haushaltsgröße",
@@ -1801,20 +1801,20 @@
             "title": "Haushaltsgröße"
           },
           {
-            "name": "COMMENT_OBS",
+            "name": "Comment_OBS",
             "type": "string",
             "constraints": {
               "enum": [
                 "gesperrt",
-                "Statistisch unsicher",
+                "statistisch unsicher",
                 ""
               ]
             },
-            "title": "COMMENT_OBS"
+            "title": "Comment_OBS"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]
