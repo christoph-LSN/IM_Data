@@ -1,4 +1,28 @@
 Year,Kategorie,Altersgruppe,Units,Value
+2024,Zuzüge,Insgesamt,Anzahl,150474
+2024,Fortzüge,Insgesamt,Anzahl,116820
+2024,Saldo,Insgesamt,Anzahl,33654
+2024,Zuzüge,0 - 5,Anzahl,6052
+2024,Fortzüge,0 - 5,Anzahl,4312
+2024,Saldo,0 - 5,Anzahl,1740
+2024,Zuzüge,5 - 15,Anzahl,12302
+2024,Fortzüge,5 - 15,Anzahl,7679
+2024,Saldo,5 - 15,Anzahl,4623
+2024,Zuzüge,15 - 20,Anzahl,11685
+2024,Fortzüge,15 - 20,Anzahl,6276
+2024,Saldo,15 - 20,Anzahl,5409
+2024,Zuzüge,20 - 40,Anzahl,81712
+2024,Fortzüge,20 - 40,Anzahl,60926
+2024,Saldo,20 - 40,Anzahl,20786
+2024,Zuzüge,40 - 65,Anzahl,35531
+2024,Fortzüge,40 - 65,Anzahl,33503
+2024,Saldo,40 - 65,Anzahl,2028
+2024,Zuzüge,65 - 80,Anzahl,2808
+2024,Fortzüge,65 - 80,Anzahl,3366
+2024,Saldo,65 - 80,Anzahl,-558
+2024,Zuzüge,80 u.ä.,Anzahl,384
+2024,Fortzüge,80 u.ä.,Anzahl,758
+2024,Saldo,80 u.ä.,Anzahl,-374
 2023,Zuzüge,Insgesamt,Anzahl,180030
 2023,Fortzüge,Insgesamt,Anzahl,117610
 2023,Saldo,Insgesamt,Anzahl,62420
