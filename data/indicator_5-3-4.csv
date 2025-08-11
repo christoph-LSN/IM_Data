@@ -1,4 +1,9 @@
 ﻿Year,Geschlecht,Rechtskreis,Migrationsstatus,Migrationserfahrung,Units,Value
+2024,männlich,Insgesamt,ohne Migrationshintergrund,,Anzahl,73198.2190141355
+2024,weiblich,Insgesamt,ohne Migrationshintergrund,,Anzahl,54589.05770232
+2024,insgesamt,Insgesamt,ohne Migrationshintergrund,,Anzahl,127787.276716456
+2024,insgesamt,Rechtskreis SGB II3),ohne Migrationshintergrund,,Anzahl,75121.84227582
+2024,insgesamt,Rechtskreis SGB III3),ohne Migrationshintergrund,,Anzahl,52665.4344406345
 2023,männlich,Insgesamt,ohne Migrationshintergrund,,Anzahl,69235.5606650847
 2023,weiblich,Insgesamt,ohne Migrationshintergrund,,Anzahl,52747.8250442841
 2023,insgesamt,Insgesamt,ohne Migrationshintergrund,,Anzahl,121983.385709369
@@ -54,6 +59,11 @@
 2013,insgesamt,Insgesamt,ohne Migrationshintergrund,,Anzahl,126571
 2013,insgesamt,Rechtskreis SGB II3),ohne Migrationshintergrund,,Anzahl,74801
 2013,insgesamt,Rechtskreis SGB III3),ohne Migrationshintergrund,,Anzahl,51770
+2024,männlich,Insgesamt,mit Migrationshintergrund,,Anzahl,70254.780985862
+2024,weiblich,Insgesamt,mit Migrationshintergrund,,Anzahl,63132.9422976774
+2024,insgesamt,Insgesamt,mit Migrationshintergrund,,Anzahl,133387.723283542
+2024,insgesamt,Rechtskreis SGB II3),mit Migrationshintergrund,,Anzahl,100336.157724175
+2024,insgesamt,Rechtskreis SGB III3),mit Migrationshintergrund,,Anzahl,33051.5655593643
 2023,männlich,Insgesamt,mit Migrationshintergrund,,Anzahl,66133.439334913
 2023,weiblich,Insgesamt,mit Migrationshintergrund,,Anzahl,64164.1749557128
 2023,insgesamt,Insgesamt,mit Migrationshintergrund,,Anzahl,130297.614290621
@@ -109,6 +119,11 @@
 2013,insgesamt,Insgesamt,mit Migrationshintergrund,,Anzahl,64850
 2013,insgesamt,Rechtskreis SGB II3),mit Migrationshintergrund,,Anzahl,49154
 2013,insgesamt,Rechtskreis SGB III3),mit Migrationshintergrund,,Anzahl,15696
+2024,männlich,Insgesamt,mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Anzahl,55786.1267325876
+2024,weiblich,Insgesamt,mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Anzahl,52102.6877646545
+2024,insgesamt,Insgesamt,mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Anzahl,107888.81449724
+2024,insgesamt,Rechtskreis SGB II3),mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Anzahl,82280.1285255736
+2024,insgesamt,Rechtskreis SGB III3),mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Anzahl,25608.6859716695
 2023,männlich,Insgesamt,mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Anzahl,52714.6393656665
 2023,weiblich,Insgesamt,mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Anzahl,53321.6332717649
 2023,insgesamt,Insgesamt,mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Anzahl,106036.272637434
@@ -164,6 +179,11 @@
 2013,insgesamt,Insgesamt,mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Anzahl,51339
 2013,insgesamt,Rechtskreis SGB II3),mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Anzahl,39109
 2013,insgesamt,Rechtskreis SGB III3),mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Anzahl,12230
+2024,männlich,Insgesamt,mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Anzahl,13034.1464309382
+2024,weiblich,Insgesamt,mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Anzahl,9676.61263173088
+2024,insgesamt,Insgesamt,mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Anzahl,22710.759062669
+2024,insgesamt,Rechtskreis SGB II3),mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Anzahl,15922.3487091843
+2024,insgesamt,Rechtskreis SGB III3),mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Anzahl,6788.41035348473
 2023,männlich,Insgesamt,mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Anzahl,11975.1325253461
 2023,weiblich,Insgesamt,mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Anzahl,9383.94681672215
 2023,insgesamt,Insgesamt,mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Anzahl,21359.0793420682
@@ -219,6 +239,11 @@
 2013,insgesamt,Insgesamt,mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Anzahl,12338
 2013,insgesamt,Rechtskreis SGB II3),mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Anzahl,9000
 2013,insgesamt,Rechtskreis SGB III3),mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Anzahl,3338
+2024,männlich,Insgesamt,ohne Migrationshintergrund,,Prozent,51.0259241801404
+2024,weiblich,Insgesamt,ohne Migrationshintergrund,,Prozent,46.3711606176596
+2024,insgesamt,Insgesamt,ohne Migrationshintergrund,,Prozent,48.9278363995241
+2024,insgesamt,Rechtskreis SGB II3),ohne Migrationshintergrund,,Prozent,42.8147147897629
+2024,insgesamt,Rechtskreis SGB III3),ohne Migrationshintergrund,,Prozent,61.4410612138027
 2023,männlich,Insgesamt,ohne Migrationshintergrund,,Prozent,51.145801967279
 2023,weiblich,Insgesamt,ohne Migrationshintergrund,,Prozent,45.1175457132591
 2023,insgesamt,Insgesamt,ohne Migrationshintergrund,,Prozent,48.3521889121154
@@ -274,6 +299,11 @@
 2013,insgesamt,Insgesamt,ohne Migrationshintergrund,,Prozent,66.1217943694788
 2013,insgesamt,Rechtskreis SGB II3),ohne Migrationshintergrund,,Prozent,60.3452865959421
 2013,insgesamt,Rechtskreis SGB III3),ohne Migrationshintergrund,,Prozent,76.7349479737942
+2024,männlich,Insgesamt,mit Migrationshintergrund,,Prozent,48.9740758198596
+2024,weiblich,Insgesamt,mit Migrationshintergrund,,Prozent,53.6288393823404
+2024,insgesamt,Insgesamt,mit Migrationshintergrund,,Prozent,51.0721636004759
+2024,insgesamt,Rechtskreis SGB II3),mit Migrationshintergrund,,Prozent,57.1852852102371
+2024,insgesamt,Rechtskreis SGB III3),mit Migrationshintergrund,,Prozent,38.5589387861973
 2023,männlich,Insgesamt,mit Migrationshintergrund,,Prozent,48.854198032721
 2023,weiblich,Insgesamt,mit Migrationshintergrund,,Prozent,54.8824542867409
 2023,insgesamt,Insgesamt,mit Migrationshintergrund,,Prozent,51.6478110878846
@@ -329,6 +359,11 @@
 2013,insgesamt,Insgesamt,mit Migrationshintergrund,,Prozent,33.8782056305212
 2013,insgesamt,Rechtskreis SGB II3),mit Migrationshintergrund,,Prozent,39.6547134040579
 2013,insgesamt,Rechtskreis SGB III3),mit Migrationshintergrund,,Prozent,23.2650520262058
+2024,männlich,Insgesamt,mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Prozent,38.8880865040038
+2024,weiblich,Insgesamt,mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Prozent,44.2590915586345
+2024,insgesamt,Insgesamt,mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Prozent,41.3090129213136
+2024,insgesamt,Rechtskreis SGB II3),mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Prozent,46.894486729346
+2024,insgesamt,Rechtskreis SGB III3),mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Prozent,29.8758542315642
 2023,männlich,Insgesamt,mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Prozent,38.9414410726735
 2023,weiblich,Insgesamt,mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Prozent,45.6083492470972
 2023,insgesamt,Insgesamt,mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Prozent,42.0310180463207
@@ -384,6 +419,11 @@
 2013,insgesamt,Insgesamt,mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Prozent,26.8199413857414
 2013,insgesamt,Rechtskreis SGB II3),mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Prozent,31.5509660763987
 2013,insgesamt,Rechtskreis SGB III3),mit Migrationshintergrund,mit eigene/r Migrationserfahrung,Prozent,18.1276494827024
+2024,männlich,Insgesamt,mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Prozent,9.0860047757373
+2024,weiblich,Insgesamt,mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Prozent,8.21988467043636
+2024,insgesamt,Insgesamt,mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Prozent,8.69560986414058
+2024,insgesamt,Rechtskreis SGB II3),mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Prozent,9.07473509853341
+2024,insgesamt,Rechtskreis SGB III3),mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Prozent,7.91956129295802
 2023,männlich,Insgesamt,mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Prozent,8.84628868156395
 2023,weiblich,Insgesamt,mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Prozent,8.02650439366566
 2023,insgesamt,Insgesamt,mit Migrationshintergrund,ohne eigene/r Migrationserfahrung,Prozent,8.46638444515007
