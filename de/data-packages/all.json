@@ -4117,7 +4117,7 @@
             "title": "Migrationsstatus"
           },
           {
-            "name": "Lebensform",
+            "name": "Lebennsform",
             "type": "string",
             "constraints": {
               "enum": [
@@ -4128,7 +4128,7 @@
                 ""
               ]
             },
-            "title": "Lebensform"
+            "title": "Lebennsform"
           },
           {
             "name": "mit oder ohne ledige Kinder",
