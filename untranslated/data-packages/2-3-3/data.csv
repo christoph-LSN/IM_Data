@@ -11,9 +11,9 @@ Year,Gebietseinheit,Units,GeoCode,Value
 2005,Göttingen,Prozent,K03159,2.09258710887375
 2005,Statistische Region Braunschweig,Prozent,K031,2.11079408455232
 2005,Region Hannover,Prozent,K03241,2.43997742369644
-2005,"dav. Hannover, Lhst.",Prozent,K03241001,2.13954356403967
+2005,"dav. Hannover, Lhst.",Prozent,K03241999,2.13954356403967
 2005,"dav. Hannover, Umland",Prozent,K03241999,3.00132008269197
-2005,Diepholz,Prozent,K03241999,3.16133720930233
+2005,Diepholz,Prozent,K03251,3.16133720930233
 2005,Hameln-Pyrmont,Prozent,K03252,2.79644089340839
 2005,Hildesheim,Prozent,K03254,3.82065477410977
 2005,Holzminden,Prozent,K03255,1.68948441596271
@@ -63,9 +63,9 @@ Year,Gebietseinheit,Units,GeoCode,Value
 2006,Göttingen,Prozent,K03159,2.53055428774279
 2006,Statistische Region Braunschweig,Prozent,K031,2.46122344509854
 2006,Region Hannover,Prozent,K03241,2.41519863031557
-2006,"dav. Hannover, Lhst.",Prozent,K03241001,2.33384069000507
+2006,"dav. Hannover, Lhst.",Prozent,K03241999,2.33384069000507
 2006,"dav. Hannover, Umland",Prozent,K03241999,2.56691149010332
-2006,Diepholz,Prozent,K03241999,3.0839169431134
+2006,Diepholz,Prozent,K03251,3.0839169431134
 2006,Hameln-Pyrmont,Prozent,K03252,2.4300649901102
 2006,Hildesheim,Prozent,K03254,4.22841890847791
 2006,Holzminden,Prozent,K03255,1.7104459376909
@@ -115,9 +115,9 @@ Year,Gebietseinheit,Units,GeoCode,Value
 2007,Göttingen,Prozent,K03159,2.00544559639753
 2007,Statistische Region Braunschweig,Prozent,K031,2.09381815131689
 2007,Region Hannover,Prozent,K03241,2.06086706361314
-2007,"dav. Hannover, Lhst.",Prozent,K03241001,2.22868346292863
+2007,"dav. Hannover, Lhst.",Prozent,K03241999,2.22868346292863
 2007,"dav. Hannover, Umland",Prozent,K03241999,1.74418604651163
-2007,Diepholz,Prozent,K03241999,2.92866690970956
+2007,Diepholz,Prozent,K03251,2.92866690970956
 2007,Hameln-Pyrmont,Prozent,K03252,1.94586263365764
 2007,Hildesheim,Prozent,K03254,2.75757793937649
 2007,Holzminden,Prozent,K03255,0.809212573918456
@@ -167,9 +167,9 @@ Year,Gebietseinheit,Units,GeoCode,Value
 2008,Göttingen,Prozent,K03159,1.47486274087631
 2008,Statistische Region Braunschweig,Prozent,K031,1.52144879534163
 2008,Region Hannover,Prozent,K03241,1.90554064383099
-2008,"dav. Hannover, Lhst.",Prozent,K03241001,1.93088745260488
+2008,"dav. Hannover, Lhst.",Prozent,K03241999,1.93088745260488
 2008,"dav. Hannover, Umland",Prozent,K03241999,1.85662578444392
-2008,Diepholz,Prozent,K03241999,2.24552745219001
+2008,Diepholz,Prozent,K03251,2.24552745219001
 2008,Hameln-Pyrmont,Prozent,K03252,1.77225105258005
 2008,Hildesheim,Prozent,K03254,2.44348525861438
 2008,Holzminden,Prozent,K03255,1.51174010935992
@@ -219,9 +219,9 @@ Year,Gebietseinheit,Units,GeoCode,Value
 2009,Göttingen,Prozent,K03159,1.17653293762256
 2009,Statistische Region Braunschweig,Prozent,K031,1.32748569289191
 2009,Region Hannover,Prozent,K03241,1.78892155373466
-2009,"dav. Hannover, Lhst.",Prozent,K03241001,1.80858157669121
+2009,"dav. Hannover, Lhst.",Prozent,K03241999,1.80858157669121
 2009,"dav. Hannover, Umland",Prozent,K03241999,1.75132715728115
-2009,Diepholz,Prozent,K03241999,1.69156686010619
+2009,Diepholz,Prozent,K03251,1.69156686010619
 2009,Hameln-Pyrmont,Prozent,K03252,1.29013196769746
 2009,Hildesheim,Prozent,K03254,1.811970889648
 2009,Holzminden,Prozent,K03255,1.54962083745467
@@ -271,9 +271,9 @@ Year,Gebietseinheit,Units,GeoCode,Value
 2010,Göttingen,Prozent,K03159,0.98822767037477
 2010,Statistische Region Braunschweig,Prozent,K031,1.45164236517778
 2010,Region Hannover,Prozent,K03241,1.66575909874041
-2010,"dav. Hannover, Lhst.",Prozent,K03241001,1.73728352031369
+2010,"dav. Hannover, Lhst.",Prozent,K03241999,1.73728352031369
 2010,"dav. Hannover, Umland",Prozent,K03241999,1.52956731392425
-2010,Diepholz,Prozent,K03241999,1.74752535744837
+2010,Diepholz,Prozent,K03251,1.74752535744837
 2010,Hameln-Pyrmont,Prozent,K03252,0.894746969405426
 2010,Hildesheim,Prozent,K03254,1.79658282613478
 2010,Holzminden,Prozent,K03255,1.17531831537708
@@ -323,9 +323,9 @@ Year,Gebietseinheit,Units,GeoCode,Value
 2011,Göttingen,Prozent,K03159,1.64983343027867
 2011,Statistische Region Braunschweig,Prozent,K031,1.5872008797809
 2011,Region Hannover,Prozent,K03241,1.88246336757574
-2011,"dav. Hannover, Lhst.",Prozent,K03241001,1.91178604884356
+2011,"dav. Hannover, Lhst.",Prozent,K03241999,1.91178604884356
 2011,"dav. Hannover, Umland",Prozent,K03241999,1.82586773281724
-2011,Diepholz,Prozent,K03241999,1.60982590031004
+2011,Diepholz,Prozent,K03251,1.60982590031004
 2011,Hameln-Pyrmont,Prozent,K03252,1.33733888942727
 2011,Hildesheim,Prozent,K03254,1.87603723212353
 2011,Holzminden,Prozent,K03255,1.67741935483871
@@ -375,9 +375,9 @@ Year,Gebietseinheit,Units,GeoCode,Value
 2012,Göttingen,Prozent,K03159,1.76578039374873
 2012,Statistische Region Braunschweig,Prozent,K031,1.82799656483867
 2012,Region Hannover,Prozent,K03241,1.97962568905719
-2012,"dav. Hannover, Lhst.",Prozent,K03241001,1.92371433670738
+2012,"dav. Hannover, Lhst.",Prozent,K03241999,1.92371433670738
 2012,"dav. Hannover, Umland",Prozent,K03241999,2.08679503469847
-2012,Diepholz,Prozent,K03241999,1.5897212543554
+2012,Diepholz,Prozent,K03251,1.5897212543554
 2012,Hameln-Pyrmont,Prozent,K03252,1.49874298975053
 2012,Hildesheim,Prozent,K03254,1.85891655684262
 2012,Holzminden,Prozent,K03255,2.01822916666667
@@ -427,9 +427,9 @@ Year,Gebietseinheit,Units,GeoCode,Value
 2013,Göttingen,Prozent,K03159,1.43322787843927
 2013,Statistische Region Braunschweig,Prozent,K031,1.64422083636225
 2013,Region Hannover,Prozent,K03241,1.62332036357335
-2013,"dav. Hannover, Lhst.",Prozent,K03241001,1.61615917415112
+2013,"dav. Hannover, Lhst.",Prozent,K03241999,1.61615917415112
 2013,"dav. Hannover, Umland",Prozent,K03241999,1.63671301005991
-2013,Diepholz,Prozent,K03241999,1.45897221447821
+2013,Diepholz,Prozent,K03251,1.45897221447821
 2013,Hameln-Pyrmont,Prozent,K03252,1.67926112510495
 2013,Hildesheim,Prozent,K03254,1.68696671660262
 2013,Holzminden,Prozent,K03255,1.06658047834518
@@ -479,9 +479,9 @@ Year,Gebietseinheit,Units,GeoCode,Value
 2014,Göttingen,Prozent,K03159,1.30173265104587
 2014,Statistische Region Braunschweig,Prozent,K031,1.35070289867951
 2014,Region Hannover,Prozent,K03241,1.50659547508661
-2014,"dav. Hannover, Lhst.",Prozent,K03241001,1.55295286929219
+2014,"dav. Hannover, Lhst.",Prozent,K03241999,1.55295286929219
 2014,"dav. Hannover, Umland",Prozent,K03241999,1.42107017836306
-2014,Diepholz,Prozent,K03241999,1.24666838620927
+2014,Diepholz,Prozent,K03251,1.24666838620927
 2014,Hameln-Pyrmont,Prozent,K03252,0.771538791255894
 2014,Hildesheim,Prozent,K03254,1.72434803802096
 2014,Holzminden,Prozent,K03255,1.40530182050463
@@ -531,9 +531,9 @@ Year,Gebietseinheit,Units,GeoCode,Value
 2015,Göttingen,Prozent,K03159,1.24470029950601
 2015,Statistische Region Braunschweig,Prozent,K031,1.29455523053776
 2015,Region Hannover,Prozent,K03241,1.24890107048663
-2015,"dav. Hannover, Lhst.",Prozent,K03241001,1.23463130540177
+2015,"dav. Hannover, Lhst.",Prozent,K03241999,1.23463130540177
 2015,"dav. Hannover, Umland",Prozent,K03241999,1.27312998133905
-2015,Diepholz,Prozent,K03241999,0.875162736872559
+2015,Diepholz,Prozent,K03251,0.875162736872559
 2015,Hameln-Pyrmont,Prozent,K03252,1.38176955649655
 2015,Hildesheim,Prozent,K03254,1.19589104103848
 2015,Holzminden,Prozent,K03255,1.42671854734112
@@ -583,9 +583,9 @@ Year,Gebietseinheit,Units,GeoCode,Value
 2016,Göttingen,Prozent,K03159,1.23060460139112
 2016,Statistische Region Braunschweig,Prozent,K031,1.28621129137818
 2016,Region Hannover,Prozent,K03241,1.26114913918274
-2016,"dav. Hannover, Lhst.",Prozent,K03241001,1.24443593548078
+2016,"dav. Hannover, Lhst.",Prozent,K03241999,1.24443593548078
 2016,"dav. Hannover, Umland",Prozent,K03241999,1.28831492142524
-2016,Diepholz,Prozent,K03241999,1.15830115830116
+2016,Diepholz,Prozent,K03251,1.15830115830116
 2016,Hameln-Pyrmont,Prozent,K03252,1.05542648523067
 2016,Hildesheim,Prozent,K03254,1.14533424595026
 2016,Holzminden,Prozent,K03255,0.604651162790698
@@ -635,9 +635,9 @@ Year,Gebietseinheit,Units,GeoCode,Value
 2017,Göttingen,Prozent,K03159,1.17423588326714
 2017,Statistische Region Braunschweig,Prozent,K031,1.21783422636767
 2017,Region Hannover,Prozent,K03241,1.27533253410972
-2017,"dav. Hannover, Lhst.",Prozent,K03241001,1.22354466725328
+2017,"dav. Hannover, Lhst.",Prozent,K03241999,1.22354466725328
 2017,"dav. Hannover, Umland",Prozent,K03241999,1.35852987128934
-2017,Diepholz,Prozent,K03241999,1.22004357298475
+2017,Diepholz,Prozent,K03251,1.22004357298475
 2017,Hameln-Pyrmont,Prozent,K03252,1.03830326052548
 2017,Hildesheim,Prozent,K03254,1.04939626783754
 2017,Holzminden,Prozent,K03255,1.33333333333333
@@ -687,9 +687,9 @@ Year,Gebietseinheit,Units,GeoCode,Value
 2018,Göttingen,Prozent,K03159,1.17335101093802
 2018,Statistische Region Braunschweig,Prozent,K031,1.12593248198255
 2018,Region Hannover,Prozent,K03241,1.08663325439225
-2018,"dav. Hannover, Lhst.",Prozent,K03241001,1.01658352433598
+2018,"dav. Hannover, Lhst.",Prozent,K03241999,1.01658352433598
 2018,"dav. Hannover, Umland",Prozent,K03241999,1.19746853445211
-2018,Diepholz,Prozent,K03241999,1.3378878451466
+2018,Diepholz,Prozent,K03251,1.3378878451466
 2018,Hameln-Pyrmont,Prozent,K03252,1.1672210462655
 2018,Hildesheim,Prozent,K03254,1.25778331257783
 2018,Holzminden,Prozent,K03255,1.15473441108545
@@ -739,9 +739,9 @@ Year,Gebietseinheit,Units,GeoCode,Value
 2019,Göttingen,Prozent,K03159,1.17793705204113
 2019,Statistische Region Braunschweig,Prozent,K031,1.19818181818182
 2019,Region Hannover,Prozent,K03241,1.3302034428795
-2019,"dav. Hannover, Lhst.",Prozent,K03241001,1.237658674189
+2019,"dav. Hannover, Lhst.",Prozent,K03241999,1.237658674189
 2019,"dav. Hannover, Umland",Prozent,K03241999,1.2397384165855
-2019,Diepholz,Prozent,K03241999,1.66082502022108
+2019,Diepholz,Prozent,K03251,1.66082502022108
 2019,Hameln-Pyrmont,Prozent,K03252,1.64399763453578
 2019,Hildesheim,Prozent,K03254,1.42028405681136
 2019,Holzminden,Prozent,K03255,1.38011695906433
@@ -791,9 +791,9 @@ Year,Gebietseinheit,Units,GeoCode,Value
 2020,Göttingen,Prozent,K03159,0.892608089260809
 2020,Statistische Region Braunschweig,Prozent,K031,0.994250119789171
 2020,Region Hannover,Prozent,K03241,1.04914501144473
-2020,"dav. Hannover, Lhst.",Prozent,K03241001,0.942697881828317
+2020,"dav. Hannover, Lhst.",Prozent,K03241999,0.942697881828317
 2020,"dav. Hannover, Umland",Prozent,K03241999,1.21142080217539
-2020,Diepholz,Prozent,K03241999,1.19102861562258
+2020,Diepholz,Prozent,K03251,1.19102861562258
 2020,Hameln-Pyrmont,Prozent,K03252,1.07674684994273
 2020,Hildesheim,Prozent,K03254,1.55925563173359
 2020,Holzminden,Prozent,K03255,0.913140311804009
@@ -843,9 +843,9 @@ Year,Gebietseinheit,Units,GeoCode,Value
 2021,Göttingen,Prozent,K03159,1.11915535444947
 2021,Statistische Region Braunschweig,Prozent,K031,1.1922875892909
 2021,Region Hannover,Prozent,K03241,0.979287237282973
-2021,"dav. Hannover, Lhst.",Prozent,K03241001,0.89368125943498
+2021,"dav. Hannover, Lhst.",Prozent,K03241999,0.89368125943498
 2021,"dav. Hannover, Umland",Prozent,K03241999,1.10172105360558
-2021,Diepholz,Prozent,K03241999,1.14618746964546
+2021,Diepholz,Prozent,K03251,1.14618746964546
 2021,Hameln-Pyrmont,Prozent,K03252,0.96694892105982
 2021,Hildesheim,Prozent,K03254,1.67047184170472
 2021,Holzminden,Prozent,K03255,1.30389064143007
@@ -895,9 +895,9 @@ Year,Gebietseinheit,Units,GeoCode,Value
 2022,Göttingen,Prozent,K03159,1.14849941535663
 2022,Statistische Region Braunschweig,Prozent,K031,1.48766905330151
 2022,Region Hannover,Prozent,K03241,0.934381814577414
-2022,"dav. Hannover, Lhst.",Prozent,K03241001,0.748221794317601
+2022,"dav. Hannover, Lhst.",Prozent,K03241999,0.748221794317601
 2022,"dav. Hannover, Umland",Prozent,K03241999,1.17181234963913
-2022,Diepholz,Prozent,K03241999,1.96365155629831
+2022,Diepholz,Prozent,K03251,1.96365155629831
 2022,Hameln-Pyrmont,Prozent,K03252,1.83529411764706
 2022,Hildesheim,Prozent,K03254,1.30653266331658
 2022,Holzminden,Prozent,K03255,1.57506152584085
@@ -947,7 +947,7 @@ Year,Gebietseinheit,Units,GeoCode,Value
 2023,Göttingen,Prozent,K03159,1.85880908532842
 2023,Statistische Region Braunschweig,Prozent,K031,1.91944189115935
 2023,Region Hannover,Prozent,K03241,1.16487455197133
-2023,"dav. Hannover, Lhst.",Prozent,K03241001,1.03848919501949
+2023,"dav. Hannover, Lhst.",Prozent,K03241999,1.03848919501949
 2023,"dav. Hannover, Umland",Prozent,K03241999,1.34819124993138
 2023,Diepholz,Prozent,K03251,1.26727200947493
 2023,Hameln-Pyrmont,Prozent,K03252,0.54930211616389
@@ -987,3 +987,55 @@ Year,Gebietseinheit,Units,GeoCode,Value
 2023,Wittmund,Prozent,K03462,0.441014332965821
 2023,Statistische Region Weser-Ems,Prozent,K034,1.40433119553651
 2023,Niedersachsen,Prozent,K030,1.55420315760862
+2024,"Braunschweig, Stadt",Prozent,K03101,3.32325453545904
+2024,"Salzgitter, Stadt",Prozent,K03102,1.41040921732221
+2024,"Wolfsburg, Stadt",Prozent,K03103,2.15070341106186
+2024,Gifhorn,Prozent,K03151,1.18568232662192
+2024,Goslar,Prozent,K03153,3.86850601702377
+2024,Helmstedt,Prozent,K03154,0.842548709847288
+2024,Northeim,Prozent,K03155,2.50447227191413
+2024,Peine,Prozent,K03157,1.27411944869832
+2024,Wolfenbüttel,Prozent,K03158,2.41332733003152
+2024,Göttingen,Prozent,K03159,1.99638336347197
+2024,Statistische Region Braunschweig,Prozent,K031,2.20080545661941
+2024,Region Hannover,Prozent,K03241,1.90201982461153
+2024,"dav. Hannover, Lhst.",Prozent,K03241001,1.43666456844522
+2024,"dav. Hannover, Umland",Prozent,K03241999,2.58165693272767
+2024,Diepholz,Prozent,K03251,1.3323124042879
+2024,Hameln-Pyrmont,Prozent,K03252,1.05168539325843
+2024,Hildesheim,Prozent,K03254,2.63031755542241
+2024,Holzminden,Prozent,K03255,2.14182344428365
+2024,Nienburg (Weser),Prozent,K03256,2.56535378180551
+2024,Schaumburg,Prozent,K03257,3.10290237467018
+2024,Statistische Region Hannover,Prozent,K032,1.97195593074832
+2024,Celle,Prozent,K03351,2.0477083891718
+2024,Cuxhaven,Prozent,K03352,2.10155562078075
+2024,Harburg,Prozent,K03353,2.79860228716645
+2024,Lüchow-Dannenberg,Prozent,K03354,2.16284987277354
+2024,Lüneburg,Prozent,K03355,2.92128445581131
+2024,Osterholz,Prozent,K03356,3.03837953091684
+2024,Rotenburg (Wümme),Prozent,K03357,2.23466981132075
+2024,Heidekreis,Prozent,K03358,3.10233160621762
+2024,Stade,Prozent,K03359,2.67014730561253
+2024,Uelzen,Prozent,K03360,2.82381829343155
+2024,Verden,Prozent,K03361,1.10747051114024
+2024,Statistische Region Lüneburg,Prozent,K033,2.47827771321047
+2024,"Delmenhorst, Stadt",Prozent,K03401,1.95402298850575
+2024,"Emden, Stadt",Prozent,K03402,2.52491694352159
+2024,"Oldenburg (Oldb), Stadt",Prozent,K03403,4.46443514644352
+2024,"Osnabrück, Stadt",Prozent,K03404,2.78846153846154
+2024,"Wilhelmshaven, Stadt",Prozent,K03405,1.49794238683128
+2024,Ammerland,Prozent,K03451,2.84982935153584
+2024,Aurich,Prozent,K03452,4.10141206675225
+2024,Cloppenburg,Prozent,K03453,1.00217864923747
+2024,Emsland,Prozent,K03454,1.26211746816195
+2024,Friesland,Prozent,K03455,2.03023758099352
+2024,Grafschaft Bentheim,Prozent,K03456,2.64554304256538
+2024,Leer,Prozent,K03457,0.502092050209205
+2024,Oldenburg,Prozent,K03458,2.07168694508385
+2024,Osnabrück,Prozent,K03459,0.834910122989593
+2024,Vechta,Prozent,K03460,3.79818365287588
+2024,Wesermarsch,Prozent,K03461,1.28475551294343
+2024,Wittmund,Prozent,K03462,1.49888143176734
+2024,Statistische Region Weser-Ems,Prozent,K034,2.09227853009176
+2024,Niedersachsen,Prozent,K030,2.13894301579896
