@@ -1,4 +1,38 @@
 Attribute VB_Name = "Modul1"
+Sub Komma_Punkt_Optimiert()
+    Dim c As Range
+    Dim firstAddress As String
+    Dim StartRow As Long, EndRow As Long
+    Dim Werte As String
+    Dim ws As Worksheet
+    Set ws = ActiveSheet
+
+    ' Finde die Zelle mit dem Inhalt "Value"
+    Set c = ws.UsedRange.Find("Value", LookIn:=xlValues)
+    If c Is Nothing Then
+        MsgBox """Value"" wurde nicht gefunden."
+        Exit Sub
+    End If
+
+    firstAddress = c.Address
+    StartRow = c.Row + 1
+    EndRow = ws.Cells(c.Row, c.Column).End(xlDown).Row
+
+    ' Schleife über die relevanten Zellen
+    Dim i As Long
+    For i = StartRow To EndRow
+        With ws.Cells(i, c.Column)
+            .NumberFormat = "@"
+            Werte = .Value
+            Debug.Print "Vorher: " & Werte
+            Werte = Replace(Werte, ",", ".")
+            .Value = Werte
+            Debug.Print "Nachher: " & Werte
+        End With
+    Next i
+
+    MsgBox "Fertig: Kommas wurden durch Punkte ersetzt."
+End Sub
 
 Sub Erstelle_UTF8_prozent()
     Dim Datenbereich As String
