@@ -1,4 +1,56 @@
 Year,Gebietseinheit,Geschlecht,Units,GeoCode,Value
+2024,"Braunschweig, Stadt",Insgesamt,Anzahl,K03101,15853.0
+2024,"Salzgitter, Stadt",Insgesamt,Anzahl,K03102,6604.0
+2024,"Wolfsburg, Stadt",Insgesamt,Anzahl,K03103,12166.0
+2024,Gifhorn,Insgesamt,Anzahl,K03151,4614.0
+2024,Goslar,Insgesamt,Anzahl,K03153,4533.0
+2024,Helmstedt,Insgesamt,Anzahl,K03154,3653.0
+2024,Northeim,Insgesamt,Anzahl,K03155,4190.0
+2024,Peine,Insgesamt,Anzahl,K03157,4816.0
+2024,Wolfenbüttel,Insgesamt,Anzahl,K03158,2328.0
+2024,Göttingen,Insgesamt,Anzahl,K03159,14579.0
+2024,Statistische Region Braunschweig,Insgesamt,Anzahl,K031,73336.0
+2024,Region Hannover,Insgesamt,Anzahl,K03241,84283.0
+2024,"dav. Hannover, Lhst.",Insgesamt,Anzahl,K03241001,51925.0
+2024,"dav. Hannover, Umland",Insgesamt,Anzahl,K03241999,32358.0
+2024,Diepholz,Insgesamt,Anzahl,K03251,10288.0
+2024,Hameln-Pyrmont,Insgesamt,Anzahl,K03252,5609.0
+2024,Hildesheim,Insgesamt,Anzahl,K03254,9388.0
+2024,Holzminden,Insgesamt,Anzahl,K03255,2192.0
+2024,Nienburg (Weser),Insgesamt,Anzahl,K03256,4484.0
+2024,Schaumburg,Insgesamt,Anzahl,K03257,5349.0
+2024,Statistische Region Hannover,Insgesamt,Anzahl,K032,121593.0
+2024,Celle,Insgesamt,Anzahl,K03351,6170.0
+2024,Cuxhaven,Insgesamt,Anzahl,K03352,6437.0
+2024,Harburg,Insgesamt,Anzahl,K03353,13051.0
+2024,Lüchow-Dannenberg,Insgesamt,Anzahl,K03354,1100.0
+2024,Lüneburg,Insgesamt,Anzahl,K03355,5497.0
+2024,Osterholz,Insgesamt,Anzahl,K03356,2919.0
+2024,Rotenburg (Wümme),Insgesamt,Anzahl,K03357,5529.0
+2024,Heidekreis,Insgesamt,Anzahl,K03358,6136.0
+2024,Stade,Insgesamt,Anzahl,K03359,7712.0
+2024,Uelzen,Insgesamt,Anzahl,K03360,2473.0
+2024,Verden,Insgesamt,Anzahl,K03361,9028.0
+2024,Statistische Region Lüneburg,Insgesamt,Anzahl,K033,66052.0
+2024,"Delmenhorst, Stadt",Insgesamt,Anzahl,K03401,3318.0
+2024,"Emden, Stadt",Insgesamt,Anzahl,K03402,2368.0
+2024,"Oldenburg (Oldb), Stadt",Insgesamt,Anzahl,K03403,9071.0
+2024,"Osnabrück, Stadt",Insgesamt,Anzahl,K03404,11960.0
+2024,"Wilhelmshaven, Stadt",Insgesamt,Anzahl,K03405,2878.0
+2024,Ammerland,Insgesamt,Anzahl,K03451,5762.0
+2024,Aurich,Insgesamt,Anzahl,K03452,5425.0
+2024,Cloppenburg,Insgesamt,Anzahl,K03453,13431.0
+2024,Emsland,Insgesamt,Anzahl,K03454,22207.0
+2024,Friesland,Insgesamt,Anzahl,K03455,2182.0
+2024,Grafschaft Bentheim,Insgesamt,Anzahl,K03456,7497.0
+2024,Leer,Insgesamt,Anzahl,K03457,4985.0
+2024,Oldenburg,Insgesamt,Anzahl,K03458,8230.0
+2024,Osnabrück,Insgesamt,Anzahl,K03459,17680.0
+2024,Vechta,Insgesamt,Anzahl,K03460,14467.0
+2024,Wesermarsch,Insgesamt,Anzahl,K03461,3722.0
+2024,Wittmund,Insgesamt,Anzahl,K03462,1351.0
+2024,Statistische Region Weser-Ems,Insgesamt,Anzahl,K034,136534.0
+2024,Niedersachsen,Insgesamt,Anzahl,K030,397515.0
 2023,"Braunschweig, Stadt",Insgesamt,Anzahl,K03101,14650.0
 2023,"Salzgitter, Stadt",Insgesamt,Anzahl,K03102,5873.0
 2023,"Wolfsburg, Stadt",Insgesamt,Anzahl,K03103,11293.0
@@ -675,6 +727,58 @@ Year,Gebietseinheit,Geschlecht,Units,GeoCode,Value
 2011,Wittmund,Insgesamt,Anzahl,K03462,384.0
 2011,Statistische Region Weser-Ems,Insgesamt,Anzahl,K034,34725.0
 2011,Niedersachsen,Insgesamt,Anzahl,K030,117694.0
+2024,"Braunschweig, Stadt",Männer,Anzahl,K03101,9159.0
+2024,"Salzgitter, Stadt",Männer,Anzahl,K03102,4915.0
+2024,"Wolfsburg, Stadt",Männer,Anzahl,K03103,8023.0
+2024,Gifhorn,Männer,Anzahl,K03151,2833.0
+2024,Goslar,Männer,Anzahl,K03153,2789.0
+2024,Helmstedt,Männer,Anzahl,K03154,2563.0
+2024,Northeim,Männer,Anzahl,K03155,2840.0
+2024,Peine,Männer,Anzahl,K03157,3381.0
+2024,Wolfenbüttel,Männer,Anzahl,K03158,1507.0
+2024,Göttingen,Männer,Anzahl,K03159,8652.0
+2024,Statistische Region Braunschweig,Männer,Anzahl,K031,46662.0
+2024,Region Hannover,Männer,Anzahl,K03241,51839.0
+2024,"dav. Hannover, Lhst.",Männer,Anzahl,K03241001,30542.0
+2024,"dav. Hannover, Umland",Männer,Anzahl,K03241999,21297.0
+2024,Diepholz,Männer,Anzahl,K03251,6834.0
+2024,Hameln-Pyrmont,Männer,Anzahl,K03252,3387.0
+2024,Hildesheim,Männer,Anzahl,K03254,5985.0
+2024,Holzminden,Männer,Anzahl,K03255,1465.0
+2024,Nienburg (Weser),Männer,Anzahl,K03256,3101.0
+2024,Schaumburg,Männer,Anzahl,K03257,3292.0
+2024,Statistische Region Hannover,Männer,Anzahl,K032,75903.0
+2024,Celle,Männer,Anzahl,K03351,3729.0
+2024,Cuxhaven,Männer,Anzahl,K03352,4288.0
+2024,Harburg,Männer,Anzahl,K03353,9044.0
+2024,Lüchow-Dannenberg,Männer,Anzahl,K03354,658.0
+2024,Lüneburg,Männer,Anzahl,K03355,3605.0
+2024,Osterholz,Männer,Anzahl,K03356,1944.0
+2024,Rotenburg (Wümme),Männer,Anzahl,K03357,3525.0
+2024,Heidekreis,Männer,Anzahl,K03358,3974.0
+2024,Stade,Männer,Anzahl,K03359,5013.0
+2024,Uelzen,Männer,Anzahl,K03360,1447.0
+2024,Verden,Männer,Anzahl,K03361,6232.0
+2024,Statistische Region Lüneburg,Männer,Anzahl,K033,43459.0
+2024,"Delmenhorst, Stadt",Männer,Anzahl,K03401,1976.0
+2024,"Emden, Stadt",Männer,Anzahl,K03402,1685.0
+2024,"Oldenburg (Oldb), Stadt",Männer,Anzahl,K03403,5242.0
+2024,"Osnabrück, Stadt",Männer,Anzahl,K03404,6609.0
+2024,"Wilhelmshaven, Stadt",Männer,Anzahl,K03405,1943.0
+2024,Ammerland,Männer,Anzahl,K03451,3786.0
+2024,Aurich,Männer,Anzahl,K03452,3255.0
+2024,Cloppenburg,Männer,Anzahl,K03453,9150.0
+2024,Emsland,Männer,Anzahl,K03454,15504.0
+2024,Friesland,Männer,Anzahl,K03455,1387.0
+2024,Grafschaft Bentheim,Männer,Anzahl,K03456,5001.0
+2024,Leer,Männer,Anzahl,K03457,3374.0
+2024,Oldenburg,Männer,Anzahl,K03458,5424.0
+2024,Osnabrück,Männer,Anzahl,K03459,11713.0
+2024,Vechta,Männer,Anzahl,K03460,9478.0
+2024,Wesermarsch,Männer,Anzahl,K03461,2899.0
+2024,Wittmund,Männer,Anzahl,K03462,772.0
+2024,Statistische Region Weser-Ems,Männer,Anzahl,K034,89198.0
+2024,Niedersachsen,Männer,Anzahl,K030,255222.0
 2023,"Braunschweig, Stadt",Männer,Anzahl,K03101,8654.0
 2023,"Salzgitter, Stadt",Männer,Anzahl,K03102,4398.0
 2023,"Wolfsburg, Stadt",Männer,Anzahl,K03103,7471.0
@@ -1351,6 +1455,58 @@ Year,Gebietseinheit,Geschlecht,Units,GeoCode,Value
 2011,Wittmund,Männer,Anzahl,K03462,204.0
 2011,Statistische Region Weser-Ems,Männer,Anzahl,K034,22924.0
 2011,Niedersachsen,Männer,Anzahl,K030,76010.0
+2024,"Braunschweig, Stadt",Frauen,Anzahl,K03101,6694.0
+2024,"Salzgitter, Stadt",Frauen,Anzahl,K03102,1689.0
+2024,"Wolfsburg, Stadt",Frauen,Anzahl,K03103,4143.0
+2024,Gifhorn,Frauen,Anzahl,K03151,1781.0
+2024,Goslar,Frauen,Anzahl,K03153,1744.0
+2024,Helmstedt,Frauen,Anzahl,K03154,1090.0
+2024,Northeim,Frauen,Anzahl,K03155,1350.0
+2024,Peine,Frauen,Anzahl,K03157,1435.0
+2024,Wolfenbüttel,Frauen,Anzahl,K03158,821.0
+2024,Göttingen,Frauen,Anzahl,K03159,5927.0
+2024,Statistische Region Braunschweig,Frauen,Anzahl,K031,26674.0
+2024,Region Hannover,Frauen,Anzahl,K03241,32444.0
+2024,"dav. Hannover, Lhst.",Frauen,Anzahl,K03241001,21383.0
+2024,"dav. Hannover, Umland",Frauen,Anzahl,K03241999,11061.0
+2024,Diepholz,Frauen,Anzahl,K03251,3454.0
+2024,Hameln-Pyrmont,Frauen,Anzahl,K03252,2222.0
+2024,Hildesheim,Frauen,Anzahl,K03254,3403.0
+2024,Holzminden,Frauen,Anzahl,K03255,727.0
+2024,Nienburg (Weser),Frauen,Anzahl,K03256,1383.0
+2024,Schaumburg,Frauen,Anzahl,K03257,2057.0
+2024,Statistische Region Hannover,Frauen,Anzahl,K032,45690.0
+2024,Celle,Frauen,Anzahl,K03351,2441.0
+2024,Cuxhaven,Frauen,Anzahl,K03352,2149.0
+2024,Harburg,Frauen,Anzahl,K03353,4007.0
+2024,Lüchow-Dannenberg,Frauen,Anzahl,K03354,442.0
+2024,Lüneburg,Frauen,Anzahl,K03355,1892.0
+2024,Osterholz,Frauen,Anzahl,K03356,975.0
+2024,Rotenburg (Wümme),Frauen,Anzahl,K03357,2004.0
+2024,Heidekreis,Frauen,Anzahl,K03358,2162.0
+2024,Stade,Frauen,Anzahl,K03359,2699.0
+2024,Uelzen,Frauen,Anzahl,K03360,1026.0
+2024,Verden,Frauen,Anzahl,K03361,2796.0
+2024,Statistische Region Lüneburg,Frauen,Anzahl,K033,22593.0
+2024,"Delmenhorst, Stadt",Frauen,Anzahl,K03401,1342.0
+2024,"Emden, Stadt",Frauen,Anzahl,K03402,683.0
+2024,"Oldenburg (Oldb), Stadt",Frauen,Anzahl,K03403,3829.0
+2024,"Osnabrück, Stadt",Frauen,Anzahl,K03404,5351.0
+2024,"Wilhelmshaven, Stadt",Frauen,Anzahl,K03405,935.0
+2024,Ammerland,Frauen,Anzahl,K03451,1976.0
+2024,Aurich,Frauen,Anzahl,K03452,2170.0
+2024,Cloppenburg,Frauen,Anzahl,K03453,4281.0
+2024,Emsland,Frauen,Anzahl,K03454,6703.0
+2024,Friesland,Frauen,Anzahl,K03455,795.0
+2024,Grafschaft Bentheim,Frauen,Anzahl,K03456,2496.0
+2024,Leer,Frauen,Anzahl,K03457,1611.0
+2024,Oldenburg,Frauen,Anzahl,K03458,2806.0
+2024,Osnabrück,Frauen,Anzahl,K03459,5967.0
+2024,Vechta,Frauen,Anzahl,K03460,4989.0
+2024,Wesermarsch,Frauen,Anzahl,K03461,823.0
+2024,Wittmund,Frauen,Anzahl,K03462,579.0
+2024,Statistische Region Weser-Ems,Frauen,Anzahl,K034,47336.0
+2024,Niedersachsen,Frauen,Anzahl,K030,142293.0
 2023,"Braunschweig, Stadt",Frauen,Anzahl,K03101,5996.0
 2023,"Salzgitter, Stadt",Frauen,Anzahl,K03102,1475.0
 2023,"Wolfsburg, Stadt",Frauen,Anzahl,K03103,3822.0
@@ -2027,6 +2183,58 @@ Year,Gebietseinheit,Geschlecht,Units,GeoCode,Value
 2011,Wittmund,Frauen,Anzahl,K03462,180.0
 2011,Statistische Region Weser-Ems,Frauen,Anzahl,K034,11801.0
 2011,Niedersachsen,Frauen,Anzahl,K030,41684.0
+2024,"Braunschweig, Stadt",Insgesamt,Prozent,K03101,100.0
+2024,"Salzgitter, Stadt",Insgesamt,Prozent,K03102,100.0
+2024,"Wolfsburg, Stadt",Insgesamt,Prozent,K03103,100.0
+2024,Gifhorn,Insgesamt,Prozent,K03151,100.0
+2024,Goslar,Insgesamt,Prozent,K03153,100.0
+2024,Helmstedt,Insgesamt,Prozent,K03154,100.0
+2024,Northeim,Insgesamt,Prozent,K03155,100.0
+2024,Peine,Insgesamt,Prozent,K03157,100.0
+2024,Wolfenbüttel,Insgesamt,Prozent,K03158,100.0
+2024,Göttingen,Insgesamt,Prozent,K03159,100.0
+2024,Statistische Region Braunschweig,Insgesamt,Prozent,K031,100.0
+2024,Region Hannover,Insgesamt,Prozent,K03241,100.0
+2024,"dav. Hannover, Lhst.",Insgesamt,Prozent,K03241001,100.0
+2024,"dav. Hannover, Umland",Insgesamt,Prozent,K03241999,100.0
+2024,Diepholz,Insgesamt,Prozent,K03251,100.0
+2024,Hameln-Pyrmont,Insgesamt,Prozent,K03252,100.0
+2024,Hildesheim,Insgesamt,Prozent,K03254,100.0
+2024,Holzminden,Insgesamt,Prozent,K03255,100.0
+2024,Nienburg (Weser),Insgesamt,Prozent,K03256,100.0
+2024,Schaumburg,Insgesamt,Prozent,K03257,100.0
+2024,Statistische Region Hannover,Insgesamt,Prozent,K032,100.0
+2024,Celle,Insgesamt,Prozent,K03351,100.0
+2024,Cuxhaven,Insgesamt,Prozent,K03352,100.0
+2024,Harburg,Insgesamt,Prozent,K03353,100.0
+2024,Lüchow-Dannenberg,Insgesamt,Prozent,K03354,100.0
+2024,Lüneburg,Insgesamt,Prozent,K03355,100.0
+2024,Osterholz,Insgesamt,Prozent,K03356,100.0
+2024,Rotenburg (Wümme),Insgesamt,Prozent,K03357,100.0
+2024,Heidekreis,Insgesamt,Prozent,K03358,100.0
+2024,Stade,Insgesamt,Prozent,K03359,100.0
+2024,Uelzen,Insgesamt,Prozent,K03360,100.0
+2024,Verden,Insgesamt,Prozent,K03361,100.0
+2024,Statistische Region Lüneburg,Insgesamt,Prozent,K033,100.0
+2024,"Delmenhorst, Stadt",Insgesamt,Prozent,K03401,100.0
+2024,"Emden, Stadt",Insgesamt,Prozent,K03402,100.0
+2024,"Oldenburg (Oldb), Stadt",Insgesamt,Prozent,K03403,100.0
+2024,"Osnabrück, Stadt",Insgesamt,Prozent,K03404,100.0
+2024,"Wilhelmshaven, Stadt",Insgesamt,Prozent,K03405,100.0
+2024,Ammerland,Insgesamt,Prozent,K03451,100.0
+2024,Aurich,Insgesamt,Prozent,K03452,100.0
+2024,Cloppenburg,Insgesamt,Prozent,K03453,100.0
+2024,Emsland,Insgesamt,Prozent,K03454,100.0
+2024,Friesland,Insgesamt,Prozent,K03455,100.0
+2024,Grafschaft Bentheim,Insgesamt,Prozent,K03456,100.0
+2024,Leer,Insgesamt,Prozent,K03457,100.0
+2024,Oldenburg,Insgesamt,Prozent,K03458,100.0
+2024,Osnabrück,Insgesamt,Prozent,K03459,100.0
+2024,Vechta,Insgesamt,Prozent,K03460,100.0
+2024,Wesermarsch,Insgesamt,Prozent,K03461,100.0
+2024,Wittmund,Insgesamt,Prozent,K03462,100.0
+2024,Statistische Region Weser-Ems,Insgesamt,Prozent,K034,100.0
+2024,Niedersachsen,Insgesamt,Prozent,K030,100.0
 2023,"Braunschweig, Stadt",Insgesamt,Prozent,K03101,100.0
 2023,"Salzgitter, Stadt",Insgesamt,Prozent,K03102,100.0
 2023,"Wolfsburg, Stadt",Insgesamt,Prozent,K03103,100.0
@@ -2703,6 +2911,58 @@ Year,Gebietseinheit,Geschlecht,Units,GeoCode,Value
 2011,Wittmund,Insgesamt,Prozent,K03462,100.0
 2011,Statistische Region Weser-Ems,Insgesamt,Prozent,K034,100.0
 2011,Niedersachsen,Insgesamt,Prozent,K030,100.0
+2024,"Braunschweig, Stadt",Männer,Prozent,K03101,57.7745537122311
+2024,"Salzgitter, Stadt",Männer,Prozent,K03102,74.4245911568746
+2024,"Wolfsburg, Stadt",Männer,Prozent,K03103,65.9460792372185
+2024,Gifhorn,Männer,Prozent,K03151,61.4000866926745
+2024,Goslar,Männer,Prozent,K03153,61.5265828369733
+2024,Helmstedt,Männer,Prozent,K03154,70.161511086778
+2024,Northeim,Männer,Prozent,K03155,67.7804295942721
+2024,Peine,Männer,Prozent,K03157,70.203488372093
+2024,Wolfenbüttel,Männer,Prozent,K03158,64.733676975945
+2024,Göttingen,Männer,Prozent,K03159,59.3456341312847
+2024,Statistische Region Braunschweig,Männer,Prozent,K031,63.627686265954
+2024,Region Hannover,Männer,Prozent,K03241,61.5058790028831
+2024,"dav. Hannover, Lhst.",Männer,Prozent,K03241001,58.8194511314396
+2024,"dav. Hannover, Umland",Männer,Prozent,K03241999,65.8167995549787
+2024,Diepholz,Männer,Prozent,K03251,66.4269051321928
+2024,Hameln-Pyrmont,Männer,Prozent,K03252,60.3850953824211
+2024,Hildesheim,Männer,Prozent,K03254,63.7515977844056
+2024,Holzminden,Männer,Prozent,K03255,66.8339416058394
+2024,Nienburg (Weser),Männer,Prozent,K03256,69.157002676182
+2024,Schaumburg,Männer,Prozent,K03257,61.5442138717517
+2024,Statistische Region Hannover,Männer,Prozent,K032,62.4238237398534
+2024,Celle,Männer,Prozent,K03351,60.4376012965964
+2024,Cuxhaven,Männer,Prozent,K03352,66.6148827093366
+2024,Harburg,Männer,Prozent,K03353,69.2973718489005
+2024,Lüchow-Dannenberg,Männer,Prozent,K03354,59.8181818181818
+2024,Lüneburg,Männer,Prozent,K03355,65.58122612334
+2024,Osterholz,Männer,Prozent,K03356,66.5981500513875
+2024,Rotenburg (Wümme),Männer,Prozent,K03357,63.7547476939772
+2024,Heidekreis,Männer,Prozent,K03358,64.7653194263364
+2024,Stade,Männer,Prozent,K03359,65.0025933609959
+2024,Uelzen,Männer,Prozent,K03360,58.5119288313789
+2024,Verden,Männer,Prozent,K03361,69.0296854231281
+2024,Statistische Region Lüneburg,Männer,Prozent,K033,65.7951311088233
+2024,"Delmenhorst, Stadt",Männer,Prozent,K03401,59.5539481615431
+2024,"Emden, Stadt",Männer,Prozent,K03402,71.1570945945946
+2024,"Oldenburg (Oldb), Stadt",Männer,Prozent,K03403,57.7885569396979
+2024,"Osnabrück, Stadt",Männer,Prozent,K03404,55.2591973244147
+2024,"Wilhelmshaven, Stadt",Männer,Prozent,K03405,67.5121612230716
+2024,Ammerland,Männer,Prozent,K03451,65.7063519611246
+2024,Aurich,Männer,Prozent,K03452,60.0
+2024,Cloppenburg,Männer,Prozent,K03453,68.1259772168863
+2024,Emsland,Männer,Prozent,K03454,69.8158238393299
+2024,Friesland,Männer,Prozent,K03455,63.5655362053162
+2024,Grafschaft Bentheim,Männer,Prozent,K03456,66.7066826730692
+2024,Leer,Männer,Prozent,K03457,67.6830491474423
+2024,Oldenburg,Männer,Prozent,K03458,65.9052247873633
+2024,Osnabrück,Männer,Prozent,K03459,66.25
+2024,Vechta,Männer,Prozent,K03460,65.5146194788139
+2024,Wesermarsch,Männer,Prozent,K03461,77.8882321332617
+2024,Wittmund,Männer,Prozent,K03462,57.1428571428571
+2024,Statistische Region Weser-Ems,Männer,Prozent,K034,65.3302474109013
+2024,Niedersachsen,Männer,Prozent,K030,64.2043696464284
 2023,"Braunschweig, Stadt",Männer,Prozent,K03101,59.0716723549488
 2023,"Salzgitter, Stadt",Männer,Prozent,K03102,74.8850672569385
 2023,"Wolfsburg, Stadt",Männer,Prozent,K03103,66.1560258567254
@@ -3379,6 +3639,58 @@ Year,Gebietseinheit,Geschlecht,Units,GeoCode,Value
 2011,Wittmund,Männer,Prozent,K03462,53.125
 2011,Statistische Region Weser-Ems,Männer,Prozent,K034,66.0158387329014
 2011,Niedersachsen,Männer,Prozent,K030,64.5827314901354
+2024,"Braunschweig, Stadt",Frauen,Prozent,K03101,42.2254462877689
+2024,"Salzgitter, Stadt",Frauen,Prozent,K03102,25.5754088431254
+2024,"Wolfsburg, Stadt",Frauen,Prozent,K03103,34.0539207627815
+2024,Gifhorn,Frauen,Prozent,K03151,38.5999133073255
+2024,Goslar,Frauen,Prozent,K03153,38.4734171630267
+2024,Helmstedt,Frauen,Prozent,K03154,29.838488913222
+2024,Northeim,Frauen,Prozent,K03155,32.2195704057279
+2024,Peine,Frauen,Prozent,K03157,29.796511627907
+2024,Wolfenbüttel,Frauen,Prozent,K03158,35.266323024055
+2024,Göttingen,Frauen,Prozent,K03159,40.6543658687153
+2024,Statistische Region Braunschweig,Frauen,Prozent,K031,36.372313734046
+2024,Region Hannover,Frauen,Prozent,K03241,38.4941209971169
+2024,"dav. Hannover, Lhst.",Frauen,Prozent,K03241001,41.1805488685604
+2024,"dav. Hannover, Umland",Frauen,Prozent,K03241999,34.1832004450213
+2024,Diepholz,Frauen,Prozent,K03251,33.5730948678072
+2024,Hameln-Pyrmont,Frauen,Prozent,K03252,39.6149046175789
+2024,Hildesheim,Frauen,Prozent,K03254,36.2484022155944
+2024,Holzminden,Frauen,Prozent,K03255,33.1660583941606
+2024,Nienburg (Weser),Frauen,Prozent,K03256,30.842997323818
+2024,Schaumburg,Frauen,Prozent,K03257,38.4557861282483
+2024,Statistische Region Hannover,Frauen,Prozent,K032,37.5761762601466
+2024,Celle,Frauen,Prozent,K03351,39.5623987034036
+2024,Cuxhaven,Frauen,Prozent,K03352,33.3851172906634
+2024,Harburg,Frauen,Prozent,K03353,30.7026281510995
+2024,Lüchow-Dannenberg,Frauen,Prozent,K03354,40.1818181818182
+2024,Lüneburg,Frauen,Prozent,K03355,34.41877387666
+2024,Osterholz,Frauen,Prozent,K03356,33.4018499486125
+2024,Rotenburg (Wümme),Frauen,Prozent,K03357,36.2452523060228
+2024,Heidekreis,Frauen,Prozent,K03358,35.2346805736636
+2024,Stade,Frauen,Prozent,K03359,34.9974066390041
+2024,Uelzen,Frauen,Prozent,K03360,41.4880711686211
+2024,Verden,Frauen,Prozent,K03361,30.970314576872
+2024,Statistische Region Lüneburg,Frauen,Prozent,K033,34.2048688911767
+2024,"Delmenhorst, Stadt",Frauen,Prozent,K03401,40.4460518384569
+2024,"Emden, Stadt",Frauen,Prozent,K03402,28.8429054054054
+2024,"Oldenburg (Oldb), Stadt",Frauen,Prozent,K03403,42.2114430603021
+2024,"Osnabrück, Stadt",Frauen,Prozent,K03404,44.7408026755853
+2024,"Wilhelmshaven, Stadt",Frauen,Prozent,K03405,32.4878387769284
+2024,Ammerland,Frauen,Prozent,K03451,34.2936480388754
+2024,Aurich,Frauen,Prozent,K03452,40.0
+2024,Cloppenburg,Frauen,Prozent,K03453,31.8740227831137
+2024,Emsland,Frauen,Prozent,K03454,30.1841761606701
+2024,Friesland,Frauen,Prozent,K03455,36.4344637946838
+2024,Grafschaft Bentheim,Frauen,Prozent,K03456,33.2933173269308
+2024,Leer,Frauen,Prozent,K03457,32.3169508525577
+2024,Oldenburg,Frauen,Prozent,K03458,34.0947752126367
+2024,Osnabrück,Frauen,Prozent,K03459,33.75
+2024,Vechta,Frauen,Prozent,K03460,34.4853805211862
+2024,Wesermarsch,Frauen,Prozent,K03461,22.1117678667383
+2024,Wittmund,Frauen,Prozent,K03462,42.8571428571429
+2024,Statistische Region Weser-Ems,Frauen,Prozent,K034,34.6697525890987
+2024,Niedersachsen,Frauen,Prozent,K030,35.7956303535716
 2023,"Braunschweig, Stadt",Frauen,Prozent,K03101,40.9283276450512
 2023,"Salzgitter, Stadt",Frauen,Prozent,K03102,25.1149327430615
 2023,"Wolfsburg, Stadt",Frauen,Prozent,K03103,33.8439741432746
