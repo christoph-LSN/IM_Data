@@ -1021,7 +1021,7 @@
                 "Türkei",
                 "Ukraine",
                 "Ungarn",
-                "Vereinigtes Königreich, No",
+                "Vereinigtes Königreich",
                 "EU Staaten",
                 "Afrika insgesamt",
                 "Amerika insgesamt",
@@ -1039,7 +1039,7 @@
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       },
@@ -2634,7 +2634,7 @@
             "constraints": {
               "enum": [
                 "Männer",
-                "Frauen ",
+                "Frauen",
                 "Insgesamt",
                 ""
               ]
