@@ -1,32 +1,4 @@
 ﻿Year,Wanderungsziel,Value
-2008,"Europa insgesamt",52345
-2008,"Bulgarien",1232
-2008,"Griechenland",1049
-2008,"Italien",1359
-2008,"Moldau, Republik",31
-2008,"Niederlande",1676
-2008,"Österreich",1127
-2008,"Polen",23944
-2008,"Rumänien",3399
-2008,"Russische Föderation",1646
-2008,"Schweiz",1828
-2008,"Serbien",193
-2008,"Spanien",
-2008,"Türkei",2159
-2008,"Ukraine",451
-2008,"Ungarn",2415
-2008,"Vereinigtes Königreich, No",1434
-2008,"EU Staaten",44373
-2008,"Afrika insgesamt",1598
-2008,"Amerika insgesamt",5228
-2008,"Vereinigte Staaten",1972
-2008,"Asien insgesamt",5596
-2008,"China",1235
-2008,"Australien und Ozeanien",608
-2008,"Sonstige Ziele",2739
-2008,"unbekanntes Ausland",225
-2008,"ohne Angabe",8
-2008,"Insgesamt",68114
 2009,"Europa insgesamt",51736
 2009,"Bulgarien",1841
 2009,"Griechenland",954
@@ -39,11 +11,11 @@
 2009,"Russische Föderation",1189
 2009,"Schweiz",1510
 2009,"Serbien",717
-2009,"Spanien",1486
+2009,"Spanien",
 2009,"Türkei",2076
 2009,"Ukraine",293
 2009,"Ungarn",2632
-2009,"Vereinigtes Königreich, No",1435
+2009,"Vereinigtes Königreich",1435
 2009,"EU Staaten",44947
 2009,"Afrika insgesamt",1348
 2009,"Amerika insgesamt",4375
@@ -71,7 +43,7 @@
 2010,"Türkei",1817
 2010,"Ukraine",242
 2010,"Ungarn",2054
-2010,"Vereinigtes Königreich, No",1176
+2010,"Vereinigtes Königreich",1176
 2010,"EU Staaten",41807
 2010,"Afrika insgesamt",1208
 2010,"Amerika insgesamt",4047
@@ -99,7 +71,7 @@
 2011,"Türkei",1727
 2011,"Ukraine",293
 2011,"Ungarn",2534
-2011,"Vereinigtes Königreich, No",1276
+2011,"Vereinigtes Königreich",1276
 2011,"EU Staaten",47208
 2011,"Afrika insgesamt",1259
 2011,"Amerika insgesamt",4034
@@ -127,7 +99,7 @@
 2012,"Türkei",1743
 2012,"Ukraine",261
 2012,"Ungarn",2651
-2012,"Vereinigtes Königreich, No",1177
+2012,"Vereinigtes Königreich",1177
 2012,"EU Staaten",50761
 2012,"Afrika insgesamt",1257
 2012,"Amerika insgesamt",3832
@@ -155,7 +127,7 @@
 2013,"Türkei",1809
 2013,"Ukraine",252
 2013,"Ungarn",3419
-2013,"Vereinigtes Königreich, No",1227
+2013,"Vereinigtes Königreich",1227
 2013,"EU Staaten",55590
 2013,"Afrika insgesamt",1355
 2013,"Amerika insgesamt",3847
@@ -183,7 +155,7 @@
 2014,"Türkei",1821
 2014,"Ukraine",284
 2014,"Ungarn",3489
-2014,"Vereinigtes Königreich, No",1531
+2014,"Vereinigtes Königreich",1531
 2014,"EU Staaten",61810
 2014,"Afrika insgesamt",2023
 2014,"Amerika insgesamt",4067
@@ -211,7 +183,7 @@
 2015,"Türkei",1644
 2015,"Ukraine",317
 2015,"Ungarn",2997
-2015,"Vereinigtes Königreich, No",1497
+2015,"Vereinigtes Königreich",1497
 2015,"EU Staaten",58568
 2015,"Afrika insgesamt",2438
 2015,"Amerika insgesamt",3859
@@ -239,7 +211,7 @@
 2016,"Türkei",1926
 2016,"Ukraine",478
 2016,"Ungarn",3035
-2016,"Vereinigtes Königreich, No",1339
+2016,"Vereinigtes Königreich",1339
 2016,"EU Staaten",68721
 2016,"Afrika insgesamt",6689
 2016,"Amerika insgesamt",4286
@@ -267,7 +239,7 @@
 2017,"Türkei",1636
 2017,"Ukraine",708
 2017,"Ungarn",2765
-2017,"Vereinigtes Königreich, No",1090
+2017,"Vereinigtes Königreich",1090
 2017,"EU Staaten",62569
 2017,"Afrika insgesamt",4200
 2017,"Amerika insgesamt",3611
@@ -295,7 +267,7 @@
 2018,"Türkei",1901
 2018,"Ukraine",683
 2018,"Ungarn",2578
-2018,"Vereinigtes Königreich, No",1193
+2018,"Vereinigtes Königreich",1193
 2018,"EU Staaten",69033
 2018,"Afrika insgesamt",2701
 2018,"Amerika insgesamt",3577
@@ -323,7 +295,7 @@
 2019,"Türkei",1769
 2019,"Ukraine",1070
 2019,"Ungarn",2332
-2019,"Vereinigtes Königreich, No",1200
+2019,"Vereinigtes Königreich",1200
 2019,"EU Staaten",71647
 2019,"Afrika insgesamt",2560
 2019,"Amerika insgesamt",3820
@@ -351,7 +323,7 @@
 2020,"Türkei",1395
 2020,"Ukraine",752
 2020,"Ungarn",2020
-2020,"Vereinigtes Königreich, No",887
+2020,"Vereinigtes Königreich",887
 2020,"EU Staaten",55071
 2020,"Afrika insgesamt",2013
 2020,"Amerika insgesamt",2624
@@ -379,7 +351,7 @@
 2021,"Türkei",1528
 2021,"Ukraine",762
 2021,"Ungarn",1805
-2021,"Vereinigtes Königreich, No",773
+2021,"Vereinigtes Königreich",773
 2021,"EU Staaten",54312
 2021,"Afrika insgesamt",1798
 2021,"Amerika insgesamt",2496
@@ -407,7 +379,7 @@
 2022,"Türkei",1964
 2022,"Ukraine",16321
 2022,"Ungarn",1741
-2022,"Vereinigtes Königreich, No",949
+2022,"Vereinigtes Königreich",949
 2022,"EU Staaten",55723
 2022,"Afrika insgesamt",2218
 2022,"Amerika insgesamt",4054
@@ -435,7 +407,7 @@
 2023,"Türkei",3186
 2023,"Ukraine",16316
 2023,"Ungarn",1578
-2023,"Vereinigtes Königreich, No",796
+2023,"Vereinigtes Königreich",796
 2023,"EU Staaten",55549
 2023,"Afrika insgesamt",2894
 2023,"Amerika insgesamt",4716
@@ -447,3 +419,31 @@
 2023,"unbekanntes Ausland",1816
 2023,"ohne Angabe",16291
 2023,"Insgesamt",117610
+2024,"Europa insgesamt",82798
+2024,"Bulgarien",6531
+2024,"Griechenland",1287
+2024,"Italien",2060
+2024,"Moldau, Republik",2074
+2024,"Niederlande",1442
+2024,"Österreich",1090
+2024,"Polen",13069
+2024,"Rumänien",23676
+2024,"Russische Föderation",976
+2024,"Schweiz",1294
+2024,"Serbien",1187
+2024,"Spanien",2097
+2024,"Türkei",3437
+2024,"Ukraine",9664
+2024,"Ungarn",1683
+2024,"Vereinigtes Königreich",715
+2024,"EU Staaten",59836
+2024,"Afrika insgesamt",3120
+2024,"Amerika insgesamt",4734
+2024,"Vereinigte Staaten",1655
+2024,"Asien insgesamt",7068
+2024,"China",1262
+2024,"Australien und Ozeanien",481
+2024,"Sonstige Ziele",18619
+2024,"unbekanntes Ausland",971
+2024,"ohne Angabe",17648
+2024,"Insgesamt",116820

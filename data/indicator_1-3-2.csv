@@ -1,21 +1,38 @@
 ﻿Year,Gebietseinheit,Kategorie,Units,GeoCode,Value
-2023,"Ostniedersachsen",Insgesamt,"in 1000",RA_01,288.96
-2023,"Südniedersachsen",Insgesamt,"in 1000",RA_02,111.4
-2023,"Statistische Region Braunschweig",Insgesamt,"in 1000",,400.35
-2023,"Region Hannover",Insgesamt,"in 1000",,371.77
-2023,"dav. Hannover, Landeshauptstadt",Insgesamt,"in 1000",RA_03,204.64
-2023,"dav. Hannover, Umland",Insgesamt,"in 1000",RA_04,167.14
-2023,"Weser-Leine-Bergland",Insgesamt,"in 1000",RA_05,116.01
-2023,"Mittelniedersachsen",Insgesamt,"in 1000",RA_06,115.09
-2023,"Statistische Region Hannover",Insgesamt,"in 1000",,602.88
-2023,"Nordniedersachsen",Insgesamt,"in 1000",RA_07,184.16
-2023,"Nordostniedersachsen",Insgesamt,"in 1000",RA_08,148.04
-2023,"Statistische Region Lüneburg",Insgesamt,"in 1000",,332.2
-2023,"Ostfriesland-Nordseeküste",Insgesamt,"in 1000",RA_09,116.69
-2023,"Oldenburger Raum",Insgesamt,"in 1000",RA_10,163.01
-2023,"Westniedersachsen",Insgesamt,"in 1000",RA_11,310.58
-2023,"Statistische Region Weser-Ems",Insgesamt,"in 1000",,590.28
-2023,"Niedersachsen",Insgesamt,"in 1000",,1926.06
+2024,"Ostniedersachsen",Insgesamt,"in 1000",RA_01,296.29
+2024,"Südniedersachsen",Insgesamt,"in 1000",RA_02,122.91
+2024,"Statistische Region Braunschweig",Insgesamt,"in 1000",,419.2
+2024,"Region Hannover",Insgesamt,"in 1000",,411.08
+2024,"dav. Hannover, Landeshauptstadt",Insgesamt,"in 1000",RA_03,220.6
+2024,"dav. Hannover, Umland",Insgesamt,"in 1000",RA_04,190.48
+2024,"Weser-Leine-Bergland",Insgesamt,"in 1000",RA_05,124.35
+2024,"Mittelniedersachsen",Insgesamt,"in 1000",RA_06,107.37
+2024,"Statistische Region Hannover",Insgesamt,"in 1000",,642.8
+2024,"Nordniedersachsen",Insgesamt,"in 1000",RA_07,197.42
+2024,"Nordostniedersachsen",Insgesamt,"in 1000",RA_08,171.23
+2024,"Statistische Region Lüneburg",Insgesamt,"in 1000",,368.65
+2024,"Ostfriesland-Nordseeküste",Insgesamt,"in 1000",RA_09,126.48
+2024,"Oldenburger Raum",Insgesamt,"in 1000",RA_10,195.78
+2024,"Westniedersachsen",Insgesamt,"in 1000",RA_11,304.74
+2024,"Statistische Region Weser-Ems",Insgesamt,"in 1000",,627.01
+2024,"Niedersachsen",Insgesamt,"in 1000",,2057.66
+2023,"Ostniedersachsen",Insgesamt,"in 1000",RA_01,281.53
+2023,"Südniedersachsen",Insgesamt,"in 1000",RA_02,120.84
+2023,"Statistische Region Braunschweig",Insgesamt,"in 1000",,402.37
+2023,"Region Hannover",Insgesamt,"in 1000",,381.77
+2023,"dav. Hannover, Landeshauptstadt",Insgesamt,"in 1000",RA_03,214.98
+2023,"dav. Hannover, Umland",Insgesamt,"in 1000",RA_04,166.8
+2023,"Weser-Leine-Bergland",Insgesamt,"in 1000",RA_05,117.19
+2023,"Mittelniedersachsen",Insgesamt,"in 1000",RA_06,117.09
+2023,"Statistische Region Hannover",Insgesamt,"in 1000",,616.06
+2023,"Nordniedersachsen",Insgesamt,"in 1000",RA_07,187.43
+2023,"Nordostniedersachsen",Insgesamt,"in 1000",RA_08,164.5
+2023,"Statistische Region Lüneburg",Insgesamt,"in 1000",,351.93
+2023,"Ostfriesland-Nordseeküste",Insgesamt,"in 1000",RA_09,122.23
+2023,"Oldenburger Raum",Insgesamt,"in 1000",RA_10,183.6
+2023,"Westniedersachsen",Insgesamt,"in 1000",RA_11,300.97
+2023,"Statistische Region Weser-Ems",Insgesamt,"in 1000",,606.8
+2023,"Niedersachsen",Insgesamt,"in 1000",,1977.16
 2022,"Ostniedersachsen",Insgesamt,"in 1000",RA_01,295.79
 2022,"Südniedersachsen",Insgesamt,"in 1000",RA_02,113.9
 2022,"Statistische Region Braunschweig",Insgesamt,"in 1000",,409.68
@@ -203,6 +220,23 @@
 2011,"Westniedersachsen",Insgesamt,"in 1000",RA_11,236.83646
 2011,"Statistische Region Weser-Ems",Insgesamt,"in 1000",,420.09573
 2011,"Niedersachsen",Insgesamt,"in 1000",,1268.32265
+2024,"Ostniedersachsen",Insgesamt,%,RA_01,100
+2024,"Südniedersachsen",Insgesamt,%,RA_02,100
+2024,"Statistische Region Braunschweig",Insgesamt,%,,100
+2024,"Region Hannover",Insgesamt,%,,100
+2024,"dav. Hannover, Landeshauptstadt",Insgesamt,%,RA_03,100
+2024,"dav. Hannover, Umland",Insgesamt,%,RA_04,100
+2024,"Weser-Leine-Bergland",Insgesamt,%,RA_05,100
+2024,"Mittelniedersachsen",Insgesamt,%,RA_06,100
+2024,"Statistische Region Hannover",Insgesamt,%,,100
+2024,"Nordniedersachsen",Insgesamt,%,RA_07,100
+2024,"Nordostniedersachsen",Insgesamt,%,RA_08,100
+2024,"Statistische Region Lüneburg",Insgesamt,%,,100
+2024,"Ostfriesland-Nordseeküste",Insgesamt,%,RA_09,100
+2024,"Oldenburger Raum",Insgesamt,%,RA_10,100
+2024,"Westniedersachsen",Insgesamt,%,RA_11,100
+2024,"Statistische Region Weser-Ems",Insgesamt,%,,100
+2024,"Niedersachsen",Insgesamt,%,,100
 2023,"Ostniedersachsen",Insgesamt,%,RA_01,100
 2023,"Südniedersachsen",Insgesamt,%,RA_02,100
 2023,"Statistische Region Braunschweig",Insgesamt,%,,100
@@ -407,23 +441,40 @@
 2011,"Westniedersachsen",Insgesamt,%,RA_11,100
 2011,"Statistische Region Weser-Ems",Insgesamt,%,,100
 2011,"Niedersachsen",Insgesamt,%,,100
-2023,"Ostniedersachsen","mit eigener Migrationserfahrung","in 1000",RA_01,178.06
-2023,"Südniedersachsen","mit eigener Migrationserfahrung","in 1000",RA_02,71.85
-2023,"Statistische Region Braunschweig","mit eigener Migrationserfahrung","in 1000",,249.91
-2023,"Region Hannover","mit eigener Migrationserfahrung","in 1000",,233.31
-2023,"dav. Hannover, Landeshauptstadt","mit eigener Migrationserfahrung","in 1000",RA_03,128.91
-2023,"dav. Hannover, Umland","mit eigener Migrationserfahrung","in 1000",RA_04,104.39
-2023,"Weser-Leine-Bergland","mit eigener Migrationserfahrung","in 1000",RA_05,74.11
-2023,"Mittelniedersachsen","mit eigener Migrationserfahrung","in 1000",RA_06,69.78
-2023,"Statistische Region Hannover","mit eigener Migrationserfahrung","in 1000",,377.2
-2023,"Nordniedersachsen","mit eigener Migrationserfahrung","in 1000",RA_07,111.36
-2023,"Nordostniedersachsen","mit eigener Migrationserfahrung","in 1000",RA_08,92.45
-2023,"Statistische Region Lüneburg","mit eigener Migrationserfahrung","in 1000",,203.81
-2023,"Ostfriesland-Nordseeküste","mit eigener Migrationserfahrung","in 1000",RA_09,75.28
-2023,"Oldenburger Raum","mit eigener Migrationserfahrung","in 1000",RA_10,103.01
-2023,"Westniedersachsen","mit eigener Migrationserfahrung","in 1000",RA_11,206.09
-2023,"Statistische Region Weser-Ems","mit eigener Migrationserfahrung","in 1000",,384.38
-2023,"Niedersachsen","mit eigener Migrationserfahrung","in 1000",,1215.48
+2024,"Ostniedersachsen","mit eigener Migrationserfahrung","in 1000",RA_01,176.59
+2024,"Südniedersachsen","mit eigener Migrationserfahrung","in 1000",RA_02,80.29
+2024,"Statistische Region Braunschweig","mit eigener Migrationserfahrung","in 1000",,256.89
+2024,"Region Hannover","mit eigener Migrationserfahrung","in 1000",,239.99
+2024,"dav. Hannover, Landeshauptstadt","mit eigener Migrationserfahrung","in 1000",RA_03,138.87
+2024,"dav. Hannover, Umland","mit eigener Migrationserfahrung","in 1000",RA_04,101.12
+2024,"Weser-Leine-Bergland","mit eigener Migrationserfahrung","in 1000",RA_05,76.02
+2024,"Mittelniedersachsen","mit eigener Migrationserfahrung","in 1000",RA_06,73.52
+2024,"Statistische Region Hannover","mit eigener Migrationserfahrung","in 1000",,389.53
+2024,"Nordniedersachsen","mit eigener Migrationserfahrung","in 1000",RA_07,120.14
+2024,"Nordostniedersachsen","mit eigener Migrationserfahrung","in 1000",RA_08,102.71
+2024,"Statistische Region Lüneburg","mit eigener Migrationserfahrung","in 1000",,222.85
+2024,"Ostfriesland-Nordseeküste","mit eigener Migrationserfahrung","in 1000",RA_09,84.87
+2024,"Oldenburger Raum","mit eigener Migrationserfahrung","in 1000",RA_10,122.63
+2024,"Westniedersachsen","mit eigener Migrationserfahrung","in 1000",RA_11,205.33
+2024,"Statistische Region Weser-Ems","mit eigener Migrationserfahrung","in 1000",,412.83
+2024,"Niedersachsen","mit eigener Migrationserfahrung","in 1000",,1282.1
+2023,"Ostniedersachsen","mit eigener Migrationserfahrung","in 1000",RA_01,176.59
+2023,"Südniedersachsen","mit eigener Migrationserfahrung","in 1000",RA_02,80.29
+2023,"Statistische Region Braunschweig","mit eigener Migrationserfahrung","in 1000",,256.89
+2023,"Region Hannover","mit eigener Migrationserfahrung","in 1000",,239.99
+2023,"dav. Hannover, Landeshauptstadt","mit eigener Migrationserfahrung","in 1000",RA_03,138.87
+2023,"dav. Hannover, Umland","mit eigener Migrationserfahrung","in 1000",RA_04,101.12
+2023,"Weser-Leine-Bergland","mit eigener Migrationserfahrung","in 1000",RA_05,76.02
+2023,"Mittelniedersachsen","mit eigener Migrationserfahrung","in 1000",RA_06,73.52
+2023,"Statistische Region Hannover","mit eigener Migrationserfahrung","in 1000",,389.53
+2023,"Nordniedersachsen","mit eigener Migrationserfahrung","in 1000",RA_07,120.14
+2023,"Nordostniedersachsen","mit eigener Migrationserfahrung","in 1000",RA_08,102.71
+2023,"Statistische Region Lüneburg","mit eigener Migrationserfahrung","in 1000",,222.85
+2023,"Ostfriesland-Nordseeküste","mit eigener Migrationserfahrung","in 1000",RA_09,84.87
+2023,"Oldenburger Raum","mit eigener Migrationserfahrung","in 1000",RA_10,122.63
+2023,"Westniedersachsen","mit eigener Migrationserfahrung","in 1000",RA_11,205.33
+2023,"Statistische Region Weser-Ems","mit eigener Migrationserfahrung","in 1000",,412.83
+2023,"Niedersachsen","mit eigener Migrationserfahrung","in 1000",,1282.1
 2022,"Ostniedersachsen","mit eigener Migrationserfahrung","in 1000",RA_01,185.79
 2022,"Südniedersachsen","mit eigener Migrationserfahrung","in 1000",RA_02,75.18
 2022,"Statistische Region Braunschweig","mit eigener Migrationserfahrung","in 1000",,260.97
@@ -611,23 +662,40 @@
 2011,"Westniedersachsen","mit eigener Migrationserfahrung","in 1000",RA_11,161.99847
 2011,"Statistische Region Weser-Ems","mit eigener Migrationserfahrung","in 1000",,286.4452
 2011,"Niedersachsen","mit eigener Migrationserfahrung","in 1000",,855.24313
-2023,"Ostniedersachsen","mit eigener Migrationserfahrung",%,RA_01,61.6209856035437
-2023,"Südniedersachsen","mit eigener Migrationserfahrung",%,RA_02,64.4973070017953
-2023,"Statistische Region Braunschweig","mit eigener Migrationserfahrung",%,,62.4228799800175
-2023,"Region Hannover","mit eigener Migrationserfahrung",%,,62.7565430239126
-2023,"dav. Hannover, Landeshauptstadt","mit eigener Migrationserfahrung",%,RA_03,62.9935496481626
-2023,"dav. Hannover, Umland","mit eigener Migrationserfahrung",%,RA_04,62.45662319014
-2023,"Weser-Leine-Bergland","mit eigener Migrationserfahrung",%,RA_05,63.8824239289716
-2023,"Mittelniedersachsen","mit eigener Migrationserfahrung",%,RA_06,60.6308106699105
-2023,"Statistische Region Hannover","mit eigener Migrationserfahrung",%,,62.5663481953291
-2023,"Nordniedersachsen","mit eigener Migrationserfahrung",%,RA_07,60.4691572545613
-2023,"Nordostniedersachsen","mit eigener Migrationserfahrung",%,RA_08,62.4493380167522
-2023,"Statistische Region Lüneburg","mit eigener Migrationserfahrung",%,,61.3515954244431
-2023,"Ostfriesland-Nordseeküste","mit eigener Migrationserfahrung",%,RA_09,64.5128117233696
-2023,"Oldenburger Raum","mit eigener Migrationserfahrung",%,RA_10,63.1924421814613
-2023,"Westniedersachsen","mit eigener Migrationserfahrung",%,RA_11,66.3564943009853
-2023,"Statistische Region Weser-Ems","mit eigener Migrationserfahrung",%,,65.1182489665921
-2023,"Niedersachsen","mit eigener Migrationserfahrung",%,,63.1070683156288
+2024,"Ostniedersachsen","mit eigener Migrationserfahrung",%,RA_01,63.3095953289007
+2024,"Südniedersachsen","mit eigener Migrationserfahrung",%,RA_02,65.9506956309495
+2024,"Statistische Region Braunschweig","mit eigener Migrationserfahrung",%,,64.0839694656488
+2024,"Region Hannover","mit eigener Migrationserfahrung",%,,63.9145665077357
+2024,"dav. Hannover, Landeshauptstadt","mit eigener Migrationserfahrung",%,RA_03,64.7144152311877
+2024,"dav. Hannover, Umland","mit eigener Migrationserfahrung",%,RA_04,62.9882402351953
+2024,"Weser-Leine-Bergland","mit eigener Migrationserfahrung",%,RA_05,62.4768797748291
+2024,"Mittelniedersachsen","mit eigener Migrationserfahrung",%,RA_06,63.9377852286486
+2024,"Statistische Region Hannover","mit eigener Migrationserfahrung",%,,63.6403235843186
+2024,"Nordniedersachsen","mit eigener Migrationserfahrung",%,RA_07,61.5591125519198
+2024,"Nordostniedersachsen","mit eigener Migrationserfahrung",%,RA_08,63.4818664953571
+2024,"Statistische Region Lüneburg","mit eigener Migrationserfahrung",%,,62.4494778244948
+2024,"Ostfriesland-Nordseeküste","mit eigener Migrationserfahrung",%,RA_09,66.9512966476913
+2024,"Oldenburger Raum","mit eigener Migrationserfahrung",%,RA_10,68.0610889774236
+2024,"Westniedersachsen","mit eigener Migrationserfahrung",%,RA_11,67.3918750410186
+2024,"Statistische Region Weser-Ems","mit eigener Migrationserfahrung",%,,67.5108849938597
+2024,"Niedersachsen","mit eigener Migrationserfahrung",%,,64.6967915010254
+2023,"Ostniedersachsen","mit eigener Migrationserfahrung",%,RA_01,62.7251092245942
+2023,"Südniedersachsen","mit eigener Migrationserfahrung",%,RA_02,66.4432307183052
+2023,"Statistische Region Braunschweig","mit eigener Migrationserfahrung",%,,63.8442229788503
+2023,"Region Hannover","mit eigener Migrationserfahrung",%,,62.8624564528381
+2023,"dav. Hannover, Landeshauptstadt","mit eigener Migrationserfahrung",%,RA_03,64.5967066703879
+2023,"dav. Hannover, Umland","mit eigener Migrationserfahrung",%,RA_04,60.6235011990408
+2023,"Weser-Leine-Bergland","mit eigener Migrationserfahrung",%,RA_05,64.8690161276559
+2023,"Mittelniedersachsen","mit eigener Migrationserfahrung",%,RA_06,62.7893073703988
+2023,"Statistische Region Hannover","mit eigener Migrationserfahrung",%,,63.2292309190663
+2023,"Nordniedersachsen","mit eigener Migrationserfahrung",%,RA_07,64.0985968094755
+2023,"Nordostniedersachsen","mit eigener Migrationserfahrung",%,RA_08,62.4376899696049
+2023,"Statistische Region Lüneburg","mit eigener Migrationserfahrung",%,,63.3222515841218
+2023,"Ostfriesland-Nordseeküste","mit eigener Migrationserfahrung",%,RA_09,69.434672339033
+2023,"Oldenburger Raum","mit eigener Migrationserfahrung",%,RA_10,66.7919389978213
+2023,"Westniedersachsen","mit eigener Migrationserfahrung",%,RA_11,68.2227464531349
+2023,"Statistische Region Weser-Ems","mit eigener Migrationserfahrung",%,,68.0339485827291
+2023,"Niedersachsen","mit eigener Migrationserfahrung",%,,64.845536021364
 2022,"Ostniedersachsen","mit eigener Migrationserfahrung",%,RA_01,62.8114540721458
 2022,"Südniedersachsen","mit eigener Migrationserfahrung",%,RA_02,66.0052677787533
 2022,"Statistische Region Braunschweig","mit eigener Migrationserfahrung",%,,63.7009373169303
@@ -815,23 +883,40 @@
 2011,"Westniedersachsen","mit eigener Migrationserfahrung",%,RA_11,68.4009843754631
 2011,"Statistische Region Weser-Ems","mit eigener Migrationserfahrung",%,,68.1856966268141
 2011,"Niedersachsen","mit eigener Migrationserfahrung",%,,67.4310381510572
-2023,"Ostniedersachsen","ohne eigene Migrationserfahrung","in 1000",RA_01,110.89
-2023,"Südniedersachsen","ohne eigene Migrationserfahrung","in 1000",RA_02,39.55
-2023,"Statistische Region Braunschweig","ohne eigene Migrationserfahrung","in 1000",,150.44
-2023,"Region Hannover","ohne eigene Migrationserfahrung","in 1000",,138.47
-2023,"dav. Hannover, Landeshauptstadt","ohne eigene Migrationserfahrung","in 1000",RA_03,75.72
-2023,"dav. Hannover, Umland","ohne eigene Migrationserfahrung","in 1000",RA_04,62.74
-2023,"Weser-Leine-Bergland","ohne eigene Migrationserfahrung","in 1000",RA_05,41.9
-2023,"Mittelniedersachsen","ohne eigene Migrationserfahrung","in 1000",RA_06,45.31
-2023,"Statistische Region Hannover","ohne eigene Migrationserfahrung","in 1000",,225.67
-2023,"Nordniedersachsen","ohne eigene Migrationserfahrung","in 1000",RA_07,72.8
-2023,"Nordostniedersachsen","ohne eigene Migrationserfahrung","in 1000",RA_08,55.59
-2023,"Statistische Region Lüneburg","ohne eigene Migrationserfahrung","in 1000",,128.39
-2023,"Ostfriesland-Nordseeküste","ohne eigene Migrationserfahrung","in 1000",RA_09,41.41
-2023,"Oldenburger Raum","ohne eigene Migrationserfahrung","in 1000",RA_10,60
-2023,"Westniedersachsen","ohne eigene Migrationserfahrung","in 1000",RA_11,104.49
-2023,"Statistische Region Weser-Ems","ohne eigene Migrationserfahrung","in 1000",,205.89
-2023,"Niedersachsen","ohne eigene Migrationserfahrung","in 1000",,710.58
+2024,"Ostniedersachsen","ohne eigene Migrationserfahrung","in 1000",RA_01,104.94
+2024,"Südniedersachsen","ohne eigene Migrationserfahrung","in 1000",RA_02,40.54
+2024,"Statistische Region Braunschweig","ohne eigene Migrationserfahrung","in 1000",,145.48
+2024,"Region Hannover","ohne eigene Migrationserfahrung","in 1000",,141.78
+2024,"dav. Hannover, Landeshauptstadt","ohne eigene Migrationserfahrung","in 1000",RA_03,76.11
+2024,"dav. Hannover, Umland","ohne eigene Migrationserfahrung","in 1000",RA_04,65.68
+2024,"Weser-Leine-Bergland","ohne eigene Migrationserfahrung","in 1000",RA_05,41.17
+2024,"Mittelniedersachsen","ohne eigene Migrationserfahrung","in 1000",RA_06,43.57
+2024,"Statistische Region Hannover","ohne eigene Migrationserfahrung","in 1000",,226.53
+2024,"Nordniedersachsen","ohne eigene Migrationserfahrung","in 1000",RA_07,67.29
+2024,"Nordostniedersachsen","ohne eigene Migrationserfahrung","in 1000",RA_08,61.79
+2024,"Statistische Region Lüneburg","ohne eigene Migrationserfahrung","in 1000",,129.08
+2024,"Ostfriesland-Nordseeküste","ohne eigene Migrationserfahrung","in 1000",RA_09,37.36
+2024,"Oldenburger Raum","ohne eigene Migrationserfahrung","in 1000",RA_10,60.97
+2024,"Westniedersachsen","ohne eigene Migrationserfahrung","in 1000",RA_11,95.63
+2024,"Statistische Region Weser-Ems","ohne eigene Migrationserfahrung","in 1000",,193.97
+2024,"Niedersachsen","ohne eigene Migrationserfahrung","in 1000",,695.06
+2023,"Ostniedersachsen","ohne eigene Migrationserfahrung","in 1000",RA_01,104.94
+2023,"Südniedersachsen","ohne eigene Migrationserfahrung","in 1000",RA_02,40.54
+2023,"Statistische Region Braunschweig","ohne eigene Migrationserfahrung","in 1000",,145.48
+2023,"Region Hannover","ohne eigene Migrationserfahrung","in 1000",,141.78
+2023,"dav. Hannover, Landeshauptstadt","ohne eigene Migrationserfahrung","in 1000",RA_03,76.11
+2023,"dav. Hannover, Umland","ohne eigene Migrationserfahrung","in 1000",RA_04,65.68
+2023,"Weser-Leine-Bergland","ohne eigene Migrationserfahrung","in 1000",RA_05,41.17
+2023,"Mittelniedersachsen","ohne eigene Migrationserfahrung","in 1000",RA_06,43.57
+2023,"Statistische Region Hannover","ohne eigene Migrationserfahrung","in 1000",,226.53
+2023,"Nordniedersachsen","ohne eigene Migrationserfahrung","in 1000",RA_07,67.29
+2023,"Nordostniedersachsen","ohne eigene Migrationserfahrung","in 1000",RA_08,61.79
+2023,"Statistische Region Lüneburg","ohne eigene Migrationserfahrung","in 1000",,129.08
+2023,"Ostfriesland-Nordseeküste","ohne eigene Migrationserfahrung","in 1000",RA_09,37.36
+2023,"Oldenburger Raum","ohne eigene Migrationserfahrung","in 1000",RA_10,60.97
+2023,"Westniedersachsen","ohne eigene Migrationserfahrung","in 1000",RA_11,95.63
+2023,"Statistische Region Weser-Ems","ohne eigene Migrationserfahrung","in 1000",,193.97
+2023,"Niedersachsen","ohne eigene Migrationserfahrung","in 1000",,695.06
 2022,"Ostniedersachsen","ohne eigene Migrationserfahrung","in 1000",RA_01,109.99
 2022,"Südniedersachsen","ohne eigene Migrationserfahrung","in 1000",RA_02,38.72
 2022,"Statistische Region Braunschweig","ohne eigene Migrationserfahrung","in 1000",,148.71
@@ -1019,23 +1104,40 @@
 2011,"Westniedersachsen","ohne eigene Migrationserfahrung","in 1000",RA_11,74.83799
 2011,"Statistische Region Weser-Ems","ohne eigene Migrationserfahrung","in 1000",,133.65053
 2011,"Niedersachsen","ohne eigene Migrationserfahrung","in 1000",,413.07952
-2023,"Ostniedersachsen","ohne eigene Migrationserfahrung",%,RA_01,38.375553709856
-2023,"Südniedersachsen","ohne eigene Migrationserfahrung",%,RA_02,35.5026929982047
-2023,"Statistische Region Braunschweig","ohne eigene Migrationserfahrung",%,,37.5771200199825
-2023,"Region Hannover","ohne eigene Migrationserfahrung",%,,37.2461468112005
-2023,"dav. Hannover, Landeshauptstadt","ohne eigene Migrationserfahrung",%,RA_03,37.0015637216575
-2023,"dav. Hannover, Umland","ohne eigene Migrationserfahrung",%,RA_04,37.5373938016035
-2023,"Weser-Leine-Bergland","ohne eigene Migrationserfahrung",%,RA_05,36.1175760710284
-2023,"Mittelniedersachsen","ohne eigene Migrationserfahrung",%,RA_06,39.3691893300895
-2023,"Statistische Region Hannover","ohne eigene Migrationserfahrung",%,,37.4319930997877
-2023,"Nordniedersachsen","ohne eigene Migrationserfahrung",%,RA_07,39.5308427454387
-2023,"Nordostniedersachsen","ohne eigene Migrationserfahrung",%,RA_08,37.5506619832478
-2023,"Statistische Region Lüneburg","ohne eigene Migrationserfahrung",%,,38.6484045755569
-2023,"Ostfriesland-Nordseeküste","ohne eigene Migrationserfahrung",%,RA_09,35.4871882766304
-2023,"Oldenburger Raum","ohne eigene Migrationserfahrung",%,RA_10,36.8075578185387
-2023,"Westniedersachsen","ohne eigene Migrationserfahrung",%,RA_11,33.6435056990147
-2023,"Statistische Region Weser-Ems","ohne eigene Migrationserfahrung",%,,34.8800569221387
-2023,"Niedersachsen","ohne eigene Migrationserfahrung",%,,36.8929316843712
+2024,"Ostniedersachsen","ohne eigene Migrationserfahrung",%,RA_01,36.6904046710993
+2024,"Südniedersachsen","ohne eigene Migrationserfahrung",%,RA_02,34.0493043690505
+2024,"Statistische Region Braunschweig","ohne eigene Migrationserfahrung",%,,35.9160305343511
+2024,"Region Hannover","ohne eigene Migrationserfahrung",%,,36.0854334922643
+2024,"dav. Hannover, Landeshauptstadt","ohne eigene Migrationserfahrung",%,RA_03,35.2855847688123
+2024,"dav. Hannover, Umland","ohne eigene Migrationserfahrung",%,RA_04,37.0117597648047
+2024,"Weser-Leine-Bergland","ohne eigene Migrationserfahrung",%,RA_05,37.5231202251709
+2024,"Mittelniedersachsen","ohne eigene Migrationserfahrung",%,RA_06,36.0715283598771
+2024,"Statistische Region Hannover","ohne eigene Migrationserfahrung",%,,36.3596764156814
+2024,"Nordniedersachsen","ohne eigene Migrationserfahrung",%,RA_07,38.4408874480802
+2024,"Nordostniedersachsen","ohne eigene Migrationserfahrung",%,RA_08,36.5239736027565
+2024,"Statistische Region Lüneburg","ohne eigene Migrationserfahrung",%,,37.5505221755052
+2024,"Ostfriesland-Nordseeküste","ohne eigene Migrationserfahrung",%,RA_09,33.0487033523087
+2024,"Oldenburger Raum","ohne eigene Migrationserfahrung",%,RA_10,31.9338032485443
+2024,"Westniedersachsen","ohne eigene Migrationserfahrung",%,RA_11,32.6114064448382
+2024,"Statistische Region Weser-Ems","ohne eigene Migrationserfahrung",%,,32.487520135245
+2024,"Niedersachsen","ohne eigene Migrationserfahrung",%,,35.3027225100357
+2023,"Ostniedersachsen","ohne eigene Migrationserfahrung",%,RA_01,37.2748907754058
+2023,"Südniedersachsen","ohne eigene Migrationserfahrung",%,RA_02,33.5484938761999
+2023,"Statistische Region Braunschweig","ohne eigene Migrationserfahrung",%,,36.1557770211497
+2023,"Region Hannover","ohne eigene Migrationserfahrung",%,,37.1375435471619
+2023,"dav. Hannover, Landeshauptstadt","ohne eigene Migrationserfahrung",%,RA_03,35.4032933296121
+2023,"dav. Hannover, Umland","ohne eigene Migrationserfahrung",%,RA_04,39.3764988009592
+2023,"Weser-Leine-Bergland","ohne eigene Migrationserfahrung",%,RA_05,35.1309838723441
+2023,"Mittelniedersachsen","ohne eigene Migrationserfahrung",%,RA_06,37.2106926296012
+2023,"Statistische Region Hannover","ohne eigene Migrationserfahrung",%,,36.7707690809337
+2023,"Nordniedersachsen","ohne eigene Migrationserfahrung",%,RA_07,35.9014031905245
+2023,"Nordostniedersachsen","ohne eigene Migrationserfahrung",%,RA_08,37.5623100303951
+2023,"Statistische Region Lüneburg","ohne eigene Migrationserfahrung",%,,36.6777484158782
+2023,"Ostfriesland-Nordseeküste","ohne eigene Migrationserfahrung",%,RA_09,30.565327660967
+2023,"Oldenburger Raum","ohne eigene Migrationserfahrung",%,RA_10,33.2080610021787
+2023,"Westniedersachsen","ohne eigene Migrationserfahrung",%,RA_11,31.7739309565737
+2023,"Statistische Region Weser-Ems","ohne eigene Migrationserfahrung",%,,31.9660514172709
+2023,"Niedersachsen","ohne eigene Migrationserfahrung",%,,35.154463978636
 2022,"Ostniedersachsen","ohne eigene Migrationserfahrung",%,RA_01,37.1851651509517
 2022,"Südniedersachsen","ohne eigene Migrationserfahrung",%,RA_02,33.9947322212467
 2022,"Statistische Region Braunschweig","ohne eigene Migrationserfahrung",%,,36.2990626830697
@@ -1223,23 +1325,40 @@
 2011,"Westniedersachsen","ohne eigene Migrationserfahrung",%,RA_11,31.5990156245369
 2011,"Statistische Region Weser-Ems","ohne eigene Migrationserfahrung",%,,31.8143033731859
 2011,"Niedersachsen","ohne eigene Migrationserfahrung",%,,32.5689618489428
-2023,"Ostniedersachsen","Ausländerinnen und Ausländer","in 1000",RA_01,112.73
-2023,"Südniedersachsen","Ausländerinnen und Ausländer","in 1000",RA_02,43.38
-2023,"Statistische Region Braunschweig","Ausländerinnen und Ausländer","in 1000",,156.11
-2023,"Region Hannover","Ausländerinnen und Ausländer","in 1000",,169.78
-2023,"dav. Hannover, Landeshauptstadt","Ausländerinnen und Ausländer","in 1000",RA_03,96.07
-2023,"dav. Hannover, Umland","Ausländerinnen und Ausländer","in 1000",RA_04,73.71
-2023,"Weser-Leine-Bergland","Ausländerinnen und Ausländer","in 1000",RA_05,46.8
-2023,"Mittelniedersachsen","Ausländerinnen und Ausländer","in 1000",RA_06,39.4
-2023,"Statistische Region Hannover","Ausländerinnen und Ausländer","in 1000",,255.99
-2023,"Nordniedersachsen","Ausländerinnen und Ausländer","in 1000",RA_07,77.95
-2023,"Nordostniedersachsen","Ausländerinnen und Ausländer","in 1000",RA_08,53.98
-2023,"Statistische Region Lüneburg","Ausländerinnen und Ausländer","in 1000",,131.93
-2023,"Ostfriesland-Nordseeküste","Ausländerinnen und Ausländer","in 1000",RA_09,53
-2023,"Oldenburger Raum","Ausländerinnen und Ausländer","in 1000",RA_10,62.93
-2023,"Westniedersachsen","Ausländerinnen und Ausländer","in 1000",RA_11,143.32
-2023,"Statistische Region Weser-Ems","Ausländerinnen und Ausländer","in 1000",,259.26
-2023,"Niedersachsen","Ausländerinnen und Ausländer","in 1000",,803.29
+2024,"Ostniedersachsen","Ausländerinnen und Ausländer","in 1000",RA_01,120.28
+2024,"Südniedersachsen","Ausländerinnen und Ausländer","in 1000",RA_02,55.91
+2024,"Statistische Region Braunschweig","Ausländerinnen und Ausländer","in 1000",,176.19
+2024,"Region Hannover","Ausländerinnen und Ausländer","in 1000",,176.01
+2024,"dav. Hannover, Landeshauptstadt","Ausländerinnen und Ausländer","in 1000",RA_03,105.43
+2024,"dav. Hannover, Umland","Ausländerinnen und Ausländer","in 1000",RA_04,70.58
+2024,"Weser-Leine-Bergland","Ausländerinnen und Ausländer","in 1000",RA_05,50.11
+2024,"Mittelniedersachsen","Ausländerinnen und Ausländer","in 1000",RA_06,50.81
+2024,"Statistische Region Hannover","Ausländerinnen und Ausländer","in 1000",,276.94
+2024,"Nordniedersachsen","Ausländerinnen und Ausländer","in 1000",RA_07,82.63
+2024,"Nordostniedersachsen","Ausländerinnen und Ausländer","in 1000",RA_08,63.59
+2024,"Statistische Region Lüneburg","Ausländerinnen und Ausländer","in 1000",,146.21
+2024,"Ostfriesland-Nordseeküste","Ausländerinnen und Ausländer","in 1000",RA_09,65.95
+2024,"Oldenburger Raum","Ausländerinnen und Ausländer","in 1000",RA_10,84.01
+2024,"Westniedersachsen","Ausländerinnen und Ausländer","in 1000",RA_11,138.61
+2024,"Statistische Region Weser-Ems","Ausländerinnen und Ausländer","in 1000",,288.57
+2024,"Niedersachsen","Ausländerinnen und Ausländer","in 1000",,887.9
+2023,"Ostniedersachsen","Ausländerinnen und Ausländer","in 1000",RA_01,120.28
+2023,"Südniedersachsen","Ausländerinnen und Ausländer","in 1000",RA_02,55.91
+2023,"Statistische Region Braunschweig","Ausländerinnen und Ausländer","in 1000",,176.19
+2023,"Region Hannover","Ausländerinnen und Ausländer","in 1000",,176.01
+2023,"dav. Hannover, Landeshauptstadt","Ausländerinnen und Ausländer","in 1000",RA_03,105.43
+2023,"dav. Hannover, Umland","Ausländerinnen und Ausländer","in 1000",RA_04,70.58
+2023,"Weser-Leine-Bergland","Ausländerinnen und Ausländer","in 1000",RA_05,50.11
+2023,"Mittelniedersachsen","Ausländerinnen und Ausländer","in 1000",RA_06,50.81
+2023,"Statistische Region Hannover","Ausländerinnen und Ausländer","in 1000",,276.94
+2023,"Nordniedersachsen","Ausländerinnen und Ausländer","in 1000",RA_07,82.63
+2023,"Nordostniedersachsen","Ausländerinnen und Ausländer","in 1000",RA_08,63.59
+2023,"Statistische Region Lüneburg","Ausländerinnen und Ausländer","in 1000",,146.21
+2023,"Ostfriesland-Nordseeküste","Ausländerinnen und Ausländer","in 1000",RA_09,65.95
+2023,"Oldenburger Raum","Ausländerinnen und Ausländer","in 1000",RA_10,84.01
+2023,"Westniedersachsen","Ausländerinnen und Ausländer","in 1000",RA_11,138.61
+2023,"Statistische Region Weser-Ems","Ausländerinnen und Ausländer","in 1000",,288.57
+2023,"Niedersachsen","Ausländerinnen und Ausländer","in 1000",,887.9
 2022,"Ostniedersachsen","Ausländerinnen und Ausländer","in 1000",RA_01,123.51
 2022,"Südniedersachsen","Ausländerinnen und Ausländer","in 1000",RA_02,49.31
 2022,"Statistische Region Braunschweig","Ausländerinnen und Ausländer","in 1000",,172.82
@@ -1427,23 +1546,40 @@
 2011,"Westniedersachsen","Ausländerinnen und Ausländer","in 1000",RA_11,73.84001
 2011,"Statistische Region Weser-Ems","Ausländerinnen und Ausländer","in 1000",,127.3368
 2011,"Niedersachsen","Ausländerinnen und Ausländer","in 1000",,429.73432
-2023,"Ostniedersachsen","Ausländerinnen und Ausländer",%,RA_01,39.0123200442968
-2023,"Südniedersachsen","Ausländerinnen und Ausländer",%,RA_02,38.9407540394973
-2023,"Statistische Region Braunschweig","Ausländerinnen und Ausländer",%,,38.9933807918072
-2023,"Region Hannover","Ausländerinnen und Ausländer",%,,45.6680205503403
-2023,"dav. Hannover, Landeshauptstadt","Ausländerinnen und Ausländer",%,RA_03,46.9458561376075
-2023,"dav. Hannover, Umland","Ausländerinnen und Ausländer",%,RA_04,44.1007538590403
-2023,"Weser-Leine-Bergland","Ausländerinnen und Ausländer",%,RA_05,40.3413498836307
-2023,"Mittelniedersachsen","Ausländerinnen und Ausländer",%,RA_06,34.2340776783387
-2023,"Statistische Region Hannover","Ausländerinnen und Ausländer",%,,42.4611863057325
-2023,"Nordniedersachsen","Ausländerinnen und Ausländer",%,RA_07,42.3273240660295
-2023,"Nordostniedersachsen","Ausländerinnen und Ausländer",%,RA_08,36.4631180761956
-2023,"Statistische Region Lüneburg","Ausländerinnen und Ausländer",%,,39.7140276941602
-2023,"Ostfriesland-Nordseeküste","Ausländerinnen und Ausländer",%,RA_09,45.4194875310652
-2023,"Oldenburger Raum","Ausländerinnen und Ausländer",%,RA_10,38.6049935586774
-2023,"Westniedersachsen","Ausländerinnen und Ausländer",%,RA_11,46.1459205357718
-2023,"Statistische Region Weser-Ems","Ausländerinnen und Ausländer",%,,43.9215287660094
-2023,"Niedersachsen","Ausländerinnen und Ausländer",%,,41.7063850555019
+2024,"Ostniedersachsen","Ausländerinnen und Ausländer",%,RA_01,42.723688416865
+2024,"Südniedersachsen","Ausländerinnen und Ausländer",%,RA_02,46.267792121814
+2024,"Statistische Region Braunschweig","Ausländerinnen und Ausländer",%,,43.7880557695653
+2024,"Region Hannover","Ausländerinnen und Ausländer",%,,46.103674987558
+2024,"dav. Hannover, Landeshauptstadt","Ausländerinnen und Ausländer",%,RA_03,49.0417713275654
+2024,"dav. Hannover, Umland","Ausländerinnen und Ausländer",%,RA_04,42.3141486810552
+2024,"Weser-Leine-Bergland","Ausländerinnen und Ausländer",%,RA_05,42.7596211280826
+2024,"Mittelniedersachsen","Ausländerinnen und Ausländer",%,RA_06,43.3939704500811
+2024,"Statistische Region Hannover","Ausländerinnen und Ausländer",%,,44.9534136285427
+2024,"Nordniedersachsen","Ausländerinnen und Ausländer",%,RA_07,44.0857920290242
+2024,"Nordostniedersachsen","Ausländerinnen und Ausländer",%,RA_08,38.6565349544073
+2024,"Statistische Region Lüneburg","Ausländerinnen und Ausländer",%,,41.5451936464638
+2024,"Ostfriesland-Nordseeküste","Ausländerinnen und Ausländer",%,RA_09,53.9556573672584
+2024,"Oldenburger Raum","Ausländerinnen und Ausländer",%,RA_10,45.7570806100218
+2024,"Westniedersachsen","Ausländerinnen und Ausländer",%,RA_11,46.054424028973
+2024,"Statistische Region Weser-Ems","Ausländerinnen und Ausländer",%,,47.5560316413975
+2024,"Niedersachsen","Ausländerinnen und Ausländer",%,,44.9078476198183
+2023,"Ostniedersachsen","Ausländerinnen und Ausländer",%,RA_01,41.7559755231752
+2023,"Südniedersachsen","Ausländerinnen und Ausländer",%,RA_02,43.2923617208077
+2023,"Statistische Region Braunschweig","Ausländerinnen und Ausländer",%,,42.1841437219293
+2023,"Region Hannover","Ausländerinnen und Ausländer",%,,47.2975038206826
+2023,"dav. Hannover, Landeshauptstadt","Ausländerinnen und Ausländer",%,RA_03,49.1998171010517
+2023,"dav. Hannover, Umland","Ausländerinnen und Ausländer",%,RA_04,44.9051178838413
+2023,"Weser-Leine-Bergland","Ausländerinnen und Ausländer",%,RA_05,41.4101037591427
+2023,"Mittelniedersachsen","Ausländerinnen und Ausländer",%,RA_06,39.9984010233451
+2023,"Statistische Region Hannover","Ausländerinnen und Ausländer",%,,44.7706450901993
+2023,"Nordniedersachsen","Ausländerinnen und Ausländer",%,RA_07,45.3499222395023
+2023,"Nordostniedersachsen","Ausländerinnen und Ausländer",%,RA_08,39.4457582924019
+2023,"Statistische Region Lüneburg","Ausländerinnen und Ausländer",%,,42.6275781118998
+2023,"Ostfriesland-Nordseeküste","Ausländerinnen und Ausländer",%,RA_09,48.2945995652901
+2023,"Oldenburger Raum","Ausländerinnen und Ausländer",%,RA_10,42.4402531178964
+2023,"Westniedersachsen","Ausländerinnen und Ausländer",%,RA_11,50.5100321641905
+2023,"Statistische Region Weser-Ems","Ausländerinnen und Ausländer",%,,47.9189934958281
+2023,"Niedersachsen","Ausländerinnen und Ausländer",%,,44.8155696957646
 2022,"Ostniedersachsen","Ausländerinnen und Ausländer",%,RA_01,41.7559755231752
 2022,"Südniedersachsen","Ausländerinnen und Ausländer",%,RA_02,43.2923617208077
 2022,"Statistische Region Braunschweig","Ausländerinnen und Ausländer",%,,42.1841437219293
@@ -1631,23 +1767,40 @@
 2011,"Westniedersachsen","Ausländerinnen und Ausländer",%,RA_11,31.177636247392
 2011,"Statistische Region Weser-Ems","Ausländerinnen und Ausländer",%,,30.3113768854542
 2011,"Niedersachsen","Ausländerinnen und Ausländer",%,,33.8820977453963
-2023,"Ostniedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",RA_01,53.84
-2023,"Südniedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",RA_02,18.21
-2023,"Statistische Region Braunschweig","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",,72.05
-2023,"Region Hannover","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",,43.73
-2023,"dav. Hannover, Landeshauptstadt","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",RA_03,22.49
-2023,"dav. Hannover, Umland","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",RA_04,21.24
-2023,"Weser-Leine-Bergland","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",RA_05,24.46
-2023,"Mittelniedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",RA_06,22.76
-2023,"Statistische Region Hannover","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",,90.95
-2023,"Nordniedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",RA_07,24.21
-2023,"Nordostniedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",RA_08,26.26
-2023,"Statistische Region Lüneburg","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",,50.47
-2023,"Ostfriesland-Nordseeküste","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",RA_09,16.06
-2023,"Oldenburger Raum","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",RA_10,30.06
-2023,"Westniedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",RA_11,63.17
-2023,"Statistische Region Weser-Ems","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",,109.29
-2023,"Niedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",,322.95
+2024,"Ostniedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",RA_01,46.01
+2024,"Südniedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",RA_02,15.69
+2024,"Statistische Region Braunschweig","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",,61.7
+2024,"Region Hannover","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",,42.44
+2024,"dav. Hannover, Landeshauptstadt","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",RA_03,20.53
+2024,"dav. Hannover, Umland","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",RA_04,21.91
+2024,"Weser-Leine-Bergland","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",RA_05,17.73
+2024,"Mittelniedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",RA_06,18.26
+2024,"Statistische Region Hannover","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",,78.44
+2024,"Nordniedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",RA_07,26.41
+2024,"Nordostniedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",RA_08,26.47
+2024,"Statistische Region Lüneburg","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",,52.88
+2024,"Ostfriesland-Nordseeküste","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",RA_09,13.52
+2024,"Oldenburger Raum","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",RA_10,30.72
+2024,"Westniedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",RA_11,59.38
+2024,"Statistische Region Weser-Ems","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",,103.61
+2024,"Niedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",,296.63
+2023,"Ostniedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",RA_01,46.01
+2023,"Südniedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",RA_02,15.69
+2023,"Statistische Region Braunschweig","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",,61.7
+2023,"Region Hannover","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",,42.44
+2023,"dav. Hannover, Landeshauptstadt","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",RA_03,20.53
+2023,"dav. Hannover, Umland","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",RA_04,21.91
+2023,"Weser-Leine-Bergland","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",RA_05,17.73
+2023,"Mittelniedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",RA_06,18.26
+2023,"Statistische Region Hannover","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",,78.44
+2023,"Nordniedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",RA_07,26.41
+2023,"Nordostniedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",RA_08,26.47
+2023,"Statistische Region Lüneburg","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",,52.88
+2023,"Ostfriesland-Nordseeküste","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",RA_09,13.52
+2023,"Oldenburger Raum","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",RA_10,30.72
+2023,"Westniedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",RA_11,59.38
+2023,"Statistische Region Weser-Ems","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",,103.61
+2023,"Niedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",,296.63
 2022,"Ostniedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",RA_01,53.57
 2022,"Südniedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",RA_02,18.72
 2022,"Statistische Region Braunschweig","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",,72.29
@@ -1835,23 +1988,40 @@
 2011,"Westniedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",RA_11,78.74597
 2011,"Statistische Region Weser-Ems","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",,139.85241
 2011,"Niedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler","in 1000",,358.26171
-2023,"Ostniedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,RA_01,18.6323366555925
-2023,"Südniedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,RA_02,16.3464991023339
-2023,"Statistische Region Braunschweig","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,,17.9967528412639
-2023,"Region Hannover","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,,11.7626489496194
-2023,"dav. Hannover, Landeshauptstadt","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,RA_03,10.9900312744332
-2023,"dav. Hannover, Umland","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,RA_04,12.7079095369152
-2023,"Weser-Leine-Bergland","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,RA_05,21.0843892767865
-2023,"Mittelniedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,RA_06,19.7758276131723
-2023,"Statistische Region Hannover","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,,15.0859209129512
-2023,"Nordniedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,RA_07,13.1461772371851
-2023,"Nordostniedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,RA_08,17.7384490678195
-2023,"Statistische Region Lüneburg","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,,15.1926550270921
-2023,"Ostfriesland-Nordseeküste","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,RA_09,13.7629616933756
-2023,"Oldenburger Raum","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,RA_10,18.4405864670879
-2023,"Westniedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,RA_11,20.339365058922
-2023,"Statistische Region Weser-Ems","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,,18.5149420613946
-2023,"Niedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,,16.7673904239743
+2024,"Ostniedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,RA_01,16.3428409050545
+2024,"Südniedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,RA_02,12.9841112214499
+2024,"Statistische Region Braunschweig","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,,15.3341451897507
+2024,"Region Hannover","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,,11.1166409094481
+2024,"dav. Hannover, Landeshauptstadt","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,RA_03,9.54972555586566
+2024,"dav. Hannover, Umland","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,RA_04,13.1354916067146
+2024,"Weser-Leine-Bergland","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,RA_05,15.1292772420855
+2024,"Mittelniedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,RA_06,15.5948415748569
+2024,"Statistische Region Hannover","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,,12.7325260526572
+2024,"Nordniedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,RA_07,14.0905938216934
+2024,"Nordostniedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,RA_08,16.0911854103343
+2024,"Statistische Region Lüneburg","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,,15.025715341119
+2024,"Ostfriesland-Nordseeküste","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,RA_09,11.0611142927268
+2024,"Oldenburger Raum","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,RA_10,16.7320261437908
+2024,"Westniedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,RA_11,19.7295411502808
+2024,"Statistische Region Weser-Ems","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,,17.0748187211602
+2024,"Niedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,,15.0028323453843
+2023,"Ostniedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,RA_01,18.110821866865
+2023,"Südniedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,RA_02,16.4354697102722
+2023,"Statistische Region Braunschweig","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,,17.645479398555
+2023,"Region Hannover","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,,11.1538461538462
+2023,"dav. Hannover, Landeshauptstadt","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,RA_03,10.1417466849566
+2023,"dav. Hannover, Umland","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,RA_04,12.4324324324324
+2023,"Weser-Leine-Bergland","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,RA_05,18.2088790610648
+2023,"Mittelniedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,RA_06,19.7553565717941
+2023,"Statistische Region Hannover","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,,14.1548342410981
+2023,"Nordniedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,RA_07,14.1109383100052
+2023,"Nordostniedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,RA_08,16.045115517555
+2023,"Statistische Region Lüneburg","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,,15.0019562908725
+2023,"Ostfriesland-Nordseeküste","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,RA_09,14.2952683497743
+2023,"Oldenburger Raum","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,RA_10,18.5292129999386
+2023,"Westniedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,RA_11,17.6627354878236
+2023,"Statistische Region Weser-Ems","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,,17.2344129820643
+2023,"Niedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,,15.9484987074965
 2022,"Ostniedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,RA_01,18.110821866865
 2022,"Südniedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,RA_02,16.4354697102722
 2022,"Statistische Region Braunschweig","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,,17.645479398555
@@ -2039,23 +2209,40 @@
 2011,"Westniedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,RA_11,33.2490909549991
 2011,"Statistische Region Weser-Ems","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,,33.2906049771084
 2011,"Niedersachsen","(Spät-)Aussiedlerinnen und (Spät-)Aussiedler",%,,28.2468904895769
-2023,"Ostniedersachsen","weitere Deutsche mit Migrationshintergrund","in 1000",RA_01,122.38
-2023,"Südniedersachsen","weitere Deutsche mit Migrationshintergrund","in 1000",RA_02,49.8
-2023,"Statistische Region Braunschweig","weitere Deutsche mit Migrationshintergrund","in 1000",,172.19
-2023,"Region Hannover","weitere Deutsche mit Migrationshintergrund","in 1000",,158.26
-2023,"dav. Hannover, Landeshauptstadt","weitere Deutsche mit Migrationshintergrund","in 1000",RA_03,86.08
-2023,"dav. Hannover, Umland","weitere Deutsche mit Migrationshintergrund","in 1000",RA_04,72.18
-2023,"Weser-Leine-Bergland","weitere Deutsche mit Migrationshintergrund","in 1000",RA_05,44.75
-2023,"Mittelniedersachsen","weitere Deutsche mit Migrationshintergrund","in 1000",RA_06,52.93
-2023,"Statistische Region Hannover","weitere Deutsche mit Migrationshintergrund","in 1000",,255.94
-2023,"Nordniedersachsen","weitere Deutsche mit Migrationshintergrund","in 1000",RA_07,82
-2023,"Nordostniedersachsen","weitere Deutsche mit Migrationshintergrund","in 1000",RA_08,67.8
-2023,"Statistische Region Lüneburg","weitere Deutsche mit Migrationshintergrund","in 1000",,149.8
-2023,"Ostfriesland-Nordseeküste","weitere Deutsche mit Migrationshintergrund","in 1000",RA_09,47.63
-2023,"Oldenburger Raum","weitere Deutsche mit Migrationshintergrund","in 1000",RA_10,70.01
-2023,"Westniedersachsen","weitere Deutsche mit Migrationshintergrund","in 1000",RA_11,104.09
-2023,"Statistische Region Weser-Ems","weitere Deutsche mit Migrationshintergrund","in 1000",,221.73
-2023,"Niedersachsen","weitere Deutsche mit Migrationshintergrund","in 1000",,799.83
+2024,"Ostniedersachsen","weitere Deutsche mit Migrationshintergrund","in 1000",RA_01,115.24
+2024,"Südniedersachsen","weitere Deutsche mit Migrationshintergrund","in 1000",RA_02,49.24
+2024,"Statistische Region Braunschweig","weitere Deutsche mit Migrationshintergrund","in 1000",,164.48
+2024,"Region Hannover","weitere Deutsche mit Migrationshintergrund","in 1000",,163.32
+2024,"dav. Hannover, Landeshauptstadt","weitere Deutsche mit Migrationshintergrund","in 1000",RA_03,89.02
+2024,"dav. Hannover, Umland","weitere Deutsche mit Migrationshintergrund","in 1000",RA_04,74.31
+2024,"Weser-Leine-Bergland","weitere Deutsche mit Migrationshintergrund","in 1000",RA_05,49.35
+2024,"Mittelniedersachsen","weitere Deutsche mit Migrationshintergrund","in 1000",RA_06,48.02
+2024,"Statistische Region Hannover","weitere Deutsche mit Migrationshintergrund","in 1000",,260.69
+2024,"Nordniedersachsen","weitere Deutsche mit Migrationshintergrund","in 1000",RA_07,78.39
+2024,"Nordostniedersachsen","weitere Deutsche mit Migrationshintergrund","in 1000",RA_08,74.44
+2024,"Statistische Region Lüneburg","weitere Deutsche mit Migrationshintergrund","in 1000",,152.84
+2024,"Ostfriesland-Nordseeküste","weitere Deutsche mit Migrationshintergrund","in 1000",RA_09,42.76
+2024,"Oldenburger Raum","weitere Deutsche mit Migrationshintergrund","in 1000",RA_10,68.88
+2024,"Westniedersachsen","weitere Deutsche mit Migrationshintergrund","in 1000",RA_11,102.98
+2024,"Statistische Region Weser-Ems","weitere Deutsche mit Migrationshintergrund","in 1000",,214.63
+2024,"Niedersachsen","weitere Deutsche mit Migrationshintergrund","in 1000",,792.63
+2023,"Ostniedersachsen","weitere Deutsche mit Migrationshintergrund","in 1000",RA_01,115.24
+2023,"Südniedersachsen","weitere Deutsche mit Migrationshintergrund","in 1000",RA_02,49.24
+2023,"Statistische Region Braunschweig","weitere Deutsche mit Migrationshintergrund","in 1000",,164.48
+2023,"Region Hannover","weitere Deutsche mit Migrationshintergrund","in 1000",,163.32
+2023,"dav. Hannover, Landeshauptstadt","weitere Deutsche mit Migrationshintergrund","in 1000",RA_03,89.02
+2023,"dav. Hannover, Umland","weitere Deutsche mit Migrationshintergrund","in 1000",RA_04,74.31
+2023,"Weser-Leine-Bergland","weitere Deutsche mit Migrationshintergrund","in 1000",RA_05,49.35
+2023,"Mittelniedersachsen","weitere Deutsche mit Migrationshintergrund","in 1000",RA_06,48.02
+2023,"Statistische Region Hannover","weitere Deutsche mit Migrationshintergrund","in 1000",,260.69
+2023,"Nordniedersachsen","weitere Deutsche mit Migrationshintergrund","in 1000",RA_07,78.39
+2023,"Nordostniedersachsen","weitere Deutsche mit Migrationshintergrund","in 1000",RA_08,74.44
+2023,"Statistische Region Lüneburg","weitere Deutsche mit Migrationshintergrund","in 1000",,152.84
+2023,"Ostfriesland-Nordseeküste","weitere Deutsche mit Migrationshintergrund","in 1000",RA_09,42.76
+2023,"Oldenburger Raum","weitere Deutsche mit Migrationshintergrund","in 1000",RA_10,68.88
+2023,"Westniedersachsen","weitere Deutsche mit Migrationshintergrund","in 1000",RA_11,102.98
+2023,"Statistische Region Weser-Ems","weitere Deutsche mit Migrationshintergrund","in 1000",,214.63
+2023,"Niedersachsen","weitere Deutsche mit Migrationshintergrund","in 1000",,792.63
 2022,"Ostniedersachsen","weitere Deutsche mit Migrationshintergrund","in 1000",RA_01,118.7
 2022,"Südniedersachsen","weitere Deutsche mit Migrationshintergrund","in 1000",RA_02,45.87
 2022,"Statistische Region Braunschweig","weitere Deutsche mit Migrationshintergrund","in 1000",,164.57
@@ -2243,7 +2430,224 @@
 2011,"Westniedersachsen","weitere Deutsche mit Migrationshintergrund","in 1000",RA_11,84.25049
 2011,"Statistische Region Weser-Ems","weitere Deutsche mit Migrationshintergrund","in 1000",,152.90653
 2011,"Niedersachsen","weitere Deutsche mit Migrationshintergrund","in 1000",,480.32661
-2023,"Ostniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_01,42.3518826135105
-2023,"Südniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_02,44.7037701974865
-2023,"Statistische Region Braunschweig","weitere Deutsche mit Migrationshintergrund",%,,43.0098663669289
-2023,"Region Hannover","weitere Deutsche mit Migrationshintergrund",%,,42.5693305000404
+2024,"Ostniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_01,38.8943265044382
+2024,"Südniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_02,40.0618338621756
+2024,"Statistische Region Braunschweig","weitere Deutsche mit Migrationshintergrund",%,,39.236641221374
+2024,"Region Hannover","weitere Deutsche mit Migrationshintergrund",%,,39.7294930427167
+2024,"dav. Hannover, Landeshauptstadt","weitere Deutsche mit Migrationshintergrund",%,RA_03,40.3535811423391
+2024,"dav. Hannover, Umland","weitere Deutsche mit Migrationshintergrund",%,RA_04,39.0119697606048
+2024,"Weser-Leine-Bergland","weitere Deutsche mit Migrationshintergrund",%,RA_05,39.686369119421
+2024,"Mittelniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_06,44.7238521002142
+2024,"Statistische Region Hannover","weitere Deutsche mit Migrationshintergrund",%,,40.5553827006845
+2024,"Nordniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_07,39.7072231790092
+2024,"Nordostniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_08,43.473690357998
+2024,"Statistische Region Lüneburg","weitere Deutsche mit Migrationshintergrund",%,,41.4593788145938
+2024,"Ostfriesland-Nordseeküste","weitere Deutsche mit Migrationshintergrund",%,RA_09,33.8077166350411
+2024,"Oldenburger Raum","weitere Deutsche mit Migrationshintergrund",%,RA_10,35.1823475329451
+2024,"Westniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_11,33.7927413532848
+2024,"Statistische Region Weser-Ems","weitere Deutsche mit Migrationshintergrund",%,,34.2307140236998
+2024,"Niedersachsen","weitere Deutsche mit Migrationshintergrund",%,,38.5209412633768
+2023,"Ostniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_01,40.1298218330572
+2023,"Südniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_02,40.2721685689201
+2023,"Statistische Region Braunschweig","weitere Deutsche mit Migrationshintergrund",%,,40.1703768795157
+2023,"Region Hannover","weitere Deutsche mit Migrationshintergrund",%,,41.5486500254712
+2023,"dav. Hannover, Landeshauptstadt","weitere Deutsche mit Migrationshintergrund",%,RA_03,40.6584362139918
+2023,"dav. Hannover, Umland","weitere Deutsche mit Migrationshintergrund",%,RA_04,42.6682001150086
+2023,"Weser-Leine-Bergland","weitere Deutsche mit Migrationshintergrund",%,RA_05,40.3810171797925
+2023,"Mittelniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_06,40.2462424048609
+2023,"Statistische Region Hannover","weitere Deutsche mit Migrationshintergrund",%,,41.0745206687026
+2023,"Nordniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_07,40.5443234836703
+2023,"Nordostniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_08,44.5091261900431
+2023,"Statistische Region Lüneburg","weitere Deutsche mit Migrationshintergrund",%,,42.3676708959812
+2023,"Ostfriesland-Nordseeküste","weitere Deutsche mit Migrationshintergrund",%,RA_09,37.4017722788831
+2023,"Oldenburger Raum","weitere Deutsche mit Migrationshintergrund",%,RA_10,39.0243902439024
+2023,"Westniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_11,31.8272323479859
+2023,"Statistische Region Weser-Ems","weitere Deutsche mit Migrationshintergrund",%,,34.8465935221076
+2023,"Niedersachsen","weitere Deutsche mit Migrationshintergrund",%,,39.2359315967389
+2022,"Ostniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_01,40.1298218330572
+2022,"Südniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_02,40.2721685689201
+2022,"Statistische Region Braunschweig","weitere Deutsche mit Migrationshintergrund",%,,40.1703768795157
+2022,"Region Hannover","weitere Deutsche mit Migrationshintergrund",%,,41.5486500254712
+2022,"dav. Hannover, Landeshauptstadt","weitere Deutsche mit Migrationshintergrund",%,RA_03,40.6584362139918
+2022,"dav. Hannover, Umland","weitere Deutsche mit Migrationshintergrund",%,RA_04,42.6682001150086
+2022,"Weser-Leine-Bergland","weitere Deutsche mit Migrationshintergrund",%,RA_05,40.3810171797925
+2022,"Mittelniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_06,40.2462424048609
+2022,"Statistische Region Hannover","weitere Deutsche mit Migrationshintergrund",%,,41.0745206687026
+2022,"Nordniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_07,40.5443234836703
+2022,"Nordostniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_08,44.5091261900431
+2022,"Statistische Region Lüneburg","weitere Deutsche mit Migrationshintergrund",%,,42.3676708959812
+2022,"Ostfriesland-Nordseeküste","weitere Deutsche mit Migrationshintergrund",%,RA_09,37.4017722788831
+2022,"Oldenburger Raum","weitere Deutsche mit Migrationshintergrund",%,RA_10,39.0243902439024
+2022,"Westniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_11,31.8272323479859
+2022,"Statistische Region Weser-Ems","weitere Deutsche mit Migrationshintergrund",%,,34.8465935221076
+2022,"Niedersachsen","weitere Deutsche mit Migrationshintergrund",%,,39.2359315967389
+2021,"Ostniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_01,42.3518826135105
+2021,"Südniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_02,44.7037701974865
+2021,"Statistische Region Braunschweig","weitere Deutsche mit Migrationshintergrund",%,,43.0098663669289
+2021,"Region Hannover","weitere Deutsche mit Migrationshintergrund",%,,42.5693305000404
+2021,"dav. Hannover, Landeshauptstadt","weitere Deutsche mit Migrationshintergrund",%,RA_03,42.0641125879593
+2021,"dav. Hannover, Umland","weitere Deutsche mit Migrationshintergrund",%,RA_04,43.185353595788
+2021,"Weser-Leine-Bergland","weitere Deutsche mit Migrationshintergrund",%,RA_05,38.5742608395828
+2021,"Mittelniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_06,45.990094708489
+2021,"Statistische Region Hannover","weitere Deutsche mit Migrationshintergrund",%,,42.4528927813164
+2021,"Nordniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_07,44.5264986967854
+2021,"Nordostniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_08,45.7984328559849
+2021,"Statistische Region Lüneburg","weitere Deutsche mit Migrationshintergrund",%,,45.0933172787477
+2021,"Ostfriesland-Nordseeküste","weitere Deutsche mit Migrationshintergrund",%,RA_09,40.8175507755592
+2021,"Oldenburger Raum","weitere Deutsche mit Migrationshintergrund",%,RA_10,42.948285381265
+2021,"Westniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_11,33.5147144053062
+2021,"Statistische Region Weser-Ems","weitere Deutsche mit Migrationshintergrund",%,,37.5635291725961
+2021,"Niedersachsen","weitere Deutsche mit Migrationshintergrund",%,,41.5267437151491
+2019,"Ostniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_01,41.7375052326603
+2019,"Südniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_02,41.0988933034829
+2019,"Statistische Region Braunschweig","weitere Deutsche mit Migrationshintergrund",%,,41.5531350260336
+2019,"Region Hannover","weitere Deutsche mit Migrationshintergrund",%,,42.7727277530546
+2019,"dav. Hannover, Landeshauptstadt","weitere Deutsche mit Migrationshintergrund",%,RA_03,44.0824004355568
+2019,"dav. Hannover, Umland","weitere Deutsche mit Migrationshintergrund",%,RA_04,41.0454784435146
+2019,"Weser-Leine-Bergland","weitere Deutsche mit Migrationshintergrund",%,RA_05,42.0847419277674
+2019,"Mittelniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_06,38.5833004756392
+2019,"Statistische Region Hannover","weitere Deutsche mit Migrationshintergrund",%,,41.9086826113353
+2019,"Nordniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_07,48.6131473288703
+2019,"Nordostniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_08,46.3413962717802
+2019,"Statistische Region Lüneburg","weitere Deutsche mit Migrationshintergrund",%,,47.5520268102047
+2019,"Ostfriesland-Nordseeküste","weitere Deutsche mit Migrationshintergrund",%,RA_09,36.5189887917819
+2019,"Oldenburger Raum","weitere Deutsche mit Migrationshintergrund",%,RA_10,41.6538520613916
+2019,"Westniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_11,33.2191293731599
+2019,"Statistische Region Weser-Ems","weitere Deutsche mit Migrationshintergrund",%,,36.1520746666437
+2019,"Niedersachsen","weitere Deutsche mit Migrationshintergrund",%,,41.034800325302
+2018,"Ostniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_01,38.8010406665365
+2018,"Südniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_02,40.6779023720444
+2018,"Statistische Region Braunschweig","weitere Deutsche mit Migrationshintergrund",%,,39.367838008515
+2018,"Region Hannover","weitere Deutsche mit Migrationshintergrund",%,,42.5519251692293
+2018,"dav. Hannover, Landeshauptstadt","weitere Deutsche mit Migrationshintergrund",%,RA_03,44.2232028763062
+2018,"dav. Hannover, Umland","weitere Deutsche mit Migrationshintergrund",%,RA_04,40.2393632529968
+2018,"Weser-Leine-Bergland","weitere Deutsche mit Migrationshintergrund",%,RA_05,39.6515129235927
+2018,"Mittelniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_06,39.9936964602286
+2018,"Statistische Region Hannover","weitere Deutsche mit Migrationshintergrund",%,,41.554319618981
+2018,"Nordniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_07,47.8303400235354
+2018,"Nordostniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_08,43.2490109405321
+2018,"Statistische Region Lüneburg","weitere Deutsche mit Migrationshintergrund",%,,45.76940861929
+2018,"Ostfriesland-Nordseeküste","weitere Deutsche mit Migrationshintergrund",%,RA_09,38.65365823497
+2018,"Oldenburger Raum","weitere Deutsche mit Migrationshintergrund",%,RA_10,41.4017533073131
+2018,"Westniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_11,32.5336984540947
+2018,"Statistische Region Weser-Ems","weitere Deutsche mit Migrationshintergrund",%,,36.130477537314
+2018,"Niedersachsen","weitere Deutsche mit Migrationshintergrund",%,,40.1376307900911
+2017,"Ostniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_01,35.6606363803203
+2017,"Südniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_02,35.5260465421694
+2017,"Statistische Region Braunschweig","weitere Deutsche mit Migrationshintergrund",%,,35.6179715416674
+2017,"Region Hannover","weitere Deutsche mit Migrationshintergrund",%,,40.3827790388855
+2017,"dav. Hannover, Landeshauptstadt","weitere Deutsche mit Migrationshintergrund",%,RA_03,41.9711526941234
+2017,"dav. Hannover, Umland","weitere Deutsche mit Migrationshintergrund",%,RA_04,38.3837107960631
+2017,"Weser-Leine-Bergland","weitere Deutsche mit Migrationshintergrund",%,RA_05,39.7556394419932
+2017,"Mittelniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_06,34.1302113110147
+2017,"Statistische Region Hannover","weitere Deutsche mit Migrationshintergrund",%,,39.2381064333257
+2017,"Nordniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_07,42.2002061522377
+2017,"Nordostniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_08,41.5269303832393
+2017,"Statistische Region Lüneburg","weitere Deutsche mit Migrationshintergrund",%,,41.9004223716121
+2017,"Ostfriesland-Nordseeküste","weitere Deutsche mit Migrationshintergrund",%,RA_09,36.1783709271486
+2017,"Oldenburger Raum","weitere Deutsche mit Migrationshintergrund",%,RA_10,35.7958971835641
+2017,"Westniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_11,29.7952838147448
+2017,"Statistische Region Weser-Ems","weitere Deutsche mit Migrationshintergrund",%,,32.6746246885186
+2017,"Niedersachsen","weitere Deutsche mit Migrationshintergrund",%,,36.9579680345405
+2016,"Ostniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_01,33.0765396478258
+2016,"Südniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_02,35.0032677093539
+2016,"Statistische Region Braunschweig","weitere Deutsche mit Migrationshintergrund",%,,33.7184699604731
+2016,"Region Hannover","weitere Deutsche mit Migrationshintergrund",%,,37.6627914972549
+2016,"dav. Hannover, Landeshauptstadt","weitere Deutsche mit Migrationshintergrund",%,RA_03,34.5340261775983
+2016,"dav. Hannover, Umland","weitere Deutsche mit Migrationshintergrund",%,RA_04,41.5765569685711
+2016,"Weser-Leine-Bergland","weitere Deutsche mit Migrationshintergrund",%,RA_05,37.5107901705855
+2016,"Mittelniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_06,37.9140410173779
+2016,"Statistische Region Hannover","weitere Deutsche mit Migrationshintergrund",%,,37.6747423586212
+2016,"Nordniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_07,35.4040328716706
+2016,"Nordostniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_08,41.2156535118012
+2016,"Statistische Region Lüneburg","weitere Deutsche mit Migrationshintergrund",%,,38.2010934123874
+2016,"Ostfriesland-Nordseeküste","weitere Deutsche mit Migrationshintergrund",%,RA_09,33.7252147202311
+2016,"Oldenburger Raum","weitere Deutsche mit Migrationshintergrund",%,RA_10,34.1667865924809
+2016,"Westniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_11,29.0964185791638
+2016,"Statistische Region Weser-Ems","weitere Deutsche mit Migrationshintergrund",%,,31.2083446294978
+2016,"Niedersachsen","weitere Deutsche mit Migrationshintergrund",%,,34.934247057529
+2015,"Ostniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_01,38.3817819908579
+2015,"Südniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_02,31.1342225188869
+2015,"Statistische Region Braunschweig","weitere Deutsche mit Migrationshintergrund",%,,36.5553018515606
+2015,"Region Hannover","weitere Deutsche mit Migrationshintergrund",%,,38.9056617641026
+2015,"dav. Hannover, Landeshauptstadt","weitere Deutsche mit Migrationshintergrund",%,RA_03,37.9799978245759
+2015,"dav. Hannover, Umland","weitere Deutsche mit Migrationshintergrund",%,RA_04,40.164144114231
+2015,"Weser-Leine-Bergland","weitere Deutsche mit Migrationshintergrund",%,RA_05,35.1462089220535
+2015,"Mittelniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_06,40.834352888066
+2015,"Statistische Region Hannover","weitere Deutsche mit Migrationshintergrund",%,,38.5858699640756
+2015,"Nordniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_07,40.4579929785042
+2015,"Nordostniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_08,46.3309977989107
+2015,"Statistische Region Lüneburg","weitere Deutsche mit Migrationshintergrund",%,,43.5262711950445
+2015,"Ostfriesland-Nordseeküste","weitere Deutsche mit Migrationshintergrund",%,RA_09,35.0950756958618
+2015,"Oldenburger Raum","weitere Deutsche mit Migrationshintergrund",%,RA_10,37.2580454981144
+2015,"Westniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_11,34.3565346697446
+2015,"Statistische Region Weser-Ems","weitere Deutsche mit Migrationshintergrund",%,,35.3074262307714
+2015,"Niedersachsen","weitere Deutsche mit Migrationshintergrund",%,,37.9808606016638
+2014,"Ostniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_01,37.2221315161041
+2014,"Südniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_02,34.7807408147429
+2014,"Statistische Region Braunschweig","weitere Deutsche mit Migrationshintergrund",%,,36.6277135144771
+2014,"Region Hannover","weitere Deutsche mit Migrationshintergrund",%,,40.2823344820542
+2014,"dav. Hannover, Landeshauptstadt","weitere Deutsche mit Migrationshintergrund",%,RA_03,38.4922837217646
+2014,"dav. Hannover, Umland","weitere Deutsche mit Migrationshintergrund",%,RA_04,42.6566093174552
+2014,"Weser-Leine-Bergland","weitere Deutsche mit Migrationshintergrund",%,RA_05,33.4118411528235
+2014,"Mittelniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_06,38.2827374028944
+2014,"Statistische Region Hannover","weitere Deutsche mit Migrationshintergrund",%,,38.6573401440698
+2014,"Nordniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_07,44.8673791340256
+2014,"Nordostniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_08,45.5432444898539
+2014,"Statistische Region Lüneburg","weitere Deutsche mit Migrationshintergrund",%,,45.219404491668
+2014,"Ostfriesland-Nordseeküste","weitere Deutsche mit Migrationshintergrund",%,RA_09,37.8933020593943
+2014,"Oldenburger Raum","weitere Deutsche mit Migrationshintergrund",%,RA_10,37.4846564891569
+2014,"Westniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_11,35.5613499433857
+2014,"Statistische Region Weser-Ems","weitere Deutsche mit Migrationshintergrund",%,,36.5025169603934
+2014,"Niedersachsen","weitere Deutsche mit Migrationshintergrund",%,,38.6776589520061
+2013,"Ostniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_01,39.754571482398
+2013,"Südniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_02,37.3681590887552
+2013,"Statistische Region Braunschweig","weitere Deutsche mit Migrationshintergrund",%,,39.1517520816412
+2013,"Region Hannover","weitere Deutsche mit Migrationshintergrund",%,,39.1046488159174
+2013,"dav. Hannover, Landeshauptstadt","weitere Deutsche mit Migrationshintergrund",%,RA_03,36.1308828169202
+2013,"dav. Hannover, Umland","weitere Deutsche mit Migrationshintergrund",%,RA_04,43.3281451037339
+2013,"Weser-Leine-Bergland","weitere Deutsche mit Migrationshintergrund",%,RA_05,39.8644278999811
+2013,"Mittelniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_06,42.4049227669777
+2013,"Statistische Region Hannover","weitere Deutsche mit Migrationshintergrund",%,,39.7834740259709
+2013,"Nordniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_07,44.8792710069275
+2013,"Nordostniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_08,44.4343637565314
+2013,"Statistische Region Lüneburg","weitere Deutsche mit Migrationshintergrund",%,,44.6388146174513
+2013,"Ostfriesland-Nordseeküste","weitere Deutsche mit Migrationshintergrund",%,RA_09,41.6039420516699
+2013,"Oldenburger Raum","weitere Deutsche mit Migrationshintergrund",%,RA_10,33.9293576279592
+2013,"Westniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_11,35.7529907519297
+2013,"Statistische Region Weser-Ems","weitere Deutsche mit Migrationshintergrund",%,,36.4672769189408
+2013,"Niedersachsen","weitere Deutsche mit Migrationshintergrund",%,,39.3992915215046
+2012,"Ostniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_01,38.7143387629754
+2012,"Südniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_02,40.7721971546885
+2012,"Statistische Region Braunschweig","weitere Deutsche mit Migrationshintergrund",%,,39.2293500055933
+2012,"Region Hannover","weitere Deutsche mit Migrationshintergrund",%,,39.5095211065496
+2012,"dav. Hannover, Landeshauptstadt","weitere Deutsche mit Migrationshintergrund",%,RA_03,36.4997420168353
+2012,"dav. Hannover, Umland","weitere Deutsche mit Migrationshintergrund",%,RA_04,43.4821221569891
+2012,"Weser-Leine-Bergland","weitere Deutsche mit Migrationshintergrund",%,RA_05,36.1527827755011
+2012,"Mittelniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_06,33.0864568314453
+2012,"Statistische Region Hannover","weitere Deutsche mit Migrationshintergrund",%,,37.7815650346762
+2012,"Nordniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_07,46.242745321532
+2012,"Nordostniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_08,41.271407750039
+2012,"Statistische Region Lüneburg","weitere Deutsche mit Migrationshintergrund",%,,43.7597819772202
+2012,"Ostfriesland-Nordseeküste","weitere Deutsche mit Migrationshintergrund",%,RA_09,38.616917226545
+2012,"Oldenburger Raum","weitere Deutsche mit Migrationshintergrund",%,RA_10,35.9564896302083
+2012,"Westniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_11,35.0023304256949
+2012,"Statistische Region Weser-Ems","weitere Deutsche mit Migrationshintergrund",%,,35.8702305743447
+2012,"Niedersachsen","weitere Deutsche mit Migrationshintergrund",%,,38.4038561172167
+2011,"Ostniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_01,36.4247573953579
+2011,"Südniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_02,35.889756532991
+2011,"Statistische Region Braunschweig","weitere Deutsche mit Migrationshintergrund",%,,36.2743051453036
+2011,"Region Hannover","weitere Deutsche mit Migrationshintergrund",%,,38.2070951223983
+2011,"dav. Hannover, Landeshauptstadt","weitere Deutsche mit Migrationshintergrund",%,RA_03,35.7234122625125
+2011,"dav. Hannover, Umland","weitere Deutsche mit Migrationshintergrund",%,RA_04,41.6086601879679
+2011,"Weser-Leine-Bergland","weitere Deutsche mit Migrationshintergrund",%,RA_05,38.4220545877421
+2011,"Mittelniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_06,38.3569545474939
+2011,"Statistische Region Hannover","weitere Deutsche mit Migrationshintergrund",%,,38.2746384605938
+2011,"Nordniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_07,44.7953059112254
+2011,"Nordostniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_08,39.8702215745969
+2011,"Statistische Region Lüneburg","weitere Deutsche mit Migrationshintergrund",%,,42.3304958378633
+2011,"Ostfriesland-Nordseeküste","weitere Deutsche mit Migrationshintergrund",%,RA_09,42.0637036082306
+2011,"Oldenburger Raum","weitere Deutsche mit Migrationshintergrund",%,RA_10,34.4977164523496
+2011,"Westniedersachsen","weitere Deutsche mit Migrationshintergrund",%,RA_11,35.5732770199318
+2011,"Statistische Region Weser-Ems","weitere Deutsche mit Migrationshintergrund",%,,36.3980205178472
+2011,"Niedersachsen","weitere Deutsche mit Migrationshintergrund",%,,37.8710109765839
