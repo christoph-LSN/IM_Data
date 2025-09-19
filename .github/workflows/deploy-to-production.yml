@@ -46,7 +46,7 @@ jobs:
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@v4
       with:
-        REPOSITORY_NAME: MT-production/IM_production_data
+        repository-name: MT-production/IM_production_data
         token: ${{ secrets.token }}
         branch: gh-pages
         folder: _site
