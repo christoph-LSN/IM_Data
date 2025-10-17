@@ -7,7 +7,7 @@ Indicator,Disaggregations,Number of disaggregations
 #1-2-4,"Gebietseinheit, Land der Staatsangehörigkeit",2
 #1-2-6,"Gebietseinheit, Altersgruppe",2
 #1-2-7,"Gebietseinheit, Geschlecht",2
-#1-2-8,"Gebietseinheit, Nationalität",2
+#1-2-8,"Nationalität, Gebietseinheit",2
 #1-3-1,"Gebietseinheit, Kategorie",2
 #1-3-2,"Gebietseinheit, Kategorie",2
 #1-3-3,"Altersgruppe, Geschlecht",2
@@ -33,16 +33,16 @@ Indicator,Disaggregations,Number of disaggregations
 #3-1-1,"Gebietseinheit, Kategorie",2
 #3-1-2,"Gebietseinheit, Kinderbetreuung",2
 #3-1-3,"Gebietseinheit, Kinderbetreuung",2
-#4-1-1,"Gebietseinheit, Nationalität, Schulgliederung",3
-#4-1-2,"Nationalität, Abschlussart",2
+#4-1-1,"Nationalität, Gebietseinheit, Schulgliederung",3
+#4-1-2,"Abschlussart, Nationalität",2
 #4-1-3,"Altersgruppe, Migrationsstatus, Schulabschluss",3
-#4-1-4,"Gebietseinheit, Nationalität",2
+#4-1-4,"Nationalität, Gebietseinheit",2
 #4-1-5,"Altersgruppe, Geschlecht, Migrationsstatus, Bildungsstand",4
 #4-1-6,"Nationalität, Erreichter Schulabschluss, Besuchte Schule",3
 #4-2-1,"Geschlecht, Höchster beruflicher Abschluss, Migrationshintergrund",3
-#4-2-2,"Geschlecht, Nationalität",2
-#4-3-1,"Land der Staatsangehörigkeit, Kategorie",2
-#4-3-2,"Geschlecht, Nationalität, Fächergruppe",3
+#4-2-2,"Nationalität, Geschlecht",2
+#4-3-1,"Kategorie, Land der Staatsangehörigkeit",2
+#4-3-2,"Nationalität, Geschlecht, Fächergruppe",3
 #4-4-1,"Geschlecht, Berufsgruppe, Verfahren, Entscheidung vor Rechtsbehelf",4
 #5-1-1,"Geschlecht, Wirtschaftsabschnitte (WZ 2008) Zusammenfassungen",2
 #5-1-2,"Kategorie, Geschlecht, Migrationsstatus",3
@@ -52,8 +52,8 @@ Indicator,Disaggregations,Number of disaggregations
 #5-3-3,"Kategorie, Geschlecht",2
 #5-3-4,"Geschlecht, Migrationsstatus, Rechtskreis, Migrationserfahrung",4
 #6-1-1,"Gebietseinheit, Nationalität / Migrationshintergrund",2
-#6-2-1,"Gebietseinheit, Nationalität",2
-#6-2-2,"Gebietseinheit, Altersgruppe, Nationalität",3
+#6-2-1,"Nationalität, Gebietseinheit",2
+#6-2-2,"Nationalität, Gebietseinheit, Altersgruppe",3
 #6-3-1,"Migrationsstatus, Überwiegender Lebensunterhalt",2
 #6-3-2,"Migrationsstatus, Haushaltsnettoeinkommen, Haushaltsgröße",3
 #7-1-1,"Migrationsstatus, Lebensform, mit oder ohne ledige Kinder",3

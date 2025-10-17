@@ -22,13 +22,14 @@
                 "Geisteswissenschaften",
                 "Sport",
                 "Rechts-, Wirtschafts-, Sozialwissenschaften",
-                "Mathematik, Naturwissenschaften",
+                "Mathematik, Natruwissenschaften",
                 "Humanmedizin, Gesundheitswissenschaften",
                 "Agrar-, Forst-, Ernährungswissenschaften, Veterinärmedizin",
                 "Ingenieurwissenschaften",
                 "Kunst, Kunstwissenschaften",
                 "Außerhalb der Studienbereichsgliederung",
                 "Fächerguppen zusammen",
+                "Mathematik, Naturwissenschaften",
                 ""
               ]
             }
@@ -64,6 +65,33 @@
               "enum": [
                 "Anzahl",
                 "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unnamed: 6",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unnamed: 7",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unnamed: 8",
+            "type": "number",
+            "constraints": {
+              "enum": [
                 ""
               ]
             }
