@@ -1351,6 +1351,214 @@ Year,Gebietseinheit,Nationalität,Units,GeoCode,Value
 2022,Wittmund,Ausländerinnen und Ausländer,Anzahl,K03462,6
 2022,Statistische Region Weser-Ems,Ausländerinnen und Ausländer,Anzahl,K034,581
 2022,Niedersachsen,Ausländerinnen und Ausländer,Anzahl,K030,1447
+2023,"Braunschweig, Stadt",Deutsche,Anzahl,K03101,136
+2023,"Salzgitter, Stadt",Deutsche,Anzahl,K03102,59
+2023,"Wolfsburg, Stadt",Deutsche,Anzahl,K03103,42
+2023,Gifhorn,Deutsche,Anzahl,K03151,91
+2023,Goslar,Deutsche,Anzahl,K03153,73
+2023,Helmstedt,Deutsche,Anzahl,K03154,33
+2023,Northeim,Deutsche,Anzahl,K03155,55
+2023,Peine,Deutsche,Anzahl,K03157,61
+2023,Wolfenbüttel,Deutsche,Anzahl,K03158,57
+2023,Göttingen,Deutsche,Anzahl,K03159,124
+2023,Statistische Region Braunschweig,Deutsche,Anzahl,K031,731
+2023,Region Hannover,Deutsche,Anzahl,K03241,474
+2023,"dav. Hannover, Lhst.",Deutsche,Anzahl,K03241001,230
+2023,"dav. Hannover, Umland",Deutsche,Anzahl,K03241999,244
+2023,Diepholz,Deutsche,Anzahl,K03251,84
+2023,Hameln-Pyrmont,Deutsche,Anzahl,K03252,71
+2023,Hildesheim,Deutsche,Anzahl,K03254,144
+2023,Holzminden,Deutsche,Anzahl,K03255,44
+2023,Nienburg (Weser),Deutsche,Anzahl,K03256,63
+2023,Schaumburg,Deutsche,Anzahl,K03257,84
+2023,Statistische Region Hannover,Deutsche,Anzahl,K032,964
+2023,Celle,Deutsche,Anzahl,K03351,118
+2023,Cuxhaven,Deutsche,Anzahl,K03352,98
+2023,Harburg,Deutsche,Anzahl,K03353,85
+2023,Lüchow-Dannenberg,Deutsche,Anzahl,K03354,46
+2023,Lüneburg,Deutsche,Anzahl,K03355,57
+2023,Osterholz,Deutsche,Anzahl,K03356,28
+2023,Rotenburg (Wümme),Deutsche,Anzahl,K03357,114
+2023,Heidekreis,Deutsche,Anzahl,K03358,131
+2023,Stade,Deutsche,Anzahl,K03359,107
+2023,Uelzen,Deutsche,Anzahl,K03360,40
+2023,Verden,Deutsche,Anzahl,K03361,41
+2023,Statistische Region Lüneburg,Deutsche,Anzahl,K033,865
+2023,"Delmenhorst, Stadt",Deutsche,Anzahl,K03401,23
+2023,"Emden, Stadt",Deutsche,Anzahl,K03402,37
+2023,"Oldenburg (Oldb), Stadt",Deutsche,Anzahl,K03403,88
+2023,"Osnabrück, Stadt",Deutsche,Anzahl,K03404,74
+2023,"Wilhelmshaven, Stadt",Deutsche,Anzahl,K03405,27
+2023,Ammerland,Deutsche,Anzahl,K03451,79
+2023,Aurich,Deutsche,Anzahl,K03452,183
+2023,Cloppenburg,Deutsche,Anzahl,K03453,109
+2023,Emsland,Deutsche,Anzahl,K03454,157
+2023,Friesland,Deutsche,Anzahl,K03455,53
+2023,Grafschaft Bentheim,Deutsche,Anzahl,K03456,102
+2023,Leer,Deutsche,Anzahl,K03457,98
+2023,Oldenburg,Deutsche,Anzahl,K03458,50
+2023,Osnabrück,Deutsche,Anzahl,K03459,168
+2023,Vechta,Deutsche,Anzahl,K03460,93
+2023,Wesermarsch,Deutsche,Anzahl,K03461,44
+2023,Wittmund,Deutsche,Anzahl,K03462,34
+2023,Statistische Region Weser-Ems,Deutsche,Anzahl,K034,1419
+2023,Niedersachsen,Deutsche,Anzahl,K030,3979
+2023,"Braunschweig, Stadt",Ausländerinnen und Ausländer,Anzahl,K03101,136
+2023,"Salzgitter, Stadt",Ausländerinnen und Ausländer,Anzahl,K03102,54
+2023,"Wolfsburg, Stadt",Ausländerinnen und Ausländer,Anzahl,K03103,27
+2023,Gifhorn,Ausländerinnen und Ausländer,Anzahl,K03151,19
+2023,Goslar,Ausländerinnen und Ausländer,Anzahl,K03153,24
+2023,Helmstedt,Ausländerinnen und Ausländer,Anzahl,K03154,13
+2023,Northeim,Ausländerinnen und Ausländer,Anzahl,K03155,31
+2023,Peine,Ausländerinnen und Ausländer,Anzahl,K03157,26
+2023,Wolfenbüttel,Ausländerinnen und Ausländer,Anzahl,K03158,19
+2023,Göttingen,Ausländerinnen und Ausländer,Anzahl,K03159,45
+2023,Statistische Region Braunschweig,Ausländerinnen und Ausländer,Anzahl,K031,309
+2023,Region Hannover,Ausländerinnen und Ausländer,Anzahl,K03241,309
+2023,"dav. Hannover, Lhst.",Ausländerinnen und Ausländer,Anzahl,K03241001,149
+2023,"dav. Hannover, Umland",Ausländerinnen und Ausländer,Anzahl,K03241999,160
+2023,Diepholz,Ausländerinnen und Ausländer,Anzahl,K03251,54
+2023,Hameln-Pyrmont,Ausländerinnen und Ausländer,Anzahl,K03252,61
+2023,Hildesheim,Ausländerinnen und Ausländer,Anzahl,K03254,54
+2023,Holzminden,Ausländerinnen und Ausländer,Anzahl,K03255,20
+2023,Nienburg (Weser),Ausländerinnen und Ausländer,Anzahl,K03256,19
+2023,Schaumburg,Ausländerinnen und Ausländer,Anzahl,K03257,32
+2023,Statistische Region Hannover,Ausländerinnen und Ausländer,Anzahl,K032,549
+2023,Celle,Ausländerinnen und Ausländer,Anzahl,K03351,34
+2023,Cuxhaven,Ausländerinnen und Ausländer,Anzahl,K03352,51
+2023,Harburg,Ausländerinnen und Ausländer,Anzahl,K03353,15
+2023,Lüchow-Dannenberg,Ausländerinnen und Ausländer,Anzahl,K03354,19
+2023,Lüneburg,Ausländerinnen und Ausländer,Anzahl,K03355,33
+2023,Osterholz,Ausländerinnen und Ausländer,Anzahl,K03356,10
+2023,Rotenburg (Wümme),Ausländerinnen und Ausländer,Anzahl,K03357,44
+2023,Heidekreis,Ausländerinnen und Ausländer,Anzahl,K03358,32
+2023,Stade,Ausländerinnen und Ausländer,Anzahl,K03359,79
+2023,Uelzen,Ausländerinnen und Ausländer,Anzahl,K03360,20
+2023,Verden,Ausländerinnen und Ausländer,Anzahl,K03361,26
+2023,Statistische Region Lüneburg,Ausländerinnen und Ausländer,Anzahl,K033,363
+2023,"Delmenhorst, Stadt",Ausländerinnen und Ausländer,Anzahl,K03401,21
+2023,"Emden, Stadt",Ausländerinnen und Ausländer,Anzahl,K03402,18
+2023,"Oldenburg (Oldb), Stadt",Ausländerinnen und Ausländer,Anzahl,K03403,63
+2023,"Osnabrück, Stadt",Ausländerinnen und Ausländer,Anzahl,K03404,26
+2023,"Wilhelmshaven, Stadt",Ausländerinnen und Ausländer,Anzahl,K03405,10
+2023,Ammerland,Ausländerinnen und Ausländer,Anzahl,K03451,17
+2023,Aurich,Ausländerinnen und Ausländer,Anzahl,K03452,30
+2023,Cloppenburg,Ausländerinnen und Ausländer,Anzahl,K03453,54
+2023,Emsland,Ausländerinnen und Ausländer,Anzahl,K03454,138
+2023,Friesland,Ausländerinnen und Ausländer,Anzahl,K03455,19
+2023,Grafschaft Bentheim,Ausländerinnen und Ausländer,Anzahl,K03456,41
+2023,Leer,Ausländerinnen und Ausländer,Anzahl,K03457,31
+2023,Oldenburg,Ausländerinnen und Ausländer,Anzahl,K03458,20
+2023,Osnabrück,Ausländerinnen und Ausländer,Anzahl,K03459,131
+2023,Vechta,Ausländerinnen und Ausländer,Anzahl,K03460,57
+2023,Wesermarsch,Ausländerinnen und Ausländer,Anzahl,K03461,10
+2023,Wittmund,Ausländerinnen und Ausländer,Anzahl,K03462,9
+2023,Statistische Region Weser-Ems,Ausländerinnen und Ausländer,Anzahl,K034,695
+2023,Niedersachsen,Ausländerinnen und Ausländer,Anzahl,K030,1916
+2024,"Braunschweig, Stadt",Deutsche,Anzahl,K03101,135
+2024,"Salzgitter, Stadt",Deutsche,Anzahl,K03102,46
+2024,"Wolfsburg, Stadt",Deutsche,Anzahl,K03103,66
+2024,Gifhorn,Deutsche,Anzahl,K03151,94
+2024,Goslar,Deutsche,Anzahl,K03153,59
+2024,Helmstedt,Deutsche,Anzahl,K03154,35
+2024,Northeim,Deutsche,Anzahl,K03155,49
+2024,Peine,Deutsche,Anzahl,K03157,55
+2024,Wolfenbüttel,Deutsche,Anzahl,K03158,42
+2024,Göttingen,Deutsche,Anzahl,K03159,158
+2024,Statistische Region Braunschweig,Deutsche,Anzahl,K031,739
+2024,Region Hannover,Deutsche,Anzahl,K03241,466
+2024,"dav. Hannover, Lhst.",Deutsche,Anzahl,K03241001,252
+2024,"dav. Hannover, Umland",Deutsche,Anzahl,K03241999,214
+2024,Diepholz,Deutsche,Anzahl,K03251,85
+2024,Hameln-Pyrmont,Deutsche,Anzahl,K03252,62
+2024,Hildesheim,Deutsche,Anzahl,K03254,152
+2024,Holzminden,Deutsche,Anzahl,K03255,35
+2024,Nienburg (Weser),Deutsche,Anzahl,K03256,67
+2024,Schaumburg,Deutsche,Anzahl,K03257,80
+2024,Statistische Region Hannover,Deutsche,Anzahl,K032,947
+2024,Celle,Deutsche,Anzahl,K03351,126
+2024,Cuxhaven,Deutsche,Anzahl,K03352,133
+2024,Harburg,Deutsche,Anzahl,K03353,82
+2024,Lüchow-Dannenberg,Deutsche,Anzahl,K03354,32
+2024,Lüneburg,Deutsche,Anzahl,K03355,81
+2024,Osterholz,Deutsche,Anzahl,K03356,48
+2024,Rotenburg (Wümme),Deutsche,Anzahl,K03357,130
+2024,Heidekreis,Deutsche,Anzahl,K03358,94
+2024,Stade,Deutsche,Anzahl,K03359,117
+2024,Uelzen,Deutsche,Anzahl,K03360,46
+2024,Verden,Deutsche,Anzahl,K03361,49
+2024,Statistische Region Lüneburg,Deutsche,Anzahl,K033,938
+2024,"Delmenhorst, Stadt",Deutsche,Anzahl,K03401,50
+2024,"Emden, Stadt",Deutsche,Anzahl,K03402,44
+2024,"Oldenburg (Oldb), Stadt",Deutsche,Anzahl,K03403,111
+2024,"Osnabrück, Stadt",Deutsche,Anzahl,K03404,69
+2024,"Wilhelmshaven, Stadt",Deutsche,Anzahl,K03405,71
+2024,Ammerland,Deutsche,Anzahl,K03451,74
+2024,Aurich,Deutsche,Anzahl,K03452,160
+2024,Cloppenburg,Deutsche,Anzahl,K03453,143
+2024,Emsland,Deutsche,Anzahl,K03454,159
+2024,Friesland,Deutsche,Anzahl,K03455,72
+2024,Grafschaft Bentheim,Deutsche,Anzahl,K03456,92
+2024,Leer,Deutsche,Anzahl,K03457,106
+2024,Oldenburg,Deutsche,Anzahl,K03458,57
+2024,Osnabrück,Deutsche,Anzahl,K03459,159
+2024,Vechta,Deutsche,Anzahl,K03460,65
+2024,Wesermarsch,Deutsche,Anzahl,K03461,41
+2024,Wittmund,Deutsche,Anzahl,K03462,37
+2024,Statistische Region Weser-Ems,Deutsche,Anzahl,K034,1510
+2024,Niedersachsen,Deutsche,Anzahl,K030,4134
+2024,"Braunschweig, Stadt",Ausländerinnen und Ausländer,Anzahl,K03101,39
+2024,"Salzgitter, Stadt",Ausländerinnen und Ausländer,Anzahl,K03102,39
+2024,"Wolfsburg, Stadt",Ausländerinnen und Ausländer,Anzahl,K03103,43
+2024,Gifhorn,Ausländerinnen und Ausländer,Anzahl,K03151,61
+2024,Goslar,Ausländerinnen und Ausländer,Anzahl,K03153,48
+2024,Helmstedt,Ausländerinnen und Ausländer,Anzahl,K03154,33
+2024,Northeim,Ausländerinnen und Ausländer,Anzahl,K03155,44
+2024,Peine,Ausländerinnen und Ausländer,Anzahl,K03157,59
+2024,Wolfenbüttel,Ausländerinnen und Ausländer,Anzahl,K03158,46
+2024,Göttingen,Ausländerinnen und Ausländer,Anzahl,K03159,71
+2024,Statistische Region Braunschweig,Ausländerinnen und Ausländer,Anzahl,K031,483
+2024,Region Hannover,Ausländerinnen und Ausländer,Anzahl,K03241,455
+2024,"dav. Hannover, Lhst.",Ausländerinnen und Ausländer,Anzahl,K03241001,248
+2024,"dav. Hannover, Umland",Ausländerinnen und Ausländer,Anzahl,K03241999,207
+2024,Diepholz,Ausländerinnen und Ausländer,Anzahl,K03251,71
+2024,Hameln-Pyrmont,Ausländerinnen und Ausländer,Anzahl,K03252,59
+2024,Hildesheim,Ausländerinnen und Ausländer,Anzahl,K03254,94
+2024,Holzminden,Ausländerinnen und Ausländer,Anzahl,K03255,25
+2024,Nienburg (Weser),Ausländerinnen und Ausländer,Anzahl,K03256,57
+2024,Schaumburg,Ausländerinnen und Ausländer,Anzahl,K03257,58
+2024,Statistische Region Hannover,Ausländerinnen und Ausländer,Anzahl,K032,819
+2024,Celle,Ausländerinnen und Ausländer,Anzahl,K03351,33
+2024,Cuxhaven,Ausländerinnen und Ausländer,Anzahl,K03352,38
+2024,Harburg,Ausländerinnen und Ausländer,Anzahl,K03353,46
+2024,Lüchow-Dannenberg,Ausländerinnen und Ausländer,Anzahl,K03354,9
+2024,Lüneburg,Ausländerinnen und Ausländer,Anzahl,K03355,61
+2024,Osterholz,Ausländerinnen und Ausländer,Anzahl,K03356,27
+2024,Rotenburg (Wümme),Ausländerinnen und Ausländer,Anzahl,K03357,43
+2024,Heidekreis,Ausländerinnen und Ausländer,Anzahl,K03358,20
+2024,Stade,Ausländerinnen und Ausländer,Anzahl,K03359,71
+2024,Uelzen,Ausländerinnen und Ausländer,Anzahl,K03360,19
+2024,Verden,Ausländerinnen und Ausländer,Anzahl,K03361,17
+2024,Statistische Region Lüneburg,Ausländerinnen und Ausländer,Anzahl,K033,384
+2024,"Delmenhorst, Stadt",Ausländerinnen und Ausländer,Anzahl,K03401,47
+2024,"Emden, Stadt",Ausländerinnen und Ausländer,Anzahl,K03402,48
+2024,"Oldenburg (Oldb), Stadt",Ausländerinnen und Ausländer,Anzahl,K03403,67
+2024,"Osnabrück, Stadt",Ausländerinnen und Ausländer,Anzahl,K03404,71
+2024,"Wilhelmshaven, Stadt",Ausländerinnen und Ausländer,Anzahl,K03405,43
+2024,Ammerland,Ausländerinnen und Ausländer,Anzahl,K03451,42
+2024,Aurich,Ausländerinnen und Ausländer,Anzahl,K03452,47
+2024,Cloppenburg,Ausländerinnen und Ausländer,Anzahl,K03453,85
+2024,Emsland,Ausländerinnen und Ausländer,Anzahl,K03454,160
+2024,Friesland,Ausländerinnen und Ausländer,Anzahl,K03455,36
+2024,Grafschaft Bentheim,Ausländerinnen und Ausländer,Anzahl,K03456,73
+2024,Leer,Ausländerinnen und Ausländer,Anzahl,K03457,71
+2024,Oldenburg,Ausländerinnen und Ausländer,Anzahl,K03458,27
+2024,Osnabrück,Ausländerinnen und Ausländer,Anzahl,K03459,154
+2024,Vechta,Ausländerinnen und Ausländer,Anzahl,K03460,62
+2024,Wesermarsch,Ausländerinnen und Ausländer,Anzahl,K03461,13
+2024,Wittmund,Ausländerinnen und Ausländer,Anzahl,K03462,17
+2024,Statistische Region Weser-Ems,Ausländerinnen und Ausländer,Anzahl,K034,1063
+2024,Niedersachsen,Ausländerinnen und Ausländer,Anzahl,K030,2749
 2005,"Braunschweig, Stadt",Deutsche,Prozent,K03101,7.22460658082976
 2005,"Salzgitter, Stadt",Deutsche,Prozent,K03102,5.56569343065693
 2005,"Wolfsburg, Stadt",Deutsche,Prozent,K03103,5.95890410958904
@@ -2703,110 +2911,6 @@ Year,Gebietseinheit,Nationalität,Units,GeoCode,Value
 2022,Wittmund,Ausländerinnen und Ausländer,Prozent,K03462,23.0769230769231
 2022,Statistische Region Weser-Ems,Ausländerinnen und Ausländer,Prozent,K034,22.1333333333333
 2022,Niedersachsen,Ausländerinnen und Ausländer,Prozent,K030,18.8706311945749
-2023,"Braunschweig, Stadt",Deutsche,Anzahl,K03101,136
-2023,"Salzgitter, Stadt",Deutsche,Anzahl,K03102,59
-2023,"Wolfsburg, Stadt",Deutsche,Anzahl,K03103,42
-2023,Gifhorn,Deutsche,Anzahl,K03151,91
-2023,Goslar,Deutsche,Anzahl,K03153,73
-2023,Helmstedt,Deutsche,Anzahl,K03154,33
-2023,Northeim,Deutsche,Anzahl,K03155,55
-2023,Peine,Deutsche,Anzahl,K03157,61
-2023,Wolfenbüttel,Deutsche,Anzahl,K03158,57
-2023,Göttingen,Deutsche,Anzahl,K03159,124
-2023,Statistische Region Braunschweig,Deutsche,Anzahl,K031,731
-2023,Region Hannover,Deutsche,Anzahl,K03241,474
-2023,"dav. Hannover, Lhst.",Deutsche,Anzahl,K03241001,230
-2023,"dav. Hannover, Umland",Deutsche,Anzahl,K03241999,244
-2023,Diepholz,Deutsche,Anzahl,K03251,84
-2023,Hameln-Pyrmont,Deutsche,Anzahl,K03252,71
-2023,Hildesheim,Deutsche,Anzahl,K03254,144
-2023,Holzminden,Deutsche,Anzahl,K03255,44
-2023,Nienburg (Weser),Deutsche,Anzahl,K03256,63
-2023,Schaumburg,Deutsche,Anzahl,K03257,84
-2023,Statistische Region Hannover,Deutsche,Anzahl,K032,964
-2023,Celle,Deutsche,Anzahl,K03351,118
-2023,Cuxhaven,Deutsche,Anzahl,K03352,98
-2023,Harburg,Deutsche,Anzahl,K03353,85
-2023,Lüchow-Dannenberg,Deutsche,Anzahl,K03354,46
-2023,Lüneburg,Deutsche,Anzahl,K03355,57
-2023,Osterholz,Deutsche,Anzahl,K03356,28
-2023,Rotenburg (Wümme),Deutsche,Anzahl,K03357,114
-2023,Heidekreis,Deutsche,Anzahl,K03358,131
-2023,Stade,Deutsche,Anzahl,K03359,107
-2023,Uelzen,Deutsche,Anzahl,K03360,40
-2023,Verden,Deutsche,Anzahl,K03361,41
-2023,Statistische Region Lüneburg,Deutsche,Anzahl,K033,865
-2023,"Delmenhorst, Stadt",Deutsche,Anzahl,K03401,23
-2023,"Emden, Stadt",Deutsche,Anzahl,K03402,37
-2023,"Oldenburg (Oldb), Stadt",Deutsche,Anzahl,K03403,88
-2023,"Osnabrück, Stadt",Deutsche,Anzahl,K03404,74
-2023,"Wilhelmshaven, Stadt",Deutsche,Anzahl,K03405,27
-2023,Ammerland,Deutsche,Anzahl,K03451,79
-2023,Aurich,Deutsche,Anzahl,K03452,183
-2023,Cloppenburg,Deutsche,Anzahl,K03453,109
-2023,Emsland,Deutsche,Anzahl,K03454,157
-2023,Friesland,Deutsche,Anzahl,K03455,53
-2023,Grafschaft Bentheim,Deutsche,Anzahl,K03456,102
-2023,Leer,Deutsche,Anzahl,K03457,98
-2023,Oldenburg,Deutsche,Anzahl,K03458,50
-2023,Osnabrück,Deutsche,Anzahl,K03459,168
-2023,Vechta,Deutsche,Anzahl,K03460,93
-2023,Wesermarsch,Deutsche,Anzahl,K03461,44
-2023,Wittmund,Deutsche,Anzahl,K03462,34
-2023,Statistische Region Weser-Ems,Deutsche,Anzahl,K034,1419
-2023,Niedersachsen,Deutsche,Anzahl,K030,3979
-2023,"Braunschweig, Stadt",Ausländerinnen und Ausländer,Anzahl,K03101,136
-2023,"Salzgitter, Stadt",Ausländerinnen und Ausländer,Anzahl,K03102,54
-2023,"Wolfsburg, Stadt",Ausländerinnen und Ausländer,Anzahl,K03103,27
-2023,Gifhorn,Ausländerinnen und Ausländer,Anzahl,K03151,19
-2023,Goslar,Ausländerinnen und Ausländer,Anzahl,K03153,24
-2023,Helmstedt,Ausländerinnen und Ausländer,Anzahl,K03154,13
-2023,Northeim,Ausländerinnen und Ausländer,Anzahl,K03155,31
-2023,Peine,Ausländerinnen und Ausländer,Anzahl,K03157,26
-2023,Wolfenbüttel,Ausländerinnen und Ausländer,Anzahl,K03158,19
-2023,Göttingen,Ausländerinnen und Ausländer,Anzahl,K03159,45
-2023,Statistische Region Braunschweig,Ausländerinnen und Ausländer,Anzahl,K031,309
-2023,Region Hannover,Ausländerinnen und Ausländer,Anzahl,K03241,309
-2023,"dav. Hannover, Lhst.",Ausländerinnen und Ausländer,Anzahl,K03241001,149
-2023,"dav. Hannover, Umland",Ausländerinnen und Ausländer,Anzahl,K03241999,160
-2023,Diepholz,Ausländerinnen und Ausländer,Anzahl,K03251,54
-2023,Hameln-Pyrmont,Ausländerinnen und Ausländer,Anzahl,K03252,61
-2023,Hildesheim,Ausländerinnen und Ausländer,Anzahl,K03254,54
-2023,Holzminden,Ausländerinnen und Ausländer,Anzahl,K03255,20
-2023,Nienburg (Weser),Ausländerinnen und Ausländer,Anzahl,K03256,19
-2023,Schaumburg,Ausländerinnen und Ausländer,Anzahl,K03257,32
-2023,Statistische Region Hannover,Ausländerinnen und Ausländer,Anzahl,K032,549
-2023,Celle,Ausländerinnen und Ausländer,Anzahl,K03351,34
-2023,Cuxhaven,Ausländerinnen und Ausländer,Anzahl,K03352,51
-2023,Harburg,Ausländerinnen und Ausländer,Anzahl,K03353,15
-2023,Lüchow-Dannenberg,Ausländerinnen und Ausländer,Anzahl,K03354,19
-2023,Lüneburg,Ausländerinnen und Ausländer,Anzahl,K03355,33
-2023,Osterholz,Ausländerinnen und Ausländer,Anzahl,K03356,10
-2023,Rotenburg (Wümme),Ausländerinnen und Ausländer,Anzahl,K03357,44
-2023,Heidekreis,Ausländerinnen und Ausländer,Anzahl,K03358,32
-2023,Stade,Ausländerinnen und Ausländer,Anzahl,K03359,79
-2023,Uelzen,Ausländerinnen und Ausländer,Anzahl,K03360,20
-2023,Verden,Ausländerinnen und Ausländer,Anzahl,K03361,26
-2023,Statistische Region Lüneburg,Ausländerinnen und Ausländer,Anzahl,K033,363
-2023,"Delmenhorst, Stadt",Ausländerinnen und Ausländer,Anzahl,K03401,21
-2023,"Emden, Stadt",Ausländerinnen und Ausländer,Anzahl,K03402,18
-2023,"Oldenburg (Oldb), Stadt",Ausländerinnen und Ausländer,Anzahl,K03403,63
-2023,"Osnabrück, Stadt",Ausländerinnen und Ausländer,Anzahl,K03404,26
-2023,"Wilhelmshaven, Stadt",Ausländerinnen und Ausländer,Anzahl,K03405,10
-2023,Ammerland,Ausländerinnen und Ausländer,Anzahl,K03451,17
-2023,Aurich,Ausländerinnen und Ausländer,Anzahl,K03452,30
-2023,Cloppenburg,Ausländerinnen und Ausländer,Anzahl,K03453,54
-2023,Emsland,Ausländerinnen und Ausländer,Anzahl,K03454,138
-2023,Friesland,Ausländerinnen und Ausländer,Anzahl,K03455,19
-2023,Grafschaft Bentheim,Ausländerinnen und Ausländer,Anzahl,K03456,41
-2023,Leer,Ausländerinnen und Ausländer,Anzahl,K03457,31
-2023,Oldenburg,Ausländerinnen und Ausländer,Anzahl,K03458,20
-2023,Osnabrück,Ausländerinnen und Ausländer,Anzahl,K03459,131
-2023,Vechta,Ausländerinnen und Ausländer,Anzahl,K03460,57
-2023,Wesermarsch,Ausländerinnen und Ausländer,Anzahl,K03461,10
-2023,Wittmund,Ausländerinnen und Ausländer,Anzahl,K03462,9
-2023,Statistische Region Weser-Ems,Ausländerinnen und Ausländer,Anzahl,K034,695
-2023,Niedersachsen,Ausländerinnen und Ausländer,Anzahl,K030,1916
 2023,"Braunschweig, Stadt",Deutsche,Prozent,K03101,6.27885503231764
 2023,"Salzgitter, Stadt",Deutsche,Prozent,K03102,8.11554332874828
 2023,"Wolfsburg, Stadt",Deutsche,Prozent,K03103,3.2258064516129
@@ -2911,110 +3015,6 @@ Year,Gebietseinheit,Nationalität,Units,GeoCode,Value
 2023,Wittmund,Ausländerinnen und Ausländer,Prozent,K03462,18
 2023,Statistische Region Weser-Ems,Ausländerinnen und Ausländer,Prozent,K034,23.7201365187713
 2023,Niedersachsen,Ausländerinnen und Ausländer,Prozent,K030,22.5890120254657
-2024,"Braunschweig, Stadt",Deutsche,Anzahl,K03101,135
-2024,"Salzgitter, Stadt",Deutsche,Anzahl,K03102,46
-2024,"Wolfsburg, Stadt",Deutsche,Anzahl,K03103,66
-2024,Gifhorn,Deutsche,Anzahl,K03151,94
-2024,Goslar,Deutsche,Anzahl,K03153,59
-2024,Helmstedt,Deutsche,Anzahl,K03154,35
-2024,Northeim,Deutsche,Anzahl,K03155,49
-2024,Peine,Deutsche,Anzahl,K03157,55
-2024,Wolfenbüttel,Deutsche,Anzahl,K03158,42
-2024,Göttingen,Deutsche,Anzahl,K03159,158
-2024,Statistische Region Braunschweig,Deutsche,Anzahl,K031,739
-2024,Region Hannover,Deutsche,Anzahl,K03241,466
-2024,"dav. Hannover, Lhst.",Deutsche,Anzahl,K03241001,252
-2024,"dav. Hannover, Umland",Deutsche,Anzahl,K03241999,214
-2024,Diepholz,Deutsche,Anzahl,K03251,85
-2024,Hameln-Pyrmont,Deutsche,Anzahl,K03252,62
-2024,Hildesheim,Deutsche,Anzahl,K03254,152
-2024,Holzminden,Deutsche,Anzahl,K03255,35
-2024,Nienburg (Weser),Deutsche,Anzahl,K03256,67
-2024,Schaumburg,Deutsche,Anzahl,K03257,80
-2024,Statistische Region Hannover,Deutsche,Anzahl,K032,947
-2024,Celle,Deutsche,Anzahl,K03351,126
-2024,Cuxhaven,Deutsche,Anzahl,K03352,133
-2024,Harburg,Deutsche,Anzahl,K03353,82
-2024,Lüchow-Dannenberg,Deutsche,Anzahl,K03354,32
-2024,Lüneburg,Deutsche,Anzahl,K03355,81
-2024,Osterholz,Deutsche,Anzahl,K03356,48
-2024,Rotenburg (Wümme),Deutsche,Anzahl,K03357,130
-2024,Heidekreis,Deutsche,Anzahl,K03358,94
-2024,Stade,Deutsche,Anzahl,K03359,117
-2024,Uelzen,Deutsche,Anzahl,K03360,46
-2024,Verden,Deutsche,Anzahl,K03361,49
-2024,Statistische Region Lüneburg,Deutsche,Anzahl,K033,938
-2024,"Delmenhorst, Stadt",Deutsche,Anzahl,K03401,50
-2024,"Emden, Stadt",Deutsche,Anzahl,K03402,44
-2024,"Oldenburg (Oldb), Stadt",Deutsche,Anzahl,K03403,111
-2024,"Osnabrück, Stadt",Deutsche,Anzahl,K03404,69
-2024,"Wilhelmshaven, Stadt",Deutsche,Anzahl,K03405,71
-2024,Ammerland,Deutsche,Anzahl,K03451,74
-2024,Aurich,Deutsche,Anzahl,K03452,160
-2024,Cloppenburg,Deutsche,Anzahl,K03453,143
-2024,Emsland,Deutsche,Anzahl,K03454,159
-2024,Friesland,Deutsche,Anzahl,K03455,72
-2024,Grafschaft Bentheim,Deutsche,Anzahl,K03456,92
-2024,Leer,Deutsche,Anzahl,K03457,106
-2024,Oldenburg,Deutsche,Anzahl,K03458,57
-2024,Osnabrück,Deutsche,Anzahl,K03459,159
-2024,Vechta,Deutsche,Anzahl,K03460,65
-2024,Wesermarsch,Deutsche,Anzahl,K03461,41
-2024,Wittmund,Deutsche,Anzahl,K03462,37
-2024,Statistische Region Weser-Ems,Deutsche,Anzahl,K034,1510
-2024,Niedersachsen,Deutsche,Anzahl,K030,4134
-2024,"Braunschweig, Stadt",Ausländerinnen und Ausländer,Anzahl,K03101,39
-2024,"Salzgitter, Stadt",Ausländerinnen und Ausländer,Anzahl,K03102,39
-2024,"Wolfsburg, Stadt",Ausländerinnen und Ausländer,Anzahl,K03103,43
-2024,Gifhorn,Ausländerinnen und Ausländer,Anzahl,K03151,61
-2024,Goslar,Ausländerinnen und Ausländer,Anzahl,K03153,48
-2024,Helmstedt,Ausländerinnen und Ausländer,Anzahl,K03154,33
-2024,Northeim,Ausländerinnen und Ausländer,Anzahl,K03155,44
-2024,Peine,Ausländerinnen und Ausländer,Anzahl,K03157,59
-2024,Wolfenbüttel,Ausländerinnen und Ausländer,Anzahl,K03158,46
-2024,Göttingen,Ausländerinnen und Ausländer,Anzahl,K03159,71
-2024,Statistische Region Braunschweig,Ausländerinnen und Ausländer,Anzahl,K031,483
-2024,Region Hannover,Ausländerinnen und Ausländer,Anzahl,K03241,455
-2024,"dav. Hannover, Lhst.",Ausländerinnen und Ausländer,Anzahl,K03241001,248
-2024,"dav. Hannover, Umland",Ausländerinnen und Ausländer,Anzahl,K03241999,207
-2024,Diepholz,Ausländerinnen und Ausländer,Anzahl,K03251,71
-2024,Hameln-Pyrmont,Ausländerinnen und Ausländer,Anzahl,K03252,59
-2024,Hildesheim,Ausländerinnen und Ausländer,Anzahl,K03254,94
-2024,Holzminden,Ausländerinnen und Ausländer,Anzahl,K03255,25
-2024,Nienburg (Weser),Ausländerinnen und Ausländer,Anzahl,K03256,57
-2024,Schaumburg,Ausländerinnen und Ausländer,Anzahl,K03257,58
-2024,Statistische Region Hannover,Ausländerinnen und Ausländer,Anzahl,K032,819
-2024,Celle,Ausländerinnen und Ausländer,Anzahl,K03351,33
-2024,Cuxhaven,Ausländerinnen und Ausländer,Anzahl,K03352,38
-2024,Harburg,Ausländerinnen und Ausländer,Anzahl,K03353,46
-2024,Lüchow-Dannenberg,Ausländerinnen und Ausländer,Anzahl,K03354,9
-2024,Lüneburg,Ausländerinnen und Ausländer,Anzahl,K03355,61
-2024,Osterholz,Ausländerinnen und Ausländer,Anzahl,K03356,27
-2024,Rotenburg (Wümme),Ausländerinnen und Ausländer,Anzahl,K03357,43
-2024,Heidekreis,Ausländerinnen und Ausländer,Anzahl,K03358,20
-2024,Stade,Ausländerinnen und Ausländer,Anzahl,K03359,71
-2024,Uelzen,Ausländerinnen und Ausländer,Anzahl,K03360,19
-2024,Verden,Ausländerinnen und Ausländer,Anzahl,K03361,17
-2024,Statistische Region Lüneburg,Ausländerinnen und Ausländer,Anzahl,K033,384
-2024,"Delmenhorst, Stadt",Ausländerinnen und Ausländer,Anzahl,K03401,47
-2024,"Emden, Stadt",Ausländerinnen und Ausländer,Anzahl,K03402,48
-2024,"Oldenburg (Oldb), Stadt",Ausländerinnen und Ausländer,Anzahl,K03403,67
-2024,"Osnabrück, Stadt",Ausländerinnen und Ausländer,Anzahl,K03404,71
-2024,"Wilhelmshaven, Stadt",Ausländerinnen und Ausländer,Anzahl,K03405,43
-2024,Ammerland,Ausländerinnen und Ausländer,Anzahl,K03451,42
-2024,Aurich,Ausländerinnen und Ausländer,Anzahl,K03452,47
-2024,Cloppenburg,Ausländerinnen und Ausländer,Anzahl,K03453,85
-2024,Emsland,Ausländerinnen und Ausländer,Anzahl,K03454,160
-2024,Friesland,Ausländerinnen und Ausländer,Anzahl,K03455,36
-2024,Grafschaft Bentheim,Ausländerinnen und Ausländer,Anzahl,K03456,73
-2024,Leer,Ausländerinnen und Ausländer,Anzahl,K03457,71
-2024,Oldenburg,Ausländerinnen und Ausländer,Anzahl,K03458,27
-2024,Osnabrück,Ausländerinnen und Ausländer,Anzahl,K03459,154
-2024,Vechta,Ausländerinnen und Ausländer,Anzahl,K03460,62
-2024,Wesermarsch,Ausländerinnen und Ausländer,Anzahl,K03461,13
-2024,Wittmund,Ausländerinnen und Ausländer,Anzahl,K03462,17
-2024,Statistische Region Weser-Ems,Ausländerinnen und Ausländer,Anzahl,K034,1063
-2024,Niedersachsen,Ausländerinnen und Ausländer,Anzahl,K030,2749
 2024,"Braunschweig, Stadt",Deutsche,Prozent,K03101,6.05652759084791
 2024,"Salzgitter, Stadt",Deutsche,Prozent,K03102,5.98179453836151
 2024,"Wolfsburg, Stadt",Deutsche,Prozent,K03103,5.33980582524272
