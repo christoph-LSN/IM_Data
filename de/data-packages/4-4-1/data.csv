@@ -1,4 +1,10 @@
 Year,Berufsgruppe,Geschlecht,Verfahren,Entscheidung vor Rechtsbehelf,Value
+2024,alle Berufsgruppen,Männer,Insgesamt,,4107.0
+2024,alle Berufsgruppen,Frauen,Insgesamt,,5274.0
+2024,alle Berufsgruppen,Insgesamt,Insgesamt,,9378.0
+2024,darunter medizinische Gesundheitsberufe,Männer,Insgesamt,,2193.0
+2024,darunter medizinische Gesundheitsberufe,Frauen,Insgesamt,,4245.0
+2024,darunter medizinische Gesundheitsberufe,Insgesamt,Insgesamt,,6438.0
 2023,alle Berufsgruppen,Männer,Insgesamt,,3546.0
 2023,alle Berufsgruppen,Frauen,Insgesamt,,4431.0
 2023,alle Berufsgruppen,Insgesamt,Insgesamt,,7974.0
@@ -65,6 +71,12 @@ Year,Berufsgruppe,Geschlecht,Verfahren,Entscheidung vor Rechtsbehelf,Value
 2012,darunter medizinische Gesundheitsberufe,Männer,Insgesamt,,189.0
 2012,darunter medizinische Gesundheitsberufe,Frauen,Insgesamt,,327.0
 2012,darunter medizinische Gesundheitsberufe,Insgesamt,Insgesamt,,519.0
+2024,alle Berufsgruppen,Männer,abgeschlossene Verfahren,,3573.0
+2024,alle Berufsgruppen,Frauen,abgeschlossene Verfahren,,4764.0
+2024,alle Berufsgruppen,Insgesamt,abgeschlossene Verfahren,,8337.0
+2024,darunter medizinische Gesundheitsberufe,Männer,abgeschlossene Verfahren,,2076.0
+2024,darunter medizinische Gesundheitsberufe,Frauen,abgeschlossene Verfahren,,3978.0
+2024,darunter medizinische Gesundheitsberufe,Insgesamt,abgeschlossene Verfahren,,6057.0
 2023,alle Berufsgruppen,Männer,abgeschlossene Verfahren,,3018.0
 2023,alle Berufsgruppen,Frauen,abgeschlossene Verfahren,,4065.0
 2023,alle Berufsgruppen,Insgesamt,abgeschlossene Verfahren,,7080.0
@@ -131,6 +143,12 @@ Year,Berufsgruppe,Geschlecht,Verfahren,Entscheidung vor Rechtsbehelf,Value
 2012,darunter medizinische Gesundheitsberufe,Männer,abgeschlossene Verfahren,,180.0
 2012,darunter medizinische Gesundheitsberufe,Frauen,abgeschlossene Verfahren,,291.0
 2012,darunter medizinische Gesundheitsberufe,Insgesamt,abgeschlossene Verfahren,,471.0
+2024,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,1734.0
+2024,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,1899.0
+2024,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,3633.0
+2024,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,990.0
+2024,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,1620.0
+2024,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,2607.0
 2023,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,1572.0
 2023,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,1740.0
 2023,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,3312.0
@@ -197,6 +215,12 @@ Year,Berufsgruppe,Geschlecht,Verfahren,Entscheidung vor Rechtsbehelf,Value
 2012,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,3.0
 2012,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,18.0
 2012,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,positiv volle Gleichwertigkeit,18.0
+2024,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),1110.0
+2024,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),2673.0
+2024,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),3783.0
+2024,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),1059.0
+2024,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),2298.0
+2024,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),3357.0
 2023,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),1002.0
 2023,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),2130.0
 2023,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),3132.0
@@ -263,6 +287,12 @@ Year,Berufsgruppe,Geschlecht,Verfahren,Entscheidung vor Rechtsbehelf,Value
 2012,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),
 2012,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),
 2012,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,Auflage einer Ausgleichsmaßnahme1),
+2024,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2024,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2024,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2024,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2024,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
+2024,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
 2023,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
 2023,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
 2023,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),
@@ -329,6 +359,12 @@ Year,Berufsgruppe,Geschlecht,Verfahren,Entscheidung vor Rechtsbehelf,Value
 2012,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),6.0
 2012,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),57.0
 2012,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,positiv mit Auflage einer Ausgleichsmaßnahme1) / beschränkter Berufszugang nach HwO2),63.0
+2024,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),690.0
+2024,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),90.0
+2024,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),780.0
+2024,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),9.0
+2024,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),18.0
+2024,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),27.0
 2023,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),378.0
 2023,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),66.0
 2023,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),444.0
@@ -395,7 +431,13 @@ Year,Berufsgruppe,Geschlecht,Verfahren,Entscheidung vor Rechtsbehelf,Value
 2012,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),
 2012,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),
 2012,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,teilweise Gleichwertigkeit3),
-2023,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
+2024,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),0.0
+2024,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),6.0
+2024,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),6.0
+2024,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
+2024,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
+2024,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
+2023,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),0.0
 2023,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),39.0
 2023,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),39.0
 2023,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
@@ -461,6 +503,12 @@ Year,Berufsgruppe,Geschlecht,Verfahren,Entscheidung vor Rechtsbehelf,Value
 2012,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
 2012,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
 2012,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,positive partieller Berufszugang4),
+2024,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,negativ,39.0
+2024,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,negativ,96.0
+2024,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,negativ,135.0
+2024,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,negativ,21.0
+2024,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,negativ,42.0
+2024,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,negativ,63.0
 2023,alle Berufsgruppen,Männer,Entscheidung vor Rechtsbehelf,negativ,63.0
 2023,alle Berufsgruppen,Frauen,Entscheidung vor Rechtsbehelf,negativ,90.0
 2023,alle Berufsgruppen,Insgesamt,Entscheidung vor Rechtsbehelf,negativ,153.0
@@ -527,6 +575,12 @@ Year,Berufsgruppe,Geschlecht,Verfahren,Entscheidung vor Rechtsbehelf,Value
 2012,darunter medizinische Gesundheitsberufe,Männer,Entscheidung vor Rechtsbehelf,negativ,171.0
 2012,darunter medizinische Gesundheitsberufe,Frauen,Entscheidung vor Rechtsbehelf,negativ,219.0
 2012,darunter medizinische Gesundheitsberufe,Insgesamt,Entscheidung vor Rechtsbehelf,negativ,390.0
+2024,alle Berufsgruppen,Männer,sonstige Erledigung - Verfahren ohne Bescheid beendet,,81.0
+2024,alle Berufsgruppen,Frauen,sonstige Erledigung - Verfahren ohne Bescheid beendet,,132.0
+2024,alle Berufsgruppen,Insgesamt,sonstige Erledigung - Verfahren ohne Bescheid beendet,,213.0
+2024,darunter medizinische Gesundheitsberufe,Männer,sonstige Erledigung - Verfahren ohne Bescheid beendet,,27.0
+2024,darunter medizinische Gesundheitsberufe,Frauen,sonstige Erledigung - Verfahren ohne Bescheid beendet,,63.0
+2024,darunter medizinische Gesundheitsberufe,Insgesamt,sonstige Erledigung - Verfahren ohne Bescheid beendet,,93.0
 2023,alle Berufsgruppen,Männer,sonstige Erledigung - Verfahren ohne Bescheid beendet,,81.0
 2023,alle Berufsgruppen,Frauen,sonstige Erledigung - Verfahren ohne Bescheid beendet,,117.0
 2023,alle Berufsgruppen,Insgesamt,sonstige Erledigung - Verfahren ohne Bescheid beendet,,198.0
@@ -593,6 +647,12 @@ Year,Berufsgruppe,Geschlecht,Verfahren,Entscheidung vor Rechtsbehelf,Value
 2012,darunter medizinische Gesundheitsberufe,Männer,sonstige Erledigung - Verfahren ohne Bescheid beendet,,
 2012,darunter medizinische Gesundheitsberufe,Frauen,sonstige Erledigung - Verfahren ohne Bescheid beendet,,
 2012,darunter medizinische Gesundheitsberufe,Insgesamt,sonstige Erledigung - Verfahren ohne Bescheid beendet,,
+2024,alle Berufsgruppen,Männer,Noch keine Entscheidung,,450.0
+2024,alle Berufsgruppen,Frauen,Noch keine Entscheidung,,378.0
+2024,alle Berufsgruppen,Insgesamt,Noch keine Entscheidung,,828.0
+2024,darunter medizinische Gesundheitsberufe,Männer,Noch keine Entscheidung,,87.0
+2024,darunter medizinische Gesundheitsberufe,Frauen,Noch keine Entscheidung,,201.0
+2024,darunter medizinische Gesundheitsberufe,Insgesamt,Noch keine Entscheidung,,288.0
 2023,alle Berufsgruppen,Männer,Noch keine Entscheidung,,447.0
 2023,alle Berufsgruppen,Frauen,Noch keine Entscheidung,,249.0
 2023,alle Berufsgruppen,Insgesamt,Noch keine Entscheidung,,696.0
