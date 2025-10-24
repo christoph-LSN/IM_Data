@@ -95,7 +95,7 @@
             "constraints": {
               "enum": [
                 "Anzahl",
-                "Veränderung gegenüber 2005 in %",
+                "Veränderung gegenüber 2005 in Prozent",
                 ""
               ]
             }
