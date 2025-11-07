@@ -4884,14 +4884,24 @@
                 "Insgesamt",
                 "Männer",
                 "Frauen",
-                "15 bis unter 20 Jahre",
-                "16 bis unter 20 Jahre",
-                "20 bis unter 25 Jahre",
-                "21 bis unter 25 Jahre",
                 ""
               ]
             },
             "title": "Geschlecht"
+          },
+          {
+            "name": "Altersgruppe",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt",
+                "15 bis unter 20 Jahre",
+                "16 bis unter 20 Jahre",
+                "20 bis unter 25 Jahre",
+                ""
+              ]
+            },
+            "title": "Altersgruppe"
           },
           {
             "name": "Units",
