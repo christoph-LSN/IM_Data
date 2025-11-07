@@ -1,3 +1,4 @@
 From,To
-Gebietseinheit,Aufenthaltsdauer in Jahren
-Aufenthaltsdauer in Jahren,Geschlecht
+AGS,Gebietseinheit
+Gebietseinheit,Aufenthaltsdauer
+Aufenthaltsdauer,Geschlecht
