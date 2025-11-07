@@ -298,7 +298,7 @@ Year,Wirtschaftsabschnitte (WZ 2008) Zusammenfassungen,Geschlecht,Units,COMMENT_
 2011,Insgesamt (inkl. sonstiger Abschnitte),Männer,in 1000,,303.62559
 2010,"Land- und Forstwirtschaft, Fischerei",Männer,in 1000,Statistisch unsicher,5.15707
 2010,Bergbau und Gewinnung von Steinen und Erden; Verarbeitendes Gewerbe,Männer,in 1000,,99.31678
-2010,"Energieversorgung; Wasserversorgung, Entsorg., Beseitig. v. Umweltverschmutzungen",Männer,in 1000,Gesperrt,99999999999.0
+2010,"Energieversorgung; Wasserversorgung, Entsorg., Beseitig. v. Umweltverschmutzungen",Männer,in 1000,Gesperrt,
 2010,Baugewerbe,Männer,in 1000,,34.97291
 2010,"Handel, Instandhaltung und Reparatur von Kfz",Männer,in 1000,,44.27626
 2010,Verkehr und Lagerei; Information und Kommunikation,Männer,in 1000,,28.7331
@@ -350,7 +350,7 @@ Year,Wirtschaftsabschnitte (WZ 2008) Zusammenfassungen,Geschlecht,Units,COMMENT_
 2021,"Erbringung von Finanz- und Versicherungsleistungen; Grundstücks- und Wohnungswesen; Freiberufliche, wiss. u. techn. Dienstleistungen; sonst. wirt. Dienstleistungen",Frauen,in 1000,,57.34877
 2021,"ÖffentlicheVerwaltung, Verteidigung, Sozialversicherung; Erziehung und Unterricht; Gesundheits- und Sozialwesen",Frauen,in 1000,,128.91737
 2021,"Kunst, Unterhaltung und Erholung; Erbringung von sonstigen Dienstleistungen",Frauen,in 1000,,24.69152
-2021,Insgesamt (inkl. sonstiger Abschnitte),Frauen,in 1000,,497.26251
+2021,Insgesamt (inkl. sonstiger Abschnitte),Frauen,in 1000,,375.02
 2019,"Land- und Forstwirtschaft, Fischerei",Frauen,in 1000,Gesperrt,3.32662
 2019,Bergbau und Gewinnung von Steinen und Erden; Verarbeitendes Gewerbe,Frauen,in 1000,,43.81269
 2019,"Energieversorgung; Wasserversorgung, Entsorg., Beseitig. v. Umweltverschmutzungen",Frauen,in 1000,Gesperrt,1.97601
@@ -450,10 +450,10 @@ Year,Wirtschaftsabschnitte (WZ 2008) Zusammenfassungen,Geschlecht,Units,COMMENT_
 2011,"Öff.Verwaltung, Verteidigung, Sozialversicherung; Erziehung und Unterricht; Gesundheits- und Sozialwesen",Frauen,in 1000,,76.42837
 2011,"Kunst, Unterhaltung und Erholung; Erbringung von sonstigen Dienstleistungen",Frauen,in 1000,,16.17919
 2011,Insgesamt (inkl. sonstiger Abschnitte),Frauen,in 1000,,245.06874
-2010,"Land- und Forstwirtschaft, Fischerei",Frauen,in 1000,Gesperrt,99999999999.0
+2010,"Land- und Forstwirtschaft, Fischerei",Frauen,in 1000,Gesperrt,
 2010,Bergbau und Gewinnung von Steinen und Erden; Verarbeitendes Gewerbe,Frauen,in 1000,,30.53241
-2010,"Energieversorgung; Wasserversorgung, Entsorg., Beseitig. v. Umweltverschmutzungen",Frauen,in 1000,Gesperrt,99999999999.0
-2010,Baugewerbe,Frauen,in 1000,Gesperrt,99999999999.0
+2010,"Energieversorgung; Wasserversorgung, Entsorg., Beseitig. v. Umweltverschmutzungen",Frauen,in 1000,Gesperrt,
+2010,Baugewerbe,Frauen,in 1000,Gesperrt,
 2010,"Handel, Instandhaltung und Reparatur von Kfz",Frauen,in 1000,,38.77542
 2010,Verkehr und Lagerei; Information und Kommunikation,Frauen,in 1000,Statistisch unsicher,7.50441
 2010,Gastgewerbe,Frauen,in 1000,,20.54298
