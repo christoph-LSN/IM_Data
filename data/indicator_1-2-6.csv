@@ -1,4 +1,420 @@
 ﻿Year,Gebietseinheit,Altersgruppe,GeoCode,Value
+2024,"Braunschweig, Stadt",Insgesamt,K03101,36380
+2024,"Salzgitter, Stadt",Insgesamt,K03102,25170
+2024,"Wolfsburg, Stadt",Insgesamt,K03103,25945
+2024,"Gifhorn",Insgesamt,K03151,17880
+2024,"Goslar",Insgesamt,K03153,17035
+2024,"Helmstedt",Insgesamt,K03154,9495
+2024,"Northeim",Insgesamt,K03155,13975
+2024,"Peine",Insgesamt,K03157,16325
+2024,"Wolfenbüttel",Insgesamt,K03158,11105
+2024,"Göttingen",Insgesamt,K03159,41475
+2024,"Statistische Region Braunschweig",Insgesamt,K031,214785
+2024,"Region Hannover",Insgesamt,K03241,227495
+2024,"dav. Hannover, Lhst.",Insgesamt,K03241001,135035
+2024,"dav. Hannover, Umland",Insgesamt,K03241999,92460
+2024,"Diepholz",Insgesamt,K03251,26120
+2024,"Hameln-Pyrmont",Insgesamt,K03252,22250
+2024,"Hildesheim",Insgesamt,K03254,33380
+2024,"Holzminden",Insgesamt,K03255,6910
+2024,"Nienburg (Weser)",Insgesamt,K03256,14345
+2024,"Schaumburg",Insgesamt,K03257,18950
+2024,"Statistische Region Hannover",Insgesamt,K032,349450
+2024,"Celle",Insgesamt,K03351,18655
+2024,"Cuxhaven",Insgesamt,K03352,17035
+2024,"Harburg",Insgesamt,K03353,31480
+2024,"Lüchow-Dannenberg",Insgesamt,K03354,3930
+2024,"Lüneburg",Insgesamt,K03355,17595
+2024,"Osterholz",Insgesamt,K03356,9380
+2024,"Rotenburg (Wümme)",Insgesamt,K03357,16960
+2024,"Heidekreis",Insgesamt,K03358,15440
+2024,"Stade",Insgesamt,K03359,26815
+2024,"Uelzen",Insgesamt,K03360,8145
+2024,"Verden",Insgesamt,K03361,15260
+2024,"Statistische Region Lüneburg",Insgesamt,K033,180690
+2024,"Delmenhorst, Stadt",Insgesamt,K03401,16530
+2024,"Emden, Stadt",Insgesamt,K03402,7525
+2024,"Oldenburg (Oldb), Stadt",Insgesamt,K03403,23900
+2024,"Osnabrück, Stadt",Insgesamt,K03404,31200
+2024,"Wilhelmshaven, Stadt",Insgesamt,K03405,12150
+2024,"Ammerland",Insgesamt,K03451,11720
+2024,"Aurich",Insgesamt,K03452,15580
+2024,"Cloppenburg",Insgesamt,K03453,27540
+2024,"Emsland",Insgesamt,K03454,52610
+2024,"Friesland",Insgesamt,K03455,6945
+2024,"Grafschaft Bentheim",Insgesamt,K03456,26195
+2024,"Leer",Insgesamt,K03457,19120
+2024,"Oldenburg",Insgesamt,K03458,15205
+2024,"Osnabrück",Insgesamt,K03459,42280
+2024,"Vechta",Insgesamt,K03460,24775
+2024,"Wesermarsch",Insgesamt,K03461,10430
+2024,"Wittmund",Insgesamt,K03462,4470
+2024,"Statistische Region Weser-Ems",Insgesamt,K034,348185
+2024,"Niedersachsen",Insgesamt,,1093110
+2024,"Braunschweig, Stadt",0 - 6,K03101,1525
+2024,"Salzgitter, Stadt",0 - 6,K03102,1885
+2024,"Wolfsburg, Stadt",0 - 6,K03103,1620
+2024,"Gifhorn",0 - 6,K03151,1085
+2024,"Goslar",0 - 6,K03153,910
+2024,"Helmstedt",0 - 6,K03154,630
+2024,"Northeim",0 - 6,K03155,930
+2024,"Peine",0 - 6,K03157,1000
+2024,"Wolfenbüttel",0 - 6,K03158,685
+2024,"Göttingen",0 - 6,K03159,2375
+2024,"Statistische Region Braunschweig",0 - 6,K031,12655
+2024,"Region Hannover",0 - 6,K03241,11290
+2024,"dav. Hannover, Lhst.",0 - 6,K03241001,6280
+2024,"dav. Hannover, Umland",0 - 6,K03241999,5010
+2024,"Diepholz",0 - 6,K03251,1705
+2024,"Hameln-Pyrmont",0 - 6,K03252,1525
+2024,"Hildesheim",0 - 6,K03254,2060
+2024,"Holzminden",0 - 6,K03255,440
+2024,"Nienburg (Weser)",0 - 6,K03256,920
+2024,"Schaumburg",0 - 6,K03257,1180
+2024,"Statistische Region Hannover",0 - 6,K032,19115
+2024,"Celle",0 - 6,K03351,1115
+2024,"Cuxhaven",0 - 6,K03352,965
+2024,"Harburg",0 - 6,K03353,1505
+2024,"Lüchow-Dannenberg",0 - 6,K03354,235
+2024,"Lüneburg",0 - 6,K03355,1060
+2024,"Osterholz",0 - 6,K03356,605
+2024,"Rotenburg (Wümme)",0 - 6,K03357,1010
+2024,"Heidekreis",0 - 6,K03358,895
+2024,"Stade",0 - 6,K03359,1765
+2024,"Uelzen",0 - 6,K03360,550
+2024,"Verden",0 - 6,K03361,900
+2024,"Statistische Region Lüneburg",0 - 6,K033,10605
+2024,"Delmenhorst, Stadt",0 - 6,K03401,1270
+2024,"Emden, Stadt",0 - 6,K03402,530
+2024,"Oldenburg (Oldb), Stadt",0 - 6,K03403,1520
+2024,"Osnabrück, Stadt",0 - 6,K03404,1595
+2024,"Wilhelmshaven, Stadt",0 - 6,K03405,860
+2024,"Ammerland",0 - 6,K03451,635
+2024,"Aurich",0 - 6,K03452,1010
+2024,"Cloppenburg",0 - 6,K03453,1800
+2024,"Emsland",0 - 6,K03454,3145
+2024,"Friesland",0 - 6,K03455,455
+2024,"Grafschaft Bentheim",0 - 6,K03456,1355
+2024,"Leer",0 - 6,K03457,1470
+2024,"Oldenburg",0 - 6,K03458,860
+2024,"Osnabrück",0 - 6,K03459,2560
+2024,"Vechta",0 - 6,K03460,1600
+2024,"Wesermarsch",0 - 6,K03461,685
+2024,"Wittmund",0 - 6,K03462,310
+2024,"Statistische Region Weser-Ems",0 - 6,K034,21665
+2024,"Niedersachsen",0 - 6,,64045
+2024,"Braunschweig, Stadt",6 - 15,K03101,2655
+2024,"Salzgitter, Stadt",6 - 15,K03102,3005
+2024,"Wolfsburg, Stadt",6 - 15,K03103,2565
+2024,"Gifhorn",6 - 15,K03151,2055
+2024,"Goslar",6 - 15,K03153,1485
+2024,"Helmstedt",6 - 15,K03154,1105
+2024,"Northeim",6 - 15,K03155,1750
+2024,"Peine",6 - 15,K03157,1985
+2024,"Wolfenbüttel",6 - 15,K03158,1335
+2024,"Göttingen",6 - 15,K03159,3785
+2024,"Statistische Region Braunschweig",6 - 15,K031,21730
+2024,"Region Hannover",6 - 15,K03241,20540
+2024,"dav. Hannover, Lhst.",6 - 15,K03241001,10750
+2024,"dav. Hannover, Umland",6 - 15,K03241999,9790
+2024,"Diepholz",6 - 15,K03251,3235
+2024,"Hameln-Pyrmont",6 - 15,K03252,2755
+2024,"Hildesheim",6 - 15,K03254,3540
+2024,"Holzminden",6 - 15,K03255,890
+2024,"Nienburg (Weser)",6 - 15,K03256,1970
+2024,"Schaumburg",6 - 15,K03257,2095
+2024,"Statistische Region Hannover",6 - 15,K032,35030
+2024,"Celle",6 - 15,K03351,2245
+2024,"Cuxhaven",6 - 15,K03352,1960
+2024,"Harburg",6 - 15,K03353,2490
+2024,"Lüchow-Dannenberg",6 - 15,K03354,470
+2024,"Lüneburg",6 - 15,K03355,1860
+2024,"Osterholz",6 - 15,K03356,1300
+2024,"Rotenburg (Wümme)",6 - 15,K03357,1855
+2024,"Heidekreis",6 - 15,K03358,1685
+2024,"Stade",6 - 15,K03359,3075
+2024,"Uelzen",6 - 15,K03360,970
+2024,"Verden",6 - 15,K03361,1720
+2024,"Statistische Region Lüneburg",6 - 15,K033,19625
+2024,"Delmenhorst, Stadt",6 - 15,K03401,2010
+2024,"Emden, Stadt",6 - 15,K03402,930
+2024,"Oldenburg (Oldb), Stadt",6 - 15,K03403,2655
+2024,"Osnabrück, Stadt",6 - 15,K03404,2770
+2024,"Wilhelmshaven, Stadt",6 - 15,K03405,1515
+2024,"Ammerland",6 - 15,K03451,1445
+2024,"Aurich",6 - 15,K03452,1680
+2024,"Cloppenburg",6 - 15,K03453,3060
+2024,"Emsland",6 - 15,K03454,5330
+2024,"Friesland",6 - 15,K03455,1020
+2024,"Grafschaft Bentheim",6 - 15,K03456,2390
+2024,"Leer",6 - 15,K03457,2385
+2024,"Oldenburg",6 - 15,K03458,1635
+2024,"Osnabrück",6 - 15,K03459,4145
+2024,"Vechta",6 - 15,K03460,2665
+2024,"Wesermarsch",6 - 15,K03461,1300
+2024,"Wittmund",6 - 15,K03462,590
+2024,"Statistische Region Weser-Ems",6 - 15,K034,37525
+2024,"Niedersachsen",6 - 15,,113915
+2024,"Braunschweig, Stadt",15 - 20,K03101,1520
+2024,"Salzgitter, Stadt",15 - 20,K03102,1500
+2024,"Wolfsburg, Stadt",15 - 20,K03103,1300
+2024,"Gifhorn",15 - 20,K03151,1060
+2024,"Goslar",15 - 20,K03153,1065
+2024,"Helmstedt",15 - 20,K03154,595
+2024,"Northeim",15 - 20,K03155,895
+2024,"Peine",15 - 20,K03157,1140
+2024,"Wolfenbüttel",15 - 20,K03158,735
+2024,"Göttingen",15 - 20,K03159,2130
+2024,"Statistische Region Braunschweig",15 - 20,K031,11940
+2024,"Region Hannover",15 - 20,K03241,11435
+2024,"dav. Hannover, Lhst.",15 - 20,K03241001,5895
+2024,"dav. Hannover, Umland",15 - 20,K03241999,5540
+2024,"Diepholz",15 - 20,K03251,1790
+2024,"Hameln-Pyrmont",15 - 20,K03252,1405
+2024,"Hildesheim",15 - 20,K03254,2010
+2024,"Holzminden",15 - 20,K03255,465
+2024,"Nienburg (Weser)",15 - 20,K03256,1095
+2024,"Schaumburg",15 - 20,K03257,1160
+2024,"Statistische Region Hannover",15 - 20,K032,19360
+2024,"Celle",15 - 20,K03351,1260
+2024,"Cuxhaven",15 - 20,K03352,1175
+2024,"Harburg",15 - 20,K03353,1490
+2024,"Lüchow-Dannenberg",15 - 20,K03354,265
+2024,"Lüneburg",15 - 20,K03355,1085
+2024,"Osterholz",15 - 20,K03356,650
+2024,"Rotenburg (Wümme)",15 - 20,K03357,1070
+2024,"Heidekreis",15 - 20,K03358,975
+2024,"Stade",15 - 20,K03359,1790
+2024,"Uelzen",15 - 20,K03360,540
+2024,"Verden",15 - 20,K03361,930
+2024,"Statistische Region Lüneburg",15 - 20,K033,11225
+2024,"Delmenhorst, Stadt",15 - 20,K03401,1050
+2024,"Emden, Stadt",15 - 20,K03402,485
+2024,"Oldenburg (Oldb), Stadt",15 - 20,K03403,1515
+2024,"Osnabrück, Stadt",15 - 20,K03404,1635
+2024,"Wilhelmshaven, Stadt",15 - 20,K03405,795
+2024,"Ammerland",15 - 20,K03451,825
+2024,"Aurich",15 - 20,K03452,1000
+2024,"Cloppenburg",15 - 20,K03453,1680
+2024,"Emsland",15 - 20,K03454,3120
+2024,"Friesland",15 - 20,K03455,505
+2024,"Grafschaft Bentheim",15 - 20,K03456,1375
+2024,"Leer",15 - 20,K03457,1340
+2024,"Oldenburg",15 - 20,K03458,1065
+2024,"Osnabrück",15 - 20,K03459,2430
+2024,"Vechta",15 - 20,K03460,1430
+2024,"Wesermarsch",15 - 20,K03461,650
+2024,"Wittmund",15 - 20,K03462,345
+2024,"Statistische Region Weser-Ems",15 - 20,K034,21245
+2024,"Niedersachsen",15 - 20,,63770
+2024,"Braunschweig, Stadt",20 - 40,K03101,16205
+2024,"Salzgitter, Stadt",20 - 40,K03102,8840
+2024,"Wolfsburg, Stadt",20 - 40,K03103,10145
+2024,"Gifhorn",20 - 40,K03151,6400
+2024,"Goslar",20 - 40,K03153,7340
+2024,"Helmstedt",20 - 40,K03154,3290
+2024,"Northeim",20 - 40,K03155,4835
+2024,"Peine",20 - 40,K03157,5730
+2024,"Wolfenbüttel",20 - 40,K03158,4030
+2024,"Göttingen",20 - 40,K03159,18170
+2024,"Statistische Region Braunschweig",20 - 40,K031,84985
+2024,"Region Hannover",20 - 40,K03241,83970
+2024,"dav. Hannover, Lhst.",20 - 40,K03241001,52290
+2024,"dav. Hannover, Umland",20 - 40,K03241999,31680
+2024,"Diepholz",20 - 40,K03251,8955
+2024,"Hameln-Pyrmont",20 - 40,K03252,7340
+2024,"Hildesheim",20 - 40,K03254,12625
+2024,"Holzminden",20 - 40,K03255,2220
+2024,"Nienburg (Weser)",20 - 40,K03256,4700
+2024,"Schaumburg",20 - 40,K03257,6415
+2024,"Statistische Region Hannover",20 - 40,K032,126230
+2024,"Celle",20 - 40,K03351,6515
+2024,"Cuxhaven",20 - 40,K03352,5485
+2024,"Harburg",20 - 40,K03353,13030
+2024,"Lüchow-Dannenberg",20 - 40,K03354,1350
+2024,"Lüneburg",20 - 40,K03355,7185
+2024,"Osterholz",20 - 40,K03356,2980
+2024,"Rotenburg (Wümme)",20 - 40,K03357,6365
+2024,"Heidekreis",20 - 40,K03358,5705
+2024,"Stade",20 - 40,K03359,9700
+2024,"Uelzen",20 - 40,K03360,2905
+2024,"Verden",20 - 40,K03361,5545
+2024,"Statistische Region Lüneburg",20 - 40,K033,66760
+2024,"Delmenhorst, Stadt",20 - 40,K03401,5730
+2024,"Emden, Stadt",20 - 40,K03402,2935
+2024,"Oldenburg (Oldb), Stadt",20 - 40,K03403,10005
+2024,"Osnabrück, Stadt",20 - 40,K03404,12865
+2024,"Wilhelmshaven, Stadt",20 - 40,K03405,4900
+2024,"Ammerland",20 - 40,K03451,4200
+2024,"Aurich",20 - 40,K03452,6250
+2024,"Cloppenburg",20 - 40,K03453,11010
+2024,"Emsland",20 - 40,K03454,19815
+2024,"Friesland",20 - 40,K03455,2345
+2024,"Grafschaft Bentheim",20 - 40,K03456,7705
+2024,"Leer",20 - 40,K03457,6510
+2024,"Oldenburg",20 - 40,K03458,5475
+2024,"Osnabrück",20 - 40,K03459,15105
+2024,"Vechta",20 - 40,K03460,9200
+2024,"Wesermarsch",20 - 40,K03461,3445
+2024,"Wittmund",20 - 40,K03462,1600
+2024,"Statistische Region Weser-Ems",20 - 40,K034,129110
+2024,"Niedersachsen",20 - 40,,407085
+2024,"Braunschweig, Stadt",40 - 65,K03101,11235
+2024,"Salzgitter, Stadt",40 - 65,K03102,8085
+2024,"Wolfsburg, Stadt",40 - 65,K03103,7915
+2024,"Gifhorn",40 - 65,K03151,5885
+2024,"Goslar",40 - 65,K03153,4700
+2024,"Helmstedt",40 - 65,K03154,3120
+2024,"Northeim",40 - 65,K03155,4430
+2024,"Peine",40 - 65,K03157,5400
+2024,"Wolfenbüttel",40 - 65,K03158,3485
+2024,"Göttingen",40 - 65,K03159,11655
+2024,"Statistische Region Braunschweig",40 - 65,K031,65920
+2024,"Region Hannover",40 - 65,K03241,76430
+2024,"dav. Hannover, Lhst.",40 - 65,K03241001,44710
+2024,"dav. Hannover, Umland",40 - 65,K03241999,31720
+2024,"Diepholz",40 - 65,K03251,8800
+2024,"Hameln-Pyrmont",40 - 65,K03252,7030
+2024,"Hildesheim",40 - 65,K03254,10425
+2024,"Holzminden",40 - 65,K03255,2215
+2024,"Nienburg (Weser)",40 - 65,K03256,4670
+2024,"Schaumburg",40 - 65,K03257,6420
+2024,"Statistische Region Hannover",40 - 65,K032,115985
+2024,"Celle",40 - 65,K03351,5950
+2024,"Cuxhaven",40 - 65,K03352,5965
+2024,"Harburg",40 - 65,K03353,10685
+2024,"Lüchow-Dannenberg",40 - 65,K03354,1290
+2024,"Lüneburg",40 - 65,K03355,5300
+2024,"Osterholz",40 - 65,K03356,3095
+2024,"Rotenburg (Wümme)",40 - 65,K03357,5490
+2024,"Heidekreis",40 - 65,K03358,5065
+2024,"Stade",40 - 65,K03359,8820
+2024,"Uelzen",40 - 65,K03360,2585
+2024,"Verden",40 - 65,K03361,5125
+2024,"Statistische Region Lüneburg",40 - 65,K033,59360
+2024,"Delmenhorst, Stadt",40 - 65,K03401,5295
+2024,"Emden, Stadt",40 - 65,K03402,2245
+2024,"Oldenburg (Oldb), Stadt",40 - 65,K03403,6720
+2024,"Osnabrück, Stadt",40 - 65,K03404,9665
+2024,"Wilhelmshaven, Stadt",40 - 65,K03405,3355
+2024,"Ammerland",40 - 65,K03451,3895
+2024,"Aurich",40 - 65,K03452,4665
+2024,"Cloppenburg",40 - 65,K03453,9015
+2024,"Emsland",40 - 65,K03454,17750
+2024,"Friesland",40 - 65,K03455,2080
+2024,"Grafschaft Bentheim",40 - 65,K03456,9470
+2024,"Leer",40 - 65,K03457,5890
+2024,"Oldenburg",40 - 65,K03458,5465
+2024,"Osnabrück",40 - 65,K03459,14950
+2024,"Vechta",40 - 65,K03460,8725
+2024,"Wesermarsch",40 - 65,K03461,3550
+2024,"Wittmund",40 - 65,K03462,1340
+2024,"Statistische Region Weser-Ems",40 - 65,K034,114075
+2024,"Niedersachsen",40 - 65,,355345
+2024,"Braunschweig, Stadt",65 - 80,K03101,2445
+2024,"Salzgitter, Stadt",65 - 80,K03102,1410
+2024,"Wolfsburg, Stadt",65 - 80,K03103,1895
+2024,"Gifhorn",65 - 80,K03151,1095
+2024,"Goslar",65 - 80,K03153,1200
+2024,"Helmstedt",65 - 80,K03154,615
+2024,"Northeim",65 - 80,K03155,910
+2024,"Peine",65 - 80,K03157,865
+2024,"Wolfenbüttel",65 - 80,K03158,650
+2024,"Göttingen",65 - 80,K03159,2645
+2024,"Statistische Region Braunschweig",65 - 80,K031,13730
+2024,"Region Hannover",65 - 80,K03241,17760
+2024,"dav. Hannover, Lhst.",65 - 80,K03241001,11105
+2024,"dav. Hannover, Umland",65 - 80,K03241999,6655
+2024,"Diepholz",65 - 80,K03251,1350
+2024,"Hameln-Pyrmont",65 - 80,K03252,1715
+2024,"Hildesheim",65 - 80,K03254,2130
+2024,"Holzminden",65 - 80,K03255,540
+2024,"Nienburg (Weser)",65 - 80,K03256,815
+2024,"Schaumburg",65 - 80,K03257,1325
+2024,"Statistische Region Hannover",65 - 80,K032,25635
+2024,"Celle",65 - 80,K03351,1295
+2024,"Cuxhaven",65 - 80,K03352,1215
+2024,"Harburg",65 - 80,K03353,1810
+2024,"Lüchow-Dannenberg",65 - 80,K03354,265
+2024,"Lüneburg",65 - 80,K03355,930
+2024,"Osterholz",65 - 80,K03356,630
+2024,"Rotenburg (Wümme)",65 - 80,K03357,1015
+2024,"Heidekreis",65 - 80,K03358,910
+2024,"Stade",65 - 80,K03359,1385
+2024,"Uelzen",65 - 80,K03360,505
+2024,"Verden",65 - 80,K03361,845
+2024,"Statistische Region Lüneburg",65 - 80,K033,10805
+2024,"Delmenhorst, Stadt",65 - 80,K03401,960
+2024,"Emden, Stadt",65 - 80,K03402,330
+2024,"Oldenburg (Oldb), Stadt",65 - 80,K03403,1225
+2024,"Osnabrück, Stadt",65 - 80,K03404,2035
+2024,"Wilhelmshaven, Stadt",65 - 80,K03405,600
+2024,"Ammerland",65 - 80,K03451,600
+2024,"Aurich",65 - 80,K03452,835
+2024,"Cloppenburg",65 - 80,K03453,850
+2024,"Emsland",65 - 80,K03454,2930
+2024,"Friesland",65 - 80,K03455,440
+2024,"Grafschaft Bentheim",65 - 80,K03456,3090
+2024,"Leer",65 - 80,K03457,1280
+2024,"Oldenburg",65 - 80,K03458,585
+2024,"Osnabrück",65 - 80,K03459,2530
+2024,"Vechta",65 - 80,K03460,965
+2024,"Wesermarsch",65 - 80,K03461,630
+2024,"Wittmund",65 - 80,K03462,245
+2024,"Statistische Region Weser-Ems",65 - 80,K034,20125
+2024,"Niedersachsen",65 - 80,,70295
+2024,"Braunschweig, Stadt",80 und älter,K03101,790
+2024,"Salzgitter, Stadt",80 und älter,K03102,445
+2024,"Wolfsburg, Stadt",80 und älter,K03103,505
+2024,"Gifhorn",80 und älter,K03151,295
+2024,"Goslar",80 und älter,K03153,335
+2024,"Helmstedt",80 und älter,K03154,140
+2024,"Northeim",80 und älter,K03155,220
+2024,"Peine",80 und älter,K03157,200
+2024,"Wolfenbüttel",80 und älter,K03158,185
+2024,"Göttingen",80 und älter,K03159,710
+2024,"Statistische Region Braunschweig",80 und älter,K031,3825
+2024,"Region Hannover",80 und älter,K03241,6065
+2024,"dav. Hannover, Lhst.",80 und älter,K03241001,4005
+2024,"dav. Hannover, Umland",80 und älter,K03241999,2060
+2024,"Diepholz",80 und älter,K03251,285
+2024,"Hameln-Pyrmont",80 und älter,K03252,480
+2024,"Hildesheim",80 und älter,K03254,590
+2024,"Holzminden",80 und älter,K03255,140
+2024,"Nienburg (Weser)",80 und älter,K03256,185
+2024,"Schaumburg",80 und älter,K03257,350
+2024,"Statistische Region Hannover",80 und älter,K032,8095
+2024,"Celle",80 und älter,K03351,275
+2024,"Cuxhaven",80 und älter,K03352,275
+2024,"Harburg",80 und älter,K03353,465
+2024,"Lüchow-Dannenberg",80 und älter,K03354,50
+2024,"Lüneburg",80 und älter,K03355,180
+2024,"Osterholz",80 und älter,K03356,125
+2024,"Rotenburg (Wümme)",80 und älter,K03357,160
+2024,"Heidekreis",80 und älter,K03358,205
+2024,"Stade",80 und älter,K03359,280
+2024,"Uelzen",80 und älter,K03360,90
+2024,"Verden",80 und älter,K03361,195
+2024,"Statistische Region Lüneburg",80 und älter,K033,2305
+2024,"Delmenhorst, Stadt",80 und älter,K03401,220
+2024,"Emden, Stadt",80 und älter,K03402,65
+2024,"Oldenburg (Oldb), Stadt",80 und älter,K03403,260
+2024,"Osnabrück, Stadt",80 und älter,K03404,630
+2024,"Wilhelmshaven, Stadt",80 und älter,K03405,125
+2024,"Ammerland",80 und älter,K03451,130
+2024,"Aurich",80 und älter,K03452,140
+2024,"Cloppenburg",80 und älter,K03453,125
+2024,"Emsland",80 und älter,K03454,515
+2024,"Friesland",80 und älter,K03455,105
+2024,"Grafschaft Bentheim",80 und älter,K03456,810
+2024,"Leer",80 und älter,K03457,245
+2024,"Oldenburg",80 und älter,K03458,115
+2024,"Osnabrück",80 und älter,K03459,555
+2024,"Vechta",80 und älter,K03460,190
+2024,"Wesermarsch",80 und älter,K03461,165
+2024,"Wittmund",80 und älter,K03462,40
+2024,"Statistische Region Weser-Ems",80 und älter,K034,4435
+2024,"Niedersachsen",80 und älter,,18660
 2023,"Braunschweig, Stadt",Insgesamt,K03101,36655
 2023,"Salzgitter, Stadt",Insgesamt,K03102,24930
 2023,"Wolfsburg, Stadt",Insgesamt,K03103,25290
