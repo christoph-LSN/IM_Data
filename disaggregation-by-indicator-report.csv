@@ -52,7 +52,7 @@ Indicator,Disaggregations,Number of disaggregations
 #5-3-3,"Kategorie, Altersgruppe, Geschlecht",3
 #5-3-4,"Geschlecht, Migrationsstatus, Rechtskreis, Migrationserfahrung",4
 #6-1-1,"Gebietseinheit, Nationalität / Migrationshintergrund",2
-#6-2-1,"Gebietseinheit, Nationalität",2
+#6-2-1,"Gebietseinheit, Kategorie, Nationalität",3
 #6-2-2,"Gebietseinheit, Altersgruppe, Nationalität",3
 #6-3-1,"Migrationsstatus, Überwiegender Lebensunterhalt",2
 #6-3-2,"Migrationsstatus, Haushaltsnettoeinkommen, Haushaltsgröße",3
