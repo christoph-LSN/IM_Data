@@ -79,18 +79,6 @@
             "title": "Gebietseinheit"
           },
           {
-            "name": "Kategorie",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Empfängerinnen und Empfänger",
-                "Quote je 1000 Einwohnerinnen und Einwohner der betreffenden Bevölkerungsgruppe",
-                ""
-              ]
-            },
-            "title": "Kategorie"
-          },
-          {
             "name": "Nationalität",
             "type": "string",
             "constraints": {
