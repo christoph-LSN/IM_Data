@@ -1,4 +1,154 @@
 ﻿Year,Gebietseinheit,Geschlecht,Befristung,Units,GeoCode,Value
+2025,"Braunschweig, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03101,4020
+2025,"Braunschweig, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03101,4035
+2025,"Braunschweig, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03101,8055
+2025,"Salzgitter, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03102,3040
+2025,"Salzgitter, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03102,2830
+2025,"Salzgitter, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03102,5870
+2025,"Wolfsburg, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03103,1675
+2025,"Wolfsburg, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03103,1610
+2025,"Wolfsburg, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03103,3285
+2025,"Gifhorn",männlich,zeitlich unbefristet,Anzahl,RH03151,1400
+2025,"Gifhorn",weiblich,zeitlich unbefristet,Anzahl,RH03151,1555
+2025,"Gifhorn",insgesamt,zeitlich unbefristet,Anzahl,RH03151,2955
+2025,"Goslar",männlich,zeitlich unbefristet,Anzahl,RH03153,1040
+2025,"Goslar",weiblich,zeitlich unbefristet,Anzahl,RH03153,1100
+2025,"Goslar",insgesamt,zeitlich unbefristet,Anzahl,RH03153,2140
+2025,"Helmstedt",männlich,zeitlich unbefristet,Anzahl,RH03154,780
+2025,"Helmstedt",weiblich,zeitlich unbefristet,Anzahl,RH03154,765
+2025,"Helmstedt",insgesamt,zeitlich unbefristet,Anzahl,RH03154,1545
+2025,"Northeim",männlich,zeitlich unbefristet,Anzahl,RH03155,800
+2025,"Northeim",weiblich,zeitlich unbefristet,Anzahl,RH03155,825
+2025,"Northeim",insgesamt,zeitlich unbefristet,Anzahl,RH03155,1625
+2025,"Peine",männlich,zeitlich unbefristet,Anzahl,RH03157,1460
+2025,"Peine",weiblich,zeitlich unbefristet,Anzahl,RH03157,1450
+2025,"Peine",insgesamt,zeitlich unbefristet,Anzahl,RH03157,2910
+2025,"Wolfenbüttel",männlich,zeitlich unbefristet,Anzahl,RH03158,745
+2025,"Wolfenbüttel",weiblich,zeitlich unbefristet,Anzahl,RH03158,815
+2025,"Wolfenbüttel",insgesamt,zeitlich unbefristet,Anzahl,RH03158,1565
+2025,"Göttingen",männlich,zeitlich unbefristet,Anzahl,RH03159,3090
+2025,"Göttingen",weiblich,zeitlich unbefristet,Anzahl,RH03159,3340
+2025,"Göttingen",insgesamt,zeitlich unbefristet,Anzahl,RH03159,6430
+2025,"Statistische Region Braunschweig",männlich,zeitlich unbefristet,Anzahl,RH031,18055
+2025,"Statistische Region Braunschweig",weiblich,zeitlich unbefristet,Anzahl,RH031,18330
+2025,"Statistische Region Braunschweig",insgesamt,zeitlich unbefristet,Anzahl,RH031,36385
+2025,"Region Hannover",männlich,zeitlich unbefristet,Anzahl,RH03241,24940
+2025,"Region Hannover",weiblich,zeitlich unbefristet,Anzahl,RH03241,24715
+2025,"Region Hannover",insgesamt,zeitlich unbefristet,Anzahl,RH03241,49655
+2025,"Diepholz",männlich,zeitlich unbefristet,Anzahl,RH03251,1605
+2025,"Diepholz",weiblich,zeitlich unbefristet,Anzahl,RH03251,1800
+2025,"Diepholz",insgesamt,zeitlich unbefristet,Anzahl,RH03251,3405
+2025,"Hameln-Pyrmont",männlich,zeitlich unbefristet,Anzahl,RH03252,2445
+2025,"Hameln-Pyrmont",weiblich,zeitlich unbefristet,Anzahl,RH03252,2320
+2025,"Hameln-Pyrmont",insgesamt,zeitlich unbefristet,Anzahl,RH03252,4765
+2025,"Hildesheim",männlich,zeitlich unbefristet,Anzahl,RH03254,2550
+2025,"Hildesheim",weiblich,zeitlich unbefristet,Anzahl,RH03254,2630
+2025,"Hildesheim",insgesamt,zeitlich unbefristet,Anzahl,RH03254,5175
+2025,"Holzminden",männlich,zeitlich unbefristet,Anzahl,RH03255,860
+2025,"Holzminden",weiblich,zeitlich unbefristet,Anzahl,RH03255,760
+2025,"Holzminden",insgesamt,zeitlich unbefristet,Anzahl,RH03255,1625
+2025,"Nienburg (Weser)",männlich,zeitlich unbefristet,Anzahl,RH03256,910
+2025,"Nienburg (Weser)",weiblich,zeitlich unbefristet,Anzahl,RH03256,945
+2025,"Nienburg (Weser)",insgesamt,zeitlich unbefristet,Anzahl,RH03256,1855
+2025,"Schaumburg",männlich,zeitlich unbefristet,Anzahl,RH03257,1535
+2025,"Schaumburg",weiblich,zeitlich unbefristet,Anzahl,RH03257,1525
+2025,"Schaumburg",insgesamt,zeitlich unbefristet,Anzahl,RH03257,3060
+2025,"Statistische Region Hannover",männlich,zeitlich unbefristet,Anzahl,RH032,34840
+2025,"Statistische Region Hannover",weiblich,zeitlich unbefristet,Anzahl,RH032,34700
+2025,"Statistische Region Hannover",insgesamt,zeitlich unbefristet,Anzahl,RH032,69545
+2025,"Celle",männlich,zeitlich unbefristet,Anzahl,RH03351,1140
+2025,"Celle",weiblich,zeitlich unbefristet,Anzahl,RH03351,1295
+2025,"Celle",insgesamt,zeitlich unbefristet,Anzahl,RH03351,2435
+2025,"Cuxhaven",männlich,zeitlich unbefristet,Anzahl,RH03352,935
+2025,"Cuxhaven",weiblich,zeitlich unbefristet,Anzahl,RH03352,1050
+2025,"Cuxhaven",insgesamt,zeitlich unbefristet,Anzahl,RH03352,1985
+2025,"Harburg",männlich,zeitlich unbefristet,Anzahl,RH03353,2075
+2025,"Harburg",weiblich,zeitlich unbefristet,Anzahl,RH03353,1960
+2025,"Harburg",insgesamt,zeitlich unbefristet,Anzahl,RH03353,4035
+2025,"Lüchow-Dannenberg",männlich,zeitlich unbefristet,Anzahl,RH03354,165
+2025,"Lüchow-Dannenberg",weiblich,zeitlich unbefristet,Anzahl,RH03354,175
+2025,"Lüchow-Dannenberg",insgesamt,zeitlich unbefristet,Anzahl,RH03354,340
+2025,"Lüneburg",männlich,zeitlich unbefristet,Anzahl,RH03355,970
+2025,"Lüneburg",weiblich,zeitlich unbefristet,Anzahl,RH03355,1060
+2025,"Lüneburg",insgesamt,zeitlich unbefristet,Anzahl,RH03355,2030
+2025,"Osterholz",männlich,zeitlich unbefristet,Anzahl,RH03356,720
+2025,"Osterholz",weiblich,zeitlich unbefristet,Anzahl,RH03356,785
+2025,"Osterholz",insgesamt,zeitlich unbefristet,Anzahl,RH03356,1505
+2025,"Rotenburg (Wümme)",männlich,zeitlich unbefristet,Anzahl,RH03357,945
+2025,"Rotenburg (Wümme)",weiblich,zeitlich unbefristet,Anzahl,RH03357,1025
+2025,"Rotenburg (Wümme)",insgesamt,zeitlich unbefristet,Anzahl,RH03357,1975
+2025,"Heidekreis",männlich,zeitlich unbefristet,Anzahl,RH03358,1010
+2025,"Heidekreis",weiblich,zeitlich unbefristet,Anzahl,RH03358,1025
+2025,"Heidekreis",insgesamt,zeitlich unbefristet,Anzahl,RH03358,2035
+2025,"Stade",männlich,zeitlich unbefristet,Anzahl,RH03359,1495
+2025,"Stade",weiblich,zeitlich unbefristet,Anzahl,RH03359,1560
+2025,"Stade",insgesamt,zeitlich unbefristet,Anzahl,RH03359,3055
+2025,"Uelzen",männlich,zeitlich unbefristet,Anzahl,RH03360,460
+2025,"Uelzen",weiblich,zeitlich unbefristet,Anzahl,RH03360,545
+2025,"Uelzen",insgesamt,zeitlich unbefristet,Anzahl,RH03360,1005
+2025,"Verden",männlich,zeitlich unbefristet,Anzahl,RH03361,1525
+2025,"Verden",weiblich,zeitlich unbefristet,Anzahl,RH03361,1510
+2025,"Verden",insgesamt,zeitlich unbefristet,Anzahl,RH03361,3035
+2025,"Statistische Region Lüneburg",männlich,zeitlich unbefristet,Anzahl,RH033,11445
+2025,"Statistische Region Lüneburg",weiblich,zeitlich unbefristet,Anzahl,RH033,11995
+2025,"Statistische Region Lüneburg",insgesamt,zeitlich unbefristet,Anzahl,RH033,23435
+2025,"Delmenhorst, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03401,1675
+2025,"Delmenhorst, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03401,1590
+2025,"Delmenhorst, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03401,3265
+2025,"Emden, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03402,295
+2025,"Emden, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03402,290
+2025,"Emden, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03402,585
+2025,"Oldenburg (Oldb), Stadt",männlich,zeitlich unbefristet,Anzahl,RH03403,1835
+2025,"Oldenburg (Oldb), Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03403,1805
+2025,"Oldenburg (Oldb), Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03403,3640
+2025,"Osnabrück, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03404,2970
+2025,"Osnabrück, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03404,2860
+2025,"Osnabrück, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03404,5825
+2025,"Wilhelmshaven, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03405,565
+2025,"Wilhelmshaven, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03405,580
+2025,"Wilhelmshaven, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03405,1145
+2025,"Ammerland",männlich,zeitlich unbefristet,Anzahl,RH03451,620
+2025,"Ammerland",weiblich,zeitlich unbefristet,Anzahl,RH03451,690
+2025,"Ammerland",insgesamt,zeitlich unbefristet,Anzahl,RH03451,1310
+2025,"Aurich",männlich,zeitlich unbefristet,Anzahl,RH03452,605
+2025,"Aurich",weiblich,zeitlich unbefristet,Anzahl,RH03452,550
+2025,"Aurich",insgesamt,zeitlich unbefristet,Anzahl,RH03452,1155
+2025,"Cloppenburg",männlich,zeitlich unbefristet,Anzahl,RH03453,1295
+2025,"Cloppenburg",weiblich,zeitlich unbefristet,Anzahl,RH03453,1295
+2025,"Cloppenburg",insgesamt,zeitlich unbefristet,Anzahl,RH03453,2585
+2025,"Emsland",männlich,zeitlich unbefristet,Anzahl,RH03454,1950
+2025,"Emsland",weiblich,zeitlich unbefristet,Anzahl,RH03454,1955
+2025,"Emsland",insgesamt,zeitlich unbefristet,Anzahl,RH03454,3910
+2025,"Friesland",männlich,zeitlich unbefristet,Anzahl,RH03455,325
+2025,"Friesland",weiblich,zeitlich unbefristet,Anzahl,RH03455,360
+2025,"Friesland",insgesamt,zeitlich unbefristet,Anzahl,RH03455,690
+2025,"Grafschaft Bentheim",männlich,zeitlich unbefristet,Anzahl,RH03456,985
+2025,"Grafschaft Bentheim",weiblich,zeitlich unbefristet,Anzahl,RH03456,1005
+2025,"Grafschaft Bentheim",insgesamt,zeitlich unbefristet,Anzahl,RH03456,1990
+2025,"Leer",männlich,zeitlich unbefristet,Anzahl,RH03457,895
+2025,"Leer",weiblich,zeitlich unbefristet,Anzahl,RH03457,840
+2025,"Leer",insgesamt,zeitlich unbefristet,Anzahl,RH03457,1735
+2025,"Oldenburg",männlich,zeitlich unbefristet,Anzahl,RH03458,685
+2025,"Oldenburg",weiblich,zeitlich unbefristet,Anzahl,RH03458,735
+2025,"Oldenburg",insgesamt,zeitlich unbefristet,Anzahl,RH03458,1425
+2025,"Osnabrück",männlich,zeitlich unbefristet,Anzahl,RH03459,2785
+2025,"Osnabrück",weiblich,zeitlich unbefristet,Anzahl,RH03459,3020
+2025,"Osnabrück",insgesamt,zeitlich unbefristet,Anzahl,RH03459,5805
+2025,"Vechta",männlich,zeitlich unbefristet,Anzahl,RH03460,1660
+2025,"Vechta",weiblich,zeitlich unbefristet,Anzahl,RH03460,1700
+2025,"Vechta",insgesamt,zeitlich unbefristet,Anzahl,RH03460,3360
+2025,"Wesermarsch",männlich,zeitlich unbefristet,Anzahl,RH03461,710
+2025,"Wesermarsch",weiblich,zeitlich unbefristet,Anzahl,RH03461,770
+2025,"Wesermarsch",insgesamt,zeitlich unbefristet,Anzahl,RH03461,1475
+2025,"Wittmund",männlich,zeitlich unbefristet,Anzahl,RH03462,200
+2025,"Wittmund",weiblich,zeitlich unbefristet,Anzahl,RH03462,185
+2025,"Wittmund",insgesamt,zeitlich unbefristet,Anzahl,RH03462,385
+2025,"Statistische Region Weser-Ems",männlich,zeitlich unbefristet,Anzahl,RH034,20055
+2025,"Statistische Region Weser-Ems",weiblich,zeitlich unbefristet,Anzahl,RH034,20225
+2025,"Statistische Region Weser-Ems",insgesamt,zeitlich unbefristet,Anzahl,RH034,40280
+2025,"Niedersachsen",männlich,zeitlich unbefristet,Anzahl,RH030,84395
+2025,"Niedersachsen",weiblich,zeitlich unbefristet,Anzahl,RH030,85250
+2025,"Niedersachsen",insgesamt,zeitlich unbefristet,Anzahl,RH030,169645
 2024,"Braunschweig, Stadt",männlich,zeitlich unbefristet,Anzahl,RH03101,4160
 2024,"Braunschweig, Stadt",weiblich,zeitlich unbefristet,Anzahl,RH03101,4105
 2024,"Braunschweig, Stadt",insgesamt,zeitlich unbefristet,Anzahl,RH03101,8265
