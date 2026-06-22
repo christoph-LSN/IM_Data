@@ -340,7 +340,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "number"
           },
           {
             "name": "Gebietseinheit",
@@ -418,7 +418,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Kein Aufenthaltstitel nach nationalem Recht erforderlich\"\"",
+                "Kein Aufenthaltstitel nach nationalem Recht erforderlich",
                 "Aufenthaltstitel nach nationalem Recht erforderlich",
                 "Ohne Aufenthalstitel",
                 "Anteil der Ausländerinnen und Ausländer, die keinen Aufenthaltstitel benötigen",
