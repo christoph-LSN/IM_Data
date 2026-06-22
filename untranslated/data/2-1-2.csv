@@ -2399,6 +2399,156 @@ Year,Gebietseinheit,Geschlecht,Kategorie,Units,GeoCode,Value
 2010,Niedersachsen,männlich,Aufenthaltsrecht nach FreizügG/EU,Prozent,RH030,40.5918267492076
 2010,Niedersachsen,weiblich,Aufenthaltsrecht nach FreizügG/EU,Prozent,RH030,36.7784152025816
 2010,Niedersachsen,insgesamt,Aufenthaltsrecht nach FreizügG/EU,Prozent,RH030,38.7357990199823
+2025,"Braunschweig, Stadt",männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03101,0.0532623169107856
+2025,"Braunschweig, Stadt",weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03101,0.0
+2025,"Braunschweig, Stadt",insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03101,0.0274876305662452
+2025,"Salzgitter, Stadt",männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03102,0.0369959304476508
+2025,"Salzgitter, Stadt",weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03102,0.0429184549356223
+2025,"Salzgitter, Stadt",insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03102,0.0397298371076679
+2025,"Wolfsburg, Stadt",männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03103,0.0
+2025,"Wolfsburg, Stadt",weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03103,0.0
+2025,"Wolfsburg, Stadt",insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03103,0.0192715359414145
+2025,Gifhorn,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03151,0.0530503978779841
+2025,Gifhorn,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03151,0.0591366055588409
+2025,Gifhorn,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03151,0.0559284116331096
+2025,Goslar,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03153,0.0
+2025,Goslar,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03153,0.0
+2025,Goslar,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03153,0.0
+2025,Helmstedt,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03154,0.101522842639594
+2025,Helmstedt,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03154,0.0
+2025,Helmstedt,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03154,0.0526592943654555
+2025,Northeim,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03155,0.0
+2025,Northeim,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03155,0.0
+2025,Northeim,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03155,0.0
+2025,Peine,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03157,0.0
+2025,Peine,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03157,0.0
+2025,Peine,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03157,0.0
+2025,Wolfenbüttel,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03158,0.0846740050804403
+2025,Wolfenbüttel,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03158,0.0
+2025,Wolfenbüttel,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03158,0.045024763619991
+2025,Göttingen,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03159,0.047744091668656
+2025,Göttingen,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03159,0.0243546030199708
+2025,Göttingen,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03159,0.0361663652802893
+2025,Statistische Region Braunschweig,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH031,0.0356474467516264
+2025,Statistische Region Braunschweig,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH031,0.0194979283451133
+2025,Statistische Region Braunschweig,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH031,0.0279349116558419
+2025,Region Hannover,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03241,0.0509987250318742
+2025,Region Hannover,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03241,0.027311211252219
+2025,Region Hannover,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03241,0.0395613090397591
+2025,Diepholz,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03251,0.0
+2025,Diepholz,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03251,0.0
+2025,Diepholz,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03251,0.0
+2025,Hameln-Pyrmont,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03252,0.0
+2025,Hameln-Pyrmont,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03252,0.0
+2025,Hameln-Pyrmont,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03252,0.0
+2025,Hildesheim,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03254,0.0570776255707763
+2025,Hildesheim,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03254,0.0
+2025,Hildesheim,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03254,0.0299580587177951
+2025,Holzminden,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03255,0.0
+2025,Holzminden,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03255,0.0
+2025,Holzminden,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03255,0.0
+2025,Nienburg (Weser),männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03256,0.0671140939597315
+2025,Nienburg (Weser),weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03256,0.0
+2025,Nienburg (Weser),insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03256,0.0348553502962705
+2025,Schaumburg,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03257,0.0
+2025,Schaumburg,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03257,0.0
+2025,Schaumburg,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03257,0.0263852242744063
+2025,Statistische Region Hannover,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH032,0.041466246475369
+2025,Statistische Region Hannover,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH032,0.0207616561869735
+2025,Statistische Region Hannover,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH032,0.032908856774932
+2025,Celle,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03351,0.0
+2025,Celle,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03351,0.0
+2025,Celle,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03351,0.0268024658268561
+2025,Cuxhaven,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03352,0.0
+2025,Cuxhaven,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03352,0.0
+2025,Cuxhaven,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03352,0.0
+2025,Harburg,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03353,0.0550509221029452
+2025,Harburg,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03353,0.0751032669921142
+2025,Harburg,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03353,0.0635324015247776
+2025,Lüchow-Dannenberg,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03354,0.0
+2025,Lüchow-Dannenberg,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03354,0.0
+2025,Lüchow-Dannenberg,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03354,0.0
+2025,Lüneburg,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03355,0.0
+2025,Lüneburg,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03355,0.0
+2025,Lüneburg,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03355,0.0
+2025,Osterholz,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03356,0.0
+2025,Osterholz,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03356,0.0
+2025,Osterholz,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03356,0.0
+2025,Rotenburg (Wümme),männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03357,0.0
+2025,Rotenburg (Wümme),weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03357,0.0640614990390775
+2025,Rotenburg (Wümme),insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03357,0.0294811320754717
+2025,Heidekreis,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03358,0.124921923797626
+2025,Heidekreis,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03358,0.0
+2025,Heidekreis,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03358,0.0647668393782384
+2025,Stade,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03359,0.0348068221371389
+2025,Stade,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03359,0.0401606425702811
+2025,Stade,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03359,0.0186462800671266
+2025,Uelzen,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03360,0.0
+2025,Uelzen,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03360,0.0
+2025,Uelzen,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03360,0.0
+2025,Verden,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03361,0.0
+2025,Verden,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03361,0.0
+2025,Verden,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03361,0.0
+2025,Statistische Region Lüneburg,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH033,0.0312597686777118
+2025,Statistische Region Lüneburg,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH033,0.0236085699108776
+2025,Statistische Region Lüneburg,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH033,0.0276717029165975
+2025,"Delmenhorst, Stadt",männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03401,0.0595238095238095
+2025,"Delmenhorst, Stadt",weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03401,0.0
+2025,"Delmenhorst, Stadt",insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03401,0.0302480338777979
+2025,"Emden, Stadt",männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03402,0.0
+2025,"Emden, Stadt",weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03402,0.0
+2025,"Emden, Stadt",insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03402,0.0
+2025,"Oldenburg (Oldb), Stadt",männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03403,0.0419287211740042
+2025,"Oldenburg (Oldb), Stadt",weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03403,0.0
+2025,"Oldenburg (Oldb), Stadt",insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03403,0.0209205020920502
+2025,"Osnabrück, Stadt",männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03404,0.0312402374258044
+2025,"Osnabrück, Stadt",weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03404,0.0329055610398157
+2025,"Osnabrück, Stadt",insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03404,0.032051282051282
+2025,"Wilhelmshaven, Stadt",männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03405,0.0
+2025,"Wilhelmshaven, Stadt",weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03405,0.0
+2025,"Wilhelmshaven, Stadt",insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03405,0.0
+2025,Ammerland,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03451,0.0
+2025,Ammerland,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03451,0.0
+2025,Ammerland,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03451,0.0426621160409556
+2025,Aurich,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03452,0.0
+2025,Aurich,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03452,0.0
+2025,Aurich,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03452,0.0
+2025,Cloppenburg,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03453,0.0
+2025,Cloppenburg,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03453,0.0
+2025,Cloppenburg,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03453,0.0
+2025,Emsland,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03454,0.0166472448809722
+2025,Emsland,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03454,0.0
+2025,Emsland,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03454,0.00950389659760502
+2025,Friesland,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03455,0.139470013947001
+2025,Friesland,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03455,0.148809523809524
+2025,Friesland,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03455,0.143988480921526
+2025,Grafschaft Bentheim,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03456,0.0355492356914326
+2025,Grafschaft Bentheim,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03456,0.0412201154163232
+2025,Grafschaft Bentheim,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03456,0.0381752242794426
+2025,Leer,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03457,0.0
+2025,Leer,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03457,0.0
+2025,Leer,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03457,0.0
+2025,Oldenburg,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03458,0.0
+2025,Oldenburg,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03458,0.0
+2025,Oldenburg,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03458,0.0328839197632358
+2025,Osnabrück,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03459,0.0894054537326777
+2025,Osnabrück,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03459,0.0502260170768458
+2025,Osnabrück,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03459,0.0709555345316935
+2025,Vechta,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03460,0.0
+2025,Vechta,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03460,0.0
+2025,Vechta,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03460,0.0201816347124117
+2025,Wesermarsch,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03461,0.0885739592559787
+2025,Wesermarsch,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03461,0.208986415882968
+2025,Wesermarsch,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03461,0.143815915627996
+2025,Wittmund,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03462,0.0
+2025,Wittmund,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03462,0.0
+2025,Wittmund,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03462,0.0
+2025,Statistische Region Weser-Ems,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH034,0.032157787544217
+2025,Statistische Region Weser-Ems,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH034,0.0278456730917979
+2025,Statistische Region Weser-Ems,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH034,0.0315924005916395
+2025,Niedersachsen,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH030,0.0364817678022341
+2025,Niedersachsen,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH030,0.0241555229187601
+2025,Niedersachsen,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH030,0.0306465040114902
 2024,"Braunschweig, Stadt",männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03101,0.0532623169107856
 2024,"Braunschweig, Stadt",weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03101,0.0
 2024,"Braunschweig, Stadt",insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH03101,0.0274876305662452
@@ -4649,6 +4799,156 @@ Year,Gebietseinheit,Geschlecht,Kategorie,Units,GeoCode,Value
 2010,Niedersachsen,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH030,0.172314761631246
 2010,Niedersachsen,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH030,0.12325206167085
 2010,Niedersachsen,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Prozent,RH030,0.148421385775556
+2025,"Braunschweig, Stadt",männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03101,4555.0
+2025,"Braunschweig, Stadt",weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03101,4330.0
+2025,"Braunschweig, Stadt",insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03101,8880.0
+2025,"Salzgitter, Stadt",männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03102,4310.0
+2025,"Salzgitter, Stadt",weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03102,3395.0
+2025,"Salzgitter, Stadt",insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03102,7705.0
+2025,"Wolfsburg, Stadt",männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03103,5120.0
+2025,"Wolfsburg, Stadt",weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03103,4360.0
+2025,"Wolfsburg, Stadt",insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03103,9480.0
+2025,Gifhorn,männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03151,3180.0
+2025,Gifhorn,weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03151,2560.0
+2025,Gifhorn,insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03151,5740.0
+2025,Goslar,männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03153,2360.0
+2025,Goslar,weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03153,2015.0
+2025,Goslar,insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03153,4380.0
+2025,Helmstedt,männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03154,1770.0
+2025,Helmstedt,weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03154,1455.0
+2025,Helmstedt,insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03154,3225.0
+2025,Northeim,männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03155,2260.0
+2025,Northeim,weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03155,1845.0
+2025,Northeim,insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03155,4105.0
+2025,Peine,männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03157,2695.0
+2025,Peine,weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03157,2215.0
+2025,Peine,insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03157,4915.0
+2025,Wolfenbüttel,männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03158,1365.0
+2025,Wolfenbüttel,weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03158,1190.0
+2025,Wolfenbüttel,insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03158,2550.0
+2025,Göttingen,männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03159,6050.0
+2025,Göttingen,weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03159,5725.0
+2025,Göttingen,insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03159,11770.0
+2025,Statistische Region Braunschweig,männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH031,33660.0
+2025,Statistische Region Braunschweig,weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH031,29090.0
+2025,Statistische Region Braunschweig,insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH031,62750.0
+2025,Region Hannover,männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03241,37310.0
+2025,Region Hannover,weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03241,33325.0
+2025,Region Hannover,insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03241,70635.0
+2025,Diepholz,männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03251,5715.0
+2025,Diepholz,weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03251,4740.0
+2025,Diepholz,insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03251,10455.0
+2025,Hameln-Pyrmont,männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03252,3275.0
+2025,Hameln-Pyrmont,weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03252,2860.0
+2025,Hameln-Pyrmont,insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03252,6140.0
+2025,Hildesheim,männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03254,5010.0
+2025,Hildesheim,weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03254,4375.0
+2025,Hildesheim,insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03254,9385.0
+2025,Holzminden,männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03255,745.0
+2025,Holzminden,weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03255,670.0
+2025,Holzminden,insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03255,1415.0
+2025,Nienburg (Weser),männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03256,2610.0
+2025,Nienburg (Weser),weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03256,1895.0
+2025,Nienburg (Weser),insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03256,4505.0
+2025,Schaumburg,männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03257,3360.0
+2025,Schaumburg,weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03257,2705.0
+2025,Schaumburg,insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03257,6065.0
+2025,Statistische Region Hannover,männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH032,58015.0
+2025,Statistische Region Hannover,weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH032,50575.0
+2025,Statistische Region Hannover,insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH032,108595.0
+2025,Celle,männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03351,3340.0
+2025,Celle,weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03351,2850.0
+2025,Celle,insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03351,6190.0
+2025,Cuxhaven,männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03352,3500.0
+2025,Cuxhaven,weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03352,3015.0
+2025,Cuxhaven,insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03352,6515.0
+2025,Harburg,männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03353,6725.0
+2025,Harburg,weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03353,5470.0
+2025,Harburg,insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03353,12195.0
+2025,Lüchow-Dannenberg,männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03354,755.0
+2025,Lüchow-Dannenberg,weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03354,645.0
+2025,Lüchow-Dannenberg,insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03354,1400.0
+2025,Lüneburg,männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03355,2395.0
+2025,Lüneburg,weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03355,2030.0
+2025,Lüneburg,insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03355,4425.0
+2025,Osterholz,männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03356,1240.0
+2025,Osterholz,weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03356,1195.0
+2025,Osterholz,insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03356,2435.0
+2025,Rotenburg (Wümme),männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03357,3600.0
+2025,Rotenburg (Wümme),weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03357,2750.0
+2025,Rotenburg (Wümme),insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03357,6350.0
+2025,Heidekreis,männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03358,3705.0
+2025,Heidekreis,weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03358,2940.0
+2025,Heidekreis,insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03358,6645.0
+2025,Stade,männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03359,5955.0
+2025,Stade,weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03359,4710.0
+2025,Stade,insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03359,10670.0
+2025,Uelzen,männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03360,1320.0
+2025,Uelzen,weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03360,1185.0
+2025,Uelzen,insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03360,2505.0
+2025,Verden,männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03361,2495.0
+2025,Verden,weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03361,2130.0
+2025,Verden,insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03361,4625.0
+2025,Statistische Region Lüneburg,männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH033,35040.0
+2025,Statistische Region Lüneburg,weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH033,28915.0
+2025,Statistische Region Lüneburg,insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH033,63955.0
+2025,"Delmenhorst, Stadt",männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03401,3310.0
+2025,"Delmenhorst, Stadt",weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03401,3170.0
+2025,"Delmenhorst, Stadt",insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03401,6480.0
+2025,"Emden, Stadt",männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03402,1575.0
+2025,"Emden, Stadt",weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03402,1160.0
+2025,"Emden, Stadt",insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03402,2730.0
+2025,"Oldenburg (Oldb), Stadt",männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03403,3215.0
+2025,"Oldenburg (Oldb), Stadt",weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03403,3110.0
+2025,"Oldenburg (Oldb), Stadt",insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03403,6325.0
+2025,"Osnabrück, Stadt",männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03404,5365.0
+2025,"Osnabrück, Stadt",weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03404,4940.0
+2025,"Osnabrück, Stadt",insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03404,10305.0
+2025,"Wilhelmshaven, Stadt",männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03405,2030.0
+2025,"Wilhelmshaven, Stadt",weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03405,1380.0
+2025,"Wilhelmshaven, Stadt",insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03405,3405.0
+2025,Ammerland,männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03451,2060.0
+2025,Ammerland,weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03451,1695.0
+2025,Ammerland,insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03451,3755.0
+2025,Aurich,männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03452,2850.0
+2025,Aurich,weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03452,2405.0
+2025,Aurich,insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03452,5255.0
+2025,Cloppenburg,männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03453,9060.0
+2025,Cloppenburg,weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03453,6715.0
+2025,Cloppenburg,insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03453,15775.0
+2025,Emsland,männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03454,18065.0
+2025,Emsland,weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03454,12480.0
+2025,Emsland,insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03454,30545.0
+2025,Friesland,männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03455,975.0
+2025,Friesland,weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03455,820.0
+2025,Friesland,insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03455,1795.0
+2025,Grafschaft Bentheim,männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03456,9410.0
+2025,Grafschaft Bentheim,weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03456,7650.0
+2025,Grafschaft Bentheim,insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03456,17060.0
+2025,Leer,männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03457,4510.0
+2025,Leer,weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03457,3475.0
+2025,Leer,insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03457,7985.0
+2025,Oldenburg,männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03458,4435.0
+2025,Oldenburg,weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03458,3510.0
+2025,Oldenburg,insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03458,7945.0
+2025,Osnabrück,männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03459,12490.0
+2025,Osnabrück,weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03459,9810.0
+2025,Osnabrück,insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03459,22300.0
+2025,Vechta,männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03460,6635.0
+2025,Vechta,weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03460,5300.0
+2025,Vechta,insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03460,11935.0
+2025,Wesermarsch,männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03461,2260.0
+2025,Wesermarsch,weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03461,1680.0
+2025,Wesermarsch,insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03461,3940.0
+2025,Wittmund,männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03462,705.0
+2025,Wittmund,weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03462,675.0
+2025,Wittmund,insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03462,1375.0
+2025,Statistische Region Weser-Ems,männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH034,88950.0
+2025,Statistische Region Weser-Ems,weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH034,69960.0
+2025,Statistische Region Weser-Ems,insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH034,158910.0
+2025,Niedersachsen,männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH030,215670.0
+2025,Niedersachsen,weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH030,178545.0
+2025,Niedersachsen,insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH030,394210.0
 2024,"Braunschweig, Stadt",männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03101,4555.0
 2024,"Braunschweig, Stadt",weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03101,4330.0
 2024,"Braunschweig, Stadt",insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH03101,8880.0
@@ -6899,6 +7199,156 @@ Year,Gebietseinheit,Geschlecht,Kategorie,Units,GeoCode,Value
 2010,Niedersachsen,männlich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH030,95405.0
 2010,Niedersachsen,weiblich,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH030,82060.0
 2010,Niedersachsen,insgesamt,Aufenthaltsrecht nach FreizügG/EU,Anzahl,RH030,177470.0
+2025,"Braunschweig, Stadt",männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03101,10.0
+2025,"Braunschweig, Stadt",weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03101,0.0
+2025,"Braunschweig, Stadt",insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03101,10.0
+2025,"Salzgitter, Stadt",männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03102,5.0
+2025,"Salzgitter, Stadt",weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03102,5.0
+2025,"Salzgitter, Stadt",insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03102,10.0
+2025,"Wolfsburg, Stadt",männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03103,0.0
+2025,"Wolfsburg, Stadt",weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03103,0.0
+2025,"Wolfsburg, Stadt",insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03103,5.0
+2025,Gifhorn,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03151,5.0
+2025,Gifhorn,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03151,5.0
+2025,Gifhorn,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03151,10.0
+2025,Goslar,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03153,0.0
+2025,Goslar,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03153,0.0
+2025,Goslar,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03153,0.0
+2025,Helmstedt,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03154,5.0
+2025,Helmstedt,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03154,0.0
+2025,Helmstedt,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03154,5.0
+2025,Northeim,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03155,0.0
+2025,Northeim,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03155,0.0
+2025,Northeim,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03155,0.0
+2025,Peine,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03157,0.0
+2025,Peine,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03157,0.0
+2025,Peine,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03157,0.0
+2025,Wolfenbüttel,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03158,5.0
+2025,Wolfenbüttel,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03158,0.0
+2025,Wolfenbüttel,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03158,5.0
+2025,Göttingen,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03159,10.0
+2025,Göttingen,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03159,5.0
+2025,Göttingen,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03159,15.0
+2025,Statistische Region Braunschweig,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH031,40.0
+2025,Statistische Region Braunschweig,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH031,20.0
+2025,Statistische Region Braunschweig,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH031,60.0
+2025,Region Hannover,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03241,60.0
+2025,Region Hannover,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03241,30.0
+2025,Region Hannover,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03241,90.0
+2025,Diepholz,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03251,0.0
+2025,Diepholz,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03251,0.0
+2025,Diepholz,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03251,0.0
+2025,Hameln-Pyrmont,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03252,0.0
+2025,Hameln-Pyrmont,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03252,0.0
+2025,Hameln-Pyrmont,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03252,0.0
+2025,Hildesheim,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03254,10.0
+2025,Hildesheim,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03254,0.0
+2025,Hildesheim,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03254,10.0
+2025,Holzminden,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03255,0.0
+2025,Holzminden,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03255,0.0
+2025,Holzminden,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03255,0.0
+2025,Nienburg (Weser),männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03256,5.0
+2025,Nienburg (Weser),weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03256,0.0
+2025,Nienburg (Weser),insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03256,5.0
+2025,Schaumburg,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03257,0.0
+2025,Schaumburg,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03257,0.0
+2025,Schaumburg,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03257,5.0
+2025,Statistische Region Hannover,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH032,75.0
+2025,Statistische Region Hannover,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH032,35.0
+2025,Statistische Region Hannover,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH032,115.0
+2025,Celle,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03351,0.0
+2025,Celle,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03351,0.0
+2025,Celle,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03351,5.0
+2025,Cuxhaven,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03352,0.0
+2025,Cuxhaven,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03352,0.0
+2025,Cuxhaven,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03352,0.0
+2025,Harburg,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03353,10.0
+2025,Harburg,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03353,10.0
+2025,Harburg,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03353,20.0
+2025,Lüchow-Dannenberg,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03354,0.0
+2025,Lüchow-Dannenberg,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03354,0.0
+2025,Lüchow-Dannenberg,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03354,0.0
+2025,Lüneburg,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03355,0.0
+2025,Lüneburg,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03355,0.0
+2025,Lüneburg,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03355,0.0
+2025,Osterholz,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03356,0.0
+2025,Osterholz,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03356,0.0
+2025,Osterholz,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03356,0.0
+2025,Rotenburg (Wümme),männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03357,0.0
+2025,Rotenburg (Wümme),weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03357,5.0
+2025,Rotenburg (Wümme),insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03357,5.0
+2025,Heidekreis,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03358,10.0
+2025,Heidekreis,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03358,0.0
+2025,Heidekreis,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03358,10.0
+2025,Stade,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03359,5.0
+2025,Stade,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03359,5.0
+2025,Stade,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03359,5.0
+2025,Uelzen,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03360,0.0
+2025,Uelzen,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03360,0.0
+2025,Uelzen,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03360,0.0
+2025,Verden,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03361,0.0
+2025,Verden,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03361,0.0
+2025,Verden,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03361,0.0
+2025,Statistische Region Lüneburg,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH033,30.0
+2025,Statistische Region Lüneburg,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH033,20.0
+2025,Statistische Region Lüneburg,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH033,50.0
+2025,"Delmenhorst, Stadt",männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03401,5.0
+2025,"Delmenhorst, Stadt",weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03401,0.0
+2025,"Delmenhorst, Stadt",insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03401,5.0
+2025,"Emden, Stadt",männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03402,0.0
+2025,"Emden, Stadt",weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03402,0.0
+2025,"Emden, Stadt",insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03402,0.0
+2025,"Oldenburg (Oldb), Stadt",männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03403,5.0
+2025,"Oldenburg (Oldb), Stadt",weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03403,0.0
+2025,"Oldenburg (Oldb), Stadt",insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03403,5.0
+2025,"Osnabrück, Stadt",männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03404,5.0
+2025,"Osnabrück, Stadt",weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03404,5.0
+2025,"Osnabrück, Stadt",insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03404,10.0
+2025,"Wilhelmshaven, Stadt",männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03405,0.0
+2025,"Wilhelmshaven, Stadt",weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03405,0.0
+2025,"Wilhelmshaven, Stadt",insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03405,0.0
+2025,Ammerland,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03451,0.0
+2025,Ammerland,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03451,0.0
+2025,Ammerland,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03451,5.0
+2025,Aurich,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03452,0.0
+2025,Aurich,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03452,0.0
+2025,Aurich,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03452,0.0
+2025,Cloppenburg,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03453,0.0
+2025,Cloppenburg,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03453,0.0
+2025,Cloppenburg,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03453,0.0
+2025,Emsland,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03454,5.0
+2025,Emsland,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03454,0.0
+2025,Emsland,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03454,5.0
+2025,Friesland,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03455,5.0
+2025,Friesland,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03455,5.0
+2025,Friesland,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03455,10.0
+2025,Grafschaft Bentheim,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03456,5.0
+2025,Grafschaft Bentheim,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03456,5.0
+2025,Grafschaft Bentheim,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03456,10.0
+2025,Leer,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03457,0.0
+2025,Leer,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03457,0.0
+2025,Leer,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03457,0.0
+2025,Oldenburg,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03458,0.0
+2025,Oldenburg,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03458,0.0
+2025,Oldenburg,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03458,5.0
+2025,Osnabrück,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03459,20.0
+2025,Osnabrück,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03459,10.0
+2025,Osnabrück,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03459,30.0
+2025,Vechta,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03460,0.0
+2025,Vechta,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03460,0.0
+2025,Vechta,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03460,5.0
+2025,Wesermarsch,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03461,5.0
+2025,Wesermarsch,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03461,10.0
+2025,Wesermarsch,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03461,15.0
+2025,Wittmund,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03462,0.0
+2025,Wittmund,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03462,0.0
+2025,Wittmund,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03462,0.0
+2025,Statistische Region Weser-Ems,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH034,60.0
+2025,Statistische Region Weser-Ems,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH034,45.0
+2025,Statistische Region Weser-Ems,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH034,110.0
+2025,Niedersachsen,männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH030,210.0
+2025,Niedersachsen,weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH030,125.0
+2025,Niedersachsen,insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH030,335.0
 2024,"Braunschweig, Stadt",männlich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03101,10.0
 2024,"Braunschweig, Stadt",weiblich,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03101,0.0
 2024,"Braunschweig, Stadt",insgesamt,"von Erfordernis eines Aufenthaltstitels befreit, heimatlose Ausländerinnen und Ausländer",Anzahl,RH03101,10.0
