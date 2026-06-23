@@ -4661,7 +4661,7 @@
               "enum": [
                 "Insgesamt",
                 "Frühe Schulabgänger/innen",
-                "Personen mit geringem Bildungsstand",
+                "Personen mit geringem Bildudngsstand",
                 ""
               ]
             }
@@ -4671,7 +4671,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Insgesamt",
+                "Ingesamt",
                 "männlich",
                 "weiblich",
                 ""
