@@ -611,7 +611,7 @@
             "title": "Gebietseinheit"
           },
           {
-            "name": "Aufenthaltsdauer in Jahren",
+            "name": "Aufenthaltsdauer",
             "type": "string",
             "constraints": {
               "enum": [
@@ -624,7 +624,7 @@
                 ""
               ]
             },
-            "title": "Aufenthaltsdauer in Jahren"
+            "title": "Aufenthaltsdauer"
           },
           {
             "name": "Geschlecht",
