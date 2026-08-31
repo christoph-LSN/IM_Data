@@ -3536,7 +3536,7 @@
             "constraints": {
               "enum": [
                 "Männer",
-                "Frauen ",
+                "Frauen",
                 "Insgesamt",
                 ""
               ]
