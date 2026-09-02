@@ -4540,7 +4540,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Jahr"
           },
           {
@@ -4574,6 +4574,8 @@
             "constraints": {
               "enum": [
                 "Insgesamt",
+                "Frühe Schulabgänger/innen",
+                "Personen mit geringem Bildudngsstand",
                 ""
               ]
             },
