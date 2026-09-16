@@ -395,8 +395,8 @@ Value,Disaggregation combinations using this value,Number of indicators
 -22.0930233,1,1
 -22.1105528,1,1
 -22.1230159,1,1
--2.22222222,1,1
 -22.2222222,2,1
+-2.22222222,1,1
 -22.2520107,1,1
 -22.2865412,1,1
 -22.2916166,1,1
@@ -1163,8 +1163,8 @@ Value,Disaggregation combinations using this value,Number of indicators
 1142.91498,1,1
 1143.0,1,1
 1143.24324,1,1
-1143.58974,1,1
 114.358974,1,1
+1143.58974,1,1
 1144.37628,1,1
 1145.0,3,1
 11450.0,1,1
@@ -1646,8 +1646,8 @@ Value,Disaggregation combinations using this value,Number of indicators
 1427.90974,1,1
 142.8051,1,1
 1428.16901,1,1
-14.2857143,1,1
 142.857143,1,1
+14.2857143,1,1
 1429.66926,1,1
 143.0,3,1
 1430.0,4,1
@@ -2073,8 +2073,8 @@ Value,Disaggregation combinations using this value,Number of indicators
 1711.88119,1,1
 1712.5,2,1
 1712.94537,1,1
-171.428571,2,1
 17.1428571,1,1
+171.428571,2,1
 1715.0,1,1
 171.509168,1,1
 1716.09195,1,1
@@ -2743,8 +2743,8 @@ Value,Disaggregation combinations using this value,Number of indicators
 22898.0,1,1
 229.0,1,1
 2290.0,2,1
-229.166667,1,1
 22.9166667,1,1
+229.166667,1,1
 2292.0,1,1
 2293.11059,1,1
 2295.0,2,1
@@ -2757,8 +2757,8 @@ Value,Disaggregation combinations using this value,Number of indicators
 23.0636833,1,1
 230.661323,1,1
 2307.6087,1,1
-23.0769231,2,1
 230.769231,1,1
+23.0769231,2,1
 231.0,1,1
 2310.0,2,1
 231.460674,1,1
@@ -3341,8 +3341,8 @@ Value,Disaggregation combinations using this value,Number of indicators
 3075.0,1,1
 3075.67568,1,1
 307.643312,1,1
-30.7692308,1,1
 3.07692308,1,1
+30.7692308,1,1
 3080.55556,1,1
 3081.81818,1,1
 3083.0,1,1
@@ -3372,10 +3372,10 @@ Value,Disaggregation combinations using this value,Number of indicators
 311.884794,1,1
 312.0,1,1
 3120.0,1,1
-3.125,1,1
+31.25,1,1
 3125.0,2,1
 312.561576,1,1
-31.25,1,1
+3.125,1,1
 312.5,1,1
 313.043478,1,1
 313.355408,1,1
@@ -3386,8 +3386,8 @@ Value,Disaggregation combinations using this value,Number of indicators
 3139.0,1,1
 314.0,2,1
 3140.0,2,1
-314.285714,1,1
 31.4285714,1,1
+314.285714,1,1
 3143.0,1,1
 31436.0,1,1
 3145.0,1,1
@@ -3647,13 +3647,13 @@ Value,Disaggregation combinations using this value,Number of indicators
 359.0,1,1
 359.214502,1,1
 3595.0,1,1
+36.0,5,1
 360.0,2,1
 3600.0,3,1
 360.418562,1,1
 3605.0,2,1
 360.615385,1,1
 3609.43796,1,1
-36.0,5,1
 361.111111,1,1
 3614.28571,1,1
 3616.0,1,1
@@ -3833,8 +3833,8 @@ Value,Disaggregation combinations using this value,Number of indicators
 392.0,2,1
 3925.0,2,1
 39.2605634,1,1
-39.2857143,1,1
 3928.57143,1,1
+39.2857143,1,1
 393.0,1,1
 3930.30303,1,1
 393.333333,1,1
@@ -4338,8 +4338,8 @@ Value,Disaggregation combinations using this value,Number of indicators
 537.790698,1,1
 538.0,1,1
 5380.0,1,1
-538.461538,1,1
 53.8461538,1,1
+538.461538,1,1
 539.0,1,1
 539.751553,1,1
 54.0,5,1
@@ -4347,8 +4347,8 @@ Value,Disaggregation combinations using this value,Number of indicators
 5400.0,1,1
 540.140845,1,1
 5405.0,1,1
-54.0540541,1,1
 5.40540541,1,1
+54.0540541,1,1
 5410.0,1,1
 541.057935,1,1
 541.304348,1,1
@@ -5143,8 +5143,8 @@ Value,Disaggregation combinations using this value,Number of indicators
 907.0,1,1
 90.7407407,1,1
 909.0,1,1
-9.09090909,2,1
 90.9090909,1,1
+9.09090909,2,1
 90914.0,1,1
 909.433962,1,1
 9095.0,1,1
