@@ -1,4 +1,11 @@
 ﻿Year,Abschlussart,Nationalität,Value
+2025,Hochschulreife,Insgesamt,23851
+2025,Fachhochschulreife1),Insgesamt,3147
+2025,Realschulabschluss,Insgesamt,33167
+2025,Hauptschulabschluss,Insgesamt,10961
+2025,Abschluss Förderschule2),Insgesamt,2433
+2025,Ohne Abschluss,Insgesamt,5005
+2025,Insgesamt,Insgesamt,78564
 2024,Hochschulreife,Insgesamt,24726
 2024,Fachhochschulreife1),Insgesamt,3077
 2024,Realschulabschluss,Insgesamt,33422
@@ -111,6 +118,13 @@
 2005,Abschluss Förderschule2),Insgesamt,3384
 2005,Ohne Abschluss,Insgesamt,4961
 2005,Insgesamt,Insgesamt,92049
+2025,Hochschulreife,Deutsche,23075
+2025,Fachhochschulreife1),Deutsche,2827
+2025,Realschulabschluss,Deutsche,28703
+2025,Hauptschulabschluss,Deutsche,8493
+2025,Abschluss Förderschule2),Deutsche,1895
+2025,Ohne Abschluss,Deutsche,2580
+2025,Insgesamt,Deutsche,67573
 2024,Hochschulreife,Deutsche,24079
 2024,Fachhochschulreife1),Deutsche,2798
 2024,Realschulabschluss,Deutsche,29617
@@ -223,6 +237,13 @@
 2005,Abschluss Förderschule2),Deutsche,2694
 2005,Ohne Abschluss,Deutsche,4044
 2005,Insgesamt,Deutsche,85627
+2025,Hochschulreife,Ausländerinnen und Ausländer,776
+2025,Fachhochschulreife1),Ausländerinnen und Ausländer,320
+2025,Realschulabschluss,Ausländerinnen und Ausländer,4464
+2025,Hauptschulabschluss,Ausländerinnen und Ausländer,2468
+2025,Abschluss Förderschule2),Ausländerinnen und Ausländer,538
+2025,Ohne Abschluss,Ausländerinnen und Ausländer,2425
+2025,Insgesamt,Ausländerinnen und Ausländer,10991
 2024,Hochschulreife,Ausländerinnen und Ausländer,647
 2024,Fachhochschulreife1),Ausländerinnen und Ausländer,279
 2024,Realschulabschluss,Ausländerinnen und Ausländer,3805

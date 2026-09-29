@@ -1403,7 +1403,7 @@
 2023,"Wittmund",Deutsche,Anzahl,K03462,34
 2023,"Statistische Region Weser-Ems",Deutsche,Anzahl,K034,1419
 2023,"Niedersachsen",Deutsche,Anzahl,K030,3979
-2023,"Braunschweig, Stadt",Ausländerinnen und Ausländer,Anzahl,K03101,136
+2023,"Braunschweig, Stadt",Ausländerinnen und Ausländer,Anzahl,K03101,51
 2023,"Salzgitter, Stadt",Ausländerinnen und Ausländer,Anzahl,K03102,54
 2023,"Wolfsburg, Stadt",Ausländerinnen und Ausländer,Anzahl,K03103,27
 2023,"Gifhorn",Ausländerinnen und Ausländer,Anzahl,K03151,19
@@ -1559,6 +1559,110 @@
 2024,"Wittmund",Ausländerinnen und Ausländer,Anzahl,K03462,17
 2024,"Statistische Region Weser-Ems",Ausländerinnen und Ausländer,Anzahl,K034,1063
 2024,"Niedersachsen",Ausländerinnen und Ausländer,Anzahl,K030,2749
+2025,"Braunschweig, Stadt",Deutsche,Anzahl,K03101,130
+2025,"Salzgitter, Stadt",Deutsche,Anzahl,K03102,42
+2025,"Wolfsburg, Stadt",Deutsche,Anzahl,K03103,44
+2025,"Gifhorn",Deutsche,Anzahl,K03151,92
+2025,"Goslar",Deutsche,Anzahl,K03153,66
+2025,"Helmstedt",Deutsche,Anzahl,K03154,66
+2025,"Northeim",Deutsche,Anzahl,K03155,45
+2025,"Peine",Deutsche,Anzahl,K03157,78
+2025,"Wolfenbüttel",Deutsche,Anzahl,K03158,59
+2025,"Göttingen",Deutsche,Anzahl,K03159,136
+2025,"Statistische Region Braunschweig",Deutsche,Anzahl,K031,758
+2025,"Region Hannover",Deutsche,Anzahl,K03241,570
+2025,"dav. Hannover, Lhst.",Deutsche,Anzahl,K03241001,285
+2025,"dav. Hannover, Umland",Deutsche,Anzahl,K03241999,285
+2025,"Diepholz",Deutsche,Anzahl,K03251,77
+2025,"Hameln-Pyrmont",Deutsche,Anzahl,K03252,71
+2025,"Hildesheim",Deutsche,Anzahl,K03254,177
+2025,"Holzminden",Deutsche,Anzahl,K03255,34
+2025,"Nienburg (Weser)",Deutsche,Anzahl,K03256,64
+2025,"Schaumburg",Deutsche,Anzahl,K03257,65
+2025,"Statistische Region Hannover",Deutsche,Anzahl,K032,1058
+2025,"Celle",Deutsche,Anzahl,K03351,100
+2025,"Cuxhaven",Deutsche,Anzahl,K03352,152
+2025,"Harburg",Deutsche,Anzahl,K03353,90
+2025,"Lüchow-Dannenberg",Deutsche,Anzahl,K03354,34
+2025,"Lüneburg",Deutsche,Anzahl,K03355,99
+2025,"Osterholz",Deutsche,Anzahl,K03356,50
+2025,"Rotenburg (Wümme)",Deutsche,Anzahl,K03357,131
+2025,"Heidekreis",Deutsche,Anzahl,K03358,102
+2025,"Stade",Deutsche,Anzahl,K03359,135
+2025,"Uelzen",Deutsche,Anzahl,K03360,78
+2025,"Verden",Deutsche,Anzahl,K03361,59
+2025,"Statistische Region Lüneburg",Deutsche,Anzahl,K033,1030
+2025,"Delmenhorst, Stadt",Deutsche,Anzahl,K03401,43
+2025,"Emden, Stadt",Deutsche,Anzahl,K03402,56
+2025,"Oldenburg (Oldb), Stadt",Deutsche,Anzahl,K03403,99
+2025,"Osnabrück, Stadt",Deutsche,Anzahl,K03404,125
+2025,"Wilhelmshaven, Stadt",Deutsche,Anzahl,K03405,59
+2025,"Ammerland",Deutsche,Anzahl,K03451,58
+2025,"Aurich",Deutsche,Anzahl,K03452,178
+2025,"Cloppenburg",Deutsche,Anzahl,K03453,133
+2025,"Emsland",Deutsche,Anzahl,K03454,185
+2025,"Friesland",Deutsche,Anzahl,K03455,73
+2025,"Grafschaft Bentheim",Deutsche,Anzahl,K03456,93
+2025,"Leer",Deutsche,Anzahl,K03457,134
+2025,"Oldenburg",Deutsche,Anzahl,K03458,51
+2025,"Osnabrück",Deutsche,Anzahl,K03459,198
+2025,"Vechta",Deutsche,Anzahl,K03460,74
+2025,"Wesermarsch",Deutsche,Anzahl,K03461,36
+2025,"Wittmund",Deutsche,Anzahl,K03462,34
+2025,"Statistische Region Weser-Ems",Deutsche,Anzahl,K034,1629
+2025,"Niedersachsen",Deutsche,Anzahl,K030,4475
+2025,"Braunschweig, Stadt",Ausländerinnen und Ausländer,Anzahl,K03101,54
+2025,"Salzgitter, Stadt",Ausländerinnen und Ausländer,Anzahl,K03102,55
+2025,"Wolfsburg, Stadt",Ausländerinnen und Ausländer,Anzahl,K03103,56
+2025,"Gifhorn",Ausländerinnen und Ausländer,Anzahl,K03151,55
+2025,"Goslar",Ausländerinnen und Ausländer,Anzahl,K03153,50
+2025,"Helmstedt",Ausländerinnen und Ausländer,Anzahl,K03154,35
+2025,"Northeim",Ausländerinnen und Ausländer,Anzahl,K03155,36
+2025,"Peine",Ausländerinnen und Ausländer,Anzahl,K03157,49
+2025,"Wolfenbüttel",Ausländerinnen und Ausländer,Anzahl,K03158,30
+2025,"Göttingen",Ausländerinnen und Ausländer,Anzahl,K03159,94
+2025,"Statistische Region Braunschweig",Ausländerinnen und Ausländer,Anzahl,K031,514
+2025,"Region Hannover",Ausländerinnen und Ausländer,Anzahl,K03241,550
+2025,"dav. Hannover, Lhst.",Ausländerinnen und Ausländer,Anzahl,K03241001,295
+2025,"dav. Hannover, Umland",Ausländerinnen und Ausländer,Anzahl,K03241999,255
+2025,"Diepholz",Ausländerinnen und Ausländer,Anzahl,K03251,80
+2025,"Hameln-Pyrmont",Ausländerinnen und Ausländer,Anzahl,K03252,66
+2025,"Hildesheim",Ausländerinnen und Ausländer,Anzahl,K03254,85
+2025,"Holzminden",Ausländerinnen und Ausländer,Anzahl,K03255,24
+2025,"Nienburg (Weser)",Ausländerinnen und Ausländer,Anzahl,K03256,49
+2025,"Schaumburg",Ausländerinnen und Ausländer,Anzahl,K03257,51
+2025,"Statistische Region Hannover",Ausländerinnen und Ausländer,Anzahl,K032,905
+2025,"Celle",Ausländerinnen und Ausländer,Anzahl,K03351,28
+2025,"Cuxhaven",Ausländerinnen und Ausländer,Anzahl,K03352,71
+2025,"Harburg",Ausländerinnen und Ausländer,Anzahl,K03353,48
+2025,"Lüchow-Dannenberg",Ausländerinnen und Ausländer,Anzahl,K03354,13
+2025,"Lüneburg",Ausländerinnen und Ausländer,Anzahl,K03355,39
+2025,"Osterholz",Ausländerinnen und Ausländer,Anzahl,K03356,38
+2025,"Rotenburg (Wümme)",Ausländerinnen und Ausländer,Anzahl,K03357,60
+2025,"Heidekreis",Ausländerinnen und Ausländer,Anzahl,K03358,41
+2025,"Stade",Ausländerinnen und Ausländer,Anzahl,K03359,107
+2025,"Uelzen",Ausländerinnen und Ausländer,Anzahl,K03360,41
+2025,"Verden",Ausländerinnen und Ausländer,Anzahl,K03361,32
+2025,"Statistische Region Lüneburg",Ausländerinnen und Ausländer,Anzahl,K033,518
+2025,"Delmenhorst, Stadt",Ausländerinnen und Ausländer,Anzahl,K03401,22
+2025,"Emden, Stadt",Ausländerinnen und Ausländer,Anzahl,K03402,37
+2025,"Oldenburg (Oldb), Stadt",Ausländerinnen und Ausländer,Anzahl,K03403,57
+2025,"Osnabrück, Stadt",Ausländerinnen und Ausländer,Anzahl,K03404,65
+2025,"Wilhelmshaven, Stadt",Ausländerinnen und Ausländer,Anzahl,K03405,24
+2025,"Ammerland",Ausländerinnen und Ausländer,Anzahl,K03451,30
+2025,"Aurich",Ausländerinnen und Ausländer,Anzahl,K03452,59
+2025,"Cloppenburg",Ausländerinnen und Ausländer,Anzahl,K03453,97
+2025,"Emsland",Ausländerinnen und Ausländer,Anzahl,K03454,149
+2025,"Friesland",Ausländerinnen und Ausländer,Anzahl,K03455,31
+2025,"Grafschaft Bentheim",Ausländerinnen und Ausländer,Anzahl,K03456,83
+2025,"Leer",Ausländerinnen und Ausländer,Anzahl,K03457,64
+2025,"Oldenburg",Ausländerinnen und Ausländer,Anzahl,K03458,46
+2025,"Osnabrück",Ausländerinnen und Ausländer,Anzahl,K03459,140
+2025,"Vechta",Ausländerinnen und Ausländer,Anzahl,K03460,77
+2025,"Wesermarsch",Ausländerinnen und Ausländer,Anzahl,K03461,22
+2025,"Wittmund",Ausländerinnen und Ausländer,Anzahl,K03462,23
+2025,"Statistische Region Weser-Ems",Ausländerinnen und Ausländer,Anzahl,K034,1026
+2025,"Niedersachsen",Ausländerinnen und Ausländer,Anzahl,K030,2963
 2005,"Braunschweig, Stadt",Deutsche,Prozent,K03101,7.22460658082976
 2005,"Salzgitter, Stadt",Deutsche,Prozent,K03102,5.56569343065693
 2005,"Wolfsburg, Stadt",Deutsche,Prozent,K03103,5.95890410958904
@@ -3119,3 +3223,107 @@
 2024,"Wittmund",Ausländerinnen und Ausländer,Prozent,K03462,33.3333333333333
 2024,"Statistische Region Weser-Ems",Ausländerinnen und Ausländer,Prozent,K034,31.4404022478557
 2024,"Niedersachsen",Ausländerinnen und Ausländer,Prozent,K030,27.7817079332997
+2025,"Braunschweig, Stadt",Deutsche,Prozent,K03101,5.97701149425287
+2025,"Salzgitter, Stadt",Deutsche,Prozent,K03102,7.09459459459459
+2025,"Wolfsburg, Stadt",Deutsche,Prozent,K03103,3.50877192982456
+2025,"Gifhorn",Deutsche,Prozent,K03151,6.52945351312988
+2025,"Goslar",Deutsche,Prozent,K03153,6.82523267838676
+2025,"Helmstedt",Deutsche,Prozent,K03154,10.6280193236715
+2025,"Northeim",Deutsche,Prozent,K03155,3.94390885188431
+2025,"Peine",Deutsche,Prozent,K03157,6.40920295809367
+2025,"Wolfenbüttel",Deutsche,Prozent,K03158,6.55555555555556
+2025,"Göttingen",Deutsche,Prozent,K03159,5.77249575551783
+2025,"Statistische Region Braunschweig",Deutsche,Prozent,K031,6.00063331222293
+2025,"Region Hannover",Deutsche,Prozent,K03241,6.09690876029522
+2025,"dav. Hannover, Lhst.",Deutsche,Prozent,K03241001,6.87409551374819
+2025,"dav. Hannover, Umland",Deutsche,Prozent,K03241999,5.47760907168941
+2025,"Diepholz",Deutsche,Prozent,K03251,4.18250950570342
+2025,"Hameln-Pyrmont",Deutsche,Prozent,K03252,6.22261174408414
+2025,"Hildesheim",Deutsche,Prozent,K03254,7.36272878535774
+2025,"Holzminden",Deutsche,Prozent,K03255,8.60759493670886
+2025,"Nienburg (Weser)",Deutsche,Prozent,K03256,6.65972944849116
+2025,"Schaumburg",Deutsche,Prozent,K03257,5.74204946996466
+2025,"Statistische Region Hannover",Deutsche,Prozent,K032,6.14294838297625
+2025,"Celle",Deutsche,Prozent,K03351,6.426735218509
+2025,"Cuxhaven",Deutsche,Prozent,K03352,9.12364945978391
+2025,"Harburg",Deutsche,Prozent,K03353,3.8232795242141
+2025,"Lüchow-Dannenberg",Deutsche,Prozent,K03354,8.5
+2025,"Lüneburg",Deutsche,Prozent,K03355,5.8858501783591
+2025,"Osterholz",Deutsche,Prozent,K03356,5.27983104540655
+2025,"Rotenburg (Wümme)",Deutsche,Prozent,K03357,8.35992342054882
+2025,"Heidekreis",Deutsche,Prozent,K03358,7.65191297824456
+2025,"Stade",Deutsche,Prozent,K03359,7.25416442772703
+2025,"Uelzen",Deutsche,Prozent,K03360,10.3448275862069
+2025,"Verden",Deutsche,Prozent,K03361,4.91257285595337
+2025,"Statistische Region Lüneburg",Deutsche,Prozent,K033,6.72279877292605
+2025,"Delmenhorst, Stadt",Deutsche,Prozent,K03401,6.69781931464174
+2025,"Emden, Stadt",Deutsche,Prozent,K03402,13.2387706855792
+2025,"Oldenburg (Oldb), Stadt",Deutsche,Prozent,K03403,6.04026845637584
+2025,"Osnabrück, Stadt",Deutsche,Prozent,K03404,7.11439954467843
+2025,"Wilhelmshaven, Stadt",Deutsche,Prozent,K03405,10.9665427509294
+2025,"Ammerland",Deutsche,Prozent,K03451,5.28714676390155
+2025,"Aurich",Deutsche,Prozent,K03452,10.2357676825762
+2025,"Cloppenburg",Deutsche,Prozent,K03453,7.80058651026393
+2025,"Emsland",Deutsche,Prozent,K03454,6.07353906762968
+2025,"Friesland",Deutsche,Prozent,K03455,9.22882427307206
+2025,"Grafschaft Bentheim",Deutsche,Prozent,K03456,7.56712774613507
+2025,"Leer",Deutsche,Prozent,K03457,9.87472365512159
+2025,"Oldenburg",Deutsche,Prozent,K03458,4.91329479768786
+2025,"Osnabrück",Deutsche,Prozent,K03459,7.28476821192053
+2025,"Vechta",Deutsche,Prozent,K03460,5.16039051603905
+2025,"Wesermarsch",Deutsche,Prozent,K03461,5.01392757660167
+2025,"Wittmund",Deutsche,Prozent,K03462,6.4638783269962
+2025,"Statistische Region Weser-Ems",Deutsche,Prozent,K034,7.27329553065143
+2025,"Niedersachsen",Deutsche,Prozent,K030,6.62246755360869
+2025,"Braunschweig, Stadt",Ausländerinnen und Ausländer,Prozent,K03101,19.7080291970803
+2025,"Salzgitter, Stadt",Ausländerinnen und Ausländer,Prozent,K03102,13.5802469135802
+2025,"Wolfsburg, Stadt",Ausländerinnen und Ausländer,Prozent,K03103,19.8581560283688
+2025,"Gifhorn",Ausländerinnen und Ausländer,Prozent,K03151,35.031847133758
+2025,"Goslar",Ausländerinnen und Ausländer,Prozent,K03153,33.3333333333333
+2025,"Helmstedt",Ausländerinnen und Ausländer,Prozent,K03154,39.3258426966292
+2025,"Northeim",Ausländerinnen und Ausländer,Prozent,K03155,24.4897959183673
+2025,"Peine",Ausländerinnen und Ausländer,Prozent,K03157,25.2577319587629
+2025,"Wolfenbüttel",Ausländerinnen und Ausländer,Prozent,K03158,27.7777777777778
+2025,"Göttingen",Ausländerinnen und Ausländer,Prozent,K03159,24.7368421052632
+2025,"Statistische Region Braunschweig",Ausländerinnen und Ausländer,Prozent,K031,23.5132662397072
+2025,"Region Hannover",Ausländerinnen und Ausländer,Prozent,K03241,26.5828902851619
+2025,"dav. Hannover, Lhst.",Ausländerinnen und Ausländer,Prozent,K03241001,27.3401297497683
+2025,"dav. Hannover, Umland",Ausländerinnen und Ausländer,Prozent,K03241999,25.7575757575758
+2025,"Diepholz",Ausländerinnen und Ausländer,Prozent,K03251,27.972027972028
+2025,"Hameln-Pyrmont",Ausländerinnen und Ausländer,Prozent,K03252,27.6150627615063
+2025,"Hildesheim",Ausländerinnen und Ausländer,Prozent,K03254,24.8538011695906
+2025,"Holzminden",Ausländerinnen und Ausländer,Prozent,K03255,31.5789473684211
+2025,"Nienburg (Weser)",Ausländerinnen und Ausländer,Prozent,K03256,25.3886010362694
+2025,"Schaumburg",Ausländerinnen und Ausländer,Prozent,K03257,24.8780487804878
+2025,"Statistische Region Hannover",Ausländerinnen und Ausländer,Prozent,K032,26.5395894428152
+2025,"Celle",Ausländerinnen und Ausländer,Prozent,K03351,16.1849710982659
+2025,"Cuxhaven",Ausländerinnen und Ausländer,Prozent,K03352,35.5
+2025,"Harburg",Ausländerinnen und Ausländer,Prozent,K03353,22.4299065420561
+2025,"Lüchow-Dannenberg",Ausländerinnen und Ausländer,Prozent,K03354,33.3333333333333
+2025,"Lüneburg",Ausländerinnen und Ausländer,Prozent,K03355,20.4188481675393
+2025,"Osterholz",Ausländerinnen und Ausländer,Prozent,K03356,28.3582089552239
+2025,"Rotenburg (Wümme)",Ausländerinnen und Ausländer,Prozent,K03357,37.037037037037
+2025,"Heidekreis",Ausländerinnen und Ausländer,Prozent,K03358,25.3086419753086
+2025,"Stade",Ausländerinnen und Ausländer,Prozent,K03359,36.3945578231293
+2025,"Uelzen",Ausländerinnen und Ausländer,Prozent,K03360,35.9649122807018
+2025,"Verden",Ausländerinnen und Ausländer,Prozent,K03361,22.6950354609929
+2025,"Statistische Region Lüneburg",Ausländerinnen und Ausländer,Prozent,K033,28.3991228070175
+2025,"Delmenhorst, Stadt",Ausländerinnen und Ausländer,Prozent,K03401,16.6666666666667
+2025,"Emden, Stadt",Ausländerinnen und Ausländer,Prozent,K03402,44.047619047619
+2025,"Oldenburg (Oldb), Stadt",Ausländerinnen und Ausländer,Prozent,K03403,20.4301075268817
+2025,"Osnabrück, Stadt",Ausländerinnen und Ausländer,Prozent,K03404,23.2142857142857
+2025,"Wilhelmshaven, Stadt",Ausländerinnen und Ausländer,Prozent,K03405,20.3389830508475
+2025,"Ammerland",Ausländerinnen und Ausländer,Prozent,K03451,19.4805194805195
+2025,"Aurich",Ausländerinnen und Ausländer,Prozent,K03452,38.0645161290323
+2025,"Cloppenburg",Ausländerinnen und Ausländer,Prozent,K03453,33.1058020477816
+2025,"Emsland",Ausländerinnen und Ausländer,Prozent,K03454,29.0448343079922
+2025,"Friesland",Ausländerinnen und Ausländer,Prozent,K03455,29.8076923076923
+2025,"Grafschaft Bentheim",Ausländerinnen und Ausländer,Prozent,K03456,32.5490196078431
+2025,"Leer",Ausländerinnen und Ausländer,Prozent,K03457,35.3591160220994
+2025,"Oldenburg",Ausländerinnen und Ausländer,Prozent,K03458,28.3950617283951
+2025,"Osnabrück",Ausländerinnen und Ausländer,Prozent,K03459,34.0632603406326
+2025,"Vechta",Ausländerinnen und Ausländer,Prozent,K03460,26.7361111111111
+2025,"Wesermarsch",Ausländerinnen und Ausländer,Prozent,K03461,22.4489795918367
+2025,"Wittmund",Ausländerinnen und Ausländer,Prozent,K03462,35.9375
+2025,"Statistische Region Weser-Ems",Ausländerinnen und Ausländer,Prozent,K034,28.7314477737329
+2025,"Niedersachsen",Ausländerinnen und Ausländer,Prozent,K030,26.9584205258848
