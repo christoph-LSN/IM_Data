@@ -1,1041 +1,1145 @@
-﻿Year,Gebietseinheit,GeoCode,Value
-2005,"Braunschweig, Stadt",K03101,441
-2005,"Salzgitter, Stadt",K03102,178
-2005,"Wolfsburg, Stadt",K03103,185
-2005,"Gifhorn",K03151,177
-2005,"Goslar",K03153,182
-2005,"Helmstedt",K03154,40
-2005,"Northeim",K03155,113
-2005,"Peine",K03157,216
-2005,"Wolfenbüttel",K03158,145
-2005,"Göttingen",K03159,424
-2005,"Statistische Region Braunschweig",K031,2101
-2005,"Region Hannover",K03241,2810
-2005,"dav. Hannover, Lhst.",K03241001,1605
-2005,"dav. Hannover, Umland",K03241999,1205
-2005,"Diepholz",K03251,261
-2005,"Hameln-Pyrmont",K03252,308
-2005,"Hildesheim",K03254,559
-2005,"Holzminden",K03255,58
-2005,"Nienburg (Weser)",K03256,194
-2005,"Schaumburg",K03257,231
-2005,"Statistische Region Hannover",K032,4421
-2005,"Celle",K03351,214
-2005,"Cuxhaven",K03352,184
-2005,"Harburg",K03353,301
-2005,"Lüchow-Dannenberg",K03354,5
-2005,"Lüneburg",K03355,197
-2005,"Osterholz",K03356,59
-2005,"Rotenburg (Wümme)",K03357,86
-2005,"Heidekreis",K03358,146
-2005,"Stade",K03359,298
-2005,"Uelzen",K03360,53
-2005,"Verden",K03361,177
-2005,"Statistische Region Lüneburg",K033,1720
-2005,"Delmenhorst, Stadt",K03401,198
-2005,"Emden, Stadt",K03402,47
-2005,"Oldenburg (Oldb), Stadt",K03403,245
-2005,"Osnabrück, Stadt",K03404,460
-2005,"Wilhelmshaven, Stadt",K03405,183
-2005,"Ammerland",K03451,91
-2005,"Aurich",K03452,201
-2005,"Cloppenburg",K03453,83
-2005,"Emsland",K03454,165
-2005,"Friesland",K03455,71
-2005,"Grafschaft Bentheim",K03456,114
-2005,"Leer",K03457,124
-2005,"Oldenburg",K03458,91
-2005,"Osnabrück",K03459,166
-2005,"Vechta",K03460,287
-2005,"Wesermarsch",K03461,91
-2005,"Wittmund",K03462,27
-2005,"Statistische Region Weser-Ems",K034,2644
-2005,"Niedersachsen",K030,10886
-2006,"Braunschweig, Stadt",K03101,440
-2006,"Salzgitter, Stadt",K03102,201
-2006,"Wolfsburg, Stadt",K03103,193
-2006,"Gifhorn",K03151,236
-2006,"Goslar",K03153,226
-2006,"Helmstedt",K03154,55
-2006,"Northeim",K03155,169
-2006,"Peine",K03157,198
-2006,"Wolfenbüttel",K03158,187
-2006,"Göttingen",K03159,499
-2006,"Statistische Region Braunschweig",K031,2404
-2006,"Region Hannover",K03241,2779
-2006,"dav. Hannover, Lhst.",K03241001,1748
-2006,"dav. Hannover, Umland",K03241999,1031
-2006,"Diepholz",K03251,251
-2006,"Hameln-Pyrmont",K03252,258
-2006,"Hildesheim",K03254,602
-2006,"Holzminden",K03255,56
-2006,"Nienburg (Weser)",K03256,167
-2006,"Schaumburg",K03257,297
-2006,"Statistische Region Hannover",K032,4410
-2006,"Celle",K03351,263
-2006,"Cuxhaven",K03352,147
-2006,"Harburg",K03353,257
-2006,"Lüchow-Dannenberg",K03354,10
-2006,"Lüneburg",K03355,186
-2006,"Osterholz",K03356,60
-2006,"Rotenburg (Wümme)",K03357,84
-2006,"Heidekreis",K03358,135
-2006,"Stade",K03359,288
-2006,"Uelzen",K03360,57
-2006,"Verden",K03361,148
-2006,"Statistische Region Lüneburg",K033,1635
-2006,"Delmenhorst, Stadt",K03401,269
-2006,"Emden, Stadt",K03402,82
-2006,"Oldenburg (Oldb), Stadt",K03403,264
-2006,"Osnabrück, Stadt",K03404,534
-2006,"Wilhelmshaven, Stadt",K03405,146
-2006,"Ammerland",K03451,101
-2006,"Aurich",K03452,166
-2006,"Cloppenburg",K03453,123
-2006,"Emsland",K03454,183
-2006,"Friesland",K03455,43
-2006,"Grafschaft Bentheim",K03456,115
-2006,"Leer",K03457,173
-2006,"Oldenburg",K03458,99
-2006,"Osnabrück",K03459,338
-2006,"Vechta",K03460,236
-2006,"Wesermarsch",K03461,93
-2006,"Wittmund",K03462,27
-2006,"Statistische Region Weser-Ems",K034,2992
-2006,"Niedersachsen",K030,11441
-2007,"Braunschweig, Stadt",K03101,386
-2007,"Salzgitter, Stadt",K03102,165
-2007,"Wolfsburg, Stadt",K03103,216
-2007,"Gifhorn",K03151,206
-2007,"Goslar",K03153,166
-2007,"Helmstedt",K03154,64
-2007,"Northeim",K03155,132
-2007,"Peine",K03157,167
-2007,"Wolfenbüttel",K03158,112
-2007,"Göttingen",K03159,383
-2007,"Statistische Region Braunschweig",K031,1997
-2007,"Region Hannover",K03241,2364
-2007,"dav. Hannover, Lhst.",K03241001,1671
-2007,"dav. Hannover, Umland",K03241999,693
-2007,"Diepholz",K03251,241
-2007,"Hameln-Pyrmont",K03252,202
-2007,"Hildesheim",K03254,383
-2007,"Holzminden",K03255,26
-2007,"Nienburg (Weser)",K03256,113
-2007,"Schaumburg",K03257,184
-2007,"Statistische Region Hannover",K032,3513
-2007,"Celle",K03351,163
-2007,"Cuxhaven",K03352,130
-2007,"Harburg",K03353,177
-2007,"Lüchow-Dannenberg",K03354,17
-2007,"Lüneburg",K03355,157
-2007,"Osterholz",K03356,53
-2007,"Rotenburg (Wümme)",K03357,103
-2007,"Heidekreis",K03358,128
-2007,"Stade",K03359,189
-2007,"Uelzen",K03360,43
-2007,"Verden",K03361,128
-2007,"Statistische Region Lüneburg",K033,1288
-2007,"Delmenhorst, Stadt",K03401,267
-2007,"Emden, Stadt",K03402,75
-2007,"Oldenburg (Oldb), Stadt",K03403,253
-2007,"Osnabrück, Stadt",K03404,366
-2007,"Wilhelmshaven, Stadt",K03405,129
-2007,"Ammerland",K03451,68
-2007,"Aurich",K03452,158
-2007,"Cloppenburg",K03453,117
-2007,"Emsland",K03454,130
-2007,"Friesland",K03455,48
-2007,"Grafschaft Bentheim",K03456,124
-2007,"Leer",K03457,124
-2007,"Oldenburg",K03458,81
-2007,"Osnabrück",K03459,183
-2007,"Vechta",K03460,213
-2007,"Wesermarsch",K03461,96
-2007,"Wittmund",K03462,21
-2007,"Statistische Region Weser-Ems",K034,2453
-2007,"Niedersachsen",K030,9251
-2008,"Braunschweig, Stadt",K03101,286
-2008,"Salzgitter, Stadt",K03102,110
-2008,"Wolfsburg, Stadt",K03103,137
-2008,"Gifhorn",K03151,137
-2008,"Goslar",K03153,123
-2008,"Helmstedt",K03154,45
-2008,"Northeim",K03155,66
-2008,"Peine",K03157,140
-2008,"Wolfenbüttel",K03158,106
-2008,"Göttingen",K03159,274
-2008,"Statistische Region Braunschweig",K031,1424
-2008,"Region Hannover",K03241,2144
-2008,"dav. Hannover, Lhst.",K03241001,1431
-2008,"dav. Hannover, Umland",K03241999,713
-2008,"Diepholz",K03251,182
-2008,"Hameln-Pyrmont",K03252,181
-2008,"Hildesheim",K03254,334
-2008,"Holzminden",K03255,47
-2008,"Nienburg (Weser)",K03256,73
-2008,"Schaumburg",K03257,116
-2008,"Statistische Region Hannover",K032,3077
-2008,"Celle",K03351,120
-2008,"Cuxhaven",K03352,130
-2008,"Harburg",K03353,169
-2008,"Lüchow-Dannenberg",K03354,13
-2008,"Lüneburg",K03355,209
-2008,"Osterholz",K03356,53
-2008,"Rotenburg (Wümme)",K03357,83
-2008,"Heidekreis",K03358,122
-2008,"Stade",K03359,127
-2008,"Uelzen",K03360,74
-2008,"Verden",K03361,91
-2008,"Statistische Region Lüneburg",K033,1191
-2008,"Delmenhorst, Stadt",K03401,192
-2008,"Emden, Stadt",K03402,31
-2008,"Oldenburg (Oldb), Stadt",K03403,278
-2008,"Osnabrück, Stadt",K03404,255
-2008,"Wilhelmshaven, Stadt",K03405,88
-2008,"Ammerland",K03451,71
-2008,"Aurich",K03452,97
-2008,"Cloppenburg",K03453,68
-2008,"Emsland",K03454,118
-2008,"Friesland",K03455,64
-2008,"Grafschaft Bentheim",K03456,116
-2008,"Leer",K03457,110
-2008,"Oldenburg",K03458,61
-2008,"Osnabrück",K03459,219
-2008,"Vechta",K03460,150
-2008,"Wesermarsch",K03461,83
-2008,"Wittmund",K03462,11
-2008,"Statistische Region Weser-Ems",K034,2012
-2008,"Niedersachsen",K030,7704
-2009,"Braunschweig, Stadt",K03101,294
-2009,"Salzgitter, Stadt",K03102,136
-2009,"Wolfsburg, Stadt",K03103,190
-2009,"Gifhorn",K03151,82
-2009,"Goslar",K03153,79
-2009,"Helmstedt",K03154,41
-2009,"Northeim",K03155,42
-2009,"Peine",K03157,84
-2009,"Wolfenbüttel",K03158,71
-2009,"Göttingen",K03159,222
-2009,"Statistische Region Braunschweig",K031,1241
-2009,"Region Hannover",K03241,2002
-2009,"dav. Hannover, Lhst.",K03241001,1329
-2009,"dav. Hannover, Umland",K03241999,673
-2009,"Diepholz",K03251,137
-2009,"Hameln-Pyrmont",K03252,131
-2009,"Hildesheim",K03254,244
-2009,"Holzminden",K03255,47
-2009,"Nienburg (Weser)",K03256,106
-2009,"Schaumburg",K03257,127
-2009,"Statistische Region Hannover",K032,2794
-2009,"Celle",K03351,137
-2009,"Cuxhaven",K03352,123
-2009,"Harburg",K03353,204
-2009,"Lüchow-Dannenberg",K03354,8
-2009,"Lüneburg",K03355,167
-2009,"Osterholz",K03356,66
-2009,"Rotenburg (Wümme)",K03357,109
-2009,"Heidekreis",K03358,93
-2009,"Stade",K03359,134
-2009,"Uelzen",K03360,51
-2009,"Verden",K03361,124
-2009,"Statistische Region Lüneburg",K033,1216
-2009,"Delmenhorst, Stadt",K03401,204
-2009,"Emden, Stadt",K03402,37
-2009,"Oldenburg (Oldb), Stadt",K03403,215
-2009,"Osnabrück, Stadt",K03404,222
-2009,"Wilhelmshaven, Stadt",K03405,110
-2009,"Ammerland",K03451,44
-2009,"Aurich",K03452,106
-2009,"Cloppenburg",K03453,101
-2009,"Emsland",K03454,109
-2009,"Friesland",K03455,39
-2009,"Grafschaft Bentheim",K03456,109
-2009,"Leer",K03457,129
-2009,"Oldenburg",K03458,81
-2009,"Osnabrück",K03459,189
-2009,"Vechta",K03460,179
-2009,"Wesermarsch",K03461,86
-2009,"Wittmund",K03462,12
-2009,"Statistische Region Weser-Ems",K034,1972
-2009,"Niedersachsen",K030,7223
-2010,"Braunschweig, Stadt",K03101,314
-2010,"Salzgitter, Stadt",K03102,120
-2010,"Wolfsburg, Stadt",K03103,194
-2010,"Gifhorn",K03151,90
-2010,"Goslar",K03153,135
-2010,"Helmstedt",K03154,49
-2010,"Northeim",K03155,70
-2010,"Peine",K03157,119
-2010,"Wolfenbüttel",K03158,77
-2010,"Göttingen",K03159,183
-2010,"Statistische Region Braunschweig",K031,1351
-2010,"Region Hannover",K03241,1866
-2010,"dav. Hannover, Lhst.",K03241001,1276
-2010,"dav. Hannover, Umland",K03241999,590
-2010,"Diepholz",K03251,143
-2010,"Hameln-Pyrmont",K03252,93
-2010,"Hildesheim",K03254,245
-2010,"Holzminden",K03255,36
-2010,"Nienburg (Weser)",K03256,132
-2010,"Schaumburg",K03257,124
-2010,"Statistische Region Hannover",K032,2639
-2010,"Celle",K03351,136
-2010,"Cuxhaven",K03352,114
-2010,"Harburg",K03353,207
-2010,"Lüchow-Dannenberg",K03354,6
-2010,"Lüneburg",K03355,172
-2010,"Osterholz",K03356,67
-2010,"Rotenburg (Wümme)",K03357,103
-2010,"Heidekreis",K03358,80
-2010,"Stade",K03359,152
-2010,"Uelzen",K03360,44
-2010,"Verden",K03361,117
-2010,"Statistische Region Lüneburg",K033,1198
-2010,"Delmenhorst, Stadt",K03401,214
-2010,"Emden, Stadt",K03402,36
-2010,"Oldenburg (Oldb), Stadt",K03403,234
-2010,"Osnabrück, Stadt",K03404,233
-2010,"Wilhelmshaven, Stadt",K03405,107
-2010,"Ammerland",K03451,63
-2010,"Aurich",K03452,138
-2010,"Cloppenburg",K03453,89
-2010,"Emsland",K03454,152
-2010,"Friesland",K03455,81
-2010,"Grafschaft Bentheim",K03456,132
-2010,"Leer",K03457,121
-2010,"Oldenburg",K03458,95
-2010,"Osnabrück",K03459,211
-2010,"Vechta",K03460,164
-2010,"Wesermarsch",K03461,75
-2010,"Wittmund",K03462,30
-2010,"Statistische Region Weser-Ems",K034,2175
-2010,"Niedersachsen",K030,7363
-2011,"Braunschweig, Stadt",K03101,288
-2011,"Salzgitter, Stadt",K03102,141
-2011,"Wolfsburg, Stadt",K03103,203
-2011,"Gifhorn",K03151,88
-2011,"Goslar",K03153,106
-2011,"Helmstedt",K03154,55
-2011,"Northeim",K03155,84
-2011,"Peine",K03157,124
-2011,"Wolfenbüttel",K03158,100
-2011,"Göttingen",K03159,312
-2011,"Statistische Region Braunschweig",K031,1501
-2011,"Region Hannover",K03241,2166
-2011,"dav. Hannover, Lhst.",K03241001,1449
-2011,"dav. Hannover, Umland",K03241999,717
-2011,"Diepholz",K03251,135
-2011,"Hameln-Pyrmont",K03252,138
-2011,"Hildesheim",K03254,260
-2011,"Holzminden",K03255,52
-2011,"Nienburg (Weser)",K03256,121
-2011,"Schaumburg",K03257,130
-2011,"Statistische Region Hannover",K032,3002
-2011,"Celle",K03351,160
-2011,"Cuxhaven",K03352,116
-2011,"Harburg",K03353,225
-2011,"Lüchow-Dannenberg",K03354,5
-2011,"Lüneburg",K03355,152
-2011,"Osterholz",K03356,47
-2011,"Rotenburg (Wümme)",K03357,123
-2011,"Heidekreis",K03358,114
-2011,"Stade",K03359,122
-2011,"Uelzen",K03360,57
-2011,"Verden",K03361,144
-2011,"Statistische Region Lüneburg",K033,1265
-2011,"Delmenhorst, Stadt",K03401,202
-2011,"Emden, Stadt",K03402,46
-2011,"Oldenburg (Oldb), Stadt",K03403,222
-2011,"Osnabrück, Stadt",K03404,260
-2011,"Wilhelmshaven, Stadt",K03405,83
-2011,"Ammerland",K03451,76
-2011,"Aurich",K03452,148
-2011,"Cloppenburg",K03453,109
-2011,"Emsland",K03454,171
-2011,"Friesland",K03455,66
-2011,"Grafschaft Bentheim",K03456,133
-2011,"Leer",K03457,86
-2011,"Oldenburg",K03458,144
-2011,"Osnabrück",K03459,194
-2011,"Vechta",K03460,215
-2011,"Wesermarsch",K03461,60
-2011,"Wittmund",K03462,12
-2011,"Statistische Region Weser-Ems",K034,2227
-2011,"Niedersachsen",K030,7995
-2012,"Braunschweig, Stadt",K03101,408
-2012,"Salzgitter, Stadt",K03102,159
-2012,"Wolfsburg, Stadt",K03103,222
-2012,"Gifhorn",K03151,125
-2012,"Goslar",K03153,141
-2012,"Helmstedt",K03154,48
-2012,"Northeim",K03155,102
-2012,"Peine",K03157,138
-2012,"Wolfenbüttel",K03158,97
-2012,"Göttingen",K03159,348
-2012,"Statistische Region Braunschweig",K031,1788
-2012,"Region Hannover",K03241,2363
-2012,"dav. Hannover, Lhst.",K03241001,1509
-2012,"dav. Hannover, Umland",K03241999,854
-2012,"Diepholz",K03251,146
-2012,"Hameln-Pyrmont",K03252,155
-2012,"Hildesheim",K03254,268
-2012,"Holzminden",K03255,62
-2012,"Nienburg (Weser)",K03256,110
-2012,"Schaumburg",K03257,161
-2012,"Statistische Region Hannover",K032,3265
-2012,"Celle",K03351,120
-2012,"Cuxhaven",K03352,141
-2012,"Harburg",K03353,153
-2012,"Lüchow-Dannenberg",K03354,13
-2012,"Lüneburg",K03355,199
-2012,"Osterholz",K03356,75
-2012,"Rotenburg (Wümme)",K03357,106
-2012,"Heidekreis",K03358,114
-2012,"Stade",K03359,166
-2012,"Uelzen",K03360,47
-2012,"Verden",K03361,132
-2012,"Statistische Region Lüneburg",K033,1266
-2012,"Delmenhorst, Stadt",K03401,180
-2012,"Emden, Stadt",K03402,25
-2012,"Oldenburg (Oldb), Stadt",K03403,210
-2012,"Osnabrück, Stadt",K03404,258
-2012,"Wilhelmshaven, Stadt",K03405,83
-2012,"Ammerland",K03451,87
-2012,"Aurich",K03452,116
-2012,"Cloppenburg",K03453,124
-2012,"Emsland",K03454,157
-2012,"Friesland",K03455,47
-2012,"Grafschaft Bentheim",K03456,131
-2012,"Leer",K03457,94
-2012,"Oldenburg",K03458,129
-2012,"Osnabrück",K03459,228
-2012,"Vechta",K03460,205
-2012,"Wesermarsch",K03461,95
-2012,"Wittmund",K03462,38
-2012,"Statistische Region Weser-Ems",K034,2207
-2012,"Niedersachsen",K030,8526
-2013,"Braunschweig, Stadt",K03101,418
-2013,"Salzgitter, Stadt",K03102,135
-2013,"Wolfsburg, Stadt",K03103,252
-2013,"Gifhorn",K03151,112
-2013,"Goslar",K03153,116
-2013,"Helmstedt",K03154,54
-2013,"Northeim",K03155,101
-2013,"Peine",K03157,119
-2013,"Wolfenbüttel",K03158,113
-2013,"Göttingen",K03159,299
-2013,"Statistische Region Braunschweig",K031,1719
-2013,"Region Hannover",K03241,2061
-2013,"dav. Hannover, Lhst.",K03241001,1337
-2013,"dav. Hannover, Umland",K03241999,724
-2013,"Diepholz",K03251,157
-2013,"Hameln-Pyrmont",K03252,180
-2013,"Hildesheim",K03254,259
-2013,"Holzminden",K03255,33
-2013,"Nienburg (Weser)",K03256,107
-2013,"Schaumburg",K03257,146
-2013,"Statistische Region Hannover",K032,2943
-2013,"Celle",K03351,148
-2013,"Cuxhaven",K03352,125
-2013,"Harburg",K03353,194
-2013,"Lüchow-Dannenberg",K03354,12
-2013,"Lüneburg",K03355,185
-2013,"Osterholz",K03356,57
-2013,"Rotenburg (Wümme)",K03357,118
-2013,"Heidekreis",K03358,108
-2013,"Stade",K03359,172
-2013,"Uelzen",K03360,34
-2013,"Verden",K03361,122
-2013,"Statistische Region Lüneburg",K033,1275
-2013,"Delmenhorst, Stadt",K03401,152
-2013,"Emden, Stadt",K03402,72
-2013,"Oldenburg (Oldb), Stadt",K03403,245
-2013,"Osnabrück, Stadt",K03404,265
-2013,"Wilhelmshaven, Stadt",K03405,109
-2013,"Ammerland",K03451,74
-2013,"Aurich",K03452,122
-2013,"Cloppenburg",K03453,103
-2013,"Emsland",K03454,146
-2013,"Friesland",K03455,80
-2013,"Grafschaft Bentheim",K03456,136
-2013,"Leer",K03457,92
-2013,"Oldenburg",K03458,131
-2013,"Osnabrück",K03459,231
-2013,"Vechta",K03460,207
-2013,"Wesermarsch",K03461,85
-2013,"Wittmund",K03462,29
-2013,"Statistische Region Weser-Ems",K034,2279
-2013,"Niedersachsen",K030,8216
-2014,"Braunschweig, Stadt",K03101,315
-2014,"Salzgitter, Stadt",K03102,124
-2014,"Wolfsburg, Stadt",K03103,254
-2014,"Gifhorn",K03151,114
-2014,"Goslar",K03153,112
-2014,"Helmstedt",K03154,28
-2014,"Northeim",K03155,74
-2014,"Peine",K03157,105
-2014,"Wolfenbüttel",K03158,104
-2014,"Göttingen",K03159,290
-2014,"Statistische Region Braunschweig",K031,1520
-2014,"Region Hannover",K03241,2057
-2014,"dav. Hannover, Lhst.",K03241001,1375
-2014,"dav. Hannover, Umland",K03241999,682
-2014,"Diepholz",K03251,145
-2014,"Hameln-Pyrmont",K03252,90
-2014,"Hildesheim",K03254,283
-2014,"Holzminden",K03255,44
-2014,"Nienburg (Weser)",K03256,102
-2014,"Schaumburg",K03257,111
-2014,"Statistische Region Hannover",K032,2832
-2014,"Celle",K03351,149
-2014,"Cuxhaven",K03352,114
-2014,"Harburg",K03353,236
-2014,"Lüchow-Dannenberg",K03354,7
-2014,"Lüneburg",K03355,199
-2014,"Osterholz",K03356,65
-2014,"Rotenburg (Wümme)",K03357,105
-2014,"Heidekreis",K03358,99
-2014,"Stade",K03359,144
-2014,"Uelzen",K03360,17
-2014,"Verden",K03361,134
-2014,"Statistische Region Lüneburg",K033,1269
-2014,"Delmenhorst, Stadt",K03401,139
-2014,"Emden, Stadt",K03402,75
-2014,"Oldenburg (Oldb), Stadt",K03403,214
-2014,"Osnabrück, Stadt",K03404,240
-2014,"Wilhelmshaven, Stadt",K03405,91
-2014,"Ammerland",K03451,100
-2014,"Aurich",K03452,112
-2014,"Cloppenburg",K03453,108
-2014,"Emsland",K03454,163
-2014,"Friesland",K03455,70
-2014,"Grafschaft Bentheim",K03456,138
-2014,"Leer",K03457,81
-2014,"Oldenburg",K03458,103
-2014,"Osnabrück",K03459,207
-2014,"Vechta",K03460,176
-2014,"Wesermarsch",K03461,69
-2014,"Wittmund",K03462,15
-2014,"Statistische Region Weser-Ems",K034,2101
-2014,"Niedersachsen",K030,7722
-2015,"Braunschweig, Stadt",K03101,379
-2015,"Salzgitter, Stadt",K03102,123
-2015,"Wolfsburg, Stadt",K03103,290
-2015,"Gifhorn",K03151,140
-2015,"Goslar",K03153,87
-2015,"Helmstedt",K03154,42
-2015,"Northeim",K03155,62
-2015,"Peine",K03157,136
-2015,"Wolfenbüttel",K03158,116
-2015,"Göttingen",K03159,320
-2015,"Statistische Region Braunschweig",K031,1695
-2015,"Region Hannover",K03241,1932
-2015,"dav. Hannover, Lhst.",K03241001,1202
-2015,"dav. Hannover, Umland",K03241999,730
-2015,"Diepholz",K03251,121
-2015,"Hameln-Pyrmont",K03252,186
-2015,"Hildesheim",K03254,234
-2015,"Holzminden",K03255,55
-2015,"Nienburg (Weser)",K03256,124
-2015,"Schaumburg",K03257,173
-2015,"Statistische Region Hannover",K032,2825
-2015,"Celle",K03351,197
-2015,"Cuxhaven",K03352,127
-2015,"Harburg",K03353,203
-2015,"Lüchow-Dannenberg",K03354,10
-2015,"Lüneburg",K03355,158
-2015,"Osterholz",K03356,84
-2015,"Rotenburg (Wümme)",K03357,93
-2015,"Heidekreis",K03358,101
-2015,"Stade",K03359,147
-2015,"Uelzen",K03360,40
-2015,"Verden",K03361,143
-2015,"Statistische Region Lüneburg",K033,1303
-2015,"Delmenhorst, Stadt",K03401,121
-2015,"Emden, Stadt",K03402,66
-2015,"Oldenburg (Oldb), Stadt",K03403,252
-2015,"Osnabrück, Stadt",K03404,273
-2015,"Wilhelmshaven, Stadt",K03405,100
-2015,"Ammerland",K03451,153
-2015,"Aurich",K03452,108
-2015,"Cloppenburg",K03453,101
-2015,"Emsland",K03454,116
-2015,"Friesland",K03455,54
-2015,"Grafschaft Bentheim",K03456,172
-2015,"Leer",K03457,98
-2015,"Oldenburg",K03458,99
-2015,"Osnabrück",K03459,183
-2015,"Vechta",K03460,165
-2015,"Wesermarsch",K03461,79
-2015,"Wittmund",K03462,25
-2015,"Statistische Region Weser-Ems",K034,2165
-2015,"Niedersachsen",K030,7988
-2016,"Braunschweig, Stadt",K03101,391
-2016,"Salzgitter, Stadt",K03102,129
-2016,"Wolfsburg, Stadt",K03103,317
-2016,"Gifhorn",K03151,180
-2016,"Goslar",K03153,128
-2016,"Helmstedt",K03154,38
-2016,"Northeim",K03155,100
-2016,"Peine",K03157,115
-2016,"Wolfenbüttel",K03158,124
-2016,"Göttingen",K03159,345
-2016,"Statistische Region Braunschweig",K031,1867
-2016,"Region Hannover",K03241,2128
-2016,"dav. Hannover, Lhst.",K03241001,1300
-2016,"dav. Hannover, Umland",K03241999,828
-2016,"Diepholz",K03251,180
-2016,"Hameln-Pyrmont",K03252,159
-2016,"Hildesheim",K03254,251
-2016,"Holzminden",K03255,26
-2016,"Nienburg (Weser)",K03256,115
-2016,"Schaumburg",K03257,146
-2016,"Statistische Region Hannover",K032,3005
-2016,"Celle",K03351,124
-2016,"Cuxhaven",K03352,133
-2016,"Harburg",K03353,298
-2016,"Lüchow-Dannenberg",K03354,17
-2016,"Lüneburg",K03355,158
-2016,"Osterholz",K03356,70
-2016,"Rotenburg (Wümme)",K03357,88
-2016,"Heidekreis",K03358,123
-2016,"Stade",K03359,160
-2016,"Uelzen",K03360,39
-2016,"Verden",K03361,121
-2016,"Statistische Region Lüneburg",K033,1331
-2016,"Delmenhorst, Stadt",K03401,122
-2016,"Emden, Stadt",K03402,47
-2016,"Oldenburg (Oldb), Stadt",K03403,320
-2016,"Osnabrück, Stadt",K03404,279
-2016,"Wilhelmshaven, Stadt",K03405,116
-2016,"Ammerland",K03451,177
-2016,"Aurich",K03452,145
-2016,"Cloppenburg",K03453,74
-2016,"Emsland",K03454,184
-2016,"Friesland",K03455,33
-2016,"Grafschaft Bentheim",K03456,112
-2016,"Leer",K03457,93
-2016,"Oldenburg",K03458,118
-2016,"Osnabrück",K03459,222
-2016,"Vechta",K03460,169
-2016,"Wesermarsch",K03461,87
-2016,"Wittmund",K03462,18
-2016,"Statistische Region Weser-Ems",K034,2316
-2016,"Niedersachsen",K030,8519
-2017,"Braunschweig, Stadt",K03101,390
-2017,"Salzgitter, Stadt",K03102,147
-2017,"Wolfsburg, Stadt",K03103,277
-2017,"Gifhorn",K03151,143
-2017,"Goslar",K03153,133
-2017,"Helmstedt",K03154,64
-2017,"Northeim",K03155,84
-2017,"Peine",K03157,154
-2017,"Wolfenbüttel",K03158,109
-2017,"Göttingen",K03159,340
-2017,"Statistische Region Braunschweig",K031,1841
-2017,"Region Hannover",K03241,2234
-2017,"dav. Hannover, Lhst.",K03241001,1321
-2017,"dav. Hannover, Umland",K03241999,913
-2017,"Diepholz",K03251,196
-2017,"Hameln-Pyrmont",K03252,164
-2017,"Hildesheim",K03254,239
-2017,"Holzminden",K03255,58
-2017,"Nienburg (Weser)",K03256,83
-2017,"Schaumburg",K03257,172
-2017,"Statistische Region Hannover",K032,3146
-2017,"Celle",K03351,191
-2017,"Cuxhaven",K03352,166
-2017,"Harburg",K03353,345
-2017,"Lüchow-Dannenberg",K03354,20
-2017,"Lüneburg",K03355,168
-2017,"Osterholz",K03356,54
-2017,"Rotenburg (Wümme)",K03357,87
-2017,"Heidekreis",K03358,130
-2017,"Stade",K03359,114
-2017,"Uelzen",K03360,19
-2017,"Verden",K03361,115
-2017,"Statistische Region Lüneburg",K033,1409
-2017,"Delmenhorst, Stadt",K03401,87
-2017,"Emden, Stadt",K03402,42
-2017,"Oldenburg (Oldb), Stadt",K03403,287
-2017,"Osnabrück, Stadt",K03404,291
-2017,"Wilhelmshaven, Stadt",K03405,115
-2017,"Ammerland",K03451,132
-2017,"Aurich",K03452,155
-2017,"Cloppenburg",K03453,117
-2017,"Emsland",K03454,156
-2017,"Friesland",K03455,25
-2017,"Grafschaft Bentheim",K03456,124
-2017,"Leer",K03457,97
-2017,"Oldenburg",K03458,126
-2017,"Osnabrück",K03459,287
-2017,"Vechta",K03460,228
-2017,"Wesermarsch",K03461,99
-2017,"Wittmund",K03462,21
-2017,"Statistische Region Weser-Ems",K034,2389
-2017,"Niedersachsen",K030,8785
-2018,"Braunschweig, Stadt",K03101,249
-2018,"Salzgitter, Stadt",K03102,162
-2018,"Wolfsburg, Stadt",K03103,341
-2018,"Gifhorn",K03151,165
-2018,"Goslar",K03153,98
-2018,"Helmstedt",K03154,59
-2018,"Northeim",K03155,106
-2018,"Peine",K03157,129
-2018,"Wolfenbüttel",K03158,118
-2018,"Göttingen",K03159,354
-2018,"Statistische Region Braunschweig",K031,1781
-2018,"Region Hannover",K03241,1973
-2018,"dav. Hannover, Lhst.",K03241001,1131
-2018,"dav. Hannover, Umland",K03241999,842
-2018,"Diepholz",K03251,235
-2018,"Hameln-Pyrmont",K03252,193
-2018,"Hildesheim",K03254,303
-2018,"Holzminden",K03255,50
-2018,"Nienburg (Weser)",K03256,102
-2018,"Schaumburg",K03257,134
-2018,"Statistische Region Hannover",K032,2990
-2018,"Celle",K03351,170
-2018,"Cuxhaven",K03352,114
-2018,"Harburg",K03353,282
-2018,"Lüchow-Dannenberg",K03354,19
-2018,"Lüneburg",K03355,148
-2018,"Osterholz",K03356,72
-2018,"Rotenburg (Wümme)",K03357,107
-2018,"Heidekreis",K03358,146
-2018,"Stade",K03359,180
-2018,"Uelzen",K03360,46
-2018,"Verden",K03361,105
-2018,"Statistische Region Lüneburg",K033,1389
-2018,"Delmenhorst, Stadt",K03401,123
-2018,"Emden, Stadt",K03402,40
-2018,"Oldenburg (Oldb), Stadt",K03403,310
-2018,"Osnabrück, Stadt",K03404,309
-2018,"Wilhelmshaven, Stadt",K03405,109
-2018,"Ammerland",K03451,57
-2018,"Aurich",K03452,144
-2018,"Cloppenburg",K03453,122
-2018,"Emsland",K03454,127
-2018,"Friesland",K03455,31
-2018,"Grafschaft Bentheim",K03456,173
-2018,"Leer",K03457,94
-2018,"Oldenburg",K03458,104
-2018,"Osnabrück",K03459,298
-2018,"Vechta",K03460,171
-2018,"Wesermarsch",K03461,77
-2018,"Wittmund",K03462,21
-2018,"Statistische Region Weser-Ems",K034,2310
-2018,"Niedersachsen",K030,8470
-2019,"Braunschweig, Stadt",K03101,280
-2019,"Salzgitter, Stadt",K03102,168
-2019,"Wolfsburg, Stadt",K03103,325
-2019,"Gifhorn",K03151,173
-2019,"Goslar",K03153,102
-2019,"Helmstedt",K03154,96
-2019,"Northeim",K03155,129
-2019,"Peine",K03157,192
-2019,"Wolfenbüttel",K03158,134
-2019,"Göttingen",K03159,378
-2019,"Statistische Region Braunschweig",K031,1977
-2019,"Region Hannover",K03241,2465
-2019,"dav. Hannover, Lhst.",K03241001,1404
-2019,"dav. Hannover, Umland",K03241999,891
-2019,"Diepholz",K03251,308
-2019,"Hameln-Pyrmont",K03252,278
-2019,"Hildesheim",K03254,355
-2019,"Holzminden",K03255,59
-2019,"Nienburg (Weser)",K03256,170
-2019,"Schaumburg",K03257,234
-2019,"Statistische Region Hannover",K032,3869
-2019,"Celle",K03351,338
-2019,"Cuxhaven",K03352,149
-2019,"Harburg",K03353,279
-2019,"Lüchow-Dannenberg",K03354,26
-2019,"Lüneburg",K03355,253
-2019,"Osterholz",K03356,114
-2019,"Rotenburg (Wümme)",K03357,126
-2019,"Heidekreis",K03358,192
-2019,"Stade",K03359,279
-2019,"Uelzen",K03360,74
-2019,"Verden",K03361,177
-2019,"Statistische Region Lüneburg",K033,2007
-2019,"Delmenhorst, Stadt",K03401,155
-2019,"Emden, Stadt",K03402,34
-2019,"Oldenburg (Oldb), Stadt",K03403,303
-2019,"Osnabrück, Stadt",K03404,407
-2019,"Wilhelmshaven, Stadt",K03405,125
-2019,"Ammerland",K03451,111
-2019,"Aurich",K03452,142
-2019,"Cloppenburg",K03453,149
-2019,"Emsland",K03454,237
-2019,"Friesland",K03455,81
-2019,"Grafschaft Bentheim",K03456,207
-2019,"Leer",K03457,143
-2019,"Oldenburg",K03458,170
-2019,"Osnabrück",K03459,428
-2019,"Vechta",K03460,231
-2019,"Wesermarsch",K03461,106
-2019,"Wittmund",K03462,50
-2019,"Statistische Region Weser-Ems",K034,3079
-2019,"Niedersachsen",K030,10932
-2020,"Braunschweig, Stadt",K03101,407
-2020,"Salzgitter, Stadt",K03102,126
-2020,"Wolfsburg, Stadt",K03103,222
-2020,"Gifhorn",K03151,145
-2020,"Goslar",K03153,85
-2020,"Helmstedt",K03154,68
-2020,"Northeim",K03155,93
-2020,"Peine",K03157,139
-2020,"Wolfenbüttel",K03158,87
-2020,"Göttingen",K03159,288
-2020,"Statistische Region Braunschweig",K031,1660
-2020,"Region Hannover",K03241,1948
-2020,"dav. Hannover, Lhst.",K03241001,1057
-2020,"dav. Hannover, Umland",K03241999,891
-2020,"Diepholz",K03251,231
-2020,"Hameln-Pyrmont",K03252,188
-2020,"Hildesheim",K03254,398
-2020,"Holzminden",K03255,41
-2020,"Nienburg (Weser)",K03256,127
-2020,"Schaumburg",K03257,186
-2020,"Statistische Region Hannover",K032,3119
-2020,"Celle",K03351,264
-2020,"Cuxhaven",K03352,162
-2020,"Harburg",K03353,280
-2020,"Lüchow-Dannenberg",K03354,15
-2020,"Lüneburg",K03355,218
-2020,"Osterholz",K03356,77
-2020,"Rotenburg (Wümme)",K03357,86
-2020,"Heidekreis",K03358,199
-2020,"Stade",K03359,166
-2020,"Uelzen",K03360,152
-2020,"Verden",K03361,114
-2020,"Statistische Region Lüneburg",K033,1733
-2020,"Delmenhorst, Stadt",K03401,157
-2020,"Emden, Stadt",K03402,34
-2020,"Oldenburg (Oldb), Stadt",K03403,236
-2020,"Osnabrück, Stadt",K03404,369
-2020,"Wilhelmshaven, Stadt",K03405,83
-2020,"Ammerland",K03451,92
-2020,"Aurich",K03452,112
-2020,"Cloppenburg",K03453,129
-2020,"Emsland",K03454,175
-2020,"Friesland",K03455,71
-2020,"Grafschaft Bentheim",K03456,168
-2020,"Leer",K03457,121
-2020,"Oldenburg",K03458,96
-2020,"Osnabrück",K03459,196
-2020,"Vechta",K03460,226
-2020,"Wesermarsch",K03461,73
-2020,"Wittmund",K03462,28
-2020,"Statistische Region Weser-Ems",K034,2366
-2020,"Niedersachsen",K030,8878
-2021,"Braunschweig, Stadt",K03101,469
-2021,"Salzgitter, Stadt",K03102,163
-2021,"Wolfsburg, Stadt",K03103,283
-2021,"Gifhorn",K03151,119
-2021,"Goslar",K03153,113
-2021,"Helmstedt",K03154,78
-2021,"Northeim",K03155,97
-2021,"Peine",K03157,222
-2021,"Wolfenbüttel",K03158,138
-2021,"Göttingen",K03159,371
-2021,"Statistische Region Braunschweig",K031,2053
-2021,"Region Hannover",K03241,1929
-2021,"dav. Hannover, Lhst.",K03241001,1036
-2021,"dav. Hannover, Umland",K03241999,893
-2021,"Diepholz",K03251,236
-2021,"Hameln-Pyrmont",K03252,177
-2021,"Hildesheim",K03254,439
-2021,"Holzminden",K03255,62
-2021,"Nienburg (Weser)",K03256,139
-2021,"Schaumburg",K03257,214
-2021,"Statistische Region Hannover",K032,3196
-2021,"Celle",K03351,175
-2021,"Cuxhaven",K03352,215
-2021,"Harburg",K03353,456
-2021,"Lüchow-Dannenberg",K03354,21
-2021,"Lüneburg",K03355,425
-2021,"Osterholz",K03356,82
-2021,"Rotenburg (Wümme)",K03357,154
-2021,"Heidekreis",K03358,179
-2021,"Stade",K03359,209
-2021,"Uelzen",K03360,110
-2021,"Verden",K03361,92
-2021,"Statistische Region Lüneburg",K033,2118
-2021,"Delmenhorst, Stadt",K03401,154
-2021,"Emden, Stadt",K03402,47
-2021,"Oldenburg (Oldb), Stadt",K03403,239
-2021,"Osnabrück, Stadt",K03404,449
-2021,"Wilhelmshaven, Stadt",K03405,182
-2021,"Ammerland",K03451,69
-2021,"Aurich",K03452,207
-2021,"Cloppenburg",K03453,92
-2021,"Emsland",K03454,263
-2021,"Friesland",K03455,80
-2021,"Grafschaft Bentheim",K03456,312
-2021,"Leer",K03457,131
-2021,"Oldenburg",K03458,158
-2021,"Osnabrück",K03459,259
-2021,"Vechta",K03460,292
-2021,"Wesermarsch",K03461,109
-2021,"Wittmund",K03462,9
-2021,"Statistische Region Weser-Ems",K034,3052
-2021,"Niedersachsen",,10419
-2022,"Braunschweig, Stadt",K03101,613
-2022,"Salzgitter, Stadt",K03102,339
-2022,"Wolfsburg, Stadt",K03103,386
-2022,"Gifhorn",K03151,149
-2022,"Goslar",K03153,342
-2022,"Helmstedt",K03154,104
-2022,"Northeim",K03155,149
-2022,"Peine",K03157,336
-2022,"Wolfenbüttel",K03158,132
-2022,"Göttingen",K03159,442
-2022,"Statistische Region Braunschweig",K031,2992
-2022,"Region Hannover",K03241,2121
-2022,"dav. Hannover, Lhst.",K03241001,952
-2022,"dav. Hannover, Umland",K03241999,1169
-2022,"Diepholz",K03251,470
-2022,"Hameln-Pyrmont",K03252,390
-2022,"Hildesheim",K03254,416
-2022,"Holzminden",K03255,96
-2022,"Nienburg (Weser)",K03256,177
-2022,"Schaumburg",K03257,315
-2022,"Statistische Region Hannover",K032,3985
-2022,"Celle",K03351,127
-2022,"Cuxhaven",K03352,303
-2022,"Harburg",K03353,485
-2022,"Lüchow-Dannenberg",K03354,72
-2022,"Lüneburg",K03355,574
-2022,"Osterholz",K03356,112
-2022,"Rotenburg (Wümme)",K03357,185
-2022,"Heidekreis",K03358,225
-2022,"Stade",K03359,209
-2022,"Uelzen",K03360,136
-2022,"Verden",K03361,110
-2022,"Statistische Region Lüneburg",K033,2538
-2022,"Delmenhorst, Stadt",K03401,204
-2022,"Emden, Stadt",K03402,136
-2022,"Oldenburg (Oldb), Stadt",K03403,329
-2022,"Osnabrück, Stadt",K03404,331
-2022,"Wilhelmshaven, Stadt",K03405,181
-2022,"Ammerland",K03451,120
-2022,"Aurich",K03452,241
-2022,"Cloppenburg",K03453,237
-2022,"Emsland",K03454,358
-2022,"Friesland",K03455,88
-2022,"Grafschaft Bentheim",K03456,408
-2022,"Leer",K03457,91
-2022,"Oldenburg",K03458,218
-2022,"Osnabrück",K03459,436
-2022,"Vechta",K03460,427
-2022,"Wesermarsch",K03461,107
-2022,"Wittmund",K03462,8
-2022,"Statistische Region Weser-Ems",K034,3920
-2022,"Niedersachsen",,13435
-2023,"Braunschweig, Stadt",K03101,880
-2023,"Salzgitter, Stadt",K03102,408
-2023,"Wolfsburg, Stadt",K03103,666
-2023,"Gifhorn",K03151,158
-2023,"Goslar",K03153,443
-2023,"Helmstedt",K03154,101
-2023,"Northeim",K03155,210
-2023,"Peine",K03157,266
-2023,"Wolfenbüttel",K03158,183
-2023,"Göttingen",K03159,757
-2023,"Statistische Region Braunschweig",K031,4072
-2023,"Region Hannover",K03241,2600
-2023,"dav. Hannover, Lhst.",K03241001,1372
-2023,"dav. Hannover, Umland",K03241999,1228
-2023,"Diepholz",K03251,321
-2023,"Hameln-Pyrmont",K03252,122
-2023,"Hildesheim",K03254,649
-2023,"Holzminden",K03255,94
-2023,"Nienburg (Weser)",K03256,193
-2023,"Schaumburg",K03257,301
-2023,"Statistische Region Hannover",K032,4280
-2023,"Celle",K03351,219
-2023,"Cuxhaven",K03352,401
-2023,"Harburg",K03353,776
-2023,"Lüchow-Dannenberg",K03354,49
-2023,"Lüneburg",K03355,537
-2023,"Osterholz",K03356,174
-2023,"Rotenburg (Wümme)",K03357,220
-2023,"Heidekreis",K03358,398
-2023,"Stade",K03359,368
-2023,"Uelzen",K03360,313
-2023,"Verden",K03361,178
-2023,"Statistische Region Lüneburg",K033,3633
-2023,"Delmenhorst, Stadt",K03401,292
-2023,"Emden, Stadt",K03402,186
-2023,"Oldenburg (Oldb), Stadt",K03403,632
-2023,"Osnabrück, Stadt",K03404,592
-2023,"Wilhelmshaven, Stadt",K03405,124
-2023,"Ammerland",K03451,75
-2023,"Aurich",K03452,362
-2023,"Cloppenburg",K03453,78
-2023,"Emsland",K03454,554
-2023,"Friesland",K03455,98
-2023,"Grafschaft Bentheim",K03456,438
-2023,"Leer",K03457,99
-2023,"Oldenburg",K03458,232
-2023,"Osnabrück",K03459,487
-2023,"Vechta",K03460,541
-2023,"Wesermarsch",K03461,73
-2023,"Wittmund",K03462,20
-2023,"Statistische Region Weser-Ems",K034,4883
-2023,"Niedersachsen",,16868
-2024,"Braunschweig, Stadt",K03101,1209
-2024,"Salzgitter, Stadt",K03102,355
-2024,"Wolfsburg, Stadt",K03103,558
-2024,"Gifhorn",K03151,212
-2024,"Goslar",K03153,659
-2024,"Helmstedt",K03154,80
-2024,"Northeim",K03155,350
-2024,"Peine",K03157,208
-2024,"Wolfenbüttel",K03158,268
-2024,"Göttingen",K03159,828
-2024,"Statistische Region Braunschweig",K031,4727
-2024,"Region Hannover",K03241,4327
-2024,"dav. Hannover, Lhst.",K03241001,1940
-2024,"dav. Hannover, Umland",K03241999,2387
-2024,"Diepholz",K03251,348
-2024,"Hameln-Pyrmont",K03252,234
-2024,"Hildesheim",K03254,878
-2024,"Holzminden",K03255,148
-2024,"Nienburg (Weser)",K03256,368
-2024,"Schaumburg",K03257,588
-2024,"Statistische Region Hannover",K032,6891
-2024,"Celle",K03351,382
-2024,"Cuxhaven",K03352,358
-2024,"Harburg",K03353,881
-2024,"Lüchow-Dannenberg",K03354,85
-2024,"Lüneburg",K03355,514
-2024,"Osterholz",K03356,285
-2024,"Rotenburg (Wümme)",K03357,379
-2024,"Heidekreis",K03358,479
-2024,"Stade",K03359,716
-2024,"Uelzen",K03360,230
-2024,"Verden",K03361,169
-2024,"Statistische Region Lüneburg",K033,4478
-2024,"Delmenhorst, Stadt",K03401,323
-2024,"Emden, Stadt",K03402,190
-2024,"Oldenburg (Oldb), Stadt",K03403,1067
-2024,"Osnabrück, Stadt",K03404,870
-2024,"Wilhelmshaven, Stadt",K03405,182
-2024,"Ammerland",K03451,334
-2024,"Aurich",K03452,639
-2024,"Cloppenburg",K03453,276
-2024,"Emsland",K03454,664
-2024,"Friesland",K03455,141
-2024,"Grafschaft Bentheim",K03456,693
-2024,"Leer",K03457,96
-2024,"Oldenburg",K03458,315
-2024,"Osnabrück",K03459,353
-2024,"Vechta",K03460,941
-2024,"Wesermarsch",K03461,134
-2024,"Wittmund",K03462,67
-2024,"Statistische Region Weser-Ems",K034,7285
-2024,"Niedersachsen",,23381
+﻿,Year,Gebietseinheit,GeoCode,Value
+101,00,2005,"Braunschweig, Stadt",K03101,441
+102,00,2005,"Salzgitter, Stadt",K03102,178
+103,00,2005,"Wolfsburg, Stadt",K03103,185
+151,00,2005,"Gifhorn",K03151,177
+153,00,2005,"Goslar",K03153,182
+154,00,2005,"Helmstedt",K03154,40
+155,00,2005,"Northeim",K03155,113
+157,00,2005,"Peine",K03157,216
+158,00,2005,"Wolfenbüttel",K03158,145
+159,00,2005,"Göttingen",K03159,424
+1,00,2005,"Statistische Region Braunschweig",K031,2101
+241,00,2005,"Region Hannover",K03241,2810
+241001,00,2005,"dav. Hannover, Lhst.",K03241001,1605
+241999,00,2005,"dav. Hannover, Umland",K03241999,1205
+251,00,2005,"Diepholz",K03251,261
+252,00,2005,"Hameln-Pyrmont",K03252,308
+254,00,2005,"Hildesheim",K03254,559
+255,00,2005,"Holzminden",K03255,58
+256,00,2005,"Nienburg (Weser)",K03256,194
+257,00,2005,"Schaumburg",K03257,231
+2,00,2005,"Statistische Region Hannover",K032,4421
+351,00,2005,"Celle",K03351,214
+352,00,2005,"Cuxhaven",K03352,184
+353,00,2005,"Harburg",K03353,301
+354,00,2005,"Lüchow-Dannenberg",K03354,5
+355,00,2005,"Lüneburg",K03355,197
+356,00,2005,"Osterholz",K03356,59
+357,00,2005,"Rotenburg (Wümme)",K03357,86
+358,00,2005,"Heidekreis",K03358,146
+359,00,2005,"Stade",K03359,298
+360,00,2005,"Uelzen",K03360,53
+361,00,2005,"Verden",K03361,177
+3,00,2005,"Statistische Region Lüneburg",K033,1720
+401,00,2005,"Delmenhorst, Stadt",K03401,198
+402,00,2005,"Emden, Stadt",K03402,47
+403,00,2005,"Oldenburg (Oldb), Stadt",K03403,245
+404,00,2005,"Osnabrück, Stadt",K03404,460
+405,00,2005,"Wilhelmshaven, Stadt",K03405,183
+451,00,2005,"Ammerland",K03451,91
+452,00,2005,"Aurich",K03452,201
+453,00,2005,"Cloppenburg",K03453,83
+454,00,2005,"Emsland",K03454,165
+455,00,2005,"Friesland",K03455,71
+456,00,2005,"Grafschaft Bentheim",K03456,114
+457,00,2005,"Leer",K03457,124
+458,00,2005,"Oldenburg",K03458,91
+459,00,2005,"Osnabrück",K03459,166
+460,00,2005,"Vechta",K03460,287
+461,00,2005,"Wesermarsch",K03461,91
+462,00,2005,"Wittmund",K03462,27
+4,00,2005,"Statistische Region Weser-Ems",K034,2644
+0,2005,"Niedersachsen",K030,10886
+101,00,2006,"Braunschweig, Stadt",K03101,440
+102,00,2006,"Salzgitter, Stadt",K03102,201
+103,00,2006,"Wolfsburg, Stadt",K03103,193
+151,00,2006,"Gifhorn",K03151,236
+153,00,2006,"Goslar",K03153,226
+154,00,2006,"Helmstedt",K03154,55
+155,00,2006,"Northeim",K03155,169
+157,00,2006,"Peine",K03157,198
+158,00,2006,"Wolfenbüttel",K03158,187
+159,00,2006,"Göttingen",K03159,499
+1,00,2006,"Statistische Region Braunschweig",K031,2404
+241,00,2006,"Region Hannover",K03241,2779
+241001,00,2006,"dav. Hannover, Lhst.",K03241001,1748
+241999,00,2006,"dav. Hannover, Umland",K03241999,1031
+251,00,2006,"Diepholz",K03251,251
+252,00,2006,"Hameln-Pyrmont",K03252,258
+254,00,2006,"Hildesheim",K03254,602
+255,00,2006,"Holzminden",K03255,56
+256,00,2006,"Nienburg (Weser)",K03256,167
+257,00,2006,"Schaumburg",K03257,297
+2,00,2006,"Statistische Region Hannover",K032,4410
+351,00,2006,"Celle",K03351,263
+352,00,2006,"Cuxhaven",K03352,147
+353,00,2006,"Harburg",K03353,257
+354,00,2006,"Lüchow-Dannenberg",K03354,10
+355,00,2006,"Lüneburg",K03355,186
+356,00,2006,"Osterholz",K03356,60
+357,00,2006,"Rotenburg (Wümme)",K03357,84
+358,00,2006,"Heidekreis",K03358,135
+359,00,2006,"Stade",K03359,288
+360,00,2006,"Uelzen",K03360,57
+361,00,2006,"Verden",K03361,148
+3,00,2006,"Statistische Region Lüneburg",K033,1635
+401,00,2006,"Delmenhorst, Stadt",K03401,269
+402,00,2006,"Emden, Stadt",K03402,82
+403,00,2006,"Oldenburg (Oldb), Stadt",K03403,264
+404,00,2006,"Osnabrück, Stadt",K03404,534
+405,00,2006,"Wilhelmshaven, Stadt",K03405,146
+451,00,2006,"Ammerland",K03451,101
+452,00,2006,"Aurich",K03452,166
+453,00,2006,"Cloppenburg",K03453,123
+454,00,2006,"Emsland",K03454,183
+455,00,2006,"Friesland",K03455,43
+456,00,2006,"Grafschaft Bentheim",K03456,115
+457,00,2006,"Leer",K03457,173
+458,00,2006,"Oldenburg",K03458,99
+459,00,2006,"Osnabrück",K03459,338
+460,00,2006,"Vechta",K03460,236
+461,00,2006,"Wesermarsch",K03461,93
+462,00,2006,"Wittmund",K03462,27
+4,00,2006,"Statistische Region Weser-Ems",K034,2992
+0,2006,"Niedersachsen",K030,11441
+101,00,2007,"Braunschweig, Stadt",K03101,386
+102,00,2007,"Salzgitter, Stadt",K03102,165
+103,00,2007,"Wolfsburg, Stadt",K03103,216
+151,00,2007,"Gifhorn",K03151,206
+153,00,2007,"Goslar",K03153,166
+154,00,2007,"Helmstedt",K03154,64
+155,00,2007,"Northeim",K03155,132
+157,00,2007,"Peine",K03157,167
+158,00,2007,"Wolfenbüttel",K03158,112
+159,00,2007,"Göttingen",K03159,383
+1,00,2007,"Statistische Region Braunschweig",K031,1997
+241,00,2007,"Region Hannover",K03241,2364
+241001,00,2007,"dav. Hannover, Lhst.",K03241001,1671
+241999,00,2007,"dav. Hannover, Umland",K03241999,693
+251,00,2007,"Diepholz",K03251,241
+252,00,2007,"Hameln-Pyrmont",K03252,202
+254,00,2007,"Hildesheim",K03254,383
+255,00,2007,"Holzminden",K03255,26
+256,00,2007,"Nienburg (Weser)",K03256,113
+257,00,2007,"Schaumburg",K03257,184
+2,00,2007,"Statistische Region Hannover",K032,3513
+351,00,2007,"Celle",K03351,163
+352,00,2007,"Cuxhaven",K03352,130
+353,00,2007,"Harburg",K03353,177
+354,00,2007,"Lüchow-Dannenberg",K03354,17
+355,00,2007,"Lüneburg",K03355,157
+356,00,2007,"Osterholz",K03356,53
+357,00,2007,"Rotenburg (Wümme)",K03357,103
+358,00,2007,"Heidekreis",K03358,128
+359,00,2007,"Stade",K03359,189
+360,00,2007,"Uelzen",K03360,43
+361,00,2007,"Verden",K03361,128
+3,00,2007,"Statistische Region Lüneburg",K033,1288
+401,00,2007,"Delmenhorst, Stadt",K03401,267
+402,00,2007,"Emden, Stadt",K03402,75
+403,00,2007,"Oldenburg (Oldb), Stadt",K03403,253
+404,00,2007,"Osnabrück, Stadt",K03404,366
+405,00,2007,"Wilhelmshaven, Stadt",K03405,129
+451,00,2007,"Ammerland",K03451,68
+452,00,2007,"Aurich",K03452,158
+453,00,2007,"Cloppenburg",K03453,117
+454,00,2007,"Emsland",K03454,130
+455,00,2007,"Friesland",K03455,48
+456,00,2007,"Grafschaft Bentheim",K03456,124
+457,00,2007,"Leer",K03457,124
+458,00,2007,"Oldenburg",K03458,81
+459,00,2007,"Osnabrück",K03459,183
+460,00,2007,"Vechta",K03460,213
+461,00,2007,"Wesermarsch",K03461,96
+462,00,2007,"Wittmund",K03462,21
+4,00,2007,"Statistische Region Weser-Ems",K034,2453
+0,2007,"Niedersachsen",K030,9251
+101,00,2008,"Braunschweig, Stadt",K03101,286
+102,00,2008,"Salzgitter, Stadt",K03102,110
+103,00,2008,"Wolfsburg, Stadt",K03103,137
+151,00,2008,"Gifhorn",K03151,137
+153,00,2008,"Goslar",K03153,123
+154,00,2008,"Helmstedt",K03154,45
+155,00,2008,"Northeim",K03155,66
+157,00,2008,"Peine",K03157,140
+158,00,2008,"Wolfenbüttel",K03158,106
+159,00,2008,"Göttingen",K03159,274
+1,00,2008,"Statistische Region Braunschweig",K031,1424
+241,00,2008,"Region Hannover",K03241,2144
+241001,00,2008,"dav. Hannover, Lhst.",K03241001,1431
+241999,00,2008,"dav. Hannover, Umland",K03241999,713
+251,00,2008,"Diepholz",K03251,182
+252,00,2008,"Hameln-Pyrmont",K03252,181
+254,00,2008,"Hildesheim",K03254,334
+255,00,2008,"Holzminden",K03255,47
+256,00,2008,"Nienburg (Weser)",K03256,73
+257,00,2008,"Schaumburg",K03257,116
+2,00,2008,"Statistische Region Hannover",K032,3077
+351,00,2008,"Celle",K03351,120
+352,00,2008,"Cuxhaven",K03352,130
+353,00,2008,"Harburg",K03353,169
+354,00,2008,"Lüchow-Dannenberg",K03354,13
+355,00,2008,"Lüneburg",K03355,209
+356,00,2008,"Osterholz",K03356,53
+357,00,2008,"Rotenburg (Wümme)",K03357,83
+358,00,2008,"Heidekreis",K03358,122
+359,00,2008,"Stade",K03359,127
+360,00,2008,"Uelzen",K03360,74
+361,00,2008,"Verden",K03361,91
+3,00,2008,"Statistische Region Lüneburg",K033,1191
+401,00,2008,"Delmenhorst, Stadt",K03401,192
+402,00,2008,"Emden, Stadt",K03402,31
+403,00,2008,"Oldenburg (Oldb), Stadt",K03403,278
+404,00,2008,"Osnabrück, Stadt",K03404,255
+405,00,2008,"Wilhelmshaven, Stadt",K03405,88
+451,00,2008,"Ammerland",K03451,71
+452,00,2008,"Aurich",K03452,97
+453,00,2008,"Cloppenburg",K03453,68
+454,00,2008,"Emsland",K03454,118
+455,00,2008,"Friesland",K03455,64
+456,00,2008,"Grafschaft Bentheim",K03456,116
+457,00,2008,"Leer",K03457,110
+458,00,2008,"Oldenburg",K03458,61
+459,00,2008,"Osnabrück",K03459,219
+460,00,2008,"Vechta",K03460,150
+461,00,2008,"Wesermarsch",K03461,83
+462,00,2008,"Wittmund",K03462,11
+4,00,2008,"Statistische Region Weser-Ems",K034,2012
+0,2008,"Niedersachsen",K030,7704
+101,00,2009,"Braunschweig, Stadt",K03101,294
+102,00,2009,"Salzgitter, Stadt",K03102,136
+103,00,2009,"Wolfsburg, Stadt",K03103,190
+151,00,2009,"Gifhorn",K03151,82
+153,00,2009,"Goslar",K03153,79
+154,00,2009,"Helmstedt",K03154,41
+155,00,2009,"Northeim",K03155,42
+157,00,2009,"Peine",K03157,84
+158,00,2009,"Wolfenbüttel",K03158,71
+159,00,2009,"Göttingen",K03159,222
+1,00,2009,"Statistische Region Braunschweig",K031,1241
+241,00,2009,"Region Hannover",K03241,2002
+241001,00,2009,"dav. Hannover, Lhst.",K03241001,1329
+241999,00,2009,"dav. Hannover, Umland",K03241999,673
+251,00,2009,"Diepholz",K03251,137
+252,00,2009,"Hameln-Pyrmont",K03252,131
+254,00,2009,"Hildesheim",K03254,244
+255,00,2009,"Holzminden",K03255,47
+256,00,2009,"Nienburg (Weser)",K03256,106
+257,00,2009,"Schaumburg",K03257,127
+2,00,2009,"Statistische Region Hannover",K032,2794
+351,00,2009,"Celle",K03351,137
+352,00,2009,"Cuxhaven",K03352,123
+353,00,2009,"Harburg",K03353,204
+354,00,2009,"Lüchow-Dannenberg",K03354,8
+355,00,2009,"Lüneburg",K03355,167
+356,00,2009,"Osterholz",K03356,66
+357,00,2009,"Rotenburg (Wümme)",K03357,109
+358,00,2009,"Heidekreis",K03358,93
+359,00,2009,"Stade",K03359,134
+360,00,2009,"Uelzen",K03360,51
+361,00,2009,"Verden",K03361,124
+3,00,2009,"Statistische Region Lüneburg",K033,1216
+401,00,2009,"Delmenhorst, Stadt",K03401,204
+402,00,2009,"Emden, Stadt",K03402,37
+403,00,2009,"Oldenburg (Oldb), Stadt",K03403,215
+404,00,2009,"Osnabrück, Stadt",K03404,222
+405,00,2009,"Wilhelmshaven, Stadt",K03405,110
+451,00,2009,"Ammerland",K03451,44
+452,00,2009,"Aurich",K03452,106
+453,00,2009,"Cloppenburg",K03453,101
+454,00,2009,"Emsland",K03454,109
+455,00,2009,"Friesland",K03455,39
+456,00,2009,"Grafschaft Bentheim",K03456,109
+457,00,2009,"Leer",K03457,129
+458,00,2009,"Oldenburg",K03458,81
+459,00,2009,"Osnabrück",K03459,189
+460,00,2009,"Vechta",K03460,179
+461,00,2009,"Wesermarsch",K03461,86
+462,00,2009,"Wittmund",K03462,12
+4,00,2009,"Statistische Region Weser-Ems",K034,1972
+0,2009,"Niedersachsen",K030,7223
+101,00,2010,"Braunschweig, Stadt",K03101,314
+102,00,2010,"Salzgitter, Stadt",K03102,120
+103,00,2010,"Wolfsburg, Stadt",K03103,194
+151,00,2010,"Gifhorn",K03151,90
+153,00,2010,"Goslar",K03153,135
+154,00,2010,"Helmstedt",K03154,49
+155,00,2010,"Northeim",K03155,70
+157,00,2010,"Peine",K03157,119
+158,00,2010,"Wolfenbüttel",K03158,77
+159,00,2010,"Göttingen",K03159,183
+1,00,2010,"Statistische Region Braunschweig",K031,1351
+241,00,2010,"Region Hannover",K03241,1866
+241001,00,2010,"dav. Hannover, Lhst.",K03241001,1276
+241999,00,2010,"dav. Hannover, Umland",K03241999,590
+251,00,2010,"Diepholz",K03251,143
+252,00,2010,"Hameln-Pyrmont",K03252,93
+254,00,2010,"Hildesheim",K03254,245
+255,00,2010,"Holzminden",K03255,36
+256,00,2010,"Nienburg (Weser)",K03256,132
+257,00,2010,"Schaumburg",K03257,124
+2,00,2010,"Statistische Region Hannover",K032,2639
+351,00,2010,"Celle",K03351,136
+352,00,2010,"Cuxhaven",K03352,114
+353,00,2010,"Harburg",K03353,207
+354,00,2010,"Lüchow-Dannenberg",K03354,6
+355,00,2010,"Lüneburg",K03355,172
+356,00,2010,"Osterholz",K03356,67
+357,00,2010,"Rotenburg (Wümme)",K03357,103
+358,00,2010,"Heidekreis",K03358,80
+359,00,2010,"Stade",K03359,152
+360,00,2010,"Uelzen",K03360,44
+361,00,2010,"Verden",K03361,117
+3,00,2010,"Statistische Region Lüneburg",K033,1198
+401,00,2010,"Delmenhorst, Stadt",K03401,214
+402,00,2010,"Emden, Stadt",K03402,36
+403,00,2010,"Oldenburg (Oldb), Stadt",K03403,234
+404,00,2010,"Osnabrück, Stadt",K03404,233
+405,00,2010,"Wilhelmshaven, Stadt",K03405,107
+451,00,2010,"Ammerland",K03451,63
+452,00,2010,"Aurich",K03452,138
+453,00,2010,"Cloppenburg",K03453,89
+454,00,2010,"Emsland",K03454,152
+455,00,2010,"Friesland",K03455,81
+456,00,2010,"Grafschaft Bentheim",K03456,132
+457,00,2010,"Leer",K03457,121
+458,00,2010,"Oldenburg",K03458,95
+459,00,2010,"Osnabrück",K03459,211
+460,00,2010,"Vechta",K03460,164
+461,00,2010,"Wesermarsch",K03461,75
+462,00,2010,"Wittmund",K03462,30
+4,00,2010,"Statistische Region Weser-Ems",K034,2175
+0,2010,"Niedersachsen",K030,7363
+101,00,2011,"Braunschweig, Stadt",K03101,288
+102,00,2011,"Salzgitter, Stadt",K03102,141
+103,00,2011,"Wolfsburg, Stadt",K03103,203
+151,00,2011,"Gifhorn",K03151,88
+153,00,2011,"Goslar",K03153,106
+154,00,2011,"Helmstedt",K03154,55
+155,00,2011,"Northeim",K03155,84
+157,00,2011,"Peine",K03157,124
+158,00,2011,"Wolfenbüttel",K03158,100
+159,00,2011,"Göttingen",K03159,312
+1,00,2011,"Statistische Region Braunschweig",K031,1501
+241,00,2011,"Region Hannover",K03241,2166
+241001,00,2011,"dav. Hannover, Lhst.",K03241001,1449
+241999,00,2011,"dav. Hannover, Umland",K03241999,717
+251,00,2011,"Diepholz",K03251,135
+252,00,2011,"Hameln-Pyrmont",K03252,138
+254,00,2011,"Hildesheim",K03254,260
+255,00,2011,"Holzminden",K03255,52
+256,00,2011,"Nienburg (Weser)",K03256,121
+257,00,2011,"Schaumburg",K03257,130
+2,00,2011,"Statistische Region Hannover",K032,3002
+351,00,2011,"Celle",K03351,160
+352,00,2011,"Cuxhaven",K03352,116
+353,00,2011,"Harburg",K03353,225
+354,00,2011,"Lüchow-Dannenberg",K03354,5
+355,00,2011,"Lüneburg",K03355,152
+356,00,2011,"Osterholz",K03356,47
+357,00,2011,"Rotenburg (Wümme)",K03357,123
+358,00,2011,"Heidekreis",K03358,114
+359,00,2011,"Stade",K03359,122
+360,00,2011,"Uelzen",K03360,57
+361,00,2011,"Verden",K03361,144
+3,00,2011,"Statistische Region Lüneburg",K033,1265
+401,00,2011,"Delmenhorst, Stadt",K03401,202
+402,00,2011,"Emden, Stadt",K03402,46
+403,00,2011,"Oldenburg (Oldb), Stadt",K03403,222
+404,00,2011,"Osnabrück, Stadt",K03404,260
+405,00,2011,"Wilhelmshaven, Stadt",K03405,83
+451,00,2011,"Ammerland",K03451,76
+452,00,2011,"Aurich",K03452,148
+453,00,2011,"Cloppenburg",K03453,109
+454,00,2011,"Emsland",K03454,171
+455,00,2011,"Friesland",K03455,66
+456,00,2011,"Grafschaft Bentheim",K03456,133
+457,00,2011,"Leer",K03457,86
+458,00,2011,"Oldenburg",K03458,144
+459,00,2011,"Osnabrück",K03459,194
+460,00,2011,"Vechta",K03460,215
+461,00,2011,"Wesermarsch",K03461,60
+462,00,2011,"Wittmund",K03462,12
+4,00,2011,"Statistische Region Weser-Ems",K034,2227
+0,2011,"Niedersachsen",K030,7995
+101,00,2012,"Braunschweig, Stadt",K03101,408
+102,00,2012,"Salzgitter, Stadt",K03102,159
+103,00,2012,"Wolfsburg, Stadt",K03103,222
+151,00,2012,"Gifhorn",K03151,125
+153,00,2012,"Goslar",K03153,141
+154,00,2012,"Helmstedt",K03154,48
+155,00,2012,"Northeim",K03155,102
+157,00,2012,"Peine",K03157,138
+158,00,2012,"Wolfenbüttel",K03158,97
+159,00,2012,"Göttingen",K03159,348
+1,00,2012,"Statistische Region Braunschweig",K031,1788
+241,00,2012,"Region Hannover",K03241,2363
+241001,00,2012,"dav. Hannover, Lhst.",K03241001,1509
+241999,00,2012,"dav. Hannover, Umland",K03241999,854
+251,00,2012,"Diepholz",K03251,146
+252,00,2012,"Hameln-Pyrmont",K03252,155
+254,00,2012,"Hildesheim",K03254,268
+255,00,2012,"Holzminden",K03255,62
+256,00,2012,"Nienburg (Weser)",K03256,110
+257,00,2012,"Schaumburg",K03257,161
+2,00,2012,"Statistische Region Hannover",K032,3265
+351,00,2012,"Celle",K03351,120
+352,00,2012,"Cuxhaven",K03352,141
+353,00,2012,"Harburg",K03353,153
+354,00,2012,"Lüchow-Dannenberg",K03354,13
+355,00,2012,"Lüneburg",K03355,199
+356,00,2012,"Osterholz",K03356,75
+357,00,2012,"Rotenburg (Wümme)",K03357,106
+358,00,2012,"Heidekreis",K03358,114
+359,00,2012,"Stade",K03359,166
+360,00,2012,"Uelzen",K03360,47
+361,00,2012,"Verden",K03361,132
+3,00,2012,"Statistische Region Lüneburg",K033,1266
+401,00,2012,"Delmenhorst, Stadt",K03401,180
+402,00,2012,"Emden, Stadt",K03402,25
+403,00,2012,"Oldenburg (Oldb), Stadt",K03403,210
+404,00,2012,"Osnabrück, Stadt",K03404,258
+405,00,2012,"Wilhelmshaven, Stadt",K03405,83
+451,00,2012,"Ammerland",K03451,87
+452,00,2012,"Aurich",K03452,116
+453,00,2012,"Cloppenburg",K03453,124
+454,00,2012,"Emsland",K03454,157
+455,00,2012,"Friesland",K03455,47
+456,00,2012,"Grafschaft Bentheim",K03456,131
+457,00,2012,"Leer",K03457,94
+458,00,2012,"Oldenburg",K03458,129
+459,00,2012,"Osnabrück",K03459,228
+460,00,2012,"Vechta",K03460,205
+461,00,2012,"Wesermarsch",K03461,95
+462,00,2012,"Wittmund",K03462,38
+4,00,2012,"Statistische Region Weser-Ems",K034,2207
+0,2012,"Niedersachsen",K030,8526
+101,00,2013,"Braunschweig, Stadt",K03101,418
+102,00,2013,"Salzgitter, Stadt",K03102,135
+103,00,2013,"Wolfsburg, Stadt",K03103,252
+151,00,2013,"Gifhorn",K03151,112
+153,00,2013,"Goslar",K03153,116
+154,00,2013,"Helmstedt",K03154,54
+155,00,2013,"Northeim",K03155,101
+157,00,2013,"Peine",K03157,119
+158,00,2013,"Wolfenbüttel",K03158,113
+159,00,2013,"Göttingen",K03159,299
+1,00,2013,"Statistische Region Braunschweig",K031,1719
+241,00,2013,"Region Hannover",K03241,2061
+241001,00,2013,"dav. Hannover, Lhst.",K03241001,1337
+241999,00,2013,"dav. Hannover, Umland",K03241999,724
+251,00,2013,"Diepholz",K03251,157
+252,00,2013,"Hameln-Pyrmont",K03252,180
+254,00,2013,"Hildesheim",K03254,259
+255,00,2013,"Holzminden",K03255,33
+256,00,2013,"Nienburg (Weser)",K03256,107
+257,00,2013,"Schaumburg",K03257,146
+2,00,2013,"Statistische Region Hannover",K032,2943
+351,00,2013,"Celle",K03351,148
+352,00,2013,"Cuxhaven",K03352,125
+353,00,2013,"Harburg",K03353,194
+354,00,2013,"Lüchow-Dannenberg",K03354,12
+355,00,2013,"Lüneburg",K03355,185
+356,00,2013,"Osterholz",K03356,57
+357,00,2013,"Rotenburg (Wümme)",K03357,118
+358,00,2013,"Heidekreis",K03358,108
+359,00,2013,"Stade",K03359,172
+360,00,2013,"Uelzen",K03360,34
+361,00,2013,"Verden",K03361,122
+3,00,2013,"Statistische Region Lüneburg",K033,1275
+401,00,2013,"Delmenhorst, Stadt",K03401,152
+402,00,2013,"Emden, Stadt",K03402,72
+403,00,2013,"Oldenburg (Oldb), Stadt",K03403,245
+404,00,2013,"Osnabrück, Stadt",K03404,265
+405,00,2013,"Wilhelmshaven, Stadt",K03405,109
+451,00,2013,"Ammerland",K03451,74
+452,00,2013,"Aurich",K03452,122
+453,00,2013,"Cloppenburg",K03453,103
+454,00,2013,"Emsland",K03454,146
+455,00,2013,"Friesland",K03455,80
+456,00,2013,"Grafschaft Bentheim",K03456,136
+457,00,2013,"Leer",K03457,92
+458,00,2013,"Oldenburg",K03458,131
+459,00,2013,"Osnabrück",K03459,231
+460,00,2013,"Vechta",K03460,207
+461,00,2013,"Wesermarsch",K03461,85
+462,00,2013,"Wittmund",K03462,29
+4,00,2013,"Statistische Region Weser-Ems",K034,2279
+0,2013,"Niedersachsen",K030,8216
+101,00,2014,"Braunschweig, Stadt",K03101,315
+102,00,2014,"Salzgitter, Stadt",K03102,124
+103,00,2014,"Wolfsburg, Stadt",K03103,254
+151,00,2014,"Gifhorn",K03151,114
+153,00,2014,"Goslar",K03153,112
+154,00,2014,"Helmstedt",K03154,28
+155,00,2014,"Northeim",K03155,74
+157,00,2014,"Peine",K03157,105
+158,00,2014,"Wolfenbüttel",K03158,104
+159,00,2014,"Göttingen",K03159,290
+1,00,2014,"Statistische Region Braunschweig",K031,1520
+241,00,2014,"Region Hannover",K03241,2057
+241001,00,2014,"dav. Hannover, Lhst.",K03241001,1375
+241999,00,2014,"dav. Hannover, Umland",K03241999,682
+251,00,2014,"Diepholz",K03251,145
+252,00,2014,"Hameln-Pyrmont",K03252,90
+254,00,2014,"Hildesheim",K03254,283
+255,00,2014,"Holzminden",K03255,44
+256,00,2014,"Nienburg (Weser)",K03256,102
+257,00,2014,"Schaumburg",K03257,111
+2,00,2014,"Statistische Region Hannover",K032,2832
+351,00,2014,"Celle",K03351,149
+352,00,2014,"Cuxhaven",K03352,114
+353,00,2014,"Harburg",K03353,236
+354,00,2014,"Lüchow-Dannenberg",K03354,7
+355,00,2014,"Lüneburg",K03355,199
+356,00,2014,"Osterholz",K03356,65
+357,00,2014,"Rotenburg (Wümme)",K03357,105
+358,00,2014,"Heidekreis",K03358,99
+359,00,2014,"Stade",K03359,144
+360,00,2014,"Uelzen",K03360,17
+361,00,2014,"Verden",K03361,134
+3,00,2014,"Statistische Region Lüneburg",K033,1269
+401,00,2014,"Delmenhorst, Stadt",K03401,139
+402,00,2014,"Emden, Stadt",K03402,75
+403,00,2014,"Oldenburg (Oldb), Stadt",K03403,214
+404,00,2014,"Osnabrück, Stadt",K03404,240
+405,00,2014,"Wilhelmshaven, Stadt",K03405,91
+451,00,2014,"Ammerland",K03451,100
+452,00,2014,"Aurich",K03452,112
+453,00,2014,"Cloppenburg",K03453,108
+454,00,2014,"Emsland",K03454,163
+455,00,2014,"Friesland",K03455,70
+456,00,2014,"Grafschaft Bentheim",K03456,138
+457,00,2014,"Leer",K03457,81
+458,00,2014,"Oldenburg",K03458,103
+459,00,2014,"Osnabrück",K03459,207
+460,00,2014,"Vechta",K03460,176
+461,00,2014,"Wesermarsch",K03461,69
+462,00,2014,"Wittmund",K03462,15
+4,00,2014,"Statistische Region Weser-Ems",K034,2101
+0,2014,"Niedersachsen",K030,7722
+101,00,2015,"Braunschweig, Stadt",K03101,379
+102,00,2015,"Salzgitter, Stadt",K03102,123
+103,00,2015,"Wolfsburg, Stadt",K03103,290
+151,00,2015,"Gifhorn",K03151,140
+153,00,2015,"Goslar",K03153,87
+154,00,2015,"Helmstedt",K03154,42
+155,00,2015,"Northeim",K03155,62
+157,00,2015,"Peine",K03157,136
+158,00,2015,"Wolfenbüttel",K03158,116
+159,00,2015,"Göttingen",K03159,320
+1,00,2015,"Statistische Region Braunschweig",K031,1695
+241,00,2015,"Region Hannover",K03241,1932
+241001,00,2015,"dav. Hannover, Lhst.",K03241001,1202
+241999,00,2015,"dav. Hannover, Umland",K03241999,730
+251,00,2015,"Diepholz",K03251,121
+252,00,2015,"Hameln-Pyrmont",K03252,186
+254,00,2015,"Hildesheim",K03254,234
+255,00,2015,"Holzminden",K03255,55
+256,00,2015,"Nienburg (Weser)",K03256,124
+257,00,2015,"Schaumburg",K03257,173
+2,00,2015,"Statistische Region Hannover",K032,2825
+351,00,2015,"Celle",K03351,197
+352,00,2015,"Cuxhaven",K03352,127
+353,00,2015,"Harburg",K03353,203
+354,00,2015,"Lüchow-Dannenberg",K03354,10
+355,00,2015,"Lüneburg",K03355,158
+356,00,2015,"Osterholz",K03356,84
+357,00,2015,"Rotenburg (Wümme)",K03357,93
+358,00,2015,"Heidekreis",K03358,101
+359,00,2015,"Stade",K03359,147
+360,00,2015,"Uelzen",K03360,40
+361,00,2015,"Verden",K03361,143
+3,00,2015,"Statistische Region Lüneburg",K033,1303
+401,00,2015,"Delmenhorst, Stadt",K03401,121
+402,00,2015,"Emden, Stadt",K03402,66
+403,00,2015,"Oldenburg (Oldb), Stadt",K03403,252
+404,00,2015,"Osnabrück, Stadt",K03404,273
+405,00,2015,"Wilhelmshaven, Stadt",K03405,100
+451,00,2015,"Ammerland",K03451,153
+452,00,2015,"Aurich",K03452,108
+453,00,2015,"Cloppenburg",K03453,101
+454,00,2015,"Emsland",K03454,116
+455,00,2015,"Friesland",K03455,54
+456,00,2015,"Grafschaft Bentheim",K03456,172
+457,00,2015,"Leer",K03457,98
+458,00,2015,"Oldenburg",K03458,99
+459,00,2015,"Osnabrück",K03459,183
+460,00,2015,"Vechta",K03460,165
+461,00,2015,"Wesermarsch",K03461,79
+462,00,2015,"Wittmund",K03462,25
+4,00,2015,"Statistische Region Weser-Ems",K034,2165
+0,2015,"Niedersachsen",K030,7988
+101,00,2016,"Braunschweig, Stadt",K03101,391
+102,00,2016,"Salzgitter, Stadt",K03102,129
+103,00,2016,"Wolfsburg, Stadt",K03103,317
+151,00,2016,"Gifhorn",K03151,180
+153,00,2016,"Goslar",K03153,128
+154,00,2016,"Helmstedt",K03154,38
+155,00,2016,"Northeim",K03155,100
+157,00,2016,"Peine",K03157,115
+158,00,2016,"Wolfenbüttel",K03158,124
+159,00,2016,"Göttingen",K03159,345
+1,00,2016,"Statistische Region Braunschweig",K031,1867
+241,00,2016,"Region Hannover",K03241,2128
+241001,00,2016,"dav. Hannover, Lhst.",K03241001,1300
+241999,00,2016,"dav. Hannover, Umland",K03241999,828
+251,00,2016,"Diepholz",K03251,180
+252,00,2016,"Hameln-Pyrmont",K03252,159
+254,00,2016,"Hildesheim",K03254,251
+255,00,2016,"Holzminden",K03255,26
+256,00,2016,"Nienburg (Weser)",K03256,115
+257,00,2016,"Schaumburg",K03257,146
+2,00,2016,"Statistische Region Hannover",K032,3005
+351,00,2016,"Celle",K03351,124
+352,00,2016,"Cuxhaven",K03352,133
+353,00,2016,"Harburg",K03353,298
+354,00,2016,"Lüchow-Dannenberg",K03354,17
+355,00,2016,"Lüneburg",K03355,158
+356,00,2016,"Osterholz",K03356,70
+357,00,2016,"Rotenburg (Wümme)",K03357,88
+358,00,2016,"Heidekreis",K03358,123
+359,00,2016,"Stade",K03359,160
+360,00,2016,"Uelzen",K03360,39
+361,00,2016,"Verden",K03361,121
+3,00,2016,"Statistische Region Lüneburg",K033,1331
+401,00,2016,"Delmenhorst, Stadt",K03401,122
+402,00,2016,"Emden, Stadt",K03402,47
+403,00,2016,"Oldenburg (Oldb), Stadt",K03403,320
+404,00,2016,"Osnabrück, Stadt",K03404,279
+405,00,2016,"Wilhelmshaven, Stadt",K03405,116
+451,00,2016,"Ammerland",K03451,177
+452,00,2016,"Aurich",K03452,145
+453,00,2016,"Cloppenburg",K03453,74
+454,00,2016,"Emsland",K03454,184
+455,00,2016,"Friesland",K03455,33
+456,00,2016,"Grafschaft Bentheim",K03456,112
+457,00,2016,"Leer",K03457,93
+458,00,2016,"Oldenburg",K03458,118
+459,00,2016,"Osnabrück",K03459,222
+460,00,2016,"Vechta",K03460,169
+461,00,2016,"Wesermarsch",K03461,87
+462,00,2016,"Wittmund",K03462,18
+4,00,2016,"Statistische Region Weser-Ems",K034,2316
+0,2016,"Niedersachsen",K030,8519
+101,00,2017,"Braunschweig, Stadt",K03101,390
+102,00,2017,"Salzgitter, Stadt",K03102,147
+103,00,2017,"Wolfsburg, Stadt",K03103,277
+151,00,2017,"Gifhorn",K03151,143
+153,00,2017,"Goslar",K03153,133
+154,00,2017,"Helmstedt",K03154,64
+155,00,2017,"Northeim",K03155,84
+157,00,2017,"Peine",K03157,154
+158,00,2017,"Wolfenbüttel",K03158,109
+159,00,2017,"Göttingen",K03159,340
+1,00,2017,"Statistische Region Braunschweig",K031,1841
+241,00,2017,"Region Hannover",K03241,2234
+241001,00,2017,"dav. Hannover, Lhst.",K03241001,1321
+241999,00,2017,"dav. Hannover, Umland",K03241999,913
+251,00,2017,"Diepholz",K03251,196
+252,00,2017,"Hameln-Pyrmont",K03252,164
+254,00,2017,"Hildesheim",K03254,239
+255,00,2017,"Holzminden",K03255,58
+256,00,2017,"Nienburg (Weser)",K03256,83
+257,00,2017,"Schaumburg",K03257,172
+2,00,2017,"Statistische Region Hannover",K032,3146
+351,00,2017,"Celle",K03351,191
+352,00,2017,"Cuxhaven",K03352,166
+353,00,2017,"Harburg",K03353,345
+354,00,2017,"Lüchow-Dannenberg",K03354,20
+355,00,2017,"Lüneburg",K03355,168
+356,00,2017,"Osterholz",K03356,54
+357,00,2017,"Rotenburg (Wümme)",K03357,87
+358,00,2017,"Heidekreis",K03358,130
+359,00,2017,"Stade",K03359,114
+360,00,2017,"Uelzen",K03360,19
+361,00,2017,"Verden",K03361,115
+3,00,2017,"Statistische Region Lüneburg",K033,1409
+401,00,2017,"Delmenhorst, Stadt",K03401,87
+402,00,2017,"Emden, Stadt",K03402,42
+403,00,2017,"Oldenburg (Oldb), Stadt",K03403,287
+404,00,2017,"Osnabrück, Stadt",K03404,291
+405,00,2017,"Wilhelmshaven, Stadt",K03405,115
+451,00,2017,"Ammerland",K03451,132
+452,00,2017,"Aurich",K03452,155
+453,00,2017,"Cloppenburg",K03453,117
+454,00,2017,"Emsland",K03454,156
+455,00,2017,"Friesland",K03455,25
+456,00,2017,"Grafschaft Bentheim",K03456,124
+457,00,2017,"Leer",K03457,97
+458,00,2017,"Oldenburg",K03458,126
+459,00,2017,"Osnabrück",K03459,287
+460,00,2017,"Vechta",K03460,228
+461,00,2017,"Wesermarsch",K03461,99
+462,00,2017,"Wittmund",K03462,21
+4,00,2017,"Statistische Region Weser-Ems",K034,2389
+0,2017,"Niedersachsen",K030,8785
+101,00,2018,"Braunschweig, Stadt",K03101,249
+102,00,2018,"Salzgitter, Stadt",K03102,162
+103,00,2018,"Wolfsburg, Stadt",K03103,341
+151,00,2018,"Gifhorn",K03151,165
+153,00,2018,"Goslar",K03153,98
+154,00,2018,"Helmstedt",K03154,59
+155,00,2018,"Northeim",K03155,106
+157,00,2018,"Peine",K03157,129
+158,00,2018,"Wolfenbüttel",K03158,118
+159,00,2018,"Göttingen",K03159,354
+1,00,2018,"Statistische Region Braunschweig",K031,1781
+241,00,2018,"Region Hannover",K03241,1973
+241001,00,2018,"dav. Hannover, Lhst.",K03241001,1131
+241999,00,2018,"dav. Hannover, Umland",K03241999,842
+251,00,2018,"Diepholz",K03251,235
+252,00,2018,"Hameln-Pyrmont",K03252,193
+254,00,2018,"Hildesheim",K03254,303
+255,00,2018,"Holzminden",K03255,50
+256,00,2018,"Nienburg (Weser)",K03256,102
+257,00,2018,"Schaumburg",K03257,134
+2,00,2018,"Statistische Region Hannover",K032,2990
+351,00,2018,"Celle",K03351,170
+352,00,2018,"Cuxhaven",K03352,114
+353,00,2018,"Harburg",K03353,282
+354,00,2018,"Lüchow-Dannenberg",K03354,19
+355,00,2018,"Lüneburg",K03355,148
+356,00,2018,"Osterholz",K03356,72
+357,00,2018,"Rotenburg (Wümme)",K03357,107
+358,00,2018,"Heidekreis",K03358,146
+359,00,2018,"Stade",K03359,180
+360,00,2018,"Uelzen",K03360,46
+361,00,2018,"Verden",K03361,105
+3,00,2018,"Statistische Region Lüneburg",K033,1389
+401,00,2018,"Delmenhorst, Stadt",K03401,123
+402,00,2018,"Emden, Stadt",K03402,40
+403,00,2018,"Oldenburg (Oldb), Stadt",K03403,310
+404,00,2018,"Osnabrück, Stadt",K03404,309
+405,00,2018,"Wilhelmshaven, Stadt",K03405,109
+451,00,2018,"Ammerland",K03451,57
+452,00,2018,"Aurich",K03452,144
+453,00,2018,"Cloppenburg",K03453,122
+454,00,2018,"Emsland",K03454,127
+455,00,2018,"Friesland",K03455,31
+456,00,2018,"Grafschaft Bentheim",K03456,173
+457,00,2018,"Leer",K03457,94
+458,00,2018,"Oldenburg",K03458,104
+459,00,2018,"Osnabrück",K03459,298
+460,00,2018,"Vechta",K03460,171
+461,00,2018,"Wesermarsch",K03461,77
+462,00,2018,"Wittmund",K03462,21
+4,00,2018,"Statistische Region Weser-Ems",K034,2310
+0,2018,"Niedersachsen",K030,8470
+101,00,2019,"Braunschweig, Stadt",K03101,280
+102,00,2019,"Salzgitter, Stadt",K03102,168
+103,00,2019,"Wolfsburg, Stadt",K03103,325
+151,00,2019,"Gifhorn",K03151,173
+153,00,2019,"Goslar",K03153,102
+154,00,2019,"Helmstedt",K03154,96
+155,00,2019,"Northeim",K03155,129
+157,00,2019,"Peine",K03157,192
+158,00,2019,"Wolfenbüttel",K03158,134
+159,00,2019,"Göttingen",K03159,378
+1,00,2019,"Statistische Region Braunschweig",K031,1977
+241,00,2019,"Region Hannover",K03241,2465
+241001,00,2019,"dav. Hannover, Lhst.",K03241001,1404
+241999,00,2019,"dav. Hannover, Umland",K03241999,891
+251,00,2019,"Diepholz",K03251,308
+252,00,2019,"Hameln-Pyrmont",K03252,278
+254,00,2019,"Hildesheim",K03254,355
+255,00,2019,"Holzminden",K03255,59
+256,00,2019,"Nienburg (Weser)",K03256,170
+257,00,2019,"Schaumburg",K03257,234
+2,00,2019,"Statistische Region Hannover",K032,3869
+351,00,2019,"Celle",K03351,338
+352,00,2019,"Cuxhaven",K03352,149
+353,00,2019,"Harburg",K03353,279
+354,00,2019,"Lüchow-Dannenberg",K03354,26
+355,00,2019,"Lüneburg",K03355,253
+356,00,2019,"Osterholz",K03356,114
+357,00,2019,"Rotenburg (Wümme)",K03357,126
+358,00,2019,"Heidekreis",K03358,192
+359,00,2019,"Stade",K03359,279
+360,00,2019,"Uelzen",K03360,74
+361,00,2019,"Verden",K03361,177
+3,00,2019,"Statistische Region Lüneburg",K033,2007
+401,00,2019,"Delmenhorst, Stadt",K03401,155
+402,00,2019,"Emden, Stadt",K03402,34
+403,00,2019,"Oldenburg (Oldb), Stadt",K03403,303
+404,00,2019,"Osnabrück, Stadt",K03404,407
+405,00,2019,"Wilhelmshaven, Stadt",K03405,125
+451,00,2019,"Ammerland",K03451,111
+452,00,2019,"Aurich",K03452,142
+453,00,2019,"Cloppenburg",K03453,149
+454,00,2019,"Emsland",K03454,237
+455,00,2019,"Friesland",K03455,81
+456,00,2019,"Grafschaft Bentheim",K03456,207
+457,00,2019,"Leer",K03457,143
+458,00,2019,"Oldenburg",K03458,170
+459,00,2019,"Osnabrück",K03459,428
+460,00,2019,"Vechta",K03460,231
+461,00,2019,"Wesermarsch",K03461,106
+462,00,2019,"Wittmund",K03462,50
+4,00,2019,"Statistische Region Weser-Ems",K034,3079
+0,2019,"Niedersachsen",K030,10932
+101,00,2020,"Braunschweig, Stadt",K03101,407
+102,00,2020,"Salzgitter, Stadt",K03102,126
+103,00,2020,"Wolfsburg, Stadt",K03103,222
+151,00,2020,"Gifhorn",K03151,145
+153,00,2020,"Goslar",K03153,85
+154,00,2020,"Helmstedt",K03154,68
+155,00,2020,"Northeim",K03155,93
+157,00,2020,"Peine",K03157,139
+158,00,2020,"Wolfenbüttel",K03158,87
+159,00,2020,"Göttingen",K03159,288
+1,00,2020,"Statistische Region Braunschweig",K031,1660
+241,00,2020,"Region Hannover",K03241,1948
+241001,00,2020,"dav. Hannover, Lhst.",K03241001,1057
+241999,00,2020,"dav. Hannover, Umland",K03241999,891
+251,00,2020,"Diepholz",K03251,231
+252,00,2020,"Hameln-Pyrmont",K03252,188
+254,00,2020,"Hildesheim",K03254,398
+255,00,2020,"Holzminden",K03255,41
+256,00,2020,"Nienburg (Weser)",K03256,127
+257,00,2020,"Schaumburg",K03257,186
+2,00,2020,"Statistische Region Hannover",K032,3119
+351,00,2020,"Celle",K03351,264
+352,00,2020,"Cuxhaven",K03352,162
+353,00,2020,"Harburg",K03353,280
+354,00,2020,"Lüchow-Dannenberg",K03354,15
+355,00,2020,"Lüneburg",K03355,218
+356,00,2020,"Osterholz",K03356,77
+357,00,2020,"Rotenburg (Wümme)",K03357,86
+358,00,2020,"Heidekreis",K03358,199
+359,00,2020,"Stade",K03359,166
+360,00,2020,"Uelzen",K03360,152
+361,00,2020,"Verden",K03361,114
+3,00,2020,"Statistische Region Lüneburg",K033,1733
+401,00,2020,"Delmenhorst, Stadt",K03401,157
+402,00,2020,"Emden, Stadt",K03402,34
+403,00,2020,"Oldenburg (Oldb), Stadt",K03403,236
+404,00,2020,"Osnabrück, Stadt",K03404,369
+405,00,2020,"Wilhelmshaven, Stadt",K03405,83
+451,00,2020,"Ammerland",K03451,92
+452,00,2020,"Aurich",K03452,112
+453,00,2020,"Cloppenburg",K03453,129
+454,00,2020,"Emsland",K03454,175
+455,00,2020,"Friesland",K03455,71
+456,00,2020,"Grafschaft Bentheim",K03456,168
+457,00,2020,"Leer",K03457,121
+458,00,2020,"Oldenburg",K03458,96
+459,00,2020,"Osnabrück",K03459,196
+460,00,2020,"Vechta",K03460,226
+461,00,2020,"Wesermarsch",K03461,73
+462,00,2020,"Wittmund",K03462,28
+4,00,2020,"Statistische Region Weser-Ems",K034,2366
+0,2020,"Niedersachsen",K030,8878
+101,00,2021,"Braunschweig, Stadt",K03101,469
+102,00,2021,"Salzgitter, Stadt",K03102,163
+103,00,2021,"Wolfsburg, Stadt",K03103,283
+151,00,2021,"Gifhorn",K03151,119
+153,00,2021,"Goslar",K03153,113
+154,00,2021,"Helmstedt",K03154,78
+155,00,2021,"Northeim",K03155,97
+157,00,2021,"Peine",K03157,222
+158,00,2021,"Wolfenbüttel",K03158,138
+159,00,2021,"Göttingen",K03159,371
+1,00,2021,"Statistische Region Braunschweig",K031,2053
+241,00,2021,"Region Hannover",K03241,1929
+241001,00,2021,"dav. Hannover, Lhst.",K03241001,1036
+241999,00,2021,"dav. Hannover, Umland",K03241999,893
+251,00,2021,"Diepholz",K03251,236
+252,00,2021,"Hameln-Pyrmont",K03252,177
+254,00,2021,"Hildesheim",K03254,439
+255,00,2021,"Holzminden",K03255,62
+256,00,2021,"Nienburg (Weser)",K03256,139
+257,00,2021,"Schaumburg",K03257,214
+2,00,2021,"Statistische Region Hannover",K032,3196
+351,00,2021,"Celle",K03351,175
+352,00,2021,"Cuxhaven",K03352,215
+353,00,2021,"Harburg",K03353,456
+354,00,2021,"Lüchow-Dannenberg",K03354,21
+355,00,2021,"Lüneburg",K03355,425
+356,00,2021,"Osterholz",K03356,82
+357,00,2021,"Rotenburg (Wümme)",K03357,154
+358,00,2021,"Heidekreis",K03358,179
+359,00,2021,"Stade",K03359,209
+360,00,2021,"Uelzen",K03360,110
+361,00,2021,"Verden",K03361,92
+3,00,2021,"Statistische Region Lüneburg",K033,2118
+401,00,2021,"Delmenhorst, Stadt",K03401,154
+402,00,2021,"Emden, Stadt",K03402,47
+403,00,2021,"Oldenburg (Oldb), Stadt",K03403,239
+404,00,2021,"Osnabrück, Stadt",K03404,449
+405,00,2021,"Wilhelmshaven, Stadt",K03405,182
+451,00,2021,"Ammerland",K03451,69
+452,00,2021,"Aurich",K03452,207
+453,00,2021,"Cloppenburg",K03453,92
+454,00,2021,"Emsland",K03454,263
+455,00,2021,"Friesland",K03455,80
+456,00,2021,"Grafschaft Bentheim",K03456,312
+457,00,2021,"Leer",K03457,131
+458,00,2021,"Oldenburg",K03458,158
+459,00,2021,"Osnabrück",K03459,259
+460,00,2021,"Vechta",K03460,292
+461,00,2021,"Wesermarsch",K03461,109
+462,00,2021,"Wittmund",K03462,9
+4,00,2021,"Statistische Region Weser-Ems",K034,3052
+0,2021,"Niedersachsen",#NV,10419
+101,00,2022,"Braunschweig, Stadt",K03101,613
+102,00,2022,"Salzgitter, Stadt",K03102,339
+103,00,2022,"Wolfsburg, Stadt",K03103,386
+151,00,2022,"Gifhorn",K03151,149
+153,00,2022,"Goslar",K03153,342
+154,00,2022,"Helmstedt",K03154,104
+155,00,2022,"Northeim",K03155,149
+157,00,2022,"Peine",K03157,336
+158,00,2022,"Wolfenbüttel",K03158,132
+159,00,2022,"Göttingen",K03159,442
+1,00,2022,"Statistische Region Braunschweig",K031,2992
+241,00,2022,"Region Hannover",K03241,2121
+241001,00,2022,"dav. Hannover, Lhst.",K03241001,952
+241999,00,2022,"dav. Hannover, Umland",K03241999,1169
+251,00,2022,"Diepholz",K03251,470
+252,00,2022,"Hameln-Pyrmont",K03252,390
+254,00,2022,"Hildesheim",K03254,416
+255,00,2022,"Holzminden",K03255,96
+256,00,2022,"Nienburg (Weser)",K03256,177
+257,00,2022,"Schaumburg",K03257,315
+2,00,2022,"Statistische Region Hannover",K032,3985
+351,00,2022,"Celle",K03351,127
+352,00,2022,"Cuxhaven",K03352,303
+353,00,2022,"Harburg",K03353,485
+354,00,2022,"Lüchow-Dannenberg",K03354,72
+355,00,2022,"Lüneburg",K03355,574
+356,00,2022,"Osterholz",K03356,112
+357,00,2022,"Rotenburg (Wümme)",K03357,185
+358,00,2022,"Heidekreis",K03358,225
+359,00,2022,"Stade",K03359,209
+360,00,2022,"Uelzen",K03360,136
+361,00,2022,"Verden",K03361,110
+3,00,2022,"Statistische Region Lüneburg",K033,2538
+401,00,2022,"Delmenhorst, Stadt",K03401,204
+402,00,2022,"Emden, Stadt",K03402,136
+403,00,2022,"Oldenburg (Oldb), Stadt",K03403,329
+404,00,2022,"Osnabrück, Stadt",K03404,331
+405,00,2022,"Wilhelmshaven, Stadt",K03405,181
+451,00,2022,"Ammerland",K03451,120
+452,00,2022,"Aurich",K03452,241
+453,00,2022,"Cloppenburg",K03453,237
+454,00,2022,"Emsland",K03454,358
+455,00,2022,"Friesland",K03455,88
+456,00,2022,"Grafschaft Bentheim",K03456,408
+457,00,2022,"Leer",K03457,91
+458,00,2022,"Oldenburg",K03458,218
+459,00,2022,"Osnabrück",K03459,436
+460,00,2022,"Vechta",K03460,427
+461,00,2022,"Wesermarsch",K03461,107
+462,00,2022,"Wittmund",K03462,8
+4,00,2022,"Statistische Region Weser-Ems",K034,3920
+0,00,2022,"Niedersachsen",#NV,13435
+101,00,2023,"Braunschweig, Stadt",K03101,880
+102,00,2023,"Salzgitter, Stadt",K03102,408
+103,00,2023,"Wolfsburg, Stadt",K03103,666
+151,00,2023,"Gifhorn",K03151,158
+153,00,2023,"Goslar",K03153,443
+154,00,2023,"Helmstedt",K03154,101
+155,00,2023,"Northeim",K03155,210
+157,00,2023,"Peine",K03157,266
+158,00,2023,"Wolfenbüttel",K03158,183
+159,00,2023,"Göttingen",K03159,757
+1,00,2023,"Statistische Region Braunschweig",K031,4072
+241,00,2023,"Region Hannover",K03241,2600
+241001,00,2023,"dav. Hannover, Lhst.",K03241001,1372
+241999,00,2023,"dav. Hannover, Umland",K03241999,1228
+251,00,2023,"Diepholz",K03251,321
+252,00,2023,"Hameln-Pyrmont",K03252,122
+254,00,2023,"Hildesheim",K03254,649
+255,00,2023,"Holzminden",K03255,94
+256,00,2023,"Nienburg (Weser)",K03256,193
+257,00,2023,"Schaumburg",K03257,301
+2,00,2023,"Statistische Region Hannover",K032,4280
+351,00,2023,"Celle",K03351,219
+352,00,2023,"Cuxhaven",K03352,401
+353,00,2023,"Harburg",K03353,776
+354,00,2023,"Lüchow-Dannenberg",K03354,49
+355,00,2023,"Lüneburg",K03355,537
+356,00,2023,"Osterholz",K03356,174
+357,00,2023,"Rotenburg (Wümme)",K03357,220
+358,00,2023,"Heidekreis",K03358,398
+359,00,2023,"Stade",K03359,368
+360,00,2023,"Uelzen",K03360,313
+361,00,2023,"Verden",K03361,178
+3,00,2023,"Statistische Region Lüneburg",K033,3633
+401,00,2023,"Delmenhorst, Stadt",K03401,292
+402,00,2023,"Emden, Stadt",K03402,186
+403,00,2023,"Oldenburg (Oldb), Stadt",K03403,632
+404,00,2023,"Osnabrück, Stadt",K03404,592
+405,00,2023,"Wilhelmshaven, Stadt",K03405,124
+451,00,2023,"Ammerland",K03451,75
+452,00,2023,"Aurich",K03452,362
+453,00,2023,"Cloppenburg",K03453,78
+454,00,2023,"Emsland",K03454,554
+455,00,2023,"Friesland",K03455,98
+456,00,2023,"Grafschaft Bentheim",K03456,438
+457,00,2023,"Leer",K03457,99
+458,00,2023,"Oldenburg",K03458,232
+459,00,2023,"Osnabrück",K03459,487
+460,00,2023,"Vechta",K03460,541
+461,00,2023,"Wesermarsch",K03461,73
+462,00,2023,"Wittmund",K03462,20
+4,00,2023,"Statistische Region Weser-Ems",K034,4883
+0,2023,"Niedersachsen",,16868
+101,2023,"Braunschweig, Stadt",K03101,1209
+102,2023,"Salzgitter, Stadt",K03102,355
+103,2023,"Wolfsburg, Stadt",K03103,558
+151,2023,"Gifhorn",K03151,212
+153,2023,"Goslar",K03153,659
+154,2023,"Helmstedt",K03154,80
+155,2023,"Northeim",K03155,350
+157,2023,"Peine",K03157,208
+158,2023,"Wolfenbüttel",K03158,268
+159,2023,"Göttingen",K03159,828
+1,2023,"Statistische Region Braunschweig",K031,4727
+241,2023,"Region Hannover",K03241,4327
+241001,2023,"dav. Hannover, Lhst.",K03241001,1940
+241999,2023,"dav. Hannover, Umland",K03241999,2387
+251,2023,"Diepholz",K03251,348
+252,2023,"Hameln-Pyrmont",K03252,234
+254,2023,"Hildesheim",K03254,878
+255,2023,"Holzminden",K03255,148
+256,2023,"Nienburg (Weser)",K03256,368
+257,2023,"Schaumburg",K03257,588
+2,2023,"Statistische Region Hannover",K032,6891
+351,2023,"Celle",K03351,382
+352,2023,"Cuxhaven",K03352,358
+353,2023,"Harburg",K03353,881
+354,2023,"Lüchow-Dannenberg",K03354,85
+355,2023,"Lüneburg",K03355,514
+356,2023,"Osterholz",K03356,285
+357,2023,"Rotenburg (Wümme)",K03357,379
+358,2023,"Heidekreis",K03358,479
+359,2023,"Stade",K03359,716
+360,2023,"Uelzen",K03360,230
+361,2023,"Verden",K03361,169
+3,2023,"Statistische Region Lüneburg",K033,4478
+401,2023,"Delmenhorst, Stadt",K03401,323
+402,2023,"Emden, Stadt",K03402,190
+403,2023,"Oldenburg (Oldb), Stadt",K03403,1067
+404,2023,"Osnabrück, Stadt",K03404,870
+405,2023,"Wilhelmshaven, Stadt",K03405,182
+451,2023,"Ammerland",K03451,334
+452,2023,"Aurich",K03452,639
+453,2023,"Cloppenburg",K03453,276
+454,2023,"Emsland",K03454,664
+455,2023,"Friesland",K03455,141
+456,2023,"Grafschaft Bentheim",K03456,693
+457,2023,"Leer",K03457,96
+458,2023,"Oldenburg",K03458,315
+459,2023,"Osnabrück",K03459,353
+460,2023,"Vechta",K03460,941
+461,2023,"Wesermarsch",K03461,134
+462,2023,"Wittmund",K03462,67
+4,2023,"Statistische Region Weser-Ems",K034,7285
+0,2023,"Niedersachsen",#NV,23381
+101,2024,"Braunschweig, Stadt",K03101,1209
+102,2024,"Salzgitter, Stadt",K03102,355
+103,2024,"Wolfsburg, Stadt",K03103,558
+151,2024,"Gifhorn",K03151,212
+153,2024,"Goslar",K03153,659
+154,2024,"Helmstedt",K03154,80
+155,2024,"Northeim",K03155,350
+157,2024,"Peine",K03157,208
+158,2024,"Wolfenbüttel",K03158,268
+159,2024,"Göttingen",K03159,828
+1,2024,"Statistische Region Braunschweig",K031,4727
+241,2024,"Region Hannover",K03241,4327
+241001,2024,"dav. Hannover, Lhst.",K03241001,1940
+241999,2024,"dav. Hannover, Umland",K03241999,2387
+251,2024,"Diepholz",K03251,348
+252,2024,"Hameln-Pyrmont",K03252,234
+254,2024,"Hildesheim",K03254,878
+255,2024,"Holzminden",K03255,148
+256,2024,"Nienburg (Weser)",K03256,368
+257,2024,"Schaumburg",K03257,588
+2,2024,"Statistische Region Hannover",K032,6891
+351,2024,"Celle",K03351,382
+352,2024,"Cuxhaven",K03352,358
+353,2024,"Harburg",K03353,881
+354,2024,"Lüchow-Dannenberg",K03354,85
+355,2024,"Lüneburg",K03355,514
+356,2024,"Osterholz",K03356,285
+357,2024,"Rotenburg (Wümme)",K03357,379
+358,2024,"Heidekreis",K03358,479
+359,2024,"Stade",K03359,716
+360,2024,"Uelzen",K03360,230
+361,2024,"Verden",K03361,169
+3,2024,"Statistische Region Lüneburg",K033,4478
+401,2024,"Delmenhorst, Stadt",K03401,323
+402,2024,"Emden, Stadt",K03402,190
+403,2024,"Oldenburg (Oldb), Stadt",K03403,1067
+404,2024,"Osnabrück, Stadt",K03404,870
+405,2024,"Wilhelmshaven, Stadt",K03405,182
+451,2024,"Ammerland",K03451,334
+452,2024,"Aurich",K03452,639
+453,2024,"Cloppenburg",K03453,276
+454,2024,"Emsland",K03454,664
+455,2024,"Friesland",K03455,141
+456,2024,"Grafschaft Bentheim",K03456,693
+457,2024,"Leer",K03457,96
+458,2024,"Oldenburg",K03458,315
+459,2024,"Osnabrück",K03459,353
+460,2024,"Vechta",K03460,941
+461,2024,"Wesermarsch",K03461,134
+462,2024,"Wittmund",K03462,67
+4,2024,"Statistische Region Weser-Ems",K034,7285
+0,2024,"Niedersachsen",#NV,23381
+101,2025,"Braunschweig, Stadt",K03101,1208
+102,2025,"Salzgitter, Stadt",K03102,705
+103,2025,"Wolfsburg, Stadt",K03103,702
+151,2025,"Gifhorn",K03151,255
+153,2025,"Goslar",K03153,677
+154,2025,"Helmstedt",K03154,140
+155,2025,"Northeim",K03155,360
+157,2025,"Peine",K03157,170
+158,2025,"Wolfenbüttel",K03158,317
+159,2025,"Göttingen",K03159,1185
+1,2025,"Statistische Region Braunschweig",K031,5719
+241,2025,"Region Hannover",K03241,5183
+241001,2025,"dav. Hannover, Lhst.",K03241001,2623
+241999,2025,"dav. Hannover, Umland",K03241999,2560
+251,2025,"Diepholz",K03251,805
+252,2025,"Hameln-Pyrmont",K03252,609
+254,2025,"Hildesheim",K03254,1267
+255,2025,"Holzminden",K03255,192
+256,2025,"Nienburg (Weser)",K03256,548
+257,2025,"Schaumburg",K03257,808
+2,2025,"Statistische Region Hannover",K032,9409
+351,2025,"Celle",K03351,526
+352,2025,"Cuxhaven",K03352,376
+353,2025,"Harburg",K03353,1024
+354,2025,"Lüchow-Dannenberg",K03354,107
+355,2025,"Lüneburg",K03355,638
+356,2025,"Osterholz",K03356,435
+357,2025,"Rotenburg (Wümme)",K03357,621
+358,2025,"Heidekreis",K03358,453
+359,2025,"Stade",K03359,488
+360,2025,"Uelzen",K03360,223
+361,2025,"Verden",K03361,355
+3,2025,"Statistische Region Lüneburg",K033,5246
+401,2025,"Delmenhorst, Stadt",K03401,535
+402,2025,"Emden, Stadt",K03402,185
+403,2025,"Oldenburg (Oldb), Stadt",K03403,963
+404,2025,"Osnabrück, Stadt",K03404,559
+405,2025,"Wilhelmshaven, Stadt",K03405,202
+451,2025,"Ammerland",K03451,435
+452,2025,"Aurich",K03452,416
+453,2025,"Cloppenburg",K03453,374
+454,2025,"Emsland",K03454,740
+455,2025,"Friesland",K03455,151
+456,2025,"Grafschaft Bentheim",K03456,619
+457,2025,"Leer",K03457,52
+458,2025,"Oldenburg",K03458,452
+459,2025,"Osnabrück",K03459,946
+460,2025,"Vechta",K03460,1037
+461,2025,"Wesermarsch",K03461,14
+462,2025,"Wittmund",K03462,103
+4,2025,"Statistische Region Weser-Ems",K034,7780
+0,2025,"Niedersachsen",#NV,28153
