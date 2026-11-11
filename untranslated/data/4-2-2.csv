@@ -1,4 +1,5 @@
 Year,Nationalität,Geschlecht,Value
+2025,Insgesamt,Insgesamt,23.4
 2024,Insgesamt,Insgesamt,23.6
 2023,Insgesamt,Insgesamt,22.9
 2022,Insgesamt,Insgesamt,23.4
@@ -13,6 +14,7 @@ Year,Nationalität,Geschlecht,Value
 2013,Insgesamt,Insgesamt,29.0
 2012,Insgesamt,Insgesamt,29.5
 2011,Insgesamt,Insgesamt,29.7
+2025,Insgesamt,Männer,29.8
 2024,Insgesamt,Männer,30.0
 2023,Insgesamt,Männer,29.3
 2022,Insgesamt,Männer,30.3
@@ -27,6 +29,7 @@ Year,Nationalität,Geschlecht,Value
 2013,Insgesamt,Männer,34.8
 2012,Insgesamt,Männer,35.2
 2011,Insgesamt,Männer,35.0
+2025,Insgesamt,Frauen,16.4
 2024,Insgesamt,Frauen,16.5
 2023,Insgesamt,Frauen,16.1
 2022,Insgesamt,Frauen,16.1
@@ -41,6 +44,7 @@ Year,Nationalität,Geschlecht,Value
 2013,Insgesamt,Frauen,22.9
 2012,Insgesamt,Frauen,23.4
 2011,Insgesamt,Frauen,24.1
+2025,Deutsche,Insgesamt,24.9
 2024,Deutsche,Insgesamt,25.5
 2023,Deutsche,Insgesamt,25.4
 2022,Deutsche,Insgesamt,25.6
@@ -55,6 +59,7 @@ Year,Nationalität,Geschlecht,Value
 2013,Deutsche,Insgesamt,30.5
 2012,Deutsche,Insgesamt,30.8
 2011,Deutsche,Insgesamt,30.9
+2025,Deutsche,Männer,32.6
 2024,Deutsche,Männer,33.4
 2023,Deutsche,Männer,33.1
 2022,Deutsche,Männer,33.4
@@ -69,6 +74,7 @@ Year,Nationalität,Geschlecht,Value
 2013,Deutsche,Männer,36.5
 2012,Deutsche,Männer,36.8
 2011,Deutsche,Männer,36.4
+2025,Deutsche,Frauen,16.8
 2024,Deutsche,Frauen,17.3
 2023,Deutsche,Frauen,17.3
 2022,Deutsche,Frauen,17.3
@@ -83,6 +89,7 @@ Year,Nationalität,Geschlecht,Value
 2013,Deutsche,Frauen,23.9
 2012,Deutsche,Frauen,24.4
 2011,Deutsche,Frauen,25.0
+2025,Ausländerinnen und Ausländer,Insgesamt,15.2
 2024,Ausländerinnen und Ausländer,Insgesamt,12.7
 2023,Ausländerinnen und Ausländer,Insgesamt,9.6
 2022,Ausländerinnen und Ausländer,Insgesamt,9.9
@@ -97,6 +104,7 @@ Year,Nationalität,Geschlecht,Value
 2013,Ausländerinnen und Ausländer,Insgesamt,9.8
 2012,Ausländerinnen und Ausländer,Insgesamt,10.2
 2011,Ausländerinnen und Ausländer,Insgesamt,11.2
+2025,Ausländerinnen und Ausländer,Männer,16.4
 2024,Ausländerinnen und Ausländer,Männer,13.5
 2023,Ausländerinnen und Ausländer,Männer,10.4
 2022,Ausländerinnen und Ausländer,Männer,11.4
@@ -111,6 +119,7 @@ Year,Nationalität,Geschlecht,Value
 2013,Ausländerinnen und Ausländer,Männer,11.2
 2012,Ausländerinnen und Ausländer,Männer,11.2
 2011,Ausländerinnen und Ausländer,Männer,12.5
+2025,Ausländerinnen und Ausländer,Frauen,13.6
 2024,Ausländerinnen und Ausländer,Frauen,11.6
 2023,Ausländerinnen und Ausländer,Frauen,8.7
 2022,Ausländerinnen und Ausländer,Frauen,8.2
