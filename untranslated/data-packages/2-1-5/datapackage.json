@@ -80,9 +80,6 @@
               "enum": [
                 "männlich",
                 "weiblich",
-                "insgesamt",
-                "Männlich",
-                "Weiblich",
                 "Insgesamt",
                 ""
               ]
@@ -93,7 +90,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "insgesamt",
+                "Insgesamt",
                 "Duldung",
                 "Aufenthaltsgestattung",
                 "Ohne Duldung oder Gestattung",
