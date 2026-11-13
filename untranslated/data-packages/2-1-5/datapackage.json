@@ -15,6 +15,65 @@
             "type": "integer"
           },
           {
+            "name": "AGS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "101",
+                "102",
+                "103",
+                "151",
+                "153",
+                "154",
+                "155",
+                "157",
+                "158",
+                "159",
+                "1",
+                "241",
+                "251",
+                "252",
+                "254",
+                "255",
+                "256",
+                "257",
+                "2",
+                "351",
+                "352",
+                "353",
+                "354",
+                "355",
+                "356",
+                "357",
+                "358",
+                "359",
+                "360",
+                "361",
+                "3",
+                "401",
+                "402",
+                "403",
+                "404",
+                "405",
+                "451",
+                "452",
+                "453",
+                "454",
+                "455",
+                "456",
+                "457",
+                "458",
+                "459",
+                "460",
+                "461",
+                "462",
+                "4",
+                "0",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Gebietseinheit",
             "type": "string",
             "constraints": {
@@ -80,6 +139,9 @@
               "enum": [
                 "männlich",
                 "weiblich",
+                "insgesamt",
+                "Männlich",
+                "Weiblich",
                 "Insgesamt",
                 ""
               ]
@@ -90,14 +152,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Insgesamt",
+                "insgesamt",
                 "Duldung",
                 "Aufenthaltsgestattung",
                 "Ohne Duldung oder Gestattung",
-                "Anteil der Ausländerinnen und Ausländer ohne Aufenthaltstite",
-                "Anteil der Ausländerinnen und Ausländer mit einer Duldung",
-                "Anteil der Ausländerinnen und Ausländer  Aufenthaltsgestattung",
-                "Anteil der Ausländerinnen und Ausländer ohne Duldung oder Gestattung",
                 ""
               ]
             }
