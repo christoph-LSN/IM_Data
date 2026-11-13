@@ -1782,8 +1782,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Abstand der Arbeitslosenquote von Ausländerinnen und Ausländern zu Insgesamt",
-                "Abstand der Arbeitslosenquote von Ausländerinnen und Ausländern zu Insgesamt (bis unter 25 Jahren)",
+                "Arbeitslosenquote Insgesamt (alle Erwerbspersonen)",
+                "Arbeitslosenquote von Ausländerinnen und Ausländern (alle Erwerbspersonen)",
                 ""
               ]
             }
@@ -1801,26 +1801,11 @@
             }
           },
           {
-            "name": "Altersgruppe",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Insgesamt",
-                "15 bis unter 20 Jahre",
-                "16 bis unter 20 Jahre",
-                "17 bis unter 20 Jahre",
-                "20 bis unter 25 Jahre",
-                "21 bis unter 25 Jahre",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Prozentpunkte",
+                "% ",
                 ""
               ]
             }
