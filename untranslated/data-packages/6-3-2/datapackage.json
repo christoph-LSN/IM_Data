@@ -28,7 +28,7 @@
             }
           },
           {
-            "name": "Haushaltsnettoeinkommen",
+            "name": "Hauhaltsnettoeinkommen",
             "type": "string",
             "constraints": {
               "enum": [
@@ -53,12 +53,17 @@
             "constraints": {
               "enum": [
                 "insgesamt",
+                "Einpersonenhaushalte",
+                "2 Personen",
+                "3 Personen",
+                "4 Personen",
+                "5 und mehr mehr Personen",
                 ""
               ]
             }
           },
           {
-            "name": "COMMENT_OBS",
+            "name": "Comment_OBS",
             "type": "string",
             "constraints": {
               "enum": [
