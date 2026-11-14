@@ -1,221 +1,1321 @@
-﻿Year,Migrationsstatus,Haushaltsnettoeinkommen,Haushaltsgröße,COMMENT_OBS,Value
-2025,Insgesamt,Insgesamt,insgesamt,,3938
-2025,Insgesamt,unter 500,insgesamt,,51
-2025,Insgesamt,500 - 1000,insgesamt,,218
-2025,Insgesamt,1000 - 1500,insgesamt,,403
-2025,Insgesamt,1500 - 2000,insgesamt,,445
-2025,Insgesamt,2000 - 2500,insgesamt,,500
-2025,Insgesamt,2500 - 3000,insgesamt,,391
-2025,Insgesamt,3000 - 3500,insgesamt,,337
-2025,Insgesamt,3500 - 4000,insgesamt,,295
-2025,Insgesamt,4000 - 5000,insgesamt,,476
-2025,Insgesamt,5000 und mehr,insgesamt,,822
-2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,Insgesamt,insgesamt,,2902
-2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,unter 500,insgesamt,,33
-2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,500 - 1000,insgesamt,,142
-2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,1000 - 1500,insgesamt,,297
-2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,1500 - 2000,insgesamt,,322
-2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,2000 - 2500,insgesamt,,376
-2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,2500 - 3000,insgesamt,,298
-2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,3000 - 3500,insgesamt,,244
-2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,3500 - 4000,insgesamt,,212
-2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,4000 - 5000,insgesamt,,351
-2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,5000 und mehr,insgesamt,,624
-2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,Insgesamt,insgesamt,,263
-2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,unter 500,insgesamt,gesperrt,
-2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,500 - 1000,insgesamt,gesperrt,
-2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1000 - 1500,insgesamt,statistisch unsicher,5
-2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1500 - 2000,insgesamt,,11
-2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2000 - 2500,insgesamt,,16
-2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2500 - 3000,insgesamt,,18
-2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3000 - 3500,insgesamt,,27
-2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3500 - 4000,insgesamt,,28
-2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,4000 - 5000,insgesamt,,49
-2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,5000 und mehr,insgesamt,,107
-2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,Insgesamt,insgesamt,,773
-2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,unter 500,insgesamt,,17
-2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,500 - 1000,insgesamt,,75
-2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1000 - 1500,insgesamt,,101
-2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1500 - 2000,insgesamt,,112
-2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2000 - 2500,insgesamt,,107
-2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2500 - 3000,insgesamt,,75
-2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3000 - 3500,insgesamt,,66
-2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3500 - 4000,insgesamt,,55
-2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,4000 - 5000,insgesamt,,75
-2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,5000 und mehr,insgesamt,,90
-2024,Insgesamt,Insgesamt,insgesamt,,3943
-2024,Insgesamt,unter 500,insgesamt,,53
-2024,Insgesamt,500 - 1000,insgesamt,,240
-2024,Insgesamt,1000 - 1500,insgesamt,,425
-2024,Insgesamt,1500 - 2000,insgesamt,,479
-2024,Insgesamt,2000 - 2500,insgesamt,,505
-2024,Insgesamt,2500 - 3000,insgesamt,,391
-2024,Insgesamt,3000 - 3500,insgesamt,,345
-2024,Insgesamt,3500 - 4000,insgesamt,,299
-2024,Insgesamt,4000 - 5000,insgesamt,,461
-2024,Insgesamt,5000 und mehr,insgesamt,,744
-2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,Insgesamt,insgesamt,,2916
-2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,unter 500,insgesamt,,34
-2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,500 - 1000,insgesamt,,161
-2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,1000 - 1500,insgesamt,,317
-2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,1500 - 2000,insgesamt,,351
-2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,2000 - 2500,insgesamt,,384
-2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,2500 - 3000,insgesamt,,291
-2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,3000 - 3500,insgesamt,,255
-2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,3500 - 4000,insgesamt,,218
-2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,4000 - 5000,insgesamt,,339
-2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,5000 und mehr,insgesamt,,566
-2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,Insgesamt,insgesamt,,269
-2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,unter 500,insgesamt,gesperrt,
-2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,500 - 1000,insgesamt,gesperrt,
-2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1000 - 1500,insgesamt,gesperrt,
-2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1500 - 2000,insgesamt,,12
-2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2000 - 2500,insgesamt,,17
-2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2500 - 3000,insgesamt,,21
-2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3000 - 3500,insgesamt,,29
-2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3500 - 4000,insgesamt,,30
-2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,4000 - 5000,insgesamt,,54
-2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,5000 und mehr,insgesamt,,100
-2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,Insgesamt,insgesamt,,757
-2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,unter 500,insgesamt,,19
-2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,500 - 1000,insgesamt,,78
-2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1000 - 1500,insgesamt,,104
-2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1500 - 2000,insgesamt,,116
-2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2000 - 2500,insgesamt,,104
-2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2500 - 3000,insgesamt,,78
-2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3000 - 3500,insgesamt,,60
-2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3500 - 4000,insgesamt,,51
-2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,4000 - 5000,insgesamt,,68
-2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,5000 und mehr,insgesamt,,78
-2023,Insgesamt,Insgesamt,insgesamt,,3888
-2023,Insgesamt,unter 500,insgesamt,,54
-2023,Insgesamt,500 - 1000,insgesamt,,254
-2023,Insgesamt,1000 - 1500,insgesamt,,418
-2023,Insgesamt,1500 - 2000,insgesamt,,501
-2023,Insgesamt,2000 - 2500,insgesamt,,505
-2023,Insgesamt,2500 - 3000,insgesamt,,389
-2023,Insgesamt,3000 - 3500,insgesamt,,343
-2023,Insgesamt,3500 - 4000,insgesamt,,297
-2023,Insgesamt,4000 - 5000,insgesamt,,463
-2023,Insgesamt,5000 und mehr,insgesamt,,664
-2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,Insgesamt,insgesamt,,2944
-2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,unter 500,insgesamt,,35
-2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,500 - 1000,insgesamt,,175
-2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,1000 - 1500,insgesamt,,318
-2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,1500 - 2000,insgesamt,,374
-2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,2000 - 2500,insgesamt,,397
-2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,2500 - 3000,insgesamt,,295
-2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,3000 - 3500,insgesamt,,260
-2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,3500 - 4000,insgesamt,,221
-2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,4000 - 5000,insgesamt,,352
-2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,5000 und mehr,insgesamt,,519
-2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,Insgesamt,insgesamt,,249
-2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,unter 500,insgesamt,gesperrt,
-2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,500 - 1000,insgesamt,gesperrt,
-2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1000 - 1500,insgesamt,gesperrt,
-2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1500 - 2000,insgesamt,,11
-2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2000 - 2500,insgesamt,,19
-2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2500 - 3000,insgesamt,,26
-2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3000 - 3500,insgesamt,,25
-2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3500 - 4000,insgesamt,,30
-2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,4000 - 5000,insgesamt,,52
-2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,5000 und mehr,insgesamt,,80
-2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,Insgesamt,insgesamt,,695
-2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,unter 500,insgesamt,,19
-2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,500 - 1000,insgesamt,,77
-2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1000 - 1500,insgesamt,,96
-2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1500 - 2000,insgesamt,,116
-2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2000 - 2500,insgesamt,,89
-2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2500 - 3000,insgesamt,,69
-2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3000 - 3500,insgesamt,,57
-2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3500 - 4000,insgesamt,,46
-2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,4000 - 5000,insgesamt,,60
-2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,5000 und mehr,insgesamt,,65
-2022,Insgesamt,Insgesamt,insgesamt,,3865
-2022,Insgesamt,unter 500,insgesamt,,67
-2022,Insgesamt,500 - 1000,insgesamt,,287
-2022,Insgesamt,1000 - 1500,insgesamt,,445
-2022,Insgesamt,1500 - 2000,insgesamt,,521
-2022,Insgesamt,2000 - 2500,insgesamt,,496
-2022,Insgesamt,2500 - 3000,insgesamt,,394
-2022,Insgesamt,3000 - 3500,insgesamt,,337
-2022,Insgesamt,3500 - 4000,insgesamt,,297
-2022,Insgesamt,4000 - 5000,insgesamt,,429
-2022,Insgesamt,5000 und mehr,insgesamt,,591
-2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,Insgesamt,insgesamt,,2963
-2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,unter 500,insgesamt,,49
-2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,500 - 1000,insgesamt,,208
-2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,1000 - 1500,insgesamt,,343
-2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,1500 - 2000,insgesamt,,395
-2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,2000 - 2500,insgesamt,,391
-2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,2500 - 3000,insgesamt,,301
-2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,3000 - 3500,insgesamt,,259
-2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,3500 - 4000,insgesamt,,224
-2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,4000 - 5000,insgesamt,,331
-2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,5000 und mehr,insgesamt,,462
-2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,Insgesamt,insgesamt,,243
-2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,unter 500,insgesamt,gesperrt,
-2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,500 - 1000,insgesamt,gesperrt,
-2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1000 - 1500,insgesamt,statistisch unsicher,8
-2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1500 - 2000,insgesamt,,17
-2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2000 - 2500,insgesamt,,21
-2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2500 - 3000,insgesamt,,23
-2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3000 - 3500,insgesamt,,26
-2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3500 - 4000,insgesamt,,29
-2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,4000 - 5000,insgesamt,,43
-2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,5000 und mehr,insgesamt,,73
-2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,Insgesamt,insgesamt,,659
-2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,unter 500,insgesamt,,18
-2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,500 - 1000,insgesamt,,78
-2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1000 - 1500,insgesamt,,94
-2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1500 - 2000,insgesamt,,109
-2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2000 - 2500,insgesamt,,84
-2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2500 - 3000,insgesamt,,69
-2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3000 - 3500,insgesamt,,52
-2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3500 - 4000,insgesamt,,43
-2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,4000 - 5000,insgesamt,,55
-2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,5000 und mehr,insgesamt,,56
-2021,Insgesamt,Insgesamt,insgesamt,,3834
-2021,Insgesamt,unter 500,insgesamt,,81
-2021,Insgesamt,500 - 1000,insgesamt,,328
-2021,Insgesamt,1000 - 1500,insgesamt,,466
-2021,Insgesamt,1500 - 2000,insgesamt,,524
-2021,Insgesamt,2000 - 2500,insgesamt,,488
-2021,Insgesamt,2500 - 3000,insgesamt,,383
-2021,Insgesamt,3000 - 3500,insgesamt,,343
-2021,Insgesamt,3500 - 4000,insgesamt,,294
-2021,Insgesamt,4000 - 5000,insgesamt,,399
-2021,Insgesamt,5000 und mehr,insgesamt,,526
-2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,Insgesamt,insgesamt,,2973
-2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,unter 500,insgesamt,,57
-2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,500 - 1000,insgesamt,,238
-2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,1000 - 1500,insgesamt,,365
-2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,1500 - 2000,insgesamt,,404
-2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,2000 - 2500,insgesamt,,389
-2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,2500 - 3000,insgesamt,,293
-2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,3000 - 3500,insgesamt,,262
-2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,3500 - 4000,insgesamt,,227
-2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,4000 - 5000,insgesamt,,315
-2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,5000 und mehr,insgesamt,,420
-2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,Insgesamt,insgesamt,,236
-2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,unter 500,insgesamt,gesperrt,
-2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,500 - 1000,insgesamt,gesperrt,
-2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1000 - 1500,insgesamt,statistisch unsicher,9
-2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1500 - 2000,insgesamt,,17
-2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2000 - 2500,insgesamt,,21
-2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2500 - 3000,insgesamt,,27
-2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3000 - 3500,insgesamt,,29
-2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3500 - 4000,insgesamt,,28
-2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,4000 - 5000,insgesamt,,37
-2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,5000 und mehr,insgesamt,,64
-2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,Insgesamt,insgesamt,,626
-2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,unter 500,insgesamt,,23
-2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,500 - 1000,insgesamt,,87
-2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1000 - 1500,insgesamt,,93
-2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1500 - 2000,insgesamt,,103
-2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2000 - 2500,insgesamt,,78
-2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2500 - 3000,insgesamt,,63
-2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3000 - 3500,insgesamt,,51
-2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3500 - 4000,insgesamt,,39
-2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,4000 - 5000,insgesamt,,47
-2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,5000 und mehr,insgesamt,,42
+﻿Year,Migrationsstatus,Hauhaltsnettoeinkommen,Haushaltsgröße,Comment_OBS,Value2
+2025,Insgesamt,Insgesamt,insgesamt,,3937.636914
+2025,Insgesamt,unter 500,insgesamt,,50.572268
+2025,Insgesamt,500 - 1000,insgesamt,,217.579941
+2025,Insgesamt,1000 - 1500,insgesamt,,403.024171
+2025,Insgesamt,1500 - 2000,insgesamt,,445.13756
+2025,Insgesamt,2000 - 2500,insgesamt,,499.505176
+2025,Insgesamt,2500 - 3000,insgesamt,,391.144036
+2025,Insgesamt,3000 - 3500,insgesamt,,337.180734
+2025,Insgesamt,3500 - 4000,insgesamt,,295.030338
+2025,Insgesamt,4000 - 5000,insgesamt,,475.657174
+2025,Insgesamt,5000 und mehr,insgesamt,,821.681352
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,Insgesamt,insgesamt,,2901.583274
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,unter 500,insgesamt,,33.373975
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,500 - 1000,insgesamt,,141.599729
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,1000 - 1500,insgesamt,,297.047081
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,1500 - 2000,insgesamt,,322.404535
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,2000 - 2500,insgesamt,,376.469906
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,2500 - 3000,insgesamt,,298.360428
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,3000 - 3500,insgesamt,,243.997425
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,3500 - 4000,insgesamt,,212.260191
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,4000 - 5000,insgesamt,,351.265527
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,5000 und mehr,insgesamt,,624.09171
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,Insgesamt,insgesamt,,262.771254
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,unter 500,insgesamt,gesperrt,0
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,500 - 1000,insgesamt,gesperrt,0
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1000 - 1500,insgesamt,statistisch unsicher,5.142072
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1500 - 2000,insgesamt,,10.870971
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2000 - 2500,insgesamt,,15.854418
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2500 - 3000,insgesamt,,17.920714
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3000 - 3500,insgesamt,,27.294143
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3500 - 4000,insgesamt,,27.708229
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,4000 - 5000,insgesamt,,49.165085
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,5000 und mehr,insgesamt,,107.368781
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,Insgesamt,insgesamt,,773.282386
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,unter 500,insgesamt,,17.198293
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,500 - 1000,insgesamt,,74.610493
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1000 - 1500,insgesamt,,100.835018
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1500 - 2000,insgesamt,,111.862054
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2000 - 2500,insgesamt,,107.180852
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2500 - 3000,insgesamt,,74.862894
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3000 - 3500,insgesamt,,65.889166
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3500 - 4000,insgesamt,,55.061918
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,4000 - 5000,insgesamt,,75.226562
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,5000 und mehr,insgesamt,,90.220861
+2024,Insgesamt,Insgesamt,insgesamt,,3942.625993
+2024,Insgesamt,unter 500,insgesamt,,53.099318
+2024,Insgesamt,500 - 1000,insgesamt,,239.675268
+2024,Insgesamt,1000 - 1500,insgesamt,,425.239071
+2024,Insgesamt,1500 - 2000,insgesamt,,478.864601
+2024,Insgesamt,2000 - 2500,insgesamt,,504.856451
+2024,Insgesamt,2500 - 3000,insgesamt,,390.63666
+2024,Insgesamt,3000 - 3500,insgesamt,,344.918893
+2024,Insgesamt,3500 - 4000,insgesamt,,298.992289
+2024,Insgesamt,4000 - 5000,insgesamt,,460.755225
+2024,Insgesamt,5000 und mehr,insgesamt,,744.087788
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,Insgesamt,insgesamt,,2916.173909
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,unter 500,insgesamt,,33.843915
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,500 - 1000,insgesamt,,160.67007
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,1000 - 1500,insgesamt,,317.464577
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,1500 - 2000,insgesamt,,350.956449
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,2000 - 2500,insgesamt,,383.971938
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,2500 - 3000,insgesamt,,290.953539
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,3000 - 3500,insgesamt,,255.161965
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,3500 - 4000,insgesamt,,217.708433
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,4000 - 5000,insgesamt,,338.981325
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,5000 und mehr,insgesamt,,565.796289
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,Insgesamt,insgesamt,,269.369613
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,unter 500,insgesamt,gesperrt,0
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,500 - 1000,insgesamt,gesperrt,0
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1000 - 1500,insgesamt,gesperrt,0
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1500 - 2000,insgesamt,,11.676523
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2000 - 2500,insgesamt,,16.814807
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2500 - 3000,insgesamt,,21.224631
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3000 - 3500,insgesamt,,29.423597
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3500 - 4000,insgesamt,,29.990123
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,4000 - 5000,insgesamt,,54.204195
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,5000 und mehr,insgesamt,,99.944887
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,Insgesamt,insgesamt,,757.082471
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,unter 500,insgesamt,,18.929816
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,500 - 1000,insgesamt,,77.59407
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1000 - 1500,insgesamt,,103.727256
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1500 - 2000,insgesamt,,116.231629
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2000 - 2500,insgesamt,,104.069706
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2500 - 3000,insgesamt,,78.45849
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3000 - 3500,insgesamt,,60.333331
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3500 - 4000,insgesamt,,51.293733
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,4000 - 5000,insgesamt,,67.569705
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,5000 und mehr,insgesamt,,78.346612
+2023,Insgesamt,Insgesamt,insgesamt,,3888.021266
+2023,Insgesamt,unter 500,insgesamt,,53.741502
+2023,Insgesamt,500 - 1000,insgesamt,,253.713905
+2023,Insgesamt,1000 - 1500,insgesamt,,417.934407
+2023,Insgesamt,1500 - 2000,insgesamt,,501.163217
+2023,Insgesamt,2000 - 2500,insgesamt,,505.308359
+2023,Insgesamt,2500 - 3000,insgesamt,,388.774512
+2023,Insgesamt,3000 - 3500,insgesamt,,342.614109
+2023,Insgesamt,3500 - 4000,insgesamt,,296.72627
+2023,Insgesamt,4000 - 5000,insgesamt,,463.188178
+2023,Insgesamt,5000 und mehr,insgesamt,,663.808579
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,Insgesamt,insgesamt,,2944.46017
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,unter 500,insgesamt,,34.529146
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,500 - 1000,insgesamt,,175.455607
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,1000 - 1500,insgesamt,,317.608143
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,1500 - 2000,insgesamt,,373.942144
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,2000 - 2500,insgesamt,,396.658614
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,2500 - 3000,insgesamt,,294.600485
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,3000 - 3500,insgesamt,,259.886269
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,3500 - 4000,insgesamt,,220.914725
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,4000 - 5000,insgesamt,,351.580116
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,5000 und mehr,insgesamt,,518.717099
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,Insgesamt,insgesamt,,248.846449
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,unter 500,insgesamt,gesperrt,0
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,500 - 1000,insgesamt,gesperrt,0
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1000 - 1500,insgesamt,gesperrt,0
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1500 - 2000,insgesamt,,11.441899
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2000 - 2500,insgesamt,,19.304002
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2500 - 3000,insgesamt,,25.511753
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3000 - 3500,insgesamt,,25.455093
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3500 - 4000,insgesamt,,29.624458
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,4000 - 5000,insgesamt,,52.053404
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,5000 und mehr,insgesamt,,79.907727
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,Insgesamt,insgesamt,,694.714647
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,unter 500,insgesamt,,19.145998
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,500 - 1000,insgesamt,,77.027258
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1000 - 1500,insgesamt,,96.075549
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1500 - 2000,insgesamt,,115.779174
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2000 - 2500,insgesamt,,89.345743
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2500 - 3000,insgesamt,,68.662274
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3000 - 3500,insgesamt,,57.272747
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3500 - 4000,insgesamt,,46.187087
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,4000 - 5000,insgesamt,,59.554658
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,5000 und mehr,insgesamt,,65.183753
+2022,Insgesamt,Insgesamt,insgesamt,,3865.058114
+2022,Insgesamt,unter 500,insgesamt,,67.336703
+2022,Insgesamt,500 - 1000,insgesamt,,286.923329
+2022,Insgesamt,1000 - 1500,insgesamt,,445.315373
+2022,Insgesamt,1500 - 2000,insgesamt,,521.226748
+2022,Insgesamt,2000 - 2500,insgesamt,,496.281857
+2022,Insgesamt,2500 - 3000,insgesamt,,393.791445
+2022,Insgesamt,3000 - 3500,insgesamt,,336.938765
+2022,Insgesamt,3500 - 4000,insgesamt,,296.681365
+2022,Insgesamt,4000 - 5000,insgesamt,,429.225447
+2022,Insgesamt,5000 und mehr,insgesamt,,590.767219
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,Insgesamt,insgesamt,,2962.930342
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,unter 500,insgesamt,,49.324281
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,500 - 1000,insgesamt,,207.810202
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,1000 - 1500,insgesamt,,342.788454
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,1500 - 2000,insgesamt,,394.966627
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,2000 - 2500,insgesamt,,391.183895
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,2500 - 3000,insgesamt,,300.874188
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,3000 - 3500,insgesamt,,258.720501
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,3500 - 4000,insgesamt,,224.117441
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,4000 - 5000,insgesamt,,330.653623
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,5000 und mehr,insgesamt,,462.253019
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,Insgesamt,insgesamt,,242.916438
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,unter 500,insgesamt,gesperrt,0
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,500 - 1000,insgesamt,gesperrt,0
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1000 - 1500,insgesamt,statistisch unsicher,8.249017
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1500 - 2000,insgesamt,,17.238775
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2000 - 2500,insgesamt,,21.387697
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2500 - 3000,insgesamt,,23.429897
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3000 - 3500,insgesamt,,25.775971
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3500 - 4000,insgesamt,,29.163714
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,4000 - 5000,insgesamt,,43.224952
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,5000 und mehr,insgesamt,,72.94827
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,Insgesamt,insgesamt,,659.211334
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,unter 500,insgesamt,,17.721743
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,500 - 1000,insgesamt,,78.100116
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1000 - 1500,insgesamt,,94.277902
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1500 - 2000,insgesamt,,109.021346
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2000 - 2500,insgesamt,,83.710265
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2500 - 3000,insgesamt,,69.48736
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3000 - 3500,insgesamt,,52.442293
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3500 - 4000,insgesamt,,43.40021
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,4000 - 5000,insgesamt,,55.346872
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,5000 und mehr,insgesamt,,55.56593
+2021,Insgesamt,Insgesamt,insgesamt,,3834.48276
+2021,Insgesamt,unter 500,insgesamt,,80.580476
+2021,Insgesamt,500 - 1000,insgesamt,,327.875639
+2021,Insgesamt,1000 - 1500,insgesamt,,466.188156
+2021,Insgesamt,1500 - 2000,insgesamt,,524.140303
+2021,Insgesamt,2000 - 2500,insgesamt,,488.494866
+2021,Insgesamt,2500 - 3000,insgesamt,,382.520321
+2021,Insgesamt,3000 - 3500,insgesamt,,342.836653
+2021,Insgesamt,3500 - 4000,insgesamt,,294.06465
+2021,Insgesamt,4000 - 5000,insgesamt,,399.287735
+2021,Insgesamt,5000 und mehr,insgesamt,,525.602945
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,Insgesamt,insgesamt,,2972.556189
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,unter 500,insgesamt,,57.391352
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,500 - 1000,insgesamt,,237.973129
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,1000 - 1500,insgesamt,,364.802385
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,1500 - 2000,insgesamt,,403.57915
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,2000 - 2500,insgesamt,,389.128757
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,2500 - 3000,insgesamt,,292.952826
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,3000 - 3500,insgesamt,,262.335398
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,3500 - 4000,insgesamt,,227.167088
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,4000 - 5000,insgesamt,,314.530346
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,5000 und mehr,insgesamt,,420.184772
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,Insgesamt,insgesamt,,235.549902
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,unter 500,insgesamt,gesperrt,0
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,500 - 1000,insgesamt,gesperrt,0
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1000 - 1500,insgesamt,statistisch unsicher,8.810943
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1500 - 2000,insgesamt,,17.367175
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2000 - 2500,insgesamt,,20.955985
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2500 - 3000,insgesamt,,26.877186
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3000 - 3500,insgesamt,,29.264187
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3500 - 4000,insgesamt,,28.268864
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,4000 - 5000,insgesamt,,37.283196
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,5000 und mehr,insgesamt,,63.752079
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,Insgesamt,insgesamt,,626.376669
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,unter 500,insgesamt,,22.888938
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,500 - 1000,insgesamt,,87.462256
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1000 - 1500,insgesamt,,92.574828
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1500 - 2000,insgesamt,,103.193978
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2000 - 2500,insgesamt,,78.410124
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2500 - 3000,insgesamt,,62.690309
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3000 - 3500,insgesamt,,51.237068
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3500 - 4000,insgesamt,,38.628698
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,4000 - 5000,insgesamt,,47.474193
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,5000 und mehr,insgesamt,,41.666094
+2025,Insgesamt,Insgesamt,Einpersonenhaushalte,,1666.366432
+2025,Insgesamt,unter 500,Einpersonenhaushalte,,48.587515
+2025,Insgesamt,500 - 1000,Einpersonenhaushalte,,204.864085
+2025,Insgesamt,1000 - 1500,Einpersonenhaushalte,,345.719452
+2025,Insgesamt,1500 - 2000,Einpersonenhaushalte,,323.395428
+2025,Insgesamt,2000 - 2500,Einpersonenhaushalte,,318.630111
+2025,Insgesamt,2500 - 3000,Einpersonenhaushalte,,176.583145
+2025,Insgesamt,3000 - 3500,Einpersonenhaushalte,,102.837591
+2025,Insgesamt,3500 - 4000,Einpersonenhaushalte,,52.884607
+2025,Insgesamt,4000 - 5000,Einpersonenhaushalte,,52.972621
+2025,Insgesamt,5000 und mehr,Einpersonenhaushalte,,39.810305
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,Insgesamt,Einpersonenhaushalte,,1316.971763
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,unter 500,Einpersonenhaushalte,,32.228469
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,500 - 1000,Einpersonenhaushalte,,135.82135
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,1000 - 1500,Einpersonenhaushalte,,267.982624
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,1500 - 2000,Einpersonenhaushalte,,255.880695
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,2000 - 2500,Einpersonenhaushalte,,262.892468
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,2500 - 3000,Einpersonenhaushalte,,151.402372
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,3000 - 3500,Einpersonenhaushalte,,87.396546
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,3500 - 4000,Einpersonenhaushalte,,43.932032
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,4000 - 5000,Einpersonenhaushalte,,45.561154
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,5000 und mehr,Einpersonenhaushalte,,33.792481
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,Insgesamt,Einpersonenhaushalte,gesperrt,0
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,unter 500,Einpersonenhaushalte,gesperrt,0
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,500 - 1000,Einpersonenhaushalte,gesperrt,0
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1000 - 1500,Einpersonenhaushalte,gesperrt,0
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1500 - 2000,Einpersonenhaushalte,gesperrt,0
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2000 - 2500,Einpersonenhaushalte,gesperrt,0
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2500 - 3000,Einpersonenhaushalte,gesperrt,0
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3000 - 3500,Einpersonenhaushalte,gesperrt,0
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3500 - 4000,Einpersonenhaushalte,gesperrt,0
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,4000 - 5000,Einpersonenhaushalte,gesperrt,0
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,5000 und mehr,Einpersonenhaushalte,gesperrt,0
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,Insgesamt,Einpersonenhaushalte,,349.394669
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,unter 500,Einpersonenhaushalte,,16.359046
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,500 - 1000,Einpersonenhaushalte,,69.042735
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1000 - 1500,Einpersonenhaushalte,,77.736828
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1500 - 2000,Einpersonenhaushalte,,67.514733
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2000 - 2500,Einpersonenhaushalte,,55.737643
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2500 - 3000,Einpersonenhaushalte,,25.180773
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3000 - 3500,Einpersonenhaushalte,,15.441045
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3500 - 4000,Einpersonenhaushalte,statistisch unsicher,8.952575
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,4000 - 5000,Einpersonenhaushalte,statistisch unsicher,7.411467
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,5000 und mehr,Einpersonenhaushalte,statistisch unsicher,6.017824
+2024,Insgesamt,Insgesamt,Einpersonenhaushalte,,1675.147488
+2024,Insgesamt,unter 500,Einpersonenhaushalte,,50.53684
+2024,Insgesamt,500 - 1000,Einpersonenhaushalte,,224.641737
+2024,Insgesamt,1000 - 1500,Einpersonenhaushalte,,362.345667
+2024,Insgesamt,1500 - 2000,Einpersonenhaushalte,,338.320676
+2024,Insgesamt,2000 - 2500,Einpersonenhaushalte,,309.119883
+2024,Insgesamt,2500 - 3000,Einpersonenhaushalte,,159.8495
+2024,Insgesamt,3000 - 3500,Einpersonenhaushalte,,98.483625
+2024,Insgesamt,3500 - 4000,Einpersonenhaushalte,,48.646422
+2024,Insgesamt,4000 - 5000,Einpersonenhaushalte,,46.853557
+2024,Insgesamt,5000 und mehr,Einpersonenhaushalte,,36.187739
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,Insgesamt,Einpersonenhaushalte,,1341.545641
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,unter 500,Einpersonenhaushalte,,32.934042
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,500 - 1000,Einpersonenhaushalte,,154.808945
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,1000 - 1500,Einpersonenhaushalte,,287.045098
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,1500 - 2000,Einpersonenhaushalte,,271.093406
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,2000 - 2500,Einpersonenhaushalte,,259.171238
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,2500 - 3000,Einpersonenhaushalte,,138.5155
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,3000 - 3500,Einpersonenhaushalte,,85.695473
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,3500 - 4000,Einpersonenhaushalte,,42.030798
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,4000 - 5000,Einpersonenhaushalte,,40.130817
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,5000 und mehr,Einpersonenhaushalte,,29.958482
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,Insgesamt,Einpersonenhaushalte,gesperrt,0
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,unter 500,Einpersonenhaushalte,gesperrt,0
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,500 - 1000,Einpersonenhaushalte,gesperrt,0
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1000 - 1500,Einpersonenhaushalte,gesperrt,0
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1500 - 2000,Einpersonenhaushalte,gesperrt,0
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2000 - 2500,Einpersonenhaushalte,gesperrt,0
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2500 - 3000,Einpersonenhaushalte,gesperrt,0
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3000 - 3500,Einpersonenhaushalte,gesperrt,0
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3500 - 4000,Einpersonenhaushalte,gesperrt,0
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,4000 - 5000,Einpersonenhaushalte,gesperrt,0
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,5000 und mehr,Einpersonenhaushalte,gesperrt,0
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,Insgesamt,Einpersonenhaushalte,,333.601847
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,unter 500,Einpersonenhaushalte,,17.602798
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,500 - 1000,Einpersonenhaushalte,,69.832792
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1000 - 1500,Einpersonenhaushalte,,75.300569
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1500 - 2000,Einpersonenhaushalte,,67.22727
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2000 - 2500,Einpersonenhaushalte,,49.948645
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2500 - 3000,Einpersonenhaushalte,,21.334
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3000 - 3500,Einpersonenhaushalte,,12.788152
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3500 - 4000,Einpersonenhaushalte,statistisch unsicher,6.615624
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,4000 - 5000,Einpersonenhaushalte,statistisch unsicher,6.72274
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,5000 und mehr,Einpersonenhaushalte,statistisch unsicher,6.229257
+2023,Insgesamt,Insgesamt,Einpersonenhaushalte,,1590.324512
+2023,Insgesamt,unter 500,Einpersonenhaushalte,,50.57768
+2023,Insgesamt,500 - 1000,Einpersonenhaushalte,,236.534971
+2023,Insgesamt,1000 - 1500,Einpersonenhaushalte,,345.90057
+2023,Insgesamt,1500 - 2000,Einpersonenhaushalte,,346.527762
+2023,Insgesamt,2000 - 2500,Einpersonenhaushalte,,289.053939
+2023,Insgesamt,2500 - 3000,Einpersonenhaushalte,,137.416927
+2023,Insgesamt,3000 - 3500,Einpersonenhaushalte,,81.932651
+2023,Insgesamt,3500 - 4000,Einpersonenhaushalte,,38.93169
+2023,Insgesamt,4000 - 5000,Einpersonenhaushalte,,37.780889
+2023,Insgesamt,5000 und mehr,Einpersonenhaushalte,,25.459747
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,Insgesamt,Einpersonenhaushalte,,1296.972786
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,unter 500,Einpersonenhaushalte,,32.521927
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,500 - 1000,Einpersonenhaushalte,,168.316403
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,1000 - 1500,Einpersonenhaushalte,,282.045436
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,1500 - 2000,Einpersonenhaushalte,,282.016353
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,2000 - 2500,Einpersonenhaushalte,,248.961661
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,2500 - 3000,Einpersonenhaushalte,,120.661047
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,3000 - 3500,Einpersonenhaushalte,,72.263721
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,3500 - 4000,Einpersonenhaushalte,,34.688869
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,4000 - 5000,Einpersonenhaushalte,,33.383616
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,5000 und mehr,Einpersonenhaushalte,,22.026911
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,Insgesamt,Einpersonenhaushalte,gesperrt,0
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,unter 500,Einpersonenhaushalte,gesperrt,0
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,500 - 1000,Einpersonenhaushalte,gesperrt,0
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1000 - 1500,Einpersonenhaushalte,gesperrt,0
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1500 - 2000,Einpersonenhaushalte,gesperrt,0
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2000 - 2500,Einpersonenhaushalte,gesperrt,0
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2500 - 3000,Einpersonenhaushalte,gesperrt,0
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3000 - 3500,Einpersonenhaushalte,gesperrt,0
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3500 - 4000,Einpersonenhaushalte,gesperrt,0
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,4000 - 5000,Einpersonenhaushalte,gesperrt,0
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,5000 und mehr,Einpersonenhaushalte,gesperrt,0
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,Insgesamt,Einpersonenhaushalte,,293.351726
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,unter 500,Einpersonenhaushalte,,18.055753
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,500 - 1000,Einpersonenhaushalte,,68.218568
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1000 - 1500,Einpersonenhaushalte,,63.855134
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1500 - 2000,Einpersonenhaushalte,,64.511409
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2000 - 2500,Einpersonenhaushalte,,40.092278
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2500 - 3000,Einpersonenhaushalte,,16.75588
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3000 - 3500,Einpersonenhaushalte,statistisch unsicher,9.66893
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3500 - 4000,Einpersonenhaushalte,gesperrt,0
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,4000 - 5000,Einpersonenhaushalte,gesperrt,0
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,5000 und mehr,Einpersonenhaushalte,gesperrt,0
+2022,Insgesamt,Insgesamt,Einpersonenhaushalte,,1576.112708
+2022,Insgesamt,unter 500,Einpersonenhaushalte,,63.658432
+2022,Insgesamt,500 - 1000,Einpersonenhaushalte,,268.11024
+2022,Insgesamt,1000 - 1500,Einpersonenhaushalte,,356.329488
+2022,Insgesamt,1500 - 2000,Einpersonenhaushalte,,340.720917
+2022,Insgesamt,2000 - 2500,Einpersonenhaushalte,,264.283313
+2022,Insgesamt,2500 - 3000,Einpersonenhaushalte,,124.447602
+2022,Insgesamt,3000 - 3500,Einpersonenhaushalte,,67.526001
+2022,Insgesamt,3500 - 4000,Einpersonenhaushalte,,33.067921
+2022,Insgesamt,4000 - 5000,Einpersonenhaushalte,,29.189837
+2022,Insgesamt,5000 und mehr,Einpersonenhaushalte,,28.778957
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,Insgesamt,Einpersonenhaushalte,,1300.063092
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,unter 500,Einpersonenhaushalte,,46.878831
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,500 - 1000,Einpersonenhaushalte,,198.141655
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,1000 - 1500,Einpersonenhaushalte,,293.364514
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,1500 - 2000,Einpersonenhaushalte,,284.200303
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,2000 - 2500,Einpersonenhaushalte,,227.564816
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,2500 - 3000,Einpersonenhaushalte,,111.466148
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,3000 - 3500,Einpersonenhaushalte,,60.365163
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,3500 - 4000,Einpersonenhaushalte,,30.0932
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,4000 - 5000,Einpersonenhaushalte,,25.24581
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,5000 und mehr,Einpersonenhaushalte,,22.742652
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,Insgesamt,Einpersonenhaushalte,gesperrt,0
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,unter 500,Einpersonenhaushalte,gesperrt,0
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,500 - 1000,Einpersonenhaushalte,gesperrt,0
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1000 - 1500,Einpersonenhaushalte,gesperrt,0
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1500 - 2000,Einpersonenhaushalte,gesperrt,0
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2000 - 2500,Einpersonenhaushalte,gesperrt,0
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2500 - 3000,Einpersonenhaushalte,gesperrt,0
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3000 - 3500,Einpersonenhaushalte,gesperrt,0
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3500 - 4000,Einpersonenhaushalte,gesperrt,0
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,4000 - 5000,Einpersonenhaushalte,gesperrt,0
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,5000 und mehr,Einpersonenhaushalte,gesperrt,0
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,Insgesamt,Einpersonenhaushalte,,276.049616
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,unter 500,Einpersonenhaushalte,,16.779601
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,500 - 1000,Einpersonenhaushalte,,69.968585
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1000 - 1500,Einpersonenhaushalte,,62.964974
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1500 - 2000,Einpersonenhaushalte,,56.520614
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2000 - 2500,Einpersonenhaushalte,,36.718497
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2500 - 3000,Einpersonenhaushalte,,12.981454
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3000 - 3500,Einpersonenhaushalte,statistisch unsicher,7.160838
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3500 - 4000,Einpersonenhaushalte,gesperrt,0
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,4000 - 5000,Einpersonenhaushalte,gesperrt,0
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,5000 und mehr,Einpersonenhaushalte,statistisch unsicher,6.036305
+2021,Insgesamt,Insgesamt,Einpersonenhaushalte,,1582.679564
+2021,Insgesamt,unter 500,Einpersonenhaushalte,,75.981707
+2021,Insgesamt,500 - 1000,Einpersonenhaushalte,,299.007031
+2021,Insgesamt,1000 - 1500,Einpersonenhaushalte,,364.63311
+2021,Insgesamt,1500 - 2000,Einpersonenhaushalte,,333.665776
+2021,Insgesamt,2000 - 2500,Einpersonenhaushalte,,246.601531
+2021,Insgesamt,2500 - 3000,Einpersonenhaushalte,,108.410111
+2021,Insgesamt,3000 - 3500,Einpersonenhaushalte,,68.271823
+2021,Insgesamt,3500 - 4000,Einpersonenhaushalte,,33.693831
+2021,Insgesamt,4000 - 5000,Einpersonenhaushalte,,27.333314
+2021,Insgesamt,5000 und mehr,Einpersonenhaushalte,,24.132264
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,Insgesamt,Einpersonenhaushalte,,1316.637787
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,unter 500,Einpersonenhaushalte,,54.505886
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,500 - 1000,Einpersonenhaushalte,,220.796715
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,1000 - 1500,Einpersonenhaushalte,,305.017231
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,1500 - 2000,Einpersonenhaushalte,,282.079895
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,2000 - 2500,Einpersonenhaushalte,,219.563014
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,2500 - 3000,Einpersonenhaushalte,,96.859705
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,3000 - 3500,Einpersonenhaushalte,,61.10371
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,3500 - 4000,Einpersonenhaushalte,,30.165883
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,4000 - 5000,Einpersonenhaushalte,,23.841447
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,5000 und mehr,Einpersonenhaushalte,,21.755235
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,Insgesamt,Einpersonenhaushalte,gesperrt,0
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,unter 500,Einpersonenhaushalte,gesperrt,0
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,500 - 1000,Einpersonenhaushalte,gesperrt,0
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1000 - 1500,Einpersonenhaushalte,gesperrt,0
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1500 - 2000,Einpersonenhaushalte,gesperrt,0
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2000 - 2500,Einpersonenhaushalte,gesperrt,0
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2500 - 3000,Einpersonenhaushalte,gesperrt,0
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3000 - 3500,Einpersonenhaushalte,gesperrt,0
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3500 - 4000,Einpersonenhaushalte,gesperrt,0
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,4000 - 5000,Einpersonenhaushalte,gesperrt,0
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,5000 und mehr,Einpersonenhaushalte,gesperrt,0
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,Insgesamt,Einpersonenhaushalte,,266.041777
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,unter 500,Einpersonenhaushalte,,21.475821
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,500 - 1000,Einpersonenhaushalte,,78.210316
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1000 - 1500,Einpersonenhaushalte,,59.615879
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1500 - 2000,Einpersonenhaushalte,,51.585881
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2000 - 2500,Einpersonenhaushalte,,27.038517
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2500 - 3000,Einpersonenhaushalte,,11.550406
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3000 - 3500,Einpersonenhaushalte,statistisch unsicher,7.168113
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3500 - 4000,Einpersonenhaushalte,gesperrt,0
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,4000 - 5000,Einpersonenhaushalte,gesperrt,0
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,5000 und mehr,Einpersonenhaushalte,gesperrt,0
+2025,Insgesamt,Insgesamt,2 Personen,,1311.871135
+2025,Insgesamt,unter 500,2 Personen,gesperrt,0
+2025,Insgesamt,500 - 1000,2 Personen,,11.217312
+2025,Insgesamt,1000 - 1500,2 Personen,,43.768228
+2025,Insgesamt,1500 - 2000,2 Personen,,94.82439
+2025,Insgesamt,2000 - 2500,2 Personen,,135.156069
+2025,Insgesamt,2500 - 3000,2 Personen,,157.68091
+2025,Insgesamt,3000 - 3500,2 Personen,,159.419538
+2025,Insgesamt,3500 - 4000,2 Personen,,151.06327
+2025,Insgesamt,4000 - 5000,2 Personen,,234.364882
+2025,Insgesamt,5000 und mehr,2 Personen,,322.237532
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,Insgesamt,2 Personen,,1016.270711
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,unter 500,2 Personen,gesperrt,0
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,500 - 1000,2 Personen,statistisch unsicher,5.460599
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,1000 - 1500,2 Personen,,24.330491
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,1500 - 2000,2 Personen,,58.112369
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,2000 - 2500,2 Personen,,98.927748
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,2500 - 3000,2 Personen,,123.433201
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,3000 - 3500,2 Personen,,124.957214
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,3500 - 4000,2 Personen,,119.902589
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,4000 - 5000,2 Personen,,192.004994
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,5000 und mehr,2 Personen,,267.889939
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,Insgesamt,2 Personen,,130.534299
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,unter 500,2 Personen,gesperrt,0
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,500 - 1000,2 Personen,gesperrt,0
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1000 - 1500,2 Personen,gesperrt,0
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1500 - 2000,2 Personen,statistisch unsicher,8.401109
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2000 - 2500,2 Personen,,11.645899
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2500 - 3000,2 Personen,,12.529467
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3000 - 3500,2 Personen,,15.495681
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3500 - 4000,2 Personen,,14.56079
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,4000 - 5000,2 Personen,,24.100795
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,5000 und mehr,2 Personen,,38.308604
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,Insgesamt,2 Personen,,165.066125
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,unter 500,2 Personen,gesperrt,0
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,500 - 1000,2 Personen,gesperrt,0
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1000 - 1500,2 Personen,,15.230868
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1500 - 2000,2 Personen,,28.310912
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2000 - 2500,2 Personen,,24.582422
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2500 - 3000,2 Personen,,21.718242
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3000 - 3500,2 Personen,,18.966643
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3500 - 4000,2 Personen,,16.599891
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,4000 - 5000,2 Personen,,18.259093
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,5000 und mehr,2 Personen,,16.038989
+2024,Insgesamt,Insgesamt,2 Personen,,1299.59924
+2024,Insgesamt,unter 500,2 Personen,gesperrt,0
+2024,Insgesamt,500 - 1000,2 Personen,,12.680841
+2024,Insgesamt,1000 - 1500,2 Personen,,48.687918
+2024,Insgesamt,1500 - 2000,2 Personen,,107.808168
+2024,Insgesamt,2000 - 2500,2 Personen,,147.410472
+2024,Insgesamt,2500 - 3000,2 Personen,,169.258477
+2024,Insgesamt,3000 - 3500,2 Personen,,158.953097
+2024,Insgesamt,3500 - 4000,2 Personen,,148.659601
+2024,Insgesamt,4000 - 5000,2 Personen,,220.2781
+2024,Insgesamt,5000 und mehr,2 Personen,,283.681518
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,Insgesamt,2 Personen,,993.289028
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,unter 500,2 Personen,gesperrt,0
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,500 - 1000,2 Personen,statistisch unsicher,5.57955
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,1000 - 1500,2 Personen,,25.463707
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,1500 - 2000,2 Personen,,69.702911
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,2000 - 2500,2 Personen,,109.173367
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,2500 - 3000,2 Personen,,128.512613
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,3000 - 3500,2 Personen,,123.633032
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,3500 - 4000,2 Personen,,118.141178
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,4000 - 5000,2 Personen,,177.955028
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,5000 und mehr,2 Personen,,234.641652
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,Insgesamt,2 Personen,,133.060961
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,unter 500,2 Personen,gesperrt,0
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,500 - 1000,2 Personen,gesperrt,0
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1000 - 1500,2 Personen,gesperrt,0
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1500 - 2000,2 Personen,statistisch unsicher,9.1555
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2000 - 2500,2 Personen,,11.597567
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2500 - 3000,2 Personen,,15.301205
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3000 - 3500,2 Personen,,17.811595
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3500 - 4000,2 Personen,,14.998416
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,4000 - 5000,2 Personen,,24.715608
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,5000 und mehr,2 Personen,,34.565513
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,Insgesamt,2 Personen,,173.249251
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,unter 500,2 Personen,gesperrt,0
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,500 - 1000,2 Personen,statistisch unsicher,6.201931
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1000 - 1500,2 Personen,,19.671193
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1500 - 2000,2 Personen,,28.949757
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2000 - 2500,2 Personen,,26.639538
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2500 - 3000,2 Personen,,25.444659
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3000 - 3500,2 Personen,,17.50847
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3500 - 4000,2 Personen,,15.520007
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,4000 - 5000,2 Personen,,17.607464
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,5000 und mehr,2 Personen,,14.474353
+2023,Insgesamt,Insgesamt,2 Personen,,1317.687169
+2023,Insgesamt,unter 500,2 Personen,gesperrt,0
+2023,Insgesamt,500 - 1000,2 Personen,,13.473581
+2023,Insgesamt,1000 - 1500,2 Personen,,54.32975
+2023,Insgesamt,1500 - 2000,2 Personen,,118.90662
+2023,Insgesamt,2000 - 2500,2 Personen,,158.859391
+2023,Insgesamt,2500 - 3000,2 Personen,,177.876211
+2023,Insgesamt,3000 - 3500,2 Personen,,171.206734
+2023,Insgesamt,3500 - 4000,2 Personen,,151.118979
+2023,Insgesamt,4000 - 5000,2 Personen,,219.222413
+2023,Insgesamt,5000 und mehr,2 Personen,,250.084424
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,Insgesamt,2 Personen,,1032.009007
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,unter 500,2 Personen,gesperrt,0
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,500 - 1000,2 Personen,statistisch unsicher,5.925226
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,1000 - 1500,2 Personen,,31.152947
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,1500 - 2000,2 Personen,,80.645952
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,2000 - 2500,2 Personen,,123.93828
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,2500 - 3000,2 Personen,,138.735981
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,3000 - 3500,2 Personen,,136.468172
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,3500 - 4000,2 Personen,,122.078693
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,4000 - 5000,2 Personen,,180.733645
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,5000 und mehr,2 Personen,,210.391986
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,Insgesamt,2 Personen,,123.697897
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,unter 500,2 Personen,gesperrt,0
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,500 - 1000,2 Personen,gesperrt,0
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1000 - 1500,2 Personen,gesperrt,0
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1500 - 2000,2 Personen,statistisch unsicher,8.264801
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2000 - 2500,2 Personen,,13.593764
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2500 - 3000,2 Personen,,16.814516
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3000 - 3500,2 Personen,,14.769476
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3500 - 4000,2 Personen,,14.858846
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,4000 - 5000,2 Personen,,24.097242
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,5000 und mehr,2 Personen,,26.887526
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,Insgesamt,2 Personen,,161.980265
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,unter 500,2 Personen,gesperrt,0
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,500 - 1000,2 Personen,statistisch unsicher,6.611628
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1000 - 1500,2 Personen,,19.701804
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1500 - 2000,2 Personen,,29.995867
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2000 - 2500,2 Personen,,21.327347
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2500 - 3000,2 Personen,,22.325714
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3000 - 3500,2 Personen,,19.969086
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3500 - 4000,2 Personen,,14.18144
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,4000 - 5000,2 Personen,,14.391526
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,5000 und mehr,2 Personen,,12.804912
+2022,Insgesamt,Insgesamt,2 Personen,,1325.404893
+2022,Insgesamt,unter 500,2 Personen,gesperrt,0
+2022,Insgesamt,500 - 1000,2 Personen,,15.561045
+2022,Insgesamt,1000 - 1500,2 Personen,,70.217037
+2022,Insgesamt,1500 - 2000,2 Personen,,138.010893
+2022,Insgesamt,2000 - 2500,2 Personen,,168.81443
+2022,Insgesamt,2500 - 3000,2 Personen,,183.778476
+2022,Insgesamt,3000 - 3500,2 Personen,,168.402932
+2022,Insgesamt,3500 - 4000,2 Personen,,151.968366
+2022,Insgesamt,4000 - 5000,2 Personen,,203.987569
+2022,Insgesamt,5000 und mehr,2 Personen,,221.880513
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,Insgesamt,2 Personen,,1050.290609
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,unter 500,2 Personen,gesperrt,0
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,500 - 1000,2 Personen,statistisch unsicher,8.485328
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,1000 - 1500,2 Personen,,41.823805
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,1500 - 2000,2 Personen,,96.069377
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,2000 - 2500,2 Personen,,134.085177
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,2500 - 3000,2 Personen,,145.950408
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,3000 - 3500,2 Personen,,137.10207
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,3500 - 4000,2 Personen,,123.72925
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,4000 - 5000,2 Personen,,172.145016
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,5000 und mehr,2 Personen,,188.857982
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,Insgesamt,2 Personen,,124.690399
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,unter 500,2 Personen,gesperrt,0
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,500 - 1000,2 Personen,gesperrt,0
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1000 - 1500,2 Personen,statistisch unsicher,6.127256
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1500 - 2000,2 Personen,,13.693786
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2000 - 2500,2 Personen,,15.750273
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2500 - 3000,2 Personen,,14.915925
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3000 - 3500,2 Personen,,14.534297
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3500 - 4000,2 Personen,,14.288016
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,4000 - 5000,2 Personen,,19.669606
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,5000 und mehr,2 Personen,,24.468891
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,Insgesamt,2 Personen,,150.423885
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,unter 500,2 Personen,gesperrt,0
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,500 - 1000,2 Personen,statistisch unsicher,6.145431
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1000 - 1500,2 Personen,,22.265976
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1500 - 2000,2 Personen,,28.24773
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2000 - 2500,2 Personen,,18.97898
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2500 - 3000,2 Personen,,22.912143
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3000 - 3500,2 Personen,,16.766565
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3500 - 4000,2 Personen,,13.9511
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,4000 - 5000,2 Personen,,12.172947
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,5000 und mehr,2 Personen,statistisch unsicher,8.55364
+2021,Insgesamt,Insgesamt,2 Personen,,1300.499779
+2021,Insgesamt,unter 500,2 Personen,gesperrt,0
+2021,Insgesamt,500 - 1000,2 Personen,,23.734322
+2021,Insgesamt,1000 - 1500,2 Personen,,77.893921
+2021,Insgesamt,1500 - 2000,2 Personen,,142.750909
+2021,Insgesamt,2000 - 2500,2 Personen,,177.445177
+2021,Insgesamt,2500 - 3000,2 Personen,,181.22748
+2021,Insgesamt,3000 - 3500,2 Personen,,167.217948
+2021,Insgesamt,3500 - 4000,2 Personen,,141.406886
+2021,Insgesamt,4000 - 5000,2 Personen,,183.270447
+2021,Insgesamt,5000 und mehr,2 Personen,,200.633717
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,Insgesamt,2 Personen,,1036.530867
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,unter 500,2 Personen,gesperrt,0
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,500 - 1000,2 Personen,,14.633329
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,1000 - 1500,2 Personen,,50.663528
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,1500 - 2000,2 Personen,,103.048841
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,2000 - 2500,2 Personen,,139.022537
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,2500 - 3000,2 Personen,,143.656334
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,3000 - 3500,2 Personen,,135.649683
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,3500 - 4000,2 Personen,,119.047799
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,4000 - 5000,2 Personen,,155.740125
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,5000 und mehr,2 Personen,,171.530166
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,Insgesamt,2 Personen,,121.618327
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,unter 500,2 Personen,gesperrt,0
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,500 - 1000,2 Personen,gesperrt,0
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1000 - 1500,2 Personen,statistisch unsicher,6.220115
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1500 - 2000,2 Personen,,12.684091
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2000 - 2500,2 Personen,,14.009742
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2500 - 3000,2 Personen,,17.061126
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3000 - 3500,2 Personen,,16.934613
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3500 - 4000,2 Personen,,13.378413
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,4000 - 5000,2 Personen,,17.045442
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,5000 und mehr,2 Personen,,21.892355
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,Insgesamt,2 Personen,,142.350585
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,unter 500,2 Personen,gesperrt,0
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,500 - 1000,2 Personen,statistisch unsicher,7.163349
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1000 - 1500,2 Personen,,21.010278
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1500 - 2000,2 Personen,,27.017977
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2000 - 2500,2 Personen,,24.412898
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2500 - 3000,2 Personen,,20.51002
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3000 - 3500,2 Personen,,14.633652
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3500 - 4000,2 Personen,statistisch unsicher,8.980674
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,4000 - 5000,2 Personen,,10.48488
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,5000 und mehr,2 Personen,statistisch unsicher,7.211196
+2025,Insgesamt,Insgesamt,3 Personen,,440.642144
+2025,Insgesamt,unter 500,3 Personen,gesperrt,0
+2025,Insgesamt,500 - 1000,3 Personen,gesperrt,0
+2025,Insgesamt,1000 - 1500,3 Personen,,10.386453
+2025,Insgesamt,1500 - 2000,3 Personen,,18.265905
+2025,Insgesamt,2000 - 2500,3 Personen,,23.454201
+2025,Insgesamt,2500 - 3000,3 Personen,,27.995879
+2025,Insgesamt,3000 - 3500,3 Personen,,35.644981
+2025,Insgesamt,3500 - 4000,3 Personen,,43.944334
+2025,Insgesamt,4000 - 5000,3 Personen,,92.518652
+2025,Insgesamt,5000 und mehr,3 Personen,,186.946643
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,Insgesamt,3 Personen,,281.358527
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,unter 500,3 Personen,gesperrt,0
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,500 - 1000,3 Personen,gesperrt,0
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,1000 - 1500,3 Personen,gesperrt,0
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,1500 - 2000,3 Personen,statistisch unsicher,6.918759
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,2000 - 2500,3 Personen,,10.271569
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,2500 - 3000,3 Personen,,14.928128
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,3000 - 3500,3 Personen,,18.561956
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,3500 - 4000,3 Personen,,25.623255
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,4000 - 5000,3 Personen,,61.743297
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,5000 und mehr,3 Personen,,139.335174
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,Insgesamt,3 Personen,,58.335707
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,unter 500,3 Personen,gesperrt,0
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,500 - 1000,3 Personen,gesperrt,0
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1000 - 1500,3 Personen,gesperrt,0
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1500 - 2000,3 Personen,gesperrt,0
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2000 - 2500,3 Personen,gesperrt,0
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2500 - 3000,3 Personen,gesperrt,0
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3000 - 3500,3 Personen,statistisch unsicher,5.997928
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3500 - 4000,3 Personen,statistisch unsicher,6.299482
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,4000 - 5000,3 Personen,,12.783237
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,5000 und mehr,3 Personen,,25.454077
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,Insgesamt,3 Personen,,100.94791
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,unter 500,3 Personen,gesperrt,0
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,500 - 1000,3 Personen,gesperrt,0
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1000 - 1500,3 Personen,statistisch unsicher,6.127327
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1500 - 2000,3 Personen,statistisch unsicher,9.684219
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2000 - 2500,3 Personen,,10.824959
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2500 - 3000,3 Personen,,10.201083
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3000 - 3500,3 Personen,,11.085097
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3500 - 4000,3 Personen,,12.021597
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,4000 - 5000,3 Personen,,17.992118
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,5000 und mehr,3 Personen,,22.157392
+2024,Insgesamt,Insgesamt,3 Personen,,446.669787
+2024,Insgesamt,unter 500,3 Personen,gesperrt,0
+2024,Insgesamt,500 - 1000,3 Personen,gesperrt,0
+2024,Insgesamt,1000 - 1500,3 Personen,,11.59184
+2024,Insgesamt,1500 - 2000,3 Personen,,20.405047
+2024,Insgesamt,2000 - 2500,3 Personen,,23.926417
+2024,Insgesamt,2500 - 3000,3 Personen,,30.256389
+2024,Insgesamt,3000 - 3500,3 Personen,,43.659637
+2024,Insgesamt,3500 - 4000,3 Personen,,46.927323
+2024,Insgesamt,4000 - 5000,3 Personen,,93.964466
+2024,Insgesamt,5000 und mehr,3 Personen,,173.886361
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,Insgesamt,3 Personen,,289.705495
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,unter 500,3 Personen,gesperrt,0
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,500 - 1000,3 Personen,gesperrt,0
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,1000 - 1500,3 Personen,gesperrt,0
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,1500 - 2000,3 Personen,statistisch unsicher,7.673343
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,2000 - 2500,3 Personen,,10.778273
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,2500 - 3000,3 Personen,,14.698369
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,3000 - 3500,3 Personen,,26.154825
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,3500 - 4000,3 Personen,,29.349053
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,4000 - 5000,3 Personen,,63.253239
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,5000 und mehr,3 Personen,,133.201697
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,Insgesamt,3 Personen,,59.823802
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,unter 500,3 Personen,gesperrt,0
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,500 - 1000,3 Personen,gesperrt,0
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1000 - 1500,3 Personen,gesperrt,0
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1500 - 2000,3 Personen,gesperrt,0
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2000 - 2500,3 Personen,gesperrt,0
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2500 - 3000,3 Personen,gesperrt,0
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3000 - 3500,3 Personen,statistisch unsicher,6.531383
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3500 - 4000,3 Personen,statistisch unsicher,6.523517
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,4000 - 5000,3 Personen,,15.248143
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,5000 und mehr,3 Personen,,23.01661
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,Insgesamt,3 Personen,,97.14049
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,unter 500,3 Personen,gesperrt,0
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,500 - 1000,3 Personen,gesperrt,0
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1000 - 1500,3 Personen,statistisch unsicher,7.256924
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1500 - 2000,3 Personen,,11.028252
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2000 - 2500,3 Personen,,10.159263
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2500 - 3000,3 Personen,,12.349235
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3000 - 3500,3 Personen,,10.973429
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3500 - 4000,3 Personen,,11.054753
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,4000 - 5000,3 Personen,,15.463084
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,5000 und mehr,3 Personen,,17.668054
+2023,Insgesamt,Insgesamt,3 Personen,,461.103913
+2023,Insgesamt,unter 500,3 Personen,gesperrt,0
+2023,Insgesamt,500 - 1000,3 Personen,gesperrt,0
+2023,Insgesamt,1000 - 1500,3 Personen,,12.838686
+2023,Insgesamt,1500 - 2000,3 Personen,,22.944059
+2023,Insgesamt,2000 - 2500,3 Personen,,29.640834
+2023,Insgesamt,2500 - 3000,3 Personen,,35.094078
+2023,Insgesamt,3000 - 3500,3 Personen,,43.755501
+2023,Insgesamt,3500 - 4000,3 Personen,,50.966118
+2023,Insgesamt,4000 - 5000,3 Personen,,101.65702
+2023,Insgesamt,5000 und mehr,3 Personen,,160.398412
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,Insgesamt,3 Personen,,313.195785
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,unter 500,3 Personen,gesperrt,0
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,500 - 1000,3 Personen,gesperrt,0
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,1000 - 1500,3 Personen,gesperrt,0
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,1500 - 2000,3 Personen,statistisch unsicher,8.013474
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,2000 - 2500,3 Personen,,15.411597
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,2500 - 3000,3 Personen,,20.677807
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,3000 - 3500,3 Personen,,28.809418
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,3500 - 4000,3 Personen,,34.343669
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,4000 - 5000,3 Personen,,75.131669
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,5000 und mehr,3 Personen,,126.083878
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,Insgesamt,3 Personen,,57.723952
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,unter 500,3 Personen,gesperrt,0
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,500 - 1000,3 Personen,gesperrt,0
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1000 - 1500,3 Personen,gesperrt,0
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1500 - 2000,3 Personen,gesperrt,0
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2000 - 2500,3 Personen,gesperrt,0
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2500 - 3000,3 Personen,gesperrt,0
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3000 - 3500,3 Personen,statistisch unsicher,5.849575
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3500 - 4000,3 Personen,statistisch unsicher,7.720834
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,4000 - 5000,3 Personen,,12.767903
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,5000 und mehr,3 Personen,,20.757494
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,Insgesamt,3 Personen,,90.184176
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,unter 500,3 Personen,gesperrt,0
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,500 - 1000,3 Personen,gesperrt,0
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1000 - 1500,3 Personen,statistisch unsicher,8.972039
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1500 - 2000,3 Personen,,12.795875
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2000 - 2500,3 Personen,,10.775874
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2500 - 3000,3 Personen,statistisch unsicher,9.989481
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3000 - 3500,3 Personen,statistisch unsicher,9.096508
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3500 - 4000,3 Personen,statistisch unsicher,8.901615
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,4000 - 5000,3 Personen,,13.757448
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,5000 und mehr,3 Personen,,13.55704
+2022,Insgesamt,Insgesamt,3 Personen,,453.79359
+2022,Insgesamt,unter 500,3 Personen,gesperrt,0
+2022,Insgesamt,500 - 1000,3 Personen,gesperrt,0
+2022,Insgesamt,1000 - 1500,3 Personen,,11.917512
+2022,Insgesamt,1500 - 2000,3 Personen,,24.108176
+2022,Insgesamt,2000 - 2500,3 Personen,,33.124539
+2022,Insgesamt,2500 - 3000,3 Personen,,42.364853
+2022,Insgesamt,3000 - 3500,3 Personen,,49.145503
+2022,Insgesamt,3500 - 4000,3 Personen,,53.662324
+2022,Insgesamt,4000 - 5000,3 Personen,,98.36586
+2022,Insgesamt,5000 und mehr,3 Personen,,138.181911
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,Insgesamt,3 Personen,,313.396098
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,unter 500,3 Personen,gesperrt,0
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,500 - 1000,3 Personen,gesperrt,0
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,1000 - 1500,3 Personen,statistisch unsicher,6.335221
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,1500 - 2000,3 Personen,,10.903922
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,2000 - 2500,3 Personen,,18.567901
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,2500 - 3000,3 Personen,,24.806382
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,3000 - 3500,3 Personen,,32.851919
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,3500 - 4000,3 Personen,,37.799926
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,4000 - 5000,3 Personen,,73.03117
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,5000 und mehr,3 Personen,,108.244532
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,Insgesamt,3 Personen,,54.536002
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,unter 500,3 Personen,gesperrt,0
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,500 - 1000,3 Personen,gesperrt,0
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1000 - 1500,3 Personen,gesperrt,0
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1500 - 2000,3 Personen,gesperrt,0
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2000 - 2500,3 Personen,gesperrt,0
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2500 - 3000,3 Personen,gesperrt,0
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3000 - 3500,3 Personen,statistisch unsicher,6.435593
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3500 - 4000,3 Personen,statistisch unsicher,7.40699
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,4000 - 5000,3 Personen,,10.411949
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,5000 und mehr,3 Personen,,18.256695
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,Insgesamt,3 Personen,,85.86149
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,unter 500,3 Personen,gesperrt,0
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,500 - 1000,3 Personen,gesperrt,0
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1000 - 1500,3 Personen,gesperrt,0
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1500 - 2000,3 Personen,,10.714769
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2000 - 2500,3 Personen,,11.039764
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2500 - 3000,3 Personen,,12.756757
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3000 - 3500,3 Personen,statistisch unsicher,9.857991
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3500 - 4000,3 Personen,statistisch unsicher,8.455408
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,4000 - 5000,3 Personen,,14.922741
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,5000 und mehr,3 Personen,,11.680684
+2021,Insgesamt,Insgesamt,3 Personen,,447.888781
+2021,Insgesamt,unter 500,3 Personen,gesperrt,0
+2021,Insgesamt,500 - 1000,3 Personen,gesperrt,0
+2021,Insgesamt,1000 - 1500,3 Personen,,14.585582
+2021,Insgesamt,1500 - 2000,3 Personen,,27.273398
+2021,Insgesamt,2000 - 2500,3 Personen,,33.739027
+2021,Insgesamt,2500 - 3000,3 Personen,,47.803181
+2021,Insgesamt,3000 - 3500,3 Personen,,51.438596
+2021,Insgesamt,3500 - 4000,3 Personen,,56.745803
+2021,Insgesamt,4000 - 5000,3 Personen,,90.99953
+2021,Insgesamt,5000 und mehr,3 Personen,,120.279744
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,Insgesamt,3 Personen,,312.105093
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,unter 500,3 Personen,gesperrt,0
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,500 - 1000,3 Personen,gesperrt,0
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,1000 - 1500,3 Personen,statistisch unsicher,6.415779
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,1500 - 2000,3 Personen,,12.222569
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,2000 - 2500,3 Personen,,18.813056
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,2500 - 3000,3 Personen,,31.890772
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,3000 - 3500,3 Personen,,34.809596
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,3500 - 4000,3 Personen,,39.960395
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,4000 - 5000,3 Personen,,69.263094
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,5000 und mehr,3 Personen,,96.074914
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,Insgesamt,3 Personen,,52.994663
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,unter 500,3 Personen,gesperrt,0
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,500 - 1000,3 Personen,gesperrt,0
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1000 - 1500,3 Personen,gesperrt,0
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1500 - 2000,3 Personen,gesperrt,0
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2000 - 2500,3 Personen,gesperrt,0
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2500 - 3000,3 Personen,gesperrt,0
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3000 - 3500,3 Personen,statistisch unsicher,6.425663
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3500 - 4000,3 Personen,statistisch unsicher,7.392081
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,4000 - 5000,3 Personen,statistisch unsicher,9.491468
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,5000 und mehr,3 Personen,,15.974598
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,Insgesamt,3 Personen,,82.789025
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,unter 500,3 Personen,gesperrt,0
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,500 - 1000,3 Personen,gesperrt,0
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1000 - 1500,3 Personen,statistisch unsicher,6.427626
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1500 - 2000,3 Personen,,12.369001
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2000 - 2500,3 Personen,,11.068363
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2500 - 3000,3 Personen,,10.978554
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3000 - 3500,3 Personen,,10.203337
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3500 - 4000,3 Personen,statistisch unsicher,9.393327
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,4000 - 5000,3 Personen,,12.244968
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,5000 und mehr,3 Personen,statistisch unsicher,8.230232
+2025,Insgesamt,Insgesamt,4 Personen,,363.746469
+2025,Insgesamt,unter 500,4 Personen,gesperrt,0
+2025,Insgesamt,500 - 1000,4 Personen,gesperrt,0
+2025,Insgesamt,1000 - 1500,4 Personen,gesperrt,0
+2025,Insgesamt,1500 - 2000,4 Personen,statistisch unsicher,5.383847
+2025,Insgesamt,2000 - 2500,4 Personen,,13.281421
+2025,Insgesamt,2500 - 3000,4 Personen,,16.834998
+2025,Insgesamt,3000 - 3500,4 Personen,,25.544066
+2025,Insgesamt,3500 - 4000,4 Personen,,33.541493
+2025,Insgesamt,4000 - 5000,4 Personen,,68.247016
+2025,Insgesamt,5000 und mehr,4 Personen,,198.448186
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,Insgesamt,4 Personen,,221.810629
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,unter 500,4 Personen,gesperrt,0
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,500 - 1000,4 Personen,gesperrt,0
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,1000 - 1500,4 Personen,gesperrt,0
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,1500 - 2000,4 Personen,gesperrt,0
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,2000 - 2500,4 Personen,gesperrt,0
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,2500 - 3000,4 Personen,statistisch unsicher,6.862659
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,3000 - 3500,4 Personen,,10.102954
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,3500 - 4000,4 Personen,,18.600604
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,4000 - 5000,4 Personen,,41.368666
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,5000 und mehr,4 Personen,,139.301573
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,Insgesamt,4 Personen,,51.312813
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,unter 500,4 Personen,gesperrt,0
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,500 - 1000,4 Personen,gesperrt,0
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1000 - 1500,4 Personen,gesperrt,0
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1500 - 2000,4 Personen,gesperrt,0
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2000 - 2500,4 Personen,gesperrt,0
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2500 - 3000,4 Personen,gesperrt,0
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3000 - 3500,4 Personen,gesperrt,0
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3500 - 4000,4 Personen,statistisch unsicher,5.376184
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,4000 - 5000,4 Personen,statistisch unsicher,8.097965
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,5000 und mehr,4 Personen,,30.574736
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,Insgesamt,4 Personen,,90.623027
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,unter 500,4 Personen,gesperrt,0
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,500 - 1000,4 Personen,gesperrt,0
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1000 - 1500,4 Personen,gesperrt,0
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1500 - 2000,4 Personen,gesperrt,0
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2000 - 2500,4 Personen,statistisch unsicher,8.907963
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2500 - 3000,4 Personen,statistisch unsicher,8.571788
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3000 - 3500,4 Personen,,11.04201
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3500 - 4000,4 Personen,statistisch unsicher,9.564705
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,4000 - 5000,4 Personen,,18.780385
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,5000 und mehr,4 Personen,,28.571877
+2024,Insgesamt,Insgesamt,4 Personen,,367.271019
+2024,Insgesamt,unter 500,4 Personen,gesperrt,0
+2024,Insgesamt,500 - 1000,4 Personen,gesperrt,0
+2024,Insgesamt,1000 - 1500,4 Personen,gesperrt,0
+2024,Insgesamt,1500 - 2000,4 Personen,statistisch unsicher,7.872296
+2024,Insgesamt,2000 - 2500,4 Personen,,15.872488
+2024,Insgesamt,2500 - 3000,4 Personen,,20.170552
+2024,Insgesamt,3000 - 3500,4 Personen,,27.673183
+2024,Insgesamt,3500 - 4000,4 Personen,,39.137237
+2024,Insgesamt,4000 - 5000,4 Personen,,71.90463
+2024,Insgesamt,5000 und mehr,4 Personen,,181.317469
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,Insgesamt,4 Personen,,221.824856
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,unter 500,4 Personen,gesperrt,0
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,500 - 1000,4 Personen,gesperrt,0
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,1000 - 1500,4 Personen,gesperrt,0
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,1500 - 2000,4 Personen,gesperrt,0
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,2000 - 2500,4 Personen,gesperrt,0
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,2500 - 3000,4 Personen,statistisch unsicher,6.454432
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,3000 - 3500,4 Personen,,14.429157
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,3500 - 4000,4 Personen,,22.053475
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,4000 - 5000,4 Personen,,44.973157
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,5000 und mehr,4 Personen,,126.984002
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,Insgesamt,4 Personen,,55.917385
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,unter 500,4 Personen,gesperrt,0
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,500 - 1000,4 Personen,gesperrt,0
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1000 - 1500,4 Personen,gesperrt,0
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1500 - 2000,4 Personen,gesperrt,0
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2000 - 2500,4 Personen,gesperrt,0
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2500 - 3000,4 Personen,gesperrt,0
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3000 - 3500,4 Personen,gesperrt,0
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3500 - 4000,4 Personen,statistisch unsicher,6.480547
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,4000 - 5000,4 Personen,,10.221854
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,5000 und mehr,4 Personen,,30.685905
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,Insgesamt,4 Personen,,89.528778
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,unter 500,4 Personen,gesperrt,0
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,500 - 1000,4 Personen,gesperrt,0
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1000 - 1500,4 Personen,gesperrt,0
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1500 - 2000,4 Personen,statistisch unsicher,5.60011
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2000 - 2500,4 Personen,,10.527675
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2500 - 3000,4 Personen,,11.263823
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3000 - 3500,4 Personen,statistisch unsicher,9.39559
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3500 - 4000,4 Personen,,10.603215
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,4000 - 5000,4 Personen,,16.709619
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,5000 und mehr,4 Personen,,23.647562
+2023,Insgesamt,Insgesamt,4 Personen,,362.217222
+2023,Insgesamt,unter 500,4 Personen,gesperrt,0
+2023,Insgesamt,500 - 1000,4 Personen,gesperrt,0
+2023,Insgesamt,1000 - 1500,4 Personen,gesperrt,0
+2023,Insgesamt,1500 - 2000,4 Personen,statistisch unsicher,9.753042
+2023,Insgesamt,2000 - 2500,4 Personen,,16.338866
+2023,Insgesamt,2500 - 3000,4 Personen,,24.819905
+2023,Insgesamt,3000 - 3500,4 Personen,,31.274879
+2023,Insgesamt,3500 - 4000,4 Personen,,39.039796
+2023,Insgesamt,4000 - 5000,4 Personen,,75.667107
+2023,Insgesamt,5000 und mehr,4 Personen,,161.244031
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,Insgesamt,4 Personen,,226.578094
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,unter 500,4 Personen,gesperrt,0
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,500 - 1000,4 Personen,gesperrt,0
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,1000 - 1500,4 Personen,gesperrt,0
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,1500 - 2000,4 Personen,gesperrt,0
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,2000 - 2500,4 Personen,statistisch unsicher,6.010903
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,2500 - 3000,4 Personen,,11.382045
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,3000 - 3500,4 Personen,,17.739096
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,3500 - 4000,4 Personen,,22.769527
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,4000 - 5000,4 Personen,,47.568566
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,5000 und mehr,4 Personen,,117.276062
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,Insgesamt,4 Personen,,50.24582
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,unter 500,4 Personen,gesperrt,0
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,500 - 1000,4 Personen,gesperrt,0
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1000 - 1500,4 Personen,gesperrt,0
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1500 - 2000,4 Personen,gesperrt,0
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2000 - 2500,4 Personen,gesperrt,0
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2500 - 3000,4 Personen,gesperrt,0
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3000 - 3500,4 Personen,gesperrt,0
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3500 - 4000,4 Personen,statistisch unsicher,5.286035
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,4000 - 5000,4 Personen,,11.225936
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,5000 und mehr,4 Personen,,24.413691
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,Insgesamt,4 Personen,,85.393308
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,unter 500,4 Personen,gesperrt,0
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,500 - 1000,4 Personen,gesperrt,0
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1000 - 1500,4 Personen,gesperrt,0
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1500 - 2000,4 Personen,statistisch unsicher,6.30296
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2000 - 2500,4 Personen,statistisch unsicher,8.772824
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2500 - 3000,4 Personen,,10.277417
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3000 - 3500,4 Personen,statistisch unsicher,9.956351
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3500 - 4000,4 Personen,,10.984234
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,4000 - 5000,4 Personen,,16.872605
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,5000 und mehr,4 Personen,,19.554278
+2022,Insgesamt,Insgesamt,4 Personen,,354.053892
+2022,Insgesamt,unter 500,4 Personen,gesperrt,0
+2022,Insgesamt,500 - 1000,4 Personen,gesperrt,0
+2022,Insgesamt,1000 - 1500,4 Personen,gesperrt,0
+2022,Insgesamt,1500 - 2000,4 Personen,,11.575057
+2022,Insgesamt,2000 - 2500,4 Personen,,20.086261
+2022,Insgesamt,2500 - 3000,4 Personen,,28.028203
+2022,Insgesamt,3000 - 3500,4 Personen,,35.456293
+2022,Insgesamt,3500 - 4000,4 Personen,,42.002622
+2022,Insgesamt,4000 - 5000,4 Personen,,70.996384
+2022,Insgesamt,5000 und mehr,4 Personen,,140.170387
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,Insgesamt,4 Personen,,224.246702
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,unter 500,4 Personen,gesperrt,0
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,500 - 1000,4 Personen,gesperrt,0
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,1000 - 1500,4 Personen,gesperrt,0
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,1500 - 2000,4 Personen,gesperrt,0
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,2000 - 2500,4 Personen,statistisch unsicher,8.921916
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,2500 - 3000,4 Personen,,14.407104
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,3000 - 3500,4 Personen,,21.085571
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,3500 - 4000,4 Personen,,25.7628
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,4000 - 5000,4 Personen,,46.356982
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,5000 und mehr,4 Personen,,102.995693
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,Insgesamt,4 Personen,,46.064775
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,unter 500,4 Personen,gesperrt,0
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,500 - 1000,4 Personen,gesperrt,0
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1000 - 1500,4 Personen,gesperrt,0
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1500 - 2000,4 Personen,gesperrt,0
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2000 - 2500,4 Personen,gesperrt,0
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2500 - 3000,4 Personen,gesperrt,0
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3000 - 3500,4 Personen,gesperrt,0
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3500 - 4000,4 Personen,statistisch unsicher,5.440022
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,4000 - 5000,4 Personen,,10.127492
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,5000 und mehr,4 Personen,,21.319682
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,Insgesamt,4 Personen,,83.742415
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,unter 500,4 Personen,gesperrt,0
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,500 - 1000,4 Personen,gesperrt,0
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1000 - 1500,4 Personen,gesperrt,0
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1500 - 2000,4 Personen,statistisch unsicher,7.640924
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2000 - 2500,4 Personen,statistisch unsicher,9.904383
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2500 - 3000,4 Personen,,11.01627
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3000 - 3500,4 Personen,,10.914454
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3500 - 4000,4 Personen,,10.7998
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,4000 - 5000,4 Personen,,14.51191
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,5000 und mehr,4 Personen,,15.855012
+2021,Insgesamt,Insgesamt,4 Personen,,359.088009
+2021,Insgesamt,unter 500,4 Personen,gesperrt,0
+2021,Insgesamt,500 - 1000,4 Personen,gesperrt,0
+2021,Insgesamt,1000 - 1500,4 Personen,statistisch unsicher,6.738309
+2021,Insgesamt,1500 - 2000,4 Personen,,11.921942
+2021,Insgesamt,2000 - 2500,4 Personen,,20.037317
+2021,Insgesamt,2500 - 3000,4 Personen,,31.631324
+2021,Insgesamt,3000 - 3500,4 Personen,,39.725432
+2021,Insgesamt,3500 - 4000,4 Personen,,46.337083
+2021,Insgesamt,4000 - 5000,4 Personen,,70.085284
+2021,Insgesamt,5000 und mehr,4 Personen,,131.227988
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,Insgesamt,4 Personen,,237.044828
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,unter 500,4 Personen,gesperrt,0
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,500 - 1000,4 Personen,gesperrt,0
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,1000 - 1500,4 Personen,gesperrt,0
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,1500 - 2000,4 Personen,statistisch unsicher,5.09606
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,2000 - 2500,4 Personen,statistisch unsicher,9.185145
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,2500 - 3000,4 Personen,,16.202541
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,3000 - 3500,4 Personen,,24.667003
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,3500 - 4000,4 Personen,,29.446178
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,4000 - 5000,4 Personen,,50.62314
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,5000 und mehr,4 Personen,,98.916816
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,Insgesamt,4 Personen,,44.824922
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,unter 500,4 Personen,gesperrt,0
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,500 - 1000,4 Personen,gesperrt,0
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1000 - 1500,4 Personen,gesperrt,0
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1500 - 2000,4 Personen,gesperrt,0
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2000 - 2500,4 Personen,gesperrt,0
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2500 - 3000,4 Personen,gesperrt,0
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3000 - 3500,4 Personen,gesperrt,0
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3500 - 4000,4 Personen,statistisch unsicher,6.101011
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,4000 - 5000,4 Personen,statistisch unsicher,7.795755
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,5000 und mehr,4 Personen,,19.305614
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,Insgesamt,4 Personen,,77.218259
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,unter 500,4 Personen,gesperrt,0
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,500 - 1000,4 Personen,gesperrt,0
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1000 - 1500,4 Personen,gesperrt,0
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1500 - 2000,4 Personen,statistisch unsicher,5.200217
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2000 - 2500,4 Personen,statistisch unsicher,8.840086
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2500 - 3000,4 Personen,,11.757213
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3000 - 3500,4 Personen,,11.526811
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3500 - 4000,4 Personen,,10.789894
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,4000 - 5000,4 Personen,,11.666389
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,5000 und mehr,4 Personen,,13.005558
+2025,Insgesamt,Insgesamt,5 und mehr mehr Personen,,155.010734
+2025,Insgesamt,unter 500,5 und mehr mehr Personen,gesperrt,0
+2025,Insgesamt,500 - 1000,5 und mehr mehr Personen,gesperrt,0
+2025,Insgesamt,1000 - 1500,5 und mehr mehr Personen,gesperrt,0
+2025,Insgesamt,1500 - 2000,5 und mehr mehr Personen,gesperrt,0
+2025,Insgesamt,2000 - 2500,5 und mehr mehr Personen,statistisch unsicher,8.983374
+2025,Insgesamt,2500 - 3000,5 und mehr mehr Personen,,12.049104
+2025,Insgesamt,3000 - 3500,5 und mehr mehr Personen,,13.734558
+2025,Insgesamt,3500 - 4000,5 und mehr mehr Personen,,13.596634
+2025,Insgesamt,4000 - 5000,5 und mehr mehr Personen,,27.554003
+2025,Insgesamt,5000 und mehr,5 und mehr mehr Personen,,74.238686
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,Insgesamt,5 und mehr mehr Personen,,65.171644
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,unter 500,5 und mehr mehr Personen,gesperrt,0
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,500 - 1000,5 und mehr mehr Personen,gesperrt,0
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,1000 - 1500,5 und mehr mehr Personen,gesperrt,0
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,1500 - 2000,5 und mehr mehr Personen,gesperrt,0
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,2000 - 2500,5 und mehr mehr Personen,gesperrt,0
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,2500 - 3000,5 und mehr mehr Personen,gesperrt,0
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,3000 - 3500,5 und mehr mehr Personen,gesperrt,0
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,3500 - 4000,5 und mehr mehr Personen,gesperrt,0
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,4000 - 5000,5 und mehr mehr Personen,,10.587416
+2025,Kein Haushaltsmitglied hat einen Migrationshintergrund,5000 und mehr,5 und mehr mehr Personen,,43.772543
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,Insgesamt,5 und mehr mehr Personen,,22.588435
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,unter 500,5 und mehr mehr Personen,gesperrt,0
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,500 - 1000,5 und mehr mehr Personen,gesperrt,0
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1000 - 1500,5 und mehr mehr Personen,gesperrt,0
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1500 - 2000,5 und mehr mehr Personen,gesperrt,0
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2000 - 2500,5 und mehr mehr Personen,gesperrt,0
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2500 - 3000,5 und mehr mehr Personen,gesperrt,0
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3000 - 3500,5 und mehr mehr Personen,gesperrt,0
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3500 - 4000,5 und mehr mehr Personen,gesperrt,0
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,4000 - 5000,5 und mehr mehr Personen,gesperrt,0
+2025,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,5000 und mehr,5 und mehr mehr Personen,,13.031364
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,Insgesamt,5 und mehr mehr Personen,,67.250655
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,unter 500,5 und mehr mehr Personen,gesperrt,0
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,500 - 1000,5 und mehr mehr Personen,gesperrt,0
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1000 - 1500,5 und mehr mehr Personen,gesperrt,0
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1500 - 2000,5 und mehr mehr Personen,gesperrt,0
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2000 - 2500,5 und mehr mehr Personen,statistisch unsicher,7.127865
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2500 - 3000,5 und mehr mehr Personen,statistisch unsicher,9.191008
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3000 - 3500,5 und mehr mehr Personen,statistisch unsicher,9.354371
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3500 - 4000,5 und mehr mehr Personen,statistisch unsicher,7.92315
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,4000 - 5000,5 und mehr mehr Personen,,12.783499
+2025,Alle Haushaltsmitglieder haben einen Migrationshintergrund,5000 und mehr,5 und mehr mehr Personen,,17.434779
+2024,Insgesamt,Insgesamt,5 und mehr mehr Personen,,153.938459
+2024,Insgesamt,unter 500,5 und mehr mehr Personen,gesperrt,0
+2024,Insgesamt,500 - 1000,5 und mehr mehr Personen,gesperrt,0
+2024,Insgesamt,1000 - 1500,5 und mehr mehr Personen,gesperrt,0
+2024,Insgesamt,1500 - 2000,5 und mehr mehr Personen,gesperrt,0
+2024,Insgesamt,2000 - 2500,5 und mehr mehr Personen,statistisch unsicher,8.527191
+2024,Insgesamt,2500 - 3000,5 und mehr mehr Personen,,11.101742
+2024,Insgesamt,3000 - 3500,5 und mehr mehr Personen,,16.149351
+2024,Insgesamt,3500 - 4000,5 und mehr mehr Personen,,15.621706
+2024,Insgesamt,4000 - 5000,5 und mehr mehr Personen,,27.754472
+2024,Insgesamt,5000 und mehr,5 und mehr mehr Personen,,69.014701
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,Insgesamt,5 und mehr mehr Personen,,69.808889
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,unter 500,5 und mehr mehr Personen,gesperrt,0
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,500 - 1000,5 und mehr mehr Personen,gesperrt,0
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,1000 - 1500,5 und mehr mehr Personen,gesperrt,0
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,1500 - 2000,5 und mehr mehr Personen,gesperrt,0
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,2000 - 2500,5 und mehr mehr Personen,gesperrt,0
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,2500 - 3000,5 und mehr mehr Personen,gesperrt,0
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,3000 - 3500,5 und mehr mehr Personen,statistisch unsicher,5.249478
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,3500 - 4000,5 und mehr mehr Personen,statistisch unsicher,6.133929
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,4000 - 5000,5 und mehr mehr Personen,,12.669084
+2024,Kein Haushaltsmitglied hat einen Migrationshintergrund,5000 und mehr,5 und mehr mehr Personen,,41.010456
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,Insgesamt,5 und mehr mehr Personen,,20.567465
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,unter 500,5 und mehr mehr Personen,gesperrt,0
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,500 - 1000,5 und mehr mehr Personen,gesperrt,0
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1000 - 1500,5 und mehr mehr Personen,gesperrt,0
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1500 - 2000,5 und mehr mehr Personen,gesperrt,0
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2000 - 2500,5 und mehr mehr Personen,gesperrt,0
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2500 - 3000,5 und mehr mehr Personen,gesperrt,0
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3000 - 3500,5 und mehr mehr Personen,gesperrt,0
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3500 - 4000,5 und mehr mehr Personen,gesperrt,0
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,4000 - 5000,5 und mehr mehr Personen,gesperrt,0
+2024,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,5000 und mehr,5 und mehr mehr Personen,,11.676859
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,Insgesamt,5 und mehr mehr Personen,,63.562105
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,unter 500,5 und mehr mehr Personen,gesperrt,0
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,500 - 1000,5 und mehr mehr Personen,gesperrt,0
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1000 - 1500,5 und mehr mehr Personen,gesperrt,0
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1500 - 2000,5 und mehr mehr Personen,gesperrt,0
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2000 - 2500,5 und mehr mehr Personen,statistisch unsicher,6.794585
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2500 - 3000,5 und mehr mehr Personen,statistisch unsicher,8.066773
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3000 - 3500,5 und mehr mehr Personen,statistisch unsicher,9.66769
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3500 - 4000,5 und mehr mehr Personen,statistisch unsicher,7.500134
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,4000 - 5000,5 und mehr mehr Personen,,11.066798
+2024,Alle Haushaltsmitglieder haben einen Migrationshintergrund,5000 und mehr,5 und mehr mehr Personen,,16.327386
+2023,Insgesamt,Insgesamt,5 und mehr mehr Personen,,156.68845
+2023,Insgesamt,unter 500,5 und mehr mehr Personen,gesperrt,0
+2023,Insgesamt,500 - 1000,5 und mehr mehr Personen,gesperrt,0
+2023,Insgesamt,1000 - 1500,5 und mehr mehr Personen,gesperrt,0
+2023,Insgesamt,1500 - 2000,5 und mehr mehr Personen,gesperrt,0
+2023,Insgesamt,2000 - 2500,5 und mehr mehr Personen,,11.415329
+2023,Insgesamt,2500 - 3000,5 und mehr mehr Personen,,13.567391
+2023,Insgesamt,3000 - 3500,5 und mehr mehr Personen,,14.444344
+2023,Insgesamt,3500 - 4000,5 und mehr mehr Personen,,16.669687
+2023,Insgesamt,4000 - 5000,5 und mehr mehr Personen,,28.860749
+2023,Insgesamt,5000 und mehr,5 und mehr mehr Personen,,66.621965
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,Insgesamt,5 und mehr mehr Personen,,75.704498
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,unter 500,5 und mehr mehr Personen,gesperrt,0
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,500 - 1000,5 und mehr mehr Personen,gesperrt,0
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,1000 - 1500,5 und mehr mehr Personen,gesperrt,0
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,1500 - 2000,5 und mehr mehr Personen,gesperrt,0
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,2000 - 2500,5 und mehr mehr Personen,gesperrt,0
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,2500 - 3000,5 und mehr mehr Personen,gesperrt,0
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,3000 - 3500,5 und mehr mehr Personen,gesperrt,0
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,3500 - 4000,5 und mehr mehr Personen,statistisch unsicher,7.033967
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,4000 - 5000,5 und mehr mehr Personen,,14.76262
+2023,Kein Haushaltsmitglied hat einen Migrationshintergrund,5000 und mehr,5 und mehr mehr Personen,,42.938262
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,Insgesamt,5 und mehr mehr Personen,,17.17878
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,unter 500,5 und mehr mehr Personen,gesperrt,0
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,500 - 1000,5 und mehr mehr Personen,gesperrt,0
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1000 - 1500,5 und mehr mehr Personen,gesperrt,0
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1500 - 2000,5 und mehr mehr Personen,gesperrt,0
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2000 - 2500,5 und mehr mehr Personen,gesperrt,0
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2500 - 3000,5 und mehr mehr Personen,gesperrt,0
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3000 - 3500,5 und mehr mehr Personen,gesperrt,0
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3500 - 4000,5 und mehr mehr Personen,gesperrt,0
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,4000 - 5000,5 und mehr mehr Personen,gesperrt,0
+2023,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,5000 und mehr,5 und mehr mehr Personen,statistisch unsicher,7.849016
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,Insgesamt,5 und mehr mehr Personen,,63.805172
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,unter 500,5 und mehr mehr Personen,gesperrt,0
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,500 - 1000,5 und mehr mehr Personen,gesperrt,0
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1000 - 1500,5 und mehr mehr Personen,gesperrt,0
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1500 - 2000,5 und mehr mehr Personen,gesperrt,0
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2000 - 2500,5 und mehr mehr Personen,statistisch unsicher,8.37742
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2500 - 3000,5 und mehr mehr Personen,statistisch unsicher,9.313782
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3000 - 3500,5 und mehr mehr Personen,statistisch unsicher,8.581872
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3500 - 4000,5 und mehr mehr Personen,statistisch unsicher,7.876977
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,4000 - 5000,5 und mehr mehr Personen,,10.135806
+2023,Alle Haushaltsmitglieder haben einen Migrationshintergrund,5000 und mehr,5 und mehr mehr Personen,,15.834687
+2022,Insgesamt,Insgesamt,5 und mehr mehr Personen,,155.693031
+2022,Insgesamt,unter 500,5 und mehr mehr Personen,gesperrt,0
+2022,Insgesamt,500 - 1000,5 und mehr mehr Personen,gesperrt,0
+2022,Insgesamt,1000 - 1500,5 und mehr mehr Personen,gesperrt,0
+2022,Insgesamt,1500 - 2000,5 und mehr mehr Personen,statistisch unsicher,6.811705
+2022,Insgesamt,2000 - 2500,5 und mehr mehr Personen,statistisch unsicher,9.973314
+2022,Insgesamt,2500 - 3000,5 und mehr mehr Personen,,15.172311
+2022,Insgesamt,3000 - 3500,5 und mehr mehr Personen,,16.408036
+2022,Insgesamt,3500 - 4000,5 und mehr mehr Personen,,15.980132
+2022,Insgesamt,4000 - 5000,5 und mehr mehr Personen,,26.685797
+2022,Insgesamt,5000 und mehr,5 und mehr mehr Personen,,61.755451
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,Insgesamt,5 und mehr mehr Personen,,74.933841
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,unter 500,5 und mehr mehr Personen,gesperrt,0
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,500 - 1000,5 und mehr mehr Personen,gesperrt,0
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,1000 - 1500,5 und mehr mehr Personen,gesperrt,0
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,1500 - 2000,5 und mehr mehr Personen,gesperrt,0
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,2000 - 2500,5 und mehr mehr Personen,gesperrt,0
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,2500 - 3000,5 und mehr mehr Personen,gesperrt,0
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,3000 - 3500,5 und mehr mehr Personen,statistisch unsicher,7.315778
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,3500 - 4000,5 und mehr mehr Personen,statistisch unsicher,6.732265
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,4000 - 5000,5 und mehr mehr Personen,,13.874645
+2022,Kein Haushaltsmitglied hat einen Migrationshintergrund,5000 und mehr,5 und mehr mehr Personen,,39.41216
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,Insgesamt,5 und mehr mehr Personen,,17.625262
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,unter 500,5 und mehr mehr Personen,gesperrt,0
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,500 - 1000,5 und mehr mehr Personen,gesperrt,0
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1000 - 1500,5 und mehr mehr Personen,gesperrt,0
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1500 - 2000,5 und mehr mehr Personen,gesperrt,0
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2000 - 2500,5 und mehr mehr Personen,gesperrt,0
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2500 - 3000,5 und mehr mehr Personen,gesperrt,0
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3000 - 3500,5 und mehr mehr Personen,gesperrt,0
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3500 - 4000,5 und mehr mehr Personen,gesperrt,0
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,4000 - 5000,5 und mehr mehr Personen,gesperrt,0
+2022,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,5000 und mehr,5 und mehr mehr Personen,statistisch unsicher,8.903002
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,Insgesamt,5 und mehr mehr Personen,,63.133928
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,unter 500,5 und mehr mehr Personen,gesperrt,0
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,500 - 1000,5 und mehr mehr Personen,gesperrt,0
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1000 - 1500,5 und mehr mehr Personen,gesperrt,0
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1500 - 2000,5 und mehr mehr Personen,statistisch unsicher,5.897309
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2000 - 2500,5 und mehr mehr Personen,statistisch unsicher,7.068641
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2500 - 3000,5 und mehr mehr Personen,statistisch unsicher,9.820736
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3000 - 3500,5 und mehr mehr Personen,statistisch unsicher,7.742445
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3500 - 4000,5 und mehr mehr Personen,statistisch unsicher,7.219181
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,4000 - 5000,5 und mehr mehr Personen,statistisch unsicher,9.795247
+2022,Alle Haushaltsmitglieder haben einen Migrationshintergrund,5000 und mehr,5 und mehr mehr Personen,,13.440289
+2021,Insgesamt,Insgesamt,5 und mehr mehr Personen,,144.326627
+2021,Insgesamt,unter 500,5 und mehr mehr Personen,gesperrt,0
+2021,Insgesamt,500 - 1000,5 und mehr mehr Personen,gesperrt,0
+2021,Insgesamt,1000 - 1500,5 und mehr mehr Personen,gesperrt,0
+2021,Insgesamt,1500 - 2000,5 und mehr mehr Personen,statistisch unsicher,8.528278
+2021,Insgesamt,2000 - 2500,5 und mehr mehr Personen,,10.671814
+2021,Insgesamt,2500 - 3000,5 und mehr mehr Personen,,13.448225
+2021,Insgesamt,3000 - 3500,5 und mehr mehr Personen,,16.182854
+2021,Insgesamt,3500 - 4000,5 und mehr mehr Personen,,15.881047
+2021,Insgesamt,4000 - 5000,5 und mehr mehr Personen,,27.59916
+2021,Insgesamt,5000 und mehr,5 und mehr mehr Personen,,49.329232
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,Insgesamt,5 und mehr mehr Personen,,70.237614
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,unter 500,5 und mehr mehr Personen,gesperrt,0
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,500 - 1000,5 und mehr mehr Personen,gesperrt,0
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,1000 - 1500,5 und mehr mehr Personen,gesperrt,0
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,1500 - 2000,5 und mehr mehr Personen,gesperrt,0
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,2000 - 2500,5 und mehr mehr Personen,gesperrt,0
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,2500 - 3000,5 und mehr mehr Personen,gesperrt,0
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,3000 - 3500,5 und mehr mehr Personen,statistisch unsicher,6.105406
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,3500 - 4000,5 und mehr mehr Personen,statistisch unsicher,8.546833
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,4000 - 5000,5 und mehr mehr Personen,,15.06254
+2021,Kein Haushaltsmitglied hat einen Migrationshintergrund,5000 und mehr,5 und mehr mehr Personen,,31.907641
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,Insgesamt,5 und mehr mehr Personen,,16.11199
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,unter 500,5 und mehr mehr Personen,gesperrt,0
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,500 - 1000,5 und mehr mehr Personen,gesperrt,0
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1000 - 1500,5 und mehr mehr Personen,gesperrt,0
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,1500 - 2000,5 und mehr mehr Personen,gesperrt,0
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2000 - 2500,5 und mehr mehr Personen,gesperrt,0
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,2500 - 3000,5 und mehr mehr Personen,gesperrt,0
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3000 - 3500,5 und mehr mehr Personen,gesperrt,0
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,3500 - 4000,5 und mehr mehr Personen,gesperrt,0
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,4000 - 5000,5 und mehr mehr Personen,gesperrt,0
+2021,Ein Teil der Haushaltsmitglieder hat einen Migraitonshintergrund,5000 und mehr,5 und mehr mehr Personen,statistisch unsicher,6.579512
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,Insgesamt,5 und mehr mehr Personen,,57.977023
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,unter 500,5 und mehr mehr Personen,gesperrt,0
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,500 - 1000,5 und mehr mehr Personen,gesperrt,0
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1000 - 1500,5 und mehr mehr Personen,gesperrt,0
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,1500 - 2000,5 und mehr mehr Personen,statistisch unsicher,7.020902
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2000 - 2500,5 und mehr mehr Personen,statistisch unsicher,7.05026
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,2500 - 3000,5 und mehr mehr Personen,statistisch unsicher,7.894116
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3000 - 3500,5 und mehr mehr Personen,statistisch unsicher,7.705155
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,3500 - 4000,5 und mehr mehr Personen,statistisch unsicher,5.936855
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,4000 - 5000,5 und mehr mehr Personen,statistisch unsicher,9.586089
+2021,Alle Haushaltsmitglieder haben einen Migrationshintergrund,5000 und mehr,5 und mehr mehr Personen,,10.842079
