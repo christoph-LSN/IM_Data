@@ -1,4 +1,4 @@
 From,To
-Migrationsstatus,Altersgruppe
-Altersgruppe,Bildungsstand
-Bildungsstand,Geschlecht
+Migrationsstatus,Bildungsstand
+Bildungsstand,Altersgruppe
+Altersgruppe,Geschlecht
